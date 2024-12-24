@@ -1,0 +1,39 @@
+# Hugo build output
+/public/
+/resources/
+/assets/js/bundles/
+/assets/css/bundles/
+
+# Hugo temporary files
+/.hugo_build.lock
+/hugo_stats.json
+
+# IDE and editor config files
+.idea/
+/.vscode/
+*.swp
+*~
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs and temporary files
+/logs/
+/*.log
+
+# Node.js dependencies (if used for custom scripts)
+node_modules/
+package-lock.json
+yarn.lock
+
+# Generated files
+*.bak
+*.tmp
+
+# User uploads or sensitive data (adjust as needed)
+/uploads/
+/private/
+
+# Optional: Exclude specific content
+/content/drafts/
