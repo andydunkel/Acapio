@@ -37,6 +37,11 @@ home = ["HTML", "RSS", "JSON"]
   weight = -100
 
 [[menus.main]]
+  name = "Über"
+  url = "/about/"
+  weight = -90
+
+[[menus.main]]
   name = "Datenschutz"
   url = "/datenschutz/"
   weight = -80
