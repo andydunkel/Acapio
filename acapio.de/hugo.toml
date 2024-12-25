@@ -15,11 +15,13 @@ enableSearch = true
 twitter = "@PrangerInfo"
 numberOfTagsShown = 14
 logo = "logo.webp"
+iconsDir = "icons/"
 mainSections = ["posts"]
+section = "posts"
 usePageBundles = false
 description = 'Datenschutz, Datensicherheit, Schutz vor Scam, Phishing mit einer Prise Humor'
 keywords = ["security", "spam protection", "datensicherheit", "phishing", "scam"] # Set your site's meta tag (SEO) keywords here. Alternatively set these in your home page content file e.g. content/_index.md. Whatever is set in the latter will take precedence.
-
+enforceLightMode = true
 
 [outputs]
 home = ["HTML", "RSS", "JSON"]
