@@ -110,3 +110,52 @@ Dann machen wir mal weiter und schreiben zurück. Bei den persönlichen Daten ge
 
 Und warten mal ab, wie es weiter geht.
 
+## Es geht zum Bankberater und ein Totenschein
+
+Wir bekommen erneut eine längliche Antwort. Wir sollen uns nun an den Bankberater wenden, mit extra E-Mail-Adresse. Um alles glaubwürdiger zu gestalten, gibt es sogar einen Totenschein.
+
+> Hallo, mein lieber Begünstigter
+> 
+> Ich schätze Ihre Antwort in dieser Angelegenheit sehr und möchte, dass Sie wissen, dass ich meine Hoffnung und mein Vertrauen in Sie und den allmächtigen Allah im Himmel gesetzt habe. Lassen Sie mich am Ende bitte nicht im Stich, denn ich werde in ein paar Monaten sterben.
+> 
+> Ich habe Ihre Daten bereits an die Deutsche Bank of Turkey weitergeleitet, wo die Mittel in Höhe von 10.850.000,00 € (zehn Millionen achthundertfünfzigtausend Euro) hinterlegt wurden. Nachfolgend finden Sie die Kontaktinformationen der Bank. Bitte wenden Sie sich für die Überweisung des Geldes an Sie als neuen Begünstigten an die kontaktierte Bank. Laut Angaben der Bank werde ich Sie bitten, sie persönlich mit dem Einzahlungsschein über die unten stehende E-Mail-Adresse zu kontaktieren, damit sie Sie als neuen Begünstigten genau kennen, um die Transaktion mit Ihnen fortzusetzen und Ihnen das Geld so schnell wie möglich zu überweisen. Kontaktieren Sie sie über die unten stehende E-Mail-Adresse und teilen Sie ihnen mit, dass Sie mein benannter Begünstigter sind und dass Sie das Geld ausgezahlt haben möchten.
+> 
+> Beachten Sie auch, dass dieser E-Mail ein Dokument beigefügt ist. Es handelt sich um den Einzahlungsbeleg. Der Beleg wurde meinem verstorbenen Mann am Tag der Einzahlung des Geldes ausgehändigt und die Bank hat mich angewiesen, ihn Ihnen zuzusenden, damit Sie ihn ihnen schicken können, wenn Sie sie über die untenstehende E-Mail kontaktieren. Sie müssen also diese Bescheinigung zusammen mit Ihrer E-Mail senden, wenn Sie die Bank kontaktieren.
+> 
+> Kontaktdaten.
+> 
+> Herr Ahmed Shehab
+> 
+> info@dbsonline-tr.com
+> 
+> Sie müssen die oben genannte Bank-E-Mail kontaktieren und ihnen sagen, dass Sie mein benannter Begünstigter sind und dass sie Ihnen das Geld so schnell wie möglich überweisen sollen. Die Bank hat mir eine E-Mail geschickt und Ihnen geraten, ihre Büro-E-Mail zu kontaktieren, damit sie Ihnen Anweisungen geben können, wie Sie sofort mit dem Begünstigtenaustausch zwischen uns fortfahren, damit das Geld an Sie überwiesen werden kann.
+> 
+> Was nützt es mir in diesem Zustand, in dem ich mich jetzt befinde, die ganze Welt zu gewinnen und meine Seele an den Teufel zu verlieren, absolut nichts. Ich habe mich also entschieden und geschworen, diese Mittel den weniger Privilegierten zu geben. Ich brauche also Ihre Unterstützung, um diesen Traum zu verwirklichen, denn Allah wird mit mir sehr zufrieden sein, selbst wenn ich sterbe, wenn ich dieses Gute tue, um das Leben anderer zu verbessern.
+> 
+> Ich habe dieser E-Mail eine gescannte Kopie des Original-Einzahlungsbelegs beigefügt. Bitte stellen Sie sicher, dass Sie sich mit dem Einzahlungsbeleg an die Deutsche Bank of Turkey wenden, da ich angewiesen wurde, Sie darüber zu informieren.
+
+![Der Totenschein des armen Erdbebenopfers](death_certificate.webp)
+
+### Unsere Antwort
+
+Wir schreiben natürlich zurück.
+
+> Sehr geehrte Frau feyza Ybrahim ,
+> 
+> vielen Dank für Ihr Vertrauen. Ich werde mich umgehend mit Herrn Ahmed Shehab in Verbindung setzen und die erforderlichen Schritte einleiten.
+> 
+> Für Ihr großzügiges Angebot bedanke ich mich herzlich und werde alles tun, um Ihre Wünsche zu erfüllen.
+> 
+> Mit vorzüglicher Hochachtung und den besten Wünschen für Ihre Gesundheit
+
+Und natürlich schreiben wir auch dem Bankberater.
+
+> Sehr geehrter Herr Shehab,  
+> 
+> ich hoffe, diese Nachricht erreicht Sie wohlbehalten. Es ist mir eine außerordentliche Ehre, mit Ihnen in dieser wichtigen Angelegenheit zusammenzuarbeiten. Die Möglichkeit, als Begünstigter eines so großzügigen Betrags in Höhe von 10.850.000,00 € eingetragen zu werden, erfüllt mich mit tiefer Dankbarkeit und Freude.  
+> 
+> Ich habe den Einzahlungsbeleg sorgfältig geprüft und füge ihn dieser Nachricht bei, wie es mir von Frau feyza Ybrahim ans Herz gelegt wurde. Selbstverständlich stehe ich Ihnen für alle weiteren Schritte vollumfänglich zur Verfügung und bin bereit, jeden Wunsch Ihrerseits zu erfüllen, um die Transaktion reibungslos und in Ihrem Sinne abzuwickeln.  
+> 
+> Ich danke Ihnen im Voraus für Ihre professionelle Unterstützung und Expertise in dieser Angelegenheit. Mit Ihrem Wissen und Ihrer Hilfe bin ich zuversichtlich, dass wir dies erfolgreich und schnell zum Abschluss bringen können.  
+> 
+> Mit den besten Grüßen und größter Hochachtung
