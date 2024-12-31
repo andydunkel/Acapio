@@ -159,3 +159,57 @@ Und natürlich schreiben wir auch dem Bankberater.
 > Ich danke Ihnen im Voraus für Ihre professionelle Unterstützung und Expertise in dieser Angelegenheit. Mit Ihrem Wissen und Ihrer Hilfe bin ich zuversichtlich, dass wir dies erfolgreich und schnell zum Abschluss bringen können.  
 > 
 > Mit den besten Grüßen und größter Hochachtung
+
+
+## Wir brauchen einen Anwalt
+
+Kurze E-Mails gibt es nicht bei den Scammern, die "Deutsche Bank" schreibt zurück. Die Gelder liegen bereit. Das ist ja schonmal die halbe Miete. Aber wir brauchen jetzt noch Dokumente und einen Anwalt, in der Türkei. Aber kein Thema, die Frau Ýbrahim wird sich darum kümmern. Türkische Gebührenordnung ick hör dir trapsen. Egal, wir schreiben zurück and Frau Ýbrahim, die sicher, trotz Krankenhaus und im Sterben liegend sich um diese Angelegenheit noch kümmern wird.
+
+
+> Deutsche Bank Türkiye
+> Esentepe Mah. Büyükdere Cad.,
+> Ferko Signature No. 175, D:149,
+> 34394 Şişli/İstanbul, Türkiye
+> E-Mail: info@dbsonline-tr.com
+> 
+> Vom Schreibtisch von Herrn Ahmed Shehab.
+> 
+> Sehr geehrte Kundin XXX,
+> 
+> Wir wurden vom Direktor für Auslandsgeschäfte/elektronische Überweisungen kontaktiert, um Ihnen bezüglich der 10.850.000,00 Euro zu schreiben, die der verstorbene Herr Yusuf Ýbrahim hier bei unserer Bank hinterlegt hat. Wir möchten Sie darüber informieren, dass die Mittel Ihnen als ihrem neuen Begünstigten zugeteilt wurden und ab sofort zur Überweisung bereitstehen, da uns Frau Feyza Olcay Ýbrahim den Auftrag erteilt hat, die Überweisung auf Ihr Bankkonto so schnell wie möglich vorzunehmen.
+> 
+> Doch bevor dieser Betrag von dieser Bank überwiesen wird, möchten wir Sie darüber informieren, dass für diese Bank bestimmte Regeln und Vorschriften gelten und wir das ordnungsgemäße Verfahren einhalten müssen, um sicherzustellen, dass während der gesamten Transaktion mit Ihnen keine Fehler passieren.
+> 
+> Bevor wir mit der Überweisung des Betrags an Sie als neuen Begünstigten beginnen, benötigen wir von Ihnen als neuem Begünstigten bestimmte Dokumente, um diesen Betrag zu belegen, bevor die Überweisung auf Ihr Bankkonto erfolgt.
+> 
+> Diese erforderlichen Dokumente müssen in Ihrem Namen von einem Anwalt hier in der Türkei vorbereitet werden. Dabei handelt es sich um folgende Dokumente: eidesstattliche Erklärung, Begünstigtenbescheinigung, Eidesbeweis. Nachdem diese Dokumente von einem Anwalt hier in der Türkei erstellt wurden, sollte der Anwalt die drei Dokumente Frau Feyza Olcay Ýbrahim zur Ansicht vorlegen und sie als Begünstigte einsehen und unterschreiben. Nachdem sie sie unterschrieben hat, wird Ihnen empfohlen, sie ebenfalls zu unterschreiben. Anschließend sollte der Anwalt die Dokumente zu unserer Bank bringen, damit wir sie einsehen und unterschreiben können. Nachdem wir die Dokumente unterschrieben haben, beginnt die Überweisung auf Ihr Bankkonto als neuer Begünstigter der eingezahlten Gelder.
+> 
+> Wenn wir diese Dokumente erhalten, werden wir sie unterschreiben und die nächste Angehörige, Frau Feyza Olcay Ýbrahim, wird ebenfalls einen Teil der Dokumente unterschreiben, um zu beweisen, dass sie Ihnen als ihrem neuen Begünstigten die Gelder übergeben hat, bevor wir mit der Überweisung der Gelder auf Ihr angegebenes Bankkonto fortfahren.
+> 
+> Hinweis: Diese Dokumente werden von Ihnen persönlich als dem neuen Begünstigten dieser Gelder hier in unserer Bank verlangt, nicht von Frau Feyza Olcay Ýbrahim. Sie sind die Person, die die Verantwortung dafür trägt, dass die Dokumente von einem Anwalt hier in der Türkei vorbereitet werden. Außerdem wird Ihnen empfohlen, nach der Vorbereitung der Dokumente einen Teil der Dokumente zu unterzeichnen und sie uns dann an unsere E-Mail-Adresse zu senden.
+> 
+> Nachfolgend finden Sie die Kontaktdaten von Frau Feyza Olcay Ýbrahim, die Sie vermutlich bereits haben.
+> 
+> Frau Feyza Olcay Ýbrahim
+> 
+> feyza@ybrahim.com
+> 
+> Sie müssen Frau Feyza Olcay Ýbrahim kontaktieren, damit sie Ihnen hier in der Türkei einen Anwalt beschafft, der diese Dokumente so schnell wie möglich in Ihrem Namen vorbereitet. Stellen Sie sicher, dass Sie sie in Ihren nächsten E-Mails kontaktieren, damit sie in Ihrem Namen einen Anwalt finden kann, der die Vorbereitung der Dokumente übernimmt.
+> 
+> Sie können uns vertrauen. Das Beste im Bankensystem zu bieten, ist unsere Priorität. 
+> Vielen Dank für Ihre gewohnte Geschäftsbeziehung.
+
+### Antwort
+
+Unsere Antwort, wir sind unsicher und fragen nach weiteren Schritten. CC geht natürlich noch an die Bank.
+
+> Sehr geehrte Frau Ýbrahim,  
+> 
+> ich habe die untenstehende Antwort von der Deutschen Bank Türkiye erhalten. Leider bin ich mir nicht sicher, wie ich jetzt am besten vorgehen soll.  
+> 
+> Ich bitte Sie daher um Unterstützung bei den nächsten Schritten oder um eine Rückmeldung, ob weitere Maßnahmen meinerseits erforderlich sind. Insbesondere ist mir unklar, wie genau die erforderlichen Dokumente organisiert und vorbereitet werden sollen.  
+> 
+> Für Ihre Rückmeldung bedanke ich mich im Voraus.  
+> 
+> Mit freundlichen Grüßen  
+
