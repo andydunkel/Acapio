@@ -68,21 +68,21 @@ Hier werden wir auf die doch längliche komplette E-Mail verzichten, aber ein Au
 
 Zur Überzeugung werden Fotos der Dame mitgeschickt.
 
-![Stockfotos der kranken Dame](stock_1.webp)
+![Stockfotos der kranken Dame](/posts/2024-12-25_turkish_sick_woman/stock_1.webp)
 
 Die Bildersuche in Google fördert den [eigentlichen Ursprung zu Tage](https://de.freepik.com/fotos-premium/portraet-eines-kranken-patienten-der-im-krankenbett-liegt-und-in-die-kamera-schaut-aeltere-frau-mit-nasensauerstoffschlauch-und-iv-tropfbeutel-die-ruhen-um-die-diagnose-fuer-das-gesundheitswesen-und-die-genesung-zu-heilen_20982642.htm). Interessanterweise sind die gesendeten Fotos ohne Wasserzeichen, haben die Scammer einen Premium-Account beim Bilderdienst?
 
-![Stockfoto Ursprung](stock_2.webp)
+![Stockfoto Ursprung](/posts/2024-12-25_turkish_sick_woman/stock_2.webp)
 
 ### Dokumente
 
 Die die Echtheit zu unterstreichen gibt es noch Dokumente. Dazu gehören eine Ausweiskopie. Die sieht auf den ersten Blick ganz ok aus, aber die Fotos sehen bei geneuer Betrachtung doch recht gephotoshoppt aus. Dazu gibt es noch ein Zertifikat.
 
-![Ausweiskopie und Zertifikat](docs_1.webp)
+![Ausweiskopie und Zertifikat](/posts/2024-12-25_turkish_sick_woman/docs_1.webp)
 
 Da wir uns vorsichtig äußern, gibt es noch zwei Dokumente. Einmal eine Bestätigung der Deutschen Bank, mit Tippfehler, dazu auch gleich ein Vetrag zur Unterzeichnung für unsere Unterlagen.
 
-![Vertrag und Bestätigung der Bank](docs_2.webp)
+![Vertrag und Bestätigung der Bank](/posts/2024-12-25_turkish_sick_woman/docs_2.webp)
 
 Der "Vertrag" is dann auch das erste Dokument, was für uns angepasst wurde. Es enhält unseren Namen. Hier hat man wohl Vorlagen in der Hinterhand.
 
@@ -134,7 +134,7 @@ Wir bekommen erneut eine längliche Antwort. Wir sollen uns nun an den Bankberat
 > 
 > Ich habe dieser E-Mail eine gescannte Kopie des Original-Einzahlungsbelegs beigefügt. Bitte stellen Sie sicher, dass Sie sich mit dem Einzahlungsbeleg an die Deutsche Bank of Turkey wenden, da ich angewiesen wurde, Sie darüber zu informieren.
 
-![Der Totenschein des armen Erdbebenopfers](death_certificate.webp)
+![Der Totenschein des armen Erdbebenopfers](/posts/2024-12-25_turkish_sick_woman/death_certificate.webp)
 
 ### Unsere Antwort
 
@@ -212,4 +212,76 @@ Unsere Antwort, wir sind unsicher und fragen nach weiteren Schritten. CC geht na
 > Für Ihre Rückmeldung bedanke ich mich im Voraus.  
 > 
 > Mit freundlichen Grüßen  
+
+
+## Jetzt geht es zum Rechtsanwalt
+
+Es bleibt länglich. Aber gut, es geht ja immerhin im Millionen. Die gute Nachricht, man hat direkt einen Anwalt zur Hand, "Barrister Ahmet Kuran" wird uns helfen. Wir bekommen eine E-Mail-Adresse.
+
+> Hallo, mein lieber Freund
+> 
+> Danke für Ihre Hilfe bei der Erfüllung meines Wunsches und ich bete, dass Allah Sie und Ihre Familie im Namen des allmächtigen Allah vor jedem bösen Angriff beschützt. Ich weiß, dass Sie nicht an dem Geld interessiert sind, sondern nur versuchen, dieses Projekt für wohltätige Zwecke abzuwickeln, also setzen Sie sich bitte mit ganzem Herzen dafür ein, es sollte diesbezüglich keine Gier oder Zweifel geben, denn ich weiß, dass Sie der Allah sind, den der allmächtige Allah zu mir geschickt hat, um dieses Projekt für mich abzuwickeln, und ich möchte, dass die Mittel in gutem Glauben an Sie überwiesen werden, und ich habe Vorkehrungen für einen Anwalt getroffen, dem ich vertrauen kann und der dies für Sie und mich, sogar in Ihrem Namen, tun kann, und ich werde unterschreiben und den Anwalt anweisen, Ihnen die Dokumente per E-Mail zu senden, damit Sie sie ebenfalls unterschreiben können, und wenn sie von uns ordnungsgemäß unterschrieben sind, wird der Anwalt sie zur Bestätigung zur Bank bringen.
+> 
+> Ich habe einen Anwalt kontaktiert. Sein Name ist Barrister Ahmet Kuran. Er ist hier in der Türkei und hat einen guten Ruf. Ich habe viel über ihn gehört, also habe ich ihm alles über die Transaktion mit Ihnen und die Dokumente erzählt, die die Bank braucht, bevor sie mit der Überweisung des Geldes an Sie als meinen Begünstigten fortfahren kann.
+> 
+> Ich freue mich, Ihnen mitteilen zu können, dass Barrister Ahmet Kuran bereit ist, die Dokumente vorzubereiten. Er sagte, er wisse alles und wisse, was in Bezug auf die Dokumente zu tun sei, die die Bank braucht. Er hat mir seine E-Mail-Adresse und Kontaktdaten gegeben, damit Sie ihn umgehend kontaktieren können. Er wird Sie so schnell wie möglich darüber informieren, wie die Dokumente bearbeitet werden, denn ich bin im Moment so krank und mein Zustand verschlechtert sich von Tag zu Tag. Meine oberste Priorität ist jedoch, sicherzustellen, dass dieses Geld ohne große Verzögerung vollständig an Sie überwiesen wird, damit meine Seele auch nach meinem Tod Frieden findet.
+> 
+> Bitte kontaktieren Sie den Rechtsanwalt mit den unten stehenden Angaben und teilen Sie ihm mit, dass Sie mein Begünstigter sind. Lassen Sie ihn auch wissen, dass er die genannten Dokumente in Ihrem Namen vorbereiten soll, wie von den Bankbehörden verlangt, bevor die Überweisung durchgeführt wird.
+> 
+> Hier sind die Angaben zum Rechtsanwalt.
+> 
+> Name des Rechtsanwalts: Rechtsanwalt Ahmet KURAN
+> Name der Anwaltskanzlei: Anwaltskanzlei Kuran Law & Consulting
+> 
+> attyahmetkuran@gmail.com
+> 
+> Sie müssen jetzt nur noch eine E-Mail an die oben stehende E-Mail-Adresse senden und ihm mitteilen, welche Dokumente er für die Bank vorbereiten muss, bevor die genehmigten Mittel an Sie überwiesen werden.
+> 
+> Bitte halten Sie mich nach Ihrer Nachricht an den Anwalt auf dem Laufenden und lassen Sie mich wissen, was er gesagt hat, damit ich über alles informiert bin und weiß, wie die Sache weitergeht, denn ich muss diese Gelder so schnell wie möglich überweisen, denn das ist jetzt meine oberste Priorität, das Leben anderer Menschen zu retten und denen Leben zu geben, die den Glauben und die Hoffnung im Leben verloren haben, und ich weiß, dass Allah der Allmächtige mich an einen besseren Ort bringen wird, wenn ich diese Welt voller Kummer verlasse, nachdem ich dies getan habe.
+> 
+> Der Anwalt, von dem ich spreche, hat bereits Kontakt mit der Bank aufgenommen und eine Antwort von der Bank erhalten. Die Bank hat ihm bereits mitgeteilt, welche Art von Dokument sie wollen und wie es aussehen soll. Der Anwalt sagte, er könne das Dokument erstellen, und die Bank hat ihn damit einverstanden erklärt, weil er ein guter Anwalt hier in Istanbul, Türkei, ist und er die Person ist, die ich für die Dokumentenvorbereitung haben möchte, weil ich ihm vertraue.
+> 
+> Danke und Allah segne Sie.
+
+### Wir schreiben dem Anwalt
+
+Wir schreiben also eine E-Mail an den Anwalt, die Details überlassen wir der Gegenseite, die werden schon wissen, was für Dokumente wir so brauchen und ob dafür Gebühren anfallen. 🤗
+
+> Hallo Herr Kuran,  
+> 
+> ich hoffe, diese Nachricht erreicht Sie. Frau Ýbrahim hat mich an Sie verwiesen und mir mitgeteilt, dass Sie als vertrauenswürdiger Anwalt hier in der Türkei mit der Vorbereitung der Dokumente für die Bank betraut werden sollen.  
+> 
+> Ich bin jedoch unsicher, wie wir jetzt am besten weiter vorgehen sollen. Könnten Sie mir bitte mitteilen, welche Informationen oder Unterlagen Sie von mir benötigen und wie der weitere Ablauf aussehen wird?  
+> 
+> Vielen Dank im Voraus für Ihre Unterstützung. Ich freue mich auf Ihre Rückmeldung.  
+> 
+> Mit freundlichen Grüßen  
+
+## Antwort vom Anwalt, endlich reden wir von Geld
+
+Die Leute haben reguläre Arbeitszeiten oder begehen nicht den Fehler am Feiertag zu antworten. Zum ersten Arbeitstag in 2025 bekommen wir eine Antwort. Endlich geht es ums Geld. Schlappe 1620 Euro kostet der Vorgang. 
+
+Ein kleiner Betrag für die Aussicht auf 10 Millionen. Bezahlt werden kann mit Bankkonto oder Bitcoin.
+
+> Hallo liebe XXX,
+> 
+> Ich bin Rechtsanwalt Ahmet KURAN aus der Türkei. Es ist eine große Ehre, mit Frau Feyza Olcay Ýbrahim Geschäfte zu machen, und da Sie mit ihr in Verbindung stehen, nehme ich an, dass Sie ein sehr bescheidener und ehrlicher Mensch sind, und dafür lobe ich Sie.
+> 
+> Ich bin bereit, die von der Bank geforderten Dokumente vorzubereiten, und ich habe Frau Feyza Olcay Ýbrahim eine Nachricht geschickt, und sie hat mir bereits Ihre Daten einschließlich Ihrer Telefonnummer und aller Ihrer persönlichen Daten geschickt, die für die Vorbereitung dieser Dokumente benötigt werden, und ich bin sicher, dass Sie vertrauenswürdig sind, denn ich werde Sie und Frau Feyza Olcay Ýbrahim als Ihr persönlicher Anwalt hier in der Türkei vertreten, bis die Gelder an Sie überwiesen wurden, um jegliche Hindernisse bei der Transaktion zu vermeiden.
+> 
+> Ich bin bereits dabei, die Erstellung der Dokumente in meiner Anwaltskanzlei vorzubereiten, und habe die Bank telefonisch kontaktiert. Der Bankmanager hat mir erklärt, welche Art von Dokumenten sie benötigen und wie sie aussehen sollen, sodass es keine Probleme mit den Dokumenten gibt. Sobald Sie die Anforderungen für die Erstellung der Dokumente erfüllen, wird alles erledigt.
+> 
+> Bevor ich mit der Erstellung dieses Dokuments hier in meiner Anwaltskanzlei beginnen kann, müssen Sie für die Erstellung der Dokumente bezahlen. Es gibt drei Arten von Dokumenten: eidesstattliche Erklärung, Begünstigtenbescheinigung und Eidesbeweis.
+> 
+> Dieses Dokument wird in kürzester Zeit erstellt, kostet Sie aber nur den Betrag von (1.620 Euro). Wir raten Ihnen, diese Zahlung so schnell wie möglich an meine Kanzlei zu senden, damit mit der Vorbereitung dieser Dokumente begonnen werden kann. Nachdem die Dokumente vorbereitet sind, werde ich sie zur Bank bringen, damit Frau Feyza Olcay Ýbrahim einen Teil des Dokuments unterzeichnen kann. Als Rechtsanwalt werde ich diese Transaktion ebenfalls als Zeuge bezeugen und in Ihrem Namen auftreten, bis die Mittel vollständig an Sie überwiesen wurden.
+> 
+> Hinweis: Hier in meiner Anwaltskanzlei gibt es Regeln, die wir befolgen, weil wir nichts wollen, was den guten Ruf dieser Kanzlei schädigen könnte. Nachdem die Zahlung (1.620 Euro) erfolgt ist und die Mittel nicht an Sie überwiesen werden konnten, werden wir Ihnen Ihr Geld umgehend auf Ihr Bankkonto zurückerstatten.
+> 
+> Sie sind für die Bearbeitungsgebühr des Dokuments verantwortlich, nicht Frau Feyza Olcay Ýbrahim. Daher benötige ich Ihre Bestätigung bezüglich dieser E-Mail. Anschließend werde ich Ihnen die Kontorichtlinien zusenden, damit Sie die Zahlung so schnell wie möglich vornehmen können.
+> 
+> Hinweis: Die Zahlung der Dokumentenbearbeitungsgebühr kann per Banküberweisung oder Bitcoin erfolgen. Wählen Sie eine der Zahlungsmethoden aus und melden Sie sich zurück, um die Ihnen zugesandten Kontoanweisungen zu aktivieren.
+> 
+> Sobald Ihre Zahlung bestätigt ist, werden alle drei Dokumente in Ihrem Namen bearbeitet und innerhalb von 24 Stunden wird der Erbschaftsfonds in Höhe von 10.850.000,00 Euro von der Deutschen Bank Türkiye auf Ihr Bankkonto überwiesen.
+> 
+> Bitte melden Sie sich zurück, damit wir fortfahren können.
 

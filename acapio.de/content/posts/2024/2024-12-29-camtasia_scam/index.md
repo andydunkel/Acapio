@@ -81,19 +81,19 @@ Die Antwort lässt nicht lange auf sich warten. Geld wird versprochen, nicht ger
 
 Wir starten die virtuelle Linux-Maschine. Auf gar keinen Fall, sollte der Link in Windows oder dem Mac direkt angeklickt werden. Der Download ist eine passwortgeschützte ZIP-Datei. Die Masche ist alt, der Passwortschutz verschlüsselt die Datei, so dass ein Virenscanner die Inhalte nicht scannen kann und möglicherweise Alarm schlägt.
 
-![ZIP-Datei mit Inhalt](download_1.webp)
+![ZIP-Datei mit Inhalt](/posts/2024-12-29_camtasia_scam/download_1.webp)
 
 Wir entpacken alles und freuen uns, dass sich hier jemand richtig Mühe gegeben hat, sogar kein paar Beispiel-Videos sind enthalten. Alles bezieht sich auf den echten Dienst "PicsArt", von Camtasia ist keine Rede mehr.
 
-![Beispiel Videos sind enthalten](download_2.webp)
+![Beispiel Videos sind enthalten](/posts/2024-12-29_camtasia_scam/download_2.webp)
 
 Spannend wird es im Ordner für den Mac und für Windows. Windows-Nutzer bekommen eine .exe Datei, welche sie nur zu starten brauchen. Für den Mac muss eine .dmg Datei installiert werden, eine Anleitung hilft hier.
 
-![Ausführbare Programme für Windows und Mac](download_3.png)
+![Ausführbare Programme für Windows und Mac](/posts/2024-12-29_camtasia_scam/download_3.png)
 
 Wer die Programme startet hat ein Problem. Die Malware wird ausgeführt und das System infiziert. Wir machen einen [Virenscheck mit Virus-Total](https://ekiwi-blog.de/22006/dateien-online-auf-viren-pruefen/). 
 
-![Virencheck](download_4.webp)
+![Virencheck](/posts/2024-12-29_camtasia_scam/download_4.webp)
 
 Nur 7 von 72 Virenscannern erkennen aktuell die Malware. Diese wird regelmäßig neu erzeugt, bevor die Anbieter der Virenpramme nachziehen können. Ein installierter Virenscanner ist also oft kein ausreichender Schutz.
 
@@ -112,6 +112,8 @@ Im Grunde können wir uns eine Antwort sparen, die Phisher haben ihr Ziel erreic
 > Best regards,  
 
 
-## Fazit
+## Fazit und Update
 
 Vorsicht ist bei solchen Angeboten angesagt. Das Red-Flag ist ein Download von Dateien mit Passwortschutz. Ausgeführt wird der Computer infiziert. In den meisten Fällen wird eine Backdoor installiert, welche dann ausgenutzt wird um weitere Malware nachinstallieren zu können. Das kann dann alles mögliche sein, vom Bitcoin-Miner, Erpessungs-Trojaner, Teilnahme an Spam und Botnetzwerken, you name it.
+
+Virenscanner bieten nur hier begrenzten Schutz, selbst nach einigen Tagen erkennen nur [wenige die Malware](https://www.virustotal.com/gui/file/18b6f5ab29a4676139b5e2f763583a4e6fbbdb1c3ca79f281b9d3c4acbc89762/detection).
