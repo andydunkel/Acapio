@@ -212,3 +212,40 @@ Nun dann schreiben wir mal zurück.
 > Thank you for helping.  
 > 
 > Gruß  
+
+### Der Koffer wird für den Versand vorbereitet
+
+Die Antwort lässt nicht lange auf sich warten. Das Paket wird vorbereitet. Wir müssen abwarten. Sicher wird es bald Probleme beim Versand geben.
+
+> We hope this email finds you well. We are writing to provide you with an update on your shipment that was sent to you by Sgt. Arisha Hwee Schuch from Syria.
+> 
+> We have received your shipping information and would like to acknowledge that all the necessary arrangements have been made for your shipment to be delivered as requested. Our team is currently working on processing your shipment and ensuring that it meets all the necessary requirements.
+> 
+> We understand the importance of your shipment to you, and we assure you that we are doing everything we can to ensure that it is delivered on time and in perfect condition.
+> 
+> Once the shipment is dispatched to Hamburg Deutschland, we will send you the tracking details so that you can keep track of the progress of your shipment. In the meantime, if you have any questions or concerns, please do not hesitate to contact us.
+> 
+> Thank you for choosing our logistics company for your shipping needs. We appreciate your business and look forward to serving you again in the future.
+> 
+> Best regards,
+
+### Der Koffer ist unterwegs
+
+Nach nur wenigen Stunden kommt die Antwort, Paket sei nun unterwegs. Unter www.fexpresscargo.com können wir die Sendung nun verfolgen.
+
+> We are pleased to inform you that your consignment has shipped. Visit www.fexpresscargo.com to Track your shipment details with estimated arrival date, with below details.
+> 
+> Shipment Tracking details.
+> *******************************************
+> AWB/Tracking Number::                 XXXXXXXXXXXX
+> Tracking address::          www.fexpresscargo.com
+> *******************************************
+> 
+> All shipments require a signature upon receipt. Transit time will depend upon whether or not you have chosen standard or premium freight.
+> 
+> But your consignment is already on the premium freight rate, at which it will arrive in Hamburg Deutschland in 3 days.
+
+
+![Versandbestätigung und Tracking](/posts/2024-12-31-millions-from-syria/transport.webp)
+
+Sollte also in 3 Tagen da sein! 😁

@@ -285,3 +285,17 @@ Ein kleiner Betrag für die Aussicht auf 10 Millionen. Bezahlt werden kann mit B
 > 
 > Bitte melden Sie sich zurück, damit wir fortfahren können.
 
+### Antwort an den Anwalt
+
+Wir antworten zögerlich, fragen, ob es nicht billiger geht. Bitcoin kennen wir natürlich nicht und natürlich sind wir neugierig auf die Bankverbindung.
+
+> Hallo Herr Kuran,  
+> 
+> vielen Dank für Ihre Nachricht und die ausführlichen Infos. Es hört sich alles wirklich gut an und ich möchte das auch gerne machen. Aber 1.620 Euro ist sehr viel Geld für mich, und ich muss das erstmal noch überlegen, ob ich das jetzt direkt zahlen kann.  
+> 
+> Gibt es vielleicht eine Möglichkeit, dass das ein bisschen billiger wird? Das würde mir echt helfen.  
+> 
+> Außerdem habe ich gesehen, dass Sie auch Bitcoin anbieten. Ich kenne mich damit leider garnicht aus, deswegen wäre es mir viel lieber, das über eine normale Banküberweisung zu machen. Können Sie mir bitte die Bankverbindung schicken, falls ich mich entscheide, die Zahlung zu machen?  
+> 
+> Vielen Dank schonmal und beste Grüße,  
+
