@@ -299,3 +299,52 @@ Wir antworten zögerlich, fragen, ob es nicht billiger geht. Bitcoin kennen wir 
 > 
 > Vielen Dank schonmal und beste Grüße,  
 
+## Die Bankverbindung
+
+Unsere Frage nach einem günstigeren Preis wird negativ beschieden, das verhindert wohl die Anwaltsgebührenordnung. Aber wir bekommen eine Bankverbindung. Diese ist spannenderweise in Spanien, auf den Namen "Rosi Johnson". 
+
+> Die Kosten für die Dokumentenbearbeitungsgebühr betragen 1620 Euro und können nicht reduziert werden. Die Dokumentenbearbeitungsgebühr muss bezahlt werden, bevor die Erbschaftsgelder in Ihrem Namen bearbeitet werden und innerhalb von 24 Stunden auf Ihr Bankkonto überwiesen werden können.
+> 
+> Bitte überweisen Sie die Dokumentenbearbeitungsgebühr von 1620 Euro an meinen Finanzkontobetreuer und fügen Sie zur Bestätigung eine Kopie des Überweisungsbelegs per E-Mail bei.
+> 
+> Account Name: ROSI JOHNSON
+> 
+>  Bank Name: Caixa Bank
+> 
+> Account Number: ES69 2100 5179 0501 0033 4184
+> 
+> BIC/Swift Code: CAIXESBBXXX
+> 
+> Address: Store San Jorge AV.San Jorge 31012 pamplona-Iruna
+> 
+> Überweisungszweck: Unterstützung
+> 
+> Betrag: 1620 Euro
+> 
+> Anbei der Überweisungsbeleg per E-Mail-Bestätigung.
+> 
+> Best regards
+> Barrister Mr.Ahmet KURAN
+
+## Wir informieren die Bank
+
+In dem Zuge können wir nun auch die Bank informieren. Wir setzen ein Schreiben auf. Das schwierigste ist die E-Mail-Adresse zu finden, über die Homepage gibt es nur den üblichen Formularscheiß mit Auswahl. Wir sind gespannt, ob es hier eine Antwort gibt.
+
+![Schreiben an die Bank](/posts/2024-12-25_turkish_sick_woman/schreiben_an_die_bank.png)
+
+
+## Wir haben Rückfragen
+
+Neben der Bank, haben wir auch noch Rückfragen an den Anwalt.
+
+> Sehr geehrter Herr Ahmet Kuran,  
+> 
+> vielen Dank für Ihre E-Mail. Ich bin bereit, den nächsten Schritt zu gehen, jedoch benötige ich noch einige Klärungen, um sicherzustellen, dass alles korrekt abläuft.  
+> 
+> 1. Könnten Sie mir bitte die genaue Adresse der Bank bestätigen? Ich habe eine leichte Unstimmigkeit im Format bemerkt, und meine Bank benötigt die exakten Angaben für Auslandsüberweisungen.  
+> 2. Könnten Sie mir ein offizielles Dokument oder ein Autorisierungsschreiben zukommen lassen, das zeigt, dass Sie berechtigt sind, diesen Prozess zu verwalten? Ich habe einen Bekannten gefragt und der meinte wir brauchen das zur Sicherheit  
+> 3. Ich würde auch eine detaillierte Aufschlüsselung der Bearbeitungsgebühr in Höhe von 1.620 Euro schätzen. Welche spezifischen Dienstleistungen oder Maßnahmen deckt diese Gebühr ab?  
+> 
+> Ich freue mich auf Ihre Antwort, damit ich den Prozess ohne Verzögerung fortsetzen kann.  
+> 
+> Mit freundlichen Grüßen,  
