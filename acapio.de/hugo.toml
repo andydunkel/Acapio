@@ -52,6 +52,12 @@ home = ["HTML", "RSS", "JSON"]
   weight = -1
 
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+
 [goldmark]
   [goldmark.renderer]
     hardWraps = false

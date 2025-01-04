@@ -92,3 +92,33 @@ Natürlich wollen wir die Kohle haben. Wir schicken mal gleich unsere Bankverbin
 > FAKE BANK DATEN ENTFERNT
 > 
 > Thank you very much again for this good news. We wait your instruction. Please excuse my english, as i am from germany.  
+
+
+## Wir informieren den Anwalt
+
+Wir schreiben außerdem noch eine kurze E-Mail an den echten Mr. Hawkings und informieren ihn, dass sein Bild und Name genutzt wird. Auf der Webseite gibt es nur ein Kontaktformular. 
+
+## Gebührenüberweisung an eine Adresse?
+
+Der Antwalt meldet sich wieder. Wir sollen die Adresse an eine Olga überweisen, aber wie? Wir bekommen eine Adresse irgendwo in Maryland. 
+
+> pls pay your legal contingency fee via transfer to this details 
+> 
+> Olga Monique Kissim Njecacal
+> 
+> Last name: Njecacal
+> First name; Olga Monique
+> Middle name: Kissim
+> 
+> Address: 14103 bramble lane, Laurel maryland. 20708
+
+### Rückfrage zur Überweisung
+
+> Hi John,
+> 
+> Thank you for your message. However, I’m a bit confused—how are we supposed to send a payment to an address? Could you please clarify the payment method or provide additional details?
+> 
+> Looking forward to your response.
+> 
+> Best regards,
+

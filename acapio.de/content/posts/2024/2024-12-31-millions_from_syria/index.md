@@ -249,3 +249,29 @@ Nach nur wenigen Stunden kommt die Antwort, Paket sei nun unterwegs. Unter www.f
 ![Versandbestätigung und Tracking](/posts/2024-12-31-millions-from-syria/transport.webp)
 
 Sollte also in 3 Tagen da sein! 😁
+
+## Gebühren werden fällig
+
+Wie erwartet werden Gebühren fällig. Arisha ist total überrascht, eigentlich hatte diese ja bereits gezahlt, aber nur die Hälfte wie sich herausstellt und sie kann dummerweise auch aktuell selbst kein Geld mehr überweisen. Auch interessant, dass der Zoll Diplomatenkoffer festhält.
+
+> We are writing to inform you that your diplomatic shipment with Fexpress Cargo Company, with tracking number (  XXXXXXXXXXX ) , has arrived at Istanbul International Airport, Turkey, on its first transit. As per the regulations for diplomatic shipments, an insurance certificate is required to cover the diplomatic status of the shipment.
+> 
+> We would like to emphasize the importance of insurance and how mandatory it is. The insurance is necessary to ensure the safety and security of your shipment and to avoid any unforeseen circumstances that may arise during transit.
+> 
+> Therefore, we kindly request that you pay the insurance certificate fee of 2940 euro (Two thousand nine hundred and forty euro) as soon as possible to avoid any delay or confiscation. Once the payment is received, we will issue the insurance certificate for your shipment and depart for Hamburg Deutschland.
+
+Aber man gibt sich Mühe, sogar die Sendungsverfolgung wird aktualisiert.
+
+![Tracking aktualisiert, Gebühr wird fällig](/posts/2024-12-31-millions-from-syria/tracking_2.webp)
+
+Da müssen wir wohl in Vorkasse gehen! Fragen wir mal nach, wie das bezahlt werden kann.
+
+> Dear Arisha,
+> 
+> Thank you for your message. This situation is very surprising for me, and I don’t know exactly what to do now. The 2940 euros you write is very much money, and I am not sure if I can help with this.
+> 
+> Can you please explain me more? Who I must send the money, and how is the payment done. Do you have some documents from the company that show this Diplomatic Insurance Tag is needed? Are there no other ways to pay for this from your side?
+> 
+> I want to help you, but this is very difficult for me to understand, and I hope you can give me more information. Maybe it makes me feel more sure about it.
+> 
+> Waiting for your answer.

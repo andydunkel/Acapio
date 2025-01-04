@@ -82,3 +82,50 @@ Natürlich schreiben wir zurück! 4.200.000 Millionen Euro sind trotz Inflation 
 > vielen Dank für die tolle Nachricht – ich freue mich riesig! Ich entscheide mich für die Kontoeinzahlung, das klingt am einfachsten. Bitte lassen Sie mich wissen, was Sie von mir benötigen.  
 > 
 > Vielen Dank für Ihre Hilfe!
+
+
+## Persönliche Daten
+
+Die Antwort lässt nicht lange auf sich warten und verdient unser uneingeschränktes Vertrauen! Deshalb ist es nur logisch, dass wir nicht nur Name, Adresse und sämtliche Kontaktdaten preisgeben, sondern auch gleich die Hosen runterlassen und eine Kopie unseres Ausweises mitsenden. 
+
+Vielleicht sollten wir zur Sicherheit auch noch unsere Steuer-ID, Lieblingsfarbe und den Namen unseres ersten Haustiers hinzufügen – man will ja schließlich kooperativ sein.
+
+> ACHTUNG:  
+> Vielen Dank, dass Sie den für Sie geeigneten Weg gewählt haben, um Ihr Geld zu erhalten.
+> Nun, Ihr gesamter Spendenbetrag von € 4,200,000 wird auf Ihr Konto überwiesen
+> Sofort innerhalb der nächsten 24 Stunden auf Ihr Bankkonto überweisen, aber zuerst müssen wir es bearbeiten
+> Ihre Unterlagen und bereiten Sie die Spende vor. Bitte füllen Sie das Formular aus und senden Sie es zurück  
+> Nachfolgend finden Sie weitere Schritte.
+> 
+> Anmeldeformular
+> 
+> Name (Herr, Frau, Frau, Dr. usw.): Herr  
+> Vorname:  
+> Zweiter Vorname:  
+> Familienname, Nachname:  
+> Geburtsdatum (JJJJ-MM-TT):  
+> Geschlecht:  
+> Familienstand:  
+> Adresse:  
+> Stadt:  
+> Bundesland/Provinz:  
+> Postleitzahl/Postleitzahl:  
+> Land:  
+> Telefon:  
+> Mobil/Mobilfunk:  
+> WhatsApp-Nummer:  
+> Beruf:  
+> 
+> Füllen Sie das Formular aus und senden Sie es zurück, damit wir loslegen können. Senden Sie uns außerdem eine Kopie Ihres Personalausweises.  
+> Danke
+
+
+### Antwort mit persönlichen Daten
+
+Natürlich kommen wir der bitte nach, auf eine Ausweiskopie verzichten wir aber.
+
+> Vielen Dank für Ihre großzügige Nachricht und die einmalige Gelegenheit, unglaubliche 4,2 Millionen Euro zu erhalten! Natürlich verstehen wir, dass so eine Transaktion nicht ohne einen gewissen Vertrauensvorschuss unsererseits auskommt. Daher haben wir uns entschieden, all unsere persönlichen Daten umgehend bereitzustellen. Sie finden diese Informationen im Folgenden:  
+> 
+> DATEN ENTFERNT
+> 
+> Wir hoffen, dass das für Ihre Bearbeitung ausreicht!

@@ -333,6 +333,22 @@ In dem Zuge können wir nun auch die Bank informieren. Wir setzen ein Schreiben 
 ![Schreiben an die Bank](/posts/2024-12-25_turkish_sick_woman/schreiben_an_die_bank.png)
 
 
+## Bank verweist auf eine Nicht-Zuständigkeit
+
+Die Antwort der Bank folgt prompt, man sei nicht zuständig, weil "dass gemäß der Verordnung ECO 734/2004 vom 11. März über die Kundendienstabteilungen und -dienste und den Kundenombudsmann der Finanzinstitute sowie der Kundenschutzverordnung der CaixaBank, S.A., diese Angelegenheit nicht in unsere Zuständigkeit fällt.". Gut immerhin soll es an eine andere Abteilung weiter geleitet worden sein. Geben wir die Hoffnung also noch nicht auf.
+
+> Dear Sir or Madam,
+> 
+> In response to your claim received by this Customer Service Department on 3/1/2025, 17:04, please be advised that in accordance with Order ECO 734/2004 of 11 March, on customer service departments and services and the customer ombudsman of financial institutions, as well as the Customer Defence Regulations of CaixaBank, S.A., this is a matter that does not fall under our responsibility. Given that this is request or query, this department is sending your communication to the corresponding specialised department, which will attend to it and duly solve it.
+> 
+> We hope that we have been able to provide a useful response and information, and we would like to thank you for the trust you continue to place in CaixaBank, and for the opportunity you have provided for us to improve the quality of our service.
+> 
+> Yours faithfully,
+> 
+> Head of Customer Service
+
+
+
 ## Wir haben Rückfragen
 
 Neben der Bank, haben wir auch noch Rückfragen an den Anwalt.
@@ -348,3 +364,4 @@ Neben der Bank, haben wir auch noch Rückfragen an den Anwalt.
 > Ich freue mich auf Ihre Antwort, damit ich den Prozess ohne Verzögerung fortsetzen kann.  
 > 
 > Mit freundlichen Grüßen,  
+
