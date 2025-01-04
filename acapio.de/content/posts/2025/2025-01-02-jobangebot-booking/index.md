@@ -5,7 +5,6 @@ params:
 date: "2025-01-02"
 featured: true
 toc: true
-draft: true
 tags: 
   -  "scam"
   -  "shady business"
@@ -62,6 +61,14 @@ Es folgt nun eine Schulung, hier sollen wir erklärt bekommen, wie alles funktio
 
 ![](/posts/2025-01-02_geld_verdienen_online/chat_7.png)
 
+### Die Webseite
+
+Bei der Webseite hat man sich halbwegs Mühe gegeben. Sieht man Designfehlern ab, scheint alles soweit funktionell zu sein. Es gibt sogar ein Zertifikat, welches wohl die Seriörität unterstreichen soll.
+
+![](/posts/2025-01-02_geld_verdienen_online/webseite.webp)
+
+
+
 ### Die Schulung
 
 Die Schulung beginnt, ich hätte an der Stelle ein Video erwartet, aber man nimmt sich die Zeit für ein 1 zu 1 Coaching. Wir müssen uns in einen anderen Account einloggen und jeweils Screenshots schicken.
@@ -77,6 +84,8 @@ Der Job erweist sich als einfacher als gedacht, wir müssen nur klicken, warten 
 <video width="800" height="600" controls>
 <source src="/posts/2025-01-02_geld_verdienen_online/scam.mp4" type="video/mp4">
 </video>
+
+Immerhin zeigt die Netzwerkanalyse, dass wir keine externen Server aufrufen. Alles machen wir sicherheitshalber in einer virtuellen Maschine.
 
 ## Die Abzocke: Wir brauchen Geld um Geld zu verdienen
 
@@ -94,7 +103,7 @@ Dieser gibt uns dann eine Blockchain-Adresse, auf diese soll nun der fehlende Be
 
 ![](/posts/2025-01-02_geld_verdienen_online/service_chat_1.webp)
 
-Da wir noch in der Schulung sind, müssen wir kein Geld überweisen, das simuliert unser Kontakt. Die Adresse führt zur (Tron-Blockchain)[https://de.wikipedia.org/wiki/Tron_(Kryptow%C3%A4hrung)]:
+Da wir noch in der Schulung sind, müssen wir kein Geld überweisen, das simuliert unser Kontakt. Die Adresse führt zur [Tron-Blockchain](https://de.wikipedia.org/wiki/Tron_(Kryptow%C3%A4hrung)):
 
 https://tronscan.org/#/address/TGb1rJR65qYPhrhTnDbpYG7fQLo8dL58tL
 
@@ -106,29 +115,35 @@ Die Schulung ist damit abgeschlossen, wir wechseln zurück auf unser Konto und f
 
 ![](/posts/2025-01-02_geld_verdienen_online/geld_einzahlen_2.webp)
 
-Wir erledigen 40 Aufgaben, haben 5,73 Dollar verdient. Nicht gerade viel, aber wir hatten ja nicht viel Arbeit. Auszahlen lässt sich das Geld leider nicht, wir müssen ja drei Pakete erledigen und das erste Paket mit 40 Aufgaben ist voll.
+Wir erledigen 40 Aufgaben, haben 5,73 Dollar verdient. Nicht gerade viel, aber wir hatten ja nicht viel Arbeit. Auszahlen lässt sich das Geld leider nicht, wir müssen ja drei Pakete erledigen und das erste Paket mit 40 Aufgaben ist voll. 
 
-Ein neues Paket bekommen wir nur, wenn wir den bisherigen Betrag aufrunden auf 100 Dollar. Aber keine Sorge das Geld bekommen wir ja wieder, bei der Auszahlung.
+Ein neues Paket bekommen wir nur, wenn wir den bisherigen Betrag aufrunden auf 100 Dollar. Aber keine Sorge das Geld bekommen wir ja wieder, bei der Auszahlung. Für diese benötigen wir allerdings satte 800 Dollar.
 
 ![](/posts/2025-01-02_geld_verdienen_online/geld_einzahlen_3.webp)
 
 ### Wir brauchen eine Crypto-App!
 
-Jetzt wird es kompliziert.
+Jetzt wird es kompliziert. Es geht ums Geld. Wie wir bereits vermuten, müssen wir mit Crypto zahlen. Gar nicht so einfach! Wir kennen uns damit nicht aus. Haben natürlich keine solche App. Aber kein Problem, mit einer Engelsgeduld wird uns erklärt, wie die App installiert wird, wie wir eine Wallet einrichten und wie wir dann mit Kreditkarte Geld überweisen können.
 
 ![](/posts/2025-01-02_geld_verdienen_online/crypo_wallet.webp)
 
+Unser Gegenüber muss sich dynamisch anpassen, da einige Dinge bei uns anders aussehen. Es gibt jede Menge Screenshots und Erklärungen. Hier ist jemand dem IT-Support verloren gegangen.
+
+Uns wird die Sache mutmaßlich zu heikel, wir verweisen auf Bedenken und den späten Abend und sund erstmal raus. 🍻 Es gibt erstmal genug aufzuschreiben.
+
 ### Es wird nachgehakt
 
-![](/posts/2025-01-02_geld_verdienen_online/nachhaken.webp)
+Die nächsten Tage werden wir über WhatsApp begrüßt und bedrängt, doch endlich weiter zu machen. Etwas Druck wird aufgebaut, dass wir so die Chance verpassen Geld zu verdienen. Wir vertrösten die Scammer erstmal.
 
-
-## Die Webseite
-
-Bei der Webseite hat man sich halbwegs Mühe gegeben. Sieht man Designfehlern ab, scheint alles soweit funktionell zu sein. Es gibt sogar ein Zertifikat, welches wohl die Seriörität unterstreichen soll.
-
-![](/posts/2025-01-02_geld_verdienen_online/webseite.webp)
-
+![Wir fahren vorsichtig](/posts/2025-01-02_geld_verdienen_online/nachhaken.webp)
 
 ## Fazit
+
+Ach ja, der Traum vom schnellen Geld – einfacher geht’s wirklich nicht! Man braucht keine Fähigkeiten, keine Berufserfahrung und anscheinend auch keine roten Flaggen zu erkennen. Stattdessen wird man Schritt für Schritt in die Welt der Krypto-Transfers eingeführt, inklusive einer kostenlosen IT-Schulung, bei der jemand „mit Engelsgeduld“ verlorenes Potenzial als Helpdesk-Mitarbeiter beweist. Was für ein Service!
+
+DIe Abzocke dürfte in zwei Wellen laufen, zuerst der kleine Betrag um auf die 100 aufzurunden. Im nächsten Schritt dann die Lucky-Order mit ein paar hundert Euro.
+
+Dass man erst Geld ausgeben muss, um Geld zu verdienen, ist natürlich ein völlig legitimes Geschäftsmodell. Schließlich weiß ja jeder, dass echte Arbeitgeber uns ihre Kontodaten geben, um darauf großzügig „Investitionen“ zu tätigen. 
+
+Kurz gesagt: Wer auf solche Angebote reinfällt, kann sich nicht nur über neue Crypto-Skills freuen, sondern auch darüber, wie viel Geduld und Zeit Betrüger heutzutage investieren. Hut ab! 
 
