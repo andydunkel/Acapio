@@ -305,3 +305,75 @@ Wir schreiben zurück, dass wir uns natürlich an das Transportunternehmen wende
 > I am in contact with Arisha Schuch regarding the package, she said, that she already paid for it, but it was only a part payment?  
 >   
 > Could you please let us know how the payment can be made? Is it possible to pay via bank transfer?  
+
+
+## Bankverbindung
+
+Das Transportunternehmen lässt sich nicht lange bitten. Es folgt ein Verweis auf Artikel 27 der Wiener Konventionen und dazu gibt es eine Bankverbindung aus Deutschland.
+
+> We at Fexpress Diplomatic Security Delivery Company have received your message, and we want you to understand that your partner, Sgt. Arisha Hwee Schuch, paid a registration fee to our agent location in Damascus, Syria, with the aid of the Red Cross.  
+>   
+> But diplomatic freight to Deutschland requires an insurance certificate under the provisions of Article 27 of the Vienna Convention on diplomatic relations in a case of loss or damage in the Deutschland airport and is also governed by all world diplomatic logistics companies.  
+>   
+> Meanwhile, we received your email and well understood. However, you are requested to make the said payment through bank transfer to our agent in Germany to enable us to access the payment and process the requested Insurance certificate and send it to the Airport authority for the immediate departure of your shipment to your country, Hamburg, Germany.  
+>   
+> Below are the Germany Bank account details of our company-assigned agent for the payment.  
+> ****************************************************  
+>   
+> IBAN:   DE 49 2022 0800 0028 1627 53  
+> BIC: SXPYDEHHXXX  
+> Name: Su My Bkrong H  
+> Bank: Vivid  
+>   
+> *******************************************************  
+>   
+> You are advised to send us a scanned copy of the payment slip via email as soon as you make the payment of 2940 euros; it shall be attached to your package.  
+>   
+> Also, a copy of the Insurance Tag Certificate will be sent to you.  
+>   
+> Thank you for your cooperation and understanding.  
+
+### Info an die Bank
+
+Bevor wir antworten, schauen wir uns mal die Bankverbindung an. Die BIC führt uns zu https://vivid.money, genauso wie die IBAN. Wir informieren die Bank:
+
+> Sehr geehrte Damen und Herren,  
+>   
+> ich möchte Sie darüber informieren, dass eine Ihrer Kontonummern in einem mutmaßlichen Betrugsfall (Scam) verwendet wird. Konkret handelt es sich um folgende IBAN:  
+>   
+> DE49 2022 0800 0028 1627 53  
+>   
+> Im Rahmen einer gefälschten Kommunikation wurde diese Kontonummer für eine angebliche Zahlung im Zusammenhang mit einem Diplomatenversand genannt. Weitere Informationen zu diesem Fall finden Sie unter folgendem Link.   
+>   
+> Ich bitte Sie, diesen Vorfall zu prüfen und gegebenenfalls Maßnahmen zu ergreifen, um weitere Betrugsfälle zu verhindern. Sollten Sie weitere Informationen oder Unterlagen benötigen, stehe ich Ihnen gerne zur Verfügung. 
+
+Eine automatische Antwort lässt darauf schließen, dass wir mit keiner schnellen Antwort rechnen können.
+
+> Hello!  
+> Please note that this inbox is not our standard channel for customers' requests.  
+> The email received will therefore have significant waiting time.  
+> If you wish to contact our customer support and get a faster reply please use the link https://vivid.money/en-eu/support/  
+> Thank you.  
+> Vivid Money
+
+### Antwort
+
+Der Verweis auf Artikel 27 der Wiener Konvention? Klingt beeindruckend, aber auch verdächtig nach einem Griff ins Regal für „klingt offiziell, aber bitte nicht nachfragen“. Das lassen wir uns natürlich nicht zweimal sagen und ziehen unser Ass aus dem Ärmel: ChatGPT. Wenn Diplomatie auf Scam trifft, wird’s erst richtig interessant – also fragen wir mal nach, ob dieser Artikel wirklich die geheime Grundlage für Kofferreisen nach Hamburg ist.
+
+> Dear Fexpress,  
+>   
+> Thank you for your response and the provided bank details. I understand the importance of the shipment and the insurance certificate you mentioned. However, I would like to ask for more clarification about the specific requirements under the Vienna Convention that apply to this case.  
+>   
+> You mentioned Article 27 of the Vienna Convention on Diplomatic Relations as the basis for the insurance certificate. Could you please explain in detail how this article applies to the shipment? As far as I know, the Vienna Convention is primarily focused on diplomatic communication and immunity. I would like to better understand why an insurance certificate is specifically required under this regulation for my shipment.  
+>   
+> Additionally, could you clarify:  
+>   
+> - Why this insurance is mandatory for delivery to Germany?  
+> - Are there any alternatives to obtaining this certificate, or is the payment the only way?  
+> - Can you provide a copy of the relevant section of the Vienna Convention or any official documentation that explains these requirements?  
+>   
+> I appreciate your patience and assistance in addressing my questions. I want to ensure everything is properly understood and handled before proceeding with the payment.  
+>   
+> Looking forward to your reply.  
+
+
