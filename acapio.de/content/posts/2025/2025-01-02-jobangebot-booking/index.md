@@ -137,6 +137,38 @@ Die nächsten Tage werden wir über WhatsApp begrüßt und bedrängt, doch endli
 
 ![Wir fahren vorsichtig](/posts/2025-01-02_geld_verdienen_online/nachhaken.webp)
 
+Wir vertrösten hier weiter, geben dann aber nach zwei Tagen mal wieder ein Lebenszeichen von uns. Wir drehen uns im Kreis und nerven unser Gegenüber erstmal mit Rückfragen. Wir sollen weiterhin in der Bitcoin-App Geld einzahlen und den Scammern schicken.
+
+![](/posts/2025-01-02_geld_verdienen_online/ende_1.webp)
+
+Auf die Frage, warum wir überhaupt Geld einzahlen müssen um Geld zu verdienen, wird man kreativ.
+
+![](/posts/2025-01-02_geld_verdienen_online/ende_2.webp)
+
+Verschwurbelt will man uns etwas erklären, ohne zu erklären.
+
+![](/posts/2025-01-02_geld_verdienen_online/ende_3.webp)
+
+Wir brechen an der Stelle ab.
+
+## Meldung an WhatsApp
+
+WhatsApp hat wie gehabt auch keine E-Mail-Adresse zur einachen Kontaktierung. Also bemühen wir das Kontaktformular.
+
+> Hallo WhatsApp Support-Team,  
+>   
+> ich möchte die Telefonnummer +44 7460 213666 melden. Über diese Nummer werden dubiose Jobangebote und Scams verbreitet. Details dazu haben wir hier dokumentiert:  
+>   
+> https://acapio.de/posts/2025-01-02_geld_verdienen_online/  
+>   
+> Bitte prüfen Sie die Aktivitäten dieser Nummer und leiten Sie entsprechende Maßnahmen ein.  
+>   
+> Vielen Dank!  
+>   
+> Mit freundlichen Grüßen,  
+
+Mal schauen, ob da eine Antwort kommt...
+
 ## Fazit
 
 Ach ja, der Traum vom schnellen Geld – einfacher geht’s wirklich nicht! Man braucht keine Fähigkeiten, keine Berufserfahrung und anscheinend auch keine roten Flaggen zu erkennen. Stattdessen wird man Schritt für Schritt in die Welt der Krypto-Transfers eingeführt, inklusive einer kostenlosen IT-Schulung, bei der jemand „mit Engelsgeduld“ verlorenes Potenzial als Helpdesk-Mitarbeiter beweist. Was für ein Service!

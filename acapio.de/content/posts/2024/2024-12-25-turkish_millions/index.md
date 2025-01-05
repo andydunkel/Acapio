@@ -347,8 +347,6 @@ Die Antwort der Bank folgt prompt, man sei nicht zuständig, weil "dass gemäß 
 > 
 > Head of Customer Service
 
-
-
 ## Wir haben Rückfragen
 
 Neben der Bank, haben wir auch noch Rückfragen an den Anwalt.
@@ -365,3 +363,25 @@ Neben der Bank, haben wir auch noch Rückfragen an den Anwalt.
 > 
 > Mit freundlichen Grüßen,  
 
+
+## Anwaltsausweis und Webseite
+
+Unsere Frage wirkt, wir bekommen eine Antwort.
+
+> Anbei die Vollmacht und Kopien meines Personalausweises mit der offiziellen Bankadresse.  
+>   
+> Die Dokumentenbearbeitungsgebühr ermöglicht die Bearbeitung der drei Dokumente in Ihrem Namen, bevor die Erbschaftsgelder erfolgreich auf Ihr Bankkonto überwiesen werden. Die Dokumentenbearbeitungsgebühr deckt die Bearbeitung von drei Dokumenten in Ihrem Namen ab, nämlich eine eidesstattliche Erklärung, eine Begünstigtenbescheinigung und eine eidesstattliche Bescheinigung. Diese 3 Dokumente müssen in Ihrem Namen als neuer Begünstigter der Erbschaftsgelder bearbeitet werden, bevor die Deutsche Bank of Turkey die Erbschaftsgelder auf Ihr Bankkonto überweisen kann.  
+>   
+> Ohne die Dokumentenbearbeitungsgebühr können die Erbschaftsgelder nicht auf Ihr Bankkonto überwiesen werden. Daher rate ich Ihnen, die nachstehenden Anweisungen zu befolgen und die Dokumentenbearbeitungsgebühr zu überweisen, damit alle drei Dokumente in Ihrem Namen als neuer Begünstigter der Erbschaftsgelder bearbeitet und ausgetauscht werden können.  
+
+Wir erhalten eine Art Anwaltsausweis.
+
+![Anwaltsausweis](/posts/2024-12-25_turkish_sick_woman/anwalt_1.webp)
+
+Und außerdem ein Dokument, mit Stempel, eigens angepasst für uns.
+
+![Dokument](/posts/2024-12-25_turkish_sick_woman/anwalt_2.webp)
+
+Eine Suche zum Herren Ahmet Kuran fördert eine Webseite zu Tage. Diese wirkt im ersten Moment nicht schlecht, ist aber mit Wahrscheinlichkeit Fake. Keine Fotos, kaputte Links und wenig Inhalt. Die E-Mail-Adresse ich eine Hotmail-Adresse.
+
+![Die Fake Webseite](/posts/2024-12-25_turkish_sick_woman/anwalt_3.webp)

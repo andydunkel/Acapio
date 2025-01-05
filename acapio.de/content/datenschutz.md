@@ -2,11 +2,12 @@
 title: "Datenschutz"
 date: 2024-12-24
 draft: false
+toc: true
 ---
 
 # Datenschutz­erklärung
 
-## 1\. Datenschutz auf einen Blick
+## Datenschutz auf einen Blick
 
 ### Allgemeine Hinweise
 
@@ -40,7 +41,7 @@ Beim Besuch dieser Website kann Ihr Surf-Verhalten statistisch ausgewertet werde
 
 Detaillierte Informationen zu diesen Analyseprogrammen finden Sie in der folgenden Datenschutzerklärung.
 
-## 2\. Hosting
+## Hosting
 
 Wir hosten die Inhalte unserer Website bei folgendem Anbieter:
 
@@ -50,7 +51,11 @@ Anbieter ist die ALL-INKL.COM - Neue Medien Münnich, Inh. René Münnich, Haupt
 
 Die Verwendung von All-Inkl erfolgt auf Grundlage von Art. 6 Abs. 1 lit. f DSGVO. Wir haben ein berechtigtes Interesse an einer möglichst zuverlässigen Darstellung unserer Website. Sofern eine entsprechende Einwilligung abgefragt wurde, erfolgt die Verarbeitung ausschließlich auf Grundlage von Art. 6 Abs. 1 lit. a DSGVO und § 25 Abs. 1 TDDDG, soweit die Einwilligung die Speicherung von Cookies oder den Zugriff auf Informationen im Endgerät des Nutzers (z. B. Device-Fingerprinting) im Sinne des TDDDG umfasst. Die Einwilligung ist jederzeit widerrufbar.
 
-## 3\. Allgemeine Hinweise und Pflicht­informationen
+## Nutzung von Matomo Analytics
+
+Unsere Webseite verwendet Matomo Analytics, eine Open-Source-Software zur statistischen Auswertung von Besucherzugriffen. Matomo wird auf unserem eigenen Server betrieben, wodurch alle Daten ausschließlich bei uns verbleiben. Ihre IP-Adresse wird anonymisiert, sodass keine Rückschlüsse auf Ihre Person möglich sind. Die gesammelten Daten dienen ausschließlich der Verbesserung unserer Webseite und werden nach 180 Tagen automatisch gelöscht. Es erfolgt keine Weitergabe der Daten an Dritte.
+
+## Allgemeine Hinweise und Pflicht­informationen
 
 ### Datenschutz
 

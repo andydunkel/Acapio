@@ -275,3 +275,33 @@ Da müssen wir wohl in Vorkasse gehen! Fragen wir mal nach, wie das bezahlt werd
 > I want to help you, but this is very difficult for me to understand, and I hope you can give me more information. Maybe it makes me feel more sure about it.
 > 
 > Waiting for your answer.
+
+## Arisha ist fertig mit der Welt
+
+Nun drückt Arisha auf die Tränendrüse: Tränen fließen, das Herz ist schwer, und die dramatische Bitte, sie als "Schwester" zu sehen, darf natürlich nicht fehlen. Mit viel Pathos wird uns erklärt, dass ohne die ominöse „Diplomatic Insurance Tag Fee“ der Koffer im türkischen Flughafen verloren geht – ein Schicksal schlimmer als jede Soap-Opera!
+
+>  Good evening, How are you today?   
+> Please, I have read your message carefully, and I understand your situation. That is why I pleaded with you yesterday, because I don't know what to tell you other than to beg you because I don't want to lose the luggage at the Turkish airport. According to the shipping company, the airport authority will be confiscating the shipment if we fail to pay the insurance certificate fee, and I have been crying since yesterday evening because I am in a very bad situation here in Syria, which I can't even help myself with, so please I want you to see me as your sister and save my life, and I will forever be grateful.  
+> 
+> Meanwhile, contact the shipping company for their payment details so that you will make the payment to the company to enable them to deliver the luggage to you in Hamburg, Deutschland, without any other delay. Also, according to the shipping company, the Diplomatic Insurance Tag is necessary to ensure the safety and security of the shipment and to avoid any unforeseen circumstances that may arise during transit in Hamburg, Deutschland, and the shipping company said that they will issue the insurance certificate copy to you once we make the payment to them and they collect the documents and deliver the luggage to you in Hamburg, Deutschland, safely.  
+> 
+> I hope you understand my message now.  
+> I will wait for your reply before I go to my night duty.  
+
+
+Wir schreiben zurück, dass wir uns natürlich an das Transportunternehmen wenden werden.
+
+> Hi Arisha,  
+>   
+> Good evening! Thank you for your message. I understand your situation, and I am sorry you are feeling so stressed.  
+>   
+> I will write to the shipping company to ask for the payment details. When I know more, I will tell you.  
+>   
+> Take care and stay safe at your night duty.  
+
+... und schreiben natürlich an das Transportunternehmen.
+
+> Dear Musa Ali,  
+> I am in contact with Arisha Schuch regarding the package, she said, that she already paid for it, but it was only a part payment?  
+>   
+> Could you please let us know how the payment can be made? Is it possible to pay via bank transfer?  

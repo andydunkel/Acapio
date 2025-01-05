@@ -122,3 +122,16 @@ Der Antwalt meldet sich wieder. Wir sollen die Adresse an eine Olga überweisen,
 > 
 > Best regards,
 
+
+### Kurze Antwort
+
+Die Antwort fällt eher genervt aus. Wir können mit Bitcoin bezahlen, Moneygram, Ria oder was auch immer.
+
+> use ria or moneygram in any bank and send the transfer fees if you want an alternative that cheaper then you can use bitcoins we can provide you with a wallet id
+
+Natürlich fragen wir zurück, dass wir uns damit nicht auskennen, fragen nach der Bitcoin-Adresse und ob es eine Anleitung gibt.
+
+> Hello Mr. Hawkins,  
+>   
+> I am not familiar with those, do I just have to send money via these services to that address. How?  
+> Bitcoin? What is the address?  
