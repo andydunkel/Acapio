@@ -169,6 +169,12 @@ WhatsApp hat wie gehabt auch keine E-Mail-Adresse zur einachen Kontaktierung. Al
 
 Mal schauen, ob da eine Antwort kommt...
 
+## Wir fliegen auf!
+
+Am nächsten Morgen trudelt erneut eine Antwort ein. Wir steigen direkt wieder ein und geben vor, bereits 1000 Euro in der Bitget-App eingezahlt zu haben. Dazu fälschen wir ein paar Screenshots – leider mit etwas wackeliger Performance, sodass wir auffliegen. Die Scammer verstehen ab diesem Punkt keinen Spaß mehr: Statt weiterer Nachrichten hagelt es eine Beleidigung, und wir werden kurzerhand blockiert.
+
+![Wir sind aufgeflogen](/posts/2025-01-02_geld_verdienen_online/the_end.webp)
+
 ## Fazit
 
 Ach ja, der Traum vom schnellen Geld – einfacher geht’s wirklich nicht! Man braucht keine Fähigkeiten, keine Berufserfahrung und anscheinend auch keine roten Flaggen zu erkennen. Stattdessen wird man Schritt für Schritt in die Welt der Krypto-Transfers eingeführt, inklusive einer kostenlosen IT-Schulung, bei der jemand „mit Engelsgeduld“ verlorenes Potenzial als Helpdesk-Mitarbeiter beweist. Was für ein Service!

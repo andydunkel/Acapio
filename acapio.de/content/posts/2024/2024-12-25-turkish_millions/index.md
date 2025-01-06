@@ -385,3 +385,31 @@ Und außerdem ein Dokument, mit Stempel, eigens angepasst für uns.
 Eine Suche zum Herren Ahmet Kuran fördert eine Webseite zu Tage. Diese wirkt im ersten Moment nicht schlecht, ist aber mit Wahrscheinlichkeit Fake. Keine Fotos, kaputte Links und wenig Inhalt. Die E-Mail-Adresse ich eine Hotmail-Adresse.
 
 ![Die Fake Webseite](/posts/2024-12-25_turkish_sick_woman/anwalt_3.webp)
+
+## Formular für Schenkungssteuer
+
+Klar, hier ist die Passage etwas humorvoller gestaltet:  
+
+Natürlich, das muss echt sein – schließlich hat uns *der Anwalt persönlich* kontaktiert! Aber hey, wir sind in Deutschland, und hier läuft nichts ohne Bürokratie. Einfach Geld annehmen? Nicht mit uns – Schenkungssteuer! Also basteln wir eine Vorlage, packen die nötigen Formulare dazu und schicken das Ganze mit bestem Beamtendeutsch zurück an den Scammer.  
+
+Wenn du noch weitere Ideen oder Details brauchst, lass es mich wissen! 😊
+
+![Formular für Schenkungssteuer](/posts/2024-12-25_turkish_sick_woman/schenkungssteuer.webp)
+
+> Sehr geehrter Ahmet Kuran,    
+>   
+> vielen Dank für die Übersendung der Vollmacht sowie der Kopien Ihres Personalausweises mit der offiziellen Bankadresse.    
+>   
+> Ich haben mich inzwischen informiert und es ist so, dass in Deutschland bei Schenkungen die sogenannte Schenkungssteuer anfällt.  
+> Um den rechtlichen Anforderungen nachzukommen, ist es erforderlich, das beigefügte Formular zur Schenkungssteuer auszufüllen. Ich habe meine Daten bereits eingefügt.  
+>   
+> Ich bitte Sie, die relevanten Angaben in dem beigefügten Formular vorzunehmen und mir das ausgefüllte Dokument zurückzusenden, damit ich die weiteren Schritte einleiten kann.    
+>   
+> Weitere Informationen zur Schenkungssteuer finden Sie zudem unter folgendem Link:    
+> https://www.hamburg.de/politik-und-verwaltung/behoerden/finanzbehoerde/schenkungsteuer-207808    
+>   
+> Vielen Dank für Ihre Unterstützung. Es ist leider alles kompliziert in Deutschland.    
+>   
+> Mit freundlichen Grüßen    
+
+

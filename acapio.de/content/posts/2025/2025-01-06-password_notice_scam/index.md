@@ -44,7 +44,7 @@ E-Mail-Adresse und Passwort werden übermittelt. In unserem Fall, Zufallsdaten.
 
 ## Was sind die Folgen? 
 
-Die Folgen können dramatisch sein. Sobald die Bösewichte die Zugangsdaten haben, können diese sich einloggen und als erste Maßnahme wird das Kennwort geändert. Neben Zugriff auf die Mails können sie mit der E-Mail-Adresse von anderen Webseiten Kennwörter zurücksetzen und so weitere Accounts übernehmen.
+Die Folgen können dramatisch sein. Sobald die Bösewichte die Zugangsdaten haben, können diese sich einloggen und als erste Maßnahme wird das Kennwort geändert. Neben Zugriff auf die Mails können sie mit der E-Mail-Adresse von anderen Webseiten Kennwörter zurücksetzen und so weitere Accounts übernehmen. Dazu kommt, dass nicht wenige das Passwort an vielen Stellen verwenden.
 
 **Sollten Sie auf sowas reinfallen, versuchen Sie umgehend versuchen das Kennwort zurück zu setzen. Ansonsten kontaktieren Sie ihren Provider, damit dieser die E-Mail-Adresse sperren oder das Kennwort zurücksetzen kann.**
 

@@ -117,3 +117,7 @@ Im Grunde können wir uns eine Antwort sparen, die Phisher haben ihr Ziel erreic
 Vorsicht ist bei solchen Angeboten angesagt. Das Red-Flag ist ein Download von Dateien mit Passwortschutz. Ausgeführt wird der Computer infiziert. In den meisten Fällen wird eine Backdoor installiert, welche dann ausgenutzt wird um weitere Malware nachinstallieren zu können. Das kann dann alles mögliche sein, vom Bitcoin-Miner, Erpessungs-Trojaner, Teilnahme an Spam und Botnetzwerken, you name it.
 
 Virenscanner bieten nur hier begrenzten Schutz, selbst nach einigen Tagen erkennen nur [wenige die Malware](https://www.virustotal.com/gui/file/18b6f5ab29a4676139b5e2f763583a4e6fbbdb1c3ca79f281b9d3c4acbc89762/detection).
+
+## Video
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/z6206Ywe6vc?si=ocJKYU_zN3I7oagx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

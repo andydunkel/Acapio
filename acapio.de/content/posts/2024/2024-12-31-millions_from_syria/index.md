@@ -377,3 +377,29 @@ Der Verweis auf Artikel 27 der Wiener Konvention? Klingt beeindruckend, aber auc
 > Looking forward to your reply.  
 
 
+## Wir bekommen die Wiener Konvention erklärt
+
+Die Antwort gibt uns ein bisschen mehr Stoff, aber nicht unbedingt mehr Klarheit. Hier eine kurze Zusammenfassung für den Blog:
+
+Und wieder eine kreative Runde im "Diplomatic Luggage Adventure"! Jetzt wird erklärt, dass Artikel 27 der Wiener Konvention natürlich Immunität gewährt, aber diese angeblich Grenzen hat – insbesondere bei "diplomatischen Versicherungen". Ohne die obligatorischen Papiere, so heißt es, bleibt unser Koffer in der Türkei stecken, oder schlimmer noch, er wird beschlagnahmt! Doch keine Sorge, wir könnten die Dokumente selbst beschaffen, wenn wir zufällig einen diplomatischen Pass in der Schublade hätten. Praktischerweise bietet die Firma diesen Service aber gleich mit an. Klingt nach einem fairen Deal, oder? 😉
+
+> We at Fexpress Diplomatic Security Delivery Company have received your message, and we will explain everything for you so that you will know how diplomatic delivery works, and as we explained to your partner before, under the provisions of Article 27 of the Vienna Convention on diplomatic relations, in all world diplomatic logistics companies, the diplomatic insurance will be requested in the German airport as usual and as governed by all companies in diplomatic countries because we must provide the insurance for the consignment to Turkish airport authority before we can depart to Hamburg, Deutschland, and without it, the consignment would be detained by Turkish airport authorities.  
+>   
+> Yes, you are right that diplomatic deliveries have immunity, but the immunity has limits, and we must obey the rules and regulations of the diplomatic deliveries to all diplomatic countries, so your luggage still needs diplomatic insurance documents to cover it to the final destination.  
+>   
+> The insurance documents are mandatory because without the documents, Turkish airport authorities will not allow us to depart with your luggage without the insurance documents, and your luggage will be seized.  
+>   
+> You can go on to obtain your diplomatic insurance certificate if you have your own diplomatic passport or license, but we always use our company name to obtain our customers documents.  
+>   
+> All your delivery papers are with the Turkish customs authorities, waiting for the insurance certificate before we can proceed with your delivery to the final destination, and there is not much time to delay.  
+>   
+> Thank you for your understanding and cooperation.  
+
+
+## Wir schalten unseren Anwalt ein
+
+Idee: wir haben doch [bereits einen Anwalt](https://acapio.de/posts/2024-12-25_turkish_sick_woman/) aus unserem türkischen Scam! Vielleicht kann er das klären.
+
+![E-Mail mit Anwaltsadresse](/posts/2024-12-31-millions-from-syria/anwalt.png)
+
+
