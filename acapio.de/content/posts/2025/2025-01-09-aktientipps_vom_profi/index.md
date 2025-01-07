@@ -42,3 +42,5 @@ Wertpapier-Identifikationsnummer: A40EWH
 Bitte führe den Limitauftrag gemäß meiner Anweisung innerhalb des angegebenen Zeitrahmens und zu dem angegebenen Preis aus.   
 > Sende mir nach erfolgreichem Auftrag und Kauf bitte einen Screenshot zur Bestätigung, damit ich die Richtigkeit überprüfen und dir den besten Verkaufspreis mitteilen kann.  
 
+https://www.finanzen.net/aktien/health_in_tech_a-aktie
+
