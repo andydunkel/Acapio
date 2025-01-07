@@ -413,3 +413,31 @@ Wenn du noch weitere Ideen oder Details brauchst, lass es mich wissen! 😊
 > Mit freundlichen Grüßen    
 
 
+### Update aus Istanbul: Bürokratie, Schenkungssteuer und ein Countdown
+
+Kaum hatten wir unser wunderbar deutsches Schenkungssteuerformular an den Anwalt geschickt, kam die Antwort prompt. Überraschung: In der Türkei ist das Formular natürlich „nicht wichtig“. Aber hey, unser Anwalt war so nett, trotzdem seine „privaten Informationen“ einzutragen – für den Fall, dass wir mal nachschlagen wollen. Wie fürsorglich!  
+
+Der eigentliche Kern der Nachricht? Unsere 48-Stunden-Deadline. Entweder wir zahlen 1620 Euro Bearbeitungsgebühr an „Rosi Johnson“ (klingt vertrauenswürdig, oder?) oder – haltet euch fest – unser Erbschaftsgeld wird „storniert“. Ja, richtig gelesen, storniert. Klingt fast so, als würden wir einen Gutschein verfallen lassen.  
+
+Aber keine Sorge, die drei magischen Dokumente (eidesstattliche Erklärung, Begünstigtenbescheinigung und Eidesdokument) sichern alles ab – zumindest in der Fantasy-Welt des Anwalts. Wir überlegen jetzt, ob wir einen Countdown-Timer starten oder einfach noch ein paar Formulare zurückschicken. Man weiß ja nie, was der nächste Bürokratie-Move bringt.  
+
+![Formular für Schenkungssteuer ausgefüllt](/posts/2024-12-25_turkish_sick_woman/schenkungssteuer_1.webp)
+
+
+## Die drei heiligen Dokumente und das Abenteuer der Bürokratie
+
+Drei wichtige Dokumente, die unser Erbe sichern – klingt eher nach einer Fantasy-Quest als nach Bürokratie. Aber hey, bevor wir unsere „Schatzkarte“ mit der Bearbeitungsgebühr bezahlen, wollen wir die magischen Schriftrollen natürlich erstmal sehen. Sicher ist sicher, oder? 😉  
+
+Wir schreiben zurück:
+
+> Sehr geehrter Herr Kuran,  
+>   
+> vielen Dank für Ihre schnelle Rückmeldung und Ihre Mühe, das Schenkungssteuerdokument auszufüllen. Dass Sie sogar Ihre privaten Informationen beigefügt haben, zeigt wirklich großes Vertrauen – das schätze ich sehr!  
+>   
+> Ich verstehe natürlich, dass in der Türkei andere Regelungen gelten und das Formular dort nicht erforderlich ist. Allerdings muss ich hier weiterhin alle rechtlichen Anforderungen einhalten, damit alles reibungslos abläuft.  
+>   
+> Daher bitte ich Sie, mir vorab Kopien der drei entscheidenden Dokumente – der eidesstattlichen Erklärung, der Begünstigtenbescheinigung und des Eidesdokuments – zukommen zu lassen. Sobald ich diese geprüft habe, werde ich die Bearbeitungsgebühr überweisen.  
+>   
+> Vielen Dank für Ihre Unterstützung. Ich freue mich auf Ihre Rückmeldung!  
+
+

@@ -403,3 +403,17 @@ Idee: wir haben doch [bereits einen Anwalt](https://acapio.de/posts/2024-12-25_t
 ![E-Mail mit Anwaltsadresse](/posts/2024-12-31-millions-from-syria/anwalt.png)
 
 
+### Scammer lassen sich darauf nicht ein
+
+Man will uns nicht auf dumme Gedanken bringen und pocht lieber auf die Dringlichkeit: Hohe Lagergebühren drohen, und Dritte einzuschalten sei natürlich streng verboten – schließlich soll der Betrug nicht komplizierter werden als nötig.
+
+> Please understand that this is a diplomatic matter, and involving a third party without a diplomatic license will implicate this matter.  
+>   
+> Meanwhile, for the safety measure of this consignment, we would like to inform you that the payment is for the preparation of insurance documents certificate, and we don't need any third party to get involved because we need to be very careful with your involvement with third parties because we are working according to our company rules and regulations. If you involve anyone, we will abandon this consignment in the airport authority, and we won't be responsible for anything concerning the consignment again.  
+>   
+> Finally, the consignment will be on demurrage from 10th January, which is Thursday, and each day costs $120 due to the value of the consignment.  
+>   
+> I hope this will serve as a warning to you.  
+>   
+> Thank you for your understanding and cooperation.  
+

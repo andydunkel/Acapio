@@ -79,3 +79,48 @@ Wir können unsere Freude kaum verbergen!
 > Vielen Dank für Ihre Mühe und Ihre Arbeit, dieses großartige Projekt zu unterstützen. Ich freue mich auf Ihre baldige Rückmeldung!    
 >   
 > Mit herzlichen Grüßen,
+
+
+## Die Anwältin antwortet
+
+Natürlich lassen sie uns nicht lange warten – zack, die Antwort ist da! Und was für eine: episch in ihrer Länge, fast schon ein kleines Epos der Dreistigkeit. Klar, wir sollen mal wieder unser komplettes Leben auf dem Silbertablett servieren. Name, Adresse, Bankdaten, der gute alte Personalausweis – fehlt nur noch die Einladung zum Abendessen und der Pin fürs Handy. Alles natürlich „ganz wichtig“ für die Dokumente und den „rechtlichen Ablauf“. Denn wie soll man ohne unsere Bankverbindung eine Million überweisen? Das geht ja gar nicht! 🙃
+
+> Hallo  
+>     Ich möchte Ihnen sehr dafür danken, dass Sie sich bezüglich des rechtlichen Verfahrens zur Spende an mich gewandt haben. Mein Name ist Elisabeth Massi und ich bin die Anwältin, die Herrn Simmons Schiavo Marco vertritt. Ich verstehe, dass Sie sich nach der Spende in Höhe von 1.000.000 € für wohltätige Zwecke erkundigen. Als Rechtsspezialistin bin ich hier, um Sie während des gesamten Rechtsverfahrens zu unterstützen und zu beraten. Ich möchte Sie darüber informieren, dass Herr Simmons Schiavo Marco die Spendengelder genehmigt hat, und ich verpflichte mich, sicherzustellen, dass alle erforderlichen rechtlichen Unterlagen vorhanden sind, um die reibungslose Überweisung der Mittel auf Ihr angegebenes Bankkonto nach Unterzeichnung der erforderlichen Dokumente zu ermöglichen. Bevor ich jedoch mit dem Verfahren fortfahre, möchte ich Sie um zusätzliche Informationen bitten, um sicherzustellen, dass alle rechtlichen Dokumente in Ordnung sind und alles gut geht. Bitte stellen Sie mir die folgenden Informationen zur   
+> Verfügung, damit ich das erforderliche Verfahren vor dem Obersten Gericht fortsetzen kann.  
+>   
+> Vollständiger Name:  
+> Land:  
+> Staat:  
+> Alter:  
+> Personenstand:  
+> Telefonnummer:  
+> Scan-Kopie des Personalausweises  
+>   
+> Erforderliche Bankdaten:  
+>   
+> 1. Name des Bankinhabers...  
+> 2. Bankkontonummer...  
+> 3. Name der Bank.................  
+> 4. IFSC-Code...................  
+> 5. Adresse der Bank.................  
+>   
+> Sobald Sie mir die benötigten Informationen zur Verfügung stellen, werde ich mit sofortiger Wirkung fortfahren. Wenn Sie die Verfahren befolgen, erhalten Sie Ihre Mittel so schnell wie möglich.  
+>   
+> Vielen Dank und ich hoffe, bald von Ihnen zu hören.  
+>   
+> Vielen Dank  
+> Barr. Elisabeth Massi  
+> LEGAL COMPLIANCE LIMITED  
+> +1 (805) 657-7932  
+
+
+## Wir verlangen ein Selfie
+
+Heute geben wir uns mal skeptisch und fragen nach einem Selfie mit Zeitung und oder Webeite.
+
+> Guten Tag Frau Massi,  
+>  
+> vielen Dank für Ihre Nachricht und das großzügige Angebot. Allerdings bin ich ein äußerst sicherheitsbewusster Mensch und möchte mich vergewissern, dass alles seine Richtigkeit hat. Daher benötige ich zunächst ein Selfie von Ihnen, auf dem Sie die aktuelle Tageszeitung oder Internetseite mit deutlich sichtbarem Datum in der Hand halten. Nur so kann ich sicherstellen, dass ich keinem Betrug zum Opfer falle. Ich hoffe, Sie verstehen meine Vorsicht.  
+>  
+> Mit freundlichen Grüßen,  

@@ -75,7 +75,7 @@ Ein gewisser Herr Steven Oscar, angeblich Anwalt aus Madrid, teilt uns mit, dass
 
 ### Antwort an den Anwalt
 
-Natürlich schreiben wir zurück! 4.200.000 Millionen Euro sind trotz Inflation noch genug Geld. 🤗
+Natürlich schreiben wir zurück! E-Mail-Adresse: "stevenoscarcham@gmail.com". 4.200.000 Millionen Euro sind trotz Inflation noch genug Geld. 🤗
 
 > Lieber Herr Steven Oscar,  
 > 
@@ -129,3 +129,33 @@ Natürlich kommen wir der bitte nach, auf eine Ausweiskopie verzichten wir aber.
 > DATEN ENTFERNT
 > 
 > Wir hoffen, dass das für Ihre Bearbeitung ausreicht!
+>
+
+## Gebühren werden fällig
+
+Wie zu erwarten, bleibt der vermeintliche Geldsegen nicht kostenlos: Eine Gebühr von 780 Euro wird verlangt. Damit bewegen sich die Betrüger im soliden Mittelfeld ihrer üblichen Forderungen – nicht zu hoch, um abschreckend zu wirken, aber auch nicht so niedrig, dass es verdächtig wäre. Ein klassischer psychologischer Trick, um Glaubwürdigkeit zu suggerieren.
+
+> Guten Tag,  
+>   
+>     Wir leiten Ihre Daten an die Bank weiter und möchten Sie darüber informieren, dass Sie, bevor die Spende an Sie überwiesen werden kann, um die Zahlung einer einmaligen Gebühr gebeten werden, die dazu dient, die Spende endgültig zu aktivieren und die Spende auf Ihr Bankkonto überweisen zu lassen Gemäß den Regeln und Vorschriften der Bank sind Antragsteller für die Autorisierungsgebühren verantwortlich, die auf die Spende erhoben werden, wie in der E-Mail unten angegeben. Gemäß den Bedingungen und Anforderungen der Bank kann Ihre Spende erst nach der Registrierung an Sie überwiesen werden Wenn Ihr Spendenbetrag von €4,200,000 von den erforderlichen Genehmigungsbehörden genehmigt wurde, werden Sie zur Zahlung des Betrags von €780  aufgefordert. Dieser Vorgang ist für mich als ausländischer Staatsbürger sehr obligatorisch. Ihre Spende kann an Sie überwiesen werden, sobald Sie den Anforderungen nachkommen und die Autorisierungsgebühr von €780  bezahlen. Wenn Sie es also wirklich ernst meinen, lassen Sie mich I  
+> hnen helfen, aber zuerst müssen Sie sich selbst helfen, indem Sie diese Gebühr einhalten, um zu beweisen, dass Sie derjenige sind, der die Spende erhält. Wir möchten, dass Sie wissen, dass Ihre Spende durch Gottes Gnade, sobald diese Zahlung erfolgt ist, noch heute überwiesen wird. Melden Sie sich schnellstmöglich bei mir, damit wir mit dem Spendenübertragungsprozess beginnen können.  
+>   
+>    Grüße  
+>     Herr Steven  
+>    Rechtsanwalt  
+
+
+## Wohin schicken wir das Geld?
+
+Natürlich fragen wir höflich nach, wie und wohin die Zahlung erfolgen soll, und erfinden eine Ausrede, dass wir in Deutschland einen Überweisungsschein für Auslandsüberweisungen benötigen. 
+
+> Hallo Herr Steven,  
+>   
+> ich möchte die Gebühr von 780 Euro gern bezahlen, damit alles klappt und die Spende überwiesen werden kann. Allerdings weiß ich nicht genau, wie das funktioniert. Können Sie mir bitte sagen, wohin ich das Geld überweisen soll?  
+>   
+> Da ich in Deutschland bin, brauche ich anscheinend einen Überweisungsschein für Auslandsüberweisungen, weil das hier so vorgeschrieben ist. Können Sie mir vielleicht eine Vorlage oder die genauen Angaben schicken, die ich dafür ausfüllen muss?  
+>   
+> Ich will nichts falsch machen und hoffe, dass alles schnell klappt.  
+>   
+> Viele Grüße,  
+
