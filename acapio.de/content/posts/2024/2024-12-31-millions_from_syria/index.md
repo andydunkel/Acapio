@@ -417,3 +417,21 @@ Man will uns nicht auf dumme Gedanken bringen und pocht lieber auf die Dringlich
 >   
 > Thank you for your understanding and cooperation.  
 
+## Wir wollen jetzt eine Rechnung
+
+Rechtsanwälte? Nein, danke. Aber ein bisschen Bürokratie muss sein – schließlich leben wir in Deutschland. Eine Zahlung ohne ordentliche Rechnung? Undenkbar! Wir haben deshalb höflich nach einem Beleg gefragt. Mal sehen, ob unser guter Freund Musa Ali den Anforderungen der deutschen Buchhaltungskunst gewachsen ist.
+
+> Dear Mrr. Musa Ali,  
+>   
+> Thank you for your message. I understand.  
+> But to check everything properly, I kindly ask you to send me an official invoice or document that proves its authenticity.  
+>   
+> The invoice should include the following information:  
+>   
+> - Exact payment details (recipient, bank account, amount, purpose of payment)  
+> - Your company or authority details (address, contact person)  
+> - The reason for the payment  
+>   
+> Please send the invoice as a PDF. In Germany, we can get into trouble very quickly without proper documents.  
+>   
+> Thank you for your help.  
