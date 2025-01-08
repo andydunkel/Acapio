@@ -159,3 +159,36 @@ Natürlich fragen wir höflich nach, wie und wohin die Zahlung erfolgen soll, un
 >   
 > Viele Grüße,  
 
+
+## Antwort mit Bankverbindung
+
+Die Antwort liest sich wie der Anfang eines schlechten Filmskrimis: „Überweisen Sie bitte Geld auf dieses mysteriöse spanische Konto, und zwar für... *Familienbeförderung*?“ Ernsthaft? Der Kontoinhaber „GODDAY OGADU“ klingt dabei eher wie ein DJ-Name als ein vertrauenswürdiger Geschäftspartner. Und natürlich darf der Klassiker nicht fehlen: „Senden Sie uns bitte den Transaktionsbeleg“ – klar, damit sie sicher sein können, dass Sie wirklich auf den Betrug reingefallen sind. Unser Rat: Finger weg von solchen E-Mails und behalten Sie Ihr Geld lieber für den nächsten Urlaub in Spanien – das ist sicher besser angelegt!
+
+> Hallo  
+> Vielen Dank für Ihre E-Mail und Ihr Verständnis. Bitte senden Sie eine SEPA-Überweisung unter Angabe der IBAN-Nummer an das folgende Konto.  
+>   
+> BANK NAME. : BBVA BANCO S.A  
+> NAME DES HALTERS. : GODDAY OGADU  
+> IBAN-NUMMER. : ES63 0182 4904 7702 0280 4250  
+> SWIFT-CODE. BBVAESMMXXX  
+> ZAHLUNGSZWECK: FAMILIENBEFÖRDERUNG  
+>   
+> Sobald die Zahlung gesendet wurde, senden Sie mir zur Bestätigung eine Kopie des Transaktionsbelegs.  
+> Danke  
+> Steven  
+
+Wir melden den Vorfall der spanischen Bank.
+
+### Wir brauchen eine Rechnung
+
+Natürlich können wir nicht einfach das Geld auf gut Glück überweisen – schließlich soll alles seine Ordnung haben. Also schreiben wir zurück und bitten höflich um eine offizielle Rechnung. Dabei berufen wir uns auf die angeblichen Anforderungen der Sparkasse für internationale Überweisungen. Schließlich wollen wir ja sicherstellen, dass der Zahlungszweck „Familienbeförderung“ auch korrekt dokumentiert ist. 
+
+> Sehr geehrter Steven,  
+>   
+> vielen Dank für Ihre Antwort und die Übermittlung der Bankdaten.  
+>   
+> Ich war heute bei meiner Sparkasse, um die internationale SEPA-Überweisung auf das angegebene Konto durchzuführen. Dabei wurde mir mitgeteilt, dass für solche Überweisungen ins Ausland, insbesondere nach Spanien, eine offizielle Rechnung erforderlich ist. Diese muss den Zahlungszweck („Familienbeförderung“) sowie die Kontodaten enthalten.  
+>   
+> Könnten Sie uns bitte eine entsprechende Rechnung als PDF-Dokument erstellen? Sollten Sie dafür noch weitere Informationen benötigen, lassen Sie es mich bitte wissen.  
+>   
+> Vielen Dank für Ihr Verständnis. Ich freue mich auf Ihre schnelle Rückmeldung, damit wir die Überweisung abschließen können.  

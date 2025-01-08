@@ -356,6 +356,31 @@ Eine automatische Antwort lässt darauf schließen, dass wir mit keiner schnelle
 > Thank you.  
 > Vivid Money
 
+
+#### Bank nicht zuständig
+
+Die Bank antwortet nach ein paar Tagen, sei aber nicht zuständig. Die vergeben nur DE-IBANs, ok, war ja eigentlich eine aber OK.
+
+> Ich hoffe, dass es dir mit dieser E-Mail gut geht.  
+>   
+> Danke, dass du dich an uns gewandt hast. Bitte entschuldige die späte Antwort, da wir gerade sehr viele Anfragen erhalten.  
+>   
+> Vielen Dank für diese Information. Aber wir bieten diese IBAN nicht an. Wir bieten nur DE IBAN an. Bitte teilen Sie uns auch dazu weitere Informationen mit.  
+>   
+> Mit freundlichen Grüßen,  
+> Dein Vivid-Team💜  
+
+Wenig später kommt noch eine zweite Antwort:
+
+> Danke, dass du dich an uns gewandt hast. Bitte entschuldige die späte Antwort, da wir gerade sehr viele Anfragen erhalten.  
+>   
+> Danke, dass du uns die Informationen zur Verfügung gestellt hast. Leider können wir nur dann auf ein Konto zugreifen, wenn wir mit dem Kontoinhaber in Kontakt stehen. Wenn es irgendetwas Verdächtiges auf dem Konto gibt, werden wir es auf jeden Fall überprüfen und nachforschen. Aber im Moment können wir auch zur Sicherheit des Kontoinhabers keine Informationen weitergeben.  
+   
+#### Banking Circle
+
+Gut, wenn Vivid nicht zuständig ist, suchen wir weiter. Die Recherche ergibt, dass "Banking Circle" wohl als Dienstleister fungiert. Schauen wir uns die [Bewertungen von Banking Circle](https://de.trustpilot.com/review/bankingcircle.com) an, sehen wir, dass Scammer und Betrüger sich hier wohl zu fühlen scheinen. Jede Menge Beschwerden zu Trojanern, eBay-Betrug. Dann schreiben wir da mal hin. Immerhin gibt es eine E-Mail-Adresse, die wir direkt anschreiben können: reportfraud@bankingcircle.com
+
+
 ### Antwort
 
 Der Verweis auf Artikel 27 der Wiener Konvention? Klingt beeindruckend, aber auch verdächtig nach einem Griff ins Regal für „klingt offiziell, aber bitte nicht nachfragen“. Das lassen wir uns natürlich nicht zweimal sagen und ziehen unser Ass aus dem Ärmel: ChatGPT. Wenn Diplomatie auf Scam trifft, wird’s erst richtig interessant – also fragen wir mal nach, ob dieser Artikel wirklich die geheime Grundlage für Kofferreisen nach Hamburg ist.
@@ -435,3 +460,5 @@ Rechtsanwälte? Nein, danke. Aber ein bisschen Bürokratie muss sein – schlie�
 > Please send the invoice as a PDF. In Germany, we can get into trouble very quickly without proper documents.  
 >   
 > Thank you for your help.  
+
+

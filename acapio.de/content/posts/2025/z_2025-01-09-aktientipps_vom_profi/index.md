@@ -48,22 +48,16 @@ Aktienname:
 Aktiencode: HIT
   
 > Kaufmethode: Limitauftrag zum angegebenen Preis  
-> 
-Kaufpreis: 5.09 USD
-Kaufmenge: 590 Aktien  
-> Kaufzeit: 19:00 - 19:30  
-> 
-Internationale Identifikationsnummer ISIN: US42217D1028  
-> 
-Haltedauer: 4 Tage
-  
+> Kaufpreis: 5.09 USD  
+> Kaufmenge: 590 Aktien    
+> Kaufzeit: 19:00 - 19:30    
+> Internationale Identifikationsnummer ISIN: US42217D1028  
+> Haltedauer: 4 Tage  
 > Gewinn: ca. 10%  
 > 
 Wertpapier-Identifikationsnummer: A40EWH  
-> 
-  
-> 
-Bitte führe den Limitauftrag gemäß meiner Anweisung innerhalb des angegebenen Zeitrahmens und zu dem angegebenen Preis aus.   
+>   
+> Bitte führe den Limitauftrag gemäß meiner Anweisung innerhalb des angegebenen Zeitrahmens und zu dem angegebenen Preis aus.   
 > Sende mir nach erfolgreichem Auftrag und Kauf bitte einen Screenshot zur Bestätigung, damit ich die Richtigkeit überprüfen und dir den besten Verkaufspreis mitteilen kann.  
 
 Wir spielen das Spiel mal mit und "kaufen" die Aktie. Als Beweis sollen wir einen Screenshot schicken, machen wir natürlich. 

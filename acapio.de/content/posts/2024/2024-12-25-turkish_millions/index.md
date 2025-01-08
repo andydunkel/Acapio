@@ -441,3 +441,41 @@ Wir schreiben zurück:
 > Vielen Dank für Ihre Unterstützung. Ich freue mich auf Ihre Rückmeldung!  
 
 
+## Wir werden zuerst abgewiesen ... dann Letter of Guarantee
+
+Zuerst werfen wir abgewiesen, die Dokumente gibt es erst gegen Geld. Die Zeit rennt...
+
+
+> Ohne die Bearbeitungsgebühr für die Dokumente können die drei Dokumente nicht bearbeitet und an Sie gesendet werden. Es verstößt gegen die Richtlinien der Anwaltskanzlei, die Dokumente ohne Zahlung der Bearbeitungsgebühr zu bearbeiten.  
+>   
+> Daher empfehlen wir Ihnen, die Bearbeitungsgebühr für die Dokumente in Höhe von 1620 Euro so schnell wie möglich zu überweisen und uns zur Bestätigung eine Kopie der Überweisungsquittung per E-Mail zuzusenden.  
+>   
+> Ihre drei Dokumente (eidesstattliche Erklärung, Begünstigtenbescheinigung und Eidesbeweis) können nur dann in Ihrem Namen als neuer Begünstigter der Erbschaftsgelder bearbeitet werden, wenn Ihre Bearbeitungsgebühr bezahlt und von diesem Büro bestätigt wurde. Wir empfehlen Ihnen, die Zahlung schnell vorzunehmen.  
+> Hinweis: Sie haben noch 24 Stunden Zeit, um die Bearbeitungsgebühr für die Dokumente zu bezahlen, andernfalls werden die Erbschaftsgelder als nicht beanspruchte Gelder von Ihrem Namen gestrichen.  
+
+Wenig später und nach ein paar Kaffee, will man sich doch nicht die Blöße geben und hat noch einen "Letter of Guarantee" für uns erstellt. Datum und Name angepasst, da hat sich jemand immerhin etwas Arbeit gemacht.
+
+> Anbei finden Sie die Garantieerklärung. Ich freue mich darauf, von Ihnen die Bearbeitungsgebühr für die Dokumente zu erhalten, damit alle Dokumente in Ihrem Namen als neuer Begünstigter der Erbschaftsgelder bearbeitet werden können.  
+
+![Letter of guarantee](/posts/2024-12-25_turkish_sick_woman/letter_of_guarantee.webp)
+
+
+## Wir fordern eine Treuhandauskunft an
+
+In der Welt der Erbschafts-Scammer ist Geduld bekanntlich keine Tugend – aber warum es ihnen leicht machen? Nach ihrer höflich formulierten Aufforderung, uns umgehend von 1.620 Euro zu trennen, hatten wir natürlich ein paar Rückfragen. Schließlich möchte man sicher sein, dass das Ganze auch "rechtlich abgesichert" ist. Unsere Antwort:
+
+> Hallo,  
+>   
+> ich war heute bei der Hamburger Stadtsparkasse, wo ich mein Konto habe, um die Überweisung für die Bearbeitungsgebühr zu machen. Dort wurde mir aber gesagt, dass ich keine Zahlung vornehmen soll, solange ich keine Treuhandauskunft von Feyza Olcay Ýbrahim bekommen habe.  
+>   
+> Mir wurde erklärt, dass das wichtig ist, um sicherzustellen, dass alles rechtlich abgesichert ist. Könnten Sie mir bitte so eine Auskunft schicken, damit ich die Überweisung schnellstmöglich abschließen kann?  
+>   
+> Ich kenn mich damit nicht aus, habe aber das hier im Internet gefunden:  
+>   
+> https://www.juraforum.de/muster-vorlagen/treuhandvereinbarung  
+>   
+> Sie wissen da sicher besser Bescheid.  
+>   
+> Danke für Ihr Verständnis und viele Grüße,  
+
+
