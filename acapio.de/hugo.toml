@@ -56,13 +56,16 @@ home = ["HTML", "RSS", "JSON"]
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
-
-
+      xhtml = false
+      hardWraps = false
+  [markup.goldmark.extensions]
+      linkify = false      
+  
 [goldmark]
   [goldmark.renderer]
     hardWraps = false
     unsafe = true # change to false to disable inclusion of rawHTML and math functions
-    xhtml = false
+    xhtml = false    
   [goldmark.extensions]
     typographer = false
   [highlight]

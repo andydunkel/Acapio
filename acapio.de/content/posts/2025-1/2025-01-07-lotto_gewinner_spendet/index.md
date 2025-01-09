@@ -124,3 +124,10 @@ Heute geben wir uns mal skeptisch und fragen nach einem Selfie mit Zeitung und o
 > vielen Dank für Ihre Nachricht und das großzügige Angebot. Allerdings bin ich ein äußerst sicherheitsbewusster Mensch und möchte mich vergewissern, dass alles seine Richtigkeit hat. Daher benötige ich zunächst ein Selfie von Ihnen, auf dem Sie die aktuelle Tageszeitung oder Internetseite mit deutlich sichtbarem Datum in der Hand halten. Nur so kann ich sicherstellen, dass ich keinem Betrug zum Opfer falle. Ich hoffe, Sie verstehen meine Vorsicht.  
 >  
 > Mit freundlichen Grüßen,  
+
+## Fazit
+
+Leider blieb uns das ersehnte Selfie mit Tageszeitung und Lottoschein verwehrt – offensichtlich war Frau Massi an diesem Tag nicht besonders fotogen. 😄 Statt Millionen auf dem Konto haben wir jetzt immerhin eine spannende Geschichte
+
+Eins steht fest: Den Jackpot haben hier eindeutig nur wir gewonnen – in Form eines erstklassigen Unterhaltungswerts! 🎉
+

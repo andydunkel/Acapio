@@ -479,3 +479,13 @@ In der Welt der Erbschafts-Scammer ist Geduld bekanntlich keine Tugend – aber 
 > Danke für Ihr Verständnis und viele Grüße,  
 
 
+## Wir geben vor, das Geld überwiesen zu haben
+
+Wir bekommen keine Antwort, da müssen wir wohl aktiv werden, wir erstellen ein Schreiben mit angeblicher Sperre und schreiben fragend an unseren Anwalt des Vertrauens.
+
+> Hallo Herr Kuran,  
+>   
+> ich habe heute nochmal probiert das Geld zu überweisen, aber es kam nur ein Brief in mein Online-Postfach. Wissen sie was zu tun ist? Ich finde da kein Formular. Anbei ein Foto.  
+> Es ist von Betrug die Rede!  
+
+![Schreiben der Bank](/posts/2024-12-25_turkish_sick_woman/bank_sperre.webp)

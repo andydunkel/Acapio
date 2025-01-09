@@ -192,3 +192,30 @@ Natürlich können wir nicht einfach das Geld auf gut Glück überweisen – sch
 > Könnten Sie uns bitte eine entsprechende Rechnung als PDF-Dokument erstellen? Sollten Sie dafür noch weitere Informationen benötigen, lassen Sie es mich bitte wissen.  
 >   
 > Vielen Dank für Ihr Verständnis. Ich freue mich auf Ihre schnelle Rückmeldung, damit wir die Überweisung abschließen können.  
+
+## Die Rechnung trudelt ein
+
+Es scheint, als würden sich die Scammer nun richtig ins Zeug legen: Eine hastig zusammengebastelte Rechnung flattert in unser Postfach. Der Versuch, seriös zu wirken, ist offensichtlich – doch das Ergebnis bleibt wenig beeindruckend.
+
+![](/posts/2025-01-01_charity_fund/rechnung.webp)
+
+### Wir prüfen die Rechnung
+
+Beim genaueren Blick auf die Rechnung fällt uns sofort etwas auf: Die Steuernummer fehlt. Natürlich wollen wir die Sache korrekt abwickeln, schließlich geht es hier um die Buchhaltung! Also verfassen wir eine höfliche Antwort:
+
+> Sehr geehrte Damen und Herren,  
+>   
+> vielen Dank für die Zusendung Ihrer Rechnung. Allerdings ist uns aufgefallen, dass darauf keine Steuernummer angegeben ist. Unsere Bank hat uns ausdrücklich darauf hingewiesen, Rechnungen ohne Steuernummer genau zu prüfen, um Betrugsversuche zu vermeiden. Wir bitten Sie daher um eine korrigierte Rechnung mit allen erforderlichen Angaben.  
+
+## Antwort der Bank
+
+Die spanische Bank hat sich gemeldet und gibt die Sache an ihre Abteilung dafür weiter. Mehr werden wir hier nicht erfahren. Immerhin ein Lob für eine doch recht schnelle Reaktion.
+
+> Dear Andy:  
+>   
+> We would like to thank you for the email you have sent us to inform us about a scam, a fraud with a BBVA account.  
+>   
+> First of all we inform you that if you have suffered fraud, you should inform your bank about the problem you have had in order they claim the amount you have lost as well as to present a policy complaint in your country.  
+>   
+> We will send a copy of your message to the corresponding departments for their knowledge but we can't provide you further help or information in this service, as you are not a client of our bank.  
+

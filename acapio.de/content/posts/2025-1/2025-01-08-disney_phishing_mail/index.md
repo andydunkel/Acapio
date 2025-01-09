@@ -64,6 +64,12 @@ Wir bekommen nach kurzer Zeit eine automatische Antwort. Man prüfe die Sache un
 
 > We have reached out to our customer to determine the nature and cause of this activity or content in your report.
 
+### Amazon sperrt Domain
+
+Amazon reagiert schnell, nach einem Tag ist die Domain gesperrt.
+
+> This is a follow-up message regarding the abuse report that you submitted to AWS. The content or activity you reported has been mitigated. Due to our privacy and security policies, we are unable to provide further details regarding the resolution of this case or the identity of our customer.  
+
 ## Fazit
 
 Die richtige Vorgehensweise bei solchen Mails ist, diese einerseits zu löschen. Hat man dennoch die Befürchtung eine solche Warnung könnte mit dem echten Account in Zusammenhang stehen, dann statt dem Link direkt die Webseite öffnen und sich dort einloggen.
