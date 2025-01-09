@@ -5,12 +5,11 @@ params:
 date: "2025-01-11"
 featured: true
 toc: true
-draft: true
 tags: 
   -  "scam"
 categories:
     - "Scam"
-thumbnail: "lottery.webp"
+thumbnail: "fraud.webp"
 url: "posts/2025-01-11_neurologe_macht_uns_reich"
 summary: "Eine mysteriöse E-Mail, ein verstorbener Neurologe und Millionen auf einem englischen Bankkonto – klingt nach einem Krimi, oder? Doch leider steckt dahinter ein altbekannter Betrug. Wir haben genauer hingeschaut – und schmunzeln noch immer."
 ---

@@ -94,3 +94,34 @@ Natürlich antworten wir und gehen vermeintlich auf den Scam ein.
 > Wir freuen uns auf die weiteren Schritte und danken Ihnen von Herzen für diese außergewöhnliche Gelegenheit!
 > 
 > Mit freundlichen Grüßen,
+
+
+## Bank kontaktieren
+
+Wie immer, es wird uns ganz lang und breit erklärt: Jetzt heißt es, die Bank anschreiben. Die Mail haben wir dummerweise ein paar Tage übersehen? 
+
+Wir hoffen inständig, dass wir nicht die Frist zur Einlösung dieses unglaublichen Geschenks von 400.000 Euro verpasst haben. 
+
+> Guten Tag und ein frohes neues Jahr.  
+> Ich hoffe, es geht Ihnen gut. Ihr vollständiger Name, Ihre E-Mail-Adresse und andere Angaben wurden an unsere Auszahlungsbank Fortress Heritage Trust Bank weitergeleitet, da ein Scheck in Ihrem Namen zur Zahlung von unserer Auszahlungsbankfiliale (Fortress Heritage Trust Bank) ausgestellt wurde und die Abteilung für internationale Überweisungen der Bank auf eine Bestätigungs-E-Mail von Ihnen wartet, um fortfahren zu können. Sie müssen ihnen zur Überprüfung unsere Kontonummer (REPMH/AVL2028/24262/S.MH) mitteilen, damit sie den Auszahlungsprozess von 400.000,00 Euro erleichtern können, die wir Ihnen ausschließlich im Namen des Wohltätigkeitsprojekts Frances and Patrick Connolly Support Life gespendet haben. Wir bitten Sie in aller Bescheidenheit, mit der Auszahlungsbank (Fortress Heritage Trust Bank) zusammenzuarbeiten, um eine reibungslose und erfolgreiche Überweisung der Ihnen gespendeten Mittel zu gewährleisten.  
+>   
+> KONTAKTIEREN SIE DIE AUSZAHLUNGSBANK UNTER DEN UNTEN ANGEGEBENEN DETAILS.  
+>   
+> Name der Bank: Fortress Heritage Trust Bank  
+> E-Mail: onlinebanking@libbn.online  
+> Überweisungsmanager: Herr Gabriel Pancza  
+>   
+> Bankassistent/Kundendienst/Support: Khaled Mohammed Fayez  
+>   
+> WICHTIG: WENN SIE SOFORT DIE AUSZAHLUNGSBANK KONTAKTIEREN, MÜSSEN SIE UNS PER E-MAIL BENACHRICHTIGEN, DASS SIE SIE KONTAKTIERT HABEN.  
+>   
+> Beachten Sie, dass Sie zuerst ein neues Online-Konto bei der Bank eröffnen „MÜSSEN“, damit die Auszahlungsbank Ihrem Online-Konto, das Sie bei der Bank eröffnen, die 400.000,00 Euro gutschreiben kann, wodurch Sie auch die Mittel von Ihrem Online-Konto bei der hinterlegten Bank auf Ihr lokales Konto in Ihrem Land überweisen können. Die Bank wird Ihnen weitere Einzelheiten darüber erklären, wie die Überweisung erfolgen wird. Wenn Sie die Anweisungen der Bank sorgfältig befolgen, werden die Mittel innerhalb der nächsten drei (3) Werktage auf Ihr angegebenes Bankkonto überwiesen und stehen Ihnen zur Verfügung.  
+>   
+> Bitte prahlen Sie nicht öffentlich mit diesem Geld und stellen Sie es auch nicht in den Medien zur Schau, wenn Sie es haben, und versuchen Sie auch, den Bedürftigen in Ihrer Umgebung zu helfen. Frances und Patrick Connolly: „Wir alle können die Welt zu einem besseren Ort machen, wenn wir den Bedürftigen in unserer Umgebung helfen.“  
+>   
+> Ich wünsche Ihnen und Ihrer Familie die zeitlosen Schätze Christi, die Wärme eines Zuhauses, die Liebe der Familie und die Gesellschaft guter Freunde.  
+> Viel Glück  
+>   
+> Mit freundlichen Grüßen,  
+> Frances und Patrick Connolly.  
+> Frances und Patrick Connolly unterstützen das Wohltätigkeitsprojekt „Life“.  

@@ -5,7 +5,6 @@ params:
 date: "2025-01-10"
 featured: true
 toc: true
-draft: false
 tags: 
   -  "kreditkarte"
   -  "phishing"
