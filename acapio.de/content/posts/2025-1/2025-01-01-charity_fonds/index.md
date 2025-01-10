@@ -219,3 +219,44 @@ Die spanische Bank hat sich gemeldet und gibt die Sache an ihre Abteilung dafür
 >   
 > We will send a copy of your message to the corresponding departments for their knowledge but we can't provide you further help or information in this service, as you are not a client of our bank.  
 
+
+### Die Antwort der Scammer: Der Anwalt wird böse
+
+Nachdem wir höflich auf die fehlende Steuernummer hingewiesen hatten, erhielten wir eine erstaunliche Antwort zurück – voller Dramatik und einem Hauch von Entrüstung. Der angebliche "Anwalt" erklärt uns, warum eine Rechnung in diesem Fall überhaupt nicht nötig sei. Schließlich ginge es hier nicht um einen Kauf, sondern um eine mysteriöse „Genehmigungsgebühr“. 
+
+Besonders bemerkenswert: 
+
+> „Sie benötigen keine Rechnung oder Steuernummer, um eine Überweisung zu senden. Sie benötigen lediglich die IBAN-Nummer.“  
+
+Ach so, wir Dummen! Ein bisschen Vertrauen soll genügen, und wer es wagt, Fragen zu stellen, wird gleich mit ultimativen Drohungen konfrontiert: 
+
+> „Ich arbeite nur gerne mit Leuten, die mir vertrauen. Wenn Sie es nicht ernst meinen und mir nicht vertrauen, lassen Sie es mich bitte wissen. Wir stornieren Ihre Bewerbung und leiten die Spende an jemand anderen weiter, der sie erhalten möchte.“  
+
+Aber das Beste kommt zum Schluss: Falls die Bank uns bei der Zahlung "Probleme" bereitet, gibt es natürlich alternative Methoden. Von **Crypto** über **MoneyGram** bis hin zur klassischen **iTunes-Karte** ist für jeden Geschmack etwas dabei.  
+
+Wir haben herzlich gelacht – und sind uns sicher: Diese Antwort ist ein Paradebeispiel dafür, wie kreativ Scammer werden, wenn man ihnen nicht blind vertraut. 😄
+
+> Hallo    
+> Sie wurden nicht aufgefordert, Steuern zu zahlen, daher kann eine Rechnung, die keine Steuerrechnung ist, keine Steuernummer enthalten. Ich bin Anwalt und kenne meinen Job sehr gut.  
+> Außerdem sollte es überhaupt keine Rechnung geben. Sie kaufen nichts, sondern zahlen nur die Genehmigungsgebühr für die Genehmigung des Spendenantrags.    
+> 
+> Hören Sie, ich muss noch eine andere Transaktion abschließen und alle anderen 4 Personen sind ihrer Verpflichtung nachgekommen und haben ihre Gebühren problemlos per Banküberweisung bezahlt. Sie sind der Einzige, der noch fortfahren muss, bevor ich alle Unterlagen und das Konto des Empfängers bei der Bank einreiche.
+> 
+> Wenn Sie für diese Transaktion noch nicht bereit sind oder diesem Prozess nicht genug vertrauen, sagen Sie mir bitte Bescheid, damit wir Ihren Antrag vergessen können. Sie benötigen keine Rechnung oder Steuernummer, um eine Überweisung zu senden. Sie benötigen lediglich die IBAN-Nummer. Über 50 Leute warten auf diese Gelegenheit. Das ist kein Zwang, sondern ein Muss. Ich arbeite nur gerne mit Leuten, die mir vertrauen. Wenn Sie es nicht ernst meinen und mir nicht vertrauen, lassen Sie es mich bitte wissen. Wir stornieren Ihre Bewerbung und leiten die Spende an jemand anderen weiter, der sie erhalten möchte. 
+>   
+> Wir akzeptieren auch andere Zahlungsmethoden: Money Gram, Crypto, Apple iTunes Card. Wenn Sie Probleme mit Ihrer Bank bei der Zahlung der Gebühr haben, können Sie eine dieser Zahlungsmethoden verwenden oder die Spende auch gleich vergessen, wenn Sie glauben, dass es sich um Betrug handelt.    
+
+
+### Wir schreiben zerknirscht zurück
+
+Nach der energischen Antwort des vermeintlichen Anwalts versuchen wir, die Situation zu entschärfen. Immerhin möchten wir den Eindruck vermeiden, dass wir nicht kooperativ wären. Also formulieren wir eine höfliche und fast schon verzweifelte Nachricht, um die "Spende" doch noch irgendwie zu retten:  
+
+> Sehr geehrter Herr Cham,  
+>   
+> es tut uns wirklich leid, falls unser Hinweis auf die Rechnung ein Missverständnis verursacht hat. Das war nicht so gemeint, und wir möchten auf keinen Fall unnötige Probleme bereiten. Uns liegt viel daran, diese Transaktion abzuschließen, und wir schätzen Ihre Unterstützung sehr.  
+>   
+> Wenn es möglich ist, könnten wir uns auch mit einer anderen Zahlungsmethode wie iTunes-Karten arrangieren. Könnten Sie uns bitte genau erklären, wie das funktioniert und was wir dafür tun müssen?  
+>   
+> Vielen Dank für Ihre Geduld – wir hoffen, dass wir die Sache so bald wie möglich klären können.  
+
+Ob er darauf eingeht und uns wirklich erklärt, wie iTunes-Karten in einer "Genehmigungsgebühr" verarbeitet werden, bleibt abzuwarten. Vielleicht bekommen wir so den ultimativen Einblick in die kreative Welt der Scammer. 😊

@@ -1,5 +1,5 @@
 ---
-title: "Türkische Frau liegt im Sterben und verschenkt Millionen"
+title: "Türkische Frau Feyza Olcay Ýbrahim liegt im Sterben und verschenkt Millionen"
 params:
   author: Andy
 date: "2024-12-25"
@@ -489,3 +489,42 @@ Wir bekommen keine Antwort, da müssen wir wohl aktiv werden, wir erstellen ein 
 > Es ist von Betrug die Rede!  
 
 ![Schreiben der Bank](/posts/2024-12-25_turkish_sick_woman/bank_sperre.webp)
+
+
+### „Wenn Banken zu streng sind: Der Bitcoin-Automat und die Apple-Geschenkkarte rufen!“
+
+Es ist fast wie im besten Comedy-Sketch: Nachdem unsere gute Protagonisting auf die vermeintlich strengen deutschen „Augenkontrollen“ hingewiesen wurde, schlägt der kreative Scammer eine Reihe alternativer Zahlungswege vor, die so absurd klingen, dass man meinen könnte, er habe sich in der Zeit vertan und denkt, wir leben im Wilden Westen der Online-Wirtschaft. 
+
+Bitcoin-Geldautomaten, RIA-Transfers und sogar Apple-Geschenkkarten stehen zur Auswahl. Letzteres ist wohl die bevorzugte Methode der Internet-Betrüger, denn was könnte seriöser wirken als eine Transaktion in Form von 1620 Euro auf einer Geschenkkarte? 
+
+Der Gipfel des Ganzen: „Ich werde es Ihnen sorgfältig beibringen.“ – Da hat jemand offenbar nicht nur finanzielle, sondern auch pädagogische Ambitionen!
+
+> Hallo liebe XXXX,  
+>   
+> Ich bestätige den Erhalt Ihrer E-Mail. In Deutschland ist das Senden von Geld auf ein anderes Bankkonto sehr streng und es gibt in Deutschland viele Augenkontrollen, wenn jemand versucht, Geld auf ein anderes Bankkonto zu senden. Daher schlage ich vor, dass wir versuchen, die Gebühr auf eine andere Weise zu bezahlen.  
+>   
+> Ich schlage vor, dass Sie versuchen, die Gebühr über einen Bitcoin-Geldautomaten ODER per RIA-Geldtransfer zu bezahlen ODER eine Apple-Geschenkkarte im Wert von 1620 Euro zu kaufen.  
+>   
+> Es gibt viele Möglichkeiten, wie Sie die Gebühr bezahlen können, und ich werde es Ihnen sorgfältig beibringen.  
+>   
+> Gehen Sie zunächst zu Ihrer Bank und heben Sie 1620 Euro in bar ab. Ich werde Ihnen raten, wie Sie die Gebühr entweder über einen Bitcoin-Geldautomaten bezahlen oder in einen Walmart-Laden gehen und eine Apple-Geschenkkarte im Wert von 1620 Euro kaufen können.  
+>   
+> Schicken Sie mir abschließend Ihre WhatsApp-Nummer, damit wir über WhatsApp chatten können.  
+
+
+### Wir machen mit: WhatsApp, die neue Kundenhotline
+
+Unbeirrt vom absurden Vorschlag des Scammers tritt unsere Protagonistiun souverän in die nächste Runde ein. Klar, wenn man schon eine Bitcoin-Anleitung und eine Apple-Geschenkkarten-Einweisung erwartet, warum nicht gleich die WhatsApp-Nummer raushauen? Denn wer wüsste besser, wie man solche hochseriösen Transaktionen durchführt, als ein selbsternannter Scam-Experte?
+
+Mit einem Hauch von Verzweiflung – „Nervig!!!!!“ – und scheinbar endlosem Vertrauen in die didaktischen Fähigkeiten des Gegenübers wird die Brücke zur nächsten Kommunikationsplattform gebaut. 
+
+> Hallo Herr Kuran,  
+>   
+> Vielen Dank für Ihre schnelle Rückmeldung. Meine Bank möchte, dass alle Zahlungen korrekt dokumentiert werden, damit keine Sicherheitsrisiken entstehen. Nervig!!!!!  
+>   
+> Ich bin neu bei Bitcoin-Überweisungen und auch bei RIA-Transfers, daher wäre es für mich wichtig, dies Schritt für Schritt durchzuführen. Können Sie mir dazu eine detaillierte Anleitung geben?  
+>   
+> Außerdem habe ich noch nie Apple-Geschenkkarten für solche Zahlungen genutzt. Ist das überhaupt zulässig? Meine Bank hat mich in der Vergangenheit davor gewarnt, solche Zahlungen vorzunehmen, und ich möchte sicherstellen, dass alles den Regeln entspricht.  
+>   
+> Ich hoffe, dass Sie Verständnis für meine Unsicherheiten haben. Vielen Dank für Ihre Unterstützung!  
+> Meine WhatsApp-Nummer lautet: +49 XXXXXXXXXXXX  

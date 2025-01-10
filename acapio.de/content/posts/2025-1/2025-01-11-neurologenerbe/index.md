@@ -1,5 +1,5 @@
 ---
-title: "Erben leicht gemacht? Mit dem dicken Auto durch Wanne-Eickel!"
+title: "Erben leicht gemacht, dank Jonathan Haskel? Mit dem dicken Auto durch Wanne-Eickel!"
 params:
   author: Andy
 date: "2025-01-11"
@@ -24,7 +24,6 @@ Wie aus dem Handbuch für Betrüger: Eine E-Mail landet in unserem Posteingang, 
 
 Am 08.01.2025 um 13:09 schrieb Jonathan Haskel:
 > Ihr Name ist mit einer nicht beanspruchten Leistung verknüpft. Bitte kontaktieren sie mich für weitere info. Grüße, Jonathan Haskel Mitglied des Monetary Policy Committee 
-
 
 ## Die Betrügermail! Lang!
 
@@ -85,3 +84,95 @@ Natürlich antworten wir – wer könnte bei so einem Angebot widerstehen? Mit e
 > Grüße aus’m Pott,      
 >   
 > P.S.: Können Sie sich schon mal vorstellen, wie ich mit ’ner dicken Karre durch Wanne-Eickel cruise? 😂  
+
+
+## Antwort vom Anwalt
+
+Wir bekommen eine Antwort vom geldpolitschen Ausschuss....
+
+> Sehr geehrter Herr XXXXXX,  
+>   
+> vielen Dank für Ihre begeisterte Antwort! Das Leben hat tatsächlich eine Art, uns zu überraschen, und es ist aufregend, über die Möglichkeiten nachzudenken, die sich daraus ergeben könnten.  
+>   
+> Um sicherzustellen, dass alles korrekt abgewickelt wird, werde ich Sie durch jeden Schritt des Prozesses führen. Ja, wir werden ein paar Dinge von Ihnen benötigen, einschließlich eines gültigen Ausweises, um die Vorbereitung der erforderlichen rechtlichen Dokumente zu erleichtern. Darüber hinaus werden von einem Anwalt vorbereitete Formulare und eidesstattliche Erklärungen benötigt, die Sie überprüfen und unterschreiben müssen.  
+>   
+> Angesichts der involvierten Geldsumme und der Art dieses Geschäfts möchte ich, dass wir zu 100 % ehrlich miteinander sind, damit wir das Hauptziel erreichen können. Ich möchte sicherstellen, dass Sie bereit sind, diese Transaktion mit mir durchzuführen, und was ich von Ihnen erwarte, ist Vertrauen und Engagement.  
+>   
+> Ich möchte, dass diese große Summe mit Ihrer Hilfe übertragen wird, und Sie sollten sich keine Sorgen um die Legalität machen, denn was Sie betrifft, betrifft auch mich. Daher gebe ich Ihnen mein Wort, dass Sie sich keine Sorgen machen müssen. Ich werde alles rechtlich Erforderliche tun, um sicherzustellen, dass das Projekt reibungslos verläuft. Es wird alle Gesetze des internationalen Bankwesens einhalten, und ich weiß, dass wir, wenn wir diese Transaktion sorgfältig verfolgen, sie innerhalb von 7 Arbeitstagen abschließen können.  
+>   
+> Ich werde mir so bald wie möglich ein neues Telefon und eine neue Nummer für diesen Deal besorgen, um unsere Kommunikation zu erleichtern. Unten finden Sie meine vollständigen Kontaktdaten für alle Fälle:  
+>   
+>     Name: Jonathan Haskel  
+>     Beruf: Britischer Ökonom/Professor  
+>     Religion: Christ  
+>     Familienstand: Verheiratet  
+>     Geschlecht: Männlich  
+>     Geburtsdatum: 13. August 1963  
+>     Adresse: Hamilton Avenue 7, London N9 7PP, Vereinigtes Königreich  
+>   
+> In Anbetracht des oben genannten Inhalts hoffe ich wirklich, dass Sie jemand sind, dem ich vertrauen kann, um dies zu erreichen. Ich möchte, dass Sie mir umgehend die folgenden Angaben machen:  
+>   
+> ABSCHNITT I  
+>   
+>     Ihr vollständiger Name  
+>     Ihre Adresse  
+>     Aktueller Beruf  
+>     Familienstand  
+>     Geschlecht  
+>     Geburtsdatum  
+>     Religion  
+>     Telefonnummer (Mobil)  
+>   
+> Zuerst werde ich einen Anwalt kontaktieren, der die erforderlichen eidesstattlichen Erklärungen vorbereitet, die Sie als Begünstigten einsetzen. Er wird die notwendigen Genehmigungen von den zuständigen Behörden in England einholen, die alle in dieser Transaktion beteiligten Aspekte abdecken.  
+>   
+> Der Anwalt wird alle Nachlassangelegenheiten in Ihrem Namen bearbeiten und alle Dokumente, die die Courtage Bank benötigt, vervollständigen. Mit diesen Dokumenten werden Sie dann bei der Bank die sofortige Freigabe und Überweisung des Erbes auf Ihr angegebenes Bankkonto beantragen. Ich war viele Jahre im Bankwesen tätig und kenne das System perfekt.  
+>   
+> Sobald ich Ihre Dokumente/Details erhalte, werde ich die erforderlichen Formalitäten in die Wege leiten.  
+>   
+> Was das Cruisen durch Wanne-Eickel in einem großen Auto angeht – warum nicht? 😊 Es macht immer Spaß, ein wenig zu träumen, besonders wenn diese Träume greifbar sind!  
+>   
+> Ich freue mich auf Ihre zeitnahe Antwort und auf die nächsten Schritte, um diese Reise gemeinsam zu unternehmen.  
+>   
+> Mit besten Grüßen  
+> Jonathan Haskel  
+> Mitglied des geldpolitischen Ausschusses  
+
+### Wanne-Eickel
+
+Sogar auf unsere Cruise-Fahrt durch Wanne-Eickel wird Bezug genommen:
+
+> Was das Cruisen durch Wanne-Eickel in einem großen Auto angeht – warum nicht? 😊 Es macht immer Spaß, ein wenig zu träumen, besonders wenn diese Träume greifbar sind!  
+
+## Der gutgläubige Hugo schreibt zurück
+
+Hugo ist immer noch begeistert – die Vorstellung, bald mit einem glänzenden Schlitten durch Wanne-Eickel zu cruisen, lässt ihn nicht mehr los. Doch trotz aller Euphorie bleibt unser Hugo bodenständig und hat ein paar wichtige Fragen: Warum wollen die eigentlich wissen, welche Religion er hat? Und vor allem – wer bezahlt den Anwalt? Schließlich kann man ja nicht einfach Geld vorschießen, das man noch gar nicht hat! 
+
+Mit seiner typisch herzlichen Art schickt Hugo also seine Fake-Daten los und wartet gespannt darauf, ob sein Traum vom Millionärsleben wahr wird.
+
+> Hallo Herr Haskel,    
+>   
+> boah, das klingt ja alles ziemlich amtlich! Eidesstattliche Erklärungen, Anwälte und Behörden – das ist für mich ehrlich gesagt ganz schön großes Kino. Aber wenn Sie sagen, dass das alles sicher und legal läuft, dann will ich mal dran glauben. Ich meine, wer lässt sich so eine Chance entgehen, oder?    
+>   
+> Also, ich bin natürlich bereit, Ihnen die Sachen zu schicken, die Sie brauchen. Sie wollen ja anscheinend alles Mögliche wissen – von meinem Beruf bis zu meiner Telefonnummer. Aber jetzt mal ehrlich: Wozu brauchen Sie meine Religion? Bin ich der Einzige, der das komisch findet? Egal, ich schicke Ihnen das alles trotzdem mal, denn ich will ja sehen, wie das hier weitergeht.    
+>   
+> Ach ja, bevor ich vergesse: Gibt’s eigentlich auch ’ne Garantie, dass das mit dem Anwalt nicht so teuer wird? Ich mein, ich hab ja leider grad keine acht Millionen auf der hohen Kante, um Anwaltskosten vorzustrecken, wissen Sie?    
+>   
+> Freue mich auf Ihre Antwort und bin gespannt, was als Nächstes passiert.    
+>   
+> Hier die Daten:  
+>   
+> - Ihr vollständiger Name: Hugo    
+> - Ihre Adresse: Alte Schachtstraße 12, 44649 Wanne-Eickel, Deutschland    
+> - Aktueller Beruf: Fachkraft für Lagerlogistik    
+> - Familienstand: Ledig    
+> - Geschlecht: Männlich    
+> - Geburtsdatum: 15. April 1987    
+> - Religion: Katholisch    
+> - Telefonnummer (Mobil): +49 176 79864134    
+>   
+> Falls du noch Anpassungen möchtest, lass es mich wissen! 😊  
+>   
+> Grüße aus Wanne-Eickel,    
+> Hugo    
+>   
+> P.S.: Stellen Sie sich vor, ich mach irgendwann ’nen Roadtrip durch London mit meinem neuen Schlitten. Da komm ich vorbei und geb Ihnen einen aus! 😉  

@@ -125,9 +125,51 @@ Heute geben wir uns mal skeptisch und fragen nach einem Selfie mit Zeitung und o
 >  
 > Mit freundlichen Grüßen,  
 
-## Fazit
+## Kein Selfie und andere Kontaktaufnahme
 
-Leider blieb uns das ersehnte Selfie mit Tageszeitung und Lottoschein verwehrt – offensichtlich war Frau Massi an diesem Tag nicht besonders fotogen. 😄 Statt Millionen auf dem Konto haben wir jetzt immerhin eine spannende Geschichte
+Leider blieb uns das ersehnte Selfie mit Tageszeitung und Lottoschein verwehrt – offensichtlich war Frau Massi an diesem Tag nicht besonders fotogen. 😄 Wir haben aber dennoch nach und antworten also Hugo, Prolet, aus Wanne-Eickel.
 
-Eins steht fest: Den Jackpot haben hier eindeutig nur wir gewonnen – in Form eines erstklassigen Unterhaltungswerts! 🎉
+> Moin,  
+>   
+> was geht ab? Geldspende und so? Hab nix von dir vorher jelesen, ehrlich jetz. Wat willst'n genau, Kollege? Is dat hier seriös oder machst du Faxen? Schreib ma klar und deutlich, sonst glaub ich dat eher nich!  
+>   
+> Hau rein,  
+> Hugo  
+> (Wanne-Eickel's Finest)  
+
+Wir bekommen die gleiche Antwort wie oben und schreiben erneut zurück.
+
+> Hallo Simmons,  
+>   
+> boah, ich kann dat ja gar nich glauben! So was is mir ja noch nie passiert! Ich mein, wer gewinnt schon so viel Geld und denkt dann an Leute wie mich? Du bist echt n ganz feiner Kerl, ehrlich!  
+>   
+> Dat Geld würd ich natürlich genau so einsetzen, wie du sagst – für die armen Leutchen hier im Viertel, Waisenhäuser und so.  
+>   
+> Ich schreib deiner Anwältin direkt, wat die braucht, und schick alles hin.  
+>   
+> Danke nochmal, Simmons, du bist echt der Hammer!  
+>   
+> Beste Grüße  
+> Hugo aus Wanne-Eickel  
+
+## Neuer Kontaktversuch mit der Advokatin
+
+Wir geben uns gutgläubig und lassen Hugo die Sache regeln. Hugo, der Mann fürs Grobe und Bürokratische, hat sich direkt an Frau Massi gewandt. Und wie könnte es anders sein: höflich, vertrauensvoll und mit einem Hauch Ruhrpott-Charme, der jeden Winkeladvokaten dahinschmelzen lässt.  
+
+Sein Plan ist simpel: "Kein Bürokrat, aber alles sauber." Denn wenn einer in Wanne-Eickel weiß, wie man mit großen Summen umgeht, dann ist es Hugo – zumindest solange es um Kumpels, Currywurst und ’nen schnellen Pils an der Ecke geht.  
+
+Jetzt warten wir gespannt, wie Frau Massi auf Hugos herzerwärmende Mail reagiert. Wird sie beeindruckt sein von so viel Bodenständigkeit? 😄  
+
+> Hallo Frau Massi,    
+>   
+> mein Name is Hugo, und der Simmons hat mir von Ihnen erzählt. Wat für ein Glück, ey, ich wurde ausgewählt, um 1.000.000 € zu kriegen!    
+>   
+> Er hat gesagt, Sie sind die Advokatin, die dat alles regelt. Ich wollt mich melden, damit wir den Papierkram schnell hinkriegen. Sagen Sie mir einfach, wat Sie von mir brauchen und wie wir dat mit dem Geld machen. Ich bin kein Bürokrat, ehrlich, aber ich will, dat alles sauber läuft.    
+>   
+> Also, Frau Massi, ich vertrau Ihnen, dass Sie mir helfen, und ich freu mich schon, wat Gutes mit dem Geld zu tun. Schreiben Sie mir, wenn ich was machen soll.  
+>   
+> Bester Gruß  
+> Hugo    
+> (Wanne-Eickel forever)  
+
 
