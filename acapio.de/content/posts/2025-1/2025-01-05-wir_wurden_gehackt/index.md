@@ -71,7 +71,7 @@ Natürlich wird uns im gleichen Atemzug erklärt, dass wir beim Besuch fragwürd
 
 Antworten können wir nicht. Wir können nur zahlen und hoffen. Da es sich um eine Bitcoin-Adresse handelt, können wir natürlich schauen, ob bereits Zahlungen eingegangen sind:
 
-- https://www.blockchain.com/explorer/search?search=1H72WZTEjf7XERfPhuSiR9N2EKsz6Dh5qj
+- [https://www.blockchain.com/explorer/search?search=1H72WZTEjf7XERfPhuSiR9N2EKsz6Dh5qj](https://www.blockchain.com/explorer/search?search=1H72WZTEjf7XERfPhuSiR9N2EKsz6Dh5qj)
 
 Bisher wars wohl nicht so erfolgreich.
 
