@@ -162,13 +162,13 @@ Mit seiner typisch herzlichen Art schickt Hugo also seine Fake-Daten los und war
 > Hier die Daten:  
 >   
 > - Ihr vollständiger Name: Hugo    
-> - Ihre Adresse: Alte Schachtstraße 12, 44649 Wanne-Eickel, Deutschland    
-> - Aktueller Beruf: Fachkraft für Lagerlogistik    
+> - Ihre Adresse: XXXXXXXXX
+> - Aktueller Beruf: XXXXXXXXXXX
 > - Familienstand: Ledig    
 > - Geschlecht: Männlich    
-> - Geburtsdatum: 15. April 1987    
+> - Geburtsdatum: XXXXXXXXXXXX
 > - Religion: Katholisch    
-> - Telefonnummer (Mobil): +49 176 79864134    
+> - Telefonnummer (Mobil): +49 XXX XXXXXX    
 >   
 > Falls du noch Anpassungen möchtest, lass es mich wissen! 😊  
 >   
@@ -176,3 +176,48 @@ Mit seiner typisch herzlichen Art schickt Hugo also seine Fake-Daten los und war
 > Hugo    
 >   
 > P.S.: Stellen Sie sich vor, ich mach irgendwann ’nen Roadtrip durch London mit meinem neuen Schlitten. Da komm ich vorbei und geb Ihnen einen aus! 😉  
+
+## Der Plan wird immer absurder
+
+Hugo hat es endlich geschafft – Jonathan Haskel vertraut ihm jetzt so sehr, dass er sogar die „Anwaltskosten“ von stolzen £18.300 selbst übernimmt. Na, wenn das mal kein Gentleman ist! Und damit Hugo nicht „krankheitsbedingt“ nach London reisen muss (gut, dass Jonathan sich sogar um Hugos Gesundheit sorgt), wird das ganze Erbe einfach online abgewickelt. Klingt praktisch, oder?
+
+Natürlich bleibt Hugo skeptisch – ein Online-Bankkonto? PIN-Codes? Und ein Anwalt, der so viel kostet, dass selbst Milliardäre ins Schwitzen kommen würden? Dennoch: Jonathan beteuert, dass er alles legal abwickelt, sich um die Behörden kümmert und niemand sonst davon erfahren soll. Nicht mal seine Frau weiß Bescheid. Hugo fragt sich insgeheim, ob Jonathan nachts wohl heimlich mit der Taschenlampe unter der Bettdecke arbeitet.
+
+Während Hugo also überlegt, wie er mit diesem „Geheimprojekt“ umgehen soll, fragt er sich noch eins: Wenn Jonathan alles selbst bezahlt, warum braucht er dann immer noch Hugos Ausweis? Schließlich hat der doch genug Vertrauen bewiesen – und träumt schon wieder von seinem Roadtrip durch London. 😊
+
+> Hallo Hugo,  
+>   
+>  Ich habe Ihre Informationen an den Anwalt weitergeleitet, der die rechtlichen Dokumente vorbereiten wird, die Ihr Recht als nächster Verwandter meines verstorbenen Mandanten Dr. Thomas J. Scholz bestätigen. Bitte beachten Sie, dass diese Transaktion gemäß den Gesetzen sowohl des lokalen als auch des internationalen Rechts durchgeführt wird. Der Anwalt hat versprochen, die Vorbereitung der Dokumente bald abzuschließen.  
+>   
+> Der Anwalt berechnet £18.300,00, die ich selbst übernehmen werde. Ich werde ihn sofort kontaktieren und ihm eine Anzahlung von £10.000,00 überweisen. Den Rest werde ich bezahlen, wenn er die Dokumente fertiggestellt hat. Sobald er die Dokumente abgeschlossen hat, werde ich Ihnen eine Kopie davon sowie an die Courtage Trust Bank senden, um Sie als den letzten überlebenden Verwandten und nächsten Angehörigen unseres verstorbenen Mandanten zu präsentieren.  
+>    
+> Der Anwalt wird das letzte Testament meines verstorbenen Mandanten zu Ihren Gunsten vorbereiten und dann den Affidavit zur Vollmacht vom Obersten Gerichtshof einholen.  
+>    
+> Ich habe das Geld selbst eingezahlt und werde Ihnen eine Kopie dieses gesamten Dokuments sowie eine Kopie der Einzahlungsbescheinigung senden, falls die Bank das Dokument von Ihnen benötigt, um zu bestätigen, dass Sie der rechtmäßige nächste Angehörige sind. Normalerweise sollten sie Ihnen einen Termin zur persönlichen Vorsprache bei der Courtage Bank in London, Vereinigtes Königreich, geben, um Anspruch auf das Gut zu erheben, da es in Form eines Gutes hinterlegt wurde. Aber ich werde ihnen mitteilen, dass Sie, der überlebende Verwandte und nächste Angehörige, aufgrund Ihrer Krankheit nicht reisen können.  
+>   
+> Sie müssen dann ein Online-Konto bei der Courtage Bank eröffnen. Sie haben auch Online-Banking-Dienstleistungen. Ich werde Ihnen deren Kontaktdaten zusammen mit den Dokumenten senden, nachdem der Anwalt die Vorbereitung der Dokumente abgeschlossen hat.  
+>    
+> Sobald Sie die Bank kontaktieren, teilen Sie ihnen mit, dass Sie ein Online-Konto eröffnen möchten, um die £4 Millionen Ihres Erbes, das sich in deren Verwahrung befindet, auf Ihr Online-Konto zu erhalten. Sobald sie die Eröffnung Ihres Online-Kontos abgeschlossen haben, werden sie das Geld auf Ihr Online-Konto überweisen und Ihnen Ihre Kontoinformationen senden, wie z. B. Ihre Kontonummer und PIN-Code, zusammen mit den notwendigen Informationen, die Sie benötigen, um auf Ihr Online-Konto über deren Online-Banking-System zuzugreifen. Das Geld würde bereits in Ihrem Besitz sein, sobald Sie Ihre Online-Kontoinformationen erhalten.  
+>    
+> Alles, was Sie tun müssen, ist, sich in Ihr Online-Konto bei der Courtage Bank einzuloggen und das Geld von Ihrem Konto auf Ihr nominierter Konto zu überweisen. Es wird so sein, als ob Sie Geld von Ihrem Konto im Vereinigten Königreich auf Ihr anderes Konto in Ihrem Land überweisen. Sie können auch von Ihrem Online-Konto bei der Courtage Bank auf jedes andere Konto Ihrer Wahl überweisen.  
+>    
+> Bitte verstehen Sie, dass ich aus Sicherheitsgründen keine Drittparteien in diese Transaktion einbeziehen möchte. Dies ist nur zwischen Ihnen und mir. Nicht einmal meine Frau weiß davon aufgrund meiner Position im Büro. Ich unternehme diese Schritte, weil, wenn ich die Behörde informieren würde, dass mein verstorbener Mandant keinen nächsten Angehörigen hat, das Geld automatisch eingezogen und als unbeanspruchte Gelder auf das Konto der Staatskasse umgeleitet wird.  
+>    
+> Nochmals vielen Dank für Ihr Verständnis, ich hoffe, bald von Ihnen zu hören. Sie können mir jederzeit eine E-Mail senden. Wenn ich nicht mit der Arbeit beschäftigt bin, werde ich Ihnen sofort antworten. Vergessen Sie auch nicht, Ihren gültigen amtlichen Ausweis zu senden, um den Prozess zu unterstützen. Vielen Dank.  
+>   
+> Mit freundlichen Grüßen  
+
+### Hugo fragt nach
+
+Hugo bedankt sich überschwänglich, dass Jonathan die Anwaltskosten übernimmt, und bietet ihm direkt Currywurst und Bier im Pott an. Aber er hat auch Fragen: Wie läuft das mit dem Online-Konto, wenn er gar keins hat? Von PIN-Codes hat er zwar gehört, aber so richtig kennt er sich nicht aus. Trotzdem bleibt Hugo optimistisch: „Wenn Sie sagen, das klappt, dann mach ich mit.“ Naiv, charmant, typisch Hugo. 😊  
+
+> Hallo Herr Haskel,  
+>   
+> erstmal danke, dass Sie die Kosten übernehmen – das ist echt voll knorke von Ihnen! Sie haben was gut bei mir, und wenn Sie mal im Pott sind, gehen Currywurst und Bier auf mich!  
+>   
+> Aber wie läuft das mit dem Online-Konto? Ich hab gar keins. Können Sie mir da auch helfen? Ich kenn mich mit sowas nicht aus, aber wenn Sie sagen, das klappt, dann mach ich mit. Schreiben Sie mir einfach, was ich tun soll.  
+>   
+> Beste Grüße,  
+> Hugo 
+>   
+> P.S.: Wenn das durch ist, komm ich in London vorbei – und wir cruisen zusammen! 

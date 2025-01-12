@@ -257,6 +257,6 @@ Nach der energischen Antwort des vermeintlichen Anwalts versuchen wir, die Situa
 >   
 > Wenn es möglich ist, könnten wir uns auch mit einer anderen Zahlungsmethode wie iTunes-Karten arrangieren. Könnten Sie uns bitte genau erklären, wie das funktioniert und was wir dafür tun müssen?  
 >   
-> Vielen Dank für Ihre Geduld – wir hoffen, dass wir die Sache so bald wie möglich klären können.  
+> Vielen Dank für Ihre Geduld - wir hoffen, dass wir die Sache so bald wie möglich klären können.  
 
 Ob er darauf eingeht und uns wirklich erklärt, wie iTunes-Karten in einer "Genehmigungsgebühr" verarbeitet werden, bleibt abzuwarten. Vielleicht bekommen wir so den ultimativen Einblick in die kreative Welt der Scammer. 😊
