@@ -148,4 +148,42 @@ Die Antwort der „Aurora Federal Credit Union“ lässt keine Zweifel daran, da
 > Grüße aus’m Schrebergarten,  
 > Hugo 
 
+## Kommt nicht so gut an!
+
+Beth Myers versteht offenbar keinen Spaß – oder unser guter Hugo ist ihr noch nicht suspekt genug. 
+
+> ATTENTION:  
+>    
+> Bitte beachten Sie, dass wir nicht zum Kinderspiel da sind. Befolgen Sie daher bitte meine Anweisungen, indem Sie die korrekten Angaben wie unten aufgeführt senden, wenn Sie Ihr Geld wirklich erhalten möchten.  
+>   
+>   
+> 1. Ihr vollständiger Kontoname:  
+> 2. Ihre vollständige Adresse:  
+> 3. Kopie Ihres Personalausweises:  
+> 4. Ihre Mobiltelefonnummer:  
+> 5. Name Ihrer Bank:  
+> 6. Ihre Bankadresse:  
+> 7. Ihre Kontonummer:  
+> 8. Ihre Bankleitzahl/Iban-Nummer:  
+> 9. Ihr Swift-Code/Bic  
+> 10. Ihr Beruf:  
+> 11. Ihre nächsten Angehörigen:  
+
+
+Zeit, den Ton ein wenig anzupassen, aber trotzdem in bester Ruhrpott-Manier den Druck rauszunehmen:
+
+> Hallo Frau Myers,  
+>   
+> ach, jetzt wird’s aber ernst! „Kein Kinderspiel“? Da hat meine Oma immer gesagt: „Hugo, lass dich nicht einschüchtern!“  
+>   
+> Aber okay, ich will ja nicht, dass wir uns in die Haare kriegen. Ich schick Ihnen die Daten, sobald ich die Bestätigung habe, dass das Geld auch wirklich kommt. Bissel Dokumente, dass das echt ist, brauche ich schon!  
+>   
+> Vertrauen ist ja schließlich keine Einbahnstraße, oder?  
+>   
+> Grüße aus’m Pott,  
+> Hugo  
+>   
+> P.S.: Und falls wir das klären: Können wir uns dann auf ein Bier treffen? Ich geb einen aus, sobald die 10 Millionen da sind! 🍻  
+
+
 

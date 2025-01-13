@@ -173,3 +173,65 @@ Jetzt warten wir gespannt, wie Frau Massi auf Hugos herzerwärmende Mail reagier
 > (Wanne-Eickel forever)  
 
 
+### Massi will's wissen: Digitaler Striptease
+
+Prompt kommt die Antwort: Natürlich sollen wir uns auch hier einem digitalen Striptease unterziehen und all unsere persönlichen Daten preisgeben, inklusive Scan des Personalausweises. Sogar der IFSC-Code der Bank wird verlangt – was auch immer das sein mag. Klingt doch seriös, oder? 🙃
+
+> Hallo  
+>     Ich möchte Ihnen sehr dafür danken, dass Sie sich bezüglich des rechtlichen Verfahrens zur Spende an mich gewandt haben. Mein Name ist Elisabeth Massi und ich bin die Anwältin, die Herrn Simmons Schiavo Marco vertritt. Ich verstehe, dass Sie sich nach der Spende in Höhe von 1.000.000 € für wohltätige Zwecke erkundigen. Als Rechtsspezialistin bin ich hier, um Sie während des gesamten Rechtsverfahrens zu unterstützen und zu beraten. Ich möchte Sie darüber informieren, dass Herr Simmons Schiavo Marco die Spendengelder genehmigt hat, und ich verpflichte mich, sicherzustellen, dass alle erforderlichen rechtlichen Unterlagen vorhanden sind, um die reibungslose Überweisung der Mittel auf Ihr angegebenes Bankkonto nach Unterzeichnung der erforderlichen Dokumente zu ermöglichen. Bevor ich jedoch mit dem Verfahren fortfahre, möchte ich Sie um zusätzliche Informationen bitten, um sicherzustellen, dass alle rechtlichen Dokumente in Ordnung sind und alles gut geht. Bitte stellen Sie mir die folgenden Informationen zur   
+> Verfügung, damit ich das erforderliche Verfahren vor dem Obersten Gericht fortsetzen kann.  
+>   
+> Vollständiger Name:  
+> Land:  
+> Staat:  
+> Alter:  
+> Personenstand:  
+> Telefonnummer:  
+> Scan-Kopie des Personalausweises  
+>   
+> Erforderliche Bankdaten:  
+>   
+> 1. Name des Bankinhabers...  
+> 2. Bankkontonummer...  
+> 3. Name der Bank.................  
+> 4. IFSC-Code...................  
+> 5. Adresse der Bank.................  
+>   
+> Sobald Sie mir die benötigten Informationen zur Verfügung stellen, werde ich mit sofortiger Wirkung fortfahren. Wenn Sie die Verfahren befolgen, erhalten Sie Ihre Mittel so schnell wie möglich.  
+>   
+> Vielen Dank und ich hoffe, bald von Ihnen zu hören.  
+>   
+> Vielen Dank  
+> Barr. Elisabeth Massi  
+> LEGAL COMPLIANCE LIMITED  
+> +18056577932  
+
+
+### Wir sind skeptisch
+
+Natürlich bleiben wir skeptisch. Höflich fragen wir nach einem offiziellen Nachweis – man will ja schließlich sicher sein, dass das großzügige Millionenangebot tatsächlich echt ist. Auch Hugo hält sich diesmal zurück und spielt den höflichen Interessenten. Mal sehen, wie überzeugend Frau Massi ihre Spendenabsichten untermauern kann. 😉
+
+> Sehr geehrte Frau Massi,  
+>   
+> vielen Dank für Ihre Nachricht und das großzügige Angebot! Natürlich bin ich interessiert, wohltätige Projekte zu unterstützen. Allerdings habe ich schon viel über Betrugsversuche im Internet gehört, daher möchte ich sicherstellen, dass alles seine Richtigkeit hat.  
+>   
+> Könnten Sie mir bitte ein offizielles Dokument oder einen Nachweis zusenden, der die Spende und deren Herkunft bestätigt? Das würde mir sehr helfen, Vertrauen in die Sache zu fassen.  
+>   
+> Vielen Dank im Voraus für Ihre Mühe, ich freue mich auf Ihre Rückmeldung.  
+
+### Wir antworten dem guten Simmons
+
+Auch dem guten Simmons schreiben wir zurück – höflich, aber mit der richtigen Portion Hugo-Charme. Schließlich wollen wir sicherstellen, dass dieses großzügige Millionenprojekt auch wirklich Hand und Fuß hat. Und natürlich lassen wir uns dabei nicht nehmen, nach einem offiziellen Nachweis zu fragen. 
+
+Man will ja schließlich wissen, wo die versprochenen Millionen herkommen – wir sind ja nicht von gestern! 😏
+
+> Ey Herr Schiavo Marco,  
+>   
+> erstmal Respekt für die fetten Worte und die guten Wünsche – so viel Liebe kriegt man ja nicht mal zu Weihnachten! Ich hab mich natürlich direkt bei Ihrer Anwältin gemeldet, ganz seriös und mit feiner Sprache – glauben Sie mir, selbst Goethe hätte applaudiert.  
+>   
+> Aber mal Butter bei die Fische: Bevor wir hier mit Ihrem Millionen-Projekt loslegen, müssen wir noch ein paar Sachen klären. Ich mein, bei so einer Riesennummer will ich schon sicher sein, dass alles sauber läuft. Können Sie oder Ihre Anwältin mir was Offizielles schicken, so ein Papier, das die Spende bestätigt und zeigt, wo die Kohle herkommt? Wäre Bombe!  
+>   
+> Bin gespannt, was da noch geht – lassen Sie uns zusammen was Großes reißen!  
+>   
+> Beste Grüße aus’m Herzen von Wanne-Eickel,  
+> Ihr Hugo  

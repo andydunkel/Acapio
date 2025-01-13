@@ -528,3 +528,21 @@ Mit einem Hauch von Verzweiflung – „Nervig!!!!!“ – und scheinbar endlose
 >   
 > Ich hoffe, dass Sie Verständnis für meine Unsicherheiten haben. Vielen Dank für Ihre Unterstützung!  
 > Meine WhatsApp-Nummer lautet: +49 XXXXXXXXXXXX  
+
+
+## Wir werden WhatsApp-Freunde
+
+Nach kurzer Zeit melden sich die Scammer. Es meldet sich Ahmen Kuran mit der WhatsApp-Nummer "+90 535 059 13 94". Er fackelt nicht lange herum und will, dass wir eine Bitcoin-Automaten suchen und darüber das Geld schicken, wir sollen aber sicherheitshalber unserer Bank nichts sagen! 
+
+*Wie vertrauenswürdig!*
+
+![Wir sollen zum Bitcoin-Automaten](/posts/2024-12-25_turkish_sick_woman/whatsapp_1.webp)
+
+Anschließend gibt es auch gleich eine Wallet-Adresse mit der Bitte nun endlich zu überweisen
+
+![Bitcoin-Adresse der Scammer](/posts/2024-12-25_turkish_sick_woman/whatsapp_2.webp)
+
+Die Bitcoin-Adresse: "[bc1qdxd4g7w2guzhmu9vpwfdv7n5l7zpcs5mvvcuvy](https://www.blockchain.com/explorer/addresses/btc/bc1qdxd4g7w2guzhmu9vpwfdv7n5l7zpcs5mvvcuvy)"
+
+
+![Bisher kein Geldeingang](/posts/2024-12-25_turkish_sick_woman/wallet_1.png)
