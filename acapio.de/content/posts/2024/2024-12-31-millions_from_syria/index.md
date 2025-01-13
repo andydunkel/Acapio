@@ -182,9 +182,9 @@ Gleichzeitig gibt es eine Bestätigung vom Versender.
 
 ![Bestätigung von Fexpress](/posts/2024-12-31-millions-from-syria/fexpress.png)
 
-## fexpresscargo
+## fexpresscargo.com
 
-Der Dienstleister für den Versand macht uns erstmal stutzig. Die Webseite von [Fexpress](https://fexpresscargo.com/) sieht auf den ersten Blick recht normal aus. Schaut man genauer hin, offenbaren sich viele Fehler auf der Webseite. Die Übersetzung passt oft nicht, Adressdaten sind leer.
+Der Dienstleister für den Versand macht uns erstmal stutzig. Die Webseite von [Fexpresscargo](https://fexpresscargo.com/) sieht auf den ersten Blick recht normal aus. Schaut man genauer hin, offenbaren sich viele Fehler auf der Webseite. Die Übersetzung passt oft nicht, Adressdaten sind leer.
 
 ![Fexpress Webseite ein Fake?](/posts/2024-12-31-millions-from-syria/fexpress_website.webp)
 
