@@ -185,5 +185,37 @@ Zeit, den Ton ein wenig anzupassen, aber trotzdem in bester Ruhrpott-Manier den 
 >   
 > P.S.: Und falls wir das klären: Können wir uns dann auf ein Bier treffen? Ich geb einen aus, sobald die 10 Millionen da sind! 🍻  
 
+Hier ist der überarbeitete Text:
 
+---
 
+## Das Dokument wird geliefert – direkt von der „US-Zentralbank“
+
+Frau Myers schlägt plötzlich sanftere Töne an und legt ein offizielles Dokument vor, natürlich perfekt auf unseren Namen und das aktuelle Datum zugeschnitten. Janet Yellen persönlich, ihres Zeichens angeblich Leiterin des US-Treasury, bestätigt uns feierlich, dass die Kohle wirklich bereitsteht. Donnerwetter, wer könnte da noch zweifeln?
+
+> **ATTENTION:**  
+>   
+> Bitte sehen Sie sich das angehängte Dokument an und melden Sie sich mit allen unten aufgeführten Einzelheiten bei mir.
+
+![Die angebliche Bestätigung der US-Zentralbank](/posts/2025-01-11_aurora-federal-credit-union/treasury.webp)
+
+Selbstverständlich folgt direkt im Anschluss die erneute Forderung nach unseren persönlichen Daten. Wer jetzt noch skeptisch bleibt, hat wohl einfach kein Vertrauen in diesen bürokratischen Wahnsinn... oder einfach einen Funken gesunden Menschenverstand. 😏  
+
+## Uwe hat immer recht!
+
+Die Spannung steigt, doch Hugo bleibt skeptisch – schließlich hat er Uwe an seiner Seite, und der ist bekanntlich der beste Berater in Sachen Geld und Verstand. Also antworten wir weiterhin mit der nötigen Mischung aus Ruhrpott-Charme und gezielter Verwirrung:  
+
+> **Hallo Frau Myers,**  
+>   
+> ich hab mir das Dokument genau angeschaut – Donnerwetter, sieht ja wirklich wichtig aus! Aber jetzt mal Butter bei die Fische: Warum braucht ihr so viele Daten? Mein Nachbar Uwe meinte, für eine Überweisung reichen doch Name und Kontonummer. Der hat nämlich neulich auch mal 10 Euro an seine Tante in Bottrop geschickt, und das ging ohne so viel Tamtam.  
+>   
+> Außerdem hab ich noch eine Frage: Kann Janet Yellen mir vielleicht mal direkt schreiben? Ich meine, wenn sie das Dokument unterschrieben hat, kennt sie mich ja jetzt auch, oder? Ich würd sie gern mal fragen, wie lange so eine Überweisung dauert. Bei uns in Wanne-Eickel ist die Sparkasse manchmal echt lahm, wissen Sie?  
+>   
+> Schickt mir einfach schon mal 500 Euro als Testüberweisung. Ich will sicher sein, dass das alles funktioniert, bevor ich meinen Ausweis und die anderen Sachen rauskram. Vertrauen ist ja schließlich keine Einbahnstraße, oder?  
+>   
+> **Grüße aus’m Pott,**  
+> Hugo  
+>   
+> **P.S.:** Der Uwe sagt, er glaubt das erst, wenn das Geld wirklich da ist. Und Uwe hat immer recht!  
+
+Hugo weiß: Mit Uwe auf seiner Seite kann eigentlich nichts schiefgehen – außer vielleicht, dass Frau Myers langsam die Geduld verliert. Mal sehen, ob sie sich auf die 500-Euro-Testüberweisung einlässt. Schließlich ist Vertrauen ja wichtig... 😏  

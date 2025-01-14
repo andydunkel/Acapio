@@ -235,3 +235,39 @@ Man will ja schließlich wissen, wo die versprochenen Millionen herkommen – wi
 >   
 > Beste Grüße aus’m Herzen von Wanne-Eickel,  
 > Ihr Hugo  
+
+## Der WhatsApp-Beweis: Rudolf Steinkellner hat bereits die Million
+
+Unsere Skepsis bleibt unerschütterlich, auch wenn Frau Massi versucht, uns mit einem überzeugenden WhatsApp-Screenshot von einem glücklichen "Begünstigten" aus Deutschland zu beeindrucken. Ein Herr Rudolf Steinkellner bedankt sich rührend für seine frisch erhaltenen 1 Million Euro. 
+
+> Hallo Hugo   
+> Vielen Dank für Ihre E-Mail. Der Inhalt wurde verstanden. Ich verstehe, dass Sie möglicherweise Bedenken bezüglich dieser Transaktion haben, aber Sie können sicher sein, dass dieses Spendenprojekt echt und legitim ist und es keinen Grund zur Sorge bezüglich dieser Transaktion gibt. Als Ihr Anwalt ist es mein Hauptziel, Sie während dieser Transaktion transparent zu beraten und zu unterstützen und sicherzustellen, dass alles reibungslos abläuft. Sie müssen mir Ihre Informationen und Dokumente zur Verfügung stellen. Dadurch kann ich die erforderlichen rechtlichen Verfahren vor dem Obersten Gerichtshof einleiten, um die Unterlagen zu Ihrer großzügigen Spende vorzubereiten und Ihnen das Dokument zur Überprüfung und Unterschrift zuzusenden.  
+>   
+> Ich möchte Ihnen mein WhatsApp-Gespräch mit einem der Begünstigten aus Deutschland zeigen, der heute seine Spende erhalten hat  
+>   
+> Sobald Sie mir die benötigten Informationen zur Verfügung stellen, werde ich mit sofortiger Wirkung fortfahren.   
+>   
+> Vielen Dank und ich hoffe, bald von Ihnen zu hören.  
+>   
+> Vielen Dank  
+> Barr. Elisabeth Massi  
+> LEGAL COMPLIANCE LIMITED  
+> +18056577932  
+
+
+![Hier chattet ein Gewinner](/posts/2025-01-07_lotto_gewinner_spendet/whatsapp_beweis.webp)
+
+### Wir wollen Kontakt mit Rudolf!
+
+Ein Screenshot als Beweis? Nee, damit geben wir uns nicht zufrieden. Hugo will’s genau wissen und fordert den direkten Draht zu Rudolf ein – WhatsApp-Nummer inklusive. Schließlich klärt man so was am besten persönlich, oder?
+
+> Ey Frau Massi,    
+>   
+> erstmal Respekt für den Screenshot, das sieht ja richtig amtlich aus! Der gute Rudolf hat also seine Mille kassiert – läuft bei ihm! Aber Sie wissen ja, man will immer auf Nummer sicher gehen.    
+>   
+> Könnten Sie mir vielleicht Rudolfs WhatsApp-Nummer schicken? Würd mich echt mal interessieren, wie er so drauf ist und ob das alles wirklich so easy gelaufen ist. Ist ja auch für mich wichtig, wenn ich hier in die große Millionärsrunde einsteige, dass ich weiß, worauf ich mich einlasse.    
+>   
+> Also, her mit der Nummer – wir klären das mal direkt mit dem Kollegen!    
+>   
+> Beste Grüße aus’m Pott,    
+> Ihr Hugo    

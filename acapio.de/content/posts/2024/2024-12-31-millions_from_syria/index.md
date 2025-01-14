@@ -1,5 +1,5 @@
----
-title: "Millionen aus Syrien? Das Märchen der Arisha Schuch mit dem großen Herz und den großen Koffern"
+--- 
+title: "Millionen aus Syrien? Das Märchen der Arisha Hwee Schuch mit dem großen Herz und den großen Koffern"
 params:
   author: Andy
 date: "2024-12-31"

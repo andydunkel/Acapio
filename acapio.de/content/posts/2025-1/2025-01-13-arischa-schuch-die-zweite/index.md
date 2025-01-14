@@ -1,5 +1,5 @@
 ---
-title: "Hugo aus Wanne-Eickel vs. der Diplomatenbetrug, Arisha Schuch zweiter Teil"
+title: "Hugo aus Wanne-Eickel vs. der Diplomatenbetrug, Arisha Hwee Schuch zweiter Teil"
 params:
   author: Andy
 date: "2025-01-13"
@@ -240,3 +240,46 @@ Die Frachtfirma verlangt 2940 Euro für eine angeblich obligatorische Versicheru
 >   
 > Thank you,  
 > Mr. Hugo Scholz  
+
+### Arisha fleht: Die 2940-Euro-Frage wird emotional
+
+Arisha reagiert prompt auf Hugos Zweifel – und bringt die großen Geschütze emotionaler Überzeugungskunst ins Spiel. Sie erklärt, dass der Diplomatenversicherungstag tatsächlich verpflichtend sei und sie von Syrien aus keine finanzielle Hilfe leisten könne. Stattdessen bittet sie Hugo, das Geld irgendwie aufzutreiben, sei es durch Leihen oder andere kreative Mittel.  
+
+Die Botschaft ist klar: „Jede Verzögerung könnte meine Arbeit und unsere gemeinsame Zukunft gefährden.“. 
+
+> Guten Morgen, Hugo, wie geht es dir heute und wie läuft alles? Ich hoffe, dir geht es heute Morgen gut. Bitte sieh immer in deinen E-Mails nach, damit du Bescheid weißt, wenn ich dir schreibe oder wenn das Lieferunternehmen dir schreibt.  
+>   
+> Bitte, ich habe deine Nachricht jetzt gesehen und habe dem Unternehmen sofort geschrieben, und sie haben mir mit einer Kopie derselben E-Mail geantwortet, die sie dir geschickt haben. Ich habe das Unternehmen nach der Zahlung des Diplomatenversicherungs-Tags gefragt, da ich die Sendungsregistrierung bereits bezahlt hatte. Sie sagten mir, dass die Registrierung die einzige Zahlung war, die ich zu diesem Zeitpunkt leisten musste, und dass dieser angeforderte Diplomatenversicherungs-Tag nur am Flughafen während der Durchreise bearbeitet werden kann und dass er obligatorisch ist.  
+>   
+> Liebling, ich verstehe deine und meine Situation, da ich von hier aus kein Geld empfangen oder senden kann. Ich danke Gott, dass wir etwas erreichen, aber ich bitte um dein Verständnis, dass dieser Betrag von 2940 Euro keine Verzögerung oder Verzögerung dieser Sendung verursachen darf. Selbst wenn Sie das Geld leihen können, können Sie sicher sein, dass es dem Kreditgeber zurückerstattet wird, sobald die Sendung in Deutschland eintrifft. Ich werde Ihnen den Zugangscode und alle Informationen zu dem Fonds und dem Betrag, den Sie für diese Ausgabe abheben werden, geben.  
+>   
+> Liebling, ich flehe dich im Namen Gottes an und denke daran, dass jede weitere Verzögerung meine ganze Arbeit gefährden und auch die Zukunft ruinieren könnte. Sei also bitte rücksichtsvoll. Obwohl deine Worte so einfach zu verstehen sind, müssen wir erkennen, dass wir füreinander geschaffen sind, und ich warte auf deine positive Antwort, die deine Bemühungen und deine Bereitschaft zur Zahlung zeigt, damit das Unternehmen die Lieferung nach Deutschland abschließen kann.  
+>   
+> Ich werde auf deine Antwort warten und bitte schau immer in deine E-Mails, damit du weißt, wann ich dir schreibe und wann das Versandunternehmen dir schreibt.  
+>   
+> Schlaf gut; ich habe jetzt Nachtdienst und werde bald wieder vorbeischauen.  
+>   
+> Alles Liebe von mir  
+
+Auch Fexcargoexpress bleibt hart!
+
+> We knew that this was your first time receiving a diplomatic shipment. And I want you to understand that Sgt. Arisha Hwee Schuch paid a registration fee. to our agent location in Damascus, Syria, with the aid of the Red Cross and 2940 euros is not too much for diplomatic insurance certificate documents from Turkey to Germany.  
+
+
+### "Hugo will Beweise: Liebe allein reicht nicht"  
+
+Hugo ist hin- und hergerissen: Seine Gefühle für Arisha sind echt, aber die Summe von 2940 Euro lässt seinen gesunden Menschenverstand Alarm schlagen. In seiner Antwort bleibt er höflich, aber stellt klare Forderungen: Ein Foto vom Diplomatenkoffer – und am besten auch vom Inhalt. Das sollte die Scammer hoffentlich auch etwas Arbeit machen, ein entsprechendes Foto zu besorgen.
+
+> Hallo meine liebe Arisha,  
+>   
+> vielen Dank für deine Nachricht. Es tut mir leid, dass ich momentan so skeptisch bin, aber die Summe, um die es hier geht, ist einfach riesig für jemanden wie mich. 2940 Euro sind nicht einfach aufzutreiben, auch nicht durch ein Darlehen. Ich will dir helfen, das weißt du – aber ich muss sicher sein, dass all das echt ist.  
+>   
+> Könntest du mir bitte ein Foto von dem Koffer schicken? Am besten eines, auf dem auch der Inhalt zu sehen ist – das Geld und alles, was dazugehört. Ich bin sicher, dass du verstehst, dass ich mich einfach absichern muss, bevor ich so eine große Summe investiere.  
+>   
+> Ich hoffe, du nimmst mir meine Vorsicht nicht übel. Du bist mir wirklich wichtig, Arisha, und ich will, dass wir gemeinsam durch diese Situation kommen. Aber ich muss einfach sicher sein, dass wir auf dem richtigen Weg sind.  
+>   
+> Ich freue mich auf deine Antwort und hoffe, dass du mir diesen kleinen Gefallen tun kannst.  
+>   
+> Alles Liebe,  
+> dein Hugo  
+

@@ -260,3 +260,37 @@ Nach der energischen Antwort des vermeintlichen Anwalts versuchen wir, die Situa
 > Vielen Dank für Ihre Geduld - wir hoffen, dass wir die Sache so bald wie möglich klären können.  
 
 Ob er darauf eingeht und uns wirklich erklärt, wie iTunes-Karten in einer "Genehmigungsgebühr" verarbeitet werden, bleibt abzuwarten. Vielleicht bekommen wir so den ultimativen Einblick in die kreative Welt der Scammer. 😊
+
+### Die nächste Anweisung: So funktioniert die „Spende“
+
+Es wird immer kreativer! Der vermeintliche Anwalt zeigt sich erfreut über unsere Bereitschaft und erklärt uns prompt, wie wir die „Genehmigungsgebühr“ per iTunes-Karten begleichen können:  
+
+> „Gehen Sie einfach in einen Telefonladen, Supermarkt oder ins Einkaufszentrum, sagen Sie, dass Sie eine Apple iTunes-Karte im Wert des Betrags kaufen möchten, den Sie bezahlen sollen, kratzen Sie die Rückseite der Karte frei, um die Kartennummer zu sehen, machen Sie nacheinander Fotos von allen Karten, geben Sie den Betrag auf jeder Karte an und senden Sie sie mir über WhatsApp. So einfach ist das.“  
+
+Einfacher geht’s tatsächlich kaum – zumindest für den Scammer. Während wir uns köstlich über diese dreiste Anleitung amüsieren, bleibt eine Frage offen: Wer fällt auf so etwas eigentlich noch rein? 😅  
+
+### Unsere (absichtlich) verwirrende Antwort
+
+Wir entscheiden uns, den Scammer mit einer absurd verworrenen Geschichte über unseren angeblichen Kaufversuch zu verwirren. Hier unsere Antwort:  
+
+---
+
+**Betreff:** Probleme beim Kauf der iTunes-Karten  
+
+> Sehr geehrter Herr Cham,    
+>   
+> vielen Dank für die ausführliche Erklärung! Wir haben natürlich sofort versucht, Ihren Anweisungen zu folgen, aber es gab einige unvorhergesehene Schwierigkeiten.    
+>   
+> Zunächst sind wir in den Supermarkt gegangen, aber dort sagte man uns, dass die Apple iTunes-Karten ausverkauft seien, da „die Leute gerade alle Gutscheine für Weihnachten kaufen“. Kein Problem, dachten wir, und fuhren weiter zum Einkaufszentrum. Dort hatten sie die Karten, aber unsere EC-Karte hat einen Tageslimit von 500 Euro.    
+>   
+> Also haben wir versucht, zwei Karten zu je 500 Euro zu kaufen, aber der Kassierer meinte, dass pro Person nur eine Karte verkauft werden darf. Also habe ich meinen Nachbarn gefragt, ob er mitkommen und für uns die zweite Karte kaufen könnte, aber sein Hund musste plötzlich zum Tierarzt.    
+>   
+> Als letzte Lösung sind wir dann in den Telefonladen gegangen, aber dort verlangten sie für jede Karte 10 Euro Gebühr extra. Wir wollten das erst akzeptieren, doch dann hat die Kassiererin gesagt, sie brauche eine Kopie meines Ausweises, weil iTunes-Karten oft bei Betrugsfällen verwendet werden – das hat mich dann doch stutzig gemacht.    
+>   
+> Können wir die Zahlung vielleicht aufteilen? Vielleicht könnten wir Ihnen heute eine Karte über 500 Euro schicken und den Rest morgen? Bitte lassen Sie uns wissen, wie wir am besten vorgehen sollen.    
+>   
+> Vielen Dank für Ihre Geduld! 
+
+---
+
+Mal sehen, ob ihn diese Mischung aus Chaos und vermeintlichem Eifer aus der Fassung bringt! 😄

@@ -77,3 +77,25 @@ Hugo hat ernst gemacht: Mit ehrlicher Begeisterung und einer Prise Ruhrpott-Char
 >   
 > Beste Grüße,    
 > Hugo aus Wanne    
+
+## Die Antwort kommt umgehend  
+
+Frau Schaeffler lässt keine Zeit verstreichen: Wie in vielen dieser Scams führt die nächste Stufe direkt zu einer „vertrauenswürdigen Bank“. Unser Hugo soll sich mit einer dubiosen Yahoo-Mail-Adresse verbinden, ein neues Konto eröffnen und sich auf „einfache“ Überweisungen freuen. Natürlich lässt Hugo das nicht auf sich sitzen – mit Ruhrpott-Logik und einer gesunden Portion Misstrauen geht’s in die nächste Runde!
+
+![Jetzt geht es zur Bank](/posts/2025-01-14_maria-schaeffler-scam/anwalt.webp)
+
+### Also geht es zur Bank, mit Yahoo-Mail-Konto
+
+Hugo lässt sich nicht lange bitten und meldet sich direkt bei der angeblichen Bank. Mit seiner typischen Mischung aus Ruhrpott-Charme und gesunder Skepsis fragt er nach, wie das mit den Millionen denn jetzt genau laufen soll. Ob das Konto echt sein muss und ob er nicht einfach sein Sparkassen-Konto nutzen kann – Hugo stellt die wichtigen Fragen, die jedem im Kopf herumschwirren würden. Die Spammer dürften sich jetzt schon den Kopf kratzen!
+
+> Hallo Synovus-Bank,  
+>   
+> ich hab von der lieben Maria Elisabeth Schaeffler gehört, dass ihr mein Geld habt – satte 1,8 Millionen Euro! Ehrlich, ich bin ganz baff, dass sowas klappt. Maria meinte, ich soll euch meine Daten geben und das Ding läuft.  
+>   
+> Hier mal die Referenznummer, die Maria mir gegeben hat: REPMH/AVL2016/28262/S.MH. Passt das so? Und wie läuft das jetzt mit dem Online-Konto? Muss ich da was einzahlen oder regelt ihr das direkt? Ich hab keine Ahnung von solchen großen Summen, bei mir geht’s sonst eher um den Kontostand am Pommeswagen.  
+>   
+> Meldet euch mal und sagt Bescheid, was jetzt ansteht. Ich bin echt gespannt und freu mich drauf!  
+>   
+> Beste Grüße,  
+> Hugo Scholz  
+> Wanne-Eickel  

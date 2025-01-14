@@ -221,3 +221,70 @@ Hugo bedankt sich überschwänglich, dass Jonathan die Anwaltskosten übernimmt,
 > Hugo 
 >   
 > P.S.: Wenn das durch ist, komm ich in London vorbei – und wir cruisen zusammen! 
+
+### Haskel liefert ab 
+
+Jonathan Haskel macht Ernst: In einer weiteren Nachricht schickt er Hugo eine ganze Reihe offiziell wirkender Dokumente – vom angeblichen Testament über ein Affidavit bis hin zu einer Zertifizierung der „Courtage Trust Bank“. Alles wirkt beeindruckend, mit Stempeln, Unterschriften und sogar Siegeln. Hugo ist begeistert – endlich sieht er schwarz auf weiß, dass er ein reicher Erbe ist!
+
+![](/posts/2025-01-11_neurologe_macht_uns_reich/doc_1.webp)
+
+![](/posts/2025-01-11_neurologe_macht_uns_reich/doc_2.webp)
+
+![](/posts/2025-01-11_neurologe_macht_uns_reich/doc_3.webp)
+
+#### Weiter gehts zur Bank!
+
+Er hat damit seine Schuldigkeit getan und er verweist uns an die Bank und hat sogar schon eine Mail vorbereitet.
+
+> Hallo Hugo,  
+>   
+> ich hoffe, alles ist gut. Der Anwalt hat die Vorbereitung der Dokumente abgeschlossen, und ich habe eine Kopie der Dokumente an die COURTAGE TRUST BANK weitergeleitet, die Sie als den einzigen überlebenden Verwandten meines verstorbenen Mandanten Dr. Thomas .J. Scholz. Ich habe auch eine Kopie dieser Dokumente an Sie angehängt, zur Ansicht. Die Bank könnte Sie bitten, eine Kopie zur Bestätigung zu senden, ob Sie der rechtmäßige Begünstigte sind.  
+>   
+> Ich habe den Anwalt auch gebeten, die COURTAGE TRUST BANK anzurufen, nachdem ich die Dokumente an sie geschickt habe, um zu erklären, dass Sie der einzige überlebende Verwandte meines verstorbenen Mandanten sind. Er hat ihnen mitgeteilt, dass Sie aufgrund Ihrer Krankheit nicht nach England reisen können, um Ansprüche auf das Gut zu erheben. Sie wissen bereits, dass sich Geld in der Sendung befindet, da ich das Geld als Sendung in einem Sicherheitsschließfach bei der COURTAGE TRUST BANK hinterlegt habe.  
+>   
+> Die COURTAGE TRUST BANK bietet auch Bankdienstleistungen an. Sie haben auch ein Online-Banking-System. Sie müssen ein Online-Konto bei ihnen eröffnen, um die Transaktion zu erleichtern.  
+>   
+> Sie werden aufgefordert, sich mit der COURTAGE TRUST BANK in Verbindung zu setzen. Hier sind die Kontaktinformationen der Online-Abteilung.  
+>   
+> COURTAGE TRUST BANK.  
+>   
+> Montfichet Rd, London E20 1EJ, Vereinigtes Königreich  
+>   
+> INTERNATIONAL TRANSFER DEPARTMENT.  
+>   
+> E-Mail: CourtageBankOnline@englandmail.com  
+>   
+> Telefon: +44 7418 362800  
+>   
+> Fax: +44 7000 80000  
+>   
+> Bürozeiten: 8:00 - 19:00 Uhr UK-Zeit.  
+>   
+> Kontaktperson: Herr MacQuoid Taylor  
+>   
+> Wenn Sie die Bank per E-Mail kontaktieren möchten, schlage ich vor, dass Sie die Bank wie folgt per E-Mail kontaktieren. COURTAGE TRUST BANK (SWINDON, ENGLAND, VEREINIGTES KÖNIGREICH), Mein Name ist Hugo Scholz, ich schreibe diese E-Mail im Zusammenhang mit den Geldern meines verstorbenen Verwandten, mit dem Namen Dr. Thomas .J. Scholz, die sich bei Ihrer Bank THE COURTAGE TRUST BANK befinden. Ich möchte ein Online-Konto bei Ihrer Bank eröffnen, um Zugang zu den Geldern meines verstorbenen Verwandten als seinem einzigen überlebenden Verwandten und nächsten Angehörigen zu haben. Ich würde mich sehr freuen, wenn meine E-Mail eine Antwort im Hinblick auf meine Anfrage erhalten würde  
+
+#### Unser Dank an Haskel
+
+Natürlich bedanken wir uns beim guten Haskel! Die Einladung nach Wanne auf Bier und Wurst steht!
+
+> Hallo Herr Haskel,    
+>   
+> also ich muss sagen, ich bin echt beeindruckt, was Sie da alles geliefert haben! Die Dokumente sehen ja aus wie aus ’nem echten Krimi – mit Siegeln, Stempeln und allem Drum und Dran. Richtig professionell, da merkt man, dass Sie Ahnung haben.    
+>   
+> Die Einladung in den Pott steht übrigens immer noch! Wenn das hier durch ist, machen wir ’nen richtig schönen Abend mit Currywurst und Bier, das schwör ich Ihnen.    
+>   
+> Jetzt schreibe ich erstmal der Bank, wie Sie gesagt haben. Bin gespannt, wie’s weitergeht – ich halte Sie auf dem Laufenden!    
+>   
+> Beste Grüße aus Wanne-Eickel,    
+> Hugo    
+>   
+> P.S.: Wenn das alles klappt, nennen wir ’ne Straße in Wanne nach Ihnen. 😉  
+
+### Wir schreiben der Bank 
+
+Natürlich tippen wir sofort eine E-Mail an die hochseriöse Adresse „CourtageBankOnline@englandmail.com“. Klingt ja fast wie der Briefkasten einer echten Bank, oder? Natürlich halten wir uns streng an Jonathans Vorlage – schließlich will man bei den „feinen Leuten“ nichts falsch machen. Mit so einem professionellen Tonfall fühlen wir uns glatt wie in der oberen Liga des internationalen Bankwesens. 
+
+**Hugo ist bereit, der Traum von den Millionen rückt näher!** 😉
+
+![](/posts/2025-01-11_neurologe_macht_uns_reich/bank_1.png)
