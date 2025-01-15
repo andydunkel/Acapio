@@ -279,7 +279,7 @@ Natürlich bedanken wir uns beim guten Haskel! Die Einladung nach Wanne auf Bier
 > Beste Grüße aus Wanne-Eickel,    
 > Hugo    
 >   
-> P.S.: Wenn das alles klappt, nennen wir ’ne Straße in Wanne nach Ihnen. 😉  
+> P.S.: Wenn das alles klappt, nennen wir ’ne Straße in Wanne nach Ihnen. 😉  n
 
 ### Wir schreiben der Bank 
 
@@ -288,3 +288,56 @@ Natürlich tippen wir sofort eine E-Mail an die hochseriöse Adresse „Courtage
 **Hugo ist bereit, der Traum von den Millionen rückt näher!** 😉
 
 ![](/posts/2025-01-11_neurologe_macht_uns_reich/bank_1.png)
+
+### Haskel schreibt länglich zurück
+
+Jonathan Haskel legt nochmal ordentlich nach – und das in epischer Länge. Zwischen Anweisungen zum Online-Banking, Latein-Zitaten und Appellen an Hugos Vernunft wird klar: Der gute Haskel sieht sich als unangefochtenen Projektleiter. Vertrauen, Vertraulichkeit und blinder Gehorsam sind seine Schlüssel zum Erfolg.  
+
+Doch auch der Mensch hinter der Mail kommt durch: Haskel freut sich schon auf den Currywurst-Abend im Pott und philosophiert darüber, wie zerbrechlich Vertrauen ist – ganz so, als hätten wir es mit einem Hobby-Psychologen zu tun. Hugo fühlt sich gebauchpinselt, aber auch ein bisschen erschlagen von dieser Flut an Ratschlägen und Warnungen.
+
+![](/posts/2025-01-11_neurologe_macht_uns_reich/long_mail.png)
+
+Ein paar sprachliche Bonmots liefert der gute Haskel gleich mal mit:
+
+> Wenn es um große Geldsummen geht, ist es ratsam, niemandem zu vertrauen, aber wer nicht genug vertraut, dem wird nicht vertraut.
+
+oder:
+
+> Dies ist eine private und vertrauliche Vereinbarung, bei der nur du und ich die vollständigen Details kennen. Der Erfolg dieses Projekts hängt von Vertraulichkeit und Vertrauen ab
+
+
+## Hugo versichert seine Loyalität
+
+> Hallo Herr Haskel,  
+>   
+> also erstmal: Respekt! Sie sind echt ’ne coole Socke. Ihre Mail hat mich echt beeindruckt, auch wenn ich ehrlich gesagt nicht alles so ganz verstanden hab. Sie schreiben da was von Latein und „primus irgendwas“ – klingt richtig schlau. 
+>   
+> Keine Sorge, ich mach, was Sie sagen. Wenn Sie sagen, ich soll der Bank schreiben und das Online-Konto checken, dann mach ich das natürlich. Vertrauen hab ich – Sie sind ja Profi, das merkt man.  
+>   
+> Ich halte Sie auf dem Laufenden, wie’s weitergeht. Und keine Angst, ich erzähl keinem was – bleibt alles unter uns, versprochen!  
+>   
+> Beste Grüße aus Wanne-Eickel,  
+> Hugo
+
+## Dann schreiben wir halt der Bank!
+
+Wir schreiben der Bank (E-Mail: CourtageBankOnline@englandmail.com). Diese will den üblichen digitalen Striptease, Foto und die Dokumente!
+
+![](/posts/2025-01-11_neurologe_macht_uns_reich/bank_2.png)
+
+Liefern wir!
+
+
+
+> Hallo Herr Taylor,  
+>   
+> vielen Dank für Ihre schnelle Antwort und die klare Anleitung! Ich freue mich sehr, dass es jetzt vorwärtsgeht. Ich werde das Formular gleich ausfüllen und Ihnen schicken. Die geforderten Dokumente habe ich ja schon von Herrn Haskel erhalten, die lege ich natürlich auch direkt bei.
+>   
+> Ich bin wirklich begeistert, wie professionell und zügig das hier läuft – dafür ein großes Dankeschön an Sie und Ihr Team! Ich hoffe, dass wir das alles bald abschließen können, damit ich mein Erbe antreten kann.  
+>   
+> Sollte es noch irgendwelche Fragen geben, lassen Sie es mich bitte wissen. Ich stehe bereit!  
+>   
+> Beste Grüße,  
+> Hugo Scholz  
+>   
+> P.S.: Ich hoffe, es macht Ihnen nichts aus, dass ich noch keine schicke Krawatte für den Anlass trage – ich bin mehr der Typ für T-Shirts. 😉  

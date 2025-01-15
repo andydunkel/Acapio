@@ -552,3 +552,7 @@ Die Bitcoin-Adresse: "[bc1qdxd4g7w2guzhmu9vpwfdv7n5l7zpcs5mvvcuvy](https://www.b
 Wir haben wenig Zeit und wollen die Scammer noch etwas hinhalten, daher schimpfen wir erstmal über die Bank. Wir werden darauf hingewiesen, dass wir so tun sollen, dass das Bitcoin-Konto uns gehört.
 
 ![Wir müssen alles geheim halten](/posts/2024-12-25_turkish_sick_woman/whatsapp_3.webp)
+
+Am nächsten Tag wird natürlich wieder nachgefragt, wir spielen jetzt mal die Karte, dass das Konto gesperrt wurde.
+
+![Konto-Sperre!](/posts/2024-12-25_turkish_sick_woman/whatsapp_4.webp)

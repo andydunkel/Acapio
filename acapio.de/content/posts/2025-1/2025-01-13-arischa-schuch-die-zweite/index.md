@@ -283,3 +283,48 @@ Hugo ist hin- und hergerissen: Seine Gefühle für Arisha sind echt, aber die Su
 > Alles Liebe,  
 > dein Hugo  
 
+## "Arisha bleibt dran: Liebe, Vertrauen und... 2940 Euro"  
+
+Arisha gibt nicht auf: Sie bedankt sich überschwänglich für Hugos Einsatz, versichert ihm erneut ihre ehrlichen Absichten und betont, wie sehr sie sich auf ihre gemeinsame Zukunft freut. Ein romantischer Traum aus Liebe, Vertrauen und Ehrlichkeit – gewürzt mit einer Prise Dringlichkeit, denn Hugo soll endlich die Reederei kontaktieren und die Zahlung anstoßen.  
+
+> Guten Morgen, Hugo, wie geht es dir heute und wie läuft alles? Entschuldige meine späte Antwort. Ich kam von meinem Nachtdienst zurück, bevor ich deine Nachricht sah, und schrieb sofort an das Rote Kreuz, damit sie mir die Frachtrechnung schicken, damit ich sie auch an dich weiterleiten kann. Vielen Dank für alles und ich verspreche dir, dass du es nie bereuen wirst, mir geholfen zu haben, und mein Traum ist es, bald bei dir zu sein.  
+>   
+> Inzwischen verstehe ich deine Nachricht, und du hast recht, Liebes, aber du hast meinen Pass und ich bin nicht hier, um dich zu verletzen oder dich auszunutzen, sondern ich komme in dein Leben, um eine starke Beziehung mit Liebe, Vertrauen und Ehrlichkeit aufzubauen, um unsere gemeinsame Zukunft zu verbessern.  
+>   
+> Bitte, ich weiß all deine Bemühungen zu schätzen und kann nicht aufhören, dir für all dein Engagement für diese Lieferung zu danken, und ich kann es kaum erwarten, bald bei dir in Deutschland zu sein, und bitte kontaktiere die Reederei und fordere ihre Zahlungsdetails an, denn ich möchte dich in Deutschland treffen, sobald du das Gepäck von der Reederei erhältst.  
+>   
+> Ich werde bald wieder vorbeischauen. Ich wünsche Ihnen einen schönen Tag.  
+
+### Das "Beweisbild" und ein Dokument
+
+Hastig besorgt Arisha nun noch ein Bild von Koffer und Geld, beides in extra Bildern. Das Kofferbild sieht aus, wie von einem Produktkatalog, das Geld wie ein Stockfoto. Hastig wurden Screenshots gemacht, vielleicht klappt es ja
+
+![Koffer und Geld, in zwei Bildern](posts/2025-01-13_arisha-schuch-die-zweite/koffer_bild.webp)
+
+Wir googeln die Bilder und finden zumindest das Kofferbild auf eBay. Wäre sonst ein schöner Zufall gewesen, den Koffer mit dem Geld direkt vor einem startenden Flugzeug zu fotografieren.
+
+![Kofferbild auf eBay](posts/2025-01-13_arisha-schuch-die-zweite/koffer_ebay.webp)
+
+Garniert werden die Bilder mit einem Versanddokument. Inklusive Rechtschreibfehler, wurde es hastig erstellt.
+
+![Frachtpapiere](posts/2025-01-13_arisha-schuch-die-zweite/koffer_versand.webp)
+
+### Hugo hat genug: Gefälschte Bilder und peinliche Fehler
+
+Jetzt reicht’s Hugo: Nachdem er die Bilder vom angeblichen Diplomatenkoffer genauer unter die Lupe genommen hat, platzt ihm der Kragen. Offensichtliche Fälschungen und ein dicker Rechtschreibfehler („Frieght notice“ statt „Freight notice“) auf einem vermeintlich offiziellen Dokument bringen das Fass zum Überlaufen.  
+
+Hugo macht kurzen Prozess: In seiner gewohnt direkten Art fordert er Arisha auf, endlich echte Beweise zu liefern – oder die Sache ist beendet. Kein romantisches Geplänkel mehr, kein Hinhalten. Hugo ist bereit, das Kapitel zu schließen, wenn sich nichts ändert.  
+
+**Kann Arisha den Schwindel noch retten?**
+
+> Hallo Arisha,  
+>   
+> Jetzt mal ehrlich, was soll der Quatsch? Ich hab mir die Bilder vom Koffer genauer angesehen, und das sieht für mich total gefälscht aus. Denkst du, ich merk das nicht? Und dann noch dieses „Frieght notice“ – kannst du mir bitte erklären, was das für ein Fehler auf einem offiziellen Dokument sein soll? Wenn das alles so seriös ist, wie du sagst, warum sieht’s dann aus wie ein schlechter Witz?  
+>   
+> Ich hab echt viel Geduld gehabt und wollte dir helfen, aber so geht’s nicht weiter. Mach das jetzt vernünftig und schick mir was Echtes, oder wir lassen das hier. Ich bin nicht auf den Kopf gefallen, und ich hab langsam die Nase voll davon, wie du mich hier hinhalten willst.  
+>   
+> Also, Arisha: Butter bei die Fische! Wenn du willst, dass ich dranbleibe, dann liefere jetzt was Handfestes. Sonst war’s das – und zwar endgültig.  
+>   
+> Hau rein und überleg dir gut, was du jetzt machst.  
+>   
+> Hugo  

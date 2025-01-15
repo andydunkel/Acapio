@@ -51,3 +51,11 @@ Phishing mit vermeintlichen Umfragen und Gratisangeboten ist ein altbekannter, a
 Die wichtigste Regel lautet: Geben Sie niemals Kreditkarteninformationen auf Webseiten ein, deren Seriosität nicht zweifelsfrei bestätigt ist. Achten Sie darauf, immer die URL zu überprüfen und Angebote kritisch zu hinterfragen. Wenn etwas zu gut klingt, um wahr zu sein, ist es meist ein Betrug. Bleiben Sie wachsam und informieren Sie andere über diese Maschen, um potenziellen Schaden zu verhindern.
 
 Sollten Sie dennoch darauf reingefallen sein, sollte die Kreditkarte umgehend gesperrt werden.
+
+## Beispiel Obi: "OBI präsentiert: 129-teilige LUX Werkzeugbox für Sie!"
+
+Die gleiche Vorgehensweise, die gleiche Webseite mit anderen Fragen und Bildern. Anscheinend haben die Benutzer ein System programmiert, in welchem verschiedene Fragen und Fotos geändert werden können.
+
+![](/posts/2025-01-15_phishing-mit-kostenlosen-umfragen-und-artikeln/obi_1.webp)
+
+![](/posts/2025-01-15_phishing-mit-kostenlosen-umfragen-und-artikeln/obi_2.webp)

@@ -99,3 +99,39 @@ Hugo lässt sich nicht lange bitten und meldet sich direkt bei der angeblichen B
 > Beste Grüße,  
 > Hugo Scholz  
 > Wanne-Eickel  
+
+
+## Die Bank will den digitalen Striptease!
+
+Die vermeintliche „Bank“ meldet sich mit einer beeindruckend langen Liste an Forderungen: Von Passfotos bis hin zu Details über den nächsten Angehörigen, fehlt eigentlich nur noch die Schuhgröße. 
+
+![Jetzt geht es zur Bank](/posts/2025-01-14_maria-schaeffler-scam/bank_1.png)
+
+Doch Hugo aus Wanne bleibt souverän – und liefert eine Mischung aus Fake-Daten, Ruhrpott-Charme und seiner typischen Skepsis. Geht Nachbar Horst als 
+
+### Hugo antwortet
+
+> Hallo Herr Cooker (oder wie auch immer),  
+>   
+> ich hab die Mail gelesen und bin ganz ehrlich: Das klingt ganz schön kompliziert. Ich dachte, ich geb euch die Referenznummer und dann läuft das alles von alleine. Jetzt wollt ihr so viele Daten, ich komm da fast nicht mehr mit.  
+>   
+> Also hier mal, was ich hab:  
+>   
+> - Vorname: Hugo  
+> - Nachname: Stahlkeil  
+> - Geschlecht: Männlich (hoffentlich bleibt das so)  
+> - Geburtsdatum: 01.04.1980  
+> - Adresse: Bremsklotzstraße 77, 45888 Gelsenkirchen  
+> - Telefonnummer: +49 123 456789  
+> - Land: Deutschland  
+> - Bundesstaat: Äh, wir ham sowas nich, hier is NRW.  
+> - Stadt: Gelsenkirchen  
+> - Postleitzahl: 45888  
+> - Pass/Foto: Hab ich nich, aber ich schick euch gerne ein Selfie mit meinem Dackel, passt das?  
+>   
+> Zum „nächsten Angehörigen“: Kann ich da meinen Nachbarn Horst angeben? Der is immer da, wenn ich mal Hilfe brauch.  
+>   
+> Meldet euch mal, ob das reicht, ich will das ja alles korrekt machen. Aber irgendwie sieht das aus, als wolltet ihr mir ’ne Steuererklärung andrehen, so viele Daten wollt ihr!  
+>   
+> Hau rein,  
+> Hugo  

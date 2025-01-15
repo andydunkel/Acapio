@@ -2,7 +2,7 @@
 title: "Aktientipps vom Chefvolkswirt der Commerzbank"
 params:
   author: Andy
-date: "2025-01-15"
+date: "2025-01-20"
 featured: true
 toc: true
 draft: true
@@ -11,7 +11,7 @@ tags:
 categories:
     - "Aktien"
 thumbnail: "stock_scam.webp"
-url: "posts/2025-01-15_aktien_tipps_vom_chef"
+url: "posts/2025-01-20_aktien_tipps_vom_chef"
 summary: "Aktientipps vom Chefvolkswirt der Commerzbank, was kann da schiefgehen?"
 ---
 
