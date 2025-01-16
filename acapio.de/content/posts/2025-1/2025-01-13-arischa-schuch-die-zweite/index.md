@@ -328,3 +328,22 @@ Hugo macht kurzen Prozess: In seiner gewohnt direkten Art fordert er Arisha auf,
 > Hau rein und überleg dir gut, was du jetzt machst.  
 >   
 > Hugo  
+
+## "Hugo rudert zurück: Entschuldigung und eine schlaflose Nacht"  
+
+Nach seinem letzten Ausbruch wird Hugo weich: In einer versöhnlichen Nachricht entschuldigt er sich bei Arisha für seinen harschen Ton. Er gibt zu, dass ihn die ganze Sache nicht loslässt und er deswegen die Nacht kein Auge zugemacht hat.  
+
+Doch Hugos Misstrauen bleibt: Er bittet erneut um einen handfesten Beweis – ein echtes Foto vom Koffer und dem Geld – um sicherzugehen, dass die Geschichte stimmt. Dabei bleibt er charmant und zeigt, dass ihm Arisha trotz aller Zweifel wirklich wichtig ist.  
+
+> Hallo meine liebe Arisha,    
+>   
+> Ich glaub, ich war gestern ein bisschen zu hart zu dir, und das tut mir leid. Du bist mir echt wichtig, und ich will dir helfen, aber diese ganze Sache lässt mir einfach keine Ruhe. Ich hab die ganze Nacht kein Auge zugemacht, weil ich ständig an den Koffer und alles drumherum denken musste.    
+>   
+> Bitte versteh mich: Es geht hier um eine Menge Geld, und ich will sicher sein, dass das alles echt ist. Kannst du mir bitte irgendwas Handfestes schicken? Ein echtes Foto vom Koffer und vielleicht auch vom Inhalt – einfach, damit ich beruhigt sein kann. Ich will dir vertrauen, aber du musst mir ein kleines bisschen helfen, okay?    
+>   
+> Du bist mir echt wichtig, und ich will nicht, dass wir uns wegen sowas in die Haare kriegen. Aber ich brauch einfach dieses eine Zeichen von dir, damit ich weiter an uns glauben kann.    
+>   
+> Ich hoffe, du kannst mir das nicht übel nehmen, und ich freu mich auf deine Antwort.    
+>   
+> Liebe Grüße,    
+> dein Hugo  

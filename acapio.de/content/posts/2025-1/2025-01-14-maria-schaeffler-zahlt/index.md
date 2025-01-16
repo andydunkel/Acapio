@@ -135,3 +135,24 @@ Doch Hugo aus Wanne bleibt souverän – und liefert eine Mischung aus Fake-Date
 >   
 > Hau rein,  
 > Hugo  
+
+
+### Die nächste Stufe: Kontogebühren und Offshore-Unsinn  
+
+Das wir offentsichtlichen Unsinn schreiben ficht die Bank nicht an! Stattdessen zeigt endlich ihr wahres Gesicht – statt Millionen gibt’s erstmal Gebühren: 690 Euro für ein vermeintliches Offshore-Sparkonto. 
+
+Hugo antwortet, dass er eigentlich kein Konto braucht.
+
+
+> Hallo Herr Hyland,    
+>   
+> danke für Ihre ausführliche Mail, aber ich hab da mal ein paar Fragen. Also erst mal: Ich brauch eigentlich kein Offshore-Konto. Können wir das Geld nicht einfach auf mein Sparkassen-Konto in Wanne-Eickel überweisen? Ich mein, das wäre doch viel einfacher für uns alle.    
+>   
+> Falls das aber nicht geht, würde ich die günstigste Option nehmen, klar. Die 690 Euro für das „reguläre Offshore-Sparkonto“ sind natürlich ’ne Menge Geld, aber ich würd’s mir irgendwie zusammenkratzen. Kann ich die Gebühr auch in Raten zahlen? Weil bei mir ist’s am Monatsende oft knapp, wissen Sie?    
+>   
+> Und noch was: Brauchen Sie wirklich ’ne gescannte Kopie von meinem Ausweis? Ich mein, ich hab eh nur so einen alten Lappen aus Papier. Falls das nicht reicht, könnte ich auch ein Foto von meinem Führerschein schicken oder von meiner Tante, die managt diese Dinge normal für mich.    
+>   
+> Bitte sagen Sie mir Bescheid, wie ich weiter vorgehen soll – ich will ja alles richtig machen, damit die 1,8 Millionen nicht verloren gehen.    
+>   
+> Beste Grüße,    
+> Hugo Stahlkeil  

@@ -294,3 +294,16 @@ Wir entscheiden uns, den Scammer mit einer absurd verworrenen Geschichte über u
 ---
 
 Mal sehen, ob ihn diese Mischung aus Chaos und vermeintlichem Eifer aus der Fassung bringt! 😄
+
+
+## Weiter gehts, wir schicken ihm eine falsche Karte!
+
+Über WhatsApp wird nun regelmäßig nachgefragt, wo denn die Karte bleibt.
+
+![](/posts/2025-01-01_charity_fund/whatsapp.webp)
+
+Also lassen wir uns nicht lumpen, suchen eine bereits genutzte Karte aus dem Netz und senden diese zu. 
+
+![](/posts/2025-01-01_charity_fund/itunes.png)
+
+Wir haben das Gefühl, dass unsere Freundschaft nun bald endet.

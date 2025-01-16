@@ -6,9 +6,9 @@ draft: false
 
 Diese Seite wird betrieben von:
 
-Andreas Dunkel
-Elrong Str. 5
-87600 Kufbeuren
+Andy Dunkel  
+Elbinger Str. 2  
+87600 Kaufbeuren
 
 E-Mail: andy.dunkel@ekiwi.de
 

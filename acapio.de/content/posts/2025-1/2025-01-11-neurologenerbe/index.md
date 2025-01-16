@@ -328,7 +328,6 @@ Wir schreiben der Bank (E-Mail: CourtageBankOnline@englandmail.com). Diese will 
 Liefern wir!
 
 
-
 > Hallo Herr Taylor,  
 >   
 > vielen Dank für Ihre schnelle Antwort und die klare Anleitung! Ich freue mich sehr, dass es jetzt vorwärtsgeht. Ich werde das Formular gleich ausfüllen und Ihnen schicken. Die geforderten Dokumente habe ich ja schon von Herrn Haskel erhalten, die lege ich natürlich auch direkt bei.
@@ -341,3 +340,44 @@ Liefern wir!
 > Hugo Scholz  
 >   
 > P.S.: Ich hoffe, es macht Ihnen nichts aus, dass ich noch keine schicke Krawatte für den Anlass trage – ich bin mehr der Typ für T-Shirts. 😉  
+
+
+## Die Bank will Gebühren – klar doch! "COURTAGE PLATINUM-KONTO"
+
+Jetzt kommt der nächste Schritt: Die „Courtage Trust Bank“ erklärt Hugo, dass alles bereitsteht – es fehlen nur noch £699,99, um ein schickes „Platinum-Konto“ zu eröffnen. 
+
+![](/posts/2025-01-11_neurologe_macht_uns_reich/bank_3.png)
+
+
+Natürlich klingt das für Hugo nachvollziehbar, denn £8.000.000 brauchen schließlich einen würdigen Platz. Während Hugo überlegt, wie er die Gebühr auftreiben soll, bleibt er weiter höflich und optimistisch – schließlich hat er ein Ziel vor Augen: Millionen und ein neues Leben voller Currywurst und Luxus! 😉
+
+> Hallo Herr Taylor,    
+>   
+> danke für Ihre Nachricht und die Infos! Es klingt echt super, dass £8.000.000 bald auf meinem Konto landen können. Sie machen das echt richtig professionell, das muss ich sagen.    
+>   
+> Die Gebühr von £699,99 ist natürlich verständlich – so ein Konto eröffnet sich ja nicht von selbst. Ich könnte das Geld von meiner Sparkasse hier in Wanne-Eickel überweisen. Können Sie mir bitte die Bankdaten schicken, wohin ich das Geld überweisen soll? Dann mach ich das direkt.    
+>   
+> Ich freu mich schon riesig, dass das alles bald klappt. Danke, dass Sie sich so gut kümmern!
+>
+> Viele Grüße,    
+> Hugo
+>   
+> P.S.: Wenn alles fertig ist, müssen wir das feiern – ich spendier ein Bier! 😉   
+
+Auch unseren Haskel antworten wir!
+
+> Moin Herr Haskel,    
+>   
+> also echt mal, Sie sind ja ’ne Granate! Danke für die Nachricht – ich fühl mich bei Ihnen echt gut aufgehoben. Sie haben den Laden voll im Griff, das merkt man.    
+>   
+> Das mit dem Latein ist schon irgendwie cool, auch wenn ich da nicht durchblicke. Aber wie Sie sagen: Hauptsache, wir ziehen das Ding zusammen durch, und ich weiß, dass ich auf Sie zählen kann.    
+>   
+> Ich hab die Bank angeschrieben, die haben sich auch gleich gemeldet. Die Gebühr fürs Konto krieg ich schon irgendwie hin, da lass ich mir was einfallen. Sobald ich was Neues hab, geb ich Bescheid.    
+>   
+> Sie sind echt die beste Unterstützung, die man haben kann – tausend Dank dafür!    
+>   
+> Grüße aus’m Pott,    
+> Hugo Scholz    
+>   
+> P.S.: Bier und Currywurst geht auf mich, wenn das Ding durch ist. Ohne Witz, Sie haben’s sich verdient! 😉  
+

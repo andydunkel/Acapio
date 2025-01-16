@@ -21,17 +21,17 @@ Soziale Medien verbinden, so zumindest das Gefühl. Wenn ich Elon Musk auf Twitt
 
 Die Zeit bei der Commerzbank füllt ihn offenbar nicht ganz aus, er will noch eine Chatgruppe auf WhatsApp eröffnen. Wir sind eingeladen und bekommen auch gleich einen Link.
 
-![](/posts/2025-01-09_aktien_tipps_vom_chef/stock_scam_1.webp)
+![](/posts/2025-01-20_aktien_tipps_vom_chef/stock_scam_1.webp)
 
 ## WhatsApp Chat
 
 Wir spielen mit und kontaktieren den Herren via WhatsApp. Die gute Nachricht, er ist es persönlich. Wir halten uns nicht lange auf und er fragt nach unseren Aktieninvestments. Wir schicken ihm also einen Screenshot mit ein paar Werten und Zahlen.
 
-![Der Chat beginnt](/posts/2025-01-09_aktien_tipps_vom_chef/stock_scam_2.webp)
+![Der Chat beginnt](/posts/2025-01-20_aktien_tipps_vom_chef/stock_scam_2.webp)
 
 Das Depot hält der ersten Überprüfung stand. Natürlich, wir sind ja schließlich auch Aktienprofis und würden keinen Schrott kaufen. Er fragt nach unserer Performance, wir geben ein leichtes Plus an. Nicht schlecht finden wir, da wir ja erst seit kurzem investieren.
 
-![Unser Depot ist in Ordnung](/posts/2025-01-09_aktien_tipps_vom_chef/stock_scam_3.webp)
+![Unser Depot ist in Ordnung](/posts/2025-01-20_aktien_tipps_vom_chef/stock_scam_3.webp)
 
 Natürlich geht es besser und er hat auch einen Tipp in der Pipeline. 3000 Euro könnten wir investieren. Passt. Jetzt wird e spannend, am Folgetag soll es um 19 Uhr einen Aktientipp geben. 10 - 15 % sind drinnen, innerhalb von ein paar Tagen.
 
@@ -39,7 +39,7 @@ Der Tipp kommt auch, pünktlich die ein Schweizer Uhrwerk. Die Aktie trägt den 
 
 590 Aktien sollen wir kaufen, mit Limit, die Zeit drängt. Die Haltedauer beträgt 4 Tage, 10% Gewinn wären drin. Die Frage ist für wen.
 
-![Der Aktientipp](/posts/2025-01-09_aktien_tipps_vom_chef/stock_scam_4.webp)
+![Der Aktientipp](/posts/2025-01-20_aktien_tipps_vom_chef/stock_scam_4.webp)
 
 > Informationen zur US-Aktie mit garantiertem Gewinn
 
@@ -62,13 +62,36 @@ Wertpapier-Identifikationsnummer: A40EWH
 
 Wir spielen das Spiel mal mit und "kaufen" die Aktie. Als Beweis sollen wir einen Screenshot schicken, machen wir natürlich. 
 
-![](/posts/2025-01-09_aktien_tipps_vom_chef/stock_scam_5.webp)
+![](/posts/2025-01-20_aktien_tipps_vom_chef/stock_scam_5.webp)
 
 Der erste passt nicht, daher erstellen wir einen zweiten.
 
-![](/posts/2025-01-09_aktien_tipps_vom_chef/fake_depot.webp)
+![](/posts/2025-01-20_aktien_tipps_vom_chef/fake_depot.webp)
 
-## 4 Tage später
+## 4 Tage später und danach
+
+Nach ein paar Tagen wird es spannend, die Aktie hätte nun den Zielkurs erreicht. Wir sollen verkaufen und bekommen mehrere Anrufe, die wir leider verpassen.
+
+![](/posts/2025-01-20_aktien_tipps_vom_chef/later_1.webp)
+
+Hier wird es seltsam. Der Kurs ist in der Tat gestiegen. Hätten wir also jetzt hier verkauft und verkaufen können, hätten wir Gewinn gemacht. Anschließend, um den 13. herum ist die Aktie dann wieder in einem Tief um sich danach wieder zu erholen.
+
+![](/posts/2025-01-20_aktien_tipps_vom_chef/later_2.webp)
+
+Es kommen ein paar Nachfragen zu unserer Rendite. Wir spielen mit, geben aber nur 5% Gewinn vor. Auch nicht schlecht für uns.
+
+![](/posts/2025-01-20_aktien_tipps_vom_chef/later_3.webp)
+
+
+Der nächste Trade kommt, ist aber exotischer: "Chanson International Holding". 
+
+![](/posts/2025-01-20_aktien_tipps_vom_chef/later_4.webp)
+
+Der Chart:
+
+![](/posts/2025-01-20_aktien_tipps_vom_chef/later_5.png)
+
+
 
 
 
