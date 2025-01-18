@@ -50,3 +50,7 @@ Hugo zögert nicht lange und beschließt, dem Angebot auf den Zahn zu fühlen. S
 > Beste Grüße,    
 > Hugo K.   
 > BMW-Club Wanne-Eickel – immer auf Achse!    
+
+## Fazit
+
+Leider haben wir hier keine Antwort erhalten. 

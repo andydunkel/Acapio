@@ -53,3 +53,8 @@ Hier dennoch die Zusammenfassung:
 > Sie bietet an, den Empfänger der E-Mail als Erben auszugeben, um das Geld freizugeben. Dafür soll alles vertraulich bleiben, und die Summe wird nach erfolgreicher Abwicklung 50/50 geteilt. Offizielle Kanäle dürften nicht genutzt werden, und die Kommunikation solle nur diskret erfolgen. 
 > 
 > Der Tonfall der E-Mail soll Vertrauen erwecken, ist aber ein klarer Betrugsversuch.
+
+
+## Fazit
+
+Leider haben wir hier keine Antwort erhalten.

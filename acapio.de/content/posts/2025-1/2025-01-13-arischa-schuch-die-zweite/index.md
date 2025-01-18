@@ -38,7 +38,7 @@ Sie sucht einen „willigen Empfänger“ (klingt das nicht schon verdächtig ge
 > Beste Grüße,  
 > Dein neuer Freund (?)   
 
-## "Liebe auf den ersten Scam: Arisha sucht einen Retter"  
+## Liebe auf den ersten Scam: Arisha sucht einen Retter
 
 Die erste E-Mail von Arisha liest sich wie das Drehbuch eines B-Movies:  
 
@@ -74,7 +74,7 @@ Telefonieren ist übrigens tabu, denn im Militär sind Handys strengstens verbot
 > Arisha  
 
 
-## "Hugo aus Wanne-Eickel: Retter mit Herz und Humor"  
+## Hugo aus Wanne-Eickel: Retter mit Herz und Humor
 
 Hugo reagiert galant auf Arishas dramatische Bitte: Mit Charme, Komplimenten und einer Prise Romantik zeigt er sich offen für das Abenteuer – unter einer Bedingung: Beweise für ihre Ernsthaftigkeit.  
 
@@ -97,7 +97,7 @@ Zwischen Fragen zu ihren Träumen und einem Augenzwinkern („Vielleicht funkt e
 > PS: Denke an die Fotos!  
 
 
-## "Arisha legt nach: Liebe, Millionen und ein bisschen Wiener Übereinkommen"  
+## Arisha legt nach: Liebe, Millionen und ein bisschen Wiener Übereinkommen
 
 Arisha ist Feuer und Flamme! In ihrer nächsten E-Mail outet sie sich nicht nur als hoffnungslose Romantikerin („Ich akzeptiere, dass ich Sie liebe“), sondern auch als strategische Planerin: Mit dem Verweis auf das Wiener Übereinkommen (!) will sie Hugo endgültig überzeugen.  
 
@@ -141,7 +141,7 @@ Arisha verspricht Hugo eine Zukunft voller Liebe, Geschäftserfolg und... einem 
 >   
 > Kuss  
 
-## "Hugo spielt mit: Daten, Charme und ein Hauch von Vorfreude"  
+## Hugo spielt mit: Daten, Charme und ein Hauch von Vorfreude
 
 Hugo zeigt sich als echter Gentleman: Höflich, charmant und voller Vorfreude übermittelt er Arisha die gewünschten Daten. Er lässt keinen Zweifel daran, dass er bereit ist, der Retter ihres Lebens (und ihrer Millionen) zu werden.  
 
@@ -161,7 +161,7 @@ Neben den Fakten wie Adresse und Flughafen sorgt Hugo auch für den persönliche
 > Hugo  
 
 
-## "Arisha plant die Übergabe: Geheimniskrämerei und große Gefühle"  
+## Arisha plant die Übergabe: Geheimniskrämerei und große Gefühle
 
 Arisha ist zufrieden: Mit Hugos Daten in der Tasche leitet sie alles an das ominöse Frachtunternehmen weiter. Der Plan? Die Lieferung soll starten, und nach ihrem „Einsatz“ will sie direkt nach Deutschland kommen, um mit Hugo über ihre gemeinsame Zukunft zu sprechen.  
 
@@ -181,7 +181,7 @@ Zum Abschluss noch ein Schwung Küsse – Arisha weiß eben, wie man die Illusio
 >   
 > Küsse dich noch mehr  
 
-### "Arisha wird ungeduldig: Liebe, Koffer und große Pläne"  
+### Arisha wird ungeduldig: Liebe, Koffer und große Pläne
 
 Arisha meldet sich besorgt: Warum hat Hugo sich noch nicht bei der Frachtfirma gemeldet? Mit Liebesbekundungen („Ich kann es kaum erwarten, dich am Flughafen zu umarmen und zu küssen“) und großer Sehnsucht malt sie bereits die Zukunft aus.  
 
@@ -207,7 +207,7 @@ Der Versand erfolgt erneut über die Fake-Webseite "[Fexpresscargo.com](https://
 
 ![Teuer wie gehabt](/posts/2024-12-31-millions-from-syria/tracking_2.webp)
 
-## "Hugo aus Wanne-Eickel trifft die Realität: 2900 Euro?!?"  
+## Hugo aus Wanne-Eickel trifft die Realität: 2900 Euro?!?
 
 Hugo ist weiterhin voll im Spiel, aber die Nachricht der Frachtfirma bringt ihn aus dem Konzept: 2800 Dollar für den Diplomatenkoffer? 
 
@@ -226,7 +226,7 @@ Das ist für jemanden aus Wanne-Eickel ein halbes Vermögen! Trotzdem bleibt er 
 > Beste Grüße,  
 > dein Hugo  
 
-### "2940 Euro? Hugo aus Wanne-Eickel ist schockiert"  
+### 2940 Euro? Hugo aus Wanne-Eickel ist schockiert
 
 Die Frachtfirma verlangt 2940 Euro für eine angeblich obligatorische Versicherung – und Hugo ist fassungslos. „Ich bin doch kein Millionär!“, denkt er, während er in holprigem Englisch fragt, ob das wirklich sein muss. Gibt es keinen günstigeren Weg? Das Drama spitzt sich zu.
 
@@ -266,7 +266,7 @@ Auch Fexcargoexpress bleibt hart!
 > We knew that this was your first time receiving a diplomatic shipment. And I want you to understand that Sgt. Arisha Hwee Schuch paid a registration fee. to our agent location in Damascus, Syria, with the aid of the Red Cross and 2940 euros is not too much for diplomatic insurance certificate documents from Turkey to Germany.  
 
 
-### "Hugo will Beweise: Liebe allein reicht nicht"  
+### Hugo will Beweise: Liebe allein reicht nicht
 
 Hugo ist hin- und hergerissen: Seine Gefühle für Arisha sind echt, aber die Summe von 2940 Euro lässt seinen gesunden Menschenverstand Alarm schlagen. In seiner Antwort bleibt er höflich, aber stellt klare Forderungen: Ein Foto vom Diplomatenkoffer – und am besten auch vom Inhalt. Das sollte die Scammer hoffentlich auch etwas Arbeit machen, ein entsprechendes Foto zu besorgen.
 
@@ -283,7 +283,7 @@ Hugo ist hin- und hergerissen: Seine Gefühle für Arisha sind echt, aber die Su
 > Alles Liebe,  
 > dein Hugo  
 
-## "Arisha bleibt dran: Liebe, Vertrauen und... 2940 Euro"  
+## Arisha bleibt dran: Liebe, Vertrauen und... 2940 Euro
 
 Arisha gibt nicht auf: Sie bedankt sich überschwänglich für Hugos Einsatz, versichert ihm erneut ihre ehrlichen Absichten und betont, wie sehr sie sich auf ihre gemeinsame Zukunft freut. Ein romantischer Traum aus Liebe, Vertrauen und Ehrlichkeit – gewürzt mit einer Prise Dringlichkeit, denn Hugo soll endlich die Reederei kontaktieren und die Zahlung anstoßen.  
 
@@ -329,7 +329,7 @@ Hugo macht kurzen Prozess: In seiner gewohnt direkten Art fordert er Arisha auf,
 >   
 > Hugo  
 
-## "Hugo rudert zurück: Entschuldigung und eine schlaflose Nacht"  
+## Hugo rudert zurück: Entschuldigung und eine schlaflose Nacht 
 
 Nach seinem letzten Ausbruch wird Hugo weich: In einer versöhnlichen Nachricht entschuldigt er sich bei Arisha für seinen harschen Ton. Er gibt zu, dass ihn die ganze Sache nicht loslässt und er deswegen die Nacht kein Auge zugemacht hat.  
 
@@ -347,3 +347,66 @@ Doch Hugos Misstrauen bleibt: Er bittet erneut um einen handfesten Beweis – ei
 >   
 > Liebe Grüße,    
 > dein Hugo  
+
+## Arisha kontert: Tränen, Vertrauen und eine Adresse
+
+Arisha gibt alles, um Hugo wieder für sich zu gewinnen: Sie betont ihre Gefühle, erzählt von Tränen und Enttäuschung, und schwört erneut auf die Echtheit ihrer Absichten. Mit einem Hauch von Pathos erinnert sie Hugo daran, dass ihre Verbindung „Gottes Wille“ sei und dass ihr Herz ihn über alle anderen ausgewählt habe – sogar über Ärzte und Profis im Flüchtlingslager!
+
+Um Hugos Zweifel auszuräumen, liefert sie mehr persönliche Daten: Adresse, Geburtstag, und noch einmal ihre Passkopie. Außerdem schlägt sie vor, dass Hugo direkt bei der Reederei um Bilder des Koffers bittet, da dieser aktuell dort sei.
+
+Die emotionale Nachricht zeigt: Arisha gibt nicht auf – jetzt liegt es an Hugo, wie es weitergeht. Hat die Geschichte eine Zukunft, oder ist der Diplomatenkoffer endgültig zur Lachnummer geworden?
+
+> Guten Morgen, Hugo, wie geht es dir? Ich bin gerade zurückgekommen, aber ich habe noch die Frühschicht. Ich habe gestern deine Nachricht gesehen und es ist so demütigend, dass du meine Gefühle unterschätzt. Bitte erzähl mir nicht, dass du mich für selbstverständlich hältst und meine Liebe unterschätzt; bitte erzähl es mir.  
+>   
+> Die Nachricht von gestern tut mir wirklich weh und ich habe gestern bis heute den ganzen Tag geweint. Ja, wir haben uns online kennengelernt, weil ich einen Seelenverwandten brauche. Ich habe hier in Flüchtlingslagern viele professionelle Mitarbeiter und freiwillige Ärzte kennengelernt; die meisten von ihnen würden mich wirklich gerne kennenlernen, aber mein Herz hat sie nicht akzeptiert. Ebenso hat mein Herz manche Leute, die ich online treffe, nicht ausgewählt. Ich sage dir das, weil es keine bestimmten Mittel oder Orte gibt, um eine Beziehung aufzubauen, sondern unsere begann im Internet und das ist Gottes Wille. Ich kann nicht über meine Gefühle oder meine Liebe zu dir lügen, weil mein Herz dich ausgewählt und dir vertraut hat.  
+>   
+> Viele gute Liebesgeschichten, die zur Ehe führen, stammen aus dem Internet-Dating, und auch einige schlechte Geschichten stammen aus dem Internet, und Sie haben meine Passkopie, und ich schwöre bei meinem Leben, dass ich nicht hier bin, um Sie zu verletzen, sondern dass ich mit Liebe, Freundlichkeit und meinem reinen Herzen für unsere Zukunft in Ihr Leben trete.  
+>   
+> Ich muss gestehen, dass ich gestern zutiefst berührt war; ich wünschte wirklich, es gäbe eine Möglichkeit, mir selbst zu helfen, ohne Sie zu belästigen. Natürlich war es nie mein Wunsch, Ihnen Unannehmlichkeiten zu bereiten; ich erwartete von Ihnen nur, dass Sie fest als wahrer Empfänger der Geldkassette der Firma auftreten und diese aufrichtig verwahren, bis ich bei Ihnen in Deutschland ankomme.  
+>   
+> Inzwischen verstehe ich, was Sie gesagt haben, nämlich dass Sie sicher sein wollen, dass ich die echte Person bin, und die Antwort ist ja, denn Sie haben meine Passkopie, meine Bilder und dies ist meine Adresse in den Vereinigten Staaten.  
+>   
+> Name: Arisha Hwee Schuch  
+> Adresse: West OrangeTexas 77630, USA  
+> Alter: 31 Jahre, 19. April 1993  
+> Beruf: US-Soldat  
+>   
+> Das Einzige, was mich im Moment hier in Syrien hält, ist, dass ich Ihnen, sobald Sie das Gepäck erhalten, den Sicherheitscode für das Gepäck gebe, damit Sie das Gepäck öffnen und Ihr Geld zurücknehmen und auch etwas Geld mitnehmen können, um mein Flugticket nach Deutschland zu kaufen. Außerdem können Sie der Reederei schreiben und sie bitten, Ihnen die richtigen Bilder des Gepäcks zu schicken, da das Gepäck derzeit in ihrer Obhut ist.  
+>   
+> Bitte, ich habe vor, vor dem nächsten Wochenende bei Ihnen zu sein; sobald Sie das Gepäck erhalten, buchen Sie mein Flugticket für Freitag oder Samstag nächste Woche.  
+>   
+> Ich hoffe, Gott wird Ihnen die Augen öffnen, damit Sie wissen, was für ein Mensch ich bin, denn ich komme in Ihr Leben, um unsere Zukunft aufzubauen, und ich glaube, dass Gott im Himmel uns gemeinsam helfen wird.  
+>   
+> Ich wünsche Ihnen einen schönen Tag.  
+>   
+> Ich werde auf Ihre Antwort warten.  
+
+### Hugo rudert zurück: Der Versuch, Frieden zu schließen  
+
+Hugo zeigt seine weichere Seite: Nach Arishas tränenreichem Appell entschuldigt er sich für seine Zweifel und verspricht, die Sache mit der Frachtfirma zu klären. Mit dem Plan, die Bilder des Koffers direkt anzufordern, signalisiert er erneut seine Bereitschaft, an die Geschichte zu glauben – zumindest vorerst.  
+
+> Hallo meine liebe Arisha,    
+>   
+> Es tut mir echt leid, wenn ich dich verletzt habe – das war nie meine Absicht! Ich wollte dich nicht zum Weinen bringen, und es macht mich echt fertig, dass ich dir solche Gefühle verursacht habe. Du bist mir wirklich wichtig, und ich will, dass wir das hier zusammen durchziehen.    
+>   
+> Ich hab verstanden, dass dir das alles ernst ist, und ich glaub dir, dass du mir nichts Böses willst. Deshalb mach ich jetzt Folgendes: Ich werde die Frachtfirma kontaktieren und sie bitten, mir die Bilder vom Koffer zu schicken. Damit wir beide sicher sein können, dass alles in Ordnung ist, und ich wieder beruhigt schlafen kann.    
+>   
+> Danke, dass du so offen mit mir redest. Ich verspreche dir, ich bleib dran und klär das. Und ich freu mich jetzt schon auf den Tag, an dem wir uns endlich in Deutschland sehen.    
+>   
+> Pass auf dich auf, meine Liebe. Wir schaffen das!    
+>   
+> Liebe Grüße,    
+> dein Hugo  
+
+### Hugo setzt auf Beweise: Die Anfrage an die Frachtfirma"
+
+Hugo macht ernst und wendet sich direkt an die Frachtfirma. In einfachem Englisch bittet er um ein Foto des Koffers, um endlich Klarheit zu bekommen. Sein Ziel: Sichergehen, dass der Koffer tatsächlich existiert und dass alles mit rechten Dingen zugeht.  
+
+> Dear Fexpress Cargo,    
+>   
+> Hello, I hope you are doing good. I need your help. Can you please send me a picture of the box with the tracking number **FEX84635MHS**? I want to see how the box looks and what is inside.    
+>   
+> This is very important for me, so I can trust everything is okay. Please send the picture as soon as possible.    
+>   
+> Thank you for your help.  
+
