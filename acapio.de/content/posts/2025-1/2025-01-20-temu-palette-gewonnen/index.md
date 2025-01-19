@@ -6,9 +6,10 @@ date: "2025-01-20"
 featured: true
 toc: true
 tags: 
-  -  "scam"
+  -  "werbung"
 categories:
-    - "Scam"
+    - "Werbung"
+    - "Datenschutz"
 thumbnail: "temu.webp"
 url: "posts/2025-01-20_temu-palette-gewonnen"
 summary: "Glück muss der Mensch haben oder auch nicht. Wir haben eine Temu-Palette gewonnen. Dahinter steckt aber nur eine Masche die persönlichen Daten abzugreifen"

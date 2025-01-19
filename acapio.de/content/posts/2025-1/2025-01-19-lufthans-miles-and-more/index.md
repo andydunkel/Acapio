@@ -6,9 +6,9 @@ date: "2025-01-19"
 featured: true
 toc: true
 tags: 
-  -  "scam"
+  -  "pishing"
 categories:
-    - "Scam"
+    - "Phishing"
 thumbnail: "creditcard.webp"
 url: "posts/2025-01-19_miles-and-more"
 summary: "Schützen Sie sich vor Betrug! Gefälschte E-Mails im Namen von Miles & More versuchen, an Ihre persönlichen Daten zu gelangen. Erfahren Sie, wie Sie Phishing-Versuche erkennen und sicher handeln."
