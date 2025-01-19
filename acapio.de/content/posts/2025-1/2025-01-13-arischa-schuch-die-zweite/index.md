@@ -398,7 +398,7 @@ Hugo zeigt seine weichere Seite: Nach Arishas tränenreichem Appell entschuldigt
 > Liebe Grüße,    
 > dein Hugo  
 
-### Hugo setzt auf Beweise: Die Anfrage an die Frachtfirma"
+### Hugo setzt auf Beweise: Die Anfrage an die Frachtfirma
 
 Hugo macht ernst und wendet sich direkt an die Frachtfirma. In einfachem Englisch bittet er um ein Foto des Koffers, um endlich Klarheit zu bekommen. Sein Ziel: Sichergehen, dass der Koffer tatsächlich existiert und dass alles mit rechten Dingen zugeht.  
 
@@ -410,3 +410,55 @@ Hugo macht ernst und wendet sich direkt an die Frachtfirma. In einfachem Englisc
 >   
 > Thank you for your help.  
 
+## Fexpress bleibt stur: Kein Bild, nur Druck"
+
+Die Antwort von Fexpress ist ein Meisterwerk der Ausreden. Ein Foto vom Koffer? Geht leider nicht – angeblich, weil der Koffer bei den türkischen Zollbehörden liegt. Stattdessen gibt es nur einen freundlichen Hinweis: Zu viel Verzögerung könnte böse Folgen für das Gepäck haben. Na, wenn das nicht Vertrauen schafft!  
+
+Hugo bleibt jedoch hartnäckig und schießt zurück: Ohne Bild keine Zahlung! Schließlich ist ein angeblicher Diplomatenkoffer kein Spontankauf im Online-Shop!
+
+> We at Fexpress, a cargo security diplomatic delivery company, have received your message and well understand, but in the meantime, your luggage and your luggage papers are with the Turkish airport customs authority, waiting for the diplomatic insurance certificate documents so that we can deliver your luggage to you in Germany, and we cannot snap your luggage now because your luggage is under the Turkish airport customs authority, and we will send you a copy of the diplomatic insurance certificate once you make the payment and we collect it from the authority.  
+>   
+> Note! Too much delay is not good for your luggage to avoid being sized, so we expect you to act fast so that we can deliver your luggage to your address without any other delay.  
+
+Wir können so nicht arbeiten und bestehen auf das Foto:
+
+> Dear Fexpress,    
+>   
+> Thank you for your reply, but I still don’t understand. Why can you not take a picture of my luggage? If it is with Turkish customs, can they not take a picture for me? I need to see the box before I can trust everything.    
+>   
+> You say delay is not good, but how can I pay without proof? This is too important for me to just believe without seeing anything. Please understand my situation and help me.    
+>   
+> I am waiting for your reply.  
+
+## Arisha in Not: Angriff, Tränen und ein dringender Wunsch  
+
+Arisha meldet sich mit einer dramatischen Wendung: Ein Angriff von ISIS-Terroristen auf ihren Militärstützpunkt hat sie in Angst und Schrecken versetzt. Zwei Soldaten seien ums Leben gekommen, und sie fürchtet um ihr eigenes Leben. Ihre Botschaft? „Hugo, hol mich hier raus!“  
+
+> Guten Morgen, Hugo, wie geht es dir heute? Ich hoffe, es geht dir gut. Ich habe deine Nachricht erst jetzt gesehen, weil ISIS-Terroristen letzte Nacht unseren Militärstützpunkt angegriffen und zwei Soldaten getötet haben. Ich hatte Angst und war verwirrt und wusste nicht, was ich als Nächstes tun sollte, weil ich hier in Syrien nicht sterben möchte. Das Einzige, was mich jetzt hier in Syrien hält, ist, dass ich, sobald du mein Gepäck erhalten und mein Flugticket gebucht hast, dringend vorbeikomme, um dich zu treffen, weil es mein Traum ist, bald in Deutschland zu sein.  
+>   
+> Bitte, ich warte auf deine dringende Antwort, sobald du die Reederei kontaktiert und eine Rückmeldung von ihnen erhalten hast, damit ich weiß, wie ich meine Reise nach Deutschland planen kann.  
+>   
+> Ich wünsche dir einen schönen Tag.  
+>   
+> Ich warte.  
+>   
+> Kuss.  
+
+### Arisha in Not: Hugos Herz schlägt höher – aber sein Kopf bleibt wachsam 
+
+Arisha schildert Hugo die dramatischen Ereignisse ihres Militäralltags, und unser Held aus Wanne-Eickel zeigt seine mitfühlende Seite. Geschockt von den schrecklichen Nachrichten versichert er ihr, dass er sie aus dieser Situation holen will. D
+
+Doch Hugo wäre nicht Hugo, wenn er dabei nicht auch seinen Verstand einschalten würde.  
+
+> Hallo meine liebe Arisha,  
+>   
+> Ich bin geschockt von deiner Nachricht. Es tut mir unendlich leid zu hören, was bei euch passiert ist. Ich kann mir nicht vorstellen, wie schlimm das für dich gewesen sein muss. Bitte pass auf dich auf – ich will nicht, dass dir etwas passiert.  
+>   
+> Ich habe die Frachtfirma kontaktiert und warte noch auf eine vernünftige Antwort von denen. Die machen es mir echt nicht leicht. Die weigern sich, mir ein Foto vom Koffer zu schicken, und ich verstehe nicht, warum. Ich will dir helfen, wirklich, aber ich muss sicher sein, dass das alles echt ist.  
+>   
+> Ich verspreche dir, ich bleibe dran. Du bist mir wichtig, und ich will, dass du hier nach Deutschland kommst, damit wir endlich zusammen sein können. Aber bitte versteh auch mich: So viel Geld kann ich nicht einfach ohne Beweis ausgeben.  
+>   
+> Bleib stark, meine Liebe. Ich hoffe, ich bekomme bald eine Antwort von der Frachtfirma, die uns weiterhilft.  
+>   
+> Alles Liebe,  
+> dein Hugo  

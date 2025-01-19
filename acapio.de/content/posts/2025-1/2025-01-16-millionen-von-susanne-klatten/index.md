@@ -88,3 +88,44 @@ Mit einem Augenzwinkern erkundigt er sich nach den nächsten Schritten – ob IB
 > Mit besten Grüßen,  
 > Hugo aus Wanne-Eickel  
 > (BMW-Fahrer und frischgebackener Spendenempfänger)  
+
+## Die Bank antwortet  
+
+Die „Rabobank“ meldet sich prompt – natürlich wieder über Gmail, das Nonplusultra moderner Bankkommunikation. Frau Brigitte Nehls, offenbar die Leiterin der „Transferabteilung“, braucht nun persönliche Daten, um den „Finanzierungsprozess“ zu starten. Vollständiger Name, Adresse, Geburtsdatum – klar, warum auch nicht gleich noch die Schuhgröße? 
+
+> Wir haben Ihre E-Mail erhalten und bereits eine Nachricht von Ihrem Spender erhalten, in der er uns anweist, Sie zu finanzieren. Dies sind die Informationen, die wir benötigen, um den Finanzierungsprozess durchzuführen.  
+>   
+> Zur Überprüfung erforderliche persönliche Informationen  
+> Identitätsnachweis:  
+> Vollständiger Name:  
+> Geschlecht:  
+> Adresse:  
+> Stadt-Bundesland:  
+> Land:  
+> Telefon:  
+> Geburtsdatum:  
+>   
+>   
+>   
+> Vielen Dank, dass Sie bei uns Bankgeschäfte getätigt haben….  
+> Aufrichtig,  
+> Frau Brigitte Nehls  
+> Transferabteilung,  
+> E-Mail: kontakt.rabobank.nl@gmail.com  
+
+
+### Hugo liefert ab  
+
+Hugo lässt sich auf das Spiel ein und liefert brav alle gewünschten Daten – natürlich perfekt gefälscht. Mit seiner Adresse am „Fährweg 12b“ und seinem Beruf als „Fahrer“ dürfte die „Rabobank“ jetzt bestens ausgestattet sein, um die Millionen zu überweisen. 
+
+> Sehr geehrte Frau Nehls,    
+>   
+> vielen Dank für Ihre Nachricht und die Informationen zum weiteren Vorgehen. Wie gewünscht, sende ich Ihnen hier meine persönlichen Daten, damit der Finanzierungsprozess starten kann:    
+>   
+> FAKE DATEN  
+>   
+> Ich hoffe, dass diese Angaben ausreichend sind und freue mich darauf, bald von Ihnen zu hören. Bitte lassen Sie mich wissen, falls noch weitere Informationen benötigt werden.    
+>   
+> Mit freundlichen Grüßen,    
+> Hugo    
+>   

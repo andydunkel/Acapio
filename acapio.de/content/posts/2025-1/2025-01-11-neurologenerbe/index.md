@@ -381,3 +381,51 @@ Auch unseren Haskel antworten wir!
 >   
 > P.S.: Bier und Currywurst geht auf mich, wenn das Ding durch ist. Ohne Witz, Sie haben’s sich verdient! 😉  
 
+### Die Bank schickt die Kontodaten 
+
+Jetzt kommt Bewegung ins Spiel: Die „Courtage Trust Bank“ gibt Hugo die Kontodaten für die Eröffnungsgebühr. 
+
+> Sehr geehrter Kunde,  
+> vielen Dank für Ihre prompte Antwort. Wir schätzen Ihre Hingabe, die Zahlung fortzusetzen.  
+>   
+> Hier sind die Bankdaten für die Zahlung zur Eröffnung des Platin-Kontos:  
+>   
+> Begünstigter Name: Jackson Osazuwa  
+> Bankname: Vivid money.B.V  
+> IBAN: DE82202208000028159734  
+> BIC: SXPYDEHHXXX  
+> Bankland: Deutschland  
+> Adresse: Kemperpl, 1HQ  
+> Zahlungszweck: Unterstützung  
+
+### Vivid money, Bankcing Circle, Banken die die Scammer lieben
+
+Googlen wir nach der BIC und IBAN, fallen zwei Namen, einmal die Vivid-Money-Bank und Banking Circle. Letzterer ist wohl ein Dienstleister zu dem die BIC "SXPYDEHHXXX" gehört. In einer letzten E-Mail/Scam haben wir die Vivid-Bank angeschrieben, welche sich nicht zuständig sah.
+
+Die Bewertungen von [Banking Circle auf Trustpilot](https://de.trustpilot.com/review/bankingcircle.com) sprechen ebenfalls Bände. Anscheinend sehr beliebt bei Betrugsfällen aller Art.
+
+Wir melden die Sache auf jeden Fall mal an "reportfraud@bankingcircle.com".
+
+
+### Hugo macht’s offiziell
+
+Hugo bleibt standhaft – schließlich will er sicherstellen, dass alles seine Ordnung hat. Seine Sparkasse in Wanne-Eickel verlangt noch ein offizielles Schreiben der „Courtage Trust Bank“, um die Legitimität der Transaktion zu prüfen. 
+
+> Hallo Herr Taylor,    
+>   
+> vielen Dank für die Kontodaten und die Infos. Ich bin bereit, die Überweisung vorzunehmen, aber meine Sparkasse hat mich gebeten, noch eine Bestätigung von Ihnen einzuholen.    
+>   
+> Die Bank möchte ein offizielles Schreiben von der Courtage Trust Bank, in dem Folgendes bestätigt wird:    
+> 1. Dass Herr Jackson Osazuwa autorisiert ist, die Zahlung zu empfangen.    
+> 2. Dass die Gebühr direkt mit der Eröffnung meines Platin-Kontos verbunden ist.    
+> 3. Dass es keine weiteren versteckten Kosten gibt.    
+> 4. Dass das Schreiben mit Ihrem offiziellen Bank-Siegel oder Briefkopf versehen ist.    
+>   
+> Ohne diese Bestätigung darf ich die Überweisung leider nicht abschließen, da meine Sparkasse die Legitimität prüfen möchte. Es wäre toll, wenn Sie mir diese Bestätigung so schnell wie möglich schicken könnten.    
+>   
+> Vielen Dank für Ihre Mühe!    
+>   
+> Grüße aus Wanne-Eickel,    
+> Hugo 
+>   
+> P.S.: Lassen Sie sich ruhig Zeit, ich will ja, dass alles seine Ordnung hat! 😉   

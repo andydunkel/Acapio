@@ -556,3 +556,13 @@ Wir haben wenig Zeit und wollen die Scammer noch etwas hinhalten, daher schimpfe
 Am nächsten Tag wird natürlich wieder nachgefragt, wir spielen jetzt mal die Karte, dass das Konto gesperrt wurde.
 
 ![Konto-Sperre!](/posts/2024-12-25_turkish_sick_woman/whatsapp_4.webp)
+
+## Der Ehemann schaltet sich ein!
+
+Nach der Kontosperre halten wir zwei Tage Sendepause, bevor jetzt Fred übernimmt, der Mann von Anne. Dieser gibt sich entrüstet und fordert eine Erklärung, welche die Scammer langwierig liefern.
+
+![Konto-Sperre!](/posts/2024-12-25_turkish_sick_woman/husband_1.webp)
+
+Überzeugt sind wir nicht, wir weisen jetzt mal auf die offensichtlichen Fehler hin.
+
+![Konto-Sperre!](/posts/2024-12-25_turkish_sick_woman/husband_2.webp)

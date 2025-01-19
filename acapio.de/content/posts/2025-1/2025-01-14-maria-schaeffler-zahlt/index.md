@@ -156,3 +156,21 @@ Hugo antwortet, dass er eigentlich kein Konto braucht.
 >   
 > Beste Grüße,    
 > Hugo Stahlkeil  
+
+
+### Wir fordern ein offizielles Dokument  
+
+Hilft ja nix: Die Sparkasse Wanne-Eickel macht keine halben Sachen und verlangt ein offizielles Dokument der „Bank“, bevor die Millionen fließen können. 
+
+Also fordert Hugo kurzerhand eine Bestätigung mit Briefkopf und allem Drum und Dran an.
+
+> Hallo Herr Hyland,    
+>   
+> danke für die schnelle Rückmeldung. Ich habe die Sache nochmal mit meiner Bank, der Sparkasse Wanne-Eickel, besprochen. Die haben gesagt, ich brauche ein offizielles Dokument von Ihnen, damit sie die Transaktion prüfen können. Ohne so ein Dokument können die das Geld nicht bei mir annehmen – so sagen die das jedenfalls.    
+>   
+> Können Sie mir also bitte eine Bestätigung schicken, am besten mit Briefkopf und allem, wo die Transaktion und die 1,8 Millionen klar draufstehen? Dann kann ich das der Sparkasse vorlegen und die klären das direkt mit Ihnen. Ich hoffe, das ist kein Problem – die Sparkasse ist bei sowas immer ein bisschen streng.    
+>   
+> Vielen Dank für Ihre Mühe und lassen Sie mich wissen, was ich jetzt machen soll!    
+>   
+> Beste Grüße,    
+> Hugo Stahlkeil   
