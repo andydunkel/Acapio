@@ -19,6 +19,10 @@ Wir haben eine Temu-Mystery-Box gewonnen, so prangt es in unserem Posteingang. G
 
 Doch was steckt dahinter, wir spielen die Sache mal durch.
 
+## Video
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UII2sGiqRoc?si=Oiwx_RsaynDjmXY9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## Wir haben gewonnen!!!!!
 
 Die E-Mail kommt wie eine üblich Spam- und Phishing-Mail daher. Wir kennen sowas bereits, meist geht es darum, die Kreditkarteninformationen abzugreifen.
