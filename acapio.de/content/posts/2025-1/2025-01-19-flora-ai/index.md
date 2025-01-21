@@ -184,3 +184,9 @@ Auch eine [Überprüfung mit VirusTotal](https://ekiwi-blog.de/22006/dateien-onl
 Die Webseite von „Flora AI“ ist auf den ersten Blick hervorragend gestaltet und vermittelt einen professionellen Eindruck, der Vertrauen wecken soll. Doch genau darin liegt die Gefahr: Eine ansprechende Optik und überzeugende Inhalte können schnell darüber hinwegtäuschen, dass es sich um einen raffinierten Betrugsversuch handelt. 
 
 Der Angriff zeigt, wie ausgeklügelt solche Maschen mittlerweile sind – von dynamisch generierten Schadskripten bis hin zu scheinbar seriösen Angeboten. Unser Tipp: Niemals blind vertrauen, auch wenn die Webseite professionell wirkt. Ein kritischer Blick und Vorsicht bei unerwarteten Anfragen können viel Ärger ersparen.
+
+## Video
+
+In dem Video gehen wir den gesamten Scam mal durch:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E9pWNPI26co?si=hiEWKXP3h14jK9cR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

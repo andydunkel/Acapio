@@ -462,3 +462,47 @@ Doch Hugo wäre nicht Hugo, wenn er dabei nicht auch seinen Verstand einschalten
 >   
 > Alles Liebe,  
 > dein Hugo  
+
+
+## Arisha fleht: Mehr Drama, weniger Beweise
+
+Arisha dreht die emotionale Schraube noch weiter an. Sie schildert die unerträglichen Bedingungen in Syrien und fleht Hugo erneut an, die Zahlung endlich zu leisten. 
+
+Als Beweis ihrer Aufrichtigkeit sendet sie jetzt noch ein Video des Geldkoffers!
+
+Aber Arisha bleibt dabei: Der türkische Zoll verhindere weitere Fotos, und sie betont mehrfach, dass Hugo „ihrer Anweisung folgen“ soll, wenn er sie wirklich liebt.
+
+> Guten Morgen, Hugo, wie geht es dir heute und wie läuft alles? Bitte, ich möchte, dass du meinen Anweisungen folgst, wenn du mich wirklich liebst und mir aus dieser tödlichen Situation in Syrien helfen willst, denn ich werde Syrien jetzt jeden Tag leid.  
+>   
+> Bitte, ich möchte, dass du verstehst, dass ich die Spedition gebeten habe, mir die Bilder der Kisten zu schicken, wie du es zuvor verlangt hast, und sie sagten mir, dass das Gepäck bei der türkischen Flughafenbehörde ist und sie es im Moment nicht aufnehmen können, und deshalb habe ich dir die Bilder geschickt, die mir das Rote Kreuz geschickt hat, weil das Leben hier in Syrien so schwer für mich ist, und ich weiß nicht wirklich, was ich wieder tun soll, weil ich mir nicht helfen kann, aber ich flehe dich im Namen Gottes an, die Zahlung an die Spedition zu leisten, damit ich dieses Wochenende herüberkommen kann, um dich in Deutschland zu treffen, und ich schwöre bei meinem Leben, dass du es nie bereuen wirst, mir geholfen zu haben; ich schwöre bei Gott und bei meinem Leben. Bitte folge meinen Anweisungen, denn ich möchte hier in Syrien nicht sterben.  
+>   
+> Bitte, ich verstehe alles, was Sie über den Nachweis gesagt haben, und deshalb habe ich Ihnen beim ersten Mal eine Kopie meines Reisepasses geschickt, und ich werde Ihnen das Bild des Geldes in der Schachtel schicken, das mit einem unserer ranghöchsten Soldaten gemacht wurde, als er das Geld verpackte, und er hat sein eigenes Geld nach China geliefert, und eine meiner Freundinnen hat ihr eigenes Geld auch über diese diplomatische Firma Fexpress nach Australien geliefert, und deshalb bitte ich Sie, meinen Anweisungen zu folgen und die Zahlung an sie zu leisten, damit sie Ihnen dieses Gepäck liefern, bitte.  
+>   
+> Bitte helfen Sie mir und folgen Sie meinen Anweisungen, damit alles erfolgreich sein wird, denn ich kann mir hier in Syrien nicht selbst helfen, und ich möchte dieses Gepäck nicht in der Türkei verlieren. Bitte helfen Sie mir.  
+>   
+> Bitte, ich möchte nicht, dass die Leute sehen, wie ich Ihnen per E-Mail schreibe, alles, um zu verhindern, dass unser militärisches Wi-Fi-Sicherheitsnetzwerk meine Nachrichten sieht, denn ich möchte nicht, dass unser militärisches Netzwerk meine E-Mails blockiert, weil wir ein Limit für das Senden von Nachrichten haben.  
+
+### Das Video
+
+Die Kamera schwenkt dramatisch, ein paar Bündel Geldscheine blitzen auf, alles wirkt wie eine Szene aus einem Low-Budget-Heist-Movie.
+
+<video controls width="478" height="850">
+    <source src="/posts/2025-01-13_arisha-schuch-die-zweite/geld.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+</video>
+
+### Das Video überzeugt: Hugos Herz und Kofferträume schlagen höher
+
+Nach all den Zweifeln und Dramen hat Arisha es geschafft: Ein Video vom Koffer voller Geld überzeugt Hugo endlich. Beeindruckt von den glänzenden Geldbündeln schreibt er ihr voller Entschlossenheit zurück. Jetzt glaubt er daran, dass das Abenteuer bald ein gutes Ende finden könnte – zumindest fürs Herz.  
+
+> Hallo meine liebe Arisha,  
+>   
+> Vielen Dank für das Video – jetzt bin ich überzeugt! Der Koffer sieht wirklich beeindruckend aus, und ich muss sagen, ich hätte nie gedacht, dass ich mal so etwas mit eigenen Augen sehen würde. Du hast mir gezeigt, dass du es wirklich ernst meinst, und dafür danke ich dir.  
+>   
+> Ich werde mich jetzt nochmal mit der Frachtfirma auseinandersetzen, um alles so schnell wie möglich zu klären. Ich will nicht, dass du noch länger in dieser Situation bleiben musst, und ich möchte, dass wir dieses Kapitel hinter uns lassen und endlich zusammen nach vorne schauen können.  
+>   
+> Pass auf dich auf, meine Liebe. Ich gebe mein Bestes, damit wir uns bald in Deutschland sehen.  
+>   
+> Liebe Grüße,  
+> dein Hugo  
+
