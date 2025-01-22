@@ -74,6 +74,29 @@ Mit einem breiten Grinsen im Gesicht schreibt Hugo zurück, bedankt sich artig u
 > Grüße ausm Pott,  
 > Hugo
 
-## Es geht zur Bank
+## Der nächste Schritt: Eine Bank namens "FIN HUBB BANK"
 
-Die Antwort kommt prompt, so dass wir fast schon denken, dass hier automatisch geantwortet wird und die Scammer nicht mehr die gute Handarbeit walten lassen, aber gut. Es 
+Es wird immer kurioser: Hugo soll jetzt direkt mit einer Bank Kontakt aufnehmen, um seine "Spende" zu erhalten. Der angebliche Ansprechpartner, ein gewisser Herr Alex Pavel, soll ihm weiterhelfen. Natürlich gibt es auch eine schicke Referenznummer, die die Sache offiziell wirken lassen soll: **MTB-688-08860-UA**.  
+
+Die Bankadresse? Eine E-Mail bei **accountant.com** – so seriös wie ein Flohmarkt im Hinterhof. Und dann der Name der Bank: **FIN HUBB BANK**. Klingt wie der Titel eines schlechten Krimis. Doch die Betrüger meinen es ernst.  
+
+Hugo wird gebeten, erneut Name, Adresse und Telefonnummer preiszugeben. Und ganz wichtig: die ominöse Referenznummer, damit die Bank "seine Akte leicht verfolgen" kann. Als ob ein so großer Gewinn tatsächlich so umständlich abgewickelt werden würde.  
+
+> Vielen Dank für Ihre E-Mail an mich und meine ganze Familie. Sie müssen die Bank kontaktieren. Wir haben eine Einzahlung von 1.000.000,00 € für Sie und Ihre Familie getätigt. Ich habe Ihre Informationen bereits an die Bank gesendet. Kontaktieren Sie sie unter Angabe unserer Referenznummer, damit Sie unsere Akte leicht verfolgen können. Referenznummer MTB-688-08860-UA. Die Bank wird Ihnen mitteilen, was Sie tun müssen, um diese Spende zu erhalten. Sie wird Ihnen sagen, was Sie tun müssen. Bitte tun Sie dies, damit Sie vollen Zugriff auf Ihre Mittel haben.
+> 
+> Sie können Herrn Alex Pavel per E-Mail kontaktieren, da er Ihnen bei dieser Spendenüberweisung behilflich sein wird. Wir haben ihm bereits gesagt, dass er Ihnen mit weiteren Richtlinien helfen kann. Stellen Sie sicher, dass Sie unsere Referenznummer zusammen mit Ihren Informationen an die Bank senden (Referenznummer MTB-688-08860-UA), wie Name, Adresse, Telefonnummer und unsere Referenznummer, damit Sie leicht Kontakt aufnehmen können.
+> 
+> Bitte kontaktieren Sie meine Bank per E-Mail (Finhubbankinc@accountant.com), um den Status der Transaktion umgehend zu erfahren.
+> 
+> E-Mail von Herrn Alex Pavel: Finhubbankinc@accountant.com
+> 
+> Name der Bank: FIN HUBB BANK
+> 
+> Konvertierungsservice/Kundenservice. Datei: FIN HUBB BANK (FHB).
+
+
+### Na dann machen wir das eben!
+
+Hugo lässt sich nicht lumpen und schreibt direkt an die angebliche Bank. Mit voller Euphorie und der Referenznummer im Gepäck setzt er sich an die Tastatur, um Herrn Alex Pavel von der **FIN HUBB BANK** zu kontaktieren. Schließlich soll der BMW bald vor der Tür stehen – das kann ja wohl nicht so kompliziert sein, oder?  
+
+![](/posts/2025-01-22-britton-lotto/mail_an_bank.webp)
