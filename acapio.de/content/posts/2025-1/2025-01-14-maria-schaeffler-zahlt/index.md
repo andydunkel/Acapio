@@ -174,3 +174,37 @@ Also fordert Hugo kurzerhand eine Bestätigung mit Briefkopf und allem Drum und 
 >   
 > Beste Grüße,    
 > Hugo Stahlkeil   
+
+## Das Vertrauen wird auf die Probe gestellt  
+
+Jetzt wird’s emotional: Die „Bank“ wirft Hugo vor, das Vertrauen missbraucht und die Vertraulichkeit gebrochen zu haben. 
+
+> Sehr geehrte Damen und Herren,
+> 
+> Ich möchte Ihnen meine Enttäuschung über Sie ausdrücken. Frau Maria Elisabeth hat Sie ausdrücklich angewiesen, die Einzelheiten unseres Gesprächs vertraulich zu behandeln und mit niemandem zu besprechen. Ich habe jedoch kürzlich festgestellt, dass Sie diese Anweisung missachtet und die Informationen an andere weitergegeben haben.
+> 
+> Ihre Handlungen haben das in Sie gesetzte Vertrauen missbraucht, und dieses unverantwortliche Verhalten wirft nicht nur ein schlechtes Licht auf Sie selbst, sondern gefährdet auch die Spende, die für Sie bestimmt war.
+> 
+> Vertraulichkeit ist in Situationen wie diesen von größter Bedeutung, und indem Sie diese Vereinbarung nicht einhalten, haben Sie die Spende gefährdet. Es ist entscheidend, die Sensibilität solcher Angelegenheiten zu verstehen und entsprechend zu handeln, um sicherzustellen, dass das beabsichtigte Ergebnis erreicht wird.
+> 
+> Wir sollten ein Konto für Sie eröffnen, und sobald das erledigt ist, werden wir Ihnen Ihre ATM MASTER CARD zustellen.
+> 
+> Ich möchte auch, dass Sie sich jetzt bei uns melden und uns mitteilen, wie viel Sie als Instrument senden werden.
+> 
+> Bitte melden Sie sich jetzt bei mir.
+
+
+### Hugo bleibt cool
+
+Doch unser Ruhrpott-Held bleibt cool und erklärt freundlich, dass alles nur an der Sparkasse liegt – schließlich will er den Millionendeal sauber abwickeln.
+
+> Hallo Herr Hyland,  
+> 
+> also erstmal: Sorry, wenn das falsch rüberkam! Ich hab die Sache nur mit meiner Sparkasse besprochen, weil die sowas wie 1,8 Millionen halt erstmal prüfen wollen. Da bin ich ja quasi verpflichtet, denen alles offenzulegen.  
+> 
+> Ich versteh natürlich, dass Vertraulichkeit wichtig ist. Aber glauben Sie mir, das hat nix mit Misstrauen zu tun – ich mach das nur, weil die Sparkasse sonst die Überweisung blockiert. Also: Könnten Sie mir bitte dieses Dokument schicken, damit wir das endlich geregelt kriegen?  
+> 
+> Und was meinen Sie mit „wie viel ich als Instrument senden will“? Meinen Sie die 690 Euro? Da wollte ich ja Raten zahlen, wie wir besprochen haben. Klären Sie mich mal auf, damit wir weitermachen können!  
+> 
+> Beste Grüße,  
+> Hugo Stahlkeil 

@@ -506,3 +506,38 @@ Nach all den Zweifeln und Dramen hat Arisha es geschafft: Ein Video vom Koffer v
 > Liebe Grüße,  
 > dein Hugo  
 
+
+## Arisha weint nicht mehr und ist beruhigt  
+
+Die Wogen haben sich geglättet, und Arisha zeigt sich wieder von ihrer hoffnungsvollen Seite. In ihrer Antwort bedankt sie sich überschwänglich bei Hugo für seine Bemühungen und malt bereits die Zukunft aus: Ein Treffen am deutschen Flughafen, Liebe in der Luft und endlich ein Ende ihrer syrischen Odyssee.  
+
+Doch ein kleiner Druck bleibt: Hugo soll die Zahlung an die Frachtfirma leisten, damit alles in die Wege geleitet werden kann. Arisha wartet voller Sehnsucht darauf, endlich nach Deutschland zu kommen – und Hugo in die Arme zu schließen. ✈️💼💕  
+
+> Guten Morgen, Hugo, wie geht es dir heute? Vielen Dank für deine Antwort und all deine Mühe, denn ich kann nicht aufhören, dir zu danken, und ich kann es kaum erwarten, dich bald am deutschen Flughafen festzuhalten.
+> 
+> Bitte lass es mich wissen, sobald du die Zahlung an das Transportunternehmen geleistet hast, damit ich auch das Transportunternehmen kontaktieren kann, um die schnelle Lieferung zu gewährleisten.
+> 
+> Ich werde auf deine Antwort warten, damit ich weiß, wann ich voraussichtlich bei dir in Deutschland sein werde, sobald du das Gepäck vom Transportunternehmen erhältst, denn ich bin es leid, hier in Syrien zu bleiben. Pass bitte gut auf dich auf.
+> 
+> Ich werde bald auf deine Antwort warten.
+> 
+> Ich wünsche dir einen schönen Tag.
+
+
+## Wir schreiben der Frachtfirma: Der finale Schritt?  
+
+Hugo nimmt all seinen Mut zusammen und setzt eine klare, einfache E-Mail auf. Dieses Mal verlangt er die vollständigen Zahlungsdetails, um den diplomatischen Koffer endlich nach Deutschland zu holen.  
+
+Mit höflichem Nachdruck bittet er um den genauen Betrag, die Kontodaten und eine Referenznummer – schließlich will Hugo keine Fehler machen, wenn es um so viel Geld geht. 💼💸✉️  
+
+> Dear Fexpress Cargo,  
+> 
+> Hello, I hope you are doing good. I want to make the payment for the diplomatic insurance certificate. Please send me the full details for the payment:  
+> 
+> 1. How much I need to pay.  
+> 2. Where to send the money (account or method).  
+> 3. Any reference number I need to add.  
+> 
+> I want to do everything correct so there is no delay with the delivery of my luggage. Please reply soon so we can finish this quickly.  
+> 
+> Thank you for your help.
