@@ -566,3 +566,10 @@ Nach der Kontosperre halten wir zwei Tage Sendepause, bevor jetzt Fred übernimm
 Überzeugt sind wir nicht, wir weisen jetzt mal auf die offensichtlichen Fehler hin.
 
 ![Konto-Sperre!](/posts/2024-12-25_turkish_sick_woman/husband_2.webp)
+
+
+## This is the end, my friend
+
+Funkstille, keine Antworten mehr. Unsere letzte Aufforderung war zuviel des guten. Auf der Scam-Skala geben wir dem Scam eine 5 von 10 Punkten. Es gibt ein paar fadenscheinige Dokumente, man ist stets bemüht, wie wir am Ausfüllen des Schenkungssteuerformulars sehen konnten, aber am Ende fehlt die Professionalität. Einen gewisser Aufwand ist zu erkennen. Es gibt Dokumente, Ausweise und die Mails werden über eigene Domains abgewickelt. Der Anwalt hat eine eigene Fake-Webseite.
+
+Unsere Recherchen haben ergeben, dass die Scammer diese Masche bereits seit einigen Jahren so durchführen. Ein einfaches Googeln genügt daher den Betrug zu erkennen.
