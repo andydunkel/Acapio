@@ -16,6 +16,8 @@ summary: "Ein Lotto-Millionär, der sein Glück teilt? Theodorus Struyck verspri
 
 Ein Lotto-Millionär, der sein Glück teilt? Theodorus Struyck verspricht uns eine großzügige Spende von 1,5 Millionen Euro – doch ist das wirklich zu schön, um wahr zu sein?
 
+Fun-Fact, der Name ist der Name eines [echten Gewinners](https://www.focus.de/panorama/welt/zwischen-reichtum-und-angst-nachbarn-eines-lottomilliardaers-fuerchten-entfuehrungsgefahr_id_259796551.html).
+
 ## Wenn der Lotto-Millionär plötzlich dein bester Freund wird
 
 Ach ja, wer kennt das nicht? Du checkst morgens deine E-Mails und – Überraschung! – ein großzügiger Lotto-Millionär will dir 1,5 Millionen Euro schenken. Einfach so, weil er dich mag. Klar, Theodorus Struyck und seine ominöse Gmail-Adresse klingen total vertrauenswürdig. Warum auch nicht? Schließlich regelt ein echter Milliardär seine Wohltätigkeit über eine Freemail-Adresse, oder?  

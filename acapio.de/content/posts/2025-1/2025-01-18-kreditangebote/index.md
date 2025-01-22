@@ -51,6 +51,21 @@ Hugo zögert nicht lange und beschließt, dem Angebot auf den Zahn zu fühlen. S
 > Hugo K.   
 > BMW-Club Wanne-Eickel – immer auf Achse!    
 
-## Fazit
+## Die Antwort dauert
 
-Leider haben wir hier keine Antwort erhalten. 
+Es dauert einige Tage bis eine Antwort kommt. Dabei brauchen wir die Kohle doch. Die Antwort ist länglich, wir sind in den besten Händen:
+
+> Ich möchte Ihnen offiziell versichern, dass Sie sich an die richtige Stelle gewandt haben, um Hilfe bei Ihren finanziellen Bedürfnissen zu erhalten. 
+
+Die Kontaktdaten, ebenfalls professionell. "yaya.com" gibt nichts im Browser aus und ansonsten wie immer Gmail.
+
+> YAYA FINANCIAL SERVICES
+> Adresse: Via Francesco Domenico Guerrazzi,00152 Roma
+> E-Mail: support@yaya.com
+> E-Mail: yayafinancialservices@gmail.com
+
+![](/posts/2025-01-18_kredite-aller-art/beantragung.png)
+
+Natürlich antworten wir!
+
+![](/posts/2025-01-18_kredite-aller-art/antrag.png)

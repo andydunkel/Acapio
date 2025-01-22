@@ -429,3 +429,10 @@ Hugo bleibt standhaft – schließlich will er sicherstellen, dass alles seine O
 > Hugo 
 >   
 > P.S.: Lassen Sie sich ruhig Zeit, ich will ja, dass alles seine Ordnung hat! 😉   
+
+## Wir bekommen ein "offizielles" Dokument
+
+Die vermeintliche Bank antwortet brav und länglich. Auf unsere Punkte wird eingegangen, die Fragen beantwortet.
+
+![](/posts/2025-01-11_neurologe_macht_uns_reich/schriebs.jpg)
+
