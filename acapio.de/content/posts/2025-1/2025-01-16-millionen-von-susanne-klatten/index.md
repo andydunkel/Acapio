@@ -56,7 +56,7 @@ Zwischen emotionalen Geschichten und ihrem angeblichen Engagement für uns „al
 
 Der sieht nichmal schlecht aus, die Details lassen aber mal wieder die Sorgfalt vermissen. Augenfarbe "Brown", auch die Unterschrift sieht seltsam aus. Dennoch, Photoshop hat hier ganze Arbeit geleistet.
 
-![Augenfarbe "Brown"](/posts/2025-01-16_susanne-klatten-schenkt-millionen/ausweis.webp)
+![Augenfarbe Brown](/posts/2025-01-16_susanne-klatten-schenkt-millionen/ausweis.webp)
 
 ## Kontaktdaten zur Bank  
 
@@ -128,4 +128,15 @@ Hugo lässt sich auf das Spiel ein und liefert brav alle gewünschten Daten – 
 >   
 > Mit freundlichen Grüßen,    
 > Hugo    
->   
+
+
+## Gebühren, Gebühren, Gebühren
+
+Wie gehabt! Gebühren werden fällig. Die fallen durchaus moderat auf der Scam-Skala 385 Euro kostet die preiswerte Variante! Die Master-Card-Variante kostet etwas mehr, aber auch für 558 Euro halbwegs preiswer!
+
+![Es wird teuer](/posts/2025-01-16_susanne-klatten-schenkt-millionen/bankkonto.png)
+
+### Wir spielen mal mit!
+
+
+

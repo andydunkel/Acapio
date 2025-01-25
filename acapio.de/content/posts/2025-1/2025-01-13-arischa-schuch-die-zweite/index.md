@@ -541,3 +541,30 @@ Mit höflichem Nachdruck bittet er um den genauen Betrag, die Kontodaten und ein
 > I want to do everything correct so there is no delay with the delivery of my luggage. Please reply soon so we can finish this quickly.  
 > 
 > Thank you for your help.
+
+## Arisha kommt nach Österreich? Ein kleiner „Geografie-Patzer“
+
+Arisha ist offenbar nicht ganz bei der Sache: In ihrer neuesten Nachricht kündigt sie plötzlich an, Hugo dieses Wochenende in Österreich zu treffen – obwohl unser Held sich in Hamburg befindet! Ein kleiner, aber entscheidender Fehler, der Hugo sofort stutzig macht.
+
+**Ist Arisha einfach nur überarbeitet vom ständigen Nachtdienst?**
+
+> Guten Abend, Hugo, wie geht es dir heute und wie war dein Tag? Hast du die Reederei wegen der Zahlung kontaktiert? Bitte, wie ist der aktuelle Stand? Bitte informiere mich, denn ich bereite mich gerade vor und plane, dich dieses Wochenende in Österreich zu treffen.  
+>   
+> Wenn du gerade online bist, informiere mich bitte, bevor ich in den nächsten zwei Stunden zu meinem Nachtdienst gehe.  
+>   
+> Ich wünsche dir eine schöne Zeit.  
+>   
+> Umarmung.  
+
+### Wir sind pikiert!!!!11
+
+Hugo lässt sich den „Österreich-Fauxpas“ nicht gefallen und spricht Arisha direkt darauf an. Wir gehen davon aus, dass sie eine Ausrede findet. Stressiger Job und so!
+
+> Hallo meine liebe Arisha,  
+>   
+> Ich hab deine Nachricht gelesen und musste erstmal kurz schlucken: Du planst, mich in Österreich zu treffen? Jetzt bin ich ehrlich gesagt ein bisschen enttäuscht. Ich dachte, wir treffen uns in Hamburg, wo ich wohne. Hast du mich vielleicht mit jemand anderem verwechselt?  
+>   
+> Das fühlt sich gerade ein bisschen merkwürdig an, und ich muss sagen, ich bin leicht beleidigt. Ich will dir wirklich helfen und dich unterstützen, aber sowas wirft bei mir echt Fragen auf. Schreib mir bitte und erklär mir, wie es zu diesem kleinen „Missverständnis“ gekommen ist.  
+>   
+> Beste Grüße,  
+> dein Hugo aus Hamburg  

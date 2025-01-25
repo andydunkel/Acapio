@@ -226,3 +226,25 @@ Auf lange Erklärungen haben die Jungs keine Lust. Daher geht nun auch auf einma
 > 
 > Grüße ausm Pott,  
 > Hugo   
+
+
+## Die Bankdaten
+
+Und da sind sie, die magischen Bankdaten! Unser Freund Alex Hugo – bestimmt ein enger Verwandter von Hugo – hat ein schickes Geschäftskonto bei Wells Fargo. Adresse? Ein Büro in Beaverton, Oregon, das eher nach Paketweiterleitung klingt als nach seriöser Bankfiliale.  
+
+Die Routing-Nummer und der SWIFT-Code passen zwar zu Wells Fargo, aber der Verwendungszweck "Freunde und Familie" bringt uns zum Schmunzeln. Klar, wer überweist nicht gern 410 Euro an seinen neuen besten Kumpel Alex?
+
+> Achtung Hugo,  
+>          
+> Hier sind die Bankdaten, an die Sie die Gebühr senden werden.  
+>    
+>    
+> Kontoname: Alex Hugo  
+> Bankname: Wells Fargo  
+> Kontonummer: 40630274156367080  
+> Bankleitzahl: 121000248  
+> Kontotyp: Geschäftskonto  
+> Adresse: Bankadresse: 9450 Southwest Gemini Drive, Beaverton, OR, 97008, USA  
+> SWIFT-Code: WFBIUS6SXXX  
+> Verwendungszweck: Freunde und Familie  
+
