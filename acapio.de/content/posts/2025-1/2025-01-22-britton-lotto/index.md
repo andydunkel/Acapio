@@ -248,3 +248,9 @@ Die Routing-Nummer und der SWIFT-Code passen zwar zu Wells Fargo, aber der Verwe
 > SWIFT-Code: WFBIUS6SXXX  
 > Verwendungszweck: Freunde und Familie  
 
+
+## Wir überweisen das Geld
+
+Wärend wir parallel Wells Fargo informieren, wollen wir die Scammer etwas in Freude versetzen und machen eine vermeintliche Transaktion an die Scammer.
+
+![Überweisung](/posts/2025-01-22-britton-lotto/transaction.webp)

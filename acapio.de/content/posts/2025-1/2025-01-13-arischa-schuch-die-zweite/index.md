@@ -568,3 +568,23 @@ Hugo lässt sich den „Österreich-Fauxpas“ nicht gefallen und spricht Arisha
 >   
 > Beste Grüße,  
 > dein Hugo aus Hamburg  
+
+## Wir überweisen das Geld!
+
+Arisha redet sich mit der üblichen Überlastung raus, Syrien, Krieg und so. Können wir verstehen, deswegen kommen wir jetzt der Bitte nach und "überweisen".
+
+![Wir überweisen das Geld](/posts/2025-01-13_arisha-schuch-die-zweite/transaktion.webp)
+
+Den Beleg schicken wir jetzt an Fexpresscargo und natürlich an Arisha. Arisha fragen wir natürlich noch, wann wir sie in Deutschland erwarten können.
+
+> Hallo meine liebe Arisha,    
+>   
+> Ich hoffe, es geht dir gut und du hast ein bisschen Ruhe gefunden. Ich wollte dir nur Bescheid geben, dass ich die Überweisung an die Frachtfirma erledigt habe. Ich habe den Beleg auch an Fexpresscargo geschickt, damit alles schnell abgewickelt werden kann.    
+>   
+> Jetzt bin ich natürlich gespannt: Wann genau planst du, nach Deutschland zu kommen? Ich möchte mich vorbereiten, damit wir uns endlich persönlich treffen können. Soll ich dich am Flughafen in Hamburg abholen, oder hast du schon einen genauen Plan?    
+>   
+> Ich kann es kaum erwarten, dich hier zu sehen. Schreib mir bitte, sobald du Näheres weißt!    
+>   
+> Liebe Grüße,    
+> dein Hugo aus Hamburg    
+

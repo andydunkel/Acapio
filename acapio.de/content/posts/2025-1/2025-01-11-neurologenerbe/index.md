@@ -434,5 +434,29 @@ Hugo bleibt standhaft – schließlich will er sicherstellen, dass alles seine O
 
 Die vermeintliche Bank antwortet brav und länglich. Auf unsere Punkte wird eingegangen, die Fragen beantwortet.
 
-![](/posts/2025-01-11_neurologe_macht_uns_reich/schriebs.jpg)
+![](/posts/2025-01-11_neurologe_macht_uns_reich/schriebs.webp)
 
+
+## Wir überweisen!
+
+Wir sind zufrieden und in Zahlungslaune! Wir bezahlen und schicken den Leuten einen Beleg.
+
+![](/posts/2025-01-11_neurologe_macht_uns_reich/transaction.webp)
+
+Natürlich schreiben wir auch noch ne freudige E-Mail an den guten Haskel.
+
+
+> Hallo Herr Haskel,    
+>   
+> erstmal danke für Ihre motivierenden Worte – die tun echt gut! Es läuft ja wirklich alles wie am Schnürchen, und das verdanke ich vor allem Ihnen. Ich hab die Gebühr jetzt überwiesen und den Beleg an die Bank geschickt. Das hat alles super geklappt, auch wenn meine Sparkasse ein bisschen verwundert war, wofür ich das Geld brauche. Aber egal, Hauptsache, wir sind einen Schritt weiter.    
+>   
+> Wie geht’s denn jetzt weiter? Soll ich auf die Kontodaten von der Bank warten, oder gibt’s noch was, was ich vorbereiten muss? Ich bin bereit für die nächsten Schritte und freu mich, dass wir gemeinsam so gut vorankommen.    
+>   
+> Die Einladung nach London klingt übrigens großartig! Wenn das hier alles durch ist, komm ich vorbei, und wir stoßen ordentlich auf unseren Erfolg an – Currywurst bring ich mit, falls Sie die im Vereinigten Königreich nicht haben. 😉    
+>   
+> Ich freu mich auf Ihre Antwort und bin gespannt, wie’s weitergeht!    
+>   
+> Grüße aus Wanne-Eickel,    
+> Hugo    
+>   
+> P.S.: WhatsApp klingt super – das macht’s echt einfacher! Schreiben Sie mir, wenn Sie bereit sind. 😊    

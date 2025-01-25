@@ -69,3 +69,14 @@ Die Kontaktdaten, ebenfalls professionell. "yaya.com" gibt nichts im Browser aus
 Natürlich antworten wir!
 
 ![](/posts/2025-01-18_kredite-aller-art/antrag.png)
+
+
+## Wir erhalten ein Angebot
+
+Die Antwort von Yaya Financial Services klingt fast zu schön, um wahr zu sein – und genau das ist sie auch. Neben dem großzügigen Kreditangebot von 15.000 Euro bei lächerlichen 3 % Zinsen glänzt die E-Mail mit fragwürdigen Bedingungen: Eine Vorabgebühr von 450 Euro für „Registrierung und Genehmigung“, angebliche rechtliche Drohungen bei verspäteter Zahlung und die Forderung nach sensiblen Bankdaten. 
+
+Dass der Kreditmanager den Namen „George Lucas“ trägt, macht die Sache nicht weniger verdächtig – eher im Gegenteil.
+
+![Das Kreditangebot](/posts/2025-01-18_kredite-aller-art/angebot.webp)
+
+Wir schreiben zurück und gehen vermeintlich auf das Angebot ein und fragen auch nach der Gebühr.

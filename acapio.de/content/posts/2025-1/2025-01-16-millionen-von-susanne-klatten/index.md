@@ -136,7 +136,17 @@ Wie gehabt! Gebühren werden fällig. Die fallen durchaus moderat auf der Scam-S
 
 ![Es wird teuer](/posts/2025-01-16_susanne-klatten-schenkt-millionen/bankkonto.png)
 
-### Wir spielen mal mit!
+## Hugo entscheidet sich  
 
+Hugo ist begeistert: Die Mastercard klingt wie gemacht für ihn. Eine Karte mit 2,5 Millionen Euro, perfekt für spontane BMW-Tankfüllungen oder vielleicht den nächsten Luxusurlaub. 
 
-
+> Sehr geehrte Frau Nehls,    
+>   
+> vielen Dank für die Information! Ich würde gerne die Mastercard wählen, auch wenn sie etwas mehr kostet – die Karte klingt perfekt für mich.    
+>   
+> Könnten Sie mir bitte mitteilen, wie ich die 558 € bezahlen soll? Akzeptieren Sie Banküberweisung oder andere Zahlungsmethoden?    
+>   
+> Ich freue mich auf Ihre Rückmeldung und darauf, die Karte bald in den Händen zu halten.    
+>   
+> Mit freundlichen Grüßen,    
+> Hugo
