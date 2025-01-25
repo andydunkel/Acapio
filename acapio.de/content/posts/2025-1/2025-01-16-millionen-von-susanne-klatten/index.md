@@ -150,3 +150,21 @@ Hugo ist begeistert: Die Mastercard klingt wie gemacht für ihn. Eine Karte mit 
 >   
 > Mit freundlichen Grüßen,    
 > Hugo
+
+## Die Bank wird konkret  
+
+Jetzt wird’s ernst: Die „Rabobank“ liefert uns die Zahlungsdetails – inklusive einer IBAN bei der Frankfurter Sparkasse. Für 558 € soll das Offshore-Konto aktiviert werden, und als Empfänger wird eine gewisse Ursula Maria Reichel genannt. Der Zahlungszweck „Offs-Class 84“ klingt beeindruckend, lässt Hugo aber stutzen: Klingt das nicht eher nach einem neuen BMW-Modell?  
+
+> Hallo,
+> 
+> Wir haben Ihre Anfrage erhalten, unsere erste Option, das Offshore-Verfahren, zu nutzen. Zu diesem Zweck haben wir unten die Zahlungsinformationen für die Einrichtung und Aktivierung des neuen Offshore-Kontos angegeben. Sobald die angeforderte Zahlung eingegangen ist, stellen wir Ihnen die Details der neuen Konto Anmeldeinformationen (URL, Benutzername und Passwort) zur Verfügung. Damit erhalten Sie Zugriff auf das neue Konto und können Ihre Spende auf Ihr lokales Bankkonto überweisen. Sie müssen den Zahlungsbeleg zu Dokumentationszwecken senden, wenn die Zahlung abgeschlossen ist. Wir warten auf Ihre weitere Korrespondenz, um diesen Transaktionsprozess abzuschließen…
+> 
+> ZAHLUNGS-IBAN-DATEN
+> 
+> Kontoname: Ursula Maria Reichel  
+> Iban: DE68 5005 0201 1204 3070 73  
+> BIC: HELADEF1822  
+> Bank Name: Frankfurter Sparkasse  
+> Adresse: Frankfurt am Main 60255 Zeil 65-69  
+> Zahlungszweck: Offs-Class 84  
+> Erwarteter Betrag: 558 €  
