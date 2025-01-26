@@ -1,5 +1,5 @@
 ---
-title: "Hugo aus Wanne-Eickel vs. Elon Musk: Wie ein Ruhrpott-Original einem Betrugsversuch auf die Spur kommt"
+title: "Hugo aus Wanne-Eickel vs. Elon Musk"
 params:
   author: Andy
 date: "2025-01-25"
@@ -11,7 +11,7 @@ categories:
     - "Scam"
 thumbnail: "fraud.webp"
 url: "posts/2025-01-25-elon-musk-tesla"
-summary: "Tesla-Aktien im Wert von über 4 Millionen Dollar gewonnen? Hugo wittert den Braten – und es riecht verdammt nach Phishing"
+summary: "Tesla-Aktien im Wert von über 4 Millionen Dollar gewonnen? Hugo wittert den Braten – und es riecht verdammt nach Phishing."
 ---
 
 
@@ -38,3 +38,9 @@ Natürlich lassen wir uns die Chance nicht entgehen, Elon persönlich zu antwort
 >   
 > Glückauf aus Wanne-Eickel!    
 > Hugo    
+
+## Die Domain wurde bereits gesperrt
+
+Leider bekommen wir keine Antwort, da die Domain "**elonmuskorganization.com**" bereits gesperrt wurde. Hier wird jemand die Domain beim Provider gemeldet haben. Somit werden wir nie erfahren, ob wir die Tesla-Aktien jemals bekommen hätten. 😭
+
+![Fehlermeldung, Domain wurde gesperrt](/posts/2025-01-25-elon-musk-tesla/suspended.png)
