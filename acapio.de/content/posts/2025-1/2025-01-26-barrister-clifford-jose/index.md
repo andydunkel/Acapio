@@ -44,3 +44,54 @@ Hugo aus Wanne-Eickel, unser bodenständiger Profi, kann natürlich nicht widers
 > Gruß,    
 > Hugo    
 > BMW-Club Wanne-Eickel    
+
+
+## Der gute Cliffor meldet sich
+
+Kaum hat Hugo aus Wanne-Eickel geantwortet, meldet sich unser angeblicher Anwalt Clifford Jose prompt zurück – höflich, detailliert und mit einem Hauch von Verbindlichkeit. 
+
+In seinem Schreiben lobt er Hugos Interesse und betont, wie „legal“ und „unproblematisch“ die ganze Sache sei. Natürlich möchte er jetzt Hugos persönliche Daten – inklusive Passkopie. Ein klassischer Scam-Schachzug: Erst Vertrauen aufbauen, dann sensible Informationen abgreifen.  
+
+
+> Clifford Jose Chamber   
+> UNIT 7, 20 Essex Street   
+> London   
+> WC2R 3A   
+> UNITED KINGDOM   
+> Tel: +44-730-8071-664   
+>   
+> Dear  Hugo,  
+>   
+> Thank you for your prompt response to my proposal. I sincerely appreciate your interest in assisting with this transaction. Your willingness to participate and collaborate instills confidence in me; however, I must emphasize that trust, commitment, and integrity are essential prerequisites for our engagement. Please be assured that this transaction is entirely legal and free from any governmental implications, as the funds involved do not originate from any public source.  
+>   
+> All necessary procedures and arrangements have been established to process the claim in your name as the legitimate next of kin to the late Robert Fitzpatrick, without any complications. It is important to clarify that the designation of a next of kin is not confined solely to immediate family members. The law allows individuals to appoint anyone as their next of kin, irrespective of familial ties, nationality, or religious beliefs.  
+>   
+> Regarding expenses, I will cover the cost of procuring the required documents. Should any additional payments arise, we can mutually decide how to address them. Your cooperation is vital for this process. To proceed, I kindly request the following personal details from you:  
+>   
+> **Full Name:** ____________________________  
+> **Address:** ____________________________  
+> **Nationality:** ___________ **Sex:** __________  
+> **Age:** ___________ **Date of Birth:** __________  
+> **Occupation:** __________________________  
+> **Phone:** _______________ **Fax:** _______________  
+> **State of Origin:** __________ **Country:** ___________  
+> **Scanned Copy of Your Identity** (Passport/Driver’s License): ________________  
+>   
+> Upon receiving this information, I will introduce you to the relevant security company, which will guide you through the necessary procedures to access the funds. I will provide any required documentation and remain available to support you throughout this process, ensuring a smooth claim as the next of kin.  
+>   
+> I trust you will approach this opportunity with sincerity and cooperation. I am confident our partnership will be mutually beneficial.  
+>   
+> Thank you for your prompt attention. I look forward to your detailed response at your earliest convenience.  
+
+## Wir verlangen erstmal Nachweise
+
+Hugo wäre nicht Hugo, wenn er blindlings auf die Forderungen von Clifford eingehen würde. Statt seine persönlichen Daten sofort preiszugeben, fragt er höflich, aber bestimmt, nach offiziellen Nachweisen. 
+
+> Hello Mr. Clifford,    
+>   
+> Thank you for your email. I am interested in helping with this, but before I send my details, I kindly ask for an official document or proof to confirm that this is a real and legal matter.    
+>   
+> I hope you understand my concern. Please send me something official so I can trust this process.    
+>   
+> Thank you,    
+> Hugo     

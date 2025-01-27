@@ -46,3 +46,39 @@ Die Antwort geht an **silvanatenreyro030@gmail.com**.
 >   
 > Mit lieben Grüßen aus Hamburg,  
 > Anne  
+
+## Silvana Tenreyro antwortet länglich
+
+Scammer können sich nicht kurz halten, die E-Mail ist lang!
+
+![](/posts/2025-01-26-silvana-tenreyro-4-mio-pfund/mail.webp)
+
+Am besten gefällt uns jedoch der folgende Absatz. Das schafft gleich Vertrauen.,
+
+> DG  
+> Wenn Sie Angst vor diesem Projekt haben und es abbrechen möchten oder es zynisch finden, vernichten Sie bitte diese E-Mail und leben Sie Ihr Leben weiter, als hätte ich nie Kontakt mit Ihnen aufgenommen. 
+> 
+> Ich bin eine Frau mit Integrität und Respekt, meine Kollegen schätzen mich sehr, aber wenn Sie an diesem Projekt interessiert sind, geben Sie mir grünes Licht und lassen Sie uns anfangen. Ich erwarte Ihre dringende Antwort.  
+
+### Was will Silvana Tenreyro eigentlich?
+
+Kurz gesagt: Silvana Tenreyro, angeblich hochrangiges Mitglied der Bank of England, hat einen Plan, der vor Kreativität nur so sprüht. Sie behauptet, ein gewisser Dr. Thomas J. Tojas habe vor Jahren 4 Millionen Pfund in ihrer Bank deponiert, dann plötzlich das Zeitliche gesegnet und dabei vergessen, jemanden als Erben anzugeben.  
+
+Aber keine Sorge, Silvana hat die Lösung: Sie hat uns „zufällig“ als entfernte Verwandte entdeckt – wegen unseres gemeinsamen Nachnamens. Der Vorschlag? Wir sollen uns als Erben ausgeben, das Geld abholen und mit ihr 50/50 teilen. Klingt doch fair, oder?  
+
+Fun-Fact: Die Frau [gibt es wirklich](https://de.wikipedia.org/wiki/Silvana_Tenreyro)! Mal wieder wird ein Name missbräuchlich verwendet.
+
+## Kekse für Anne!
+
+Anne aus Hamburg, unsere Heldin des Alltags, hätte mit den 4 Millionen Pfund so einiges anstellen können. Ein Vorrat an Keksen für die Ewigkeit? Check. Ein privater Kaffeelieferant? Klar. Oder vielleicht eine goldene Keksdose mit integriertem WLAN – warum nicht!  
+
+Egal, wir antworten!
+
+> Liebe Frau Tenreyro,  
+>   
+> vielen Dank für Ihre großzügige Nachricht! 4 Millionen Pfund – das würde mein Wochenbudget für Kaffee und Kekse enorm erweitern. Allerdings bin ich etwas skeptisch: Wie genau bin ich denn plötzlich mit Dr. Tojas verwandt? Ich dachte bisher, ich sei eher mit dem Hamburger Hafen als mit britischen Neurologen verbunden.  
+>   
+> Auch der Link zu Ihrer Bank wirkt ein wenig… eigenwillig. Vielleicht können Sie mir den nochmal bestätigen? Ich will ja sicher sein, dass alles korrekt abläuft – schließlich will ich keinen Skandal im Familiennamen riskieren!  
+>   
+> Mit freundlichen Grüßen,  
+> Anne, besorgte zukünftige Millionärin (vielleicht) aus Hamburg 😊  

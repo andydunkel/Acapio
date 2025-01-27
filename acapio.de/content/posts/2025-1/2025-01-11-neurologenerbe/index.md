@@ -460,3 +460,64 @@ Natürlich schreiben wir auch noch ne freudige E-Mail an den guten Haskel.
 > Hugo    
 >   
 > P.S.: WhatsApp klingt super – das macht’s echt einfacher! Schreiben Sie mir, wenn Sie bereit sind. 😊    
+
+## Hugo hat’s nicht leicht – der Agent ist krank
+
+Kaum läuft’s mal, tauchen neue Probleme auf: Herr Jackson Osazuwa, der Empfänger der ersten Überweisung, ist krank und kann das Geld nicht verarbeiten. Es wird doch hoffentlich nicht an unserer Meldung an die Vivid-Bank liegen? 😁
+
+Jetzt soll Hugo das Geld stornieren und an einen gewissen Olaf Reinhold Heinrich Friedrichs überweisen. Luxenburg und einer deutschen IBAN, natürlich melden wir auch dies gleich der Bank.
+
+> Sehr geehrter Herr S.,  
+>   
+> Vielen Dank für Ihre schnelle Überweisung. Wir schätzen Ihr Engagement im Rahmen dieses Prozesses sehr.  
+>   
+> Leider müssen wir Ihnen mitteilen, dass wir nicht damit gerechnet haben, die Zahlung bereits heute zu erhalten. Unglücklicherweise befindet sich unser Agent, Herr Jackson Osazuwa, derzeit im Krankenstand und kann die Zahlung momentan weder entgegennehmen noch verarbeiten.  
+>   
+> Um Verzögerungen zu vermeiden, bitten wir Sie höflich, die Zahlung an das Konto von Herrn Jackson Osazuwa zu stornieren oder rückgängig zu machen. Bitte überweisen Sie den Betrag stattdessen an einen unserer verfügbaren Agenten. Hier sind die entsprechenden Kontodaten:  
+>   
+> Bankname: Tide Bank  
+> Name: Olaf Reinhold Heinrich Friedrichs  
+> IBAN: DE06100190001000011338  
+> BIC: ADYBDEB2  
+> Land: Luxemburg  
+> Adresse: 5 Av. Gaston Diderich, 1420 Belair, Luxemburg  
+>   
+> Dies wird die Erstellung Ihres Platinum-Kontos beschleunigen und sicherstellen, dass es zu keinen weiteren Verzögerungen im Abschluss des Prozesses kommt. Bitte informieren Sie uns umgehend, sobald die Zahlung erfolgreich auf das angegebene Konto überwiesen wurde, damit wir ohne Verzögerungen fortfahren können.  
+>   
+> Wir entschuldigen uns aufrichtig für die entstandenen Unannehmlichkeiten und danken Ihnen für Ihr Verständnis und Ihre Kooperation. Sollten Sie bei der Stornierung oder Überweisung Unterstützung benötigen, zögern Sie bitte nicht, uns zu kontaktieren.  
+>    
+> Mit freundlichen Grüßen,  
+> MacQuoid Taylor  
+
+### Hugo und die Sparkasse – Bürokratie lässt grüßen 
+
+Hugo lässt sich nicht so leicht unter Druck setzen. Klar, die neuen Kontodaten sind da, aber erstmal muss alles sauber abgeklärt werden – schließlich nimmt es die Sparkasse in Wanne-Eickel mit sowas ganz genau. 
+
+> Hallo Herr Taylor,    
+>   
+> danke für die Info und die neuen Kontodaten. Ich verstehe, dass Herr Osazuwa gerade nicht verfügbar ist – gute Besserung an ihn!    
+>   
+> Ich muss jetzt erstmal bei meiner Sparkasse klären, ob die Stornierung der ersten Überweisung überhaupt möglich ist. Die sind da manchmal etwas pingelig und wollen genaue Nachweise. Haben Sie vielleicht ein offizielles Schreiben, dass der neue Empfänger Olaf Reinhold Heinrich Friedrichs autorisiert ist? Das könnte mir helfen, die Sache schneller zu regeln.    
+>   
+> Ich melde mich, sobald ich Neuigkeiten habe. Danke für Ihre Geduld!    
+>   
+> Beste Grüße,    
+> Hugo  
+
+### Haskel meldet sich via WhatsApp 
+
+Der gute Jonathan Haskel lässt nichts anbrennen und kontaktiert Hugo jetzt auch über WhatsApp – natürlich von seiner „privaten Nummer“ (+44 7365 795276), um maximale Diskretion zu gewährleisten. Offizielle Leitungen seien wegen „Total Quality Management Policy“ (was auch immer das genau ist) überwacht, deshalb der geheime Kanal. 
+
+![](/posts/2025-01-11_neurologe_macht_uns_reich/whatspp_kontakt.webp)
+
+Natürlich schreiben wir was zurück, die Neuigkeiten der Bank. 
+
+> hallo herr haskel,    
+>   
+> entschuldigen sie die späte antwort – wir waren das ganze wochenende am feiern, aber jetzt bin ich wieder voll dabei!    
+>   
+> ich wollte mal nachfragen: wissen sie irgendwas über die sache mit der überweisung? die bank hat mir plötzlich eine andere kontonummer gegeben, weil der ursprüngliche empfänger angeblich krank ist. passt das alles so, oder sollten wir da nochmal nachhaken?    
+>   
+> danke schon mal für ihre hilfe, sie haben das ja immer alles im blick!    
+>   
+> greetz hugo    

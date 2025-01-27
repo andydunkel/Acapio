@@ -569,9 +569,17 @@ Hugo lässt sich den „Österreich-Fauxpas“ nicht gefallen und spricht Arisha
 > Beste Grüße,  
 > dein Hugo aus Hamburg  
 
+## Fexpress Bankverbindung
+
+Fexpresscargo meldet sich parallel mit der Bankverbindung ihres Zahlungsagenten. Eine deutsche Bankverbindung, wer weiß wer sich da übers Ohr hauen lässt, hier Zahlungen entgegen zu nehmen.
+
+> Below are the Germany Bank account details of our company-assigned agent for the payment.
+
+![](/posts/2025-01-13_arisha-schuch-die-zweite/fexpress_konto.png)
+
 ## Wir überweisen das Geld!
 
-Arisha redet sich mit der üblichen Überlastung raus, Syrien, Krieg und so. Können wir verstehen, deswegen kommen wir jetzt der Bitte nach und "überweisen".
+Arisha redet sich mit der üblichen Überlastung raus, Syrien, Krieg und so. Können wir verstehen, deswegen kommen wir jetzt der Bitte nach und "überweisen"!
 
 ![Wir überweisen das Geld](/posts/2025-01-13_arisha-schuch-die-zweite/transaktion.webp)
 
@@ -587,4 +595,34 @@ Den Beleg schicken wir jetzt an Fexpresscargo und natürlich an Arisha. Arisha f
 >   
 > Liebe Grüße,    
 > dein Hugo aus Hamburg    
+
+## Das Geld will nicht ankommen, Fexpress und Arisha schreiben
+
+Fexpress kann, wie erwartet, keine Zahlungseingang verbuchen, aber wir warten erstmal weiter ab. 
+
+> We at Fexpress, a security diplomatic delivery company, are to inform you that we have not received your payment today, Monday, 1/27/2025, but we will wait until tomorrow, and we ask you to send us the full payment slip copy of the slip so that our agent will take it to the bank tomorrow. Also, contact your bank and know why they are delaying the payment.  
+
+Auch Arisha will erst zu uns nach Deutschland kommen, wenn die Zahlung bestätigt ist. Anscheinend kann man die Friedenstruppen aber ansonsten jederzeit verlassen.
+
+> Was mich betrifft, ich würde gerne am Donnerstag oder Freitag nächster Woche nach Deutschland kommen, aber ich werde auf eine Antwort der Spedition warten, damit ich weiß, an welchem Tag sie dir das Gepäck liefern, bevor ich dir meinen Termin mitteile, aber ich habe Donnerstag oder Freitag nächster Woche gewählt, und du bist die Person, die mich willkommen heißt und mich vom Hamburger Flughafen abholt, weil ich keine anderen Pläne als dich habe.  
+
+### Wir bestätigen die Überweisung und schreiben Arisha
+
+Wir spielen das Spiel mit und senden eine vermeintliche Bestätigung der Überweisung.
+
+![](/posts/2025-01-13_arisha-schuch-die-zweite/transaktion_2.webp)
+
+Einmal an Fexpress und dann schreiben wir natürlich noch der guten Arisha, dieser schreiben wir noch ein paar persönliche Dinge über unseren Tag.
+
+> Hallo meine liebe Arisha,    
+>   
+> Ich hoffe, du hattest einen ruhigen Tag und konntest ein bisschen Kraft tanken. Bei mir war heute wieder einiges los – ich hatte ein paar lange Touren als Kurierfahrer. Zuerst musste ich quer durch Hamburg, um ein wichtiges Dokument abzuliefern, und dann gab es noch einen kleinen Stau auf der Rückfahrt. Aber hey, das ist der Job, und ich liebe es, unterwegs zu sein!    
+>   
+> Ich wollte dir auch kurz Bescheid geben: Ich habe Fexpress geschrieben und ihnen den Zahlungsbeleg geschickt. Das Geld wurde heute von meinem Konto abgebucht, also sollte jetzt alles seinen Gang gehen. Ich habe ihnen gesagt, dass sie das mit ihrer Bank klären sollen, falls es irgendwo hakt.    
+>   
+> Jetzt hoffe ich, dass alles glatt läuft und wir uns bald endlich sehen können. Schreib mir doch, wie dein Tag war und wie es dir geht. Ich freue mich immer, von dir zu hören.    
+>   
+> Alles Liebe,    
+> dein Hugo aus Hamburg
+
 

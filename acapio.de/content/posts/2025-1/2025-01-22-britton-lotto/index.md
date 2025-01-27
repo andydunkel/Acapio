@@ -254,3 +254,39 @@ Die Routing-Nummer und der SWIFT-Code passen zwar zu Wells Fargo, aber der Verwe
 Wärend wir parallel Wells Fargo informieren, wollen wir die Scammer etwas in Freude versetzen und machen eine vermeintliche Transaktion an die Scammer.
 
 ![Überweisung](/posts/2025-01-22-britton-lotto/transaction.webp)
+
+Das ist ein klares Zeichen dafür, dass die Betrüger bemerkt haben, dass ihr Konto blockiert wurde – vermutlich, weil es gemeldet wurde. Nun versuchen sie schnell, ein neues Konto ins Spiel zu bringen, um die Masche fortzusetzen.
+
+
+### Ups, Konto dicht!
+
+Es scheint, als hätte jemand unseriöse Aktivitäten gemeldet – das angebliche Konto bei Wells Fargo funktioniert plötzlich nicht mehr. Natürlich lassen sich die Betrüger davon nicht aus der Ruhe bringen und bieten direkt an, ein neues Konto bereitzustellen. 
+
+> Achtung Hugo,  
+>    
+> Wir haben Probleme mit diesem Konto und Sie müssen die Übertragung abbrechen, damit wir Ihnen ein anderes Konto senden können, das Sie zum Senden verwenden können.  
+
+Man wird nervös und schickt am nächsten Tag noch eine Nachricht.
+
+> Achtung Hugo,  
+>    
+> Konnten Sie das Geld zurückerhalten? Damit wir Ihnen ein neues Konto zusenden können, auf das Sie die Gebühr überweisen können, damit Sie Ihr Geld erhalten.  
+
+
+### Hugo sagt, die Kohle ist weg!
+
+Hugo ist betrübt und verärgert! Er hat die 410 Euro bereits überwiesen. Schließlich war doch alles klar: Konto von Alex Hugo bei der Wells Fargo, Kohle rübergeschickt, und jetzt sollte eigentlich die Karte kommen. Aber wie immer bei solchen Deals: Nix läuft glatt!  
+
+> Hallo Herr Pavel,    
+>   
+> jetzt mal langsam, Kollege – ich hab die 410 Euro doch schon auf das erste Konto überwiesen! Dat war doch die Nummer mit dem Alex Hugo und der Wells Fargo. Wat soll ich denn jetzt machen, wenn das Geld schon weg is?    
+>   
+> Macht ihr ma Gedanken, wie ihr dat hinkriegt. Ich warte hier auf meine Karte, wa? Aber ehrlich gesagt, langsam krieg ich Schiss, dass hier wat schief läuft.    
+> Die Bank hat dat Geld auch schon abgebucht.  
+>   
+> Grüße aus Wanne-Eickel,    
+> Hugo  
+
+Damit die Sache etwas mehr Schwung bekommt, haben wir einen Screenshot von der Bank erstellt.
+
+![](/posts/2025-01-22-britton-lotto/kontoauszug.png)

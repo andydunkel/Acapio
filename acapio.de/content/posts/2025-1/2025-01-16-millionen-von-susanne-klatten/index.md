@@ -168,3 +168,9 @@ Jetzt wird’s ernst: Die „Rabobank“ liefert uns die Zahlungsdetails – ink
 > Adresse: Frankfurt am Main 60255 Zeil 65-69  
 > Zahlungszweck: Offs-Class 84  
 > Erwarteter Betrag: 558 €  
+
+## Hugo zahlt – oder doch nicht?  
+
+Hugo lässt sich nicht lumpen und bestätigt der „Rabobank“ freudig, dass er die 558 € überwiesen hat. Natürlich nicht ohne einen „Zahlungsbeleg“, der so überzeugend aussieht, dass man ihn glatt neben einen echten drucken könnte – auf dem Nadeldrucker aus der E-Mail von Frau Nehls.
+
+![Wir haben, hust, gezahlt](/posts/2025-01-16_susanne-klatten-schenkt-millionen/zahlung.webp)
