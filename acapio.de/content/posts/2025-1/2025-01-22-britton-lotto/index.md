@@ -290,3 +290,11 @@ Hugo ist betrübt und verärgert! Er hat die 410 Euro bereits überwiesen. Schli
 Damit die Sache etwas mehr Schwung bekommt, haben wir einen Screenshot von der Bank erstellt.
 
 ![](/posts/2025-01-22-britton-lotto/kontoauszug.png)
+
+
+## Wir haben angeblich bezahlt! 
+
+Große Freude, unsere vermeintliche Zahlung kam an. Wir haben zwar nichts überwiesen, aber die Zahlung wird bestätigt. Vermutl
+
+
+![](/posts/2025-01-22-britton-lotto/karte.webp)
