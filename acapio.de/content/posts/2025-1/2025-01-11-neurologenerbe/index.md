@@ -521,3 +521,36 @@ Natürlich schreiben wir was zurück, die Neuigkeiten der Bank.
 > danke schon mal für ihre hilfe, sie haben das ja immer alles im blick!    
 >   
 > greetz hugo    
+
+
+## Die Bank meldet sich wieder
+
+Die „Courtage Trust Bank“ zeigt sich von ihrer „professionellen“ Seite: Nach Hugos Anfrage bieten sie großzügig an, ein offizielles Schreiben zu erstellen, das bestätigt, dass der neue Empfänger Olaf Reinhold Heinrich Friedrichs autorisiert ist, die Überweisung zu empfangen.
+
+> Sehr geehrter Herr,  
+>   
+> vielen Dank für Ihre schnelle Rückmeldung und Ihr Verständnis in Bezug auf die aktuelle Situation. Wir schätzen Ihre Kooperation sehr sowie Ihre freundlichen Genesungswünsche für Herrn Osazuwa.  
+>   
+> Wir verstehen, dass Ihre Sparkasse möglicherweise einen präzisen Nachweis für die Stornierung der ersten Überweisung und die Autorisierung des neuen Empfängers benötigt. Bitte seien Sie versichert, dass wir Ihnen gerne ein offizielles Schreiben zur Verfügung stellen können, welches bestätigt, dass Herr Olaf Reinhold Heinrich Friedrichs ein autorisierter Vertreter der Courtage Trust Bank LTD ist.  
+>   
+> Sollte Ihre Bank dieses Dokument benötigen, lassen Sie es uns bitte wissen, und wir werden das Schreiben umgehend vorbereiten und Ihnen zukommen lassen, um Ihr Anliegen zu unterstützen.  
+>   
+> Wir danken Ihnen für Ihre Geduld und Zusammenarbeit in diesem Prozess und stehen Ihnen für weitere Fragen oder Unterstützung jederzeit zur Verfügung.  
+>   
+> Wir freuen uns auf Ihre Rückmeldung.  
+
+
+### Den Ball nehmen wir an!
+
+Na da lassen wir uns doch nicht lange bitten, aber dieses Mal wollen wir nicht nur eine schnöde Textmail und fragen nach PDF mit Stempel.
+
+> Hallo Herr Taylor,    
+>   
+> vielen Dank für Ihre Antwort und Ihr Angebot, ein offizielles Schreiben zu erstellen. Meine Sparkasse hat gesagt, dass sie so ein Dokument braucht, damit ich die Überweisung stornieren und an Herrn Olaf Reinhold Heinrich Friedrichs senden kann.    
+>   
+> Der Bankmitarbeiter meinte, es wäre wichtig, dass das Schreiben als PDF kommt, am besten mit offiziellem Stempel oder Briefkopf der Courtage Trust Bank. Das würde die Sache einfacher machen.    
+>   
+> Bitte lassen Sie mir das Schreiben so schnell wie möglich zukommen. Vielen Dank für Ihre Hilfe!    
+>   
+> Viele Grüße,    
+> Hugo   

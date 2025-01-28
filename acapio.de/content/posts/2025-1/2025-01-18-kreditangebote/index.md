@@ -80,3 +80,33 @@ Dass der Kreditmanager den Namen „George Lucas“ trägt, macht die Sache nich
 ![Das Kreditangebot](/posts/2025-01-18_kredite-aller-art/angebot.webp)
 
 Wir schreiben zurück und gehen vermeintlich auf das Angebot ein und fragen auch nach der Gebühr.
+
+## Ausweis wird gefordert!
+
+Jetzt wird es ernst, wir sollen einen Ausweis schicken! Die Zahlungsinformationen gibt es erst hinterher! Klar!
+
+> Sehr geehrter Herr Hugo 
+>   
+> Vielen Dank für Ihre E-Mail. Wir haben Ihre Bankdaten erhalten und bitten Sie, uns eine Kopie Ihres Personalausweises oder Führerscheins zuzusenden. Dies ist für die Registrierung und Genehmigung Ihres Kredits erforderlich. Sobald Sie Ihren Personalausweis eingesandt haben, werde ich ihn an unser Genehmigungszentrum für die Registrierung und Genehmigung Ihres Kredits weiterleiten.  
+>   
+> Was die erforderliche Gebühr betrifft: Die Gebühr muss bezahlt werden, bevor die Kreditgenehmigung erfolgreich erfolgen kann. Nach der Kreditgenehmigung wird der Kredit auf Ihr Bankkonto überwiesen und innerhalb von 24 Stunden wird der Kreditbetrag auf Ihrem Bankkonto angezeigt.  
+>   
+> Die Zahlungsinformationen zur Zahlung von 450 Euro werden Ihnen zugesandt. Sobald Sie Ihren Personalausweis für den Kreditgenehmigungsprozess vorgelegt haben.  
+>   
+> Vielen Dank für Ihre Zusammenarbeit mit uns.  
+
+
+### Ausweis wird gesendet
+
+Jetzt wird es ernst, wir wollen ja keinen echten Ausweis fälschen, also erstellen wir [einen Online](https://www.onlinewahn.de/generator/a-bestel.htm).
+
+> Sehr geehrter Herr Lucas,  
+>   
+> vielen Dank für Ihre schnelle Antwort und die detaillierten Informationen. Ich habe Ihren Hinweis verstanden und sende Ihnen hiermit eine Kopie meines Ausweises, wie gewünscht, zur weiteren Bearbeitung meines Kreditwunsches.  
+>   
+> Mit besten Grüßen aus dem schönen Wanne-Eickel,  
+> Hugo  
+> BMW-Club Wanne-Eickel  
+
+![Unser Ausweis](/posts/2025-01-18_kredite-aller-art/ausweis.webp)
+

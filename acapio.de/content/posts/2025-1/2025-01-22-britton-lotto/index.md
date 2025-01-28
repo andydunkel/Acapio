@@ -294,7 +294,34 @@ Damit die Sache etwas mehr Schwung bekommt, haben wir einen Screenshot von der B
 
 ## Wir haben angeblich bezahlt! 
 
-Große Freude, unsere vermeintliche Zahlung kam an. Wir haben zwar nichts überwiesen, aber die Zahlung wird bestätigt. Vermutl
+Große Freude: Unsere vermeintliche Zahlung von 410 Euro ist angeblich angekommen – obwohl wir natürlich keinen Cent überwiesen haben. Die Betrüger bestätigen die Zahlung trotzdem. Vermutlich wollten sie sich nicht die Blöße geben, dass ihr Konto bei der Wells Fargo dichtgemacht wurde.
+
+Aber es kommt noch besser: Jetzt verlangen sie direkt die nächste Gebühr – stolze 950 Euro für die "Aktivierung" der Karte.
+
+> Ich habe die 410 Euro erhalten und Ihre Bankkarte und PIN sind fertig. Sie werden Ihnen nach Hause geliefert. Bevor Sie also Ihr Geld von Ihrem Konto abheben können, müssen wir die Karte für Sie aktivieren. Wie Sie wissen, ist viel Geld auf der Karte und Sie müssen sie zuerst aktivieren. Die Aktivierungsgebühr beträgt 950 Euro. 
+> 
+> Nachdem diese bezahlt ist, wird Ihre Karte aktiviert und Ihnen nach Hause geliefert. OK, Sie müssen jetzt also den Betrag von 950 Euro überweisen, damit dies erledigt ist. OK, lassen Sie uns also wissen, wann Sie die 950 Euro überweisen, damit wir Ihnen ein Konto zusenden können, das Sie zum Senden verwenden können.  
+
+Die Betrüger schicken uns tatsächlich ein Foto der angeblichen Karte. Aber das Bild wirkt eher wie ein unscharfer Briefumschlag aus einer anderen Dimension. Wenn dies wirklich der Beweis für die versprochene Millionenkarte sein soll, dann: 
+
+**Hut ab! Mit so viel Mühe hätten wir nicht gerechnet.** 😄
+
+![Kann das wer lesen?](/posts/2025-01-22-britton-lotto/karte.webp)
 
 
-![](/posts/2025-01-22-britton-lotto/karte.webp)
+### Wir legen einen Gang zu
+
+Hugo hat genug! Die Geduld ist am Ende, und jetzt gibt’s klare Worte: Warum soll er plötzlich noch 950 Euro zahlen? Die Aktivierungsgebühr war vorher nie Thema, und langsam reißt der Geduldsfaden.  
+
+Das unscharfe Foto der angeblichen Karte? Ein schlechter Witz! Hugo fordert klare Antworten!
+
+> Hallo Herr Pavel,    
+>   
+> jetzt mal Butter bei die Fische: Warum kommt auf einmal noch ’ne Gebühr von 950 Euro dazu? Davon war doch nie die Rede! Ihr habt gesagt, ich soll 410 Euro zahlen, und dann kommt die Karte. Und jetzt zieht ihr so’n Aktivierungs-Gedöns aus’m Hut? Dat is doch nich sauber, Kollege!    
+>   
+> Und dann noch das Foto von der "Karte". Ganz ehrlich, wat soll dat denn? Dat sieht aus wie ein billiger Briefumschlag, nix mit Bankkarte. Wenn ihr hier ernstgenommen werden wollt, dann schickt mal wat Vernünftiges – oder ich bin raus aus der Nummer und will meine Kohle wieder, die 410 Euro habe ich bereits gezahlt!!! Verdammt!  
+>   
+> Also: Klärt dat jetzt, oder sucht euch wen anders für euren Quatsch.    
+>   
+> Grüße aus Wanne-Eickel,    
+> Hugo   

@@ -5,7 +5,6 @@ params:
 date: "2025-01-28"
 featured: true
 toc: true
-draf: true
 tags: 
   -  "scam"
 categories:
@@ -43,3 +42,8 @@ Natürlich kann Hugo nicht widerstehen, auf eine solche E-Mail zu reagieren – 
 > Hugo aus Wanne-Eickel  
 > BMW-Fahrer, Pils-Kenner und Verteidiger ehrlicher Leute    
 > 😄  
+
+
+## Fazit
+
+Wir waren wohl zu nassforsch und erhalten keine Antwort! 
