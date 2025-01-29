@@ -325,3 +325,26 @@ Das unscharfe Foto der angeblichen Karte? Ein schlechter Witz! Hugo fordert klar
 >   
 > Grüße aus Wanne-Eickel,    
 > Hugo   
+
+## Die Betrüger bleiben hartnäckig
+
+Die Antwort kommt prompt: Die Betrüger beharren darauf, dass Hugo die 950 Euro zahlen muss, um seine Karte zu "aktivieren". Angeblich ist das "das einzige Geld", das jetzt noch überwiesen werden muss, bevor die Millionen endlich fließen. 
+
+> Achtung Hugo,  
+>    
+> Ich habe dir bereits gesagt, wofür diese 950 Euro sind, und wir verwenden sie, um diese Karte zu aktivieren, bevor wir sie dir aushändigen können, und es ist das einzige Geld, das du jetzt aussendest, also können wir dir dein Geld senden, nachdem dies bezahlt wurde, und deine Karte wird aktiviert und sie wird dir nach der Zahlung ausgehändigt.  
+
+### Hugo bleibt dran und fordert ein neues Foto
+
+Hugo lässt sich nicht so leicht abspeisen – und schon gar nicht mit einem unscharfen Bild von einem vermeintlichen Briefumschlag. Er bleibt hartnäckig und stellt klare Forderungen: Die Betrüger sollen ein neues, überzeugendes Foto der Karte schicken, und außerdem die neuen Bankdaten bereitstellen.  
+
+> Hallo Herr Pavel,    
+>   
+> also ich versteh immer noch nich, warum ich jetzt 950 Euro zahlen soll, wo ich doch schon 410 Euro geschickt hab. Aber egal, schickt mir einfach die neue Bankverbindung, damit ich dat regeln kann.    
+>   
+> Aber mal ehrlich: Dat erste Foto von eurer Karte war richtig mies. Wenn ihr wollt, dass ich hier noch weiter mache, dann schickt mal ein vernünftiges Bild von der Karte – so, dass man auch sieht, dat dat Ding echt is.    
+>   
+> Also: Neue Kontodaten und ein gescheites Foto, dann geht’s weiter.    
+>   
+> Grüße aus Wanne-Eickel,    
+> Hugo   

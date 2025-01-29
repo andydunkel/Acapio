@@ -626,3 +626,43 @@ Einmal an Fexpress und dann schreiben wir natürlich noch der guten Arisha, dies
 > dein Hugo aus Hamburg
 
 
+## Fexpress verzweifelt: Wo ist das Geld?!
+
+Jetzt wird’s spannend! Fexpress schickt gleich zwei Nachrichten hintereinander – mit wachsender Ungeduld. Ihr angeblicher Bankagent ist „zweimal zur Bank gelaufen“, nur um dort immer wieder abgewiesen zu werden. Wir hoffen, das wir denen keine zu großen Umstände machen!
+
+**Die große Frage: Wo ist Hugos Geld?**
+
+![](/posts/2025-01-13_arisha-schuch-die-zweite/fexpress_konto_ungeduld.png)
+
+
+### Wir sagen die Bank sei schuld!
+
+Hugos Bank meldet sich und blockiert die Überweisung – Konto verdächtig, Fall gemeldet, Geld bleibt da. Hugo nutzt die Chance und schreibt Fexpress: **„This makes me uneasy, that this is not legit transaction!?!“**  
+
+Jetzt liegt der Ball  wieder bei Fexpress. 💼😂
+
+> Dear Fexpress,    
+>   
+> Hello, I have bad news. My bank informed me today that the payment was blocked due to a security check. They said the account was flagged as suspicious, and they reported it to the financial authorities. I received an official letter about this and made photo.    
+>   
+> Because of this, the money did not leave my account. This makes me uneasy, that this is not legit transaction!?!   
+>   
+> Concerned,  
+> Hugo Scholz    
+
+Dazu gibt es einen "Beweis" in Form eines Schreibens.
+
+![](/posts/2025-01-13_arisha-schuch-die-zweite/kontosperre.webp)
+
+### Mail an Arisha, Hugo ist zerknirscht!
+
+Natürlich schicken wir Arisha eine ähnliche E-Mail.
+
+> Hallo meine liebe Arisha,    
+>   
+> Ich habe schlechte Nachrichten und es tut mir wirklich leid, dir das sagen zu müssen. Meine Bank hat die Überweisung blockiert. Sie sagten, das Konto sei verdächtig und haben es an die Finanzaufsicht gemeldet. Ich weiß nicht, warum das passiert ist, und es macht mich wirklich fertig.    
+>   
+> Ich wollte dir doch helfen und alles richtig machen, aber jetzt steht alles still.  
+>   
+> Alles Liebe,    
+> dein Hugo    

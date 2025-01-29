@@ -49,3 +49,62 @@ Wir wollen uns die Chance nicht entgehen lassen und schreiben mal zurück. Natü
 >   
 > Mit heiligen Grüßen,    
 > Hugo  
+
+
+## Man spürt unsere Begeisterung!
+
+Klassischer Scam: Erst ein bisschen warme Worte, dann ein paar seriös aussehende Links (die tatsächlich zu legitimen Seiten führen) und schließlich die entscheidende Falle: Die Aufforderung, persönliche Daten samt Ausweiskopie zu übermitteln. Das ist ein eindeutiger Identitätsdiebstahlversuch!
+
+> Guten Tag,  
+>    
+> Vielen Dank für Ihre begeisterte Antwort! Wir freuen uns, dass Sie unsere Benachrichtigung erhalten haben und mehr über die Spende erfahren möchten.  
+>    
+> Wir freuen uns über Ihre herzlichen Grüße und senden Ihnen im Gegenzug unsere herzlichsten Grüße.  
+>    
+>   
+> Besuchen Sie die folgende Webseite; sehen und lesen Sie „Über die Spende an St. Antonios Kathedrale“.  
+>    
+> https://www.santantonio.org/en/content/st-anthonys-charities-donated-over-3-million-800-thousand-euros-2022-106-projects-over-40  
+>    
+> https://www.messengersaintanthony.com/content/our-charity-report  
+>    
+> Ich weiß, das klingt vielleicht wie ein Witz oder eine Falschmeldung, aber zweifeln Sie nicht daran, dass es zu 100 % echt und authentisch ist, wie Sie im obigen Link sehen können. Um den Zahlungsvorgang für diese 2.500.000 $-Spenden, die ausschließlich an Sie gespendet wurden, zu erleichtern, müssen Sie Ihre Daten eingeben, damit wir weiter vorgehen können.  
+>    
+> *Vollständiger Name:  
+> *Alter:  
+> *Wohnadresse:  
+> *Staat/Stadt:  
+> *Land:  
+> *Geschlecht:  
+> *Beruf:  
+> *Telefon:  
+> *Scan-Kopie des Personalausweises {Vorder- und Rückseite}:  
+>    
+> Nachdem die obigen Informationen ausgefüllt und zurückgesendet wurden, werden Ihnen weitere wichtige Details zugesandt. Sie werden hiermit gebeten, diese Informationen so lange privat und vertraulich zu behandeln, bis Sie Ihr Geld erhalten, wie andere Begünstigte, die ihre Spendengelder erfolgreich erhalten haben. Aus Sicherheitsgründen rate ich allen Gewinnern, diese Informationen vertraulich zu behandeln, bis Ihre Spende bearbeitet und Ihr Geld an Sie ausgezahlt wurde; dies ist Teil unserer Sicherheitsmaßnahme, um doppelte Ansprüche oder Identitätsbetrug zu vermeiden.  
+>    
+> Nochmals herzlichen Glückwunsch!  
+>    
+> Mit freundlichen Grüßen,  
+> Donald William  
+> St. Anthony Cathedral Charity®  
+> E-Mail: info@anthonycharities.org 
+
+
+### Hugo macht den Spaß mit!
+
+Nachdem Hugo aus Wanne-Eickel seine „offiziellen“ Daten samt hochwertigem Fake-Ausweis eingereicht hat, sind wir gespannt, wie die Betrüger reagieren. Werden sie nach weiteren Gebühren verlangen? Uns einen Scheck zusenden, der sich als wertlos entpuppt? Oder gar den Kontakt abbrechen, weil ihnen Hugos Identität doch etwas zu... sagen wir mal... **unseriös** erscheint?  
+
+> Hallo Donald,    
+>   
+> Dat nenn ich mal 'nen glücklichen Tag! 2,5 Millionen Dollar – meine Kumpels ausm BMW-Club Wanne-Eickel werden vor Neid erblassen! Ich freu mich schon, mit dem Geld ’ne neue Vereinsbude zu bauen, mit vergoldeten Zapfhähnen und ‘nem All-you-can-drink-Automaten!    
+>   
+> Hier sind meine Daten:   
+>   
+> FAKE DATEN  
+>   
+> Lass mich wissen, wie’s weitergeht – ich bin heiß auf die Kohle!    
+>   
+> Mit feuchtfröhlichen Grüßen,    
+> Hugo aus Wanne-Eickel    
+
+![Unser Fake Ausweis, leider haben wir keine Rückseite](/posts/2025-01-18_kredite-aller-art/ausweis.webp)

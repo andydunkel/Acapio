@@ -44,6 +44,41 @@ Natürlich kann Hugo nicht widerstehen, auf eine solche E-Mail zu reagieren – 
 > 😄  
 
 
-## Fazit
+## Es kommt doch noch eine Antwort! Und ein Ausweis!
 
-Wir waren wohl zu nassforsch und erhalten keine Antwort! 
+Eigentlich hatten wir keine Antwort mehr erwartet, aber nach zwei Tagen trudelt eine Antwort herein. Wir finden es wie immer positiv, wenn die Scammer auf Ehrlichkeit schwören und Betrügereien verteufeln. 
+
+Damit wir auch gleich vertrauen, ist eine Kopie des Ausweises beigefügt. Klar, sowas schickt man gleich mal durch die Gegend.
+
+> Hallo  
+>   
+> Wie geht es Ihnen heute? Ich habe Ihre E-Mail erhalten und verstehe vollkommen, dass Sie Angst haben oder so etwas oder Angst vor Betrug haben.  
+>   
+> Aber ich kann Ihnen versichern, dass dies 100 % legitim und echt ist. Wenn Sie mit ihnen zusammenarbeiten, werden Sie diese Spende erhalten und ich werde Sie nicht enttäuschen.  
+>   
+> Ich habe sogar in der Zeitung und im Fernsehen gelesen, dass Leute andere Leute betrügen und das macht mich so traurig.  
+>   
+> Ich spende an Sie, weil ich möchte, dass Sie diese Spende verwenden, um den Armen zu helfen und sie sinnvoll einzusetzen. Das kann ich Ihnen versichern und das ist die Wahrheit, ich schwöre bei meinem Namen.  
+>   
+> Und hier ist auch ein Link zu meinem Spendengewinn.. also ist diese Spende 100 % legitim..  
+> https://www.cnbc.com/2019/06/05/344-million-powerball-winner-picked-his-numbers-from-a-fortune-cookie.html  
+>   
+> Zuletzt habe ich auch meinen Ausweis angehängt.  
+>   
+> Bitte lassen Sie mich wissen, ob Sie fortfahren möchten.  
+>   
+> Ich warte auf Ihre Antwort, damit ich weiß, ob wir fortfahren können..  
+>   
+> Ich werde Sie nicht enttäuschen..  
+>   
+> Grüße  
+> Charles  
+
+
+### Der Ausweis!
+
+Der Ausweis sieht hochgegradig mit Photoshop erstellt aus!
+
+![](/posts/2025-01-28-charles-jackson/ausweis.webp)
+
+

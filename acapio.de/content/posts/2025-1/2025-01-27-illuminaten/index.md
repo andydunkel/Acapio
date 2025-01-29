@@ -97,3 +97,45 @@ Natürlich haben wir die Einladung der Illuminaten ernst genommen! Wir bringen d
 >   
 > Mit öligen Grüßen,    
 > Hugo aus Wanne-Eickel    
+
+## Die große Offenbarung: Millionen und Golf für Hugo  
+
+Die Illuminaten haben Hugos Bewerbung angenommen! Als Begrüßungsgeschenk winken **2.000.000 Dollar**, ein exklusives **Golf-Mitgliedschaftspaket** und lebenswichtige „Verbindungen“ zur Weltelite.  
+
+Doch es gibt Bedingungen: Hugo muss loyal sein, an geheimen Meetings teilnehmen und dem „großen Meister“ gefallen. Die Auszahlung gibt’s natürlich erst nach dem mysteriösen Mitgliedschaftsprozess.  
+
+Jetzt wollen die Illuminaten wissen, ob Hugo weitermachen will!
+
+
+> Ihre Bewerbungsinformationen sind eingegangen. Wir möchten, dass Sie verstehen, dass eine Mitgliedschaft Ihnen und Ihrer Familie und Ihren Lieben hilft, Ihre Träume und Ziele zu erreichen. Nachfolgend aufgeführt: Vorteile und Belohnungen, die neuen Mitgliedern gewährt werden, die der Illuminati-Gesellschaft beitreten.  
+>    
+> 1) Eine Barprämie von 2.000.000,00 $: Diese Absicht besteht darin, Ihren finanziellen Status als neues Elite Illuminati Mitglied zu schaffen. Sie können diese Zahlung erst erhalten, wenn Sie den Mitgliedschaftsprozess abgeschlossen haben.  
+>    
+> 2) Ein Jahr Golf-Mitgliedschaftspaket.  
+>    
+> 3) Einer der grundlegenden Vorteile eines Mitglieds der Illuminati besteht darin, sich selbst mit Verbindungen zu versorgen. Das heißt, sobald Sie Mitglied sind, haben Sie die Möglichkeit, sich mit anderen Top-Elite-Mitgliedern zu treffen in  
+> in jedem Land, in dem Sie sich befinden, für Verbindungen zu Ihrem Geschäft, politischen Verbindungen, guten musikalischen Verbindungen und Ihren Jobs usw.  
+>    
+> 4) Monatlicher Zuschuss auf Ihr Bankkonto als gesetzliches Mitglied.  
+>    
+> Für euch ist es so einfach, Mitglied zu werden, aber ihr müsst die notwendigen Dinge tun und arrangieren, die der große Meister für euch brauchte, um ein vollwertiges Mitglied der großen Illuminati-Gesellschaft zu werden.  
+>    
+> Ein neu geworbener Mitgliedschaftsvorteil in Höhe von 2.000.000,00 USD, wie oben erwähnt, wird Ihnen zugesandt, sobald Sie als Vollmitglied bestätigt wurden, um Sie finanziell für Ihr erstes Einführungstreffen mit anderen unserer Elite-Mitglieder in Ihrer Landeshauptstadt aufzubauen. Unsere Treffen finden jeden letzten Samstag im Monat statt; Sie müssen loyal, bescheiden und ehrlich zu Führungskräften sein und immer an Meetings teilnehmen. Sobald eure Mitgliedschaft bestätigt wurde und das Geld an euch überwiesen wurde, werden wir euch über euren Treffpunkt, die Uhrzeit und das Datum als neu geworbenes Mitglied informieren, damit ihr andere Mitglieder der Illuminati treffen könnt.  
+>    
+> Wir warten auf eure Antwort, die uns darüber informiert, ob wir fortfahren sollten, um euch die Geschäftsbedingungen der großartigen Illuminati-Gesellschaft zukommen zu lassen. Bitte melden Sie sich umgehend bei uns  
+
+### Hugo macht mit!
+
+Hugo lässt sich die Chance auf 2.000.000 Dollar natürlich nicht entgehen – aber irgendwo muss man ja Grenzen ziehen. Eine **Golf-Mitgliedschaft? In Wolfsburg?!** Das geht gar nicht! Was würden die Jungs im BMW-Club denken?  
+
+Trotz dieser kleinen Differenzen zeigt sich Hugo offen für eine Mitgliedschaft! 
+
+
+> Sehr geehrte große Illuminati-Gesellschaft,    
+>   
+> vielen Dank für eure großzügigen Angebote. Die 2.000.000 Dollar klingen verlockend, und wir haben definitiv Interesse. Allerdings müssen wir ehrlich sein – eine Golf-Mitgliedschaft dat geht nicht, was wollen meine Kumpels im BMW Club denken, wenn ich mit so Kram aus Wolfsburg ankomme?  
+>   
+> Lasst uns wissen, wie es weitergeht. Wir sind gespannt!    
+>   
+> Mit öligen Grüßen,    
+> Hugo aus Wanne-Eickel    
