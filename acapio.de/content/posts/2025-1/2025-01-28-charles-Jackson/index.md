@@ -82,3 +82,24 @@ Der Ausweis sieht hochgegradig mit Photoshop erstellt aus!
 ![](/posts/2025-01-28-charles-jackson/ausweis.webp)
 
 
+### Hugos Antwort: Höflich, aber nicht leichtgläubig  
+
+Hugo aus Wanne-Eickel reagiert mit einer Mischung aus Höflichkeit und Skepsis. Warum gerade er? Wie soll die Spende ablaufen?
+
+> Hallo Herr Jackson,  
+>   
+> vielen Dank für Ihre ausführliche Antwort und den beigelegten Ausweis. Es ist immer beruhigend, wenn jemand so viel Mühe investiert, um Vertrauen aufzubauen. Der Link zur CNBC-Seite war ebenfalls eine nette Geste – es ist schön zu sehen, dass es in der Welt auch echte Gewinner gibt.  
+>   
+> Allerdings muss ich gestehen, dass ich trotz Ihrer Beteuerungen noch ein wenig skeptisch bin. Sie können sicher nachvollziehen, dass solche großzügigen Angebote selten ohne Hintergedanken kommen. Gerade in Zeiten, in denen Betrügereien so weit verbreitet sind, ist Vorsicht geboten.  
+>   
+> Daher würde ich Sie bitten, noch ein wenig mehr Klarheit zu schaffen:  
+>   
+> Warum haben Sie ausgerechnet mich ausgewählt? Es gibt schließlich viele Menschen, die Ihre Hilfe sicher ebenso zu schätzen wüssten.  
+> Wie soll die Übergabe der Spende genau ablaufen? Ich möchte sicherstellen, dass alles transparent und nachvollziehbar ist.  
+>   
+> Bitte verstehen Sie, dass ich solche Fragen nur stelle, weil ich sicherstellen möchte, dass alles mit rechten Dingen zugeht. Ich bin sicher, dass Sie das nachvollziehen können, da Sie selbst darauf hingewiesen haben, wie traurig Sie Betrügereien machen.  
+>   
+> Ich freue mich auf Ihre Antwort, um mögliche Missverständnisse auszuräumen.  
+>   
+> Beste Grüße,  
+> Hugo aus Wanne-Eickel  

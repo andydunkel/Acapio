@@ -110,3 +110,34 @@ Jetzt wird es ernst, wir wollen ja keinen echten Ausweis fälschen, also erstell
 
 ![Unser Ausweis](/posts/2025-01-18_kredite-aller-art/ausweis.webp)
 
+
+
+## Es wird konkret
+
+Super, unser Ausweis wurde akzeptiert und wir bekommen eine weitere Info. Jetzt müssen wir nur noch zustimmen!
+
+> Wie geht es Ihnen heute? Ich hoffe, Sie sind bei guter Gesundheit.  
+>   
+> Ich habe Ihren Personalausweis erhalten und werde ihn bis morgen früh an unser Kreditgenehmigungszentrum weiterleiten. Andererseits müssen Sie die 450 Euro für die Kreditregistrierung und den Genehmigungsprozess so schnell wie möglich überweisen.  
+>   
+> Ich werde auch per WhatsApp mit Ihnen kommunizieren, um eine schnelle Antwort zu erhalten.  
+>   
+> Soll ich Ihnen die Zahlungsinformationen zur Zahlung zusenden?  
+>   
+> Wir warten auf Ihre Antwort.  
+
+### Wir gehen auf das Angebot ein!
+
+Natürlich antworten wir uns gehen gerne auf das Angebot ein!
+
+> Sehr geehrter Herr Lucas,    
+>   
+> vielen Dank für Ihre schnelle Rückmeldung. Es freut mich zu hören, dass mein Antrag bearbeitet wird und mein Ausweis in Ihrem Kreditgenehmigungszentrum geprüft wird.    
+>   
+> Ich bin bereit, die 450 Euro für die Kreditregistrierung und den Genehmigungsprozess zu überweisen. Bitte senden Sie mir die Zahlungsinformationen sowie die bevorzugte Zahlungsmethode, damit ich die Überweisung so schnell wie möglich durchführen kann.    
+>   
+> Ich freue mich auf Ihre Rückmeldung und darauf, den Kredit bald zu erhalten.    
+>   
+> Mit freundlichen Grüßen    
+> Hugo  
+> BMW-Club Wanne-Eickel – Immer auf Achse!    

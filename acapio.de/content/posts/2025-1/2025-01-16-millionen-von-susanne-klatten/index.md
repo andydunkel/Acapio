@@ -174,3 +174,33 @@ Jetzt wird’s ernst: Die „Rabobank“ liefert uns die Zahlungsdetails – ink
 Hugo lässt sich nicht lumpen und bestätigt der „Rabobank“ freudig, dass er die 558 € überwiesen hat. Natürlich nicht ohne einen „Zahlungsbeleg“, der so überzeugend aussieht, dass man ihn glatt neben einen echten drucken könnte – auf dem Nadeldrucker aus der E-Mail von Frau Nehls.
 
 ![Wir haben, hust, gezahlt](/posts/2025-01-16_susanne-klatten-schenkt-millionen/zahlung.webp)
+
+## Das Geld kommt nicht an!
+
+Die vermeintliche Bank wird schnell ungeduldig und moniert, dass keine Kohle ankam.
+
+> Hallo, guten Morgen, wir möchten Sie darüber informieren, dass die Zahlung noch nicht eingegangen ist und wir dies nicht wissen. Wir benötigen dringend eine Antwort von Ihnen, dann wissen wir, wie 
+wir vorgehen müssen.  
+
+Da wir nicht schnell genug reagieren, geht es gleich weiter. 
+
+> Guten Abend, wir möchten Ihre Karte an Ihre Adresse schicken. Aber wir müssen wissen, ob das Geld auf Ihr Konto zurückgezahlt wurde. Wenn ja, antworten Sie auf diese Nachricht. Dann sagen wir Ihnen, warum und was als nächstes zu tun ist, da das Geld auf Ihr Bankkonto zurückgezahlt wurde. Dringende 
+Antwort erforderlich.  
+
+### Die Überweisung wurde gesperrt!
+
+Da wir gestern der [Arisha bereits von einer Kontosperre](/posts/2025-01-13_arisha-schuch-die-zweite/) erzählt haben, verwenden wir die Vorlage einfach nochmal. Schauen wir, wie die Scammer hier drauf reagieren. 
+
+> Sehr geehrte Frau Nehls,  
+>   
+> ich bin etwas verwirrt. Soeben habe ich ein Schreiben von meiner Bank erhalten, das besagt, dass eine verdächtige Transaktion auf mein Konto gemeldet wurde.  
+>   
+> Können Sie mir bitte erklären, wie das sein kann? Steckt hier etwa eine Masche dahinter, oder versucht jemand, mich zu täuschen? Ich hoffe doch sehr, dass ich mich auf Sie verlassen kann und es sich hierbei lediglich um ein Missverständnis handelt.  
+>   
+> Falls Sie doch andere Absichten haben sollten, würde ich vorschlagen, dass wir die Sache direkt klären, bevor ich mich an die Behörden wende. Ich bin sicher, wir können das professionell lösen.  
+>   
+> Mit freundlichen Grüßen,  
+> Hugo   
+
+
+![](/posts/2025-01-13_arisha-schuch-die-zweite/kontosperre.webp)

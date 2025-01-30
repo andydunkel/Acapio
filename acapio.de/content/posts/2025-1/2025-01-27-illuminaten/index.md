@@ -139,3 +139,25 @@ Trotz dieser kleinen Differenzen zeigt sich Hugo offen für eine Mitgliedschaft!
 >   
 > Mit öligen Grüßen,    
 > Hugo aus Wanne-Eickel    
+
+
+## Jetzt wird’s ernst: Hugo soll zahlen  
+
+Die Illuminaten lassen keinen Zweifel an ihrer Echtheit – **100% Garantie**! Hugo soll nun die **Mitgliedskarte bezahlen**, damit der Geldsegen von 2 Millionen Dollar endlich fließen kann. Das klingt ja fast zu schön, um wahr zu sein … oder eher nach dem Klassiker aller Betrugsmaschen.  
+
+Interessant ist, dass sie immer noch auf der **Golf-Mitgliedschaft** bestehen. Anscheinend ist Golf ein unverzichtbarer Bestandteil der Erleuchtung – selbst für jemanden aus dem **BMW-Club Wanne-Eickel**.  
+
+> Hallo Hugo,  
+> Ich möchte, dass ihr wisst, dass das, was die Illuminaten gesagt haben, zu 100% ist und dass ihr nicht an dieser Bruderschaft zweifeln müsst. Die Golf-Mitgliedschaft ist eine 100%ige Garantie und alles, was Sie jetzt tun müssen, ist, die Mitgliedskarte zu bezahlen, damit wir fortfahren können. Sobald Sie für die Registrierung bezahlt haben, werden wir zur Bank gehen, um die Auszahlung der 2 Millionen vorzunehmen und auch mit der Einleitung fortzufahren. Bitte melden Sie sich jetzt bei uns, um Verzögerungen zu vermeiden    
+
+
+### Hugo stellt die entscheidende Frage  
+
+Jetzt wird’s spannend: Hugo ist bereit für Reichtum und Ruhm – aber warum unnötige Umwege gehen? **Warum nicht einfach die Mitgliedsgebühr direkt von den 2 Millionen abziehen?** Weniger Bürokratie, schnellerer Zugang zur erleuchteten Elite – eine Win-win-Situation!
+
+> Sehr geehrte große Illuminati-Gesellschaft,    
+>   
+> vielen Dank für die schnelle Rückmeldung. Ich bin begeistert, dass alles **100% garantiert** ist – das gibt mir natürlich Sicherheit! Allerdings habe ich da noch eine kleine Frage: Kann ich die Gebühr für die Mitgliedskarte vielleicht direkt von den 2 Millionen abziehen? Dann hätten wir weniger Bürokratie und könnten direkt loslegen.    
+>   
+> Mit öligen Grüßen,    
+> Hugo aus Wanne-Eickel    

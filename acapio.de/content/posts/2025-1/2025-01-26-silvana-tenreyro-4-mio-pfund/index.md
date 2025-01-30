@@ -157,3 +157,25 @@ Ein kurzer Blick auf die Fakten: Anne ist eine stolze Anhängerin des Fliegenden
 >   
 > Mit freundlichen Grüßen,    
 > Anne  
+
+
+## Silvana will den Ausweis sehen
+
+Jetzt wird es ernst, unsere Daten dem "Fliegendes Spaghetti Monster" haben keine Verdacht geschöpft, aber jetzt will die Dame unseren Ausweis sehen.
+
+> Hallo Anne,  
+>   
+> Sie müssen eine Kopie Ihres Personalausweises, Führerscheins oder Reisepasses einsenden. Diese Kopie Ihres Personalausweises und die bereitgestellten Informationen benötigt der Anwalt, um alle erforderlichen Unterlagen fertigzustellen und eine vertrauensvolle Beziehung zwischen uns beiden aufzubauen.  
+>   
+> Grüße  
+> Silvana Tenreyro  
+
+
+### Wir erstellen einen Ausweis
+
+Wie gehabt verwenden wir den großartigen Generator von [OnlineWahn.de](https://www.onlinewahn.de/generator/) in Verbindung mit der Twitter KI für unser Passfoto.
+
+![](/posts/2025-01-26-silvana-tenreyro-4-mio-pfund/ausweis_anne.webp)
+
+Den senden wir zu und schauen was passiert!
+

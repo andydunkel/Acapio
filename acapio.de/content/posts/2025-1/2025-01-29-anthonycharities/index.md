@@ -108,3 +108,66 @@ Nachdem Hugo aus Wanne-Eickel seine „offiziellen“ Daten samt hochwertigem Fa
 > Hugo aus Wanne-Eickel    
 
 ![Unser Fake Ausweis, leider haben wir keine Rückseite](/posts/2025-01-18_kredite-aller-art/ausweis.webp)
+
+
+## Wir wurden verifiziert
+
+Die Betrüger haben Hugos Fake-Daten offenbar ohne Verdacht geschluckt und steigern das Ganze mit noch mehr pseudorechtlichem Blabla. 
+
+Typisch: Jetzt wird ein „Vermittler“ ins Spiel gebracht – ein gewisser Barr. George Southgate, angeblich ein Anwalt, der sich um die Auszahlung kümmern soll. Dazu soll Hugo weitere persönliche Daten, insbesondere Bankverbindungen und einen Scan des Ausweises, einreichen.
+
+> Sehr geehrte  Hugo  ,  
+>   
+> Wir haben Ihre E-Mail erhalten. Nachdem wir sie gelesen und Ihre Zuverlässigkeit bestätigt haben, schätzen wir Ihr Interesse an diesem Projekt zur Unterstützung der Menschheit aufrichtig. Nach einer kurzen Beschreibung Ihrer Person sind wir uns jedoch Ihrer Bereitschaft, Vertrauenswürdigkeit und Ihres Engagements zur Durchführung dieser Transaktion sicher. Wir können es uns nicht leisten, diese Tugenden zu kompromittieren. Angesichts der Höhe des Betrags ist es für uns notwendig, uns der Person sicher zu sein, der wir diese Transaktion anvertrauen, und wir arbeiten gerne mit Ihnen zusammen, um die Quelle und Überprüfung zu ermitteln.  
+>   
+> Ihr Name, Ihre E-Mail-Adresse, Ihr Land und alle von Ihnen angegebenen Daten sind wahr und der Scheck, der in Ihrem Namen zur Auszahlung an Sie durch unsere Bank ausgestellt wurde, wurde eingeleitet und die Abteilung für internationale Banküberweisungen erwartet in Zusammenarbeit mit Barr eine Bestätigungs-E-Mail von Ihnen. George Southgate ist für die Ausstellung aller rechtlichen Belege dieser Stiftung verantwortlich und vertritt die Stiftung auch als Vermittler, da es sich um eine riesige Summe Geld handelt, die für Projekte ausgegeben wird und der Menschheit helfen soll. Ein Teil davon ist für Sie und Ihre Familie, sodass er zu diesem Zweck als Vermittler zur Bank fungiert und die Auszahlung für Sie abwickelt. (Eine Vermittlerbank ist auch ein Mittelsmann zwischen einer ausstellenden Bank und einer empfangenden Bank, manchmal in verschiedenen Ländern. Eine Vermittlerbank wird oft benötigt, wenn internationale Überweisungen zwischen zwei Banken erfolgen, oft in verschiedenen Ländern.) Er bearbeitet also Ihre Ansprüche auf die erfolgreiche Auszahlung unserer Spende an Sie als einen der Begünstigten { Hugo Scholz  } und überträgt Ihnen das Eigentumsrecht an dem Betrag, den wir Ihnen und Ihrer Familie zugesprochen haben, sodass Sie das Geld einfordern können.  
+>   
+> Dieser 500.000 € schwere Hilfsfonds ist eine Strategie zur Wiederbelebung der Wirtschaft und zur Verbesserung der Welt, um Einzelpersonen und Unternehmen in dieser schwierigsten Zeit der Welt zu unterstützen. Das Geld wird Ihnen, Ihrer Familie und Ihrem Projekt in Ihrer Gemeinde sehr helfen.  
+>   
+> Senden Sie bitte einen Scan Ihres Reisepasses/Personalausweises und Ihrer Bankdaten per E-Mail an die folgende Kontaktadresse:  
+>   
+> SHEPHERD LIGHT & CO SOLICITORS  
+> Name: Barr. George Southgate  
+> E-Mail: sls.firm@consultant.com  
+> Tel.: +1-350-204-4106  
+> Referenz: FPC/HBW/25/EU  
+>   
+> Damit wir Ihren Auszahlungsantrag mit dem Team der Rechtsabteilung bezüglich der Auszahlungsoptionen von 2.500.000,00 € bearbeiten können, stellt der beauftragte Anwalt der Kanzlei (E-Mail: sls.firm@consultant.com) Ihre Anspruchsbescheinigung über die Ihnen zugesprochenen 2.500.000,00 € aus und gibt Ihre Referenznummer (FPC/HBW/25/EU) an. Damit wird vollständig bestätigt, dass Sie der neue Begünstigte dieser Mittel sind, die Ihnen von Ihrem Wohltäter Facebook International Lottery Consortium zur Verfügung gestellt wurden.  
+>   
+> Wir wünschen Ihnen und Ihrer Familie zeitlose Schätze, die Wärme eines Zuhauses, die Liebe der Familie und die Gesellschaft guter Freunde. Bitte erinnern Sie uns daran, dass Sie Barr geschickt haben. George Southgate eine E-Mail mit der oben angegebenen E-Mail-Adresse, da wir Ihnen dazu geraten haben.  
+>   
+> Vielen Dank, wir freuen uns auf Ihre Nachricht.  
+>   
+> Mit freundlichen Grüßen,  
+> Donald William  
+> Kathedrale des Heiligen Antonius  
+
+
+### Wir schreiben Barr. George Southgate - sls.firm@consultant.com
+
+Nachdem Donald William die großzügige Spende angekündigt hatte, mussten wir natürlich dem „offiziellen Anwalt“ schreiben. Der edle **Barr. George Southgate** von der Kanzlei *Shepherd Light & Co Solicitors* soll nun die Auszahlung unserer 2,5 Millionen Euro regeln. 
+
+Unsere bisherigen Erfahrungen mit Scammern zeigen: Spätestens jetzt kommt die **Vorschussbetrugs-Falle**. Also irgendein „Gebühren“-Betrag, der für „Dokumente“, „Bankverifizierung“ oder „Anwaltskosten“ überwiesen werden muss – natürlich an irgendeine dubiose Zahlungsmethode, die nicht zurückverfolgbar ist.
+
+> Sehr geehrter Herr Southgate,    
+>   
+> ich wurde von Herrn Donald William an Sie verwiesen, um die mir zugesprochene Spende in Höhe von 2.500.000,00 € abzurufen. Ich freue mich sehr über diese großzügige Unterstützung und möchte die Auszahlung nun so schnell wie möglich veranlassen.    
+>   
+> Hier meine Daten gemäß Ihrer Anfrage:    
+>   
+> Referenznummer: FPC/HBW/25/EU    
+> Vollständiger Name: Hugo  XXXXXXXX    
+> Alter: 49    
+> Wohnadresse: XXXXXXXX  
+> Staat/Stadt: Hamburg    
+> Land: Deutschland    
+> Geschlecht: Männlich    
+> Beruf: Fahrer    
+> Telefon: +49 176 79864134    
+>   
+> Bitte teilen Sie mir mit, welche weiteren Schritte erforderlich sind, damit die Auszahlung so schnell wie möglich erfolgen kann. Da ich beruflich viel unterwegs bin, wäre es ideal, wenn ich das Geld bar entgegennehmen oder auf ein alternatives Konto überweisen lassen könnte.    
+>   
+> Vielen Dank im Voraus für Ihre Mühe. Ich freue mich auf Ihre baldige Rückmeldung!    
+>   
+> Mit freundlichen Grüßen,    
+> Hugo    

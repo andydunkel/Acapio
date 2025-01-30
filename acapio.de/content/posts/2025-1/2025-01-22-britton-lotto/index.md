@@ -348,3 +348,22 @@ Hugo lässt sich nicht so leicht abspeisen – und schon gar nicht mit einem uns
 >   
 > Grüße aus Wanne-Eickel,    
 > Hugo   
+
+
+## Wells Fargo die Zweite!
+
+Weiter geht es, auf die Zusendung des Fotos wird locker drüberweg gegangen, dafür gibt es eine neue Bankverbindung, welche wir auch gleich mal an Wells Fargo melden. Um etwas Zeit zu schinden, schreiben wir, dass wir das Geld schnellstmöglich überweisen werden! Aber es wird dann wohl erst morgen!
+
+> Achtung Hugo,  
+>    
+> Wir haben Ihre Bankkarte bereits an den Zustelldienst geschickt und was Sie jetzt noch tun müssen, ist, die Zahlung auf dieses neue Konto zu überweisen. Sobald wir sie erhalten haben, wird Ihre Bankkarte in wenigen Stunden an Ihre Haustür geliefert. Hier sind die neuen Bankdaten, die Sie zum Senden der Zahlung verwenden werden. Sobald Sie sie abgeschickt haben, müssen Sie eine Kopie davon senden und sobald wir sie erhalten haben, wird Ihre Bankkarte an Ihre Haustür geliefert.  
+>    
+> Name der Bank: Wells Fargo  
+>    
+> Kontonummer: 6109138229  
+> Kontotyp: Girokonto  
+> Inhaber: Deana L Baker  
+> Bankleitzahl: 111900659  
+>    
+> Adresse der Bank: 420 Montgomery Street San Francisco, CA 94104  
+> Adresse des Empfängers: 3925 N 1 st Ave Apt 104 Durant Ok 74701  

@@ -208,3 +208,29 @@ Doch unser Ruhrpott-Held bleibt cool und erklärt freundlich, dass alles nur an 
 > 
 > Beste Grüße,  
 > Hugo Stahlkeil 
+
+
+## 9 Tage Pause
+
+Wir bekommen erstmal keine Antwort. Aber dann, nach 9 Tagen kommt eine neue E-Mail! Die Betrüger sind zurück – **und sie haben anscheinend ihre „Enttäuschung“ überwunden**. 
+
+> Entschuldigen Sie die Verzögerung.  
+>   
+> Ich möchte Sie wissen lassen, dass alles erledigt ist und niemand Ihr Geld sperren wird. Das ist der Hauptgrund, warum Sie bei uns ein Online-Konto eröffnen.  
+>   
+> Und ich möchte Sie auch wissen lassen, dass wir Ihnen nach Eröffnung dieses Kontos eine ATM MASTER CARD ausstellen und zusenden werden.  
+>   
+> Sie müssen sich also um nichts kümmern. Das Einzige, worüber Sie sich jetzt Sorgen machen müssen, ist die Zahlung von 690 Euro, okay?  
+>   
+> Bitte melden Sie sich jetzt bei mir, damit ich Ihnen die Zahlungsinformationen geben kann, wie Sie die Zahlung vornehmen können.  
+
+**Jetzt können wir doch noch zahlen und wir fordern die Daten gerne an:**
+
+> Hallo Herr Hyland,    
+>   
+> alles klar, ich bin bereit, die Zahlung zu leisten, damit wir das endlich abschließen können. Bitte schicken Sie mir die genauen Zahlungsdetails – also wohin ich das Geld überweisen soll, welche Referenz ich angeben muss und ob es eine Bestätigung gibt, die ich nach der Zahlung erhalte.    
+>   
+> Ich will sichergehen, dass alles korrekt läuft und keine Verzögerungen entstehen. Lassen Sie mich wissen, wie wir das am besten abwickeln.    
+>   
+> Beste Grüße,    
+> Hugo    
