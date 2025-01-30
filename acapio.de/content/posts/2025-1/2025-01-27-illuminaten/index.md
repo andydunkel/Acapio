@@ -161,3 +161,16 @@ Jetzt wird’s spannend: Hugo ist bereit für Reichtum und Ruhm – aber warum u
 >   
 > Mit öligen Grüßen,    
 > Hugo aus Wanne-Eickel    
+
+
+## Die Illuminaten bestehen auf die Gebühr  
+
+Hugo hat’s versucht – aber die Illuminaten bleiben hart. **„Es gibt keine Möglichkeit“**, die Gebühr von den 2 Millionen abzuziehen. Schließlich geht es um den „ordnungsgemäßen Prozess“ und darum, zu beweisen, **wie ernst es ihm mit der Mitgliedschaft ist**. 
+
+Jetzt wird es interessant: **Die Illuminaten wollen Hugos WhatsApp-Nummer.** Vermutlich für eine schnelle Erleuchtung per Sprachnachricht? Oder doch nur ein weiterer Versuch, ihn in die Falle zu locken?  
+
+> Es gibt keine Möglichkeit, dass die Mitgliedskarte vom Geld abgezogen werden kann, weil wir uns an den ordnungsgemäßen Prozess dieser großartigen Gesellschaft halten müssen. Diese Mitgliedskarte dient dazu, zu wissen, wie ernst es euch ist, dieser großartigen Illuminaten-Gesellschaft beizutreten.  
+>   
+> Wir werden auch gerne mit Ihnen sprechen oh Telefon und senden uns bitte Ihre WhatsApp-Nummer für eine schnelle Kommunikation. Ich warte darauf, bald von Ihnen zu hören  
+
+Nagut, wir knicken ein uns fragen nach der Bankverbindung!

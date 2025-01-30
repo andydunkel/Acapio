@@ -668,9 +668,65 @@ Natürlich schicken wir Arisha eine ähnliche E-Mail.
 > dein Hugo    
 
 
-## Fexpress gibt dem Betreff die Schuld
+### Fexpress hat eine Ausrede: Trackingnummer als Zahlungsgrund? Wirklich? 
+
+Jetzt wird’s absurd: Laut Fexpress ist der Grund für die blockierte Zahlung nicht das verdächtige Konto, sondern Hugos „falscher“ Verwendungszweck – er habe die **Trackingnummer** als Zahlungsgrund angegeben. Na klar, weil das ja bei Banken weltweit sofort Alarm auslöst...  
+
+Fexpress bietet direkt an, ein neues Konto bereitzustellen!
 
 
 > We at Fexpress, a security diplomatic delivery company, are to inform you that we have received your message and well understand that you use your tracking number as the purpose of payment, which you don't suppose to use it, and nothing happened to the account, but you use the wrong purpose of payment for the payment. That is all.  
 >   
 > Meanwhile, let us know if we should give you another bank account for the payment, and you will not use your tracking number for the purpose of payment again so that we can deliver your luggage to you this Saturday.  
+
+Natürlich gehen wir darauf ein, aber geben uns etwas irritiert per E-Mail:
+
+> Dear Fexpress,  
+>   
+> Hello, I read your message, and now I am very confused. You say I used the wrong purpose of payment? My bank told me they blocked the payment because the account was flagged as suspicious, not because of the tracking number.  
+>   
+> If you really think the issue is only with the purpose of payment, please send me another account and clear instructions on how to send the payment properly. I want to make sure there are no more problems.  
+>   
+> Let me know quickly, as I want this resolved as soon as possible.  
+>   
+> Best regards,  
+> Hugo  
+
+### Arisha fleht weiter: Liebe, Vertrauen und immer neue Ausreden
+
+Arisha hat wieder geschrieben – und dieses Mal lässt sie nichts aus: Gefühle, Schwüre und Lobeshymnen auf die Frachtfirma. Sie betont erneut, wie vertrauenswürdig das Unternehmen ist und dass zwei ihrer Kollegen erfolgreich ihre Koffer nach China und Australien geliefert haben. **„Ich schwöre bei meinem Leben, dass du es nie bereuen wirst!“** – die Dramatik ist auf ihrem Höhepunkt.  
+
+Ihr Fokus bleibt klar: Hugo soll sofort die neuen Zahlungsinformationen anfordern und die Zahlung leisten, damit die Lieferung endlich abgeschlossen werden kann. 
+
+> Guten Morgen, Liebling. Hugo, wie geht es dir heute und wie war deine Nacht? Ich hoffe, du hast letzte Nacht gut geschlafen. Ich habe deine Nachrichten gestern gesehen, als ich meinen Nachtdienst machen musste, und habe schnell an die Spedition geschrieben. Ich warte auf eine Antwort, bevor ich dir schreibe, denn ich möchte das Hauptproblem wissen, denn zwei meiner Kollegen nutzen diese Firma, um ihr Gepäck nach China und Australien zu liefern. Deshalb habe ich sie genutzt, weil sie hier in Syrien eine große Firma sind und mit dem Roten Kreuz zusammenarbeiten.  
+>   
+> In der Zwischenzeit, mein Liebling Hugo, musst du verstehen, dass dies eine Spedition ist und sie möglicherweise viele Gepäckstücke haben, die an verschiedene Ziele geliefert werden müssen, und sie möglicherweise das Konto für so viele Transaktionen verwenden. Laut der Spedition haben sie gesagt, dass die Transaktion aufgrund des Zahlungszwecks verzögert wurde, und sie sind bereit, dir auf Anfrage ein anderes Bankkonto für die Zahlung zu geben, und wie ich bereits sagte, möchte ich dich wissen lassen, dass diese Frachtfirma ein bekanntes, vertrauenswürdiges Unternehmen ist; außerdem haben zwei meiner Kollegen ihr Gepäck erfolgreich über dieses Frachtlieferunternehmen ausgeliefert bekommen.  
+>   
+> Bitte, mein Liebling, unserer Liebe, meinem Leben und unserer Zukunft zuliebe möchte ich, dass du dem Unternehmen jetzt schreibst und die Zahlungsinformationen anforderst. Laut ihnen wirst du die Sendungsnummer nicht noch einmal als Zahlungszweck verwenden, um eine weitere Verzögerung zu vermeiden, sodass du die Zahlung heute für die schnelle Lieferung leisten kannst, denn das ist das Einzige, was mich hier in Syrien aufhält, da ich geplant habe, dich dieses Wochenende in Hamburg zu treffen, und es war wirklich traurig, als ich gestern Abend deine Nachricht sah, als ich geplant hatte, dich dieses Wochenende zu treffen, aber ich glaube, dass Gott der Allmächtige das Beste für uns weiß, und ich weiß, dass es sich später in unseren Zeugnissen niederschlagen wird, wenn wir bald zusammen sind, um unsere Liebesgeschichten zu teilen.  
+>   
+> Bitte, Liebling, tu das, wenn du mich wirklich liebst. Denk daran, dass du meine einzige Hoffnung bist, die ich jetzt in Hamburg habe, und sie haben das Gepäck mit deinen Daten registriert, also lass mich in dieser letzten Minute nicht im Stich. Ich treffe auch meine Vorkehrungen, um wie geplant herzukommen. Kontaktieren Sie also bitte jetzt den Geschäftsführer des Unternehmens und sagen Sie ihm, er soll Ihnen Anweisungen geben, wie Sie die Zahlung an ihn leisten können, damit Ihnen die Sendung schnell zugestellt werden kann. Tun Sie das für mich, wenn Sie mich wirklich lieben und sich um mich sorgen, denn ich habe der Cargo Delivery Company vertraut, weil sie ein bekanntes Lieferunternehmen ist und hier in Syrien mit dem Roten Kreuz zusammenarbeitet. Bitte, meine Liebe.  
+>   
+> Ich warte auf die guten Nachrichten, sobald Sie die Zahlung an das Unternehmen heute leisten, damit wir beide bald in Hamburg glücklich sein werden, und ich verspreche Ihnen, dass Sie es nie bereuen werden, mir geholfen zu haben, und ich schwöre bei meinem Leben, dass Sie es nie bereuen werden, mir geholfen zu haben.  
+>   
+> Ich bin heute früh zurückgekommen, um auf Ihre Nachricht zu antworten, weil ich der Reederei geschrieben habe, bevor ich zu meinem Nachtdienst aufgebrochen bin, und ich habe auf Ihre Antwort gewartet, bevor ich Ihnen geschrieben habe. Bitte lassen Sie mich wissen, ob Sie jetzt online sind, bevor ich heute Morgen zu meinem Morgentraining gehe.  
+>   
+> Ich wünsche Ihnen einen schönen Arbeitstag.  
+>   
+> Ich liebe Sie mehr.  
+
+### Hugo hält die Treue!
+
+Hugo, der romantische Draufgänger aus Hamburg, bleibt standhaft – aber verständnisvoll. Er beruhigt Arisha, versichert ihr seine Unterstützung.
+
+> Hallo meine liebe Arisha,    
+>   
+> Vielen Dank für deine Nachricht. Es tut mir leid, dass ich dich mit meinen Zweifeln vielleicht traurig gemacht habe. Ich weiß, wie viel dir daran liegt, und ich schätze dein Vertrauen in mich wirklich sehr. Ich will dir helfen, und ich will, dass wir endlich zusammen sein können.    
+>   
+> Ich habe bereits an Fexpress geschrieben und nach einem neuen Konto gefragt, damit wir diese Zahlung endlich regeln können. Es tut mir einfach weh, dass das alles so kompliziert wird, obwohl wir doch beide nur zusammen sein wollen.    
+>   
+> Ich hoffe wirklich, dass das jetzt alles schnell geklärt wird und wir uns dieses Wochenende in Hamburg sehen können. Schreib mir bitte, wie deine Pläne aussehen, und ob alles bei dir in Ordnung ist. Ich denke ständig an dich und freue mich auf den Tag, an dem wir uns endlich in die Arme schließen können.    
+>   
+> Pass auf dich auf, meine Liebe, und bleib stark. Wir schaffen das zusammen!    
+>   
+> Alles Liebe,    
+> dein Hugo    

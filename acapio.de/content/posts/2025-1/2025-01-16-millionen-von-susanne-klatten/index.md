@@ -204,3 +204,26 @@ Da wir gestern der [Arisha bereits von einer Kontosperre](/posts/2025-01-13_aris
 
 
 ![](/posts/2025-01-13_arisha-schuch-die-zweite/kontosperre.webp)
+
+## Die Bank redet sich raus
+
+Wirklick zufrieden sind wir mit der Antwort nicht, zwar liegt der Fehler auf ihrer Seite, aber sonstige Erklärungen bleiben aus.
+
+> Hallo, das Missverständnis tut uns sehr leid. Das Thema Konto hat sich geklärt, es war überhaupt nicht Ihr Problem. Nun möchten wir Sie bitten, die Überweisung noch einmal auf das Bankkonto zu tätigen und uns den Beleg zusammen mit Ihrer Privatadresse zuzusenden, damit wir Ihnen Ihre Spendenkarte schnellstmöglich zusenden können. Wir brauchen jetzt dringend eine Antwort.  
+
+### Hugo verlangt Klarheit  
+
+Hugo lässt sich nicht hetzen. Nach dem vermeintlichen Missverständnis wünscht er sich nun endlich ein vernünftiges Schreiben – mit Firmenbriefkopf und Logo, versteht sich. Schließlich will man bei solch einer Millionenüberweisung keine Fehler machen. Hugo bleibt höflich, aber bestimmt, und wartet auf eine ordentliche Bestätigung. 
+
+Ob die „Rabobank“ wohl einen Laserdrucker auftreiben kann? 😏
+
+> Sehr geehrte Frau Nehls,  
+>   
+> vielen Dank für die schnelle Rückmeldung und die Klärung des Missverständnisses. Ich bin erleichtert, dass es nicht an mir lag – solche Situationen können ja wirklich stressig sein, besonders wenn es um Millionen geht.  
+>   
+> Bevor ich die Überweisung erneut tätige, habe ich allerdings noch eine Frage: Könnten Sie mir bitte eine schriftliche Bestätigung mit Ihrem offiziellen Firmenbriefkopf und Logo zusenden, dass alles korrekt ist? Ich möchte sicherstellen, dass alles rechtlich einwandfrei ist.  
+>   
+> Ich freue mich auf Ihre Antwort und die nächsten Schritte.  
+>   
+> Mit freundlichen Grüßen,  
+> Hugo   
