@@ -554,3 +554,23 @@ Na da lassen wir uns doch nicht lange bitten, aber dieses Mal wollen wir nicht n
 >   
 > Viele Grüße,    
 > Hugo   
+
+## Leider kein Schreiben
+
+Leider gibt man sich keine Mühe, ein Schreiben gibt es nicht. 😞
+
+> Sehr geehrter Herr,  
+>   
+> vielen Dank für Ihre schnelle Rückmeldung und dafür, dass Sie uns über die Anforderungen Ihrer Sparkasse informiert haben.  
+>   
+> Wir möchten klarstellen, dass wir Ihnen derzeit kein offizielles Schreiben oder eine Erklärung im PDF-Format mit Stempel oder Briefkopf ausstellen können, da Sie noch kein Konto bei Courtage Trust Bank haben. Offizielle Dokumente werden ausschließlich für bestehende Kontoinhaber erstellt und unterliegen einer Gebühr von £0,99, die dem jeweiligen Konto belastet wird.  
+>   
+> Da Ihr Platinum-Konto noch in der Einrichtung ist, können wir diese Gebühr nicht berechnen und das Dokument nicht in der gewünschten Form bereitstellen. In diesem Fall können wir Ihnen lediglich eine schriftliche Bestätigung der Autorisierung per E-Mail senden.  
+>   
+> Wir verstehen, dass dies möglicherweise nicht ideal ist, und danken Ihnen für Ihr Verständnis hinsichtlich unserer Richtlinien. Falls Ihre Sparkasse eine schriftliche Bestätigung per E-Mail akzeptiert, lassen Sie es uns bitte wissen, damit wir diese umgehend ausstellen können.  
+>   
+> Vielen Dank für Ihre Geduld und Ihr entgegengebrachtes Vertrauen. Sollten Sie weitere Fragen haben, stehen wir Ihnen jederzeit gerne zur Verfügung.  
+
+Nagut, dann Plan B, wir geben mal wieder vor überwiesen zu haben.
+
+![](/posts/2025-01-11_neurologe_macht_uns_reich/transaction_2.webp)

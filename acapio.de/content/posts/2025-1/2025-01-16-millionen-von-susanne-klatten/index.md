@@ -227,3 +227,38 @@ Ob die „Rabobank“ wohl einen Laserdrucker auftreiben kann? 😏
 >   
 > Mit freundlichen Grüßen,  
 > Hugo   
+
+## Wir bekommen ein Schreiben!
+
+Die „Rabobank“ gibt sich jetzt richtig großzügig: 558 € sind kein Verlust, sondern eine Investition in die „finanzielle Freiheit für den Rest des Lebens“. Und weil das alles aus reiner Liebe zur Menschheit geschieht, sollten wir uns keine Sorgen machen – sagt die Bank. 
+
+> Guten Abend..  
+> Ich weiß, dass 558 € für Sie ziemlich viel sind, aber Sie sollten dies auch als Preis für finanzielle Freiheit für den Rest Ihres Lebens betrachten.  
+> Wenn dieser Vorschlag nur der Absicht diente, den Bürgern Geld abzupressen, dann hätte ich es mit den Reichen zu tun, die mehr zu bieten hätten. Sie müssen sich keine Sorgen machen, dies wird aus reiner Liebe zur Menschheit durchgeführt.  
+> Sie müssen sich keine Sorgen machen, denn sobald die Anzahlung von 558 € eingegangen ist, Ihre Spendenkarte wird so schnell wie möglich an Ihre Adresse geliefert.  
+>        
+> Sie können unten auch den von Ihnen angeforderten Anhang sehen. Ich hoffe, das ist für Sie in Ordnung. Wir warten auf Ihre dringende Antwort.  
+
+Als wäre das noch nicht überzeugend genug, wurde Hugo sogar ein „Anhang“ geschickt:
+
+![Endlich ein Schreiben mit Stempel](/posts/2025-01-16_susanne-klatten-schenkt-millionen/bankschreiben.webp)
+
+### Kontakt via WhatsApp
+
+Parallel werden wir über WhatsApp angeschrieben, hier liefert man  uns einen angeblichen Ausweis.
+
+![WhatsApp](/posts/2025-01-16_susanne-klatten-schenkt-millionen/whatsapp.webp)
+
+
+## Wir vertrösten die Scammer etwas!
+
+Wir geben uns überzeugter, aber es ist Freitag, die Bank hat bereits zu. Also versprechen wir den Brief zu drucken und Montag dann aber ab zur Bank!
+
+> Sehr geehrte Frau Nehls,    
+>   
+> vielen Dank für Ihre Antwort und den Anhang. Das klingt wirklich sehr überzeugend, und ich möchte alles korrekt und ordentlich abwickeln. Ich werde den Brief ausdrucken und am Montag zu meiner Bank gehen, um die Überweisung durchzuführen. Bitte haben Sie Verständnis, dass ich das erst nächste Woche erledigen kann, da ich sicherstellen möchte, dass alle Formalitäten einwandfrei sind.    
+>   
+> Ich werde mich direkt nach meinem Banktermin bei Ihnen melden und den Überweisungsbeleg senden. Vielen Dank für Ihre Geduld!    
+>   
+> Mit freundlichen Grüßen,    
+> Hugo  

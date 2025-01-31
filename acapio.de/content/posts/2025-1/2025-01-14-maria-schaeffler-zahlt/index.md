@@ -234,3 +234,52 @@ Wir bekommen erstmal keine Antwort. Aber dann, nach 9 Tagen kommt eine neue E-Ma
 >   
 > Beste Grüße,    
 > Hugo    
+
+## Wir bekommen die Bankdaten
+
+Endlich haben die Betrüger geliefert – eine echte IBAN mit einem angeblichen Empfänger in der Schweiz. Wir informieren die Bank per E-Mail.
+
+> Grüße,  
+>   
+> Wie geht es Ihnen? Sie müssen jetzt die Zahlung von 690 Euro auf dieses Konto leisten, damit wir ein Konto für Sie eröffnen können. Sobald dies erledigt ist, stellen wir Ihnen die Zahlungsinformationen zur Verfügung, wie Sie die Zahlung vornehmen sollen.  
+>   
+> Sobald diese Zahlung geleistet und Ihr Konto erstellt wurde, leiten wir Sie durch jeden Schritt.  
+>   
+> Nachfolgend finden Sie die Zahlungsdetails.  
+>   
+> CREDIT SUISSE (Schweiz) AG  
+> BIC CRESCHZZ80A  
+> Löschen 4835  
+>   
+> Ewald Löcher  
+> Eggstr. 22  
+> 4433 Ramlinsburg, Schweiz  
+> IBAN CH28 0483 5137 4298 8200 0  
+> Betrag: 561 EURO  
+> EURO  
+>   
+> Bitte leisten Sie jetzt die Zahlung und senden Sie uns den Zahlungsbeleg zur Bestätigung, damit wir diese Transaktion jetzt abschließen können.  
+>   
+> Bitte melden Sie sich jetzt bei mir.  
+>   
+> Mit freundlichen Grüßen  
+> Delbert Hyland  
+
+
+### Die Betrüger verzetteln sich  
+
+Jetzt wird’s richtig kurios: In ihrer eigenen E-Mail nennen die Betrüger gleich zwei verschiedene Beträge – mal sollen es 690 Euro sein, mal nur 561 Euro. 
+
+Hugo fragt natürlich freundlich nach, welcher Preis denn nun für den „Millionen-Transfer“ gilt.
+
+> Hallo Herr Hyland,    
+>   
+> vielen Dank für Ihre Nachricht. Bevor ich die Überweisung tätige, brauche ich noch eine kurze Klärung: In Ihrer E-Mail steht einmal, dass ich 690 Euro zahlen soll, aber weiter unten ist von 561 Euro die Rede.    
+>   
+> Können Sie mir bitte bestätigen, welcher Betrag korrekt ist, damit es keine Verzögerungen gibt? Ich will sichergehen, dass ich die richtige Summe überweise.    
+>   
+> Danke für die schnelle Rückmeldung!    
+>   
+> Beste Grüße,    
+> Hugo  
+

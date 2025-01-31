@@ -91,3 +91,73 @@ Auch wenn es diesmal *nur* 890.000 Dollar sind und wir knapp an der Millionenmar
 > Mit vorfreudigen Grüßen,    
 > Hugo Scholz    
 > BaldigerWohltäter und zukünftiger Dollar-Millionär 🎩💸  
+
+
+### Jetzt wird’s offiziell: Der Anwalt braucht meinen Ausweis!
+
+Kaum haben wir zugesagt, ändert sich plötzlich die Spendenquelle – aus **Philomena Hilliard** wird **Charlotte Grace**, aus der **Philomena-Stiftung** die **Phoenix Foundation**, kennt noch jemand MacGyver?. Aber hey, wer achtet schon auf Details, wenn fast eine Million Dollar winken? 😆  
+
+Jetzt wird’s spannend: Damit die Auszahlung stattfinden kann, **braucht der Anwalt dringend eine Kopie unseres Personalausweises**. Ist ja logisch – *Betrüger brauchen auch mal was Handfestes*! 
+
+> Ich möchte mich als Rechtsanwalt von Marcus Owens und als  
+> persönlicher/finanzieller Anwalt von Frau Grace Charlotte vorstellen.  
+> Ich freue mich über Ihre E-Mail. Ich habe das Mandat erhalten, Ihnen bei  
+> der Entgegennahme von 890.000,00 US-Dollar zu helfen, die von meiner  
+> Klientin, Frau Charlotte Grace, Präsidentin und Gründerin der „Phoenix  
+> Foundation“, gespendet wurden. Die Spende erfolgt im Rahmen des Good  
+> WILL-Spendenprogramms.  
+>   
+> Ich verstehe auch, dass Sie schockiert sein müssen, diese guten  
+> Nachrichten zu hören, aber ich versichere Ihnen, dass dies die Realität  
+> ist. Ich bitte Sie dringend, diesen Freigabeprozess mit aller  
+> Ernsthaftigkeit anzugehen. Dieses von Frau Grace vorgeschlagene Konzept  
+> soll zeigen, dass Liebe und Fürsorge keine Grenzen kennen. Bleiben Sie  
+> ruhig und seien Sie gut, wenn Sie direkte Anweisungen für jeden Schritt  
+> erhalten, den Sie erhalten. Frau Grace Charlotte hat den Grundstein für  
+> die Liebe gelegt und bereits Schritte unternommen, um sicherzustellen,  
+> dass ihr Spendenprogramm noch lange fortgeführt wird.  
+>   
+> Zunächst einmal muss ich Ihnen gratulieren, dass Sie ein Wohltäter  
+> dieses Programms waren, das von Frau Charlotte Grace ins Leben gerufen  
+> wurde, um ihre wohltätigen Aktionen auf glückliche Begünstigte in  
+> verschiedenen Teilen der Welt auszuweiten. Frau Charlotte Grace ist  
+> aufgrund ihrer Persönlichkeit und über ihre derzeit jährlich  
+> unternommenen medizinischen/Urlaubsreisen hinaus eine sehr beschäftigte  
+> Frau. Meine Kanzlei wird Ihre Geldüberweisung rechtlich genehmigen und  
+> organisieren.  
+>   
+> Es war ein wahrer Segen für glückliche Menschen, die nie an die Macht  
+> der Hoffnung und Wunder gedacht oder geglaubt haben.  
+>   
+> Um weiter fortzufahren, müssen Sie eine Kopie eines gültigen  
+> Personalausweises vorlegen {jeder von der Regierung ausgestellte Ausweis  
+> wie Personalausweis, Führerschein, Wahlkarte oder Arbeitsausweis}. Ein  
+> Personalausweis ist für eine gründliche Überprüfung erforderlich, damit  
+> meine Kanzlei eine Legalitätsbescheinigung genehmigen und ausstellen  
+> kann. Ihre Identität als Begünstigter muss mit den Angaben in der  
+> Legalitätsbescheinigung übereinstimmen. Die in Ihrem Namen ausgestellte  
+> Legalitätsbescheinigung wird an das für die Auszahlung der Gelder  
+> zuständige Finanzinstitut gesendet, damit dieses die Gelder freigeben  
+> kann.  
+>   
+> Bitte antworten Sie mit einer beigefügten Kopie Ihres Personalausweises,  
+> wie angefordert, und ich werde Ihre Legalitätsbescheinigung  
+> unterzeichnen und wir werden Ihnen Informationen zur sofortigen  
+> Überweisung Ihrer Gelder zukommen lassen.  
+
+### Wir sind verwirrt!  
+
+Also Moment mal – war das nicht **Philomena Hilliard**, die uns großzügig fast **900.000 Dollar** schenken wollte? Und jetzt kommt plötzlich ein gewisser **Barr. Marcus Sherman Owens** um die Ecke und erzählt uns, dass das Geld eigentlich von **Charlotte Grace** und ihrer **Phoenix Foundation** stammt? 🤔  
+Auf jeden Fall wollten wir das natürlich genau wissen und haben höflich nachgefragt. 🎭💸
+
+> Sehr geehrter Barr. Marcus Sherman Owens,    
+>   
+> vielen Dank für Ihre schnelle Rückmeldung. Ich muss gestehen, dass ich etwas verwirrt bin. Ursprünglich wurde mir mitgeteilt, dass die großzügige Spende von Frau Philomena Hilliard und der Philomena Hilliard Sigmund Foundation stammt. Nun schreiben Sie jedoch, dass das Geld von Frau Charlotte Grace und der Phoenix Foundation kommt.    
+>   
+> Könnten Sie mir bitte erklären, wie dieser plötzliche Namenswechsel zustande gekommen ist? Ich möchte natürlich sicherstellen, dass meine großzügige Wohltäterin auch die Anerkennung erhält, die sie verdient! Ist dies ein gemeinsames Spendenprojekt mehrerer Stiftungen, oder gab es hier ein Missverständnis?    
+>   
+> Ich bin gespannt auf Ihre Klärung und freue mich auf Ihre Antwort.    
+>   
+> Mit freundlichen Grüßen,    
+> Hugo    
+> Zufällig Auserwählter & Baldiger Wohltäter 🎩💰  

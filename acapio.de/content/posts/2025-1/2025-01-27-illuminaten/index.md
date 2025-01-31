@@ -174,3 +174,26 @@ Jetzt wird es interessant: **Die Illuminaten wollen Hugos WhatsApp-Nummer.** Ver
 > Wir werden auch gerne mit Ihnen sprechen oh Telefon und senden uns bitte Ihre WhatsApp-Nummer für eine schnelle Kommunikation. Ich warte darauf, bald von Ihnen zu hören  
 
 Nagut, wir knicken ein uns fragen nach der Bankverbindung!
+
+## Jetzt geht’s ans Eingemachte: Hugo soll zahlen  
+
+Die Geduld der Illuminaten scheint langsam am Ende – jetzt wird’s konkret! **MoneyGram soll’s sein.** Kein großes Elite-Bankkonto, keine geheime Offshore-Verbindung, nein: **Ein klassischer Scam mit Vorauszahlung.**  
+
+Die Frage nach Hugos Ernsthaftigkeit ist damit endgültig beantwortet – **wer ernsthaft 2 Millionen verschenken will, sollte doch zumindest die Kartengebühr übernehmen können?** Aber nein, stattdessen drängen die Illuminaten auf eine schnelle Zahlung.
+
+> Sie müssen die Zahlung über MoneyGram vornehmen und wenn Sie bereit sind, die Zahlung heute vorzunehmen, kann ich Ihnen die Zahlungsdetails sofort zusenden, damit wir fortfahren können. Bitte melde dich jetzt bei mir   
+
+### MoneyGram, wie geht das?
+
+Kein Thema sagen wir und schreiben zurück. Natürlich kennen wir die Zahlungsmethode nicht und fragen mal sicherheitshalber nach einer genauen Anleitung.
+
+> Sehr geehrte große Illuminati-Gesellschaft,    
+>   
+> vielen Dank für eure Geduld. Ich bin überzeugt, dass dies der richtige Weg für mich ist, und bin bereit, die Zahlung vorzunehmen. MoneyGram klingt gut, aber ich muss gestehen, dass ich mich damit nicht auskenne.    
+>   
+> Könnt ihr mir bitte genau erklären, wie das funktioniert? Wo muss ich hingehen, was genau muss ich tun? Gibt es bestimmte Dinge, auf die ich achten muss, damit alles reibungslos klappt? Ich will ja nichts falsch machen – schließlich geht es um meinen Platz in der großartigen Illuminaten-Gesellschaft!    
+>   
+> Ich freue mich auf eure Anleitung.    
+>   
+> Mit öligen Grüßen,    
+> Hugo aus Wanne-Eickel    

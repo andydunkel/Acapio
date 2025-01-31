@@ -60,3 +60,61 @@ Natürlich lassen wir uns eine solche Change nicht entgehen und antworten, auch 
 >   
 > Best regards,    
 > Hugo from Wanne-Eickel 🚗🍻  
+
+
+## Die Masche: Ein Millionen-Erbe aus dem Nichts  
+
+Die Betrüger-E-Mails folgen immer demselben Muster: Ein angeblicher Bankdirektor aus Südafrika schreibt, dass ein reicher Kunde, **Mr. Mathy Reinhold**, beim Absturz von Ethiopian Airlines Flug 302 ums Leben gekommen sei – natürlich **ohne Erben**. Wie praktisch!  
+
+Da das Geld sonst verfallen würde, bietet der „seriöse Banker“ nun an, dass man sich einfach als **verlorener Verwandter** ausgibt und **15 Millionen Dollar** kassiert. Alles sei **100 % legal** (klar doch!), man müsse nur ein paar Formulare ausfüllen und sich **vertrauenswürdig** verhalten. Natürlich gibt es 40 % für den Glücklichen, der die E-Mail bekommt, und 60 % für den Banker, weil Betrügen ja auch fair sein muss.  
+
+Der Haken? Bevor man das „Erbe“ bekommt, muss man erst ein paar Gebühren zahlen. Und dann noch ein paar. Und dann noch ein paar… bis man merkt: **Das einzige, was hier verschwindet, ist das eigene Geld.** 🤦‍♂️
+
+Die längliche E-Mail:
+
+> Greetings, I earnestly appreciate your mail response to my proposition. In light of this, I must give you the assurance that there is a reward for the proposed project and its success is a GUARANTEE take it from me, All I demand from you is the desired honest cooperation and transparency to enable us to actualize this transaction timely as predetermined, as I am aware that its success is a certainty, without mincing words.  
+>   
+> In anticipation of a mutual relationship in the future, I will leave your details now for you to advance your knowledge of the transaction and to reaffirm that this transaction is comparatively free as breathing if carried out with your open-mindedness and genuine cooperation. It is a priority that the transaction will be confidentially executed, because of my in-service status with the bank.  
+>   
+> Furthermore, the fund in question is $15.000.000,00 (Fifteen Million United States Dollars)in a dormant account because of financial inactivity since the demise of the deceased.  
+>   
+> Mr. MATHY  REINHOLD of a foreign customer of our Bank who perished long with his next of kin with Ethiopian Airlines Flight 302, flight number 801with the whole passengers on 10th of March 2019, Open and view the website: https://en.wikipedia.org/wiki/Ethiopian_Airlines_Flight_302  
+>   
+> I decided to seek your assistance to have you stand as a distant relative/partner of the deceased, to afford me the rare opportunity to successfully and legitimately achieve a more endurable human aim with the fund.  
+>   
+> In as much as I anticipate a positive response from you, I shall proceed to draft a formal letter of claim, which I will forward to you, which will contain most vital and interior information relating to the deceased, such that upon the receipt of the letter by the Bank's relevant department, they will acknowledge firsthand knowledge information of the deceased by you, while me being an insider will definitely facilitate things as I will put up excellent monitoring of the transaction as soon as you forward the letter to the bank and confirm to me.  
+>   
+> NOTE: Upon transaction conclusion, you will be entitled to 40% of the total sum while 60% will be for me. be assured that the transaction is quite legal, problem-free with my involvement, considering my working with the bank, I will do everything within my reach to ensure a quick  
+>   
+> conclusion.  
+>   
+> Endeavor to abide by the confidentiality demand of this transaction, it will please me to request that my reason for the visit to your country need not to be disclosed to any individual till the funds are transferred to your account.  
+>   
+> I should believe that you will not betray me nor cheat me during the course of this Claim. I will have more confidence and trust in you as soon as you guarantee me with the following and be informed that I am the only person in South Africa who knows about this fund and its position.  
+>   
+>    
+> Hope to read from you soonest  
+> You’re sincerely  
+> Mr Brighton Maphosa    
+
+
+### Wir antworten  
+
+Natürlich konnten wir uns diese Gelegenheit nicht entgehen lassen und haben **Hugo aus Wanne-Eickel** ins Rennen geschickt. Schließlich ist es nicht jeden Tag, dass einem **15 Millionen Dollar** auf dem Silbertablett serviert werden – von einem völlig unbekannten Banker mit einer **Gmail-Adresse**. 🤔  
+
+Hugo zeigt sich begeistert und stellt die wirklich wichtigen Fragen: **Kann er das Geld in bar bekommen?** Schließlich traut er Banken nicht mehr, seit sie seine 50 Euro „verloren“ haben. Ein **geheimer Koffer-Deal in seiner Garage** wäre ihm da lieber. Außerdem muss natürlich geklärt werden, **wie man beweist, dass man der verschollene Erbe** ist. Vielleicht reicht es, sich als **„Mathys Cousin aus Wanne-Eickel“** auszugeben?  
+
+Mit einer Mischung aus Naivität, dreistem Humor und ein paar Bier intus bringt Hugo den Scammer ins Schwitzen. 🍿😆
+
+> Dear Mr. Brighton Maphosa,    
+>   
+> Wow, I really like your enthusiasm! You are so confident – that makes me feel safe. I totally understand the need for secrecy. I won’t tell anyone, not even my friend Kevin from the BMW Club (and he is very trustworthy).    
+>   
+> Before we proceed, I have an important question: Can we make the transfer in cash? I don’t trust banks, you know. Too many fees, and last time they lost my 50 Euro deposit. Maybe we can arrange a secret suitcase exchange in my garage? I can even clean up a bit to make space.    
+>   
+> Also, do I need a special document to prove I am a relative? Maybe I can say I am his lost cousin from Wanne-Eickel? You know, my grandma always said we have distant family all over the world.    
+>   
+> I am so excited about this deal, my hands are shaking (or maybe that’s just from the five beers I had). Please send me all the details quickly, so I can start preparing my "rich man" lifestyle.    
+>   
+> Best regards,    
+> Hugo from Wanne-Eickel 🚗🍻💰    

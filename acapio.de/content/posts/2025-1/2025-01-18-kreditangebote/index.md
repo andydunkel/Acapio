@@ -111,7 +111,6 @@ Jetzt wird es ernst, wir wollen ja keinen echten Ausweis fälschen, also erstell
 ![Unser Ausweis](/posts/2025-01-18_kredite-aller-art/ausweis.webp)
 
 
-
 ## Es wird konkret
 
 Super, unser Ausweis wurde akzeptiert und wir bekommen eine weitere Info. Jetzt müssen wir nur noch zustimmen!
@@ -141,3 +140,33 @@ Natürlich antworten wir uns gehen gerne auf das Angebot ein!
 > Mit freundlichen Grüßen    
 > Hugo  
 > BMW-Club Wanne-Eickel – Immer auf Achse!    
+
+## Zahlungsoptionen
+
+Wie es sich gehört bekommen wir mehrere Angebote die Gebühr zu zahlen. Sogar eine WhatsApp hätten sie geschickt, kam aber nicht an! Egal! Wir schreiben zurück, dass wir gerne überweisen wollen!
+
+![](/posts/2025-01-18_kredite-aller-art/zahlungsart.png)
+
+
+### **Fazit!**  
+
+Kurz gesagt: Statt einem Kredit geht es hier erstmal nur darum, mit „Gebühren“ abzukassieren. Sobald das Opfer die 450 Euro überweist, wird entweder noch eine weitere Gebühr verlangt („Überweisungssteuer“, „Versicherungsgebühr“ etc.), oder der Kontakt bricht komplett ab. Der Kredit? Natürlich nie in Sicht.  
+
+Typisch für solche Betrugsmaschen sind die dubiosen Zahlungsmethoden wie **Western Union, Moneygram oder Bitcoin** – alles Möglichkeiten, bei denen das Geld **nicht zurückverfolgt** werden kann. Zudem werden Druckmittel eingesetzt: tägliche E-Mails, angebliche „rechtliche Konsequenzen“ und WhatsApp-Nachrichten, um das Opfer zum schnellen Handeln zu bewegen.  
+
+Hugos „Spaßausweis“ wurde ohne zu zögern akzeptiert, was zeigt, dass es den Betrügern **völlig egal ist, wer da eigentlich anfragt – Hauptsache, das Geld kommt.** Wer auf so ein Angebot hereinfällt, verliert nicht nur sein Geld, sondern riskiert möglicherweise auch Identitätsdiebstahl.  
+
+Hugos Fazit: **Kein echter Kreditgeber verlangt Gebühren im Voraus. Wer eine Gmail-Adresse nutzt, in Kenia sitzt und Bitcoins als bevorzugte Währung akzeptiert, ist wahrscheinlicher ein Trickbetrüger als ein seriöser Finanzdienstleister.** Also besser Finger weg – und im Zweifel lieber bei der nächsten Bank um die Ecke nachfragen!
+
+## Weitere Kreditangebote
+
+### Light Stream: lightstreamloans000@gmail.com
+
+Fiese Masche, einfach die Webseite eines echten Kreditanbieter als Referenz nehmen und über ein Gmail-Adresse abzocken.
+
+> Hallo  
+> Sie suchen einen Online-Kredit? Suchen Sie nicht weiter, Light Stream ist hier, um Ihnen zu helfen, heute einen Kredit zu bekommen. Wir bieten einen garantierten Online-Kredit von 2.000 € bis 1 Million € mit einem niedrigen Zinssatz von 3%. Unser Kreditgenehmigungsverfahren ist schnell und einfach und Sie können erwarten, dass Sie innerhalb von 24 Stunden einen Kredit von uns erhalten. Bitte antworten Sie auf diese E-Mail für weitere Informationen  
+>   
+> Mit freundlichen Grüßen  
+> LightStream Unternehmen  
+> https://www.lightstream.com/  

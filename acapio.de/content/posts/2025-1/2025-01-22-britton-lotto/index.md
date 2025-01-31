@@ -367,3 +367,18 @@ Weiter geht es, auf die Zusendung des Fotos wird locker drüberweg gegangen, daf
 >    
 > Adresse der Bank: 420 Montgomery Street San Francisco, CA 94104  
 > Adresse des Empfängers: 3925 N 1 st Ave Apt 104 Durant Ok 74701  
+
+## Überweisung die Zweite
+
+Wir geben erneut vor gezahlt und zu haben und schicken den Beleg an die Scammer.
+
+> Hallo Herr Pavel,    
+>   
+> ich hab die Überweisung rausgehauen, dat Ding ist durch! Anbei der Beleg, damit ihr seht, dass alles glattgelaufen ist. Jetzt aber fix, ich will meine Karte endlich in den Händen halten!    
+>   
+> Gebt mir Bescheid, wann ich mit der Lieferung rechnen kann. Und vergesst nich: Mein BMW wartet!    
+>   
+> Grüße aus Wanne-Eickel,    
+> Hugo  
+
+![](/posts/2025-01-22-britton-lotto/transaction_zwei.webp)

@@ -171,3 +171,64 @@ Unsere bisherigen Erfahrungen mit Scammern zeigen: Spätestens jetzt kommt die *
 >   
 > Mit freundlichen Grüßen,    
 > Hugo    
+
+## Der vermeintliche Anwalt meldet sich!
+
+Jetzt wird’s spannend – die wollen die Bankdaten! 😆
+
+Natürlich ist das der nächste Schritt in der klassischen Vorschussbetrugsmasche. Statt sofort nach Geld zu fragen, bauen sie weiter Vertrauen auf und tun so, als ob die Überweisung gleich erfolgen könnte – wenn sie nur die vollständigen Bankdaten hätten. 
+
+In der Realität gibt es natürlich keine Millionen, aber wenn jemand naiv genug ist, seine echten Daten zu schicken, könnten die Scammer damit entweder Betrug begehen oder ihn in eine weitere Falle locken („Die Bank verlangt noch eine kleine Bearbeitungsgebühr“).
+
+
+> Guten Tag, Hugo
+>   
+> Diese Kammer bestätigt den Eingang Ihrer E-Mail und Ihres Identitätsnachweises, da Sie den erforderlichen Freigabeprozess zur Verteilung Ihrer Spende mit der Referenznummer (FPC/HBW/24/EU) von der Kathedrale des Heiligen Antonius in Höhe von 2.500.000,00 € durchlaufen haben. Die Überweisung erfolgt auf Ihr Bankkonto, das Sie unten angeben müssen.  
+>   
+> Wir wurden bereits von der Korrespondenzbank Ihres Wohltäters (HSBC BANK) über diese Entwicklungen informiert. Sobald wir Ihre Bankdaten erhalten, werden wir diese an sie weiterleiten und die Auszahlung der Mittel auf Ihr angegebenes Bankkonto einleiten.  
+>   
+> BANKDATEN:  
+>   
+> Name der Bank:  
+> Adresse der Bank:  
+> Name des Kontoinhabers:  
+> Adresse des Kontoinhabers:  
+> Stadt:  
+> Staat:  
+> Land:  
+> Kontonummer:  
+> Iban-Nummer/Bankleitzahl:  
+> Bic-/BSB-Code:  
+> Swift-Code:  
+> Persönliche Telefonnummer:  
+>   
+> Wir bleiben Ihr Freund und Ihre Vertreter.  
+>   
+> Barr. George Southgate  
+> Rechts- und Finanzberater  
+> SHEPHERD LIGHT & CO SOLICITORS  
+> Tel.: +1-350-204-4106  
+
+### Wir sind erstmal besorgt – Betrug gibt’s ja überall!  
+
+Natürlich freut sich Hugo über seine Millionen – aber Moment mal! Man hört ja so viel über **Internetbetrug**, Fake-Gewinne und windige Anwälte, die sich nach ein paar E-Mails in Luft auflösen. Und weil Hugo ein cleverer Kerl ist (also zumindest meistens), will er erstmal sichergehen, dass er hier nicht auf einen Trick reinfällt.  
+
+Also, was tun? Ganz einfach: **Beweis anfordern!**  
+
+Hugo schreibt also an den ehrenwerten **Barr. George Southgate**, dass er natürlich nichts gegen eine Spende hat, aber vorher gerne ein kleines Zeichen des Vertrauens hätte. Ein offizielles Schreiben mit Stempel, ein Anwaltspass – oder einfach ein Selfie von George mit einem Zettel, auf dem „Hugo Scholz“ und die **legendäre Referenznummer FPC/HBW/25/EU** stehen.  
+
+Denn hey, ein echter Anwalt sollte doch kein Problem damit haben, sich kurz auszuweisen, oder? 😉 
+
+
+> Moin Barr. Southgate,    
+>   
+> ich freu mich natürlich riesig über die Kohle, aber man hört ja so viel über Betrug im Internet. Und bevor ich euch meine Bankdaten schicke, will ich nur sichergehen, dass das alles echt ist. Ihr habt ja sicher nix zu verbergen, oder?    
+>   
+> Also, könnt ihr mir mal ‘n offizielles Schreiben von eurer Kanzlei schicken, wo das mit der Spende bestätigt wird? Am besten mit Stempel und Unterschrift, damit ich das auch meinem Bankberater zeigen kann. Oder vielleicht einfach ‘n Foto von eurem Anwaltspass oder euch selbst mit ‘nem Zettel, auf dem mein Name und die Referenznummer steht? Dann bin ich sofort beruhigt und die Sache kann losgehen.    
+>   
+> Ich denke, das ist fair – 2,5 Millionen sind ja kein Pappenstiel, und da will man halt sicher sein, dass das kein fauler Zauber ist. Also, schickt mir kurz was rüber, dann kriegt ihr meine Bankdaten.    
+>   
+> Freu mich auf eure Antwort!    
+>   
+> Gruß,    
+> Hugo  

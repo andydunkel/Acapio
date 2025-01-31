@@ -179,3 +179,68 @@ Wie gehabt verwenden wir den großartigen Generator von [OnlineWahn.de](https://
 
 Den senden wir zu und schauen was passiert!
 
+## Jetzt wird’s offiziell: Unsere Fake-Bank wartet!
+
+Silvana hat sich mächtig ins Zeug gelegt. Nicht nur sind jetzt plötzlich alle „offiziellen Dokumente“ fertig, nein, unser Erbe wurde auch direkt an eine ominöse Bank namens **Northline Trust Banking Limited** weitergeleitet. Klingt beeindruckend, oder?  
+
+Hier die Highlights:  
+✅ Die Bank weiß schon Bescheid – ein gewisser „Herr Daniel Wang“ wartet nur darauf, unser Millionen-Konto freizuschalten.  
+✅ Ein „Online-Banking-System“ ist auch verfügbar, und wir können unser Geld bequem weltweit verwalten.  
+✅ Wir müssen uns nur schnell melden und ein Konto eröffnen – na wenn das mal nicht nach einer absoluten Top-Gelegenheit klingt!  
+
+Was hier wirklich passiert: Die Betrüger hoffen darauf, dass wir brav mitspielen und bald die ersten „Bearbeitungsgebühren“ überweisen – denn selbstverständlich kostet so ein Online-Konto bei einer dubiosen Bank Geld. Und wenn man erst mal gezahlt hat, kommen garantiert noch weitere „unerwartete Kosten“ hinzu. 
+
+> Liebe Anne,
+>   
+> Wie geht es Ihnen und Ihrer Familie? Ich hoffe, alles ist gut. Der Anwalt hat die Unterlagen fertig vorbereitet und ich habe eine Kopie der Unterlagen an die Northline Trust Bank weitergeleitet und stelle Sie als einzigen noch lebenden Verwandten meines verstorbenen Klienten Dr. Thomas J. ------ vor.  
+>   
+> Ich habe Ihnen auch eine Kopie dieser Unterlagen zur Durchsicht beigefügt. Die Bank wird Sie möglicherweise bitten, eine Kopie zu senden, um zu bestätigen, ob Sie der rechtmäßige Begünstigte sind.  
+>   
+> Ich bitte den Anwalt außerdem, Northline Trust Banking Limited anzurufen, nachdem er ihnen die Unterlagen geschickt hat, um ihnen zu erklären, dass Sie der einzige noch lebende Verwandte meines verstorbenen Klienten sind und er ihnen mitgeteilt hat, dass Sie aufgrund familiärer Probleme nicht nach Edinburgh reisen können, um Anspruch auf die Sendung zu erheben. Sie wissen bereits, dass sich Geld in der Sendung befindet, da ich das Geld als Sendung in einem Safe bei Northline Trust Banking Limited hinterlegt habe.  
+>   
+> Northline Trust Banking Limited bietet auch Bankdienstleistungen an. Sie haben auch ein Online-Banking-System und Sie müssen ein Online-Konto bei ihnen eröffnen, um die Transaktion durchzuführen.  
+>   
+> Es wird empfohlen, dass Sie sich an Northline Trust Banking Limited wenden. Nachfolgend finden Sie die Kontaktdaten der Online-Abteilung.  
+>   
+> Northline Trust Banking Limited.  
+> 66 St Mary's Butts, Reading, Vereinigtes Königreich. EH11 3TP NR 6883/5/M/93/19.  
+> ABTEILUNG FÜR INTERNATIONALE ÜBERWEISUNGEN.  
+> E-Mail: info@northlinetrust.uk  
+>   
+> Bürozeiten: 8:00 - 19:00 Uhr britischer Zeit.  
+> Ansprechpartner: Herr Daniel Wang  
+>   
+> Wenn Sie die Bank per E-Mail kontaktieren möchten, empfehle ich Ihnen, eine E-Mail an die Bank Northline Trust Banking Limited (HOLBORN, LONDON, VEREINIGTES KÖNIGREICH) zu senden. Mein Name ist Anne ------, der Name ist Dr. Thomas J. ------, der bei Ihrer Bank THE Northline Trust Banking Limited gelistet ist. Ich würde mich sehr freuen, wenn meine E-Mail bezüglich meiner Anfrage beantwortet wird.  
+>   
+> Mit freundlichen Grüßen.  
+> Anne ------.  
+>   
+> Bitte kontaktieren Sie sie umgehend und teilen Sie ihnen mit, dass Sie ein Online-Konto bei ihnen eröffnen möchten, damit Sie Ihre 4 Millionen Pfund darauf erhalten können.  
+>   
+> Sobald Sie das Online-Konto eröffnet haben, werden sie die 4 Millionen Pfund auf Ihr Online-Konto einzahlen und Ihnen Ihre Kontodaten wie Ihre Kontonummer und Ihren PIN-Code senden, einschließlich Informationen darüber, wie Sie über ihr Online-Konto-Kontozugangs-Banking-System auf Ihr Online-Konto zugreifen können.  
+>   
+> Sie können das Konto von überall auf der Welt aus verwalten, sofern Sie über Internetzugang verfügen. Sie müssen sich lediglich bei Ihrem Online-Konto anmelden und das Geld von Ihrem Konto bei Northline Trust Banking Limited auf ein beliebiges Konto Ihrer Wahl weltweit überweisen.  
+>   
+> Bitte kontaktieren Sie die Bank jetzt und schließen Sie den Einrichtungsprozess des Online-Kontos ab, damit sie die 4 Millionen Pfund auf Ihr Konto einzahlen können, damit Sie sofort auf Ihre anderen Konten überweisen können.  
+>   
+> Vielen Dank für Ihr Verständnis. Ich habe Ihnen geraten, mich zu kontaktieren, sobald Sie die obigen Anweisungen befolgt haben. Ich erwarte Ihre dringende Antwort.  
+>   
+> Mit freundlichen Grüßen  
+> Silvana Tenreyro.  
+
+
+### Die Dokumente
+
+Interessant, das wir nun auf einmal in Guben wohnen, diese Angabe haben wir nie geätigt. 🤗
+
+![Bestätitung vom Anwalt](/posts/2025-01-26-silvana-tenreyro-4-mio-pfund/dokument_1.webp)
+
+![Das Testament](/posts/2025-01-26-silvana-tenreyro-4-mio-pfund/dokument_2.webp)
+
+![Bankbestätigung](/posts/2025-01-26-silvana-tenreyro-4-mio-pfund/dokument_3.webp)
+
+### Wir schreiben der Bank!
+
+Wir leiten die E-Mail weiter an die vermeintliche Bank!
+
+![](/posts/2025-01-26-silvana-tenreyro-4-mio-pfund/mail_an_bank.png)
