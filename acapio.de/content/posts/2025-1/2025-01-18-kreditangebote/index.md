@@ -147,6 +147,31 @@ Wie es sich gehört bekommen wir mehrere Angebote die Gebühr zu zahlen. Sogar e
 
 ![](/posts/2025-01-18_kredite-aller-art/zahlungsart.png)
 
+## Wir bekommen die Bankdaten
+
+Die Bankdaten werden prompt geliefert und wir melden das auch umgehend der Bank.
+
+> Sehr geehrter Herr Hugo.  
+>   
+> Wie geht es Ihnen heute? Ich hoffe, Sie haben diese E-Mail bei guter Gesundheit erhalten.  
+>   
+> Ich habe Ihre E-Mail erhalten und verstehe vollkommen, dass Sie sich für die Zahlung von 450 Euro für die Registrierung und Genehmigung Ihres Kredits entschieden haben.  
+>   
+> Nachfolgend finden Sie die offiziellen Bankdaten für die Zahlung. Nachdem Sie die Zahlung getätigt haben, senden Sie uns bitte den Zahlungsbeleg zur Bestätigung.  
+>   
+> Name der Bank:    UNlCREDIT BANK  
+> Kontoname:   Godwin Destiny  
+> IBAN:   IT65P 0200 8024 14000 10620 3797   
+> BIC-Code:  UNCRITM1XXX  
+> Land:  Italien  
+> Adresse:  Corso Italia,1, 20122 Milano  Ml  
+> Verwendungszweck:  Familie und Freunde  
+>   
+> Nachfolgend finden Sie die Bankdaten für die Zahlung. Wir raten Ihnen, die Zahlung schnell vorzunehmen, damit wir Ihre Zahlung rechtzeitig bestätigen und dann mit der Genehmigung Ihres Kredits fortfahren können.  
+>   
+> Wir empfehlen Ihnen außerdem, die SEPA-Überweisung sehr schnell und einfach zu nutzen.  
+>   
+> Vielen Dank für Ihre Zusammenarbeit  
 
 ### **Fazit!**  
 
@@ -170,3 +195,4 @@ Fiese Masche, einfach die Webseite eines echten Kreditanbieter als Referenz nehm
 > Mit freundlichen Grüßen  
 > LightStream Unternehmen  
 > https://www.lightstream.com/  
+
