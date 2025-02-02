@@ -1,5 +1,5 @@
 ---
-title: "Tom Crist gedenkt seiner Frau und spendet Milltionen"
+title: "Tom Crist gedenkt seiner Frau und spendet Milltionen 🥰"
 params:
   author: Andy
 date: "2025-02-01"

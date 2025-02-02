@@ -173,7 +173,13 @@ Die Bankdaten werden prompt geliefert und wir melden das auch umgehend der Bank.
 >   
 > Vielen Dank für Ihre Zusammenarbeit  
 
-### **Fazit!**  
+### Wir geben vor bezahlt zu haben...
+
+Wir erstellen wieder einen Zahlungsschein, das macht den Scammern sicher kurzfristig Freude, aber natürlich haben wir kein Geld überwiesen.
+
+![](/posts/2025-01-18_kredite-aller-art/transaction.webp)
+
+## **Fazit!**  
 
 Kurz gesagt: Statt einem Kredit geht es hier erstmal nur darum, mit „Gebühren“ abzukassieren. Sobald das Opfer die 450 Euro überweist, wird entweder noch eine weitere Gebühr verlangt („Überweisungssteuer“, „Versicherungsgebühr“ etc.), oder der Kontakt bricht komplett ab. Der Kredit? Natürlich nie in Sicht.  
 
@@ -195,4 +201,3 @@ Fiese Masche, einfach die Webseite eines echten Kreditanbieter als Referenz nehm
 > Mit freundlichen Grüßen  
 > LightStream Unternehmen  
 > https://www.lightstream.com/  
-

@@ -161,3 +161,113 @@ Auf jeden Fall wollten wir das natürlich genau wissen und haben höflich nachge
 > Mit freundlichen Grüßen,    
 > Hugo    
 > Zufällig Auserwählter & Baldiger Wohltäter 🎩💰  
+
+
+## Oops, ein „Tippfehler“!
+
+Gut, dass wir nachgefragt haben! Denn unser lieber **Barr. Marcus Sherman Owens** hatte sich schlicht vertippt – statt **Philomena Hilliard** hat er aus Versehen **Charlotte Grace** geschrieben. Kann ja mal passieren, wenn man täglich hunderte Mails an ahnungslose Opfer schickt. 😆  
+
+Aber kein Problem, denn das Wichtigste ist: **Wir sollen einfach nur unseren Personalausweis schicken, dann wird alles gut!** Na, wenn das mal keine wasserdichte Garantie ist.
+
+> Der Tippfehler tut mir leid. Ihre Spende kommt von der Philomena  
+> Sigmund-Stiftung. Das war ein Fehler meinerseits und das tut mir leid.  
+> Das war ein Tippfehler. Sie sollten sich freuen und mir Ihren  
+> Personalausweis vorlegen, damit ich Ihnen eine Bescheinigung ausstellen  
+> und sie an die überweisende Bank schicken kann. Ich verspreche, dafür zu  
+> sorgen, dass Sie diese Spende so schnell wie möglich erhalten und alles  
+> gut wird.  
+
+Er bekommt in jedem Fall unseren Standard-Hugo-Ausweis!
+
+![](/posts/2025-01-18_kredite-aller-art/ausweis.webp)
+
+
+## Jetzt wird’s offiziell! 
+
+Wir haben es schwarz auf weiß: **Wir sind die rechtmäßigen Gewinner von 890.000 Dollar!** 🎉 Das bestätigt uns zumindest ein *hochseriöses* „Legalitätszertifikat“, das unser Freund, der WhatsApp-Anwalt, nach gründlicher Prüfung ausgestellt hat.  
+
+Nun sollen wir uns an die **Enterprise Holdings Peoples Bank™** wenden – eine Bank, die sicher so **real ist wie ein dreiköpfiges Einhorn mit Steuerberaterzulassung**. Aber hey, was soll da schon schiefgehen?  
+
+Wir freuen uns schon darauf, was uns „**Carbert George**“, der „**Verantwortliche für Auslandsüberweisungen**“, erzählen wird. Vermutlich irgendwas mit **Gebühren, Verzögerungen und ganz viel Vertrauensaufbau**. 😆🎭💸
+
+> DIE ANWALTSKANZLEI VON OWENS MARCUS SHERMAN  
+> OMS/GC/PCG/OMS847376373  
+>   
+> Ich habe Ihren Personalausweis erhalten. Der Personalausweis war zu  
+> Überprüfungszwecken erforderlich, um die Genehmigung des  
+> Fondszertifikats zu ermöglichen. Das Fondsrechtmäßigkeitsdokument ist  
+> ein Dokument, das die Autorisierung Ihrer Mittel als rechtmäßiger  
+> Begünstigter der von Frau Philomena Hilliard gespendeten Mittel  
+> bescheinigt.  
+>   
+> Dieser E-Mail ist ein Rechtmäßigkeitszertifikat beigefügt, das die  
+> Rechtmäßigkeit der begünstigten Mittel bestätigt. Die Abschrift des  
+> Dokuments wurde an das für die Überweisung zuständige Finanzinstitut  
+> {ENTERPRISE HOLDINGS PEOPLES BANK} gesendet, um den Benutzer als  
+> direkten Begünstigten der Mittel zu bestätigen. Daher müssen Sie sich an  
+> ENTERPRISE HOLDINGS PEOPLES BANK wenden, um die Transaktion zu  
+> bestätigen und sie aufzufordern, Ihnen die 890,000.00 USD zu überweisen.  
+>   
+> Sie müssen sich direkt an die Bank wenden, um einen persönlichen Kontakt  
+> zwischen Ihnen und ihr herzustellen, da sie Ihnen einige wichtige  
+> finanzielle Informationen senden wird, um den Überweisungsprozess zu  
+> erleichtern. Bitte kontaktieren Sie die ENTERPRISE HOLDINGS PEOPLES BANK  
+> mit den unten stehenden Kontaktinformationen des  
+> Auslandsüberweisungsmanagers (Carbert George), der die Überweisung der  
+> Gelder veranlassen wird.  
+>   
+> Verantwortlich für Auslandsüberweisungen  
+>   
+> SERIENCODE: 67843250988  
+> Name der Bank: ENTERPRISE HOLDINGS PEOPLES BANK  
+> E-Mail-Adresse: account@holdingspeoplesenterprise.com  
+> Kontobetreuer: Carbert George  
+>   
+> Wenn Sie die Bank kontaktieren, wird empfohlen, die  
+> Legalitätsbescheinigung als Bestätigung zu senden.  
+>   
+> Diese Maßnahmen werden ergriffen, um maximale Überweisungssicherheit zu  
+> gewährleisten und eine missbräuchliche Verwendung von Geldern aufgrund  
+> der enormen Geldbeträge zu verhindern {BULK FUNDS}.  
+>   
+> Bitte kontaktieren Sie daher den Auslandsüberweisungsmanager der Bank  
+> mit den oben stehenden E-Mail-Kontaktinformationen {  
+> account@holdingspeoplesenterprise.com }.  
+>   
+> Nachdem die Bank Ihnen 890,000.00 USD überwiesen und Ihre Mittel  
+> bestätigt hat  
+>   
+> Ich muss Sie loben, Sie wurden von einer der engelhaftesten Seelen  
+> gesegnet, die ich kenne. Ich wünsche Ihnen alles Gute und hoffe, dass  
+> Sie dem Zweck der Spende treu bleiben.  
+>   
+> Ich stehe Ihnen für alle Fragen zur Verfügung, nur für den Fall.  
+
+### Das Zertifikat
+
+Wer jetzt noch Zweifel hat ...
+
+![Certificate of Legality](/posts/2025-01-30-anthonycharities/certificate.webp)
+
+## Also ab zur Bank! (account@holdingspeoplesenterprise.com)
+
+Also dann wenden wir uns also mal an unseren neuen Kontakt:
+
+> SERIENCODE: 67843250988  
+> Name der Bank: ENTERPRISE HOLDINGS PEOPLES BANK  
+> E-Mail-Adresse: account@holdingspeoplesenterprise.com  
+> Kontobetreuer: Carbert George  
+
+Und schreiben eine freudige E-Mail!
+
+> Sehr geehrter Herr Carbert George,  
+>   
+> ich wurde von Barr. Marcus Sherman Owens informiert, dass meine 890.000 USD nun zur Überweisung bereitstehen und ich mich direkt an Sie wenden soll. Selbstverständlich möchte ich den Prozess so schnell und reibungslos wie möglich abschließen.  
+>   
+> Anbei sende ich Ihnen das Legalitätszertifikat als Bestätigung. Bitte lassen Sie mich wissen, welche weiteren Schritte erforderlich sind, um die Überweisung abzuschließen. Gibt es noch Formulare oder Identitätsnachweise, die ich einreichen muss? Und wie lange dauert die Bearbeitung üblicherweise?  
+>   
+> Ich freue mich auf Ihre Rückmeldung und danke Ihnen für Ihre Unterstützung.  
+>   
+> Mit freundlichen Grüßen,  
+> Hugo Scholz  
+> Baldiger Philanthrop und glücklicher Spendenempfänger 💸  

@@ -196,4 +196,74 @@ Kein Thema sagen wir und schreiben zurück. Natürlich kennen wir die Zahlungsme
 > Ich freue mich auf eure Anleitung.    
 >   
 > Mit öligen Grüßen,    
+> Hugo aus Wanne-Eickel 
+
+## Moneygram it is!
+
+
+Jetzt wird’s offiziell: Die Illuminaten brauchen Geld – und zwar per MoneyGram an eine Person in Istanbul. Kein Elite-Konto in der Schweiz, kein geheimes Offshore-Vermögen, sondern eine klassische Bargeldüberweisung an „Meral Tunc“.
+
+> Nachfolgend finden Sie die Zahlungsinformationen von moneygram  
+>   
+> Vorname des Empfängers: MERAL  
+> Nachname des Empfängers: TUNC  
+> Land des Empfängers: Türkei  
+> Stadt des Empfängers: Istanbul  
+>   
+> Versuchen Sie, einen beliebigen Moneygram-Shop zu finden und gehen Sie mit den oben genannten Details dorthin und führen Sie die Zahlung durch. Sobald Sie dort angekommen sind, teilen Sie ihr mit, dass Sie 650 EUR an die oben genannte Person senden möchten, und senden Sie uns einen Zahlungsbeleg zur Bestätigung, damit wir fortfahren können.  
+>   
+> Bitte senden Sie uns eine WhatsApp-Nummer, damit wir mit Ihnen kommunizieren können und es für uns alle einfacher wird, mit dem Prozess Ihrer Mitgliedschaft fortzufahren. Ich warte darauf, bald von Ihnen zu hören  
+
+### Hugo will Barzahlung
+
+Hugo zeigt sich natürlich kooperativ – aber Barzahlung wäre doch viel praktischer! Vielleicht gibt es ja sogar einen Illuminaten-Vertreter in Wanne-Eickel? 
+
+> Sehr geehrte große Illuminati-Gesellschaft,  
+>   
+> vielen Dank für die Zahlungsinformationen. Istanbul? Türkei? Das klingt ja richtig international! Ich hätte erwartet, dass die Illuminaten vielleicht eine eigene Bank oder zumindest eine geheime Schatzkammer haben – aber gut, man lernt nie aus.  
+>   
+> Bevor ich losziehe, habe ich noch eine kleine Frage: Kann ich das Geld auch in bar übergeben? Ich hätte nächste Woche zufällig eine Geschäftsreise nach Wanne-Eickel-Süd, vielleicht gibt’s dort ja einen Illuminati-Vertreter, der das persönlich entgegennehmen kann?  
+>   
+> Alternativ: Könnt ihr mir ein offizielles Illuminaten-Zahlungszertifikat ausstellen? Einfach, damit ich beim MoneyGram-Shop nicht wie ein Amateur aussehe – schließlich zahlt man ja nicht jeden Tag für eine Elite-Mitgliedschaft!  
+>   
+> Freue mich auf eure Rückmeldung!  
+>   
+> Mit öligen Grüßen,  
+> Hugo aus Wanne-Eickel  
+
+## Barzahlung gibt es nicht!
+
+Jetzt wird’s offiziell: **Die Illuminaten nehmen kein Bargeld an!** Wer dachte, dass eine geheime Weltelite vielleicht über eine eigene Bank oder zumindest ein bisschen finanzielle Flexibilität verfügt, wird enttäuscht. **MoneyGram oder nichts!**  
+
+Besonders interessant: **Die 650 Euro sind nur ein Zeichen der Hingabe.** Wer wirklich dazugehören will, muss erstmal zahlen – persönlich treffen kann man die großen Männer der Illuminaten erst nach der Einzahlung!
+
+
+> Hallo Hugo  
+> Die Illuminati haben keine Bank, aber wir haben Bankgeschäfte mit so vielen Banken in der Welt.  
+>   
+> Ihr könnt das Geld nicht in bar übergeben, denn das ist nur ein Zeichen von 650 und es wäre so töricht, solches Geld an große Männer von Illumminati zu übergeben, und ihr seid noch kein vollwertiges Mitglied, also könnt ihr euch mit keinem der Illuminati-Mitglieder treffen, bis ihr vollwertiges Mitglied seid und Mitglied werdet,  Sie müssen die 650 für die Mitglieds- und Registrierungskarte bezahlen.  
+>   
+> Ich werde Ihnen raten, jedes Moneygram in Ihrer Nähe zu lokalisieren und in den Laden zu gehen und die Zahlung mit den Daten vorzunehmen, die ich Ihnen gesendet habe. Es gibt jetzt kein Illuminati-Zertifikat für euch, bis ihr ein vollständiges Mitglied dieser großartigen Gesellschaft seid.  
+>   
+> Ich werde Sie noch einmal daran erinnern, uns freundlicherweise eine WhatsApp-Nummer für eine schnelle Kommunikation zu senden. Bitte führen Sie die Zahlung durch und senden Sie uns den Zahlungsbeleg zur Bestätigung und senden Sie uns auch Ihre WhatsApp-Nummer. Ich warte darauf, bald von Ihnen zu hören  
+
+
+### Ein kleiner Fauxpas beim Überweisen
+
+Hugo hat sich tatsächlich auf den Weg gemacht, um das Geld über MoneyGram zu überweisen – doch es gab einen kleinen Zwischenfall. Beim Erstellen des Überweisungsauftrags hat er leider **das falsche Land ausgewählt**! Statt in die Türkei sollte das Geld plötzlich nach **Turkmenistan** gehen. 
+
+![](/posts/2025-01-27-illuminaten/moneygram_1.webp)
+
+Da wir noch unsicher sind, fragen wir aber nochmal mit dem Screenshot nach, ob das so passt!
+
+> Sehr geehrte große Illuminati-Gesellschaft,    
+>   
+> ich habe mich bemüht, die Zahlung über MoneyGram vorzunehmen, und wollte sicherstellen, dass alles korrekt ist, bevor ich den Vorgang abschließe. Ich habe einen Screenshot erstellt (siehe Anhang). **Passt das so, oder muss ich noch etwas ändern?**    
+>   
+> Ich möchte sicherstellen, dass das Geld wirklich an den richtigen Ort gelangt – schließlich geht es um meine Mitgliedschaft in eurer großartigen Gesellschaft!    
+>   
+> Ich freue mich auf eure Rückmeldung, damit wir den Prozess schnell abschließen können.    
+>   
+> Mit öligen Grüßen,    
 > Hugo aus Wanne-Eickel    
+

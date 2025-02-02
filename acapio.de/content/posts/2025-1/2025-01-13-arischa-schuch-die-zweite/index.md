@@ -730,3 +730,136 @@ Hugo, der romantische Draufgänger aus Hamburg, bleibt standhaft – aber verst�
 >   
 > Alles Liebe,    
 > dein Hugo    
+
+## Fexpress schickt eine neue Bankverbindung!
+
+Wir bekommen eine neue Bankverbindung, die Inhaberin ist die gleiche, allerdings sitzt unsere Bank nun auf einmal in Bayern. Wir schreiben auf jeden Fall mal die Bank an.
+
+> Below are the other Germany Bank account details of our company-assigned agent for the payment, and the Purpose of payment will be Assistance  
+>   
+> ****************************************************  
+>   
+> Instant-transfer-Sofortüberweisung  
+>   
+> Bank name : sparkassen bank  
+> Holder name : Jacqueline Dachsel  
+> Konto Number : 23520653  
+> IBAN : DE73 7025 0150 0023 5206 53  
+> Swift code : BYLADEM1KMS  
+> Holder address: Traubinger Str. 28, 82340 Feldafing Germany 🇩🇪  
+> Bank Address: kreissparkasse München Starnberg Ebersberg sendlinger-tor- plate 1 80336 München Germany 🇩🇪  
+>   
+> Purpose of payment: Assistance  
+
+In einer extra E-Mail werden wir darauf hingewiesen, die Zahlung besser ein kleiner Stückelung vorzunehmen.
+
+> Meanwhile, make the payment part by part, like 1500 euros and 1440 euros, so that it will be easier.  
+>   
+> We are waiting for your payment slip.  
+
+### Wir geben uns weiterhin verwirrt
+
+Wäre doch gelacht, wenn wir den Geduldsfaden von Fexpress nicht endgültig zum Platzen bringen! Hugo bleibt weiterhin der freundliche, aber etwas schwer von Begriff seiende Kunde, der einfach nicht verstehen will, warum plötzlich ein neues Konto ins Spiel kommt.
+
+> Dear Fexpress,  
+>   
+> Hello, I received your message and the new bank details. But now I am confused – why do I have to send the payment to a different bank account? You said before that nothing was wrong with the first account. If that was true, why do I need to use a new one now?  
+>   
+> Also, I see the account holder is the same person as before. I don’t understand why this is happening. My bank already checked the first account and blocked it. How do I know this new account will not have the same problem?  
+>   
+> Please explain this to me before I send anything. I don’t want another problem like before.  
+>   
+> Waiting for your reply.  
+>   
+> Best regards,  
+> Hugo  
+
+### Auch Arisha gibt nicht auf: Liebe, Druck und ein fester Reiseplan  
+
+Arisha bleibt am Ball und sorgt für die Extraportion Romantik – garniert mit der üblichen Dringlichkeit. **„Ich werde dich für immer lieben!“**, versichert sie Hugo, bevor sie ihn daran erinnert, **endlich zu zahlen**.  
+
+Ihr Fokus liegt jetzt auf der **Lieferung des Gepäcks**, denn sie braucht ein konkretes Datum, um „ihre eigene Ankunft in Hamburg“ zu planen. 
+
+Und als krönender Abschluss: Eine herzliche Vorschau auf das Treffen am Flughafen, inklusive **fester Umarmung und Küsse**. 
+
+Ob Hugo sich weichklopfen lässt oder noch eine weitere Runde Verwirrung stiftet? Das Koffer-Drama geht weiter! 💼💋✈️😂  
+
+> Guten Morgen, Liebling Hugo. Wie geht es dir heute und wie war deine Nacht? Ich komme gerade zurück, um dir zu schreiben, und ich kann nicht aufhören, dir für alles zu danken, was du für mich getan hast, und ich werde dich für immer lieben. Mir geht es gut, Liebling, und mein Plan ist, das Datum zu erfahren, an dem die Reederei dir das Gepäck liefert, damit ich dir mein Ankunftsdatum mitteilen kann, damit wir uns in Hamburg treffen und zusammen glücklich sein können.  
+>   
+> In der Zwischenzeit hat mir die Reederei eine weitere Bankkontonummer für die Zahlung geschickt, und bitte gib mir Bescheid, sobald du die Zahlung heute Morgen geleistet hast, damit ich der Reederei schreiben kann, damit sie schnell geliefert wird, denn ich möchte keine weitere Verzögerung.  
+>   
+> Bitte, mein Plan bleibt derselbe, da ich vorhabe, dich dieses Wochenende in Hamburg zu treffen, aber ich möchte das Lieferdatum wissen, damit ich dir mein eigenes Datum nennen kann, an dem ich dich in Hamburg treffen werde. Sag mir also bitte Bescheid, sobald du die Zahlung an die Spedition geleistet hast, damit ich sie nach dem Lieferdatum unseres Gepäcks bei dir in Hamburg fragen kann. Pass bitte immer gut auf dich auf, bis ich dich am Hamburger Flughafen abhole. Ich küsse und umarme dich fest am Flughafen.  
+>   
+> Ich werde auf deine Antwort warten.  
+>   
+> Ich wünsche dir heute einen schönen Arbeitstag.  
+>   
+> Ich liebe dich mehr.  
+
+
+### Wir werden emotional!
+
+In den letzten Nachrichten ging es nur noch um **Geld, Banken und Frachtpapiere** – aber wo bleibt die **große Liebe**? Hugo hat genug davon, nur als wandelnder Geldautomat behandelt zu werden. Er stellt Arisha zur Rede: **„Was ist mit uns? Liebst du mich überhaupt noch oder bin ich nur der Typ, der zahlen soll?“**  
+
+Aber Hugo wäre nicht Hugo, wenn er nicht noch einen draufsetzen würde: **Er fordert ein Video!** Ein Beweis, dass Arisha wirklich für ihn da ist – mit Namen, Liebeserklärung und allem Drum und Dran.  🎥💔😂
+
+> Hallo meine liebe Arisha,    
+>   
+> Ich habe deine Nachricht gelesen, und ich muss dir ehrlich sagen, dass mich etwas belastet. In letzter Zeit dreht sich alles nur noch um den Koffer und die Zahlung. Aber was ist mit uns? Ich dachte, wir haben eine besondere Verbindung, dass wir uns wirklich lieben. Aber im Moment fühlt es sich so an, als wäre ich nur noch der Typ, der bezahlen soll.    
+>   
+> Bitte versteh mich nicht falsch – ich will dir helfen, und ich tue mein Bestes, damit wir endlich zusammen sein können. Aber ich brauche auch ein Zeichen von dir, dass das hier nicht nur um das Geld geht. Kannst du mir einen kleinen Gefallen tun?    
+>   
+> Ich würde mich unglaublich freuen, wenn du mir ein Video oder Sprachnachricht schickst, in dem du meinen Namen sagst und mir direkt sagst, dass du mich liebst. Ich will dich sehen, deine Stimme hören und fühlen, dass das hier echt ist.    
+>   
+> Ich hoffe, du verstehst mich, meine Liebe. Ich will dich hier in Hamburg in die Arme schließen, aber ich brauche einfach das Gefühl, dass ich dir genauso wichtig bin wie du mir.    
+>   
+> Ich warte auf dein Video, mein Engel.    
+>   
+> Alles Liebe,    
+> dein Hugo    
+
+
+## Arisha unter Beschuss – aber die Liebe bleibt stark
+
+Wieder einmal sorgt Arisha für Drama pur: Ein erneuter Angriff auf ihr Militärlager, dieses Mal mit vier getöteten Soldaten. Doch trotz all der Gefahren bleibt ihre größte Sorge natürlich **Hugo und seine Liebe**.
+
+Und natürlich ist das eine gute Ausrede und kein Video oder Sprachnachricht zu schicken!
+
+> Schatz, wie geht es dir heute und wie läuft es bei dir? Entschuldige meine späte Antwort, denn heute Morgen haben ISIS-Terroristen unser Militärlager angegriffen und vier Militärangehörige getötet, und das ist sehr schlimm. Bitte, ich werde dir schreiben, wenn ich vollen Internetzugang habe. Pass bitte gut auf dich auf und vergiss nie, dass ich dich so sehr liebe und immer an dich denke und mich um dich sorge. Gute Nacht und süße Träume, meine Liebe.
+
+### Hugo antwortet 
+
+Arisha bleibt ihrem Muster treu: Immer wenn es um einen echten Beweis geht, passiert ein schrecklicher Angriff. Dieses Mal mit vier toten Soldaten – praktisch genau in dem Moment, als Hugo nach einem Video fragte. Ein echter Zufall… oder doch nur eine billige Ausrede?
+
+Er fordert Arisha sanft, aber bestimmt auf, endlich zu liefern. Wird sie sich herauswinden? Oder geht ihr langsam die Fantasie aus? 🎭💼😂
+
+> Hallo meine liebe Arisha,    
+>   
+> Oh nein, das klingt schrecklich! Ich hoffe, dir geht es gut und du bist in Sicherheit. Ich kann mir nicht vorstellen, wie schwer das für dich sein muss. Bitte pass gut auf dich auf, ich mache mir wirklich Sorgen um dich!    
+>   
+> Aber weißt du, was mir aufgefallen ist? Immer wenn ich dich um ein kleines Video oder eine Sprachnachricht bitte, passiert etwas Schlimmes. Ein Angriff, ein Notfall, schlechte Internetverbindung… Das fühlt sich langsam ein bisschen seltsam an.    
+>   
+> Ich will dir glauben, wirklich, aber du musst mich auch verstehen. Ich tue alles, um dir zu helfen, und alles, was ich wollte, war ein kleiner Beweis deiner Liebe. Sobald du wieder Internet hast, kannst du mir doch sicher eine kleine Nachricht oder ein Video schicken, oder? Ich will einfach deine Stimme hören, das würde mir so viel bedeuten.    
+>   
+> Pass bitte auf dich auf, meine Liebe. Ich hoffe, ich höre bald von dir.    
+>   
+> Alles Liebe,    
+> dein Hugo    
+
+
+## Parallel macht Fexpresscargo Druck!
+
+Fexpresscargo setzt alles auf eine Karte: **Drohkulisse aufbauen und Panik schüren.** Jetzt plötzlich ist Hugos Diplomatenkoffer in Gefahr – **„not too secured“** – und könnte jederzeit **„sized“** werden (sized? Meinen die *seized*? 😂).  
+
+Damit Hugo nicht weiter zögert, gibt’s gleich zwei interessante „Lösungen“:  
+
+1. **Den Zahlungszweck ändern** – diesmal soll es „Assistance“ sein. Klingt fast so, als wollen sie Probleme mit der Bank vermeiden… 🧐  
+3. **Das Geld auf zwei Überweisungen aufteilen** – weil **große** Beträge öfter mal auffallen, oder?  
+
+> Please remember that this is not the time of delaying because your luggage is not too secured in the airport authorities office so everything is now in your hand.  
+>   
+> Use Assistance as the purpose of payment and divide the money into two parts when sending it.  
+>   
+> Too much delay is not good for your luggage to avoid sized because we have tried our best to secure your luggage’s all this while.  
+
+

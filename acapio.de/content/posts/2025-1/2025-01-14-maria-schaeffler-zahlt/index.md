@@ -283,3 +283,36 @@ Hugo fragt natürlich freundlich nach, welcher Preis denn nun für den „Millio
 > Beste Grüße,    
 > Hugo  
 
+## Die Antwort kommt prompt!
+
+Natürlich gilt der höhere Betrag, damit hätten wir eigentlich rechnen können. 
+
+> Grüße,  
+>   
+> Tut mir sehr leid für diesen Fehler.  
+>   
+> Die Gebühr, die Sie zahlen müssen, beträgt 690 Euro. Sobald diese Zahlung eingegangen ist, stellen wir Ihnen Ihren Online-Benutzernamen und Ihr Passwort zur Verfügung, damit Sie mit der Überweisung des Geldes auf Ihr persönliches Bankkonto beginnen können.  
+>   
+> Nachfolgend finden Sie die Bankdaten  
+>   
+> CREDIT SUISSE (Schweiz) AG  
+> BIC CRESCHZZ80A  
+> Löschen 4835  
+>    
+> Ewald Löcher  
+> Eggstr. 22  
+> 4433 Ramlinsburg, Schweiz  
+> IBAN CH28 0483 5137 4298 8200 0  
+> Amount:  690  EURO  
+> EURO  
+>   
+> Bitte tätigen Sie die Zahlung jetzt und senden Sie uns den Zahlungsbeleg zur Bestätigung, damit wir diese Transaktion jetzt abschließen können.  
+>   
+> Bitte melden Sie sich jetzt bei mir.  
+
+### Wir tun so als ob wir zahlen!
+
+Dann spielen wir das Spiel mal mit und überweisen das Geld angeblich. Wir informieren die Scammer und harren der Dinge, die kommen mögen.
+
+
+![Jetzt geht es zur Bank](/posts/2025-01-14_maria-schaeffler-scam/transaction.webp)
