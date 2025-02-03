@@ -244,3 +244,109 @@ Interessant, das wir nun auf einmal in Guben wohnen, diese Angabe haben wir nie 
 Wir leiten die E-Mail weiter an die vermeintliche Bank!
 
 ![](/posts/2025-01-26-silvana-tenreyro-4-mio-pfund/mail_an_bank.png)
+
+
+## Jetzt wird’s teuer – für uns!  
+
+Na endlich! Nach all der Bürokratie, den feierlichen Erklärungen und der tränenreichen Familienzusammenführung mit unserem fernen Verwandten kommen wir zum eigentlichen Kern der Sache: **Wir sollen erstmal zahlen!** 🎉  
+
+Doch keine Sorge, es gibt flexible Optionen:  
+- **850 Pfund** für das Sparkonto – für geduldige Millionäre.
+- **1.500 Pfund** für das Girokonto – weil Zeit Geld ist.
+- **2.700 Pfund** für das Premiumkonto – für den VIP-Betrugsservice mit Sofortüberweisung!
+
+Natürlich kann diese „kleine“ Gebühr **nicht** von unseren 4 Millionen Pfund abgezogen werden. Das wäre ja unseriös! Stattdessen sollen wir brav im Voraus bezahlen – schließlich muss die Fake-Bank auch von etwas leben.  
+
+In jedem Fall sehr fein, dass wir selbst entscheiden können um wieviel Geld wir beschissen werden wollen!
+
+> Hallo Anne  
+>   
+> Sie müssen ein Auslandsüberweisungskonto eröffnen, um Ihre Leistung in  
+> Bargeld umzuwandeln. Ich werde Ihnen Ihre neue Kontonummer und  
+> Kontodetails mitteilen, damit Sie auf Ihr Konto zugreifen und  
+> Überweisungen vornehmen können. Bitte beachten Sie, dass Ihr neues Konto  
+> bei unserer Bank hier in Großbritannien als Offshore-Transitbankkonto  
+> fungiert und Sie in Teilen der Welt online auf Ihr Konto zugreifen  
+> können. Wenn Sie als Nichtansässiger ein Konto eröffnen möchten,  
+> erwartet die Staatsbank, dass die Staatsbank den gewünschten Kontotyp  
+> aus der Liste der Optionen für Nichtansässige unten auswählt und die  
+> Kontoeröffnungsgebühr bezahlt. Wir werden Ihr Konto so schnell wie  
+> möglich eröffnen. Stellen Sie sicher, dass Sie die folgenden Schritte  
+> abgeschlossen haben:  
+>   
+> Schritt 1: Wählen Sie den Kontotyp aus, den Sie eröffnen möchten, und  
+> zahlen Sie Geld auf das Konto ein.  
+>   
+> Art der zu eröffnenden Kontozahlung.
+> 1. 1. Sparkonto ............£850,00
+> 2. Girokonto ...................£1500,00
+> 3. Premiumkonto ................£2.700,00  
+>   
+> 1. Sparkonto Ermöglicht Ihnen die einfache Überweisung von Geldbeträgen,  
+> wirkt sich jedoch erst nach 3 Werktagen auf den Kontostand aus. Sie  
+> erhalten eine Debitkarte und einen Online-Zugang zu Ihrem Konto, den Sie  
+> auch über das Online-Banking nutzen können.  
+>   
+> 2. Das Girokonto ermöglicht ebenfalls einfache Überweisungen. Die  
+> Überweisung wird jedoch erst nach 24 Stunden Ihrem Konto gutgeschrieben,  
+> Sie erhalten eine Bankkarte und können auch online auf Ihr Konto  
+> zugreifen, wo Sie auch Online-Banking nutzen können.  
+>   
+> 3. Das Premiumkonto ermöglicht sofortige Überweisungen und Abbuchungen  
+> von Ihrem Konto. Am schnellsten und sichersten ist es, wenn Sie eine  
+> Bankkarte erhalten und auch online auf Ihr Konto zugreifen können, was  
+> Sie auch über das Online-Banking nutzen können.  
+>   
+> Bitte beachten: Sobald Sie eine Option zum Erhalt Ihres Erbes in Höhe  
+> von 4.000.000,00 £ ausgewählt haben, werden Sie aufgefordert, eine  
+> Zahlungsmethode aus den folgenden Optionen auszuwählen.  
+>   
+> Banküberweisung.  
+>   
+> Die Kontoeröffnungsgebühr geht weder verloren noch wird sie von der Bank  
+> eingezogen. Sie wird als erste Einzahlung verwendet, um Ihr Konto für  
+> Bankdienstleistungen aufrechtzuerhalten. {Scheckabhebung und  
+> internationale Banküberweisung.} Rückerstattungen sind nur möglich, wenn  
+> ein Kunde das Konto schließt und eine vollständige Rückerstattung  
+> erhält.  
+>   
+> Schritt 2: Fügen Sie Ihre Unterlagen als E-Mail-Anhang an. A Ein  
+> Originaldokument, das Ihre Identität bestätigt, d. h. H. Der aktuell  
+> unterschriebene Reisepass oder Führerschein mit der Fotokarte.  
+>   
+> Hinweis: Die Kontoeröffnungsgebühr/das Kontoguthaben kann nicht von  
+> Ihrem Nachlass abgezogen werden, da es in Ihrem Namen von einer seriösen  
+> Versicherungsgesellschaft hier im Vereinigten Königreich vollständig  
+> versichert ist. Dies ist eine Sicherheitsmaßnahme, die von den Einlegern  
+> des Fonds eingeführt wurde, um sicherzustellen, dass wir den vollen  
+> Betrag auf Ihr angegebenes Leistungskonto überweisen. Andernfalls drohen  
+> unserer Bank mit Sicherheit ernsthafte rechtliche Sanktionen. Ihre  
+> dringende Antwort bestimmt, wie schnell Ihre Überweisung beginnt. Sie  
+> senden mir außerdem eine E-Mail mit weiteren Informationen zu Ihrer  
+> Überweisung und Ihrer gewählten Kontoeröffnungsoption. Mit freundlichen  
+>   
+> Kundenservice  
+> Die Finanzdienstleistungsgruppe Northline Trust   
+
+### PDF-Schreiben im Anhang
+
+Damit alles ein wenig glaubwürdiger wird, gibt es noch ein Schreiben im Anhang, angepasst auf unseren Namen. Erstellt mit Word 2010 und als Autor "pc user". 
+
+![](/posts/2025-01-26-silvana-tenreyro-4-mio-pfund/schreiben_bank.webp)
+
+Immmerhin gibt es am Ende noch eine Unterschrift von einem Herrn Wang, auch wenn die Unterschrift nicht nach Wang aussieht. 😁
+
+![](/posts/2025-01-26-silvana-tenreyro-4-mio-pfund/siegel.webp)
+
+### Wir wollen es preiswert!
+
+Wir haben nicht soviel Geld und melde uns mit der Info zurück, das uns das kleine Konto genügt.
+
+> Sehr geehrte Damen und Herren,    
+>   
+> vielen Dank für die Informationen zur Kontoeröffnung. Ich habe mich für das Sparkonto (£850,00) entschieden. Bitte lassen Sie mich wissen, wie ich weiter verfahren soll.    
+>   
+> Ich freue mich auf Ihre Rückmeldung.    
+>   
+> Mit freundlichen Grüßen,    
+> Anne    

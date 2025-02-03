@@ -314,5 +314,14 @@ Natürlich gilt der höhere Betrag, damit hätten wir eigentlich rechnen können
 
 Dann spielen wir das Spiel mal mit und überweisen das Geld angeblich. Wir informieren die Scammer und harren der Dinge, die kommen mögen.
 
-
 ![Jetzt geht es zur Bank](/posts/2025-01-14_maria-schaeffler-scam/transaction.webp)
+
+## Die Bank wird nervös  
+
+Am Montag geht’s rund: Gleich fünf E-Mails flattern ins Postfach – alle mit der gleichen Frage: **„Wo bleibt das Geld?“** Die Betrüger scheinen langsam ungeduldig zu werden. Offensichtlich sitzen sie auf heißen Kohlen und brauchen dringend einen „Erfolg“.  😆
+
+![](/posts/2025-01-14_maria-schaeffler-scam/wo_ist_das_geld.webp)
+
+Hugo lässt sich nicht aus der Ruhe bringen! Wir schreiben kurz zurück, dass das Geld doch von unserem Konto abgebucht wurde.
+
+![](/posts/2025-01-14_maria-schaeffler-scam/wir_haben_gezahlt.webp)

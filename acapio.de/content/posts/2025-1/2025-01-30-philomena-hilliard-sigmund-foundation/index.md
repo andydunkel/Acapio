@@ -271,3 +271,74 @@ Und schreiben eine freudige E-Mail!
 > Mit freundlichen Grüßen,  
 > Hugo Scholz  
 > Baldiger Philanthrop und glücklicher Spendenempfänger 💸  
+
+## Willkommen bei der Bank unseres Vertrauens!
+
+Na endlich, unser Geld ist zum Greifen nah! 🎉 Aber vorher gibt es noch einen kleinen Umweg: Wir müssen bei der **Enterprise Holdings Peoples Bank™** ein Konto eröffnen. Denn **eine echte Bank kann natürlich keine normale Überweisung machen – nein, wir brauchen ein ganz spezielles Spendenkonto!**  
+
+Neu ist hier, dass wir die Registrierung selbst vornehmen müssen!
+
+> Holdings Peoples Bank  
+> ACHTUNG: Hugo  
+>   
+> Willkommen bei ENTERPRISE HOLDINGS PEOPLES BANK. Wir sind ein globales  
+> Finanzinstitut mit 24/7-Kundensupport und Sitz im Herzen der Vereinigten  
+> Staaten. Bei der Enterprise Holdings Peoples Bank versichern wir allen  
+> unseren Kunden, dass wir als effektiver, sicherer und zuverlässiger  
+> Dienstleister agieren. Verwendung von Girokonten mit sofortigem Zugriff.  
+> Damit Sie Geld online auf Ihr Bankkonto überweisen können. Sie müssen  
+> ein Girokonto bei uns eröffnen. Bitte geben Sie die unten angeforderten  
+> Informationen an, damit wir ein Konto für Sie einrichten können. Was Sie  
+> nicht verstehen oder haben, sollte leer bleiben, oder Sie geben den  
+> Namen der Bank an. Wenn Sie das Online-Formular ausfüllen. Lassen Sie  
+> das Feld leer, oder geben Sie den Namen der Bank an, wenn Sie etwas  
+> nicht verstehen.  
+>   
+> Wir werden Ihr Konto überprüfen und Ihnen nur die Kontonummer mitteilen,  
+> damit Sie über die Website der Bank auf Ihr Konto zugreifen können. Sie  
+> können auf Ihr Konto zugreifen, bevor Ihre Spendengelder Ihrem Konto  
+> gutgeschrieben werden. Sie sollten von uns per E-Mail über Ihre  
+> Kontoaktivitäten benachrichtigt werden.  
+>   
+> Eröffnen Sie bei uns ein Girokonto, auf das die Gelder gutgeschrieben  
+> werden. Anschließend erhalten Sie die Online-Anmeldeinformationen, mit  
+> denen Sie online auf Ihr neues Offshore-Konto oder Basis-Girokonto  
+> zugreifen und Geld elektronisch auf jedes Bankkonto in Ihrem Land oder  
+> in einem anderen Teil der Welt überweisen können.  
+>   
+> Registrieren Sie Ihr Konto hier:  
+> https://holdingspeoplesenterprise.com/online/online/auth/register?tc=1  
+>   
+> Grüße  
+> Carbert George.  
+> https://holdingspeoplesenterprise.com/online/  
+> Vielen Dank für Ihre Unterstützung.[  
+> ENTERPRISE HOLDINGS PEOPLES BANK
+
+### Webseite holdingspeoplesenterprise.com
+
+Schauen wir uns noch die Webseite an. Hier scheinen sich die Scammer in der Tat Mühe zu geben. Die Webseite sieht erstmal nicht schlecht aus, enthält aber insgesamt eher vage Informationen.
+
+Der Link zum Online-Banking geht gar nicht.
+
+![Die Webseite](/posts/2025-01-30-anthonycharities/webseite.webp)
+
+Laut Quelltext wurde die Seite auch mit "[HTTrack](https://www.httrack.com/)" von einer anderen Webseite kopiert. Die Software kann Webseiten komplett auf dem Netz herunterladen und offline verfügbar machen.
+
+Dies legt nahe, dass die Domain gerne mal gewechselt wird und anschließend nur die Logos ausgetauscht werden.
+
+![Die Webseite](/posts/2025-01-30-anthonycharities/code.webp)
+
+### Die Registrierung
+
+Neu ist, dass wir unsere Daten selbst liefern müssen. Jede Menge Daten werden abgefordert, uff!
+
+![Registrierung auf der Webseite](/posts/2025-01-30-anthonycharities/register.webp)
+
+Egal: Wir schmeißen das VPN an und füllen das Formular mal aus für den Hugo! **Sogar das Fotos ist Pflicht!**
+
+Wir erhalten umgehend eine Bestätigung!
+
+![Bestätitungsmail](/posts/2025-01-30-anthonycharities/bank_bestaetigung.webp)
+
+

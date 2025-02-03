@@ -574,3 +574,7 @@ Leider gibt man sich keine Mühe, ein Schreiben gibt es nicht. 😞
 Nagut, dann Plan B, wir geben mal wieder vor überwiesen zu haben.
 
 ![](/posts/2025-01-11_neurologe_macht_uns_reich/transaction_2.webp)
+
+Parallel meldet sich auch der olle Haskel, wir schreiben ihm auch noch, das alles in der Mache ist.
+
+![](/posts/2025-01-11_neurologe_macht_uns_reich/whatsapp_1.webp)

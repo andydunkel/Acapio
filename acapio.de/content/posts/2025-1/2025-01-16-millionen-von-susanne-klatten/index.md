@@ -262,3 +262,15 @@ Wir geben uns überzeugter, aber es ist Freitag, die Bank hat bereits zu. Also v
 >   
 > Mit freundlichen Grüßen,    
 > Hugo  
+
+## Die Scammer werden nervös  
+
+Die Geduld der „Rabobank“ scheint langsam am Ende zu sein: Keine Anrede, keine Floskeln – nur noch Dringlichkeit. Sie wollen den Zahlungsbeleg und Hugos Wohnadresse sofort haben. 
+
+Man könnte fast meinen, sie brauchen die 558 € dringender als Hugo seine „Spendenkarte“! 
+
+> Können wir den Zahlungsbeleg zusammen mit Ihrer Wohnadresse erhalten, an die die Spendenkarte überwiesen werden soll??? Dringende Antwort erforderlich.  
+
+Gleichzeit wird auch via WhatsApp nachgehakt, wir stellen die Scammer jetzt mal zur Rede!
+
+![](/posts/2025-01-16_susanne-klatten-schenkt-millionen/whatsapp_1.webp)

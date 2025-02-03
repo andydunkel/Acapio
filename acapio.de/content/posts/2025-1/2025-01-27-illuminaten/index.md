@@ -267,3 +267,12 @@ Da wir noch unsicher sind, fragen wir aber nochmal mit dem Screenshot nach, ob d
 > Mit öligen Grüßen,    
 > Hugo aus Wanne-Eickel    
 
+## WhatsApp-Umfrage  
+
+Ein Blick aufs Handy – mehrere verpasste Anrufe. Der Druck steigt, denn so eine „erleuchtete“ Mitgliedschaft kann natürlich nicht warten. Doch anstatt sofort zu reagieren, drehen wir den Spieß um und erlauben uns einen kleinen Spaß: Erstmal starten wir eine Umfrage.  
+
+![Wie werden die Illuminaten reagieren?](/posts/2025-01-27-illuminaten/whatsapp_1.webp)
+
+Parallel schreiben wir, dass die Überweisung mit MoneyGram aktuell wohl nicht geht. 😞💸
+
+![](/posts/2025-01-27-illuminaten/moneygram_2.webp)
