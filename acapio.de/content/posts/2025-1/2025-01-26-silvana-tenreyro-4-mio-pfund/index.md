@@ -350,3 +350,8 @@ Wir haben nicht soviel Geld und melde uns mit der Info zurück, das uns das klei
 >   
 > Mit freundlichen Grüßen,    
 > Anne    
+
+
+## Weitere E-Mail-Adressen des Scams
+
+- silvanatenreyrompc@gmail.com

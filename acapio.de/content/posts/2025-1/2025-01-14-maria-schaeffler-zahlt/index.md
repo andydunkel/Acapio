@@ -325,3 +325,28 @@ Am Montag geht’s rund: Gleich fünf E-Mails flattern ins Postfach – alle mit
 Hugo lässt sich nicht aus der Ruhe bringen! Wir schreiben kurz zurück, dass das Geld doch von unserem Konto abgebucht wurde.
 
 ![](/posts/2025-01-14_maria-schaeffler-scam/wir_haben_gezahlt.webp)
+
+
+## Die Scammer werden nervös  
+
+Jetzt wird’s hektisch: Die Betrüger bombardieren Hugo mit E-Mails und fordern immer dringlicher den Zahlungsbeleg. Doch es kommt noch besser – plötzlich wollen sie auch seine WhatsApp-Nummer. 
+
+Ob sie versuchen, ihn direkter unter Druck zu setzen? Hugo bleibt gelassen und spielt weiter mit, während die Scammer langsam ins Schwitzen geraten! 😆
+
+
+> Beachten Sie, dass wir die Zahlung noch nicht erhalten haben. Bitte lassen Sie dies von Ihrer Bank bestätigen und melden Sie sich bei mir.  
+> Sie müssen mir jetzt Ihre WhatsApp-Nummer schicken.  
+
+
+Wir schreiben zurück, dass die Bank weiterhin Probleme macht:
+
+> Hallo Herr Hyland,  
+>   
+> ich hab bei meiner Bank nachgefragt, weil die Überweisung eigentlich schon durch sein müsste. Die meinten aber, dass sie eine Bestätigung von Ihnen brauchen, dass das Konto für solche Transaktionen genutzt wird. Anscheinend gab’s da bei internationalen Überweisungen in letzter Zeit Probleme.  
+>   
+> Können Sie das bitte schnell klären? Sobald die Bank das bestätigt hat, ist die Zahlung sofort raus.  
+>   
+> Wegen WhatsApp: Ich hab leider nur so ein altes Nokia-Knochen-Handy ohne WhatsApp. Aber E-Mail klappt ja super!  
+>   
+> Beste Grüße,  
+> Hugo  

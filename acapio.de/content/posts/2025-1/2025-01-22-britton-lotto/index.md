@@ -382,3 +382,33 @@ Wir geben erneut vor gezahlt und zu haben und schicken den Beleg an die Scammer.
 > Hugo  
 
 ![](/posts/2025-01-22-britton-lotto/transaction_zwei.webp)
+
+
+## **Achtung Hugo!** 
+
+Die Betrüger bleiben ihrer Linie treu – und ihrer Lieblingsansprache auch. **"Achtung Hugo!"** Da kommen direkt nostalgische Erinnerungen an Bundeswehrzeiten hoch. Fehlt nur noch ein "Jawoll, Herr Hauptmann!"  
+
+> Achtung Hugo,  
+>    
+> Wir sollten Ihnen Ihre Bankkarte heute Morgen vor die Haustür liefern, aber die 950 Euro, die Sie geschickt haben, sind nicht angekommen. Sie müssen uns mitteilen, wann Sie sie verschickt haben, und uns auch die vollständige Kopie schicken. Außerdem möchte ich, dass Sie sich mit Ihrer Bank in Verbindung setzen, damit diese Ihnen sagen kann, warum das Geld nicht angekommen ist.  
+
+### Zahlung nicht angekommen? Ich raste aus!
+
+Hugo ist sauer! Erst lassen die Betrüger ihn für eine angeblich nicht angekommene Zahlung blöd dastehen, und jetzt soll er auch noch selbst nachforschen? Nicht mit Hugo!  
+
+Er setzt die Scammer unter Druck: Die sollen erst mal selbst ihr Konto checken, bevor sie hier rumheulen. Und wenn wirklich nix angekommen ist, dann bitteschön mit einer offiziellen Bestätigung der Bank! Schließlich kann Hugos Bank ohne was Schriftliches auch nix machen.  
+
+Gerne rufen wir auch selbst bei der Bank an!
+
+> Hallo Herr Pavel,    
+>   
+> jetzt mal ernsthaft, ich hab die 950 Euro doch überwiesen! Ich hab extra mit meiner Bank telefoniert, die sagen, das Geld wurde rausgeschickt. Dat kann doch nich sein, dass dat nich angekommen is!    
+>   
+> Könnt ihr bitte euer Konto noch mal genau checken? Vielleicht hat der Banker gepennt oder das Geld is irgendwo hängen geblieben. Ich brauch von euch auch ne offizielle Bestätigung von eurer Bank, dass nix angekommen is, sonst kann meine Bank da nix machen. Schickt mir auch am besten direkt die Kontaktdaten von eurer Bank, dann ruf ich die persönlich an und klär dat.    
+>   
+> Ich bin echt kurz davor auszuticken, wenn dat Geld nich bald da is. Ich hab doch alles richtig gemacht! Also klärt das ma fix!    
+>   
+> Grüße,    
+> Hugo  
+
+

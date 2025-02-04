@@ -915,3 +915,21 @@ Die Nachricht ist das, worauf Arisha gewartet hat: **„Morgen überweise ich da
 > dein Hugo  
 
 Doch wir alle wissen: **Morgen kann noch so einiges passieren.** Vielleicht ein neuer „Bankfehler“? Vielleicht ein unerwarteter Zwischenfall? Oder doch noch eine weitere kreative Ausrede?  
+
+## Fexpress setzt ein Ultimatum
+
+Fexpress verliert langsam die Geduld und zieht die nächste Karte: **Drohung mit Gebühren!** Angeblich hat das türkische Flughafenamt per **Fax** (Fax? In 2025? 😂) mitgeteilt, dass ab **Donnerstag, dem 6. Februar 2025, Lagergebühren („Demurrage“)** anfallen.  
+
+Natürlich ist das alles nur ein weiterer Versuch, Hugo endlich zum Zahlen zu bewegen. Die **Dramatik wird hochgeschraubt**, aber wir wissen: **Hugo lässt sich nicht so einfach stressen.**  
+
+Bleibt die Frage: Was passiert, wenn das Geld morgen wieder nicht ankommt? **Wird der Koffer dann öffentlich versteigert? Oder taucht plötzlich ein „sehr netter Diplomat“ auf, der helfen kann – gegen eine kleine Extra-Gebühr?** Das Koffer-Drama wird immer absurder! 💼⏳💰😂
+
+> We, the Fexpress Cargo Security Diplomatic Delivery Company, are here to inform you that we have noticed your delay in making the payment, and our company agent has been waiting for your payment all this while, which is very bad for your luggage, and we have tried our best to secure your luggage with Turkish airport authorities, and we received a fax message from the airport authority today that your luggage will start counting demurrage on Thursday, 6/2/2025, and we advise you to do the needful as soon as possible.  
+
+### Na dann zahlen wir mal wieder!
+
+Wir geben erneut vor zu zahlen, mit schlechtem Englisch, aber mit guten Absichten! Natürlich haben wir die Zahlung aufgeteilt, aber dummerweise den Betreff nicht beachtet. Ob da wohl alles glatt geht?
+
+Wäre doch schade, wenn wir erfahren müssten, was nach dem Ultimatum am 06.02. passiert! 🤗
+
+![](/posts/2025-01-13_arisha-schuch-die-zweite/transaktion_geteilt.webp)

@@ -243,7 +243,7 @@ Als wäre das noch nicht überzeugend genug, wurde Hugo sogar ein „Anhang“ g
 
 ![Endlich ein Schreiben mit Stempel](/posts/2025-01-16_susanne-klatten-schenkt-millionen/bankschreiben.webp)
 
-### Kontakt via WhatsApp
+### Kontakt via WhatsApp (+44 7462 207580)
 
 Parallel werden wir über WhatsApp angeschrieben, hier liefert man  uns einen angeblichen Ausweis.
 
@@ -274,3 +274,9 @@ Man könnte fast meinen, sie brauchen die 558 € dringender als Hugo seine „S
 Gleichzeit wird auch via WhatsApp nachgehakt, wir stellen die Scammer jetzt mal zur Rede!
 
 ![](/posts/2025-01-16_susanne-klatten-schenkt-millionen/whatsapp_1.webp)
+
+Wir verabschieden und erstmal aus dem Chat, während die Scammer uns direkt mit zahlreichen Nachrichten bombadieren. Einerseits sollen wir einfach sagen, wenn wir die Spende nicht mehr haben wollen, auf der anderen Seite, wollen sie nicht so leicht vom Haken lassen. 😅
+
+Wir fragen nach, warum die "Rabobank" denn eine Bankverbindung bei der Sparkasse hat.
+
+![](/posts/2025-01-16_susanne-klatten-schenkt-millionen/whatsapp_2.webp)
