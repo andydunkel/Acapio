@@ -411,4 +411,40 @@ Gerne rufen wir auch selbst bei der Bank an!
 > Grüße,    
 > Hugo  
 
+Hier ist der passende Blog-Abschnitt:  
 
+---
+
+### **Die Mails werden kürzer**  
+
+Die Betrüger scheinen langsam die Geduld zu verlieren – oder ihnen gehen einfach die Ideen aus. Statt ausführlicher Erklärungen gibt’s jetzt nur noch knappe Antworten. Auf Hugos Fragen wird gar nicht mehr eingegangen, stattdessen kommt nur noch die immer gleiche Leier:  
+
+> **"Achtung Hugo,**  
+> Das Geld ist nicht angekommen, das habe ich Ihnen gerade mitgeteilt, und Sie müssen sich an Ihre Bank wenden und alles gründlich prüfen."  
+
+Langsam riecht das hier nach Frust auf der anderen Seite. Werden sie noch eine kreative Ausrede erfinden oder bricht das Kartenhaus bald zusammen? Wir bleiben dran!  
+
+Vorschlag von **ChatGPT** 🤖: "Sollen wir eine neue Antwort von Hugo vorbereiten, um sie noch weiter zu nerven? 😄"
+
+**Klaro!**
+
+## Der Schenkungsvertrag
+
+Jetzt wird’s bürokratisch! Hugos Bank spielt nicht mit und hat die Überweisung kurzerhand gesperrt. Grund? Fehlende Dokumente! Ohne einen offiziellen **Schenkungsvertrag** gibt’s kein Geld – so will es die Bank.  
+
+Natürlich lässt Hugo sich nicht ausbremsen und macht es den Betrügern einfach: Er schickt ihnen ein fertiges Formular, das sie nur noch ausfüllen und unterschreiben müssen. Klingt doch machbar, oder?  
+
+**Ob die Scammer wirklich Lust haben, einen Vertrag auszufüllen?**
+
+![](/posts/2025-01-22-britton-lotto/schenkung.webp)
+
+> Hallo Herr Pavel,  
+>   
+> wir haben jetzt endlich mit der Bank gesprochen, und ich sag’s euch – da gibt’s ein Problem! Die Überweisung wurde von denen gesperrt, weil es sich um eine größere Summe handelt, und die Bank will jetzt einen offiziellen Schenkungsvertrag sehen. Ohne das Dokument lassen die das Geld nich raus!  
+>   
+> Ich hab mal gesucht und ein passendes Formular gefunden, das ihr einfach ausfüllen und unterschreiben müsst. Meine Bank braucht das als Nachweis, dass das hier alles rechtens is. Schickt mir das ausgefüllt zurück, dann geb ich das sofort weiter, und die Kohle kann raus.  
+>   
+> Macht das bitte schnell, sonst dauert das hier ewig!  
+>   
+> Grüße,  
+> Hugo  

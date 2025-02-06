@@ -179,6 +179,48 @@ Wir erstellen wieder einen Zahlungsschein, das macht den Scammern sicher kurzfri
 
 ![](/posts/2025-01-18_kredite-aller-art/transaction.webp)
 
+### Man wird ungeduldig!*
+
+Die nächsten Tage wird regelmäßig nachgehakt – wo bleibt das Geld? Die Betrüger lassen nicht locker und versuchen, Druck aufzubauen. Erst freundlich, dann bestimmend, wird immer wieder nachgefragt, ob die Zahlung endlich erfolgt ist.  
+
+Hier zeigt sich ein typisches Muster von Vorschussbetrug: Sobald das Opfer Interesse zeigt, wird es mit Nachrichten bombardiert, um es zur schnellen Zahlung zu drängen. Dass echte Banken und Kreditinstitute **keine täglichen Erinnerungen per E-Mail oder WhatsApp verschicken**, scheint hier niemanden zu kümmern.
+
+> Sehr geehrter Herr Hugo.  
+>   
+> Wie geht es Ihnen? Ich hoffe, es geht Ihnen und Ihrer Familie gut.  
+> Wir möchten Sie darüber informieren, dass wir Ihre Zahlung noch nicht bestätigt haben und uns fragen, warum es zu dieser Verzögerung gekommen ist.  
+> Wir möchten von Ihnen wissen, ob Ihre Bank bereits eine Abbuchung vorgenommen hat. Und ob Sie uns auch von Ihrer Bank bestätigen lassen können, warum es zu dieser Verzögerung gekommen ist.  
+>   
+> Ich erwarte Ihre Antwort so bald wie möglich.  
+> Vielen Dank für Ihr Verständnis.  
+
+### Die Bank schöpft angeblich Verdacht
+
+Jetzt wird’s eng für unseren „Kreditmanager“. Während die Betrüger gehofft haben, dass Hugo einfach zahlt, kommt plötzlich ein Hindernis ins Spiel: Die **Bank hat die Zahlung blockiert!**  
+
+Das Konto läuft nicht auf eine Firma, sondern auf eine **Privatperson** – und das kommt natürlich verdächtig rüber. Nun wird der Spieß umgedreht: **Soll der Betrüger doch mal ein offizielles Dokument seiner „Finanzinstitution“ vorlegen!**  
+
+In dieser Phase eines Betrugsversuchs gibt es meist zwei Möglichkeiten:  
+
+1. **Der Betrüger versucht zu beschwichtigen**, behauptet, es sei ein „technischer Fehler“ oder schickt eine dilettantische Fälschung.  
+2. **Er wird aggressiver**, weil er merkt, dass sein Opfer nicht einfach zahlt.  
+
+Mal sehen, welchen Weg Herr Lucas aus der Yaya Financial Services jetzt einschlägt… 😆
+
+> Sehr geehrter Herr Lucas,    
+>   
+> ich habe die Überweisung veranlasst, aber meine Bank hat sie blockiert, da das Konto auf eine Privatperson („Godwin Destiny“) und nicht auf ein Unternehmen läuft.    
+>   
+> Die Bank benötigt eine offizielle Bestätigung, dass dieses Konto für geschäftliche Zwecke genutzt wird. Können Sie mir ein entsprechendes Dokument zusenden? Sobald ich das habe, wird die Zahlung freigegeben.    
+>   
+> Ich freue mich auf Ihre schnelle Rückmeldung.    
+>   
+> Beste Grüße    
+> Hugo    
+> BMW-Club Wanne-Eickel    
+
+
+
 ## **Fazit!**  
 
 Kurz gesagt: Statt einem Kredit geht es hier erstmal nur darum, mit „Gebühren“ abzukassieren. Sobald das Opfer die 450 Euro überweist, wird entweder noch eine weitere Gebühr verlangt („Überweisungssteuer“, „Versicherungsgebühr“ etc.), oder der Kontakt bricht komplett ab. Der Kredit? Natürlich nie in Sicht.  

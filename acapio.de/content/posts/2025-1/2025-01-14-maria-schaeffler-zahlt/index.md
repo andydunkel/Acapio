@@ -350,3 +350,35 @@ Wir schreiben zurück, dass die Bank weiterhin Probleme macht:
 >   
 > Beste Grüße,  
 > Hugo  
+
+### Die Scammer drehen langsam durch  
+
+Jetzt brennt die Hütte: Erst bieten die Betrüger großmütig ein „Ersatzkonto“ an, falls das ursprüngliche Konto nicht funktioniert hat – als wäre das hier ein ganz normaler Kundenservice. 
+
+> Ja, dieses Konto kann internationale Überweisungen empfangen.  
+>   
+> Wenn dieses Konto nicht funktioniert hat, können Sie eine Rückerstattung beantragen, damit ich Ihnen ein neues Konto senden kann.  
+>   
+> Wir sollten diese Transaktion inzwischen abgeschlossen haben.  
+>   
+> Bitte melden Sie sich jetzt bei mir.  
+
+Doch nur wenige Minuten später kippt die Stimmung: *„Was ist los??“* Die Geduld der Scammer ist am Limit, die Verzweiflung wächst. Hugo aber? Bleibt seelenruhig und genießt die Show! 😆
+
+> Was ist los??  
+> Wir haben die Zahlung immer noch nicht erhalten, haben Sie jetzt eine Bestätigung von Ihrer Bank??  
+
+## Die Bank blockiert die Zahlung – was nun?  
+
+Hugo spielt die nächste Karte: Die Sparkasse stoppt die Überweisung wegen einer „Sicherheitsprüfung“. Eine einfache E-Mail reicht nicht – jetzt braucht es eine offizielle Bestätigung mit Briefkopf und Unterschrift. 
+
+Mal sehen, ob die Scammer kreativ werden oder langsam aufgeben! Bisher haben sie stets versucht sich keine Arbeit mit Word und Co zu machen. 😆
+
+> Hallo Herr Hyland,    
+>   
+> meine Bank hat die Überweisung gestoppt wegen einer „Sicherheitsprüfung“. Die sagen, eine einfache E-Mail reicht nicht, ich brauche eine **offizielle Bestätigung vom Kontoinhaber**, dass er die Zahlung erwartet – am besten mit Briefkopf und Unterschrift.    
+>   
+> Können Sie mir das schnell schicken? Dann leite ich es an die Bank weiter, damit die Zahlung endlich durchgeht.    
+>   
+> Beste Grüße,    
+> Hugo  

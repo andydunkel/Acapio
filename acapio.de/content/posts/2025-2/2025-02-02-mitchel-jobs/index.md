@@ -103,3 +103,45 @@ Natürlich bleibt die Masche die gleiche: Anne soll ihre **persönlichen Daten**
 Natürlich sind wir jetzt überzeugt. Wir schicken unsere Fake-Adresse, nebst Fake-Ausweis und warten was passiert.
 
 ![Antwort mit Ausweis](/posts/2025-02-02_mitchel-jobs/antwort_anne.webp)
+
+### Jetzt wird’s offiziell: Anne bekommt ein Bankkonto in den USA! 🎉
+
+Nachdem unser guter Freund *Mitchell Jobs* bereits die Existenz von Annes Millionen bestätigt hat, geht es nun ans Eingemachte: Der **Federal Reserve hat sich nach intensiven Meetings** entschieden, dass Anne ihr Geld über eine **akkreditierte Privatbank** in den USA erhält.  
+
+Aber Moment mal – das klingt doch nach einem völlig normalen Prozess, oder? 😏 Natürlich gibt es einen „kleinen“ Umweg: **Anne braucht erst ein spezielles Transitkonto für Nichtansässige**, das **extra für sie eröffnet wird**. Erst dann kann das **Federal Reserve System** die Millionen dorthin überweisen, und Anne kann das Geld bequem per Online-Banking nach Hause schicken. Klingt super praktisch – nur, dass solche „Transitkonten“ in der realen Welt meist mit hohen „Bearbeitungsgebühren“ verbunden sind, die das eigentliche Ziel des Betrugs sind. 💸  
+
+Mitchell gibt sich aber weiterhin seriös: Anne kann ihn jederzeit **auf WhatsApp kontaktieren**, um letzte Fragen zu klären. Vielleicht sollte sie direkt nachfragen, ob das Konto auch eine **kostenlose Kreditkarte mit Hochglanz-Goldrand** beinhaltet? 😆  
+
+> Hallo Anne,  
+>   
+> Ich bestätige den Eingang Ihrer Nachricht mit den angeforderten Informationen und möchte Sie auf diesem Wege darüber informieren, dass wir die Validierung Ihrer Geldzahlung abgeschlossen haben, die von unseren Rechtsberatern notariell beglaubigt wurde. Nach einer Reihe von Besprechungen mit dem Management des Federal Reserve Systems wurden die Dokumente zur Validierung Ihrer Zahlung gegengeprüft und es wurde vereinbart, dass Ihnen Ihr Geld über eine der von der Federal Reserve Bank akkreditierten Privatbanken hier in den Vereinigten Staaten ausgezahlt wird, da das Federal Reserve System, die oberste Bank der Vereinigten Staaten, weder direkte Überweisungen auf Einzelkonten vornimmt noch Kredit- oder Debitkarten ausgibt.  
+>   
+> Das Verfahren zur endgültigen Auszahlung Ihres Geldes ist einfach und unkompliziert: Zunächst wird bei der akkreditierten Geschäftsbank ein Transitkonto für Nichtansässige in Ihrem Namen eröffnet, die Bank wird Sie, den Begünstigten, mit Ihren neuen Kontodaten und dem Online-Banking-Zugang zum Konto kontaktieren, das Federal Reserve System wird dann den Betrag Ihrer Zahlung auf das in Ihrem Namen eröffnete Transitkonto für Nichtansässige gutschreiben, damit Sie das Geld persönlich per Internet-Banking auf Ihr angegebenes Konto in Ihrem Land überweisen können.  
+>   
+> Ich möchte, dass Sie sich bei mir melden und bestätigen, ob Sie mit diesem Verfahren einverstanden sind. Sie können Fragen stellen, wenn Sie welche haben. Sobald ich eine Antwort von Ihnen erhalte, werden wir die Bearbeitung Ihrer Einzahlung abschließen und das Konto in Ihrem Namen bei der Ihnen zugewiesenen akkreditierten Bank eröffnen. Diese wird Sie mit Ihren neuen Kontoinformationen und dem Online-Zugang zu Ihrem Konto kontaktieren. Die Federal Reserve Bank wird dann Ihre 10.782.000 $ auf das in Ihrem Namen eröffnete Transitkonto überweisen, damit Sie eine Online-Überweisung auf Ihr angegebenes Bankkonto in Ihrem Land vornehmen können. Rufen Sie mich gerne an oder senden Sie mir eine Nachricht über WhatsApp, wenn Sie Fragen haben. Vielen Dank für Ihr Verständnis und Ihre voraussichtliche Zusammenarbeit.  
+>   
+> Mit freundlichen Grüßen  
+>   
+> Mitchell Jobs  
+> M.D  
+> RP Financials LLC USA  
+> Tel.: +1 (661) 770-1644 (WhatsApp)  
+> +1 (458) 899-5669 (Anruf und SMS)  
+
+
+### Ein Konto für meine Millionen? Na klar!
+
+Nachdem die Federal Reserve angeblich beschlossen hat, dass Anne ihr Geld über eine Privatbank bekommt, wird es nun spannend. Doch natürlich gibt es einen kleinen Umweg: **Bevor das Geld fließen kann, muss Anne ein spezielles Konto eröffnen** – natürlich extra für „Nichtansässige“. Praktischerweise wird die Bank sie dann direkt mit den Zugangsdaten versorgen. Klingt fast zu einfach, um wahr zu sein … und das ist es auch.  
+
+> Sehr geehrter Herr Jobs,    
+>   
+> vielen Dank für Ihre schnelle Antwort und die ausführlichen Erklärungen. Es ist beruhigend zu wissen, dass meine Millionen bald ausgezahlt werden. Die Einrichtung eines speziellen Kontos klingt interessant, allerdings hätte ich noch ein paar Fragen, bevor wir weitermachen.    
+>   
+> Könnten Sie mir bitte die vollständige Adresse der Bank nennen, damit ich mich informieren kann? Außerdem wüsste ich gerne, ob für die Kontoeröffnung Gebühren anfallen. Falls ja, wäre es gut zu wissen, wie hoch diese sind. Da ich demnächst eine Reise in die USA plane, wäre es auch eine Option, das Geld direkt vor Ort in Empfang zu nehmen. Wäre das möglich?    
+>   
+> Was mich außerdem wundert, ist, warum die Auszahlung über eine Privatbank erfolgt, wenn das Geld offiziell vom Federal Reserve System stammt. Ich dachte, staatliche Institutionen arbeiten anders. Ich wäre Ihnen dankbar, wenn Sie mir das noch einmal erklären könnten.    
+>   
+> Ich freue mich auf Ihre Antwort, damit wir die Auszahlung bald abschließen können.    
+>   
+> Mit freundlichen Grüßen,    
+> Anne  

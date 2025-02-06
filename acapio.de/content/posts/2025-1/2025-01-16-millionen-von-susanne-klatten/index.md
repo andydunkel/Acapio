@@ -207,7 +207,7 @@ Da wir gestern der [Arisha bereits von einer Kontosperre](/posts/2025-01-13_aris
 
 ## Die Bank redet sich raus
 
-Wirklick zufrieden sind wir mit der Antwort nicht, zwar liegt der Fehler auf ihrer Seite, aber sonstige Erklärungen bleiben aus.
+Wirklich zufrieden sind wir mit der Antwort nicht, zwar liegt der Fehler auf ihrer Seite, aber sonstige Erklärungen bleiben aus.
 
 > Hallo, das Missverständnis tut uns sehr leid. Das Thema Konto hat sich geklärt, es war überhaupt nicht Ihr Problem. Nun möchten wir Sie bitten, die Überweisung noch einmal auf das Bankkonto zu tätigen und uns den Beleg zusammen mit Ihrer Privatadresse zuzusenden, damit wir Ihnen Ihre Spendenkarte schnellstmöglich zusenden können. Wir brauchen jetzt dringend eine Antwort.  
 

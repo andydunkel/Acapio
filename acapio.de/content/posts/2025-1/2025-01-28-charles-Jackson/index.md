@@ -103,3 +103,35 @@ Hugo aus Wanne-Eickel reagiert mit einer Mischung aus Höflichkeit und Skepsis. 
 >   
 > Beste Grüße,  
 > Hugo aus Wanne-Eickel  
+
+## Charles antwortet spät – und bleibt vage  
+
+Nach einer längeren Pause meldet sich Charles zurück, entschuldigt sich und erklärt, warum er uns angeblich ausgewählt hat: Wir sollen helfen, sein Geld in Deutschland an Bedürftige zu verteilen. Nebenbei bleibt natürlich auch etwas für uns selbst übrig – wie großzügig!  
+
+Und wie soll das Ganze ablaufen? Über ein mysteriöses „Treuhandkonto“. Genauer wird Charles leider nicht, was unsere Zweifel eher verstärkt als ausräumt.  
+
+> Danke für Ihre E-Mail und entschuldigen Sie meine verspätete Antwort. Mir geht es nicht so gut...  
+>   
+> Hier ist außerdem eine Antwort auf Ihre Fragen:  
+>   
+> 1. Ich habe Sie ausgewählt, damit Sie mir helfen können, diese Mittel in Deutschland an arme und weniger privilegierte Menschen zu verteilen, und dieses Geld ist auch für Sie bestimmt.  
+>   
+> 2. Die Spende wird Ihnen über ein Treuhandkonto überwiesen.  
+>   
+> Ich hoffe, ich konnte Ihre Frage beantworten und Ihre Zweifel ausräumen.  
+
+
+### Wir bleiben skeptisch
+
+> Hallo Herr Jackson,    
+>   
+> vielen Dank für Ihre Antwort und die ausführlichen Erklärungen. Es tut mir leid zu hören, dass es Ihnen gesundheitlich nicht gut geht. Ich hoffe, dass sich Ihre Situation bald bessert.    
+>   
+> Ihre Idee, die Spende über ein Treuhandkonto abzuwickeln, klingt interessant. Um jedoch sicherzustellen, dass alles legitim ist und ich Ihrer großzügigen Geste nachkommen kann, bräuchte ich noch ein offizielles Dokument, das die Echtheit Ihrer Spende bestätigt.    
+>   
+> Vielleicht könnten Sie mir eine Bestätigung von Ihrem Anwalt oder dem Treuhänder schicken, der die Spende verwaltet? Ein Briefkopf, eine Unterschrift und eine Kontaktmöglichkeit des Treuhandkontos wären hilfreich, um sicherzustellen, dass alles korrekt abläuft.    
+>   
+> Ich freue mich auf Ihre Antwort und hoffe, dass wir diese wundervolle Gelegenheit gemeinsam weiter vorantreiben können.    
+>   
+> Beste Grüße,    
+> Hugo aus Wanne-Eickel    

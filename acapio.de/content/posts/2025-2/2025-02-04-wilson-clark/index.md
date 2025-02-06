@@ -53,3 +53,47 @@ Nun gut, wenn der gute **Mr. Wilson Clark** so dringend unsere Bankdaten braucht
 >   
 > Best regards,    
 > Ahmet Kuran, Esq.    
+
+## Wilson Clark legt nach – Jetzt wird’s dramatisch!  
+
+Kaum hat unser ehrenwerter **Ahmet Kuran** Interesse gezeigt, meldet sich **Mr. Wilson Clark** erneut – diesmal mit einer Geschichte, die selbst in einer Seifenoper unglaubwürdig wäre.
+
+Angeblich waren unsere **1,5 Millionen Dollar** schon fast weg, gestohlen von ruchlosen „Vertretern“, die sich an unserem Reichtum bereichern wollten! Aber keine Sorge – die *Financial Conduct Authority* (die keine Bank ist, aber irgendwie doch Geld auszahlt) hat die Bösewichte enttarnt und ist nun bereit, uns das Vermögen per **ATM Visa oder MasterCard** zuzusenden.  
+
+Endlich, ein Leben in Saus und Braus – **sofern wir nur schnell unseren Namen, unsere Adresse, unsere Telefonnummer und einen Scan unseres Ausweises schicken**. Klingt völlig seriös, oder? 😆  
+
+> Payment via ATM VISA Card  
+>   
+> Attn: Beneficiary  
+>   
+> Payment via ATM MasterCard $1.5 Million USD  
+>   
+> This is sequel to our earlier communication concerning the above subject matter and submission of your payment file by the International Monetary Fund and the World Bank, alongside with other fourteen beneficiaries wherein nine beneficiaries have successfully benefited from. The International Monetary Fund and the World Bank has issued instructions to all the Financial Institutions, Federal Ministries and Agencies that no foreign payment henceforth should be via representative(s). You are therefore warned to stop further communication with any of your so called representatives.  
+>   
+> We are surprised that you have not been receiving a series of mail sent to you. Your payment should have been effected before now but your payment release documents/payment file was altered/Tampered with by your former representatives in their desperate move to divert your funds into their private account for their selfish reason (s). Those officials have been penalized and dismissed because of their nefarious activities  
+>   
+> This body “The Financial Conduct Authority (FCA)” is not a bank or any other form of financial institution and should not be regarded or referred to as such. This unit was set up by the International Monetary Fund in conjunction with the World Bank to clear all held funds in the banking database. All vetted payment files will be forwarded to our paying bank for processing and actual effecting of payment via ATM Visa Card or MasterCard to the beneficiaries and will be couriered to your designated address without any hitch. We have a limited time to work with and tender reports to the World Bank afterwards. Further details regarding the release process of your funds will thereafter be communicated to you as soon as we receive reconfirmation of the below listed details as we shall not be liable for releasing of the funds to wrong party  
+>   
+> Please complete all details, Full name and address/Nationality/Company's name and position if any Present occupation/Current mobile phone number/ Passport or identity card (scan copy)  
+>   
+> As soon as you submit this information, the Funds release Order will be sent to you. We expect your urgent response to enable us to monitor this payment effectively.  
+>   
+> Regards  
+> Mr. Wilson Clark  
+> The Financial Conduct Authority (FCA)  
+
+## Offizielle Dokumente? Aber natürlich!  
+
+**Ahmet Kuran** ist nicht von gestern! Ein **seriöses Finanzgeschäft** braucht schließlich **offizielle Dokumente**. 
+
+Eine simple E-Mail reicht da nicht, wir erwarten **gestempelte, unterschriebene und natürlich notariell beglaubigte Bestätigungen** von niemand Geringerem als dem **Internationalen Währungsfonds und der Weltbank** persönlich. Schließlich geht es hier nicht um Kleingeld!  
+
+> Dear Mr. Clark,    
+>   
+> What a relief to hear that my $1.5 million was saved from the clutches of unscrupulous agents! Your diligence is truly commendable. Naturally, I am eager to receive my funds, but before proceeding, I must request official documentation verifying the legitimacy of this transaction. A signed letter from the IMF and World Bank, complete with official seals and notarization, would suffice to ensure that all legal protocols are followed. Additionally, a formal funds release certificate would provide my financial advisors with the necessary assurance.    
+>   
+> Once these formalities are addressed, I shall gladly provide my details. Time is money, and I am eager to put this unexpected fortune to good use.    
+>   
+> Best regards,    
+> Ahmet Kuran, Esq.    
+

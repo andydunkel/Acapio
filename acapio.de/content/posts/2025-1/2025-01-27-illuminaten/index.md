@@ -276,3 +276,20 @@ Ein Blick aufs Handy – mehrere verpasste Anrufe. Der Druck steigt, denn so ein
 Parallel schreiben wir, dass die Überweisung mit MoneyGram aktuell wohl nicht geht. 😞💸
 
 ![](/posts/2025-01-27-illuminaten/moneygram_2.webp)
+
+
+## Wir sollen offline suchen!
+
+Wirklich Mühe geben sich die Illuminaten nicht, kurze Textmails, mit der Aufforderung das Geld mit MoneyGram zu schicken.
+
+> Können Sie einfach einen beliebigen MoneyGram-Shop finden und dort hingehen und die Zahlung vornehmen? Wenn Sie Schwierigkeiten haben, die Zahlung online vorzunehmen, suchen Sie einen beliebigen Moneygram-Shop und sie werden Ihnen helfen. Bitte tun Sie das und melden Sie sich bei mir   
+
+Gut, dann geben wir uns auch keine Mühe, schreiben zurück und stellen uns absichtlich doof!
+
+![](/posts/2025-01-27-illuminaten/shop.webp)
+
+## Erneute Anrufe
+
+Dummerweise sind wir immer nie in der Nähe des Telefons, jetzt sollen wir auch noch mit WorldRemmit zahlen. Nie gehört!
+
+![](/posts/2025-01-27-illuminaten/anrufe.webp)

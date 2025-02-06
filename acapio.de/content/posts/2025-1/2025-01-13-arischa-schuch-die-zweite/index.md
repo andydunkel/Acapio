@@ -933,3 +933,44 @@ Wir geben erneut vor zu zahlen, mit schlechtem Englisch, aber mit guten Absichte
 Wäre doch schade, wenn wir erfahren müssten, was nach dem Ultimatum am 06.02. passiert! 🤗
 
 ![](/posts/2025-01-13_arisha-schuch-die-zweite/transaktion_geteilt.webp)
+
+
+## Fexpress verzweifelt: Das Geld bleibt verschwunden!
+
+Langsam aber sicher geht Fexpress die Geduld aus – oder eher die **Ausreden?** Trotz Hugos „festem Zahlungsversprechen“ ist das Geld natürlich **immer noch nicht eingetroffen.**  
+
+Aber keine Sorge, ihr „Agent“ wird morgen **noch einmal zur Bank pilgern**!
+
+Wird das die **letzte Chance** für Hugo, bevor der mysteriöse Koffer **für immer verloren geht?**
+
+> We, the Fexpress Cargo Security Diplomatic Delivery Company, are here to inform you that we have not receive the payment up till now, but our agent will go back to the bank tomorrow, and we will give you a final answer tomorrow.  
+
+
+### Arisha bleibt optimistisch – mit Gottes Hilfe wird’s schon klappen
+
+Während Fexpress langsam nervös wird, bleibt Arisha **die Ruhe selbst**. Ihr Vertrauen in Hugo ist unerschütterlich, und mit **„Gottes Gnade“** wird das Gepäck bestimmt bald ankommen. **(Gottes Gnade oder Hugos Bankkonto? 🤔)**  
+
+Natürlich schreibt sie **gleich wieder an die Spedition**, um die „Lieferung zu beschleunigen“. 
+
+> Guten Morgen, Liebling. Wie geht es dir heute und wie war deine Nacht? Ich weiß, dass du gut geschlafen hast. Vielen Dank für alles. Ich weiß dich und all deine Mühe zu schätzen und ich glaube, dass sie das Gepäck dieses Mal mit Gottes Gnade erhalten werden, sodass sie die Lieferung abschließen können.  
+>   
+> Bitte erzähl mir, wie es dir geht, und ich werde jetzt an die Spedition schreiben, damit sie es schnell liefern kann.  
+>   
+> Hab einen schönen Arbeitstag und ich werde dich für immer lieben.  
+>   
+> Deine, in Liebe  
+
+Natürlich antwortet Hugo, er bleibt ruhig, auch wenn das Geld nicht ankommt und eigentlich brennt ihm auch langsam mal die Frage unter den Fingernägeln, was für Restaurant er zusammen mit Arisha in Hamburg eröffnen wird!
+
+> Hallo meine liebe Arisha,    
+>   
+> Ich hoffe, du hattest einen schönen Tag! Meiner war ziemlich voll – ich hatte viel zu tun als Kurierfahrer hier in Hamburg. Den ganzen Tag unterwegs, Pakete ausliefern, und zwischendurch ein bisschen Stau – aber das kennst du ja bestimmt.    
+>   
+> Ich wollte dir auch Bescheid geben: **Fexpress hat mir nochmal geschrieben, das Geld ist immer noch nicht da.** Ich verstehe das nicht, aber ich werde morgen selbst nochmal zur Bank gehen und fragen, was da los ist. Ich will endlich, dass das alles erledigt ist, damit du kommen kannst!    
+>   
+> Übrigens, ich habe eine Frage an dich: **Du hast ja gesagt, dass du in Hamburg ein Restaurant eröffnen willst – was für eins denn genau?** Ich finde das total spannend! Hast du schon einen Plan? Deutsche Küche, vielleicht amerikanisch, oder etwas ganz anderes? Ich bin gespannt, was du dir vorstellst!    
+>   
+> Schreib mir, ich freue mich auf deine Antwort.    
+>   
+> Alles Liebe,    
+> dein Hugo    
