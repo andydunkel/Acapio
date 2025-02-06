@@ -65,3 +65,35 @@ Vielleicht ein offizielles Dokument? Oder ein Foto mit einem Zettel, auf dem „
 Da wir eine E-Mail-Adresse haben mit eigener Domain (charity@mrsjoeline.org), rufen wir doch mal die Webseite auf. Leider hat die Dame noch keine Zeit gehabt, eine Webseite zu erstellen. Es kommt nur ein 403 Fehler.
 
 ![](/posts/2025-02-06_mrsjoeline/webseite.webp)
+
+
+## Wir bekommen eine Ausweis
+
+Na, wer hätte das gedacht – Mrs. Joeline liefert tatsächlich einen **Ausweis**! Ein klares Zeichen dafür, dass hier alles mit rechten Dingen zugeht… oder? 😆  
+
+Beim genaueren Hinsehen wird es dann doch ziemlich skurril: Der **Name auf dem Ausweis** wurde einfach mit **„Hugo“ ergänzt** – als wäre er gerade frisch in Photoshop dazugeklebt worden. 
+
+Ein Blick in die Meta-Daten zeigt, dass eine gewisse "okolo nkechi" das Dokument erstellt hat.
+
+![Ausweis](/posts/2025-02-06_mrsjoeline/ausweis.webp)
+
+> Dearest.  
+>    
+> Thanks for your email message and willingness to assist me in fulfilling my long-awaited dream. My creator blesses you. Please know that I am sick and in the hospital, and I was able to get your email address with the help of your country's business directory, and when I saw your name and email, I had the goosebumps and direct spirit feelings that you are the chosen one to carry out this humanitarian mission legally as the next of kin or fund beneficiary after possessing all legal documents.  
+>    
+>    
+> Please assured me of your trust to utilize 75% of this money to fund churches, orphanages, the downtrodden and widows around the world. Your kind gesture is appreciated.  
+>    
+> Kindly send your details to enable me to prepare a letter of authority to back up your claim. It will be sent to you for endorsement.   
+>    
+> Your full Names  
+> Contact Address  
+> Date of Birth  
+> Marital Status  
+>    
+> I await your urgent reply.  
+>    
+> Regard's  
+> Mrs. Joeline,  
+
+
