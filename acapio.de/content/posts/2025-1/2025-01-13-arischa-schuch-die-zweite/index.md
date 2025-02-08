@@ -974,3 +974,49 @@ Natürlich antwortet Hugo, er bleibt ruhig, auch wenn das Geld nicht ankommt und
 >   
 > Alles Liebe,    
 > dein Hugo    
+
+## Fexpress bekommt weiterhin kein Geld – und wird langsam nervös
+
+Langsam aber sicher merkt Fexpress, dass hier etwas nicht stimmt. **Das Geld kommt einfach nicht an.** Jetzt wird die Strategie geändert: Statt weiter Druck zu machen, fragt man vorsichtig nach, ob **Hugos Bank das Geld vielleicht doch nicht abgebucht hat** – und ob man eventuell „**eine andere Lösung**“ finden kann.
+
+> We, the Fexpress Cargo Security Diplomatic Delivery Company, are here to inform you that we also did not receive your payment today, and we want to know if your bank has deducted the money from your account so that we can look for another solution.  
+
+### Auch Arisha schreibt wieder – und übernimmt das Bank-Management*
+
+Arisha wird langsam zur **persönlichen Finanzberaterin**: Wenn Hugos Bank zu viele Fragen stellt, soll er einfach **die Klappe halten, woanders hingehen und zahlen!** **Und bloß nicht wieder den falschen Zahlungszweck verwenden!** 😡  
+
+Neben all den Bankinstruktionen gibt’s aber auch einen neuen romantischen Touch: **Das gemeinsame Zukunftsprojekt – ein kleines amerikanisches Restaurant in Hamburg.** 🍔✨ Und falls Hugo andere Pläne hat? **Kein Problem, Hauptsache das Geld kommt erstmal an!**  
+
+Aber das Beste: **„Unsere Familie wird eine der besten Familien der Welt sein. Vertrau mir.“** Ja klar, Hugo soll einfach **blind vertrauen – so wie bei der Überweisung!**  
+
+> Bitte, Liebling, tu dein Bestes, um heute alles zu regeln, damit wir das heute noch schaffen, damit die Reederei dir das Gepäck ohne weitere Verzögerung liefern kann, bitte. Auch wenn sie dir in der Bank zu viele Fragen stellen, sag ihnen, sie sollen das Geld auf das Konto überweisen, das du ihnen angegeben hast, oder geh zu einer anderen Filiale und zahle, und bitte, der Verwendungszweck sollte Assistant sein, nicht Assistant Fexpress Cargo, denn laut der Reederei hast du denselben Fehler gemacht wie bei der ersten Überweisung, also merke dir bitte alles und geh zu einer anderen Filiale und zahle, wenn deine Filiale sich weigert, das Geld an die Firma zu überweisen, damit ich bald bei dir in Hamburg sein kann.  
+>   
+> In der Zwischenzeit, ja, du hast recht; ich möchte in Hamburg ein kleines amerikanisches Restaurant eröffnen, oder wenn du andere Pläne hast, lass es mich trotzdem wissen, damit wir jetzt anfangen können, unser Leben und unsere Zukunft zu planen. Vielen Dank, dass du mich immer bei allem unterstützt, was ich in Hamburg tun möchte. Sobald ich in Hamburg ankomme, wird uns das Restaurantgeschäft in unserer Zukunft helfen, wenn wir Kinder bekommen, oder wenn du andere Pläne hast, lass es mich trotzdem wissen, damit wir jetzt anfangen können, unser gemeinsames Leben zu planen.  
+>   
+> Bitte informiere mich immer auf dem Laufenden und antworte immer auf meine Nachrichten, denn Kommunikation baut gute Beziehungen auf, und ich liebe dich mein ganzes Leben lang mehr, und ich sorge mich um dich, und unsere Familie wird eine der besten Familien der Welt sein. Vertrau mir.  
+>   
+> Ich werde auf deine Antwort warten, sobald du die Probleme mit deiner Bank geklärt hast, und wenn sie sich weigern, das Geld an das Unternehmen zu überweisen, geh bitte zu einer anderen Filiale und leiste die Zahlung mit dem Zahlungszweck Assistant, nicht Assistant fexpress Cargo.  
+
+Wir sind einen Tag nicht im Netz, da kommt auch gleich die nächste Nachricht.
+
+> Bitte antworte mir jetzt, wenn du online bist, bevor ich ins Bett gehe, denn ich bin sehr müde und muss mich ausruhen.
+
+### Die Polizei besucht uns – jetzt wird’s ernst! 🚔  
+
+BÄM! **Fexpress und Arisha machen Druck – aber jetzt bekommt Hugo Druck von der anderen Seite!** Heute Morgen stand plötzlich die **Polizei** vor der Tür. Der Vorwurf? **Verdacht auf Geldwäsche und international organisierten Betrug.** 😨  
+
+Hugo gibt sich ahnungslos, aber die Beamten sind hartnäckig. **Woher kennt er Arisha? Warum sollte er Tausende Euro ins Ausland überweisen?** Und dann der **Super-GAU:** **Die Polizei will Zugriff auf sein E-Mail-Konto!** 💻🔍  
+
+Doch das Beste kommt noch: **Am Montag muss Hugo zur Vernehmung aufs Revier.** Ein echter Schockmoment!
+
+> Meine liebe Arisha,    
+>   
+> Ich weiß nicht, was ich machen soll – heute Morgen stand plötzlich die Polizei vor meiner Tür! Zwei Beamte haben mich gefragt, ob ich eine große Überweisung ins Ausland machen wollte und ob ich mit einem internationalen Finanzbetrug in Verbindung stehe. 😨    
+>   
+> Sie sagten, dass es Verdachtsmomente für Geldwäsche gibt und dass mein Name in einer Untersuchung aufgetaucht ist! Ich musste ihnen alles erklären und sie haben mich ausgefragt, woher ich dich kenne, was das für ein Koffer ist und warum ich das Geld überweisen wollte.    
+>   
+> Aber das Schlimmste: Sie wollen jetzt Zugriff auf mein E-Mail-Konto! Sie sagten, dass sie alles überprüfen müssen und dass ich am Montag zur Vernehmung aufs Polizeirevier muss! Ich habe solche Angst, dass ich in Schwierigkeiten komme – ich wollte doch nur helfen!    
+>   
+> Bitte sag mir, was ich jetzt tun soll! Ich bin völlig fertig… 😟    
+>   
+> Dein Hugo    

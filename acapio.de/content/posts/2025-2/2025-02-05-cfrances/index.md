@@ -64,3 +64,9 @@ Unsere Betrüger haben sich allerdings eine besonders kreative Masche ausgedacht
 >   
 > HINWEIS: Bitte stellen Sie sicher, dass Sie diese Informationen ausfüllen und sie mir dringend zurücksenden, da wir die erforderlichen Dokumente für diese Spende bearbeiten und die Gelder so schnell wie möglich an Sie überweisen.  
 
+
+### Wir schicken zum Spaß ein paar Daten!
+
+Wir sind mal nicht so und spielen das Spiel mit. Ein paar Fake-Daten haben noch keinen Spammer geschadet. Da wir bereits genug WhatsApp-Kontakte im Spam-Bereich haben, reden wir uns hier lieber raus.
+
+![](/posts/2025-02-05_cfrances/mail_daten.webp)

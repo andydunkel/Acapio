@@ -382,3 +382,28 @@ Mal sehen, ob die Scammer kreativ werden oder langsam aufgeben! Bisher haben sie
 >   
 > Beste Grüße,    
 > Hugo  
+
+## Wir bekommen die Bestätigung
+
+Die Scammer legen sich ins Zeug und liefern ein offizielles „Dokument“ – komplett mit Namen, Kontodaten und einer Unterschrift von „Ewald Löcher“. Natürlich ist das Ganze ein plumper Versuch, seriös zu wirken. Besonders charmant: Der Text erwähnt, dass die 690 Euro zur „Unterstützung der Familie“ erwartet werden. 
+
+Ob das die Sparkasse überzeugen würde? Wohl kaum! 😆  
+
+> Ich, Herr Ewald Locher, bestätige hiermit, dass ich von Hugo Scholz den Betrag von 690,00 € (sechshundertneunzig Euro) zur Unterstützung meiner Familie erwarte.  
+
+![](/posts/2025-01-14_maria-schaeffler-scam/ewald.webp)
+
+### Wir werden misstrauisch  
+
+Warum erwartet „Ewald Löcher“ plötzlich eine Zahlung zur *Unterstützung seiner Familie*? Das klingt doch etwas seltsam für eine Banktransaktion, oder? Statt einer professionellen Bestätigung einer „Bank“ haben die Scammer eine persönliche Bitte zusammengebastelt. Hugo wird langsam skeptisch – oder sagen wir besser: **noch skeptischer!** 😄
+
+> Hallo Herr Hyland,    
+>   
+> vielen Dank für die Bestätigung, aber ich bin jetzt etwas verwirrt. Warum steht in dem Dokument, dass die 690 Euro eine „Unterstützung der Familie“ von Herrn Löcher sein sollen? Ich dachte, es geht hier um die Eröffnung meines Online-Kontos bei der Bank.    
+>   
+> Meine Bank hat mich darauf hingewiesen, dass so eine Formulierung ungewöhnlich ist und sie das nicht als offizielle Bestätigung anerkennen können. Können Sie mir bitte ein korrektes Dokument ausstellen, das klar beschreibt, dass es sich um eine Kontoeröffnungsgebühr handelt?    
+>   
+> Vielen Dank für Ihre Hilfe!    
+>   
+> Beste Grüße,    
+> Hugo  

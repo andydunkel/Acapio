@@ -339,6 +339,23 @@ Egal: Wir schmeißen das VPN an und füllen das Formular mal aus für den Hugo! 
 
 Wir erhalten umgehend eine Bestätigung!
 
-![Bestätitungsmail](/posts/2025-01-30-anthonycharities/bank_bestaetigung.webp)
+![Bestätigungsmail](/posts/2025-01-30-anthonycharities/bank_bestaetigung.webp)
 
+## Erstmal tut sich nix, dann kommt eine Antwort
 
+Erstmal tut sich nix, dann bekommen wir eine Aufforderung zum Einloggen.
+
+> Guten Tag. Bitte leiten Sie jetzt eine Geldüberweisung ein. Ihr Konto  
+> wurde eingerichtet. Wir gehen davon aus, dass Sie über Ihre  
+> Anmeldezugriffe verfügen. Melden Sie sich bitte bei Ihrem Konto an und  
+> tätigen Sie jetzt eine Überweisung.  
+
+Dummerweise geht der Login nicht:
+
+![Login kaputt!](/posts/2025-01-30-anthonycharities/login.webp)
+
+Aber kein Thema, da schreiben wir einfach mal zurück und fragen nach, beim freundlichen Support! Parallel erhalten wir automatisch E-Mails von vermeintlichen Geldeingängen. 
+
+![Geldeingänge](/posts/2025-01-30-anthonycharities/account.webp)
+
+Insgesamt kommen 5 oder 6 Mails und wir haben immer mehr Geld auf dem Konto! Abwarten lohnt sich also!

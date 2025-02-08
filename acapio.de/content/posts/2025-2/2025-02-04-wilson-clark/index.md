@@ -97,3 +97,38 @@ Eine simple E-Mail reicht da nicht, wir erwarten **gestempelte, unterschriebene 
 > Best regards,    
 > Ahmet Kuran, Esq.    
 
+
+## Es gibt keine Dokumente!
+
+Wie überraschend – **Mr. Wilson Clark** kann uns leider **keine offiziellen Dokumente** schicken. Keine gestempelte Bestätigung vom **IWF**, kein feierlich unterzeichneter **Funds Release Order**, nicht mal ein schlecht gefälschtes PDF mit Clipart-Siegel. Stattdessen bleibt er stur bei seiner Forderung: **„Erst eure Daten, dann gibt’s das Geld.“**  
+
+Langsam wird’s albern. **Ahmet Kuran** ist schließlich kein Anfänger in der Finanzwelt – ohne Nachweise gibt er **keinen einzigen Buchstaben seines Namens preis**. Denn wir wissen ja: **Jeder seriöse Multimillionen-Dollar-Deal fängt mit einem amtlich beglaubigten Dokument an!**  
+
+> Attn: Beneficiary Mr.Ahmet Kuran, Esq.  
+>   
+> Regarding your mail and Understand until you submit your information required before we can Issue Funds release Order in your name which will authorise our paying Bank to prepare the VISA OR MASTER ATM CARD FUNDS IN YOUR NAME .  
+>   
+> For us to comment on the actions, Please complete all details, Full name and address/Nationality/Company's name and position if any Present occupation/Current mobile phone number/ Passport or identity card (scan copy)  
+>   
+> Regards  
+> Mr. Wilson Clark  
+> The Financial Conduct Authority (FCA)  
+
+### Ohne Dokumente geht es nicht!
+
+Genug ist genug! **Ahmet Kuran** mag ein geduldiger Aristokrat sein, aber er lässt sich nicht einfach mit leeren Versprechen abspeisen. **Kein Millionär dieser Welt** würde persönliche Dokumente verschicken, ohne vorher eine **offizielle Bestätigung** zu sehen.  
+
+Also drehen wir den Spieß um: **Wenn dieses Geld wirklich existiert**, dann soll **Mr. Wilson Clark** es beweisen! **Ein offizieller Funds Release Order, unterschrieben und gestempelt – so schwer kann das doch nicht sein, oder?**  
+
+Doch genau hier liegt der Haken: **Diese Dokumente gibt es nicht.** Kein IWF, keine Weltbank, keine FCA, die ahnungslose Aristokraten mit Millionen beglücken. **Und genau das wird sich jetzt zeigen.** Wird Wilson kreativ? Oder merkt er langsam, dass sein angebliches „Opfer“ ihn auflaufen lässt?  
+
+> Dear Mr. Clark,  
+>   
+> I appreciate your swift response, yet I must insist on following proper financial procedures. As a man of considerable assets, I cannot simply provide sensitive personal documents without verifying the legitimacy of this transaction. Surely, as a representative of such a prestigious institution, you understand the necessity of formal agreements before proceeding.  
+>   
+> To ease your process, I propose a simple solution: Send me a scanned copy of the official Funds Release Order, signed and stamped, as confirmation. Once I receive this, I shall gladly submit my details without further delay. This will ensure a smooth and legally sound transaction for both parties.  
+>   
+> I look forward to your prompt reply and appreciate your cooperation.  
+>   
+> Best regards,  
+> Ahmet Kuran, Esq.  
