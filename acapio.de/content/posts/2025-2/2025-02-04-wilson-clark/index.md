@@ -132,3 +132,22 @@ Doch genau hier liegt der Haken: **Diese Dokumente gibt es nicht.** Kein IWF, ke
 >   
 > Best regards,  
 > Ahmet Kuran, Esq.  
+
+## Wilson Clark dreht sich im Kreis
+
+Ah, wie vorhersehbar! Mr. Wilson Clark bleibt seiner Linie treu: Ohne persönliche Daten gibt’s keine Dokumente. Angeblich kann der Funds Release Order erst „ausgefüllt“ werden, wenn wir brav Name, Adresse, Telefonnummer und einen Ausweis liefern.
+
+Klingt irgendwie verdächtig, oder? 🤔 Warum kann uns die Financial Conduct Authority nicht einfach eine leere Version des Dokuments schicken, die nur noch mit unserem Namen ergänzt werden muss? Schließlich sind wir ja angeblich die rechtmäßigen Empfänger dieses phantastischen Millionen-Betrags.
+
+> Sir to fill up the Funds Release Order, it required your details which we requested. without you sending your details, the Funds Release Order will not be issued in your name .  
+
+Aber gut, wenn Clark das Spiel weiterspielen will, dann tun wir ihm den Gefallen – und drehen die Schrauben noch ein bisschen an. Ahmet Kuran hat da noch eine geniale Idee… 😏
+
+> Dear Mr. Clark,    
+>   
+> I understand the need for proper documentation. However, before providing my details, I must first review an official template of the Funds Release Order. Please send a blank version so I can ensure all necessary fields are correctly filled. Surely, such a standard document exists within your esteemed institution?    
+>   
+> Looking forward to your response.    
+>   
+> Best regards,    
+> Ahmet Kuran, Esq.  

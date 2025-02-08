@@ -352,6 +352,44 @@ Wir haben nicht soviel Geld und melde uns mit der Info zurück, das uns das klei
 > Anne    
 
 
+## Blog-Zusammenfassung: Der große Moment – die Bankverbindung!  
+
+Und da ist sie! Nach wochenlanger E-Mail-Korrespondenz, Vertrauensbeteuerungen und einer packenden Erbschaftsgeschichte kommt nun endlich das, worauf wir alle gewartet haben: **die Kontodaten!** 🎉  
+
+Doch Moment mal – unser britisches Millionen-Erbe muss auf ein Konto in **Litauen** überwiesen werden? Und dann auch noch an eine **Privatperson** namens *Agnė Valeškevičiūtė*? Vielleicht ist das eine verschollene Halbschwester, die zufällig Buchhalterin in einer fragwürdigen Offshore-Firma ist?  
+
+Egal, die Betrüger sind sich sicher: **Wir sollen endlich zahlen!** Und zwar stolze **1.021,42 €** für unser Online-Millionärskonto. Natürlich geht das Geld nicht verloren – nein, nein! Es landet ja auf unserem neuen Konto. Dass wir darauf nie zugreifen können, ist nur ein kleines technisches Detail…  
+
+> Guten Tag, Anne,  
+>   
+> Ihre E-Mail wurde empfangen. Ich habe außerdem erfahren, dass Sie sich  
+> für das Sparkonto entschieden haben, das 850,00 £ = 1.021,42 € kostet.  
+> Nachdem Sie die Zahlung getätigt und bestätigt haben, wird Ihr Konto  
+> eröffnet und der Online-Zugang wird an Ihre E-Mail-Adresse gesendet,  
+> sodass Sie jederzeit auf Ihr Konto zugreifen und Überweisungen tätigen  
+> können.  
+>   
+> Hinweis: Die 850,00 £, die Sie für die Kontoeröffnung bezahlt haben,  
+> werden auch auf Ihr Online-Konto eingezahlt und Sie können jederzeit und  
+> überall eine Auszahlung vornehmen.  
+>   
+> Hier sind die Bankkontodaten, die Sie für die Zahlung verwenden müssen.  
+>   
+> Konto des Begünstigten oder IBAN: LT827300010001408572  
+> Name des Begünstigten: Agnė Valeškevičiūtė  
+> Adresse des Begünstigten: Saulės g. 4A, Kaunas 50240  
+> Land des Empfängers: Lithuania  
+>   
+> Bitte senden Sie nach der Zahlung einen Zahlungsnachweis. Wenn Sie  
+> Fragen haben, stellen Sie sie und ich bin hier, um sie zu beantworten.  
+> Vielen Dank.  
+>   
+> Mit freundlichen Grüßen  
+>   
+> Herr Daniel Wang  
+
+Wir fragen erstmal zurück unter welchem Verwendungszweck wir die Zahlung vornehmen sollen. 😊 
+
 ## Weitere E-Mail-Adressen des Scams
 
 - silvanatenreyrompc@gmail.com

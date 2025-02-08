@@ -145,3 +145,45 @@ Nachdem die Federal Reserve angeblich beschlossen hat, dass Anne ihr Geld über 
 >   
 > Mit freundlichen Grüßen,    
 > Anne  
+
+## Die Bank aus dem Nichts – Willkommen bei der „Herstal Trust Bank“
+
+Unser Freund *Mitchell Jobs* meldet sich nach einem „Kurztrip nach Alaska“ zurück und bringt Neuigkeiten mit: **Annes Millionen sollen über die „Herstal Trust Bank“ ausgezahlt werden**. Klingt doch seriös, oder? Schließlich gibt es sogar eine Website!  
+
+Aber Moment mal … **hat schon mal jemand von dieser Bank gehört?** Eine kurze Suche zeigt schnell, dass diese „Bank“ **nicht existiert** – sie wurde offenbar extra für den Betrug erstellt. Die Taktik ist klar: Sobald Anne sich darauf einlässt, wird sie vermutlich doch noch „eine kleine Aktivierungsgebühr“ zahlen müssen, um an ihr Geld zu kommen.  
+
+Mitchell versucht diesmal, Vertrauen zu wecken. Die angebliche „Bank“ verlangt *keine Gebühren* (noch nicht …), und Anne müsse auch nicht extra in die USA reisen. Klingt fast zu nett, um wahr zu sein. Und genau das ist der Trick: Betrüger arbeiten oft mit **einer Mischung aus Druck und falscher Sicherheit**, um Opfer in die Falle zu locken.  
+
+> Liebe Anne,  
+>   
+> Wie geht es Ihnen? Ich hoffe, es geht Ihnen jetzt besser und Sie sind wieder auf den Beinen? Ich entschuldige mich für meine verspätete Antwort, ich war auf einem Kurztrip nach Alaska. Bitte beachten Sie in Beantwortung Ihrer E-Mail, dass das Federal Reserve System, die Zentralbank der Vereinigten Staaten von Amerika, wie die Deutsche Bundesbank, keine direkten Überweisungen an Privatpersonen vornimmt, sondern die Begünstigten über eine ihrer akkreditierten Banken auszahlt.  
+>   
+> Wie Ihnen bereits erklärt wurde, ist das Verfahren zur endgültigen Auszahlung Ihrer Mittel durch Überweisung einfach und unkompliziert. Zunächst wird ein Transitkonto in Ihrem Namen bei einer vom Federal Reserve System akkreditierten Privatbank eröffnet. Die Bank wird Sie, den Begünstigten, mit Ihren neuen Kontodaten und dem Online-Banking-Zugang zum Konto kontaktieren. Die Federal Reserve Bank wird dann den Betrag auf das in Ihrem Namen eröffnete Transitkonto gutschreiben, damit Sie die Mittel persönlich per Online-Banking auf Ihr angegebenes Konto überweisen können.  
+>   
+> Die Federal Reserve Bank hat genehmigt, dass Ihnen Ihr Geld über die Herstal Trust Bank (https://herstal-trst.com/) ausgezahlt wird, wo ein Transitkonto in Ihrem Namen eröffnet wird und Sie Online-Zugang zu dem Konto erhalten. Sie überweisen Ihr Geld dann persönlich per Online-Banking auf Ihr angegebenes Konto. Weitere Informationen zur Bank und ihrer Adresse finden Sie auf ihrer Website (https://herstal-trst.com/). Beachten Sie auch, dass Sie für die Eröffnung oder Aktivierung dieses Transitkontos für Nichtansässige, das in Ihrem Namen bei der Herstal Trust Bank eröffnet wird, keine Gebühren zahlen müssen. Selbst wenn Sie wie geplant in die Vereinigten Staaten kommen, wird Ihr Geld dennoch über denselben Prozess freigegeben, sodass Sie jetzt beginnen können, ohne auf Ihre Ankunft warten zu müssen.  
+>   
+> Senden Sie mir eine Bestätigung, ob Sie mit der Fortsetzung einverstanden sind. Auf diese Weise kann ich das Federal Reserve System informieren, damit es die Eröffnung des Transitkontos für Nichtansässige in Ihrem Namen mit der Herstal Trust Bank abschließen kann. Ich warte auf Ihre Antwort.  
+>   
+> Mit freundlichen Grüßen,  
+>   
+> Mitchell Jobs  
+> Geschäftsführender Gesellschafter  
+> RP Financials LLC USA  
+> Tel.: +1 (661) 770-1644 (WhatsApp)  
+> +1 (458) 899-5669 (Anruf & SMS)  
+
+## Die Fake-Bank "Herstal Trust Bank" - herstal-trst.com
+
+Unser lieber Finanzhai *Mitchell Jobs* hat sich richtig ins Zeug gelegt und Anne eine **seriös klingende Bank** für ihre Millionen präsentiert: die **Herstal Trust Bank**. Sogar eine schicke Website gibt es! Doch ein Blick hinter die Kulissen zeigt: **Diese Bank existiert nicht.**  
+
+Die Domain **herstal-trst.com** wurde erst vor kurzem registriert und taucht in Listen von **gefälschten Banken** auf, die gezielt für Betrugsmaschen genutzt werden. Solche Fake-Banken dienen dazu, Opfern eine vermeintlich sichere Umgebung zu bieten, während sie in Wirklichkeit nur einen Zweck haben: **Geld oder persönliche Daten abzugreifen.**  
+
+Wer sich selbst überzeugen will, findet hier eine Liste mit bekannten Fake-Banken, in der auch die „Herstal Trust Bank“ auftaucht:  
+
+🔗 [Liste gefälschter Banken – The Daily Scam](https://www.thedailyscam.com/fake-banks-2/)  
+
+**Die Betrüger haben sich immerhin Mühe gegeben – die Website sieht auf den ersten Blick professionell aus.** 
+
+Allerdings gibt es einige verräterische Details: Sie läuft auf **WordPress**, ein System, das echte Banken in der Regel nicht für ihre Webseiten verwenden. Das allein ist natürlich kein Beweis, aber kombiniert mit der fehlenden Regulierung und dem verdächtigen Hintergrund der Domain wird schnell klar: **Hier versucht jemand, Seriosität nur vorzutäuschen.**
+
+![](/posts/2025-02-02_mitchel-jobs/bank.webp)
