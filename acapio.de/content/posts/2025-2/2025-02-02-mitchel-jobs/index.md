@@ -187,3 +187,24 @@ Wer sich selbst überzeugen will, findet hier eine Liste mit bekannten Fake-Bank
 Allerdings gibt es einige verräterische Details: Sie läuft auf **WordPress**, ein System, das echte Banken in der Regel nicht für ihre Webseiten verwenden. Das allein ist natürlich kein Beweis, aber kombiniert mit der fehlenden Regulierung und dem verdächtigen Hintergrund der Domain wird schnell klar: **Hier versucht jemand, Seriosität nur vorzutäuschen.**
 
 ![](/posts/2025-02-02_mitchel-jobs/bank.webp)
+
+## Jetzt wird’s spannend: Anne ist dabei!
+
+Natürlich machen wir weiter – schließlich wollen wir sehen, wie weit unser Finanzhai noch geht. **Anne gibt sich interessiert, aber ein bisschen überfordert**, denn wer hat schon Erfahrung mit **geheimen Transitkonten und mysteriösen Privatbanken**?  
+
+Also stellt sie ein paar harmlose, aber durchaus sinnvolle Fragen. **Wer ist eigentlich unser Ansprechpartner bei der Herstal Trust Bank?** Schließlich wäre es doch hilfreich, direkt mit der Bank zu sprechen, oder?  
+
+Mit dieser Antwort bleibt Anne weiter **freundlich, aber naiv** – genau die Mischung, die Betrüger lieben. 
+
+> Lieber Herr Jobs,    
+>   
+> vielen Dank für Ihre Rückmeldung. Ich hoffe, Sie hatten eine schöne Zeit in Alaska! Ich freue mich, dass der Prozess nun weitergeht, denn natürlich möchte ich meine Mittel so bald wie möglich erhalten.    
+>   
+> Allerdings muss ich zugeben, dass das Ganze doch etwas kompliziert klingt. Ein Transitkonto, eine akkreditierte Bank, Online-Zugang – das ist alles Neuland für mich, und ich hoffe, dass ich bei Fragen auf Ihre Unterstützung zählen kann. Ich möchte ja nichts falsch machen, damit es keine unnötigen Verzögerungen gibt.    
+>   
+> Gibt es vielleicht eine Ansprechperson bei der **Herstal Trust Bank**, mit der ich mich in Verbindung setzen kann, falls ich Unterstützung brauche? Ich möchte sichergehen, dass ich alle Schritte richtig mache.    
+>   
+> Ich freue mich auf Ihre Antwort und darauf, bald alles in die Wege zu leiten!    
+>   
+> Beste Grüße,    
+> Anne  

@@ -95,3 +95,61 @@ Unsere Strategie ist simpel: **Wir tun so, als ob wir interessiert sind, aber wi
 >   
 > Best regards,    
 > Ahmet  
+
+## Die längliche Antwort
+
+Jetzt wird die Story richtig rührselig! Dr. Norah ist nun quasi schon mit einem Bein im Grab, ihre „Brüder und Schwestern“ sollen für sie beten, und angeblich war das Millionen-Vermögen eigentlich für Landwirtschaft gedacht (WTF?). 😅
+
+Die E-Mail ist lang, sehr lang! Daher verzichten wir auf ein komplettes Zítat!
+
+![Too long did not read!](/posts/2025-02-07_norah-easa-saleh/email_lang.webp)
+
+Aber halt! Jetzt kommt der Trick:
+
+🔴 Das Bankkonto ist „dormant“ (inaktiv), und für die Reaktivierung wird eine „kleine Gebühr“ fällig.  
+🔴 Natürlich kann sie die nicht mehr zahlen, weil sie zu schwach ist – also sollen wir das übernehmen.  
+🔴 Dazu braucht sie unsere vollständigen persönlichen Daten, inklusive Pass- oder Personalausweiskopie.  
+
+An diesem Punkt haben die Scammer das Gefühl, ihr Opfer ist emotional genug involviert, um die erste Zahlung zu leisten. Das ist der Moment, in dem viele Menschen in die Falle tappen.
+
+### Die Dokumente
+
+Eine ganze Latte an Dokumenten soll nun die Ernsthaftigkeit der Absicht untermauern. Es gibt einen Ausweis, Befunde, Lebenslauf.
+
+![Die Dokumente](/posts/2025-02-07_norah-easa-saleh/documents_1.webp)
+
+Wir starten mit dem Ausweis, man sieht fast nicht, dass er mit Photoshop erstellt wurde. Das haben wir schon besser gesehen.
+
+![Ausweis](/posts/2025-02-07_norah-easa-saleh/ausweis.webp)
+
+Dazu gibt es noch ein paar Befunde inklusive CRT-Scan. Damit können wir als Laie natürlich viel anfangen.
+
+![CRT](/posts/2025-02-07_norah-easa-saleh/befund.webp)
+
+Und dazu gibt es noch ein paar Blutwerte?!
+
+![Werte](/posts/2025-02-07_norah-easa-saleh/befund1.webp)
+
+Neben einer ganzen Latte an Fotos, gibt es noch ein Lebenslauf dazu.
+
+![Lebenslauf](/posts/2025-02-07_norah-easa-saleh/lebenslauf.webp)
+
+## Dr. Norah in Not – Doch wo bleibt der Beweis?
+
+Unsere schwerkranke Millionärin wird immer dramatischer, doch nun geht es ans Eingemachte: **Geld soll fließen – aber erst von uns.** Angeblich ist ihr Konto „dormant“ und braucht eine kleine „Reaktivierungsgebühr“, die wir doch bitte übernehmen sollen. Und natürlich – wie es sich für einen richtigen Scam gehört – müssen wir vorher **alle unsere persönlichen Daten samt Passkopie** übermitteln.  
+
+Doch unser unerschütterlicher **Ahmet** bleibt misstrauisch. Statt blind Geld zu überweisen, fordert er **direkten Kontakt zur Bank und einen Beweis, dass Dr. Norah überhaupt existiert.** Ein kurzes Video oder ein aktuelles Foto mit einer Zeitung – ist das zu viel verlangt?  
+
+Wir ahnen schon: **Dr. Norah wird jetzt „sehr schwach“ sein oder plötzlich Kommunikationsprobleme haben.** Wird sie uns mit Ausreden kommen, um der Wahrheit auszuweichen? Oder liefert sie tatsächlich Beweise? Das nächste Kapitel dieser absurden Geschichte steht bevor! 😏
+
+> Dear Dr. Norah Easa Saleh,    
+>   
+> I appreciate your response and deeply sympathize with your situation. Your dedication to helping the less privileged is admirable, and I would be honored to assist in this noble cause. However, given the financial and legal implications, I need to ensure everything is in order before proceeding.    
+>   
+> To move forward, I would like direct contact with your bank to clarify the reactivation process and confirm the necessary details. Additionally, a brief video message from you or a recent photo holding a newspaper would help establish trust and transparency. I hope you understand my cautious approach, given the responsibility involved.    
+>   
+> Looking forward to your response.    
+>   
+> Best regards,    
+> Ahmet    
+

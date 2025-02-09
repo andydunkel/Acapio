@@ -72,7 +72,7 @@ Rediffmail? Noch nie gehört! Kein Wunder, denn das ist kein typischer E-Mail-Di
 
 ![](/posts/2025-02-08_ursula-von-der-leyen/rediff_1.png)  
 
-Ja, **rediffmail.com ist ein kostenloser E-Mail-Dienst aus Indien, der von Rediff.com, einem indischen Nachrichten- und Unterhaltungsportal, betrieben wird.**  
+Ja, rediffmail.com ist ein kostenloser E-Mail-Dienst aus Indien, der von Rediff.com, einem indischen Nachrichten- und Unterhaltungsportal, betrieben wird.  
 
 Das allein wäre ja noch kein Problem – aber **Rediffmail ist berüchtigt für Spam und Betrugsversuche.** Er wird oft von Betrügern und Spammern genutzt, weil:  
 - **Die Domain nicht so bekannt ist** wie Gmail, Yahoo oder Outlook und daher weniger reguliert wirkt.  
@@ -80,3 +80,44 @@ Das allein wäre ja noch kein Problem – aber **Rediffmail ist berüchtigt für
 - **Viele Scam-Mails von dort kommen**, insbesondere bei klassischen Betrugsmaschen wie **„Lottogewinne“, „Erbschaften“ oder angeblichen EU-Auszahlungen.**  
 
 Und mal ehrlich: **Seit wann verschickt die Präsidentin der EU offizielle Millionen-Angebote über eine indische Freemail-Adresse?** Wer bis hierhin noch gezweifelt hat, sollte spätestens jetzt den Braten riechen! 🤨💸
+
+## "Tschrepitsch Wolfgang" meldet sich! Mit Ausweis!
+
+Anstelle von Ursula meldet sich ein gewisser **Wolfgang Tschrepitsch** (borhenhans@gmail.com) und schickt direkt einen „Reisepass“ mit, um Vertrauen zu schaffen.  
+
+Seine Geschichte: Wolfgang habe ebenfalls eine Entschädigungsmail von Ursula erhalten und sei extra nach Belgien gereist, um die Echtheit zu prüfen. Vorher habe er **42.671 € an Gebühren** gezahlt, ohne je Geld zu sehen. Diesmal habe er **590 € gezahlt** – und angeblich die 3 Millionen auf sein Konto bekommen. Nun fragt er Hugo, ob er seine Entschädigung schon erhalten hat. 
+
+> Hallo Hugo
+>   
+> Mein Name ist Tschrepitsch Wolfgang aus Österreich  
+> Anbei mein Reisepass  
+>   
+> Ich war letzte Woche in Belgien, als ich einen Brief von Frau Ursula von der Leyen, Präsidentin der Europäischen Union, erhielt, in dem stand, dass ich von der Europäischen Union eine Entschädigung von 3.000.000,00 € erhalten habe. Ich war so überrascht, dass ich dorthin ging, um das zu bestätigen, und es stimmte. Ich sah Ihre E-Mail neben meiner E-Mail und auch auf der Liste der Entschädigungsgewinner.  
+>   
+> Vorher hatte ich ein Angebot erhalten und über 42.671 Euro für verschiedene Gebühren bezahlt und trotzdem kein einziges Geld erhalten, sie verlangten immer mehr, deshalb ging ich nach Belgien, um zu bestätigen, ob diese 3.000.000 Euro von der Europäischen Union wahr sind oder ein weiterer Betrug.  
+>   
+> Ich zahlte 590 € und meine Entschädigung wurde auf mein Bankkonto überwiesen.  
+>   
+> Haben Sie Ihre Entschädigung bereits erhalten?  
+>   
+> Ich erwarte bald Ihre Antwort 
+
+### Der Ausweis  
+
+Auf den ersten Blick wirkt der Ausweis tatsächlich recht echt – aber genau das ist der Trick. Solche Dokumente werden oft **digital manipuliert** oder von realen Personen gestohlen und in Betrugsmaschen eingesetzt.  
+
+Ob Wolfgangs Ausweis echt ist oder nicht, lässt sich schwer sagen. **Die Wahrscheinlichkeit, dass er geklaut oder gefälscht ist, ist jedoch hoch.** Warum sollte jemand, der angeblich Millionen erhalten hat, wildfremden Personen seinen Ausweis schicken?  
+
+![Sicherheitshalber unkenntlich, der Ausweis](/posts/2025-02-08_ursula-von-der-leyen/wolfgang.webp)
+
+## Hugo ist überzeugt, er will die Millionen!  
+
+Nachdem Wolfgang so überzeugend von seinem „Erfolg“ berichtet hat, scheint auch Hugo langsam auf den Geschmack zu kommen. **Warum nicht die 3 Millionen abstauben, wenn Wolfgang das angeblich geschafft hat?**  
+
+> Hallo Wolfgang,  
+>   
+> danke für deine Nachricht! Bei mir is bisher noch nix angekommen. Kannste mir mal genauer erklären, wie du das gemacht hast? Vielleicht klappt’s dann bei mir auch.  
+>   
+> Danke dir!  
+> Glück auf,  
+> Hugo  
