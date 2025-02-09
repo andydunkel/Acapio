@@ -151,3 +151,35 @@ Aber gut, wenn Clark das Spiel weiterspielen will, dann tun wir ihm den Gefallen
 >   
 > Best regards,    
 > Ahmet Kuran, Esq.  
+
+## Wilson verliert die Geduld 😆  
+
+Oh, wie schade! **Mr. Wilson Clark** hat keine Lust mehr auf unser höfliches Nachfragen. **Ein leeres Dokument? Nicht erlaubt!** Und obendrein unterstellt er **Ahmet Kuran**, nicht ernsthaft an den Millionen interessiert zu sein. **Unverschämtheit!**  
+
+Wir haben also eine neue Erkenntnis:  
+**Millionen vom Internationalen Währungsfonds kann man einfach so bekommen – aber ein leerer Zettel ist strengstens verboten.** 🤔  
+
+> Sorry such is not allowed and it sounds like you are not serious.  
+
+Dann eben nicht, wir bedanken uns und wünschen den Scammern alles gute!
+
+> Dear Mr. Clark,    
+>   
+> I regret to inform you that without proper documentation and further verification, I am unable to proceed with this transaction. As you surely understand, such financial matters require clear, official documentation from the relevant institutions before any sensitive information can be shared.    
+>   
+> I appreciate the time you have taken to correspond with me, but under these circumstances, I must terminate our communication and consider this matter closed.    
+>   
+> Wishing you all the best in your future endeavors.    
+>   
+> Best regards,    
+> Ahmet Kuran, Esq.  
+
+## Fazit: Ein Millionen-Deal ohne Beweise  
+
+Und damit endet unsere kleine Konversation mit **Mr. Wilson Clark**, dem vermeintlichen Vertreter der *Financial Conduct Authority*. Wie zu erwarten, konnte er uns **keine einzige glaubwürdige Bestätigung** für die Existenz dieser angeblichen Millionenüberweisung liefern. Keine gestempelten Dokumente, keine Unterschriften, nicht einmal eine hastig erstellte PDF-Datei mit Clipart-Siegel – nur die immer gleiche Forderung nach persönlichen Daten.  
+
+Das Muster ist eindeutig: **Erst persönliche Informationen abgreifen, dann verschwinden.** Eine klassische Phishing-Masche, die darauf abzielt, leichtgläubige Opfer dazu zu bringen, sensible Daten preiszugeben.  
+
+Die Lektion hier?  
+
+Wenn jemand dir Millionen verspricht – **und im Gegenzug nur deinen Pass sehen will – dann renn!** 😆
