@@ -125,3 +125,10 @@ Wir hoffen inständig, dass wir nicht die Frist zur Einlösung dieses unglaublic
 > Mit freundlichen Grüßen,  
 > Frances und Patrick Connolly.  
 > Frances und Patrick Connolly unterstützen das Wohltätigkeitsprojekt „Life“.  
+
+
+## Weitere E-Mail-Adresen der Scammer
+
+### francesconnolly93322211@gmail.com
+
+> Ihr E-Mail-Konto wurde für eine Spende von £3,700,000.00 ausgewählt. Kontaktieren Sie mich für weitere Informationen
