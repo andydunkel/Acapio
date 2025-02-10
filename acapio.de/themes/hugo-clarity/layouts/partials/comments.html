@@ -9,4 +9,194 @@
     {{ template "partials/giscus.html" . }}
   {{ end }}
   <!-- add custom comments markup here -->
+
+      <!--BEGIN COMMENTS-->      
+      <hr/>
+      <div class="comment-section">
+        <h2 class="comment-title">Hinterlasse einen Kommentar</h2>
+        <form id="comment-form" class="comment-form">
+            <input type="hidden" name="post_id" value="{{ .RelPermalink }}">
+            
+            <div class="comment-form-group">
+                <label for="name" class="comment-label">Name:</label>
+                <input type="text" id="name" name="name" class="comment-input" required>
+            </div>
+    
+            <div class="comment-form-group">
+                <label for="email" class="comment-label">E-Mail:</label>
+                <input type="email" id="email" name="email" class="comment-input" required>
+            </div>
+    
+            <div class="comment-form-group">
+                <label for="comment" class="comment-label">Kommentar:</label>
+                <textarea id="comment" name="comment" class="comment-textarea" required></textarea>
+            </div>
+    
+            <button type="submit" class="comment-btn">Absenden</button>
+        </form>
+    
+        <h2 class="comment-title">Kommentare</h2>
+        <div id="comments" class="comment-list"></div>
+    </div>
+    
+    <style>
+        /* Scoped styles to avoid affecting other parts of the page */
+        .comment-section {
+            max-width: 600px;
+            margin: 20px auto;
+            padding: 20px;
+            background: #f9f9f9;
+            border-radius: 8px;
+            box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+            font-family: Arial, sans-serif;
+        }
+    
+        .comment-title {
+            font-size: 20px;
+            margin-bottom: 15px;
+            color: #333;
+        }
+    
+        .comment-form-group {
+            display: flex;
+            flex-direction: column;
+            margin-bottom: 12px;
+        }
+    
+        .comment-label {
+            font-weight: bold;
+            margin-bottom: 5px;
+            font-size: 14px;
+        }
+    
+        .comment-input,
+        .comment-textarea {
+            width: 100%;
+            padding: 10px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            font-size: 16px;
+            box-sizing: border-box;
+        }
+    
+        .comment-textarea {
+            min-height: 100px;
+            resize: vertical;
+        }
+    
+        .comment-btn {
+            width: 100%;
+            padding: 10px;
+            background-color: #007BFF;
+            color: white;
+            font-size: 16px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            transition: background 0.3s;
+        }
+    
+        .comment-btn:hover {
+            background-color: #0056b3;
+        }
+    
+        .comment-list {
+            margin-top: 20px;
+        }
+    
+        .comment-item {
+            padding: 10px;
+            margin-bottom: 10px;
+            background: #ffffff;
+            border-left: 4px solid #007BFF;
+            border-radius: 5px;
+            box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);
+        }
+    
+        .comment-header {
+            font-weight: bold;
+            color: #007BFF;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+    
+        .comment-date {
+            font-size: 12px;
+            color: #666;
+        }
+    
+        @media (max-width: 600px) {
+            .comment-section {
+                padding: 15px;
+            }
+            .comment-header {
+                flex-direction: column;
+                align-items: flex-start;
+            }
+            .comment-date {
+                margin-top: 3px;
+            }
+        }
+    </style>
+    
+    <script>
+      function loadComments() {
+          let postId = "{{ .RelPermalink }}";
+          fetch(`{{ .Site.BaseURL }}comments.php?post_id=${encodeURIComponent(postId)}`)
+              .then(response => response.json())
+              .then(data => {
+                  let commentsHtml = "";
+                  data.forEach(comment => {
+                      let date = new Date(comment.created_at);
+                      let formattedDate = date.toLocaleDateString('de-DE', {
+                          day: '2-digit',
+                          month: '2-digit',
+                          year: 'numeric'
+                      }) + " " + date.toLocaleTimeString('de-DE', {
+                          hour: '2-digit',
+                          minute: '2-digit'
+                      });
+                      commentsHtml += `
+                          <div class="comment-item">
+                              <div class="comment-header">
+                                  <span>${comment.name}</span>
+                                  <span class="comment-date">${formattedDate}</span>
+                              </div>
+                              <p>${comment.comment}</p>
+                          </div>
+                      `;
+                  });
+                  document.getElementById('comments').innerHTML = commentsHtml;
+              })
+              .catch(error => console.error('Fehler:', error));
+      }
+      
+      document.getElementById('comment-form').addEventListener('submit', function(e) {
+          e.preventDefault();
+          let formData = new FormData(this);
+      
+          fetch('{{ .Site.BaseURL }}comments.php', {
+              method: 'POST',
+              body: formData
+          })
+          .then(response => response.json())
+          .then(data => {
+              if (data.success) {
+                  loadComments();
+                  this.reset();
+              } else {
+                  alert("Fehler beim Absenden des Kommentars. Bitte versuche es erneut.");
+              }
+          })
+          .catch(error => console.error('Fehler:', error));
+      });
+      
+      document.addEventListener("DOMContentLoaded", function() {
+          loadComments();
+      });
+      </script>
+    <!--END COMMENTS-->
+
+
 </div>
