@@ -219,6 +219,52 @@ Mal sehen, welchen Weg Herr Lucas aus der Yaya Financial Services jetzt einschl�
 > Hugo    
 > BMW-Club Wanne-Eickel    
 
+## George Lucas liefert eine Erklärung
+
+Man muss es ihm lassen – unser Kreditmanager George Lucas gibt sich alle Mühe, die Situation zu retten. Er klingt fast enttäuscht, dass Hugo die Zahlung nicht einfach brav erledigt hat. Doch keine Sorge, die Lösung ist schon gefunden: **Western Union nach Kenia!**  
+
+Natürlich rein zufällig hat Yaya Financial Services **vor Kurzem eine Filiale in Nairobi eröffnet**. Klar, warum sollte ein globaler Finanzdienstleister nicht ausgerechnet in Kenia seine wichtigste Außenstelle haben? Und weil das alles so seriös ist, soll Hugo im Western-Union-Büro einfach sagen, dass er **„Geld an einen Freund der Familie“** schickt – das klingt nicht verdächtig, nein nein.  
+
+> Lieber Hugo Scholz.  
+>   
+> Wie geht es Ihnen? Ich hoffe, Sie haben ein schönes Wochenende mit Ihrer Familie.  
+>   
+> Ich habe Ihre E-Mail erhalten und war sehr enttäuscht, eine solche E-Mail von Ihnen zu erhalten. Ich weiß auch, dass es nicht Ihre Schuld ist.  
+>   
+> Sie müssen wissen, dass Herr („Godwin Destiny“) der Kontobetreuer ist und wir noch nie eine solche Beschwerde erhalten haben, dass eine Zahlung getätigt und zurückgeschickt wurde.  
+>   
+> Aber wir haben die beste Option für Sie, damit Sie die Zahlung ohne Probleme tätigen können. Wir empfehlen Ihnen, die Zahlung per Western Union-Überweisungsdienst oder Moneygram-Überweisungsdienst vorzunehmen.  
+>   
+> Wir haben Ihnen diese Option bereits in unserer vorherigen E-Mail vorgeschlagen, aber Sie sagten, Sie wüssten nicht, wie Sie vorgehen sollen. Hier erfahren Sie, wie Sie den Western Union-Zahlungsüberweisungsprozess durchführen. Es ist sehr einfach und der beste Service. Innerhalb von 20 Minuten nach der Zahlung wird Ihre Zahlung hier bestätigt.  
+>   
+> Wir werden Ihnen die Zahlungsinformationen von Western Union zusenden. Nachdem wir Ihnen die Zahlungsinformationen zugesandt haben, gehen Sie zum nächstgelegenen Western Union- oder Moneygram-Transferservicebüro. Wenn Sie im Büro sind, sagen Sie dem Kassierer, dass Sie Geld an einen Freund Ihrer Familie in Kenia senden möchten. Geben Sie ihm die Zahlungsinformationen, die ich Ihnen gesendet habe. Nachdem Sie die Zahlung gesendet haben, gibt Ihnen der Kassierer den Zahlungsbeleg mit den MTCN-Trackingnummern. Sie senden sie mir.  
+>   
+> Lassen Sie mich Ihnen also erklären, warum ich sagte, Sie sollten die Zahlung nach Kenia leisten. Vor Kurzem haben wir eine Filiale in Nairobi, Kenia, eröffnet und haben dort unser Agenturbüro. Sobald Sie die Zahlung an unsere Filiale senden, wird Ihre Zahlung innerhalb von mindestens 30 bis 40 Minuten eingehen. Diese Option beschleunigt die Genehmigung Ihres Kredits und Ihr Kredit kann noch am selben Tag auf Ihr Bankkonto in Deutschland überwiesen werden.  
+>   
+> Wenn Sie mit unserem Vorschlag einverstanden sind, lassen Sie es mich bitte wissen und ich werde Ihnen die Zahlungsinformationen von Western Union zusenden.  
+>   
+> Mit freundlichen Grüßen  
+> Yaya Financial Services  
+> Kreditmanager  
+> Herr George Lucas  
+
+### Hugo zahlt direkt nach Nairobi!  
+
+Na endlich – die Lösung aller Probleme! Wenn die Überweisung nach Italien nicht klappt, dann eben **direkt nach Kenia**. Schließlich hat Yaya Financial Services ja zufällig eine **Filiale in Nairobi**, und das ist natürlich die erste Adresse für seriöse europäische Kreditgeschäfte.  
+
+Hugo zeigt sich kooperativ und möchte das Geld sofort überweisen – er braucht nur noch eine kleine Erklärung, **wie genau man eigentlich Geld an eine nigerian... äh, kenianische Hightech-Bank sendet**.
+
+> Sehr geehrter Herr Lucas,    
+>   
+> vielen Dank für Ihre ausführliche Erklärung. Es beruhigt mich zu wissen, dass Yaya Financial Services eine Filiale in Nairobi eröffnet hat – das klingt wirklich nach einer modernen, internationalen Finanzlösung!    
+>   
+> Ich bin bereit, die Zahlung direkt an Ihre Filiale in Nairobi zu senden. Können Sie mir bitte kurz erklären, wie das genau funktioniert? Welche Zahlungsinformationen brauche ich für die Überweisung dorthin? Gibt es spezielle Hinweise, die ich meiner Bank geben muss?    
+>   
+> Ich freue mich auf Ihre schnelle Antwort, damit wir das endlich abschließen können.    
+>   
+> Beste Grüße    
+> Hugo Scholz    
+> BMW-Club Wanne-Eickel – Immer auf Achse!    
 
 
 ## **Fazit!**  

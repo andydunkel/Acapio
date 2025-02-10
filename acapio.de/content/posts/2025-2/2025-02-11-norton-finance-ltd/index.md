@@ -79,3 +79,74 @@ Jetzt heißt es abwarten: **Gibt es eine Antwort oder geht’s direkt zur „Bea
 > Best regards,    
 > Ahmet    
 > Founder & CEO – JetRide Mobility    
+
+
+## Die Millionen fließen – oder doch nicht?
+
+Bingo! Die Antwort kam schnell – und sie ist genau das, was man von einem **erstklassigen Fake-Investor** erwarten würde. **10 Millionen Dollar Mindestkredit? Kein Problem!** Branche? Egal – ob wir eine **Goldmine, ein KI-Startup oder eine Pinguin-Farm** finanzieren wollen, sie sind dabei! Und das Beste: **Kein Eigenkapital nötig!**  
+
+Natürlich gibt es ein paar „Kleinigkeiten“ zu beachten. Erstmal müssen wir eine **Verschwiegenheitserklärung (NDA)** unterschreiben – weil man bei solch **hochseriösen Deals** nicht möchte, dass Außenstehende mitbekommen, wie großzügig hier Millionen verteilt werden. Danach sollen wir einen **Antrag ausfüllen und möglichst viele Dokumente schicken**, denn ihre **„vollständige Transparenz“** bedeutet offenbar, dass **wir erst alles preisgeben müssen, bevor sie irgendwas über sich verraten**.  
+
+Klingt fair, oder? 😏  
+
+Aber Moment mal… könnte es sein, dass am Ende doch noch **eine kleine Bearbeitungsgebühr** auf uns zukommt? Vielleicht nur ein winziger Betrag – sagen wir, **50.000 Dollar** – um „administrative Kosten“ zu decken? 
+
+> Dear, Mr.   
+> Please find below our funding criteria:  
+>   
+> We offer 100%  funding either debt or equity or combination worldwide- $10M and above.  
+> Funding based on strength of project not LTV or LTC.  We fund in the Energy, Technology, Mining, Real Estate and Business sectors.  
+> It is our goal to offer you a quick, transparent and professional experience along with the most efficient service to fund your project.  
+>   
+> We provide 100% of borrower’s capital request in the form of debt, equity or a combination..  
+>   
+> We can offer a moratorium on payments until the project is stabilized and cash flowing if the timeline to stabilization is reasonable.  
+>   
+> (Determined on a case-by-case basis but usually with a minimum period of 36 months)  
+>   
+> We will need a mutual agreement/NDA completed, executed and returned by all parties to the project.   
+>   
+> Additionally, once we know the sector of the funding request i.e. Energy, Technology, Mining, Real Estate or Business we may provide questions that must be answered in detail and returned to access risk factors and determine our interest.  
+>   
+> We are fully transparent and provide all the information for you to make an intelligent decision on doing business with us.  
+>   
+> If the project has merit with strong principal, a very good plan, capital to support the project until funding we can get you through our in-house underwriting to  funding. Minimum loan amount is $10M USD up to a maximum of $200M USD.  
+>   
+> Please note that our initial assessment is based on the documents that you provide.   
+>   
+> You are therefore advised to send as many supporting documentation as possible to enable us reach a timely decision on your request.  
+>   
+> Also, a funding application form is attached for you to fill out and return for processing.  
+> Thank you,  
+
+## Das ominöse „Finanzierungsformular“ – Ein Datensammler par excellence
+
+Und da war es: das **offizielle Finanzierungsformular**! Ein Dokument von beeindruckender **Seriosität** – oder zumindest ein Sammelsurium an **persönlichen Daten, die ein Betrügerherz höherschlagen lassen**.  
+
+Wir sollen also brav unsere **Passnummer, Adresse, Telefonnummer, Firmeninfos und sogar einen „Verwandten, der nicht mit uns zusammenwohnt“** angeben. Warum? **Vermutlich, weil Steven Robert sichergehen will, dass auch Tante Erna aus Buxtehude von diesem tollen Deal erfährt.**  
+
+Noch besser: **Rechtsanwalt-Daten** werden ebenfalls abgefragt – vermutlich für spätere „Bearbeitungsgebühren“ oder einen hochseriösen **„notariellen Stempel“ für nur 50.000 Dollar**.  
+
+Ach ja, die **finanziellen Details**? Die scheinen nicht so wichtig zu sein. Keine Fragen zu **Sicherheiten, Unternehmenszahlen oder wirtschaftlicher Tragfähigkeit** – nur eine **Zahl für den Kreditbetrag und die gewünschte Währung**.  
+
+![](/posts/2025-02-11_norton-finance-ltd/formular.webp)
+
+### Wir "füllen" das Formular aus
+
+Da uns das ganze etwas viel Arbeit ist, lassen wir die Arbeit durch ChatGPT erstellen. Das Layout ist anders, aber mit einer kleinen Notlüge geht es sicher.
+
+![](/posts/2025-02-11_norton-finance-ltd/formular1.webp)
+
+> Dear Mr. Robert,    
+>   
+> Thank you for your response and for outlining your funding criteria. We appreciate your interest in JetRide Mobility and are excited about the opportunity to collaborate with your esteemed firm.    
+>   
+> As part of our standard process when engaging with investors, we have prepared a project funding application template, which we use for all investment discussions. This ensures consistency and allows us to efficiently share relevant project details.    
+>   
+> Attached you will find our standardized funding application form with all necessary information about JetRide, our financials, and funding requirements. Please review the document and let us know the next steps in your due diligence process.    
+>   
+> Looking forward to your feedback.    
+>   
+> Best regards,    
+> Ahmet Kuran    
+> Founder & CEO – JetRide Mobility    

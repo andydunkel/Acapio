@@ -121,3 +121,22 @@ Nachdem Wolfgang so überzeugend von seinem „Erfolg“ berichtet hat, scheint 
 > Danke dir!  
 > Glück auf,  
 > Hugo  
+
+## Wolfgang schwört auf die 590-Euro-Gebühr  
+
+Wolfgang lässt nicht locker und teilt nun seine ganze Leidensgeschichte. **Er wurde unzählige Male betrogen, hat Tausende von Euro an ominöse „Gebühren“ bezahlt und nie einen Cent gesehen.** Doch diesmal – endlich! – habe es geklappt. **Die Europäische Union hat ihn tatsächlich entschädigt!** Und der Schlüssel zum Erfolg? **Eine „Spendenabrechnungsgebühr“ von 590 Euro.**  
+
+Jetzt soll auch Hugo zuschlagen und sich das Geld holen. Alles, was er tun muss: **Die gleiche Gebühr überweisen und „ursulaleyen@rediffmail.com“ kontaktieren.**  
+
+Wolfgang ist fürsorglich und hakt direkt nach.
+
+![](/posts/2025-02-08_ursula-von-der-leyen/mail_von_wolfgang.png)
+
+Natürlich lassen wir uns das nicht zweimal sagen und schreiben der Ursula, eigentlich wissen wir nicht, worum es genau geht, aber für eine unbeholfene E-Mail reicht es.
+
+> Hallo,  
+>   
+> ich soll mich bei Ihnen melden. Ich weiß aber gar nicht genau um was es geht, aber anscheinend ist mein Geld zur Zahlung bei Ihnen?! Vielleicht können Sie mir weiterhelfen.  
+>   
+> Gruß  
+> Hugo

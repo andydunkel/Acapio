@@ -34,27 +34,27 @@ Wer auf das Angebot eingeht, bekommt bald Post von einer **Bank**, die den angeb
 
 Damit alles „offiziell“ abgewickelt werden kann, fallen **Gebühren** an – und zwar nicht zu knapp. Diese müssen natürlich im Voraus gezahlt werden. Sobald das Geld überwiesen ist, reißen die Kontaktpersonen plötzlich ab, und das versprochene Millionenvermögen bleibt eine Illusion.  
 
-## Dokumente und Metadaten, Jetride und Truth Edbele
+## Dokumente und Metadaten, Jetride und Truth Egbele
 
 PDF-Dokumente sind besonders interessant für die Analyse, da sie oft wertvolle Metadaten enthalten. In diesem Fall zeigen die Metadaten, dass die Dokumente bereits im Jahr 2023 erstellt wurden – ein Hinweis darauf, dass der Scam schon seit einiger Zeit aktiv ist. Zur Erstellung wurde Corel Draw verwendet. Auffällig ist der als Autor eingetragene Name: "Jetride".
 
 ![Jetride als Autor](/posts/2025-02-09_feyza-olcay-ybrahim-wer-steckt-hinter-dem-Scam/meta_1.webp)
 
-Eine erste Google-Suche nach Jetride führt hauptsächlich zu kleinen Speedbooten – also scheinbar keine direkte Verbindung zum Scam. Doch ein weiteres Dokument liefert eine neue Spur: In einem angeblichen Totenschein taucht ein anderer Name auf – "**Truth Edbele**".
+Eine erste Google-Suche nach Jetride führt hauptsächlich zu kleinen Speedbooten – also scheinbar keine direkte Verbindung zum Scam. Doch ein weiteres Dokument liefert eine neue Spur: In einem angeblichen Totenschein taucht ein anderer Name auf – "**Truth Egbele**".
 
-![Truth Edbele](/posts/2025-02-09_feyza-olcay-ybrahim-wer-steckt-hinter-dem-Scam/meta_2.webp)
+![Truth Egbele](/posts/2025-02-09_feyza-olcay-ybrahim-wer-steckt-hinter-dem-Scam/meta_2.webp)
 
 Damit haben wir bereits zwei potenzielle Hinweise. Auch wenn Truth Edbele zunächst wie ein Fantasiename wirkt, könnte sich dahinter eine echte Verbindung zum Betrug verbergen.
 
 ### Wir suchen und finden auf LinkedIn
 
-Geben wir beide Namen in Google ein, stoßen wir schnell auf eine passende Person. **Truth Edbele** ist tatsächlich auf LinkedIn zu finden – und interessant ist, dass er dort als Firmenname **"JetRide"** angibt. Dies bestätigt die Verbindung zwischen den beiden Namen und gibt einen klaren Hinweis auf die Hintergründe des Betrugs.  
+Geben wir beide Namen in Google ein, stoßen wir schnell auf eine passende Person. **Truth Egbele** ist tatsächlich auf LinkedIn zu finden – und interessant ist, dass er dort als Firmenname **"JetRide"** angibt. Dies bestätigt die Verbindung zwischen den beiden Namen und gibt einen klaren Hinweis auf die Hintergründe des Betrugs.  
 
 Auffällig ist zudem, dass Truth Edbele aus **Nigeria** stammt – was ein bekanntes Muster solcher Betrugsmaschen bestätigt. Diese Art von Betrug wird nicht ohne Grund als **"[Nigeria Scam](https://de.wikipedia.org/wiki/Vorschussbetrug#Nigeria-Scam)"** bezeichnet.  
 
-![Truth Edbele auf LinkedIn](/posts/2025-02-09_feyza-olcay-ybrahim-wer-steckt-hinter-dem-Scam/meta_3.webp)
+![TTruth Egbele auf LinkedIn](/posts/2025-02-09_feyza-olcay-ybrahim-wer-steckt-hinter-dem-Scam/meta_3.webp)
 
-Schauen wir uns den Lebenslauf von **Truth Edbele** an, wird schnell klar: Der gute Mann ist seit über sieben Jahren selbstständig und bezeichnet sich als **vielseitigen Entwickler, Animator und Gründer von JetRide**. Laut eigener Aussage kombiniert er Kreativität mit technischer Expertise und einem unternehmerischen Blick für digitale Lösungen.  
+Schauen wir uns den Lebenslauf von **Truth Egbele** an, wird schnell klar: Der gute Mann ist seit über sieben Jahren selbstständig und bezeichnet sich als **vielseitigen Entwickler, Animator und Gründer von JetRide**. Laut eigener Aussage kombiniert er Kreativität mit technischer Expertise und einem unternehmerischen Blick für digitale Lösungen.  
 
 Interessant ist seine Selbstbeschreibung auf **LinkedIn**:  
 > *„Ich habe die Entwicklung immersiver digitaler Erlebnisse vorangetrieben, die das Publikum fesseln und das Engagement steigern. Von der Programmierung bis zum Erzählen fesselnder Geschichten arbeite ich an der Schnittstelle von Technologie und Innovation.“*  

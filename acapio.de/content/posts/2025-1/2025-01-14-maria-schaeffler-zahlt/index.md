@@ -407,3 +407,33 @@ Warum erwartet „Ewald Löcher“ plötzlich eine Zahlung zur *Unterstützung s
 >   
 > Beste Grüße,    
 > Hugo  
+
+## Jetzt sollen wir lügen?!  
+
+Die Betrüger werden immer dreister: Jetzt verlangen sie von Hugo, der Bank zu erzählen, dass es um eine „Familienunterstützung“ geht. 
+
+> Herr Hugo,  
+>   
+> Sie müssen Ihrer Bank nicht sagen, dass die Gebühr von 690 für die Kontoeröffnung ist, Sie müssen ihnen nur sagen, dass die 690 Euro für die Familienunterstützung sind, damit sie die Mittel freigeben können.  
+>   
+> Und zweitens, denken Sie daran, dass Ihnen gesagt wurde, diese Transaktion vertraulich zu behandeln. Wenn Sie also möchten, dass wir diese Transaktion abschließen, müssen Sie Ihrer Bank nur sagen, dass das Geld für die Familienunterstützung ist, oder Sie können eine Rückerstattung verlangen.  
+>   
+> Sie sind nicht der Einzige, der seine Spende erhält, Frau Sheree Renee hat seine Spende erst heute Morgen erhalten und seine Master Card (ATM) wurde ihr heute Morgen zugestellt.  
+>   
+> Wenn Sie also möchten, dass wir diese Transaktion jetzt abschließen, müssen Sie Ihrer Bank sagen, dass sie diese Mittel freigeben soll, oder Sie können eine Rückerstattung verlangen.  
+>   
+> Vielen Dank.  
+
+### Wir simulieren Ärger mit der Polizei  
+
+Jetzt wird’s spannend: Hugo setzt noch einen drauf und berichtet den Betrügern, dass sich die Polizei gemeldet hat. Die Bank hat die geplante Überweisung als verdächtig eingestuft, und Hugo soll morgen zur Vernehmung erscheinen. Mit entrüstetem Ton fordert er die Betrüger auf, sofort eine Erklärung zu liefern, wie er aus dieser vermeintlichen Misere herauskommt. 😄  
+
+> Hallo Herr Hyland,    
+>   
+> jetzt reicht’s aber! Heute Morgen hat sich die Polizei bei mir gemeldet, weil meine Bank die geplante Überweisung als verdächtig gemeldet hat. Ich soll morgen zur Vernehmung, und die Beamten wollen genau wissen, warum ich 690 Euro ins Ausland überweisen wollte.    
+>   
+> Was soll das bitte? Sie haben mir versichert, dass alles in Ordnung ist, und jetzt stehe ich plötzlich im Verdacht, an einer dubiosen Transaktion beteiligt zu sein! Ich dachte, das wäre eine ganz offizielle Sache.    
+>   
+> Ich brauche jetzt dringend von Ihnen eine klare Erklärung, was ich der Polizei sagen soll. Ohne eine offizielle Bestätigung oder eine Rechnung kann ich nicht beweisen, dass diese Überweisung legitim ist.    
+>   
+> Bitte kümmern Sie sich sofort darum – ich will nicht, dass ich hier Ärger bekomme!    
