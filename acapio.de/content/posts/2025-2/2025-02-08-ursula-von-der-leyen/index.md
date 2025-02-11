@@ -140,3 +140,32 @@ Natürlich lassen wir uns das nicht zweimal sagen und schreiben der Ursula, eige
 >   
 > Gruß  
 > Hugo
+
+## Hugo ist offiziell Millionär! Oder doch nicht?  
+
+Jetzt wird’s richtig spannend – die **„EU“ bestätigt offiziell**, dass Hugo stolze **3 Millionen Euro aus einem Spendenfonds** erhalten soll. **Einziger Haken:** Er muss erst **seinen Ausweis und persönliche Daten** schicken, damit die „Mittel überprüft“ werden können.  
+
+Klassischer könnte die Betrugsmasche kaum sein. Erst wird das Opfer mit der Aussicht auf eine gigantische Summe geködert, dann folgt die **Forderung nach sensiblen Daten** – die später für Identitätsdiebstahl oder weitere Betrügereien missbraucht werden könnten.
+
+> Wir haben einen Spendenfonds von 3.000.000 Euro für diesen Namen Hugo Scholz <scholzhugo4@gmail.com>  
+>   
+> Bitte senden Sie Ihren Reisepass und die folgenden Informationen, damit wir Ihre Mittel überprüfen können.  
+>   
+> Antworten Sie für weitere Einzelheiten.  
+>   
+> Vollständige Namen:  
+> Adressen:  
+> Kopie eines gültigen Personalausweises.  
+> Telefonnummer  
+>   
+> Mit freundlichen Grüßen  
+>   
+> Ursula von der Leyen  
+> Präsidentin der Europäischen Union  
+
+
+### Wir spielen eine Runde mit!
+
+Wir lassen uns auf die Sache ein und senden ein paar Fake-Daten.
+
+![](/posts/2025-02-08_ursula-von-der-leyen/daten.webp)

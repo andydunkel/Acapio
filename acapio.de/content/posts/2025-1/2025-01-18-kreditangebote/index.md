@@ -266,6 +266,34 @@ Hugo zeigt sich kooperativ und möchte das Geld sofort überweisen – er brauch
 > Hugo Scholz    
 > BMW-Club Wanne-Eickel – Immer auf Achse!    
 
+### Hugos Geld soll nach Nairobi – an eine gewisse Annet Nakhumicha Murambi
+
+Jetzt wird es richtig spannend! Anstatt auf eine **seriöse Firmenadresse** oder ein **offizielles Geschäftskonto** zu verweisen, bekommt Hugo stattdessen **die Daten einer Privatperson** in Nairobi.  
+
+Das ist ein klassischer Betrugsmechanismus:  
+- **Einzelpersonen statt Unternehmen** – Damit das Geld nicht nachverfolgt oder zurückgeholt werden kann.  
+- **Westland Road, Nairobi** – Eine vage Adresse ohne Firmennamen oder Bankverbindung.  
+- **Grund der Überweisung: Familienunterstützung** – Damit Western Union nicht misstrauisch wird.  
+
+Also soll Hugo jetzt 450 Euro an **„Annet Nakhumicha Murambi“** schicken – warum auch nicht, klingt ja vertrauenswürdig! 😆 
+
+> ZAHLUNGSINFORMATIONEN VON WESTERN UNION UNTEN.  
+>   
+> Vorname des Empfängers:       Annet  
+> Zweiter Vorname des Empfängers:     Nakhumicha  
+> Nachname des Empfängers:      Murambi  
+> Land des Empfängers:      Kenia  
+> Staat des Empfängers:      Nairobi  
+> Adresse:    Westland Road Nairobi  
+> Grund der Überweisung:    Familienunterstützung  
+
+### Wer steckt dahinter?
+
+Die Google-Suche ist nicht eindeutig, wir finden eine "Anne Murambi" auf LinkedIn. Auf anderen Webseiten wird die Dame erwähnt. Anscheinend arbeitet sie an der Universität von Nairobi als "Civil Servant at University of Nairobi".
+
+![](/posts/2025-01-18_kredite-aller-art/murambi.webp)
+
+Wir warnen dann mal die Uni und schreiben denen eine E-Mail. Entweder ist es ein möglicher Indentitätsdiebstahl oder 
 
 ## **Fazit!**  
 

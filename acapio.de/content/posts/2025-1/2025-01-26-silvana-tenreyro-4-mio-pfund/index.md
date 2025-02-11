@@ -352,7 +352,7 @@ Wir haben nicht soviel Geld und melde uns mit der Info zurück, das uns das klei
 > Anne    
 
 
-## Blog-Zusammenfassung: Der große Moment – die Bankverbindung!  
+## Der große Moment – die Bankverbindung!  
 
 Und da ist sie! Nach wochenlanger E-Mail-Korrespondenz, Vertrauensbeteuerungen und einer packenden Erbschaftsgeschichte kommt nun endlich das, worauf wir alle gewartet haben: **die Kontodaten!** 🎉  
 
@@ -389,6 +389,14 @@ Egal, die Betrüger sind sich sicher: **Wir sollen endlich zahlen!** Und zwar st
 > Herr Daniel Wang  
 
 Wir fragen erstmal zurück unter welchem Verwendungszweck wir die Zahlung vornehmen sollen. 😊 
+
+### Wir "überweisen"
+
+Die Antwort kommt prompt und wie gehabt ist es mal wieder eine Unterstützung der Familie. Nicht, dass am Ende die Bank noch misstrauisch wird. Wir wenden mal wieder unseren alten Trick an, erstellen ein angebliches Überweisungsformular und senden es den Scammern zu.
+
+Damit haben sie zumindest kurzfristig Freude. Natürlich machen wir einen kleinen Fehler beim Betreff und senden auch keine 850 Pfund, sondern Euro. Normalerweise wären 850 Pfund etwas über 1000 Euro.
+
+![](/posts/2025-01-26-silvana-tenreyro-4-mio-pfund/gezahlt.webp)
 
 ## Weitere E-Mail-Adressen des Scams
 

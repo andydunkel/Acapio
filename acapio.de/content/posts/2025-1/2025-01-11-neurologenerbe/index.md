@@ -578,3 +578,11 @@ Nagut, dann Plan B, wir geben mal wieder vor überwiesen zu haben.
 Parallel meldet sich auch der olle Haskel, wir schreiben ihm auch noch, das alles in der Mache ist.
 
 ![](/posts/2025-01-11_neurologe_macht_uns_reich/whatsapp_1.webp)
+
+## Es geht nicht voran – und Haskel macht sich Sorgen!
+
+Der gute Haskel wird langsam ungeduldig, aber Hugo hat gerade „andere Probleme“ – eine plötzliche Krankheit zwingt ihn zur Pause. Während wir Haskel also noch ein wenig zappeln lassen, kommt plötzlich unsere Bank ins Spiel: Die Überweisung wird gesperrt!  
+
+Natürlich informieren wir den besorgten Haskel über diesen unerwarteten Rückschlag und warten gespannt, wie er auf diese neue Hürde reagiert. 😉  
+
+![](/posts/2025-01-11_neurologe_macht_uns_reich/sperre.webp)

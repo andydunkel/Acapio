@@ -70,3 +70,37 @@ Unsere Betrüger haben sich allerdings eine besonders kreative Masche ausgedacht
 Wir sind mal nicht so und spielen das Spiel mit. Ein paar Fake-Daten haben noch keinen Spammer geschadet. Da wir bereits genug WhatsApp-Kontakte im Spam-Bereich haben, reden wir uns hier lieber raus.
 
 ![](/posts/2025-02-05_cfrances/mail_daten.webp)
+
+## Anwahlt Michael Bradley meldet sich (mblawfirm33@outlook.com)
+
+Nun schaltet sich ein „Anwalt“ ein. Michael Bradley von der angeblichen Kanzlei „mblawfirm33@outlook.com“ meldet sich höchstpersönlich, um uns feierlich mitzuteilen: Die 5 Millionen Euro sind quasi schon unterwegs! Natürlich brauchen wir nur noch ein bisschen „Kooperation“, damit alles glatt über die Bühne geht.  
+
+Aber Moment mal – eine **seriöse Anwaltskanzlei mit einer Outlook-Adresse?** Klingt schon verdächtig. Ein kurzer Check des angegebenen Büros in London ergibt: Die Adresse **115 Bishopsgate, London** existiert zwar, aber das ist ein [Hochhaus voller Firmenbüros](https://www.google.com/maps/@51.5163142,-0.0815325,3a,75y,256.7h,98.36t/data=!3m7!1e1!3m5!1stNzTHnM0_w_JyPMb8qRjcw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-8.363491021238914%26panoid%3DtNzTHnM0_w_JyPMb8qRjcw%26yaw%3D256.70488441317997!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDIwNS4xIKXMDSoASAFQAw%3D%3D). Von einer Kanzlei Michael Bradley keine Spur.  
+
+Und dann dieser Tonfall – **kein Name des Empfängers, keine konkreten Informationen, nur vage Drohgebärden gepaart mit Dringlichkeit**. Klassische Scam-Taktik: Die Opfer sollen schnell reagieren, bevor sie anfangen, kritisch nachzudenken.  
+
+> Sehr geehrter Herr,  
+>   
+> Hier spricht die Anwaltskanzlei Michael Bradley. Ich bin der persönliche Anwalt von Herrn/Frau Connolly und kümmere mich auch um alle juristischen Angelegenheiten der Frances und Patrick Connolly-Stiftung. Bezüglich Ihrer Spende und Ihrer Bankkarte wird Ihnen in Kürze ein Brief zugesandt und wir werden mit der Überweisung Ihrer Spende an Sie fortfahren. Wir bitten dringend um Ihre größtmögliche Kooperation, um diesen Zweck zu erfüllen.  
+>   
+> Wir warten nun auf Ihre dringende und positive Antwort, damit wir fortfahren können.  
+>   
+> Mit freundlichen Grüßen  
+>   
+> Michael Bradley  
+> 115 Bishopsgate London  
+> EW2N 6AY  
+> mblawfirm33@outlook.com  
+
+### Da machen wir mit!
+
+Hugo ist natürlich dabei, wir schreiben kurz zurück und fragen, ob wir noch was tun können.
+
+> Sehr geehrter Herr Bradley,    
+>   
+> vielen Dank für Ihre Nachricht! Ich freue mich sehr über die Spende und bin bereit für die nächsten Schritte. Benötigen Sie noch weitere Informationen von mir, damit alles reibungslos abläuft?    
+>   
+> Freue mich auf Ihre Rückmeldung.    
+>   
+> Beste Grüße,    
+> Hugo aus Wanne-Eickel    

@@ -188,6 +188,10 @@ Allerdings gibt es einige verräterische Details: Sie läuft auf **WordPress**, 
 
 ![](/posts/2025-02-02_mitchel-jobs/bank.webp)
 
+Die Adresse bei [Google-Maps](https://www.google.com/maps/@44.2703492,-121.1864794,3a,75y,134.19h,89.45t/data=!3m7!1e1!3m5!1s_V8Uo5VkY_xRh-IBmOo_Cg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D0.5524429354482976%26panoid%3D_V8Uo5VkY_xRh-IBmOo_Cg%26yaw%3D134.1853902917979!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDIwNS4xIKXMDSoASAFQAw%3D%3D) ergibt nur ein Wohngebiet, keine Bank weit und breit.
+
+![](/posts/2025-02-02_mitchel-jobs/streetview.webp)
+
 ## Jetzt wird’s spannend: Anne ist dabei!
 
 Natürlich machen wir weiter – schließlich wollen wir sehen, wie weit unser Finanzhai noch geht. **Anne gibt sich interessiert, aber ein bisschen überfordert**, denn wer hat schon Erfahrung mit **geheimen Transitkonten und mysteriösen Privatbanken**?  
@@ -208,3 +212,60 @@ Mit dieser Antwort bleibt Anne weiter **freundlich, aber naiv** – genau die Mi
 >   
 > Beste Grüße,    
 > Anne  
+
+### Die Fake-Bank schlägt zu: Anne hat jetzt ein „Konto“! 🎭
+
+Na, das ging aber fix! **Die Herstal Trust Bank hat Annes Konto eröffnet – samt Zugangsdaten und Passwort direkt per E-Mail.** Weil Banken das ja immer so machen. 😆  
+
+Natürlich ist das Ganze ein **kompletter Schwindel**. Das angebliche Konto mit der Nummer **1274089902** ist nur eine Fassade, um das Ganze glaubwürdiger wirken zu lassen. Die Fake-Bank macht klar: **„Normale“ Transaktionen sind nicht erlaubt, sondern nur die Auszahlung der Millionen** – na sowas! Noch verdächtiger: **Das Konto läuft nur 21 Tage**, also keine Zeit zu verlieren!  
+
+Der Trick ist simpel: Sobald Anne sich einloggt, wird sie vermutlich dazu aufgefordert, eine „kleine Gebühr“ für die finale Transaktion zu zahlen. Ob „COT Code 3690HTB“ oder „RedGold79“ wirklich die magische Tür zu Millionen öffnet? **Spoiler: Nein.**  
+
+> Dear Mr. Anne,  
+>   
+> We are delighted to inform you that, as instructed by the Federal Reserve System, a non-resident transit account has been successfully registered in your name with Herstal Trust Bank. Welcome to our esteemed community of satisfied Internet banking users.  
+>   
+> Your transit account has been opened and activated to facilitate your Fund releases. We assure you that the opening of your transit account has been processed efficiently and securely, in strict adherence to the United States Financial Regulations Edict.  
+>   
+> BELOW ARE THE DETAILS OF YOUR TRANSIT ACCOUNT:  
+>   
+> Account name: Anne  
+> Account Number: 1274089902  
+> Account currency: USD  
+> Account Type: Non-Resident Transit  
+> Account Status: Activated  
+>   
+> ONLINE BANKING CREDENTIALS  
+>   
+> Account ID: 1274089902  
+> Password: XXXXXXX  
+> COT Code: 3690HTB (This will be required during transfer)  
+>   
+> You can now access your transit account through our online banking platform at https://herstal-trst.com/. We emphasize the importance of keeping your account information confidential and secure to prevent unauthorized access.  
+>   
+> Please be advised that your transit account is exclusively designated for fund release by the Federal Reserve System. Therefore, normal banking transactions such as transfers in installments, credit or debit card requests, and check issuance are not applicable. Additionally, your account has a limited active period of 21 days, as stipulated in the United States Financial Regulation Edict for Non-Resident Transit Accounts. You are required to transfer your funds within this timeframe once credited.  
+>   
+> Should you require assistance or have any inquiries regarding your transit account or any other banking matters, our dedicated customer service team is available at info@herstal-trst.com or info@herstal-trst.online for prompt assistance. We are committed to providing the support necessary for effective financial management and ensuring a seamless banking experience.  
+>   
+> Thank you for choosing Herstal Trust Bank.  
+>   
+> Sincerely,  
+>   
+> Philip Walker  
+> Executive Director Operations  
+> E-mail: philipwalker@herstal-trst.com  
+> Website: https://herstal-trst.com/  
+> General Inquires: info@herstal-trst.com or info@herstal-trst.online  
+> Address: 1648 SW Parkway Dr,  
+> Redmond Oregon 97756 USA  
+>   
+>   
+> NB: Kindly note that your nonresident transit account has already been activated. You can go ahead to login and access your account.  
+
+### Login in die Fake-Bank
+
+Wir loggen uns ein uns sind begeistert. Nicht nur sieht das Ding wirklich schick und funktional aus, sondern wir werden auch gleich namentlich begrüßt. Leider ist das Konto leer, was ist da los?
+
+![Fake Bank Konto](/posts/2025-02-02_mitchel-jobs/banking_dashboard.webp)
+
+Wir wenden uns nun wieder an Mitchel Jobs und fragen, wie es weiter geht.
