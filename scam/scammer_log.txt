@@ -1,0 +1,4 @@
+2025-02-12 09:12:46 | IP: 127.0.0.1 | Referrer: http://localhost/scam/
+2025-02-12 09:14:32 | IP: 127.0.0.1 | Referrer: http://localhost/scam/
+2025-02-12 09:20:12 | IP: 127.0.0.1 | User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:134.0) Gecko/20100101 Firefox/134.0 | Lang: en-US,en;q=0.5 | Referrer: http://localhost/scam/
+2025-02-12 09:21:00 | IP: 127.0.0.1 | User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:134.0) Gecko/20100101 Firefox/134.0 | Lang: en-US,en;q=0.5 | Referrer: Direct Access
