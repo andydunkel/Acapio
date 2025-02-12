@@ -2,7 +2,7 @@
 title: "Finanzbetrug im Namen der Investition – Ein Blick hinter die Kulissen"
 params:
   author: Andy
-date: "2025-02-11"
+date: "2025-02-10"
 featured: true
 toc: true
 tags:
@@ -10,7 +10,7 @@ tags:
 categories:
   - "Scam"
 thumbnail: "creditshark.webp"
-url: "posts/2025-02-11_norton-finance-ltd"
+url: "posts/2025-02-10_norton-finance-ltd"
 summary: "Immer wieder tauchen dubiose Investoren auf, die Unternehmen und Start-ups mit **hohen Geldsummen und traumhaften Konditionen** ködern wollen."
 ---
 

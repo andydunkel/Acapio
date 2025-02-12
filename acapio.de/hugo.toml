@@ -46,6 +46,11 @@ home = ["HTML", "RSS", "JSON"]
   url = "/about/"
   weight = -90
 
+[[menus.main]]
+  name = "Kontakt"
+  url = "/contact/"
+  weight = -85
+
 
 [[menus.main]]
   name = "Datenschutz"

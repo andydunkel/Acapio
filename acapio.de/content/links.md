@@ -1,3 +1,10 @@
+---
+title: "Links"
+date: 2024-12-24
+draft: false
+comments: false
+---
+
 # Links zu anderen Webseiten
 
 Links zu anderen Webseiten, welche sich mit ähnlichen Themen beschäftigen.

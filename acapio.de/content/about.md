@@ -2,6 +2,7 @@
 title: "Über"
 date: 2024-12-25
 draft: false
+comments: false
 ---
 
 Scam, Phishing, Betrug, alles Dinge, welche uns täglich im Internet begegnen. Unser Ziel ist, es darauf aufmerksam zu machen, Spaß mit den Scammern zu haben und diese nach Möglichkeit lange zu beschäftigen.

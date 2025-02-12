@@ -3,6 +3,7 @@ title: "Datenschutz"
 date: 2024-12-24
 draft: false
 toc: true
+comments: false
 ---
 
 # Datenschutz­erklärung

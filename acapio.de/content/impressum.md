@@ -2,6 +2,7 @@
 title: "Impressum"
 date: 2024-12-24
 draft: false
+comments: false
 ---
 
 Diese Seite wird betrieben von:
