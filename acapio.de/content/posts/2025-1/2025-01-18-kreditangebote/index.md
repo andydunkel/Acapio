@@ -326,6 +326,42 @@ Damit steht unser Kreditmanager vor einem Dilemma: Entweder muss er **eine glaub
 > Beste Grüße    
 > Hugo    
 > BMW-Club Wanne-Eickel  
+>
+
+### George wird ungeduldig – und leicht verzweifelt 
+
+Jetzt kippt die Stimmung! Während Herr Lucas bisher höflich und professionell tat, wird er langsam **nervös**. Hugos hartnäckige Fragen bringen ihn aus der Fassung – und plötzlich klingt der Kreditmanager **mehr wie ein genervter Betrüger als ein seriöser Finanzdienstleister**.  
+
+Statt einer sachlichen Antwort folgt eine Mischung aus Frust und verzweifelten Anweisungen: **„Hören Sie auf zu zittern und sagen Sie einfach, dass es für einen Freund der Familie ist!“** 😆  
+
+Jetzt wissen wir es sicher: **Ein echter Kreditgeber rät seinen Kunden nicht dazu, eine Lüge bei der Zahlung zu erzählen.**
+
+> Sehr geehrter Herr Hugo.  
+>   
+> Danke für Ihre Antwort.  
+>   
+> Ehrlich gesagt weiß ich nicht, was ich Ihnen sonst noch sagen soll? Sie machen die Transaktion sehr schwierig. Ich habe Ihnen alles erklärt und es ist sehr überraschend, dass Sie nicht alles verstanden haben, was ich in meinen vorherigen E-Mails erklärt habe.  
+>   
+> Ich habe Ihnen klar gesagt, dass Sie, wenn das Western Union-Büro Sie nach dem Grund für die Zahlung fragt, ihnen sagen sollten, dass Sie das Geld an einen Freund der Familie in Kenia senden. Das habe ich Ihnen gesagt.  
+>   
+> Bitte, ich weiß nicht, welchen Nachweis Sie verlangen? Wie können Sie eine Bestätigung von der Bank senden, wenn das Darlehen noch nicht genehmigt ist?  
+>   
+> Bitte gehen Sie zu einem anderen Western Union-Überweisungsbüro und wenn Sie dort sind und Sie nach dem Grund der Zahlung fragen, hören Sie auf zu zittern und sagen Sie ihnen ganz einfach, dass Sie es an einen Freund der Familie in Kenia senden.  
+
+### Wir wollen einen Beweis
+
+> Sehr geehrter Herr Lucas,    
+>   
+> ich verstehe Ihre Erklärung, aber bevor ich die Zahlung mache, brauche ich einen offiziellen Nachweis, dass Yaya Financial Services wirklich als Firma registriert ist.    
+>   
+> Außerdem verstehe ich nicht, warum ich bei Western Union sagen soll, dass das Geld für einen „Freund der Familie“ ist. Wenn es ein offizieller Kredit ist, dann sollte ich doch nichts verbergen müssen, oder?    
+>   
+> Haben Sie irgendeinen Beweis, dass Yaya Financial Services eine echte Firma ist? Zum Beispiel eine Firmenregistrierung, eine Internetseite oder irgendetwas Offizielles? Das würde mir helfen, Western Union oder meine Bank zu überzeugen, dass alles seine Richtigkeit hat.    
+>   
+> Sobald ich eine Bestätigung habe, werde ich die Zahlung natürlich sofort machen. Ich freue mich auf Ihre Antwort!    
+>   
+> Beste Grüße    
+> Hugo    
 
 ## **Fazit!**  
 

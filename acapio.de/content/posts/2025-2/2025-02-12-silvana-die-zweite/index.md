@@ -65,3 +65,62 @@ Auch wenn wir noch nicht ganz überzeugt sind, lassen wir uns auf das Spiel ein.
 > Mit freundlichen Grüßen,    
 > Ahmet
 
+## Wir bekommen die Dokumente
+
+Wie auch beim letzten Mal bekommen wir die Dokumente in PDF-Form. Angepasst auf unseren fiktiven Namen. Dazu kommt die übliche Masche, jetzt ein Konto bei einer Bank zu eröffnen.
+
+> Es wird empfohlen, sich an die Gold Crest Bank zu wenden. Nachfolgend finden Sie die Kontaktdaten der Online-Abteilung.  
+>   
+> Gold Crest Bank.  
+> 342 Regents Park Road, London, N3 2LJ, Vereinigtes Königreich. EH11 3TP Nr. 6883/5/M/93/19.  
+> ABTEILUNG FÜR INTERNATIONALE ÜBERWEISUNGEN.  
+> E-Mail: info@goldcrestinc.com  
+> Bürozeiten: 8:00 - 19:00 Uhr britischer Zeit.  
+> Kontaktperson: Herr Daniel Wang  
+
+
+![Dokumente](/posts/2025-02-12_silvana-tenreyro-teil-2/dokumente.webp)
+
+### Die Meta-Daten: SKY LIGHT und „madam onyeka“
+
+Da es sich um PDF-Dateien handelt, werfen wir einen genaueren Blick in die Meta-Daten – und siehe da: Die Dokumente wurden frisch für uns erstellt. Als Software kommt **Word 2016** zum Einsatz, und als Autoren tauchen die Namen **„madam onyeka“** und **„SKY LIGHT“** auf.  
+
+Besonders interessant ist „madam onyeka“, denn dieser Name weist erneut in Richtung [Westafrika/Nigeria](/posts/2025-02-09_feyza-olcay-ybrahim-wer-steckt-hinter-dem-Scam/). Ein weiteres Puzzleteil in unserem kleinen Betrugs-Krimi!
+
+Genauer wird es leider nicht, da die Google Suche hier nichts wirklich verwertbares liefert.
+
+![Meta-Daten der PDF-Dateien](/posts/2025-02-12_silvana-tenreyro-teil-2/meta.png)
+
+
+### Die Fake-Bank: Gold Crest Bank - goldcrestfn.com
+
+Nun sollen wir uns also an die **Gold Crest Bank** wenden – angeblich eine seriöse Institution in London. Doch ein kurzer Check zeigt: Diese Bank existiert in dieser Form gar nicht!  
+
+Die britische Finanzaufsichtsbehörde (FCA) kennt keine **Gold Crest Bank**, warnt aber ausdrücklich vor [Betrugsbanken mit ähnlichen Namen](https://www.fca.org.uk/news/warnings/goldcrest-international-ltd-t-goldcrest-holdings-ltd).  
+
+Die Webseite sieht erstmal ok aus, enthält aber kleine Formfehler, welche eine echte Bank so nicht machen würde, wie falsche Umlaute. Dazu führen Links in leere, wie z.B. eine Anmeldung.
+
+![Die Webseite der vermeintlichen Bank](/posts/2025-02-12_silvana-tenreyro-teil-2/bank.webp)
+
+Ein Blick in den Quelltext verrät zudem, dass die Webseite ursprünglich von einer anderen Seite kopiert wurde (veritasfinancial.cc). Eine typische Masche, da die Domains oft gewechselt werden müssen.
+
+![](/posts/2025-02-12_silvana-tenreyro-teil-2/kopiert.webp)
+
+### Gehostet bei Hetzner?
+
+Wir ermitteln noch die IP-Adresse und finden heraus, dass die Adresse mutmaßlich beim deutschen Webhoster Hetzner angesiedelt ist.
+
+![IP-Adresse der Webseite](/posts/2025-02-12_silvana-tenreyro-teil-2/ip.png)
+
+Daher schreiben wir Hetzner mal an, mit der Bitte dies zu prüfen.
+
+## Wir schreiben der Bank!
+
+> Sehr geehrte Damen und Herren,    
+>   
+> mein Name ist Ahmet Kuran, und ich wurde von Frau Silvana Tenreyro an Sie verwiesen, um die Erbschaft von Dr. Thomas J. Kuran abzuwickeln. Mir wurde mitgeteilt, dass die Gelder bei Ihnen hinterlegt sind und ich ein Konto eröffnen muss, um darauf zugreifen zu können.    
+>   
+> Bitte teilen Sie mir die weiteren Schritte zur Kontoeröffnung mit. Ich freue mich auf Ihre Rückmeldung.    
+>   
+> Mit freundlichen Grüßen,    
+> Ahmet 

@@ -2,19 +2,18 @@
 // Get the full domain and script directory dynamically
 $protocol = (!empty($_SERVER['HTTPS']) && $_SERVER['HTTPS'] !== 'off') ? "https" : "http";
 $domain = $_SERVER['HTTP_HOST'];
-
-// Get the directory where this script is running
 $scriptDir = dirname($_SERVER['SCRIPT_NAME']);
-
-// Ensure no trailing slash
 $scriptDir = rtrim($scriptDir, '/');
 
-// Construct the full pixel URL
-$pixelUrl = "$protocol://$domain$scriptDir/p.php";
+// Falls eine ID übergeben wird, nutzen wir sie
+$identifier = isset($_GET['o']) ? $_GET['o'] : "test123";
+
+// Construct the full pixel URL with "o" parameter
+$pixelUrl = "$protocol://$domain$scriptDir/tracking_pixel.php?o=" . urlencode($identifier);
 ?>
 
 <!DOCTYPE html>
-<html lang="en">
+<html lang="de">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -87,7 +86,7 @@ $pixelUrl = "$protocol://$domain$scriptDir/p.php";
             &lt;img src="<?php echo htmlspecialchars($pixelUrl, ENT_QUOTES, 'UTF-8'); ?>" width="1" height="1" alt=""&gt;
         </div>
         <button class="copy-btn" onclick="copyToClipboard()">Copy Pixel Code</button>
-        <p class="notice">This pixel will log IP addresses, user agents, and referrer information.</p>
+        <p class="notice">Dieses Pixel wird IP-Adressen, User-Agents und Referrer-Informationen loggen.</p>
     </div>
 </body>
 </html>

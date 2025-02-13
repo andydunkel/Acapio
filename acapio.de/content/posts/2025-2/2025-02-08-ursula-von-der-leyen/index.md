@@ -215,3 +215,26 @@ Hugo lässt sich nicht so leicht übers Ohr hauen. **Statt blind die 590 Euro zu
 >   
 > Glück auf,    
 > Hugo    
+
+## Wir bekommen eine Rechnung
+
+Jetzt wird’s „offiziell“ – wir haben eine **EU-Rechnung** für die 590-Euro-Zahlung erhalten. Aber ein Blick auf das Dokument reicht, um die Alarmglocken schrillen zu lassen.  
+
+**Ein paar Highlights:**  
+- **Ein Revolut-Konto auf den Namen „Richard Leo“?** Seit wann wickelt die EU Millionenzahlungen über Fintech-Konten in Litauen ab?  
+- **Sprachliche Perlen wie „Zum Angesicht von Hugo“** – klingt eher nach mittelalterlicher Hofsprache als nach einer offiziellen EU-Korrespondenz.  
+- **Keine Steuer-ID, keine offiziellen Zahlungsbedingungen, kein richtiger EU-Briefkopf** – nur ein hingeklatschtes Logo und eine generische Rechnungsvorlage.  
+
+Trotzdem – die Betrüger bleiben hartnäckig: **Sobald wir die 590 Euro überweisen, sollen die Millionen schon morgen auf dem Konto sein!**
+
+> Zum Angesicht von Hugo,  
+>   
+> Anbei finden Sie die Rechnung der Europäischen Union für Ihre Zahlung. Überweisen Sie jetzt die 590 Euro, damit wir Ihr Geld morgen überweisen können.  
+>   
+> Mit freundlichen Grüßen  
+>   
+> Ursula von der Leyen  
+> Präsidentin der Europäischen Union  
+
+![Die Rechnung](/posts/2025-02-08_ursula-von-der-leyen/rechnung.webp)
+
