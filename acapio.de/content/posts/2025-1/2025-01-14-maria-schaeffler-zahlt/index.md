@@ -437,3 +437,29 @@ Jetzt wird’s spannend: Hugo setzt noch einen drauf und berichtet den Betrüger
 > Ich brauche jetzt dringend von Ihnen eine klare Erklärung, was ich der Polizei sagen soll. Ohne eine offizielle Bestätigung oder eine Rechnung kann ich nicht beweisen, dass diese Überweisung legitim ist.    
 >   
 > Bitte kümmern Sie sich sofort darum – ich will nicht, dass ich hier Ärger bekomme!    
+
+### Die Scammer werden nervös und verlieren die Fassung  
+
+Bis hierhin haben sich die Betrüger bemüht, professionell zu klingen – aber jetzt bröckelt die Fassade. Plötzlich wird der Ton locker und umgangssprachlich: *„Du machst dir nur selbst Stress!“* Anstatt eine seriöse Erklärung zu liefern, heißt es nun einfach: *„Sag der Polizei halt, das Geld ist für Familienunterstützung.“* Als wäre das eine völlig normale Situation. Alternativ soll Hugo einfach bei der Bank nach einer Rückerstattung fragen.
+
+> Du machst dir nur selbst Stress, du musst nicht zu irgendeiner Polizeistation.  
+>   
+> Wenn sie dich fragen, kannst du ihnen auch sagen, dass das Geld, das du an Ewald geschickt hast, ganz einfach zur Familienunterstützung war.  
+>   
+> Oder du kannst deine Bank um eine Rückerstattung bitten.  
+
+## Hugo wurde von der Polizei verunsichert 
+
+Jetzt wird’s eng für die Betrüger: Hugo war bei der Polizei und hat eine eindeutige Warnung erhalten – *„Überweisen Sie auf keinen Fall Geld ins Ausland, das ist meistens Betrug!“* Genau das Szenario, das die Scammer vermeiden wollten. Doch anstatt panisch alles abzubrechen, spielt Hugo weiter mit und fordert einen eindeutigen Beweis, dass die Transaktion seriös ist. 
+> Hallo Herr Hyland,    
+>   
+> ich war heute wie angekündigt bei der Polizei, weil meine Bank die Überweisung als verdächtig gemeldet hat. Die Beamten haben mich eindringlich davor gewarnt, Geld ins Ausland zu überweisen, weil es momentan unglaublich viele Betrugsfälle im Internet gibt.    
+>   
+> Ehrlich gesagt, bin ich jetzt total verunsichert. Ich dachte, das hier wäre eine seriöse Sache, aber die Polizei hat mir erklärt, dass es oft genau so läuft: Geld für Gebühren zahlen, dann passiert nichts. Sie haben mir geraten, nichts zu überweisen, bevor ich mir ganz sicher bin, dass alles echt ist.    
+>   
+> Ich will Ihnen vertrauen, aber jetzt brauche ich absolute Klarheit: Können Sie mir irgendetwas Offizielles schicken, das beweist, dass ich mir keine Sorgen machen muss? Sonst kann ich das nicht durchziehen.    
+>   
+> Bitte verstehen Sie meine Lage, ich will keinen Ärger bekommen!    
+>   
+> Beste Grüße,    
+> Hugo  

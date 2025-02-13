@@ -169,3 +169,49 @@ Klassischer könnte die Betrugsmasche kaum sein. Erst wird das Opfer mit der Aus
 Wir lassen uns auf die Sache ein und senden ein paar Fake-Daten.
 
 ![](/posts/2025-02-08_ursula-von-der-leyen/daten.webp)
+
+## Ursula und Wolfgang melden sich – und wollen Geld sehen 💸  
+
+Jetzt wird’s ernst! **Ursula ist zurück** – diesmal mit einem *offiziellen* Schreiben und einer Bankverbindung. Parallel meldet sich auch **Wolfgang**, der wissen will, ob Hugo sein Geld schon erhalten hat. Alles klingt perfekt durchgeplant: **590 Euro zahlen, Quittung schicken – und nach 24 Stunden sind die Millionen auf dem Konto.**  
+
+Aber Moment mal… **eine Überweisung an „Richard Leo“ in Litauen über Revolut?** 🧐 Klingt nicht gerade nach den **offiziellen Konten der Europäischen Union**. Und warum genau soll Hugo auch noch **seine eigenen Bankdaten mitschicken**?  
+
+Die Masche ist offensichtlich: **Zuerst zahlen, dann werden weitere „Gebühren“ fällig – oder die Betrüger verschwinden einfach.**
+
+> Hallo Hugo Tiberius,  
+>   
+> Herzlichen Glückwunsch, Ihr Name wurde bestätigt und das Geld wird auf Ihr Bankkonto überwiesen.  
+> Anbei finden Sie die Entschädigungsbescheinigung der EU-Garantie. Sie müssen nun die 590 Euro über das unten angegebene Bankkonto an unseren Zahlungssekretär überweisen.  
+>   
+> Name der Bank::::: Revolut  
+> Kontoname: Richard Leo  
+> IBAN::::::: LT13 3250 0898 6023 6071  
+> BIC:::: REVOLT21  
+> Land:::: Litauen  
+>   
+> Konstitucijos ave. 21B, Vilnius, 08130, Republik Litauen  
+>   
+> Überweisen Sie jetzt die 590 Euro und senden Sie mir eine Quittung zusammen mit Ihren Bankdaten, damit wir Ihr Geld auf Ihr Bankkonto überweisen können  
+>   
+> Mit freundlichen Grüßen  
+> Ursula von der Leyen  
+> Präsidentin der Europäischen Union  
+
+![Das Schreiben der EU](/posts/2025-02-08_ursula-von-der-leyen/brief.webp)
+
+### Hugo ist skeptisch, Privatkonto der EU in Litauen? 🤨
+
+Wir bleiben skeptisch… **Warum soll eine offizielle EU-Zahlung über ein Revolut-Konto in Litauen an eine Privatperson namens „Richard Leo“ gehen?** Das klingt ungefähr so seriös wie ein nigerianischer Prinz, der dringend unsere Hilfe braucht.  
+
+Hugo lässt sich nicht so leicht übers Ohr hauen. **Statt blind die 590 Euro zu überweisen, fragt er nach:** Gibt’s vielleicht eine **offizielle Rechnung** oder eine Bestätigung mit EU-Stempel? Schließlich will er ja alles ordentlich bei seiner Bank vorlegen. Mal sehen, wie „Ursula“ darauf reagiert… 😏
+
+> Hallo Frau von der Leyen,    
+>   
+> vielen Dank für die Bestätigung! Ich freu mich natürlich riesig über die 3 Millionen Euro. Aber eine Sache macht mich stutzig: Warum läuft die Zahlung über ein Privatkonto in Litauen? Ich dachte, die EU hat offizielle Bankkonten?    
+>   
+> Nicht, dass ich misstrauisch bin, aber meine Bank hat mich gefragt, ob ich eine offizielle Rechnung oder Bestätigung für die Zahlung bekommen kann. Könnten Sie mir da was zuschicken? Am besten mit EU-Stempel, damit ich keine Probleme bekomme.    
+>   
+> Freu mich auf Ihre Antwort!    
+>   
+> Glück auf,    
+> Hugo    

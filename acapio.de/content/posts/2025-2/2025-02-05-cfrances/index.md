@@ -1,5 +1,5 @@
 ---
-title: "5 Millionen Euro geschenkt? Klar doch!"
+title: "5 Millionen Euro geschenkt? Frances & Patrick Connolly sind spendabel!"
 params:
   author: Andy
 date: "2025-02-05"
@@ -104,3 +104,31 @@ Hugo ist natürlich dabei, wir schreiben kurz zurück und fragen, ob wir noch wa
 >   
 > Beste Grüße,    
 > Hugo aus Wanne-Eickel    
+
+
+## **Der Anwalt fordert Geld – Jetzt wird’s richtig unseriös!**  
+
+Es war ja nur eine Frage der Zeit: Nachdem uns der selbsternannte „Anwalt“ Michael Bradley freundlich um unsere „Kooperation“ gebeten hat, kommt jetzt das eigentliche Ziel des Ganzen ans Licht – **eine Vorauszahlung von 500 € für die Bearbeitung der 5-Millionen-Euro-Spende**. Natürlich soll das alles super offiziell wirken, inklusive erfundener Referenznummer und angeblichem Unterschriftsfeld.  
+
+Das Dokument ist länglich, daher verzichten wir auf den kompletten Text.
+
+>  DIESES DOKUMENT STELLT EINE VEREINBARUNG FÜR DIE ÜBERWEISUNG VON SPENDENMITTELN IN HÖHE VON 5.000.000,00 € DER CONNOLLY'S CHARITY FOUNDATION AN HERRN HUGO SCHOLZ DAR.  
+>   
+> Sehr geehrter Herr,  
+>   
+> Wir müssen Ihnen dieses Schreiben zukommen lassen, in dem die spezifischen Bedingungen für die Überweisung dieser Spendenmittel in Höhe von 5.000.000,00 € durch die Connolly's Charity Foundation an Sie dargelegt sind, einschließlich der in diesem Schreiben dargelegten Bedingungen und der Allgemeinen Auftragsbedingungen („Allgemeine Bedingungen“).  
+
+Am Ende kommen noch Unterschrift und Siegel.
+
+![](posts/2025-02-05_cfrances/unterschrift_mail.webp)
+
+### Die Unterschrift genauer angeschaut
+
+Die Unterschrift schauen wir uns doch mal genauer an. Beim Kopieren des Textes finden wir folgenden Alternativtext:
+
+> "Blue Pen Signature 2025 | www.alhudapk.com"
+
+Als wir die Google-Bildersuche anwerfen, finden wir den Ursprung der Unterschrift, diese wurde einfach von einer Webseite kopiert und in die E-Mail eingefügt und vergessen die Meta-Daten zu entfernen.
+
+![](posts/2025-02-05_cfrances/unterschrift.webp)
+

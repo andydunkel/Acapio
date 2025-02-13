@@ -293,7 +293,39 @@ Die Google-Suche ist nicht eindeutig, wir finden eine "Anne Murambi" auf LinkedI
 
 ![](/posts/2025-01-18_kredite-aller-art/murambi.webp)
 
-Wir warnen dann mal die Uni und schreiben denen eine E-Mail. Entweder ist es ein möglicher Indentitätsdiebstahl oder 
+Wir warnen dann mal die Uni und schreiben denen eine E-Mail. Entweder ist es ein möglicher Indentitätsdiebstahl oder die Dame ist selbst involviert. Ob wir eine Antwort bekommen? Gut möglich, dass unsere E-Mail direkt abgefangen wird.
+
+### Es wird weiter Druck aufgebaut  
+
+Freundlich, aber bestimmt – die Betrüger erhöhen den Druck. Mit netten Floskeln wird Vertrauen geschaffen, doch die eigentliche Botschaft ist klar: **„Zahlung bis morgen früh erwartet.“**  
+
+Typischer Trick: Das Opfer soll glauben, es müsse **sofort handeln**, bevor das „Angebot“ verfällt. Doch Hugo dreht den Spieß um – **Western Union hat die Zahlung verweigert!** 😆 Mal sehen, wie Herr Lucas das erklärt…
+
+Die Masche geht weiter, freundlich aber bestimmt, wird Druck aufgebaut, nun aber endlich die Zahlung vorzunehmen.
+
+> Sehr geehrter Herr Hugo.  
+>   
+> Guten Abend, wie geht es Ihnen? Ich hoffe, es geht Ihnen und Ihrer Familie gut.  
+>   
+> Ich hoffe, Sie haben gestern meine E-Mail und die Western Union-Zahlungsinformationen erhalten.  
+>   
+> Hoffentlich können wir die Zahlung bis morgen früh von Ihnen erwarten, damit das Genehmigungsbüro Ihre Kreditgenehmigung erhalten und das Geld auf Ihr Bankkonto überweisen kann.  
+
+### Wir geben vor, Western Union ziert sich  
+
+Jetzt wird’s spannend! Hugo war „ganz brav“ bei Western Union – doch die haben **die Zahlung abgelehnt**. Der Grund? **Klingt nach Betrug!** 😆  
+
+Damit steht unser Kreditmanager vor einem Dilemma: Entweder muss er **eine glaubwürdige Erklärung** liefern – oder schnell eine **neue Zahlungsmethode** aus dem Hut zaubern. Mal sehen, wie kreativ Herr Lucas jetzt wird… 😏
+
+> Sehr geehrter Herr Lucas,    
+>   
+> ich war heute bei Western Union, um die Zahlung zu tätigen. Dort wurde ich gefragt, wofür das Geld ist. Als ich sagte, es sei eine Gebühr für einen Kredit, meinten sie, dass das nach Betrug klingt und haben die Überweisung verweigert.    
+>   
+> Gibt es eine alternative Zahlungsmethode, die problemlos funktioniert? Oder können Sie eine Bestätigung Ihrer Bank senden, damit ich den Nachweis habe?    
+>   
+> Beste Grüße    
+> Hugo    
+> BMW-Club Wanne-Eickel  
 
 ## **Fazit!**  
 
