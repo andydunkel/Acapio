@@ -269,3 +269,32 @@ Wir loggen uns ein uns sind begeistert. Nicht nur sieht das Ding wirklich schick
 ![Fake Bank Konto](/posts/2025-02-02_mitchel-jobs/banking_dashboard.webp)
 
 Wir wenden uns nun wieder an Mitchel Jobs und fragen, wie es weiter geht.
+
+
+## Die Millionen sind da – oder doch nicht?
+
+Endlich! **10.782.000 Dollar** wurden auf Annes neues **Transitkonto** überwiesen. 🎉 Jetzt nur noch eine Überweisung – und das Geld gehört ihr. Klingt einfach, oder?  
+
+Doch da sind ein paar Haken: **Das Konto erlaubt nur eine einzige Auszahlung**, ein ominöser **COT-Code „3690HTB“** wird benötigt, und natürlich bleibt nur **21 Tage Zeit**, bevor das Geld „verschwindet“. 😏  
+
+Anne könnte jetzt versuchen, den Betrag zu überweisen – oder vielleicht mal nachfragen, ob sie das Geld lieber **bar abholen** kann. Mal sehen, wie unser Scammer darauf reagiert! 😆
+
+> We are pleased to inform you that the Federal Reserve System has successfully credited your nonresident transit account with your payment fund amounting to $10,782,000.00 (Ten Million, Seven Hundred and Eighty-Two Thousand United States Dollars). You may now proceed with transferring the funds to your designated account in your country.  
+
+> Additionally, it is important to note that transit accounts are subject to a limited activation period of 21 days in accordance with the U.S. Financial Regulations Edict. Consequently, your transit account will be deactivated after this period.
+
+![Meldung Geldeingang](/posts/2025-02-02_mitchel-jobs/kohle_ist_da.png)
+
+### Wir loggen uns ein
+
+Dann suchen wir mal wieder die Zugangsdaten raus und loggen uns ein. Und siehe da, wir haben jetzt 10,7 Millionen Euro auf dem Konto! 🥳🤑
+
+![Meldung Geldeingang](/posts/2025-02-02_mitchel-jobs/kohle_ist_da.webp)
+
+Natürlich probieren wir gleich mal, ob wir uns Geld überweisen können, aber so geht es dann doch nicht. Wir brauchen eine "IRS Validated Tax" Nummer, die wir glücklicherweise beim Kundensupport bekommen können.
+
+Wir vermuten, dass es diese Nummer gegen eine kleine Gebühr gibt. 🤗
+
+![Wir brauchen eine IRS-Versicherung](/posts/2025-02-02_mitchel-jobs/transaction_fail.webp)
+
+Umgehend meldet sich der Support. Wir schreiben zurück...

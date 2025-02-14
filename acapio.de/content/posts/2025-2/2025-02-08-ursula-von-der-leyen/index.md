@@ -238,3 +238,25 @@ Trotzdem – die Betrüger bleiben hartnäckig: **Sobald wir die 590 Euro überw
 
 ![Die Rechnung](/posts/2025-02-08_ursula-von-der-leyen/rechnung.webp)
 
+## Wolfgang gibt Gas 🚀  
+
+Da wir uns mit der Überweisung etwas Zeit lassen, wird **Wolfgang immer ungeduldiger**. Regelmäßig fragt er nach: **Haben wir schon überwiesen? Ist das Geld bereits angekommen?**  
+
+Erstaunlich, wie fürsorglich jemand ist, der angeblich gerade **3 Millionen Euro erhalten hat**. Man könnte fast meinen, er hat mehr Interesse an unserer Zahlung als an seinem eigenen Millionen-Gewinn. 😏  
+
+Wir bleiben skeptisch und erklären, dass die **Überweisung online nicht funktioniert**, da unsere Bank bei **Auslandstransaktionen und möglichen Betrugsfällen blockt**. Daraufhin schickt uns Wolfgang dieses kleine *Bonmot* – mal sehen, ob er noch kreativer wird. 🎭
+
+![](/posts/2025-02-08_ursula-von-der-leyen/wolfgang_1.png)
+
+## Wolfgang wird nervös – und macht ein Angebot  
+
+Wir lassen **Wolfgang und Ursula** weiter zappeln – und das sorgt für **immer neue E-Mails**. Die Ungeduld steigt, und plötzlich kommt die nächste absurde Wendung:  
+
+**Wolfgang schwört hoch und heilig**, dass es sich nicht um Betrug handelt. Und um das zu untermauern, gibt er uns ein unschlagbares Angebot:  
+👉 **Falls es doch Betrug ist, zahlt er uns 1000 Euro – Ehrenwort eines echten Scammers!** 🤡  
+
+Doch da wir weiterhin nicht reagieren, kommt prompt der nächste Schritt: **Er bietet an, einen Teil der 590 Euro selbst zu übernehmen.**  
+
+Moment mal… **Warum nicht einfach die komplette Summe?** Schließlich sollte jemand, der **angeblich 3 Millionen Euro auf dem Konto hat**, doch wohl keine Probleme haben, **die paar Hundert Euro vorzustrecken**. 
+
+![](/posts/2025-02-08_ursula-von-der-leyen/wolfgang_2.png)

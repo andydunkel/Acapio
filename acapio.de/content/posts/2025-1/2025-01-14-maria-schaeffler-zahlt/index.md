@@ -463,3 +463,30 @@ Jetzt wird’s eng für die Betrüger: Hugo war bei der Polizei und hat eine ein
 >   
 > Beste Grüße,    
 > Hugo  
+
+## Jetzt wird’s wild – auf einmal geht’s auch mit Apple Gift Cards
+
+Bisher war von Überweisungen die Rede, doch plötzlich kann Hugo die „Gebühr“ auch per Apple Gift Card zahlen. Eine angebliche Bank, die Geschenkkarten als Zahlungsmittel akzeptiert? Das ist der ultimative Scam-Alarm! 
+
+Im Ton wird man wieder professioneller:
+
+> Ich hoffe, diese Nachricht erreicht Sie wohlauf. Ich wollte mir einen Moment Zeit nehmen, um Ihnen zu versichern, dass Sie sich absolut keine Sorgen machen müssen. Mit über 27 Jahren Erfahrung auf diesem Gebiet kann ich zuversichtlich sagen, dass alles in Ordnung ist und es keine Probleme gibt, über die Sie sich Sorgen machen müssen.  
+>   
+> Sobald die Zahlung eingegangen ist, eröffnen wir ein Konto für Sie. Seien Sie versichert, dass der Vorgang unkompliziert und sicher ist. Sobald Ihr Konto eingerichtet ist, stellen wir Ihnen die erforderlichen Anmeldeinformationen zur Verfügung, damit Sie problemlos mit der Überweisung von Geldern auf Ihr persönliches Bankkonto beginnen können.  
+>   
+> Können Sie die Zahlung durch Senden einer APPLE CARD vornehmen?? Wir müssen versuchen, diese Transaktion so schnell wie möglich abzuschließen.  
+>   
+> Wenn Sie Fragen haben oder weitere Erläuterungen benötigen, zögern Sie bitte nicht, sich an uns zu wenden. Ich bin hier, um Sie bei jedem Schritt zu unterstützen und ein reibungsloses und nahtloses Erlebnis für Sie sicherzustellen.  
+
+Wir schreiben zurück:
+
+> Hallo Herr Hyland,    
+>   
+> okay, ich schaue mir das mal an, aber ich habe nur ein Android-Handy. Kann ich überhaupt eine Apple Card kaufen und nutzen, oder geht das nur mit einem iPhone? Ich kenn mich mit dem ganzen Apple-Zeug nicht aus.    
+>   
+> Gibt es eine Anleitung, wie ich das machen soll? Und wo kauft man so eine Apple Card eigentlich – gibt’s die bei der Sparkasse oder eher im Supermarkt? Ich will da nichts falsch machen.    
+>   
+> Lassen Sie mich wissen, wie das funktioniert, dann probiere ich es aus.    
+>   
+> Beste Grüße,    
+> Hugo   

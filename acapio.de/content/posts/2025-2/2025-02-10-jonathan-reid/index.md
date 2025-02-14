@@ -106,3 +106,33 @@ Anne tut genau das, was Scammer lieben – sie bleibt freundlich, interessiert u
 >   
 > Best regards,  
 > Anne  
+
+## Der große Moment: Anne "beantragt" ihre Millionen!
+
+**Der große Moment: Anne "beantragt" ihre Millionen!**  
+
+Jetzt wird’s offiziell – zumindest aus Sicht der Scammer. Jonathan hat uns eine schön formulierte **Antragsvorlage** geschickt, die Anne an die angebliche "Yorkshire Bank" schicken soll. Darin erklärt sie höflich, dass sie als rechtmäßige Erbin die **freigegebenen 12,7 Millionen Dollar** beantragen möchte. Sie entschuldigt sich sogar für die späte Meldung – sehr rücksichtsvoll für jemanden, der nichts von seinem Erbe wusste! 😅  
+
+**Auffälligkeiten:**  
+📌 Die Yorkshire Bank existiert zwar, aber ihre echte Domain hat nichts mit *uk-ybonline.net* zu tun. Ein klarer Hinweis auf eine Fake-Adresse!  
+📌 Die Bankadresse ist echt, aber es gibt keinen Zusammenhang zu dieser angeblichen Transaktion.  
+📌 Der Text ist allgemein gehalten, damit er für viele Scams wiederverwendet werden kann.  
+
+> Dear Anne,  
+>   
+> Attached is a draft copy of the Application Letter that you should send to the bank. You need to print it out, sign and then forward it to the bank along with all the Court Documents that I sent you including the Death Certificate of my late client. Please send it to this email which was provided for me by the bank: operations@uk-ybonline.net  
+>   
+> Please let me know when you sent it to the bank so I can follow things up from that end.  
+>   
+> Confirm receipt of email and attachment.  
+>   
+> Jonathan  
+
+Wir tun zunächst so, als wären wir im Urlaub und hätten keinen Drucker dabei, um das Dokument wie gefordert zu unterschreiben. Doch plötzlich wird es ganz unkompliziert – auf einmal geht es auch ohne, damit es bloß keine Verzögerungen gibt.  
+
+Aber natürlich lassen wir uns nicht lumpen und setzen trotzdem eine digitale Unterschrift darunter. Schließlich soll alles *offiziell* aussehen! 😏
+
+![Der Vertag](/posts/2025-02-10_jonathan-reid/vertrag.png)
+
+**Mit dem Vertrag geht es nun zur Bank - operations@uk-ybonline.net.**
+

@@ -124,3 +124,27 @@ Daher schreiben wir Hetzner mal an, mit der Bitte dies zu prüfen.
 >   
 > Mit freundlichen Grüßen,    
 > Ahmet 
+
+
+## Hetzner macht die Seite dicht 🚫 und die Scammer eine neue
+
+Ein voller Erfolg! Nachdem wir die **Fake-Bank „Gold Crest Bank“** bei Hetzner gemeldet haben, hat der Hosting-Anbieter schnell reagiert und die betrügerische Seite vom Netz genommen.  
+
+Die offizielle Rückmeldung:  
+
+> **„Thank you for your notification. The entire site has been removed. Please also check this issue again on your end.“**  
+
+Das bedeutet: **Kein Betrug mehr über diese Domain!** 💪 Aber!!!! Wir haben uns bereits über eine kurze Pause gewundert, die Scammer haben bereits eine neue am Start.
+
+### Die neue Seite: goldcrestinc.com
+
+Die Scammer waren nicht untätig und haben bereits eine neue Version aufgesetzt, mit etwas anderem Design. 
+
+![Zack die neue Webseite](/posts/2025-02-12_silvana-tenreyro-teil-2/neue_bank.webp)
+
+Dieses Mal hosten sie wohl bei Hostinger. Auch hier informieren wir den Anbieter natürlich, nachdem wir die IP-Adresse herausgefunden und rückverfolgt haben. 🤗
+
+![IP der neuen Webseite](/posts/2025-02-12_silvana-tenreyro-teil-2/ip_1.png)
+
+
+

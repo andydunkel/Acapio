@@ -448,3 +448,30 @@ Natürlich lässt Hugo sich nicht ausbremsen und macht es den Betrügern einfach
 >   
 > Grüße,  
 > Hugo  
+
+
+## Michael Britton schaltet sich wieder ein 
+
+Plötzlich mischt sich unser alter Bekannter Michael Britton wieder ein – anscheinend ist ihm der Papierkram mit dem Schenkungsvertrag zu viel geworden. Stattdessen gibt’s jetzt einen neuen Plan: Die Bank ist auf einmal kein Problem mehr, Hugo soll einfach auf anderen Wegen zahlen. Zur Auswahl stehen natürlich nur die besten Methoden für Betrüger:  
+
+**1) Western Union/Money Gram** – Schön anonym, perfekt für Scammer. 🤑  
+**2) Apple-Geschenkkarten** – Klassische Masche, weil die Karten leicht weiterverkauft werden können. 🍏  
+**3) Bitcoin** – Komplett irreversibel, Geld futsch, Scammer happy. 💸  
+
+> Sehr geehrter Hugo Scholz,  
+>   
+> Die Bank hat mich heute Morgen kontaktiert und Sie wissen, dass sie Ihre Daten bereits hat. Was Sie jetzt tun müssen, ist, eine andere Option zu finden, mit der Sie die 950 Euro jetzt senden können, damit Ihnen die Bank Ihre Spende zustellt. Sie können versuchen, eine dieser Optionen zum Senden zu verwenden, und ich werde Ihnen helfen, die Gebühr anzunehmen und sie an die Bank zu senden.  
+>   
+> 1) Western Union/Money Gram  
+> 2) GESCHENKKARTE, z. B. eine Apple-Geschenkkarte  
+> 3) Bitcoin  
+>   
+> Wählen Sie also aus diesen drei Optionen die aus, die Sie zum Senden verwenden möchten.  
+>   
+> Mit freundlichen Grüßen  
+
+### Hugo hat Bitcoin
+
+Hugo gibt vor, mit Bitcoin zu handeln – und sogar Gewinne gemacht zu haben! Die Betrüger sehen ihre Chance, doch bevor Hugo "zahlt", will er natürlich eine **Bitcoin-Adresse** haben.
+
+> OK, muss ich mal schauen, ich hab seit kurzem eine Bitcoin Wallet, hab sogar schon Gewinn gemacht mit dem Kram. Lol, ich brauch da ne Adresse von ihnen, dann schaue ich mal wie das genau geht.  

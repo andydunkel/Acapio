@@ -132,3 +132,9 @@ Als wir die Google-Bildersuche anwerfen, finden wir den Ursprung der Unterschrif
 
 ![](posts/2025-02-05_cfrances/unterschrift.webp)
 
+
+## Wir unterschreiben auch!
+
+Gut kein Thema, wer wird sich denn trotz der kleinen Ungereimtheiten die Chance auf viel Geld verspielen. Wir unterschreiben ebenfalls und ab gehts.
+
+![](posts/2025-02-05_cfrances/unterschrift_2.webp)
