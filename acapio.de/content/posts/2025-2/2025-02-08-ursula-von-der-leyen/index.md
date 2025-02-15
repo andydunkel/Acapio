@@ -260,3 +260,13 @@ Doch da wir weiterhin nicht reagieren, kommt prompt der nächste Schritt: **Er b
 Moment mal… **Warum nicht einfach die komplette Summe?** Schließlich sollte jemand, der **angeblich 3 Millionen Euro auf dem Konto hat**, doch wohl keine Probleme haben, **die paar Hundert Euro vorzustrecken**. 
 
 ![](/posts/2025-02-08_ursula-von-der-leyen/wolfgang_2.png)
+
+### Wolfgang hat überwiesen
+
+Wolfgang lässt nicht locker und bombardiert und weiterhin mit E-Mails. Am Ende kommt sogar noch eine Überweisungsbesätigung, er hätte sein Hälfte schon überwiesen.
+
+![](/posts/2025-02-08_ursula-von-der-leyen/wolfgang_trans.webp)
+
+Na dann lassen wir uns doch nicht lumpen und schicken auch mal einen Screenshot, wir hätten das Geld angeblich überwiesen, die Info geht raus an Ursula und auch an Wolfgang.
+
+![](/posts/2025-02-08_ursula-von-der-leyen/transaktion_hugo.webp)

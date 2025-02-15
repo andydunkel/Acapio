@@ -146,5 +146,15 @@ Dieses Mal hosten sie wohl bei Hostinger. Auch hier informieren wir den Anbieter
 
 ![IP der neuen Webseite](/posts/2025-02-12_silvana-tenreyro-teil-2/ip_1.png)
 
+### goldcrestinc.com ist offline und auch die Mail-Accounts
 
+Auch Hostinger reagiert schnell und sperrt die Domain, damit besonders schade für die Scammer ist die Tatsache, dass auch ihre E-Mail-Accounts damit nicht mehr funktionieren. 😼
 
+> Thank you for your report.  
+> Listed abusive account(s) has been suspended.  
+>   
+> Hostinger Abuse Department  
+
+Silvana selbst verwendet eine Gmail-Adresse, daher fragen wir da jetzt mal nach, ob es Probleme mit der Bank gibt.
+
+![](/posts/2025-02-12_silvana-tenreyro-teil-2/bank_offline_mail.webp)

@@ -135,3 +135,49 @@ Und wie soll das Ganze ablaufen? Über ein mysteriöses „Treuhandkonto“. Gen
 >   
 > Beste Grüße,    
 > Hugo aus Wanne-Eickel    
+
+## Es geht zur Bank: FIN-WORLD BANK (finworlldbank@accountant.com)  
+
+Herr Jackson meldet sich erneut – allerdings ohne wirklich auf unsere letzte E-Mail einzugehen. Statt Antworten zu liefern, verweist er uns direkt an die Bank. Und siehe da, kurze Zeit später meldet sich die **FIN-World Bank** bei uns.  
+
+Ein kurzer Blick auf die Absenderadresse verrät: Die Bank kommuniziert über **@accountant.com**. Das kommt uns verdächtig bekannt vor – und tatsächlich! Wir hatten bereits das Vergnügen mit der **[FIN-HUBB Bank](/posts/2025-01-22-britton-lotto/#der-n%C3%A4chste-schritt-eine-bank-namens-fin-hubb-bank)**, die sich ebenfalls als wenig vertrauenswürdig herausstellte.  
+
+Eine offizielle Webseite? Fehlanzeige. Die Domain scheint ausschließlich für E-Mails genutzt zu werden. Doch laut der freundlichen Nachricht der Bank liegt das Geld angeblich schon bereit – wie praktisch! 😏
+
+> Wir haben Ihre E-Mail bezüglich der Spende von Charles Jackson erhalten. Außerdem haben wir von Ihrem Wohltäter Mrs Lerynne West ein Bestätigungsschreiben und Ihre Informationen erhalten.  
+>   
+>   
+> WIR sind hier, um Ihnen die 4,8 Millionen Euro zu überweisen, die Ihnen Charles Jackson gespendet hat. Sie können sicher sein, dass wir Ihnen die besagte Spende, wenn Sie mit uns zusammenarbeiten, schnell und ohne Verzögerung überweisen werden.  
+
+### Die alte Masche: 700 Euro für den Geldsegen  
+
+Kaum überrascht es uns, dass die FIN-World Bank bei der Auszahlung auf altbewährte Methoden setzt. Zur Auswahl stehen:  
+
+1. **Eine Online-Kontoeröffnung**, natürlich nur gegen eine kleine Gebühr von **700 Euro**.  
+2. **Eine ATM-Karte**, mit der das Geld abgehoben werden kann – ebenfalls für **700 Euro**.  
+
+Die Logik dahinter? Bevor wir unser vermeintliches Millionen-Erbe erhalten, sollen wir erst einmal selbst Geld überweisen. Eine klassische Betrugsmasche, die darauf abzielt, Opfer in Vorleistung zu bringen, nur um dann nie wieder etwas von der „Bank“ zu hören.  
+
+Hugo aus Wanne-Eickel bleibt jedoch skeptisch – und sein Portemonnaie bleibt geschlossen. Denn wenn jemand Millionen verschenken will, sollte er die 700 Euro doch locker selbst übernehmen können, oder? 😉
+
+![](/posts/2025-01-28-charles-jackson/finbank.webp)
+
+### Hugo nimmt die ATM-Karte!  
+
+Natürlich entscheidet sich Hugo für die bequemste Option: die ATM-Karte. Kein Papierkram, keine komplizierte Kontoeröffnung – einfach die Karte in den Automaten stecken und los geht’s! Doch ganz so einfach möchte er es der **FIN-World Bank** nicht machen.  
+
+Mit einer cleveren Rückfrage testet Hugo, wie flexibel diese „Bank“ wirklich ist: **Warum nicht die 700 Euro einfach vom Guthaben abziehen?** Schließlich wäre das nur logisch, wenn das Geld bereits auf dem Konto liegt.  
+
+> Sehr geehrte FIN-World Bank,    
+>   
+> vielen Dank für Ihre Nachricht und die angebotenen Möglichkeiten zur Auszahlung der Spende. Nach reiflicher Überlegung habe ich mich entschieden, die ATM-Karte zu wählen. Das klingt nach der einfachsten und sichersten Option für mich.    
+>   
+> Allerdings habe ich noch eine kleine Rückfrage:    
+> Da es sich um eine großzügige Spende handelt, wäre es möglich, die Gebühr von 700 Euro direkt vom Guthaben der Karte abzuziehen? Das würde den Prozess für uns beide einfacher machen, und ich könnte die Karte direkt nutzen, ohne zusätzlichen Aufwand.    
+>   
+> Bitte lassen Sie mich wissen, ob das möglich ist. Ich freue mich auf Ihre Antwort und darauf, die Karte bald in den Händen zu halten.    
+>   
+> Beste Grüße,    
+> Hugo aus Wanne-Eickel    
+>   
+

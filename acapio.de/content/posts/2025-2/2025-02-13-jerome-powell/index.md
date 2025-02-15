@@ -137,3 +137,65 @@ Hoffentlich nimmt sich der vielbeschäftigte Notenbank-Chef Zeit für Hugos Frag
 > Thank you and be blessing,    
 > Hugo aus Wanne-Eickel    
 > (President of BMW Club Wanne-Eickel)  
+
+## Jerome Powell meldet sich – und will es eilig!  
+
+Jetzt wird’s offiziell: **Jerome Powell**, Chef der **Federal Reserve Bank**, meldet sich persönlich! 🎩 Die **10,5 Millionen Dollar** seien bereit, aber Hugo muss sich sputen – er hat nur 48 Stunden Zeit!  
+
+Dafür braucht er ein „Genehmigungsdokument“, das er bei **Anwalt Damian Williams** beantragen soll. **Kontakt per Yahoo-Mail** – ganz wie es sich für eine seriöse US-Behörde gehört. 🧐  
+
+Außerdem will Powell gleich noch **Hugos Bankdaten und eine Ausweiskopie**. Klingt super sicher! 🤡 Hugo fragt sich: **Kommt das Geld per DHL oder bringt Powell es persönlich vorbei?** 😆
+
+> Willkommen bei der Federal Reserve Bank  
+> Adresse: 34 Liberty St, New York, NY 73046, Vereinigte Staaten,  
+> Tel.: (917) 960 2001  
+>   
+> Zum Wohl von Dr. Jaime Villafuerte,  
+>   
+> Ihre E-Mail wurde gut angenommen und verstanden.  
+>   
+> Ich möchte Sie darüber informieren, dass die Überweisung Ihrer gesamten Geldmittel in Höhe von 10.500.000,00 USD, die von Frau Kristalina Georgieva zugewiesen werden, innerhalb von 48 Stunden nach Erhalt der eidesstattlichen Erklärung und des Genehmigungsdokuments erfolgt. Daher wird Ihnen empfohlen, Herrn Damian Williams unter den unten angegebenen Kontaktdaten beim US Court of Federal Claim zu kontaktieren, um die eidesstattliche Erklärung und das Genehmigungsdokument zu erhalten. Sobald Ihnen die Dokumente ausgestellt wurden, senden Sie sie uns zur Bestätigung. Wir werden Ihre gesamten Geldmittel in Höhe von 10.500.000,00 USD sofort nach der Zuweisung durch Frau Kristalina Georgieva auf Ihr Bankkonto überweisen.  
+>   
+> Kontaktieren Sie den Anwalt jetzt unter der unten angegebenen E-Mail-Adresse:  
+>   
+> Kontaktperson:-- Herr Damian Williams  
+> E-Mail-Adresse: (damianwilliams102@yahoo.com)  
+> Telefonnummer:-- (937) 949 0534  
+>   
+> Hinweis: Alle Vorbereitungen für die erfolgreiche Überweisung Ihres Geldes auf Ihr Bankkonto wurden getroffen. Das Einzige, was wir jetzt noch von Ihnen benötigen, ist die eidesstattliche Erklärung über den Anspruch und das Genehmigungsdokument. Wenden Sie sich daher an Herrn Damian Williams beim US Court of Federal Claim, um die Dokumente zu erhalten und sich bei uns zu melden, damit wir Ihren Gesamtbetrag von 10.500.000,00 USD (Zehn Millionen Fünfhunderttausend US-Dollar) überweisen können.  
+>   
+> Sie müssen uns außerdem Ihre Kontodaten senden, wie unten aufgeführt, damit wir Ihr Geld auf Ihr Bankkonto überweisen können. Stellen Sie sicher, dass Sie bei den Kontodaten keine Fehler gemacht haben. Senden Sie uns jetzt Ihre Kontodaten, bevor Sie den Anwalt kontaktieren.  
+>   
+> Ihr vollständiger Name:  
+> Privatadresse:  
+> Büroadresse:  
+> Beruf:  
+> Eine Kopie Ihres Reisepasses oder Personalausweises:  
+> Name Ihrer Bank:  
+> Adresse Ihrer Bank:  
+> Telefonnummer:  
+> Kontonummer:  
+> Bankleitzahl:  
+> Swift-Code:  
+>   
+> Beachten Sie abschließend: Ich sagte, Ihre Überweisung wird wie oben erwähnt innerhalb von 48 Stunden über das Online-Überweisungssystem der Federal Reserve Bank abgewickelt. Wir stellen Ihnen alle Einzelheiten zur Online-Überweisung zur Verfügung und Sie können die Überweisung selbst von der Online-Website auf Ihr Bankkonto vornehmen, wenn Sie möchten, oder wir führen die Überweisung auf Ihr Bankkonto durch. Daher empfehlen wir Ihnen, die oben genannten und unten aufgeführten Kontaktinformationen zu verwenden, um den Anwalt des US Court of Federal Claim, Ansprechpartner Herr Damian Williams, zu kontaktieren.  
+
+
+### Unsere E-Mail an Damian Williams damianwilliams102@yahoo.com
+
+Es wird ganz schon kompliert, es geht von Allen Goldberg zu Kristalina Georgieva zu Jerome Powell und nun zu Damian Williams. Und dann wird auch noch ein Dr. Jaime Villafuerte erwähnt.
+
+Egal, dann schreiben wir halt, schick mit Fake-Daten und unserem Ausweis der Bunten Republik Deutschland.
+
+> Sehr geehrter Herr Williams,    
+>   
+> Herr Jerome Powell von der Federal Reserve Bank hat mich an Sie verwiesen, um die erforderlichen Dokumente für meine 10,5 Millionen Dollar zu erhalten. Er sagte, ich benötige eine eidesstattliche Erklärung und ein Genehmigungsdokument, bevor die Überweisung erfolgen kann.    
+>   
+> Hier meine Daten für die Bearbeitung:    
+>   
+> FAKE DATEN   
+>   
+> Bitte lassen Sie mich wissen, wie es weitergeht und ob Gebühren für die Dokumente anfallen. Ich bin gespannt auf Ihre Antwort und danke Ihnen für Ihre Unterstützung.    
+>   
+> Mit freundlichen Grüßen    
+> Hugo  
