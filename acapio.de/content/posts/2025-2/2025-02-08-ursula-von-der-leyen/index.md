@@ -270,3 +270,13 @@ Wolfgang lässt nicht locker und bombardiert und weiterhin mit E-Mails. Am Ende 
 Na dann lassen wir uns doch nicht lumpen und schicken auch mal einen Screenshot, wir hätten das Geld angeblich überwiesen, die Info geht raus an Ursula und auch an Wolfgang.
 
 ![](/posts/2025-02-08_ursula-von-der-leyen/transaktion_hugo.webp)
+
+## **Scammer enttarnt – Grüße nach Nigeria!** 🌍📱  
+
+Und da ist er – **der Moment der Wahrheit!** Unsere vermeintlichen „EU-Beamten“ haben brav auf unseren Tracking-Link geklickt und sich selbst enttarnt. **Ergebnis der WHOIS-Abfrage?** Die Spur führt nach **Nigeria** – genauer gesagt zu einem Internetanbieter mit einer Abuse-Mail bei *mtnnigeria.net*.  
+
+Besonders charmant: **Der ganze EU-Millionen-Schwindel wird offenbar mit einem iPhone orchestriert!** Wer hätte gedacht, dass die Europäische Kommission ihre Auszahlungen nicht aus Brüssel, sondern direkt aus Westafrika verwaltet? 😏  
+
+Jetzt bleibt nur noch die Frage: **Hat Ursula von der Leyen ihr Büro neuerdings in Lagos – oder hat sich Wolfgang nur in der Zeitzone vertan?** 🤡
+
+![](/posts/2025-02-08_ursula-von-der-leyen/ip.webp)
