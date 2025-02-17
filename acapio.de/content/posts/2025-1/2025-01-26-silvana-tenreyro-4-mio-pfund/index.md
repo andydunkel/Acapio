@@ -398,6 +398,24 @@ Damit haben sie zumindest kurzfristig Freude. Natürlich machen wir einen kleine
 
 ![](/posts/2025-01-26-silvana-tenreyro-4-mio-pfund/gezahlt.webp)
 
-## Weitere E-Mail-Adressen des Scams
+## **Die Bank wird gesperrt – northlinetrust.uk ist offline**  
 
-- silvanatenreyrompc@gmail.com
+Da wir gerade wenig Zeit haben, lassen wir die Scammer eine Weile zappeln und antworten nicht. Prompt werden sie nervös und melden sich regelmäßig – natürlich mit der dringenden Beschwerde, dass **noch kein Geld eingegangen** sei.  
+
+![](/posts/2025-01-26-silvana-tenreyro-4-mio-pfund/offline_1.png)  
+
+Währenddessen nehmen wir uns die Domain **northlinetrust.uk** genauer vor. Wir finden heraus, wo die Seite gehostet wird, und [melden den Betrug](/posts/2025-02-17_scam-webseiten-sperren-lassen/) direkt an den Provider. Dieser reagiert schnell und zieht die Reißleine:  
+
+> **Domain suspended, phishing.**  
+> **Best regards,**  
+> **Realtime Register Intelligence.**  
+
+Damit haben die Scammer ein echtes Problem. Denn nicht nur die Website ist verschwunden – auch ihre **E-Mail-Kommunikation** lief über diese Domain. Mit einem Schlag sind alle Kontakte weg.
+
+Natürlich lassen wir es uns nicht nehmen, **Silvana** direkt über ihren neuesten Rückschlag zu informieren. Zum Glück hat sie noch eine **Gmail-Adresse**, über die sie erreichbar ist. 😏  
+
+Was sie nicht weiß: **Wir haben mittlerweile schon die dritte Webseite ihres „Bankennetzwerks“ aus dem Verkehr gezogen**. Während die Scammer fieberhaft versuchen, neue Domains zu registrieren, schreiben wir sie [immer wieder an](/posts/2025-02-12_silvana-tenreyro-teil-2/) und treiben das Spiel weiter.  
+
+![Die Scammer sind sichtlich geknittert](posts/2025-02-17_scam-webseiten-sperren-lassen/offline_2.png)
+
+Immerhin gibt es eine neue E-Mail-Adresse, dieses Mal "**@accountant.com**", die Nummer 1 Adresse für Betrug im Internet!

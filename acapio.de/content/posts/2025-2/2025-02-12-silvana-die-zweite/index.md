@@ -158,3 +158,7 @@ Auch Hostinger reagiert schnell und sperrt die Domain, damit besonders schade f�
 Silvana selbst verwendet eine Gmail-Adresse, daher fragen wir da jetzt mal nach, ob es Probleme mit der Bank gibt.
 
 ![](/posts/2025-02-12_silvana-tenreyro-teil-2/bank_offline_mail.webp)
+
+Wir erhalten keine Antwort, sperren aber über unsere ersten Kontakt noch eine weitere Webseite der Scammer. Hierüber erhalten wir auch eine Antwort, die Scammer hatten wohl keinen guten Tag.
+
+![Die Scammer sind sichtlich geknittert](posts/2025-02-17_scam-webseiten-sperren-lassen/offline_2.png)
