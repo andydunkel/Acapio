@@ -81,15 +81,15 @@ Das allein wäre ja noch kein Problem – aber **Rediffmail ist berüchtigt für
 
 Und mal ehrlich: **Seit wann verschickt die Präsidentin der EU offizielle Millionen-Angebote über eine indische Freemail-Adresse?** Wer bis hierhin noch gezweifelt hat, sollte spätestens jetzt den Braten riechen! 🤨💸
 
-## "Tschrepitsch Wolfgang" meldet sich! Mit Ausweis!
+## "T. Wolfgang" meldet sich! Mit Ausweis!
 
-Anstelle von Ursula meldet sich ein gewisser **Wolfgang Tschrepitsch** (borhenhans@gmail.com) und schickt direkt einen „Reisepass“ mit, um Vertrauen zu schaffen.  
+Anstelle von Ursula meldet sich ein gewisser **Wolfgang T.** (borhenhans@gmail.com) und schickt direkt einen „Reisepass“ mit, um Vertrauen zu schaffen.  
 
 Seine Geschichte: Wolfgang habe ebenfalls eine Entschädigungsmail von Ursula erhalten und sei extra nach Belgien gereist, um die Echtheit zu prüfen. Vorher habe er **42.671 € an Gebühren** gezahlt, ohne je Geld zu sehen. Diesmal habe er **590 € gezahlt** – und angeblich die 3 Millionen auf sein Konto bekommen. Nun fragt er Hugo, ob er seine Entschädigung schon erhalten hat. 
 
 > Hallo Hugo
 >   
-> Mein Name ist Tschrepitsch Wolfgang aus Österreich  
+> Mein Name ist T. Wolfgang aus Österreich  
 > Anbei mein Reisepass  
 >   
 > Ich war letzte Woche in Belgien, als ich einen Brief von Frau Ursula von der Leyen, Präsidentin der Europäischen Union, erhielt, in dem stand, dass ich von der Europäischen Union eine Entschädigung von 3.000.000,00 € erhalten habe. Ich war so überrascht, dass ich dorthin ging, um das zu bestätigen, und es stimmte. Ich sah Ihre E-Mail neben meiner E-Mail und auch auf der Liste der Entschädigungsgewinner.  
