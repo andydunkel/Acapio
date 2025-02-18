@@ -490,3 +490,51 @@ Wir schreiben zurück:
 >   
 > Beste Grüße,    
 > Hugo   
+
+## **Apple Gift Card und die Herkunft der Scammer!**  
+
+Jetzt wird’s spannend: Wir schicken den Betrügern einen fingierten Link zu einer Apple Gift Card. Natürlich können sie der Versuchung nicht widerstehen und klicken drauf – doch anstatt eines gültigen Guthabens erwartet sie eine bereits *gebrauchte und damit wertlose* Karte.  
+
+Die Reaktion? Wenig erfreut. Die Scammer lassen uns sofort wissen, dass sie alles andere als begeistert sind. Doch das ist uns egal – denn während sie sich ärgern, haben wir bereits ihre IP-Adresse geloggt. Und Überraschung: **Nigeria!** Mal wieder der Klassiker, denn das Land gilt als einer der Hotspots für Internetbetrug. Hugo freut sich – die Scammer wohl weniger! 😆
+
+![Scammer nicht erfreut](/posts/2025-01-14_maria-schaeffler-scam/ip.webp)
+
+
+## Wir stornieren die Transaktion
+
+Wir tun reumütig und behaupten, dass das mit der Apple Gift Card nur ein Missverständnis war – wir wollten doch nur sicherstellen, dass wir die richtige Karte kaufen. Doch die Scammer, die uns nun seit über einem Monat hinhalten, lassen nicht so einfach locker. Stattdessen setzen sie uns unterschwellig unter Druck:  
+
+> *Wir würden uns sehr über Ihre umgehende Kooperation freuen, uns die Apple-Karte so bald wie möglich zuzusenden. Falls wir die Apple-Karte nicht innerhalb der angegebenen Frist erhalten, müssen wir möglicherweise eine Stornierung der Transaktion in Betracht ziehen.*  
+
+Welche „Frist“ sie meinen, bleibt ihr Geheimnis – aber die *Stornierung* droht! Na dann, drehen wir den Spieß doch mal um und *stornieren die Transaktion selbst*! Mal sehen, wie sie das finden. 😆
+
+Das ganze machen wir natürlich förmlich!
+
+> Sehr geehrte Damen und Herren,  
+>   
+> vielen Dank für Ihre Nachricht und die Erinnerung an die ausstehende Apple-Karte. Nach reiflicher Überlegung habe ich mich entschieden, die Transaktion fristgerecht zu stornieren, da mir die gesamte Abwicklung inzwischen zu unsicher erscheint.  
+>   
+> Ich habe mit meiner Bank gesprochen, und dort wurde mir erneut bestätigt, dass eine solche Vorgehensweise höchst ungewöhnlich für eine Banktransaktion ist. Da ich keinerlei Risiken eingehen möchte, sehe ich mich gezwungen, von der Transaktion Abstand zu nehmen.  
+>   
+> Bitte bestätigen Sie mir die Stornierung der Transaktion sowie die vollständige Löschung meiner Daten aus Ihrem System. Ich danke Ihnen für Ihre „Bemühungen“ und wünsche Ihnen weiterhin viel Erfolg bei Ihren zukünftigen Geschäftsabwicklungen.  
+>   
+> Mit freundlichen Grüßen,  
+> Hugo  
+
+
+## **Fazit: Ein klassischer Betrug – und eine Menge Spaß**  
+
+Was als scheinbar großzügige Spende von *Maria Elisabeth Schaeffler* begann, entpuppte sich als klassischer Vorschussbetrug. Die Masche ist altbekannt: Erst kommt das Versprechen auf eine hohe Geldsumme, dann tauchen angebliche Gebühren auf, die das Opfer zahlen soll – natürlich „nur, um den Transfer abzuschließen“.  
+
+Doch statt in die Falle zu tappen, haben wir den Spieß umgedreht und die Scammer wochenlang hingehalten. Mit gefälschten Bankdokumenten, absurden Ausreden und der plötzlichen Möglichkeit, eine „Banktransaktion“ mit einer **Apple Gift Card** zu bezahlen, wurde es immer absurder. Die Scammer fingen sogar an, ihren Ton zu ändern – von professionell zu verzweifelt – bis schließlich die Drohung einer **Stornierung** kam.  
+
+Letztlich haben **wir** fristgerecht storniert und den Betrügern eine wertvolle Lektion erteilt: Wer in Wanne-Eickel auf Millionen hofft, muss mit langen Wartezeiten rechnen. 😆  
+
+### **Was wir aus dieser Geschichte lernen können:**  
+✅ **Millionengeschenke gibt es nicht.** Niemand verschenkt einfach Geld an Fremde.  
+✅ **Scammer lieben Druck.** Sie versuchen, Opfer durch Drohungen oder Fristen zu verunsichern.  
+✅ **Kein seriöses Unternehmen verlangt Apple Gift Cards.** Spätestens hier hätte auch der letzte Verdacht bestätigt sein müssen.  
+✅ **Hinhaltetaktik funktioniert.** Je länger man Betrüger beschäftigt, desto weniger Zeit haben sie für echte Opfer.  
+
+Am Ende bleibt uns vor allem eines: **Ein grandioses Katz-und-Maus-Spiel** – und eine schöne Geschichte für den Blog! 😆
+

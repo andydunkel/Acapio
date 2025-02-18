@@ -162,3 +162,34 @@ Silvana selbst verwendet eine Gmail-Adresse, daher fragen wir da jetzt mal nach,
 Wir erhalten keine Antwort, sperren aber über unsere ersten Kontakt noch eine weitere Webseite der Scammer. Hierüber erhalten wir auch eine Antwort, die Scammer hatten wohl keinen guten Tag.
 
 ![Die Scammer sind sichtlich geknittert](posts/2025-02-17_scam-webseiten-sperren-lassen/offline_2.png)
+
+## Die Scammer sind zurück – ohne Bank, aber nicht ohne Hoffnung
+
+Obwohl wir bereits mehrere ihrer „Banken“ aus dem Verkehr gezogen haben, lassen sich die Betrüger nicht so leicht abschütteln. Dieses Mal versuchen sie es auf die **direkte Tour**: Keine Fake-Webseite mehr, keine angebliche Online-Bank – nur noch ein paar vage E-Mails und der Versuch, uns zur Zahlung zu drängen.  
+
+> **„Bitte beachten Sie, dass Ihre Zahlung von unserer Buchhaltungsabteilung bestätigt werden muss, bevor ein Konto auf Ihren Namen eingerichtet werden kann.“**  
+> – Daniel Wang, Gold Crest  
+
+Gold Crest? Ohne Bank? Ohne Webseite? Es scheint, als seien sie in Schwierigkeiten. Doch anstatt aufzugeben, schreiben sie weiter fleißig E-Mails und hoffen, dass wir **doch noch bezahlen**.  
+
+Doch wir haben eine bessere Idee: **Wir lassen sie weiter zappeln.** 😏 Vielleicht geben sie uns ja bald eine neue **Bankverbindung**, die wir dann direkt wieder melden können… 🚀
+
+### Wir fragen nach der Bankverbindung und Webseite
+
+Natürlich lassen wir uns nicht einfach in ein **bankloses Nichts** schicken und haken freundlich nach. Immerhin erwarten wir ja eine seriöse Abwicklung unseres Millionen-Erbes!  
+
+Jetzt bleibt abzuwarten, wie **Daniel Wang** sich aus der Affäre zieht:  
+- **Option 1:** Die klassische Ausrede – „technische Wartung“, „Sicherheitsupdate“ oder „Bankfusion“.  
+- **Option 2:** Ein neuer Name, eine neue Fake-Bank, die uns noch überzeugender um unser Geld erleichtern soll.  
+- **Option 3:** Panik, Verwirrung und Stille – weil ihnen langsam die Möglichkeiten ausgehen.  
+
+> Sehr geehrter Herr Wang,    
+>   
+> ich bin etwas irritiert, da die Webseite der Gold Crest Bank nicht mehr erreichbar ist. Können Sie mir bitte bestätigen, ob alles in Ordnung ist und ob die Abwicklung der Erbschaft wie geplant fortgesetzt werden kann?    
+>   
+> Gibt es möglicherweise eine neue Webseite oder eine alternative Möglichkeit, um das Konto zu eröffnen? Ich möchte sicherstellen, dass alles korrekt abläuft.    
+>   
+> Vielen Dank für Ihre Rückmeldung.    
+>   
+> Mit freundlichen Grüßen,    
+> Ahmet    

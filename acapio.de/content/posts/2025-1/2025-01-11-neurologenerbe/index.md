@@ -586,3 +586,13 @@ Der gute Haskel wird langsam ungeduldig, aber Hugo hat gerade „andere Probleme
 Natürlich informieren wir den besorgten Haskel über diesen unerwarteten Rückschlag und warten gespannt, wie er auf diese neue Hürde reagiert. 😉  
 
 ![](/posts/2025-01-11_neurologe_macht_uns_reich/sperre.webp)
+
+## Wir drehen uns im Kreis – also stornieren wir!
+
+Es geht einfach nicht voran – also ziehen wir die Reißleine. Wir erklären den Betrügern, dass wir den Kontakt abbrechen, denn mal ehrlich: Eine „Bank“ ohne eigene Webseite? Das geht ja wohl gar nicht!  
+
+Damit drehen wir den Spieß um und legen den Ball in das Feld der Scammer. Mal sehen, ob sie sich etwas Neues einfallen lassen oder langsam die Nerven verlieren. 😉  
+
+![](/posts/2025-01-11_neurologe_macht_uns_reich/stornierung.webp)
+
+

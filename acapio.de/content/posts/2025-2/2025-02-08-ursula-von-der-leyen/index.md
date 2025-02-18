@@ -280,3 +280,16 @@ Besonders charmant: **Der ganze EU-Millionen-Schwindel wird offenbar mit einem i
 Jetzt bleibt nur noch die Frage: **Hat Ursula von der Leyen ihr Büro neuerdings in Lagos – oder hat sich Wolfgang nur in der Zeitzone vertan?** 🤡
 
 ![](/posts/2025-02-08_ursula-von-der-leyen/ip.webp)
+
+## **Hugo dreht den Spieß um – 3 Millionen sind da! 🎉**  
+
+Wolfgang gibt weiter Gas und will wissen, ob Hugo endlich gezahlt hat. **Doch jetzt wird’s richtig lustig:** Statt weiterhin die 590 Euro hinauszuzögern, macht Hugo **den ultimativen Move** – er behauptet einfach, **die 3 Millionen wären angekommen!**  
+
+Mit einer täuschend echten Kontoübersicht und jeder Menge Euphorie bedankt er sich artig bei Wolfgang:  
+👉 **„Boah eh, 3 Mio Tacken auf dem Konto, danke für deine Hilfe!“**  
+
+Jetzt wird’s spannend – **wie wird Wolfgang reagieren?** Wird er versuchen, Hugo weitere „Gebühren“ aufzudrücken? Oder will er plötzlich am Geldsegen teilhaben? Wir lassen ihn noch ein bisschen zappeln… 😏
+
+![Jede Menge Geld auf unserem Konto](/posts/2025-02-08_ursula-von-der-leyen/geld_ist_da.png)
+
+

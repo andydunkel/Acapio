@@ -298,3 +298,35 @@ Wir vermuten, dass es diese Nummer gegen eine kleine Gebühr gibt. 🤗
 ![Wir brauchen eine IRS-Versicherung](/posts/2025-02-02_mitchel-jobs/transaction_fail.webp)
 
 Umgehend meldet sich der Support. Wir schreiben zurück...
+
+## Plot Twist: Der IRS will jetzt auch mitverdienen!
+
+Kaum will Anne ihr frisch „gutgeschriebenes“ Millionenvermögen überweisen, taucht – *Überraschung!* – ein neues Hindernis auf. Angeblich benötigt sie nun einen speziellen **IRS-Steuercode**, um an ihr Geld zu kommen. Und dieser Code kommt natürlich nicht umsonst.  
+
+Aber unser **Mitchell Jobs** wäre nicht unser Lieblings-Finanzhai, wenn er nicht einen „Freund“ hätte, der ihr helfen kann. Also hat er sich **persönlich mit IRS-Kommissar Daniel Werfel getroffen** – klingt doch glaubwürdig, oder? Der Kommissar erklärt ihm, dass **Präsident Biden höchstpersönlich eine neue Steuer eingeführt hat**, die **ausländische Begünstigte verpflichtet, 0,5 % ihres Betrags vorab zu zahlen**. Das macht bei Annes Millionen exakt **53.910 Dollar**.  
+
+Doch halt! Mitchell ist ein **wahrer Menschenfreund**. Weil seine Frau an Krebs leidet (*danke, Ex-Präsident Trump, dass du die Krankenversicherung ruiniert hast!*), hat er zwar nicht die ganze Summe, aber immerhin **52.000 Dollar**, die er großzügig vorstrecken würde. **Anne muss also nur noch die letzten 1.910 Dollar aufbringen.** Ein echtes Schnäppchen für 10,7 Millionen, oder? 😏  
+
+Natürlich ist das alles Quatsch. Das ist der Moment, in dem Scammer versuchen, echtes Geld zu kassieren – **die berühmte „letzte Gebühr“, bevor der große Reichtum kommt.** 
+
+![Too long, did not read!](/posts/2025-02-02_mitchel-jobs/long_mail.png)
+
+
+### Anne gibt sich ahnungslos – und wartet auf die nächste Falle 🎣
+
+Natürlich spielen wir weiter mit! **Anne zeigt sich tief beeindruckt von Mitchells Einsatz.** Schließlich trifft man nicht jeden Tag einen **IRS-Kommissar**, der sich persönlich um eine Steuerzahlung kümmert – und das auf Anweisung von **Präsident Biden höchstpersönlich!** 😆  
+
+Besonders rührend: **Mitchells selbstloses Angebot**, ihr mit 52.000 Dollar auszuhelfen. So viel Vertrauen, obwohl sie sich kaum kennen! Wer könnte da noch an einen Betrug glauben? 🦈💸
+
+> Lieber Herr Jobs,    
+>   
+> vielen Dank für Ihre Nachricht und dass Sie sich so sehr für meine Auszahlung einsetzen! Es tut mir leid zu hören, dass Sie mit familiären Problemen zu kämpfen haben – und dann auch noch die Schwierigkeiten mit der Krankenversicherung. Ich hoffe, dass sich die Lage für Sie bald bessert!    
+>   
+> Ich verstehe, dass ich den IRS-Steuercode brauche, um mein Geld zu erhalten. Dass sogar Präsident Biden persönlich so eine Regel eingeführt hat, zeigt ja, wie ernst das alles ist! Es beruhigt mich, dass Sie sich sogar mit dem IRS-Kommissar getroffen haben – das klingt alles sehr offiziell.    
+>   
+> Ich bin Ihnen so dankbar, dass Sie mir mit 52.000 Dollar aushelfen möchten. Dass Sie mir so sehr vertrauen, bedeutet mir wirklich viel! Ich muss nur noch klären, wie ich die 1.910 Dollar aufbringen kann. Wie genau soll ich das Geld denn überweisen? Ich habe bisher noch nie eine Steuer an die US-Regierung gezahlt – gibt es da ein spezielles Konto oder eine sichere Methode? Vielleicht kann ich das auch direkt bei meiner Bank machen lassen?    
+>   
+> Ich will nichts falsch machen, damit das mit dem Code schnell klappt. Lassen Sie mich wissen, wie ich die Zahlung am besten vornehme!    
+>   
+> Herzliche Grüße,    
+> Anne  
