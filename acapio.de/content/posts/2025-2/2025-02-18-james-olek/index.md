@@ -79,3 +79,63 @@ Wir warten gespannt auf eine Antwort – und halten euch natürlich auf dem Lauf
 >   
 > Cheers,    
 > Hugo (not dead)    
+
+
+### **Die Antwort der „Polizei“ – Jetzt wird’s wild!**  
+
+Unsere Freunde von der selbsternannten *Metropolitan Police UK* haben sich gemeldet – und was für eine Show sie da abziehen! 🎭  
+
+Zunächst einmal sind sie **total überrascht**, dass Hugo noch lebt. Unglaublich, dass man einfach eine E-Mail schreibt und *schwupps*, man ist offiziell wieder am Leben! 🎉  
+
+Aber keine Sorge, die „Polizei“ hat jetzt **alles in die Wege geleitet**, damit das „Erbe“ (das plötzlich auf **16,6 Millionen Dollar** angewachsen ist – inflationsbedingt?) doch an Hugo ausgezahlt wird. Der angebliche Gangster **John Lewis wurde gestoppt**, und alles ist nun „re-approved“. Klingt super offiziell, oder? 😆  
+
+Natürlich gibt’s einen **„wichtigen“ Kontakt**, an den Hugo sich wenden soll – einen gewissen *Dr. Mark Peterson* von der *First International Bank*. Der Name klingt seriös, die E-Mail-Adresse wie ein billiger Fake, und die Telefonnummer… na ja, rufen wir lieber nicht an. 📞💀  
+
+Und das Beste zum Schluss: **„Folgen Sie meinen Anweisungen religiös, und bald werden Sie lächeln!“** – Klingt fast wie ein Sektenversprechen. 😆  
+
+> Greetings to you from Metropolitan Police UK. We would like to assure you of our protection from any criminals. Good day to you, we just spoke to the bank now for them to stop every communication with Mr. John Lewis and proceed with the transfer of the Fund to you.  
+>   
+> Be informed that your mail was officially received at this investigation office today and all content therein is well noted and understood with thanks. I am so surprised mostly that you are still alive and not like Mr. John Lewis stated," Please you must not entertain any fear for any reason as this fund has been investigated and has been re-approved today since you have made it clear to this investigation office that you did not authorize Mr. John Lewis to make a claim for funds on your behalf.  
+>   
+> Below you will see the bank paying information as we have stopped the transfer of Mr. John Lewis, since you have made us understand that you are still alive and did not authorize MR JOHN LEWIS to receive your inheritance on your behalf. We now have sufficient proof regarding the release of your fund, and we wish to inform you that from our record here, you have fulfilled such conditions as the rightful beneficiary of the said amount, US$16,600,000.00 ( Sixteen Million Six Hundred  United States Dollars)   as investigated today in this office the presidency (Metropolitan Police UK).  
+>      
+> Rest assured that once you follow my advice religiously, soon you will smile soon.  You are advised to stop all communication you might be having with any office (persons) to avoid any further jeopardy (ADVICE). And very thankful for updating this office that you did not sign/authorize anyone to claim your funds.  
+>      
+> Below is the official First International Bank Remittance Bank Director to complete the remittance of your fund to you.  
+>    
+> Find below the bank contact details.   
+>   
+> FIRST INTERNATIONAL BANK  
+> Dr.  Mark Peterson  
+> USA Financial Director  
+> Phone:  +1 (409) 240-0193  
+> Fax:   +1 (409) 240-0193  
+> Email:  peterson@fibbanc.com    
+>   
+> You should contact the bank immediately to have your fund released to you today.  
+
+## First International Bank: fibbanc.com
+
+Zuerst schauen wir mal auf die Bankwebseite. Zu sehen gibt es hier nichts, eine weiße Seite ohne Inhalt. Eine Google Suche listet die Webseite als [Fake-Bank](https://db.aa419.org/fakebanksview.php?key=133731).
+
+![Hier gibt es nichts zu sehen!](/posts/2025-02-18_james-olek/webseite.webp)
+
+## **Hugo schreibt der Bank – Zeit für die Millionen!**  
+
+Nach dem Schock über seinen angeblichen Tod und der wundersamen Wiederauferstehung meldet sich Hugo nun also bei der **First International Bank**. Immerhin warten dort **16,6 Millionen Dollar** auf ihn – und die können ja nicht einfach so rumliegen, oder? 😆  
+
+In seiner gewohnt bescheidenen Art fragt Hugo höflich nach dem Geld. Aber mal ehrlich, **so ein plötzlicher Reichtum wirft Fragen auf**:  
+- Sollte er sich jetzt einen **zweiten BMW** kaufen? 🤔  
+- Muss er etwa nochmal beweisen, dass er lebt? **(Reicht Biertrinken und Arbeiten nicht als Beweis?!)**  
+- Und am wichtigsten: **Wie kommt die Kohle jetzt endlich auf sein Konto?!**  
+
+> Hello Dr. Mark Peterson,    
+>   
+> This is Hugo Scholz. I just received a message from the Metropolitan Police UK, and they told me that you are the guy I need to talk to about my 16.6 million dollars. First of all, let me say: WOW! That’s a lot of money. I had no idea I was this rich! Maybe I should buy another BMW now. 🚗💨    
+>   
+> Anyway, the police said everything is re-approved, so we can move forward now. Tell me, what do I need to do to get my money? I hope you don’t need any more proof that I’m alive – I’m still drinking beer and working every day, so I think that’s enough.    
+>   
+> Looking forward to your instructions. Please let me know if I need to send anything else.    
+>   
+> Cheers,    
+> Hugo Scholz    
