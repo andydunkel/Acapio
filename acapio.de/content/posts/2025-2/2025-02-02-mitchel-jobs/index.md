@@ -330,3 +330,46 @@ Besonders rührend: **Mitchells selbstloses Angebot**, ihr mit 52.000 Dollar aus
 >   
 > Herzliche Grüße,    
 > Anne  
+
+## Jetzt wird’s ernst: Die Bankverbindung ist da! 
+
+Endlich ist es soweit – **die Betrüger legen ihre Karten auf den Tisch.** Jetzt heißt es nicht mehr „bald“, „bald“, „bald“, sondern **„Hier ist die Bankverbindung, bitte überweisen!“**.  
+
+Der großzügige **Mitchell Jobs** will also seinen Beitrag von 52.000 Dollar mit Annes bescheidenen 1.910 Dollar kombinieren, um den **magischen IRS-Steuercode** zu kaufen. Und wohin soll das Geld? Natürlich nicht an das IRS oder die Federal Reserve, sondern an **einen gewissen „Juan Rivera“ bei der NAVY Federal Credit Union in New York.** 🌎💸  
+
+Was lernen wir daraus? **Selbst der kreativste Scam führt irgendwann zu einer ganz normalen Banküberweisung – direkt auf das Konto der Betrüger.**  
+
+> Vielen Dank für Ihre freundlichen Worte und Ihr Verständnis. Ihr Mitgefühl bedeutet mir in dieser schwierigen Zeit wirklich viel und ich weiß Ihre Geduld und Ihr Vertrauen während des gesamten Prozesses zu schätzen.  
+>   
+> Ich freue mich, dass Sie verstehen, wie wichtig es ist, den IRS-Steuercode zu erhalten, um die Überweisung Ihrer Gelder zu erleichtern. Ich weiß auch Ihre Bereitschaft zu schätzen, die 1.910 $ aufzubringen, die für die Zahlung erforderlich sind.  
+>   
+> Um den Prozess zu vereinfachen, senden Sie die 1.910 $ bitte an meinen Buchhalter, der sie mit den 52.000 $, die ich beisteuere, zusammenzählt, um die für den IRS-Steuercode erforderlichen Gesamtsummen von 53.910 $ zu erreichen. Dadurch können wir schnell vorgehen und sicherstellen, dass Sie ohne weitere Verzögerung auf Ihre Gelder zugreifen können.  
+>   
+> Hier sind die Zahlungsdetails:  
+> - Bankname: NAVY Federal Credit Union  
+> - Kontoname: Juan Rivera  
+> - Adresse: 2627 Webster Ave Bsmt 1, Bronx, NY 10458, USA  
+> - Kontonummer: 7193711269  
+> - Bankleitzahl: 256074974  
+> - SWIFT/BIC: NFCUUS33XX  
+>   
+> Bitte geben Sie unbedingt Ihren Namen als Zahlungsreferenz an, damit wir die Transaktion problemlos verfolgen können. Wenn Sie während des Überweisungsvorgangs auf Probleme stoßen oder weitere Unterstützung benötigen, können Sie sich jederzeit an mich wenden.  
+>   
+> Sobald die Zahlung eingegangen ist, werde ich meinen Beitrag sofort hinzufügen und mit der Beantragung des IRS-Steuercodes fortfahren. Ich werde Sie bei jedem Schritt auf dem Laufenden halten.  
+>   
+> Nochmals vielen Dank für Ihr Verständnis, Ihre Geduld und Ihr Vertrauen. Ich setze mich dafür ein, dass Sie Ihr Geld reibungslos und ohne weitere Komplikationen erhalten.  
+>   
+> Mit freundlichen Grüßen,  
+> Mitchell Jobs  
+> RP Financials LLC USA  
+> Tel: +1 (661) 770-1644 (WhatsApp)  
+> +1 (458) 899-5669 (Anruf & SMS)  
+
+
+## **Wir „überweisen“ – aber mit Stil! 😏**
+
+Es ist soweit: **Anne hat ihre Zahlung angewiesen!** Natürlich nicht direkt, sondern als **sorgfältig gefälschten Zahlungsbeleg** – und weil wir es extra spannend machen, schicken wir den Betrügern den Beleg nicht einfach so, sondern **als Tracking-Link**. 😆  
+
+Jetzt warten wir gespannt: **Wird unser Finanzhai misstrauisch?** Wird er versuchen, uns zu hetzen, weil das Geld „noch nicht eingegangen“ ist? Oder klickt er brav auf den Link und hinterlässt uns ganz nebenbei **seine IP-Adresse und Standortdaten?**  
+
+![Unsere Überweisung](/posts/2025-02-02_mitchel-jobs/transaction.webp)
