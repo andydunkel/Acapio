@@ -522,6 +522,30 @@ Das ganze machen wir natürlich förmlich!
 > Hugo  
 
 
+### Die Scammer lassen keine Ruhe!
+
+Gerade als wir dachten, wir hätten endlich unsere Ruhe, ziehen die Betrüger noch einen letzten Trumpf aus dem Ärmel: **Eine hochseriöse Webadresse!** Denn was könnte mehr Vertrauen erwecken als eine wahllos zusammengestückelte Domain mit „Bank“ im Namen?  
+
+> *„Unsere Online-Banking-Plattform ist so konzipiert, dass sie allen unseren Kunden ein nahtloses und sicheres Erlebnis bietet.“*  
+
+Na klar, besonders sicher – **wenn man sein Geld loswerden will!** 😂  
+
+> Sobald die Zahlung heute erfolgt ist, können Sie sicher sein, dass wir umgehend mit der Eröffnung Ihres Online-Kontos bei der Synovus Bank fortfahren. Nach erfolgreichem Abschluss dieses Vorgangs stellen wir Ihnen die erforderlichen Benutzernamen- und Kennwortanmeldeinformationen zur Verfügung, damit Sie sicher auf Ihr Konto zugreifen können.  
+>   
+> Nachfolgend finden Sie die Website der Bank: https://apexsynoviusllb.com  
+> Anschließend können Sie ganz einfach und bequem mit der Überweisung Ihrer Gelder auf Ihr persönliches Bankkonto beginnen. Unsere Online-Banking-Plattform ist so konzipiert, dass sie allen unseren Kunden ein nahtloses und sicheres Erlebnis bietet, sodass Sie Ihre Finanzen bequem von zu Hause aus effizient verwalten können.  
+
+### Die Webseite: apexsynoviusllb.com
+
+Statt uns geschlagen zu geben, haben wir natürlich direkt einen Blick auf die „offizielle Bankseite“ geworfen. Was wir dort gefunden haben? Nun ja… sagen wir mal so: Es hat nicht gerade nach einer Filiale der **Deutschen Bank** ausgesehen. Aber hey, der Versuch zählt! 
+
+Ein Blick in den Quelltext verrät, dass die Webseite schonmal auf anderen Domains gehostet wurde.
+
+![Die Webseite der Bank](/posts/2025-01-14_maria-schaeffler-scam/bank.webp)
+
+**Wir ermitteln auch hier den Hoster und schreiben eine Mitteilung mit der Bitte um Sperre.**
+
+
 ## **Fazit: Ein klassischer Betrug – und eine Menge Spaß**  
 
 Was als scheinbar großzügige Spende von *Maria Elisabeth Schaeffler* begann, entpuppte sich als klassischer Vorschussbetrug. Die Masche ist altbekannt: Erst kommt das Versprechen auf eine hohe Geldsumme, dann tauchen angebliche Gebühren auf, die das Opfer zahlen soll – natürlich „nur, um den Transfer abzuschließen“.  
@@ -530,7 +554,7 @@ Doch statt in die Falle zu tappen, haben wir den Spieß umgedreht und die Scamme
 
 Letztlich haben **wir** fristgerecht storniert und den Betrügern eine wertvolle Lektion erteilt: Wer in Wanne-Eickel auf Millionen hofft, muss mit langen Wartezeiten rechnen. 😆  
 
-### **Was wir aus dieser Geschichte lernen können:**  
+### **Was wir aus dieser Geschichte lernen können**  
 ✅ **Millionengeschenke gibt es nicht.** Niemand verschenkt einfach Geld an Fremde.  
 ✅ **Scammer lieben Druck.** Sie versuchen, Opfer durch Drohungen oder Fristen zu verunsichern.  
 ✅ **Kein seriöses Unternehmen verlangt Apple Gift Cards.** Spätestens hier hätte auch der letzte Verdacht bestätigt sein müssen.  

@@ -161,7 +161,7 @@ Silvana selbst verwendet eine Gmail-Adresse, daher fragen wir da jetzt mal nach,
 
 Wir erhalten keine Antwort, sperren aber über unsere ersten Kontakt noch eine weitere Webseite der Scammer. Hierüber erhalten wir auch eine Antwort, die Scammer hatten wohl keinen guten Tag.
 
-![Die Scammer sind sichtlich geknittert](posts/2025-02-17_scam-webseiten-sperren-lassen/offline_2.png)
+![Die Scammer sind sichtlich geknittert](/posts/2025-02-17_scam-webseiten-sperren-lassen/offline_2.png)
 
 ## Die Scammer sind zurück – ohne Bank, aber nicht ohne Hoffnung
 
@@ -193,3 +193,17 @@ Jetzt bleibt abzuwarten, wie **Daniel Wang** sich aus der Affäre zieht:
 >   
 > Mit freundlichen Grüßen,    
 > Ahmet    
+
+
+## **Eine neue Webseite geht online: goldcrestint.com**  
+
+Nach ein paar Tagen Funkstille tut sich wieder etwas – die Scammer waren offenbar fleißig und haben eine neue Webseite aufgesetzt. Ohne Fake-Bank funktioniert ihr Betrug schließlich nicht. Dann endlich die „erlösende“ Nachricht: **Die neue Internet-Adresse lautet goldcrestint.com.**  
+
+Neues Design, gleicher Scam – und wir sind natürlich gespannt, wie lange diese Seite diesmal online bleibt. 😏
+
+> Bezüglich Ihrer E-Mail hatten wir ein kleines Problem mit unserem Netzwerk, an dessen Wiederherstellung wir mit Hochdruck arbeiten. Weitere Informationen erhalten Sie unter https://goldcrestint.com. Bitte wählen Sie die aufgeführte Option aus, damit wir mit dem Anspruch auf Erbschaftsgelder fortfahren können.  
+>   
+
+![Eine weitere Webseite: goldcrestint.com](/posts/2025-02-12_silvana-tenreyro-teil-2/geldcrestint.webp)
+
+Wir schicken eine Abuse-Nachricht an den Webhoster und schauen was passiert.
