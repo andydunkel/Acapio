@@ -545,6 +545,12 @@ Ein Blick in den Quelltext verrät, dass die Webseite schonmal auf anderen Domai
 
 **Wir ermitteln auch hier den Hoster und schreiben eine Mitteilung mit der Bitte um Sperre.**
 
+## Pech für die Scammer, Webseite gesperrt
+
+Der Webhoster reagiert und sperrt die Seite. So ein Pech! Wir hoffen inständig, dass wir den Scammern nicht zu viele Umstände machen.
+
+![](/posts/2025-01-14_maria-schaeffler-scam/sperre.webp)
+
 
 ## **Fazit: Ein klassischer Betrug – und eine Menge Spaß**  
 
