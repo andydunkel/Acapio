@@ -111,3 +111,50 @@ Jetzt aber ernsthaft: Hugo ist bereit für den großen Deal! Die Bank ist in der
 > Mit besten Grüßen aus Wanne-Eickel,    
 > Hugo    
 > BMW-Club Ruhrpott e.V.    
+
+## Die Crest Capital Corporation Bank – Seriosität sieht anders aus  
+
+Frau Jörg meldet sich wieder – und siehe da, wir sollen uns bei der **Crest-Irgendwas-Bank** melden. Eine echte Institution in der Welt der Scammer! Diese Marke taucht **immer wieder** in Betrugsmails auf – scheinbar der bevorzugte Finanzdienstleister für dubiose Millionen-Transfers.  
+
+Auch die E-Mail-Adresse **@accountant.com** ist ein Klassiker. Nichts schreit „renommierte Großbank“ mehr als eine Freemail-Adresse, die klingt, als hätte sie jemand zwischen zwei Fake-Buchhaltungsjobs registriert. 😆  
+
+Kurz gesagt: **Wenn eine Bank nicht mal eine eigene Domain für E-Mails hat, sollte man spätestens dann misstrauisch werden.** Aber gut, Hugo bleibt dran – schließlich will er seine Millionen nicht einfach liegen lassen! 💰🔥  
+
+> Guten Tag.  
+>   
+> Ich habe bereits einige Anfragen gestellt, wen ich als internationaler Kunde direkt kontaktieren kann, um ein Konto zu eröffnen. Bitte kontaktieren Sie die Bank mit den untenstehenden Informationen, um die Kontoeröffnung zu beschleunigen. Teilen Sie ihnen mit, dass Sie ein Konto möchten, das Sie online verwalten können, und dass Sie keine Zeit haben, zu uns zu reisen, um das neue Konto zu eröffnen. Wir möchten also, dass alles per E-Mail, Fax und Telefon erledigt wird. Sagen Sie ihnen, dass Frau Viktoria Jörg Ihnen diese Kontaktinformationen gegeben hat.  
+>   
+> BANKKONTAKTINFORMATIONEN UNTEN.  
+>   
+> Name der Bank: (Crest Capital Corporation Bank)  
+> E-Mail: crestcapcorp@accountant.com  
+> Bankdirektorin: Frau Amelia Connor  
+> Website: https://crestcapcorp.info  
+>   
+> Mit freundlichen Grüßen.  
+> Von Frau Viktoria Jörg   
+
+![Die Webseite der Fake-Bank](/posts/2025-02-22_viktoria-joerg/crest.webp)
+
+Natürlich melden wir die Webseite bei der Missbrauchtsabteilung des Hosters. Stets zu Diensten liebe Scammer!
+
+
+### Webseite gesperrt – Tja, dumm gelaufen!  
+
+Kaum hatten wir die Abuse-Meldung rausgeschickt, war die ominöse „Bank“ auch schon Geschichte. **Keine 4 Stunden später – zack, offline!** 🎉  
+
+Jetzt stehen die Scammer dumm da: Ihre großartige Finanzinstitution existiert nicht mehr, und wir können ihnen ganz unschuldig schreiben:  
+
+> *„Äh, ich wollte mich grad in mein neues Millionenkonto einloggen, aber die Seite geht nicht mehr? Gibt’s da Serverprobleme oder hamse den Laden dicht gemacht?“*  
+
+Mal sehen, wie sie darauf reagieren – wir sind gespannt! 😆🔥  
+
+> Liebe Frau Jörg,  
+>   
+> ich wollt mich grad mal bei eurer Bank gucken, aber die Webseite geht nicht! 🤨  
+>   
+> Habt ihr da grad Serverprobleme oder hat die IT-Abteilung aus Versehen den Stecker gezogen?  
+>   
+> Beste Grüße,  
+> Hugo  
+> BMW-Club Ruhrpott e.V.  

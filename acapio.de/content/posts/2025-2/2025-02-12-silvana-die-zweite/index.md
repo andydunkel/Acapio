@@ -207,3 +207,18 @@ Neues Design, gleicher Scam – und wir sind natürlich gespannt, wie lange dies
 ![Eine weitere Webseite: goldcrestint.com](/posts/2025-02-12_silvana-tenreyro-teil-2/geldcrestint.webp)
 
 Wir schicken eine Abuse-Nachricht an den Webhoster und schauen was passiert.
+
+## Die Webseite goldcrestint.com ist offline – und jetzt soll es per WhatsApp weitergehen! 
+
+Wieder einmal ist eine ihrer Fake-Banken Geschichte! **Goldcrestint.com wurde vom Netz genommen**, und damit steht der Betrug erneut ohne digitale Heimat da. Doch die Scammer lassen sich nicht so leicht entmutigen – sie haben bereits eine neue „sichere“ Kommunikationsmethode für uns vorbereitet:  
+
+> **„Bitte nehmen Sie Kontakt mit der Bank über WhatsApp auf, Sie erhalten eine dringende Antwort.“**  
+> 📞 **+44 7402678864**  
+
+Da die Webseiten immer wieder abgeschaltet werden, setzen sie nun auf **direkte Kommunikation über WhatsApp**. Wahrscheinlich in der Hoffnung, dass wir dort leichter zu überzeugen sind und sie uns **schneller zu einer Zahlung drängen können**.  
+
+### Wir hinterfragen den Wechsel zu WhatsApp  
+
+Bevor wir auf ihr Angebot eingehen, direkt per **WhatsApp** zu kommunizieren, schreiben wir erst einmal per **E-Mail** zurück. Schließlich ist es doch etwas **ungewöhnlich**, dass eine „seriöse Bank“ plötzlich nur noch über einen Messenger erreichbar ist.  
+
+Mal sehen, welche kreative Erklärung sie uns diesmal liefern – vielleicht ist ihr „Online-Banking-System“ gerade in der Wartung, oder sie haben eine neue „sichere“ Methode gefunden, um Millionen zu transferieren. Wir sind gespannt! 😏

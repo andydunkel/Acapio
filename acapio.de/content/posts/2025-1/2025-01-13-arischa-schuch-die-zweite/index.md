@@ -1052,6 +1052,6 @@ Man muss es ihnen lassen: **Der Betrug war gut durchdacht!** Eine **überzeugend
 📞 **Arisha und ihr ganzes Netzwerk:** Neben der **romantischen Soldatin** gab es das **Frachtunternehmen**, den **Bank-Agenten** und gefühlt eine halbe **kriminelle Logistik-Kette** – alle fest entschlossen, Hugos Geld zu kassieren.  
 
 Doch das Beste: **Wir haben Arisha mit mehreren Accounts kontaktiert – und jedes Mal kam die gleiche Masche.** **Neue Namen, dieselbe Geschichte.** Falls ihr euch das anschauen wollt, hier gibt’s mehr dazu:  
-👉 [Die Millionen aus Syrien – Ein Klassiker der Scams](http://localhost:1313/posts/2024-12-31-millions-from-syria/?query=arisha)  
+👉 [Die Millionen aus Syrien – Ein Klassiker der Scams](/posts/2024-12-31-millions-from-syria/?query=arisha)  
 
 Am Ende bleibt die Frage: **Haben sie es verdient, dass Hugo sie bis zum Wahnsinn hingehalten hat?** Wir sagen: **Ja!** Und wenn irgendwo auf der Welt jetzt eine Scammer-Zentrale verzweifelt überlegt, warum Hugo nicht zahlt, dann war’s das alles wert! 💼😂
