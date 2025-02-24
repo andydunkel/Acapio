@@ -61,7 +61,6 @@ Anstatt die E-Mail direkt zu löschen, wollte ich herausfinden, wie weit der Bet
 > Best regards,    
 > Ahmet    
 
-
 ## Fazit: Vorsicht vor solchen Mails
 
 Noch ist unklar, wie die Betrugsmasche weitergeht, aber eines steht fest: Niemand erbt plötzlich ein Vermögen von einem unbekannten Verwandten. Wer eine solche Nachricht erhält, sollte skeptisch sein und keinesfalls persönliche Daten weitergeben oder Geld überweisen. Am besten: Ignorieren oder – wenn man Lust auf ein kleines Spiel hat – die Betrüger hinters Licht führen.

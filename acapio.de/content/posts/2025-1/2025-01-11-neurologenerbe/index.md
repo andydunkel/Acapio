@@ -596,3 +596,21 @@ Damit drehen wir den Spieß um und legen den Ball in das Feld der Scammer. Mal s
 ![](/posts/2025-01-11_neurologe_macht_uns_reich/stornierung.webp)
 
 
+### **Haskel will die Stornierung nicht akzeptieren!**  
+
+Scammer hassen es, wenn ihnen die Beute in letzter Sekunde entwischt – und genau das merkt man Haskels Nachrichten an. Fast trotzig betont er, wie viel Mühe und exklusive Dokumente extra für uns angefertigt wurden.  
+
+Doch Hugo bleibt skeptisch. Er fordert eine offizielle Webseite der „Bank“ – und siehe da, plötzlich gibt es eine! Ob die wohl genauso professionell ist wie ihre E-Mails? 😉  
+
+![](/posts/2025-01-11_neurologe_macht_uns_reich/trotz.webp)
+
+### Die Webseite: Courtagetrust.com – ein fragwürdiger Auftritt
+
+Endlich haben wir die „offizielle“ Webseite der Scammer! Doch schon beim ersten Blick wird’s verdächtig: Die Seite ist nur über den Link **https://www.courtagetrust.com/ltd/** erreichbar – gibt man nur **www.courtagetrust.com** ein, bleibt die Seite komplett leer.  
+
+Offenbar will man gezielt vermeiden, dass Außenstehende zufällig über die Seite stolpern. Stattdessen wird der Link nur gezielt an potenzielle Opfer verschickt – ein klassischer Trick, um unter dem Radar zu bleiben. Doch wir haben ihn natürlich trotzdem gefunden. 😉  
+
+![Die Webseite](/posts/2025-01-11_neurologe_macht_uns_reich/bank.webp)
+
+Wir melden die Seite an die Missbrauchsstellen des Providers.
+
