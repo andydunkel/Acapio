@@ -138,3 +138,48 @@ Als wir die Google-Bildersuche anwerfen, finden wir den Ursprung der Unterschrif
 Gut kein Thema, wer wird sich denn trotz der kleinen Ungereimtheiten die Chance auf viel Geld verspielen. Wir unterschreiben ebenfalls und ab gehts.
 
 ![](posts/2025-02-05_cfrances/unterschrift_2.webp)
+
+## Wir müssen lange warten! Die Prozesse der Scammer funktioniere nicht!
+
+Eine Antwort bekommen wir erstmal nicht. Irgendwie sind die Scammer durcheinander wie Rührei. Irgendwann kommt dann doch eine Antwort.
+
+> Soll ich Ihnen die Zahlungskontoinformationen weiterleiten, damit Sie die Zahlung von 500 Euro jetzt leisten können?
+
+## Endlich eine Bankverbindung – Jetzt wird’s spannend!
+
+Na endlich, nach all dem Gerede kommt unser „Anwalt“ zur Sache und schickt uns eine **italienische Bankverbindung**. Wir sollen also 500 Euro an einen gewissen **Johnson Newton** in **Turin** überweisen – natürlich mit dem Verwendungszweck „Familie und Freunde“. Klar doch, weil wir mit Herrn Newton ja schon seit Jahren zusammen Weihnachten feiern! 🎄😂
+
+Aber Moment mal… **Wanne-Eickel nach Turin – das sind nur knapp 1.000 Kilometer!** Vielleicht sollten wir mal persönlich vorbeifahren und unser Geld in bar übergeben? Am besten mit einem Kasten Fiege-Pils als Trinkgeld. Mal sehen, wie unser „Anwalt“ auf diesen Vorschlag reagiert! 😏🍻
+
+**Ein paar Fakten zur Bankverbindung:**
+
+- **Bankname** MOONEY S.p.A. – ein italienischer Zahlungsdienstleister mit Sitz in Mailand, spezialisiert auf Prepaid-Karten und digitale Zahlunen.
+
+- **Adresse des Begünstigten** Viale Sacco e Vanzetti 89, Turin, Italn.
+
+- **BIC** MOONITMMXXX – der korrekte BIC für MOONEY S.p.A
+
+- **Begünstigter** Johnson Newton – klingt eher nach einem Charakter aus einem Krimi als nach einem echten Empfänger
+
+- **Zweck der Zahlung** „Familie und Freunde“ – klar, weil wir mit Herrn Newton ja schon seit Jahren zusammen Weihnachten feiern🎄
+
+> Wir erwarten dringend, dass Sie die Zahlung so schnell wie möglich vornehmen, damit wir den Überweisungsprozess Ihrer Spende abschließen und Ihnen auch umgehend Ihre Bankkarte zustellen können.  
+>   
+> Nachfolgend finden Sie die Zahlungskontoinformationen, damit Sie die Zahlung dringend an uns vornehmen können. Bitte machen Sie ein Foto des Einzahlungsscheins und senden Sie es mir nach der Zahlung dringend zu, damit wir Ihre Zahlung bestätigen können.  
+>   
+> BANKNAME:  MOONEY S P A  
+> IBAN:  IT74Y3253203200006571507743  
+> NAME DES BEGÜNSTIGTEN:  JOHNSON NEWTON  
+> BIC:  MOONITMMXXX  
+> KONTONUMMER:  4810000014449526  
+> ADRESSE:  VIALE SACCO EVANZETTI 89  
+> LAND:  ITALY  
+> STADT:  TORINO  
+> ZWECK DER ZAHLUNG:  Familie und Freunde  
+> BETRAG:  500€  
+
+Wir tun so, als ob wir zahlen, erstellen einen Zahlungsbeleg und schicken den Link, als Trackling-Link zu den Scammern. Jetzt heißt es warten, ob diese den Link anklicken.
+
+![](/posts/2025-02-05_cfrances/transaktion.webp)
+
+Natürlich machen wir beim Betreff einen Fehler und geben einen anderen Betreff ein.

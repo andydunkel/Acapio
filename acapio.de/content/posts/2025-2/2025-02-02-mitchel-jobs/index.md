@@ -373,3 +373,39 @@ Es ist soweit: **Anne hat ihre Zahlung angewiesen!** Natürlich nicht direkt, so
 Jetzt warten wir gespannt: **Wird unser Finanzhai misstrauisch?** Wird er versuchen, uns zu hetzen, weil das Geld „noch nicht eingegangen“ ist? Oder klickt er brav auf den Link und hinterlässt uns ganz nebenbei **seine IP-Adresse und Standortdaten?**  
 
 ![Unsere Überweisung](/posts/2025-02-02_mitchel-jobs/transaction.webp)
+
+### Die Nerven liegen blank – und die Sprache auch!
+
+Unsere Scammer sind langsam **richtig genervt**! 🫣 Statt sich brav über ihren vermeintlichen Geldsegen zu freuen, **klicken sie den Tracking-Link nicht direkt an**, sondern nutzen eine **Vorschau-Funktion**, um ihre echte IP-Adresse zu verschleiern. **Gut zu wissen: Sie sind vorsichtiger, als sie tun!**  
+
+Aber unsere Fake-Überweisung fehlt – und das gefällt ihnen gar nicht! Es hagelt E-Mails und sogar **WhatsApp-Nachrichten**, in denen unser lieber **Mitchell Jobs** langsam die Fassung verliert. Der Frust ist so groß, dass er **mitten im Satz die Sprache wechselt** – die Nachricht kommt in einem wilden Mix aus **schlechtem Deutsch, Spanisch und purer Verzweiflung** bei uns an. 😆  
+
+Und weil das noch nicht reicht, versuchen sie sogar einen **WhatsApp-Anruf**! **Na klar, wenn die E-Mail nicht zieht, wird halt persönlich nachgehakt.**  
+
+Jetzt wissen wir: **Sie sind nervös.** Und das bedeutet, dass es Zeit ist, sie noch ein bisschen weiter zappeln zu lassen … 🦈💸
+
+> Schätzung Anne:  
+>   
+> Espero que estés gut. Ich schreibe Ihnen, um Ihnen mitzuteilen, dass er mir 1.910 US-Dollar nicht zurückgeschickt hat, um den für die Regierung gültigen Zuschlagscode zu erhalten. Zehn Jahre später, als ich den Restbetrag von 52.000 US-Dollar erhielt, nachdem ich 1.910 US-Dollar erhalten hatte, wurde der Gesamtbetrag von 53.910 US-Dollar für den IRS-Steuercode verlangt.  
+>   
+> Da dies dringend erforderlich ist, bitten wir Sie, vor der ersten Stunde mit Ihrer Bank zu kommunizieren. Lama besuchte Ihren Nachfolger, weil er nicht im Büro von Juan Rivera bei der Navy Federal Credit Union akkreditiert war. Es ist wichtig, festzustellen, ob Sie ein Problem mit Ihrem Teil haben, damit Sie es so schnell wie möglich lösen können.  
+>   
+> Sie gehen schnell vor, um den Überweisungsstatus von 1.910 US-Dollar zu bestätigen, indem Sie den von der Regierung gültigen Zuschlagscode erhalten und anschließend mit dem Verfahren zu Ihrem Konto ohne weitere Demos fortfahren. Wenn Informationen oder ein zusätzlicher Assistent erforderlich sind, können Sie ihn nicht per WhatsApp oder per Telefon kontaktieren.  
+>   
+> Vielen Dank für Ihre Zusammenarbeit und Ihr Verständnis. Espero Tenere Noticias Suyas Pronto.  
+>   
+> Achtung,  
+>   
+> Mitchell Jobs  
+> Treuhandagent  
+> Tel: [Ihre Kontaktnummer]  
+> Correo electrónico: [Seine Richtung des Correo electrónico]  
+
+
+### Oops – die Bank blockiert die Überweisung!  
+
+Heute kam ein Schreiben von unserer Bank: **Die Überweisung wurde gesperrt!** 😱 Offenbar gab es **Verdachtsmomente**, weshalb das Geld nicht ankommen konnte. Was für ein Pech!  
+
+Natürlich müssen wir das sofort mit den Scammern klären. **Ob sie uns helfen können, das Problem zu lösen?** Vielleicht braucht die Bank ja eine **offizielle Bestätigung vom IRS oder der Federal Reserve**? 😏 Mal sehen, wie sie darauf reagieren! 💸🎭
+
+![Unsere Überweisung wurde gesperrt](/posts/2025-02-02_mitchel-jobs/bank_sperre.webp)

@@ -222,3 +222,36 @@ Da die Webseiten immer wieder abgeschaltet werden, setzen sie nun auf **direkte 
 Bevor wir auf ihr Angebot eingehen, direkt per **WhatsApp** zu kommunizieren, schreiben wir erst einmal per **E-Mail** zurück. Schließlich ist es doch etwas **ungewöhnlich**, dass eine „seriöse Bank“ plötzlich nur noch über einen Messenger erreichbar ist.  
 
 Mal sehen, welche kreative Erklärung sie uns diesmal liefern – vielleicht ist ihr „Online-Banking-System“ gerade in der Wartung, oder sie haben eine neue „sichere“ Methode gefunden, um Millionen zu transferieren. Wir sind gespannt! 😏
+
+## Silvana antwortet – oder auch nicht!  
+
+Nachdem wir nach der Seriosität der Bank gefragt haben, kommt eine Antwort von **Silvana Tenreyro**. Oder besser gesagt: **eine Nicht-Antwort**. Auf unsere Bedenken geht sie nämlich überhaupt nicht ein. Stattdessen gibt es nur vage Erklärungen und eine erneute Aufforderung, das Konto zu eröffnen.  
+
+Besonders schön ist die dramatische Wendung: **„Ich brauche Sie an diesem Punkt wirklich, um Ihr Bestes zu geben.“**  
+Fast klingt es, als würde unser Verhalten ihr persönlich Schaden zufügen. Dass wir allerdings einfach nur eine funktionierende Bank mit einer überprüfbaren Webseite sehen wollen, scheint sie nicht zu interessieren.  
+
+> Vielen Dank für Ihr Feedback, Ahmet Kuran  
+>   
+> Ich verstehe Ihre Bedenken vollkommen, was mich dazu bringt, das Konto bei der Bank einzurichten.  
+>   
+> Ich habe mein Bestes getan, um sicherzustellen, dass die Anwaltskosten gemeint waren, und es hat mich viel gekostet. Alles, was Sie jetzt tun müssen, ist, das Konto bei der Gold Crest Bank einzurichten, damit diese die Einzahlung des Erbes auf Ihr Online-Konto vornehmen kann. Sobald das Konto eingerichtet ist, können Sie online auf das Geld zugreifen.  
+>   
+> Ich brauche Sie an diesem Punkt wirklich, um Ihr Bestes zu geben.  
+
+
+### So geht es nicht!  
+
+Wir haken deswegen gleich nochmal nach. Schon doof, wenn jede Webseite von denen gesperrt wird. 😁
+
+> Sehr geehrte Frau Tenreyro,    
+>   
+> vielen Dank für Ihre Nachricht. Ich verstehe, dass dieser Vorgang mit erheblichem Aufwand verbunden ist, jedoch finde ich die aktuelle Abwicklung der Bankangelegenheiten höchst ungewöhnlich.   
+>   
+> Bisher waren die Webseiten der Gold Crest Bank nicht erreichbar, und nun soll die Kommunikation über WhatsApp erfolgen. Um Vertrauen in diesen Prozess zu haben, benötige ich die Möglichkeit, die Bank selbst zu überprüfen. Die Webseite müsste online sein, damit ich mir ein eigenes Bild von der Seriosität machen kann.   
+>   
+> Ich bin bereit, den Vorgang fortzusetzen, sobald diese Punkte geklärt sind. Bitte lassen Sie mich wissen, wie wir weiter verfahren können.    
+>   
+> Mit freundlichen Grüßen,    
+> Ahmet  
+
+
