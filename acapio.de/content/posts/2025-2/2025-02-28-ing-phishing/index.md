@@ -1,5 +1,5 @@
 ---
-title: "Ing E-Mail: Ihre Kundeninformationen - Telefonnummer fehlt"
+title: "ING Phishing E-Mail: Ihre Kundeninformationen - Telefonnummer fehlt"
 params:
   author: Andy
 date: "2025-02-28"

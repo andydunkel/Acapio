@@ -36,26 +36,34 @@ home = ["HTML", "RSS", "JSON"]
   url = "/"
   weight = -200
 
+
 [[menus.main]]
   name = "Links"
   url = "/links/"
   weight = -100 
 
+
 [[menus.main]]
-  name = "Über"
+  name = "Hintergründe"
+  identifier = "background"
+  weight = -90  
+
+[[menus.main]]
+  name = "Über die Webseite"
+  parent = "background"
   url = "/about/"
-  weight = -90
+
+[[menus.main]]
+  name = "Bitcoin Adressen"
+  parent = "background"
+  url = "/bitcoin/"
+
+
 
 [[menus.main]]
   name = "Kontakt"
   url = "/contact/"
   weight = -85
-
-
-[[menus.main]]
-  name = "Datenschutz"
-  url = "/datenschutz/"
-  weight = -80
 
 [[menus.main]]
   name = "Impressum"

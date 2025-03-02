@@ -419,3 +419,41 @@ Was sie nicht weiß: **Wir haben mittlerweile schon die dritte Webseite ihres �
 ![Die Scammer sind sichtlich geknittert](posts/2025-02-17_scam-webseiten-sperren-lassen/offline_2.png)
 
 Immerhin gibt es eine neue E-Mail-Adresse, dieses Mal "**@accountant.com**", die Nummer 1 Adresse für Betrug im Internet!
+
+## Silvana meldet sich wieder – diesmal aus Südafrika
+
+Nach einer kurzen Funkstille tauchen die Scammer wieder auf. Vermutlich brauchten sie Zeit, um sich neu zu sortieren – schließlich haben wir sie parallel angeschrieben und in beiden Fällen [mehrere Domains sperren lassen](/posts/2025-02-12_silvana-tenreyro-teil-2/).  
+
+Interessanterweise geht Silvana auf die Webseite überhaupt nicht mehr ein. Stattdessen haben wir über unseren Tracking-Link herausgefunden, dass sie eine **IP-Adresse aus Johannesburg** verwendet.  
+
+Das angebliche Erbe ist natürlich immer noch nicht angekommen – und laut Silvana kann das **nur an uns liegen**. Wir spielen mit und erklären, dass wir das mit der Bank klären werden. Als die Scammer weiter auf die Zahlung drängen, setzen wir noch einen drauf: Wir fingieren ein Schreiben, das bestätigt, dass unsere Bank die Überweisung wegen **Betrugsverdachts** gesperrt hat. 
+
+![](/posts/2025-01-26-silvana-tenreyro-4-mio-pfund/sperre_bank.webp)  
+
+### Alternative Bitcoin, the scammers love!
+
+Jetzt wird es richtig spannend! **Nachdem ihre Bankkonten gesperrt wurden, schwenken die Scammer auf Bitcoin um.** Das ist ein typischer Plan B für Betrüger, weil **Kryptotransaktionen nicht rückgängig gemacht werden können** und schwerer nachverfolgbar sind.  
+
+> Hallo Anne  
+>   
+> Ich habe mit Herrn Wang gesprochen, er sagte, das Problem liege auf Ihrer Seite, da er Geld über dasselbe Konto erhalten habe, das er Ihnen gegeben hat. Damit wir diese Transaktion fortsetzen können, müssen wir einen anderen Weg finden, um das Geld für die Kontoeröffnung zu erhalten. Kennen Sie BITCOIN? Können Sie das Geld über BITCOIN senden?  
+>   
+> Bitte um Ihre dringende Antwort.  
+>   
+> Mit freundlichen Grüßen  
+> Silvana Tenreyro.  
+
+Natürlich sind wir an der Wallet-Adresse interessiert und schreiben zurück, wir haben zwar keine Ahnung, aber vielleicht geben uns die Scammer ja eine Anleitung. 🤗
+
+> Sehr geehrte Frau Tenreyro,    
+>   
+> vielen Dank für Ihre Nachricht. Ich habe bisher noch nie mit Bitcoin gearbeitet und bin mir nicht sicher, wie das funktioniert. Können Sie mir bitte genau erklären, wie ich das Geld überweisen kann? Welche Schritte sind nötig, und wo kann ich Bitcoin kaufen?    
+>   
+> Ich nehme an, ich benötige eine spezielle Adresse, an die ich das Geld senden soll. Bitte teilen Sie mir diese mit, damit ich alles vorbereiten kann.    
+>   
+> Ich freue mich auf Ihre Rückmeldung und Ihre Anleitung.    
+>   
+> Mit freundlichen Grüßen,    
+> Anne    
+
+

@@ -475,3 +475,29 @@ Plötzlich mischt sich unser alter Bekannter Michael Britton wieder ein – ansc
 Hugo gibt vor, mit Bitcoin zu handeln – und sogar Gewinne gemacht zu haben! Die Betrüger sehen ihre Chance, doch bevor Hugo "zahlt", will er natürlich eine **Bitcoin-Adresse** haben.
 
 > OK, muss ich mal schauen, ich hab seit kurzem eine Bitcoin Wallet, hab sogar schon Gewinn gemacht mit dem Kram. Lol, ich brauch da ne Adresse von ihnen, dann schaue ich mal wie das genau geht.  
+
+
+
+### **Wir bekommen eine Bitcoin-Adresse: 1JZS7WsK1oKYr4WKbWB4HNxzrAFYrL4L9b**  
+
+Der feine Herr Britton liefert tatsächlich eine **Bitcoin-Adresse** – und was für eine! Dahinter verbirgt sich eine **hochaktive Wallet**, die offenbar ordentlich im Umlauf ist:  
+
+- **[Bitcoin-Adresse: 1JZS7WsK1oKYr4WKbWB4HNxzrAFYrL4L9b](https://www.blockchain.com/explorer/addresses/btc/1JZS7WsK1oKYr4WKbWB4HNxzrAFYrL4L9b)**  
+
+Hier fließen regelmäßig kleine und große Beträge. **Zum Stand vom 02.03.2025 sind bereits rund 21 Bitcoins durch diese Wallet gewandert** – je nach Bitcoin-Kurs sprechen wir hier von mehreren Millionen Euro.  
+
+Woher das Geld kommt und wohin es verschwindet, lässt sich nicht direkt nachverfolgen. Aber eines ist klar: **Mit Online-Betrug lässt sich ordentlich abkassieren.**  
+
+![](/bitcoin/1JZS7WsK1oKYr4WKbWB4HNxzrAFYrL4L9b.webp)  
+
+Hugo hält sich erstmal zurück – doch Britton gibt nicht auf. **Täglich trudeln Erinnerungsmails ein**, in denen er höflich, aber bestimmt fragt, wann die ersehnte Zahlung endlich kommt. Mal sehen, wie lange er durchhält!  
+
+### **Fazit: Ein BMW für Hugo? Wohl eher nicht!**  
+
+Was für eine Reise! Von einer vermeintlichen **1-Million-Euro-Spende** über immer neue Gebühren bis hin zur legendären **"Aktivierungsgebühr"** – die Betrüger haben wirklich alles versucht, um Hugo das Geld aus der Tasche zu ziehen. Doch unser Ruhrpott-Profi hat sie ordentlich auf Trab gehalten.  
+
+Mit gefakten Überweisungen, Bürokratie-Fallen und einem **offiziellen Schenkungsvertrag** hat Hugo ihnen wertvolle Zeit geraubt – Zeit, in der sie hoffentlich weniger echte Opfer abzocken konnten. Und als Krönung haben sie uns sogar ihre **Bitcoin-Waschmaschine** offenbart. Wer hätte gedacht, dass mit Betrug im Internet Millionen durch eine einzige Wallet fließen?  
+
+Am Ende bleibt eine Erkenntnis: **Echte Gewinne kommen nicht per E-Mail, und wer erst zahlen muss, um Geld zu bekommen, hat garantiert schon verloren.** Nur Hugo hat gewonnen – nämlich ein paar herrliche Mails und die Genugtuung, ein paar Scammer zur Verzweiflung getrieben zu haben.  
+
+Britton und Co. warten vermutlich immer noch auf ihre Zahlung. **Und Hugos BMW? Der bleibt erstmal ein Traum.** 😆🚗💨  
