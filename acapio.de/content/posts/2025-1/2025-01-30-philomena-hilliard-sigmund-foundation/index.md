@@ -359,3 +359,21 @@ Aber kein Thema, da schreiben wir einfach mal zurück und fragen nach, beim freu
 ![Geldeingänge](/posts/2025-01-30-anthonycharities/account.webp)
 
 Insgesamt kommen 5 oder 6 Mails und wir haben immer mehr Geld auf dem Konto! Abwarten lohnt sich also!
+
+## Wir machen Urlaub und die Scammer werden ungeduldig! Sehr!
+
+Oh nein! 😱 Hugo hat sich einen Moment nicht gemeldet, und schon droht unser lieber **Carbert George** damit, die **890.000 Dollar** einfach an jemand anderen zu verschenken! Das können wir doch nicht zulassen! 😆  
+
+Während wir uns entspannt zurücklehnen und überlegen, welche *exotische Luxusinsel wir uns mit dem geschenkten Geld kaufen*, werden die Scammer immer nervöser. Schließlich haben sie uns schon den „Login-Zugang“ zu unserem Fake-Konto geschickt – und *niemand* ignoriert ungestraft die Enterprise Holdings Peoples Bank™!  
+
+> Hallo, was ist los? Ich habe Ihnen den Login-Zugang zu Ihrem Konto  
+> geschickt, aber Sie weigern sich, mir zu antworten. Soll ich diese  
+> Spende stornieren und sie einer anderen Person geben?  
+
+### **Malle statt Millionen – Hugo eskaliert auf der Insel!**  
+
+Tja, die Scammer dachten wohl, Hugo sitzt brav zu Hause und wartet gespannt auf seine 890.000 Dollar. **Falsch gedacht!** Stattdessen ging’s mit den Jungs vom **BMW-Club nach Malle** – und zwar richtig! 🍻🔥  
+
+**Eimersaufen, Sangria, Sonnenbrand – das volle Programm!** Wer erinnert sich? Keiner! Handys weg, Geld weg, Würde weg. Nur eins blieb: Ein dumpfes Gefühl, dass irgendwo eine „wichtige Spende“ auf uns wartet. Also schnell zurück ins echte Leben und Carbert gefragt: **„Ey, was geht? Wo ist meine Kohle?“**  
+
+![Besoffen am Strand](/posts/2025-01-30-anthonycharities/malle.webp)

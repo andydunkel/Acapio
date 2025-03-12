@@ -35,5 +35,14 @@ Die Adresse ist zum Stand leer, wurde bisher für ein paar Kleintransaktionen ge
 - Bitcoin-Adresse **[bc1qdxd4g7w2guzhmu9vpwfdv7n5l7zpcs5mvvcuvy](https://www.blockchain.com/de/explorer/addresses/btc/bc1qdxd4g7w2guzhmu9vpwfdv7n5l7zpcs5mvvcuvy)**
 - Scam: [Türkische Frau Feyza Olcay Ýbrahim liegt im Sterben und verschenkt Millionen](/posts/2024-12-25_turkish_sick_woman/)
 
-Bisher keine Transaktionen auf dieser Adresse.
+Bisher **keine** Transaktionen auf dieser Adresse.
 
+--------
+
+## Silvana Tenreyro Scam: bc1q2d9k26rqflwa66gxpzxxxgdg9per7er4gq9kyj  
+
+- Bitcoin-Adresse: **[bc1q2d9k26rqflwa66gxpzxxxgdg9per7er4gq9kyj  
+](https://www.blockchain.com/explorer/addresses/btc/bc1q2d9k26rqflwa66gxpzxxxgdg9per7er4gq9kyj)**
+- Scam: [Silvana Tenreyro will uns 4 Millionen Pfund schenken](/posts/2025-02-12_silvana-tenreyro-teil-2/)  
+
+Bisher **keine** Transaktionen auf dieser Adresse.

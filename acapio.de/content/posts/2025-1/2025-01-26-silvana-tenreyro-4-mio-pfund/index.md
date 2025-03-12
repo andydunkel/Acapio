@@ -457,3 +457,51 @@ Natürlich sind wir an der Wallet-Adresse interessiert und schreiben zurück, wi
 > Anne    
 
 
+## Von Banken zu Bitcoin – der nächste Versuch  
+
+Nachdem unsere lieben Scammer ihre **Fake-Banken** nicht mehr online halten konnten, müssen sie improvisieren. Ihre Lösung? **Bitcoin!**  
+
+Doch anstatt uns direkt eine Wallet-Adresse zu geben, haben sie einen neuen Plan:  
+
+> **„Bevor Sie Bitcoin kaufen können, müssen Sie lediglich ein Konto bei https://crypto.com registrieren.“**  
+
+Offensichtlich wollen sie uns erst dazu bringen, Bitcoin auf einer **seriösen Handelsplattform** zu kaufen – und uns dann ihre Wallet-Adresse für die „Überweisung“ geben. Damit entgehen sie gesperrten Bankkonten und machen es uns schwerer, das Geld zurückzubekommen.  
+
+Doch wir bleiben dran! Natürlich spielen wir weiter mit und tun so, als hätten wir uns registriert. Mal sehen, wann sie uns endlich ihre **Bitcoin-Adresse** verraten – dann haben wir die nächste Spur. 😏
+
+## Wir tun ahnungslos – und warten auf die Bitcoin-Adresse
+
+Natürlich lassen wir uns nicht einfach auf Crypto.com locken, ohne direkt die wichtigsten Informationen einzufordern. Also tun wir das, was ein völliger Bitcoin-Neuling tun würde: **Wir stellen uns dumm und bitten um eine genaue Anleitung.**  
+
+> **„Könnten Sie mir bitte jetzt schon die Wallet-Adresse geben oder wie das heißt?“**  
+
+Unser Ziel ist klar: **Wir wollen die Wallet-Adresse der Scammer herausfinden**. Denn während Bankkonten leicht gesperrt werden können, hinterlässt eine **Bitcoin-Transaktion Spuren in der Blockchain**, die uns interessante Hinweise auf frühere und zukünftige Betrügereien geben können.  
+
+> Hallo Frau Tenreyro,  
+>   
+> vielen Dank für Ihre Erklärung. Ich habe mich nun bei Crypto.com registriert und die App heruntergeladen. Es sieht aber alles ziemlich kompliziert aus, und ich möchte sicherstellen, dass ich nichts falsch mache.  
+>   
+> Könnten Sie mir bitte jetzt schon die Wallet-Adresse geben oder wie das heißt? Damit ich weiß, wohin ich das Geld später überweisen muss? Ich möchte das vorher eingeben, damit ich beim Kauf nichts falsch mache.  
+>   
+> Außerdem: Wie viel genau soll ich in Bitcoin kaufen? Ich bin mir nicht sicher, welche Gebühren dabei anfallen.  
+>   
+> Ich freue mich auf Ihre Rückmeldung.  
+>   
+> Mit freundlichen Grüßen,  
+> Anne  
+
+## Wir bekommen die Bitcoin-Adresse  
+
+Endlich ist es soweit – die Scammer rücken mit ihrer **Bitcoin-Wallet** raus! Nachdem wir uns ahnungslos gestellt haben, schicken sie uns die Adresse, an die wir die Bitcoins überweisen sollen:  
+
+> **Bitcoin-Wallet:** [bc1q2d9k26rqflwa66gxpzxxxgdg9per7er4gq9kyj](https://www.blockchain.com/explorer/addresses/btc/bc1q2d9k26rqflwa66gxpzxxxgdg9per7er4gq9kyj)  
+
+Natürlich erwarten sie nach der „Zahlung“ einen Screenshot als Bestätigung. Doch anstatt ihnen Geld zu schicken, analysieren wir die Wallet-Adresse. Denn jede Bitcoin-Transaktion ist öffentlich und kann in der **Blockchain** verfolgt werden.  
+
+Viel gibt es nicht zu sehen, bisher wurde die Adresse nicht verwendet.
+
+> Wie geht es dir heute? Ich hoffe, du bist bei bester Gesundheit. Schön, dass du dein crypto.com-Konto einrichten konntest. Blow ist die Bitcoin-Wallet, an die du die Bitcoins sendest.  
+>   
+> Bitcoin-Wallet: bc1q2d9k26rqflwa66gxpzxxxgdg9per7er4gq9kyj  
+>   
+> Schick mir einen Screenshot des Zahlungsbelegs, sobald du die BTC gesendet hast.  

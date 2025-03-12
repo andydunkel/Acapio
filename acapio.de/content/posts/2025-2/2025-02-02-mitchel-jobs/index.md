@@ -409,3 +409,54 @@ Heute kam ein Schreiben von unserer Bank: **Die Überweisung wurde gesperrt!** �
 Natürlich müssen wir das sofort mit den Scammern klären. **Ob sie uns helfen können, das Problem zu lösen?** Vielleicht braucht die Bank ja eine **offizielle Bestätigung vom IRS oder der Federal Reserve**? 😏 Mal sehen, wie sie darauf reagieren! 💸🎭
 
 ![Unsere Überweisung wurde gesperrt](/posts/2025-02-02_mitchel-jobs/bank_sperre.webp)
+
+
+## Plan B: Jetzt wird’s richtig verdächtig!
+
+Unser Scammer lässt sich nicht so leicht abschütteln! 😆 Da die Bank **unsere „Überweisung blockiert“** hat, präsentiert er uns **alternative Zahlungsmethoden**.  
+
+1️⃣ **Ein deutscher Kontaktmann!** Plötzlich sollen wir das Geld an **„Herrn Arno Erich Kursawe“ bei der Kreissparkasse Waiblingen** überweisen. Dass wir dabei den **Verwendungszweck „Familie“** angeben sollen, ist ein typischer Trick, um Nachfragen der Bank zu vermeiden. Kursawe klingt nigerianisch, aber wer weiß!
+
+2️⃣ **Bitcoin als Notlösung!** Falls die Überweisung nicht klappt, gibt’s eine **Bitcoin-Wallet**, weil Kryptozahlungen **schwer zurückzuverfolgen sind** – ein klarer Hinweis auf kriminelle Absichten.  
+
+Jetzt wissen wir: **Dieser Scam ist größer, als es anfangs schien.** Mit Kursawe gibt es einen **Mitspieler in Deutschland**, der das Geld vermutlich **weiterleiten** soll. Eine heiße Spur – und ein Zeichen, dass wir den Druck noch ein bisschen erhöhen können! 😏💸
+
+> Vielen Dank für Ihre Kontaktaufnahme. Es ist ziemlich überraschend, dass die Bank Ihre Überweisung von 1.910 Euro blockiert hat, da es dafür eigentlich keinen triftigen Grund geben sollte. Dies könnte daran liegen, dass ein übereifriger Bankangestellter die Transaktion überprüft hat.  
+>   
+> Um diese Angelegenheit reibungslos zu klären, können Sie die Überweisung auf alternative Weise durchführen. Bitte senden Sie den Betrag an unseren Verbindungsbeamten, Herrn Arno Erich Kursawe, in Deutschland. Er wird die Mittel entgegennehmen und dafür sorgen, dass der genaue Betrag mich hier in den Vereinigten Staaten umgehend erreicht. Sobald ich das Geld erhalten habe, werde ich den Restbetrag von 52.000 $ hinzufügen und die erforderliche IRS-Steuernummer in Ihrem Namen einholen. So können Sie ohne weitere Probleme direkt von Ihrem Konto bei der Herstal Trust Bank Überweisungen vornehmen.  
+>   
+> Hier die Bankverbindung von Herrn Kursawe, auf die Sie die Überweisung tätigen sollten:  
+>   
+> Bankname: Kreissparkasse Waiblingen  
+> Kontoname: Arno Robert Erich Kursawe  
+> IBAN: DE28602500101000873298  
+>   
+> Wichtig: Bitte geben Sie bei der Überweisung als Verwendungszweck „Familie“ an. So vermeiden Sie unnötige Kontrollen oder Einmischungen durch einen übervorsichtigen Bankmitarbeiter.  
+>   
+> Alternativ können Sie den Betrag, wenn es für Sie bequemer ist, auch per Bitcoin an folgende Wallet-Adresse senden:  
+>   
+> Bitcoin Wallet: bc1qpwdntnh9q7f0lwkzsmxg5wk4qc45dueycnvcgn  
+>   
+> Nach Abschluss der Überweisung senden Sie mir bitte die Zahlungsbestätigung, damit ich entsprechend vorgehen kann. Geben Sie mir Bescheid, wenn Sie weitere Hilfe benötigen.  
+>   
+> Ich freue mich auf Ihr Update.  
+>   
+> Mit freundlichen Grüßen  
+> Mitchell Jobs  
+
+### Die Bitcoin Wallet
+
+Die Adresse **bc1qpwdntnh9q7f0lwkzsmxg5wk4qc45dueycnvcgn** schauen wir uns etwas genauer an! Ein paar Transaktionen sind bereits drüber gelaufen, immerhin eine etwas größere mit knapp 300 Dollar. Vielleicht ein Opfer, wir wissen es nicht.
+
+![](posts/2025-02-02_mitchel-jobs/wallet.webp)
+
+## Die „Behördliche Verwirrung“-Taktik 📑🧐
+
+Anne behauptet, dass sie den Fall offiziell bei der Bundesanstalt für Finanzdienstleistungsaufsicht (BaFin) und dem IRS in den USA gemeldet hat, um sicherzustellen, dass alles mit rechten Dingen zugeht. Jetzt braucht sie von den Scammern dringend eine schriftliche Bestätigung mit offiziellen Dokumenten, damit die Zahlung freigegeben wird.
+
+> Lieber Herr Jobs,  
+>   
+> meine Bank verlangt eine behördliche Bestätigung, bevor sie die Überweisung freigibt. Da es sich um eine Steuerzahlung an die US-Regierung handelt, habe ich mich an die BaFin und den IRS gewandt, um alles offiziell abzusichern. Die BaFin benötigt nun eine schriftliche Bestätigung der Herstal Trust Bank, dass das Konto von Herrn Kursawe tatsächlich für IRS-Steuerzahlungen genutzt wird, sowie ein offizielles Schreiben des IRS, das die Zahlungspflicht bestätigt. Zusätzlich soll das US-Finanzministerium die Dokumente beglaubigen, damit meine Bank sicher ist, dass die Zahlung rechtskräftig ist. Sobald ich diese Unterlagen habe, kann die Bank die Überweisung sofort ausführen. Ich hoffe, das ist kein Problem? Falls Ihnen bereits IRS-Dokumente vorliegen, können Sie mir diese einfach weiterleiten. Tut mir leid, aber in Deutschland ist alles kompliziert. 
+>   
+> Beste Grüße,  
+> Anne  
