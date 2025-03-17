@@ -377,3 +377,31 @@ Tja, die Scammer dachten wohl, Hugo sitzt brav zu Hause und wartet gespannt auf 
 **Eimersaufen, Sangria, Sonnenbrand – das volle Programm!** Wer erinnert sich? Keiner! Handys weg, Geld weg, Würde weg. Nur eins blieb: Ein dumpfes Gefühl, dass irgendwo eine „wichtige Spende“ auf uns wartet. Also schnell zurück ins echte Leben und Carbert gefragt: **„Ey, was geht? Wo ist meine Kohle?“**  
 
 ![Besoffen am Strand](/posts/2025-01-30-anthonycharities/malle.webp)
+
+## Blog-Ergänzung: Die Wahrheit kommt ans Licht!
+
+Und da ist sie wieder, die **magische Bearbeitungsgebühr!** 💰 Natürlich müssen **wir** erst mal **1500 Euro zahlen**. Eigentlich hatten wir gar nicht mit einer Antwort gerechnet nach der doch etwas eigenwilligen E-Mail. 🤗
+
+> Sie müssen eine Anzahlung von 1500 Euro leisten, damit ich mit Ihren  
+> Spendengeldern fortfahren kann. Diese Zahlung ist sehr wichtig und wird  
+> benötigt, um Ihre Spende abzuschließen. Sie werden hiermit aufgefordert,  
+> 1500 zu senden, damit wir eine direkte Überweisung auf Ihr Bankkonto  
+> vornehmen können. Diese Zahlung ist sehr wichtig und wir müssen  
+> sicherstellen, dass wir diese Spende ein für alle Mal abschließen.  
+
+Da haken wir doch gleich nochmal frech nach!
+
+> Ey Carbert,    
+>   
+> warte mal kurz… ICH soll 1500 Euro zahlen, damit IHR mir fast 900.000 Dollar überweisen könnt? Digga, was läuft da schief?! 😂    
+>   
+> Ich dachte, ich kriege Kohle, nicht dass ich erst noch ne Spende in meine eigene Spende investieren muss. Ist das so ein exklusiver VIP-Zugang zum Reichtum oder was? Eintrittsgeld für den Millionärs-Club?    
+>   
+> Ich sag mal so: Nach Malle ist Ebbe in der Kasse. Ich könnte dir vielleicht ein paar Kronkorken schicken oder meinen letzten Sangria-Becher aus dem Megapark… Reicht das als Anzahlung? 🤡    
+>   
+> Lass mal hören, ob du da ’ne andere Lösung hast – sonst muss ich wohl doch bei Elon Musk anklopfen, der wollte mir letztens eh ein paar Millionen rüberschieben. 💸    
+>   
+> Hau rein,    
+> Hugo aus Wanne-Eickel    
+> (immer noch pleite, aber hoffnungsvoll 🍻)    
+

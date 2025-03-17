@@ -103,3 +103,49 @@ Aber gut, Schwamm drüber. Hugo ist ja kein Spielverderber, wenn’s um eine Mil
 > Gruß,    
 > Hugo aus Wanne-Eickel    
 > BMW-Club Ruhrpott    
+
+## Der nächste Schritt: Die E-Mail mit dem Anwalt  
+
+Und da haben wir ihn: den mysteriösen „Barr. Tom West Esq.“, der natürlich völlig uneigennützig dabei hilft, die Millionen zu überweisen. Seine Kanzlei? Eine *@gmail.com*-Adresse. Sein Arbeitsort? Irgendwo in Stockholm. Seine Glaubwürdigkeit? Ungefähr auf dem Niveau eines gefälschten Rolex-Verkäufers auf Malle. 😆  
+
+Aber Tom West hat einen wichtigen Job: Er wird die „erforderlichen Dokumente“ vorbereiten, damit Hugo endlich sein Geld bekommt – natürlich erst, nachdem alles „versiegelt“ wurde. Was genau das heißen soll? Gute Frage! 
+
+> Ich spende, um anderen durch andere zu helfen. Sie erhalten diese Spende nur, wenn Sie versprechen, 50 Prozent der Mittel zu spenden. Sie helfen Armen, Waisenhäusern und Menschen, die Ihrer Meinung nach bedürftig sind. Dies ist mein Hauptgrund für diese Spende.  
+>   
+> Ich habe meinen Anwalt Tom West beauftragt, die Formalitäten für diese Spende zu erledigen. Er weiß bereits von meiner Spende an Sie. Mein Anwalt wartet auf Ihre Nachricht, um Ihnen bei der Abwicklung der Spende zu helfen und das Geld in Ihr Land zu überweisen.  
+>   
+> Kontaktieren Sie ihn jetzt und bitten Sie ihn, die erforderlichen Dokumente für die Beantragung des Betrags (1.000.000,00 €) vorzubereiten und Ihnen zukommen zu lassen. Das Geld wird Ihnen nach der Versiegelung der Dokumente ausgehändigt.  
+>   
+> Er ist ein bei den Vereinten Nationen der Rechtsanwälte registrierter Anwalt.  
+>   
+> Dies ist ein Kontakt mit einem Anwalt:  
+>   
+> Tom West Chambers  
+> Name des Anwalts: Barr. Tom West Esq  
+> E-Mail: tomwest977@gmail.com  
+> Adresse: Eriksbergsgatan 14, 112 30 Stockholm, Schweden.  
+>   
+> Ich habe ihm Ihre Daten bereits zur Verarbeitung übergeben. Ich werde die glücklichste Frau der Welt sein,  
+> nachdem Ihnen diese Mittel ausgezahlt wurden.  
+> Nochmals herzlichen Glückwunsch!!!  
+> Halten Sie mich auf dem Laufenden, bis ich gespendet habe.  
+>   
+> Mit freundlichen Grüßen.  
+> Sigrid Rausing  
+
+
+### Hugos Antwort an den weltberühmten Barrister Tom West Esq.  (tomwest977@gmail.com)
+
+Hugo bleibt höflich – schließlich handelt es sich hier um einen **hoch angesehenen Anwalt** mit einer *@gmail.com*-Adresse. 😆 Er bedankt sich artig für die Mühe, die sich Herr West macht, und erkundigt sich interessiert nach dem geheimnisvollen „Versiegelungsprozess“. 🚗💸
+
+> Sehr geehrter Herr Barrister Tom West Esq.,    
+>   
+> ich wurde von Frau Sigrid Rausing an Sie verwiesen, da Sie als hoch angesehener Anwalt (und sicher auch Gentleman) die Formalitäten für meine Spende regeln. Erstmal vielen Dank für Ihre Mühe – ich weiß es zu schätzen, dass Sie sich für meine eine Million Euro ins Zeug legen!    
+>   
+> Sigrid sagte mir, die „erforderlichen Dokumente“ müssten vorbereitet und „versiegelt“ werden. Jetzt ist meine Frage: Wie läuft das genau ab?   
+>   
+> Ich freue mich auf Ihre professionelle Antwort und darauf, diesen Transfer schnell abzuschließen.    
+>   
+> Mit freundlichen Grüßen,    
+> Hugo    
+> BMW-Club Ruhrpott    
