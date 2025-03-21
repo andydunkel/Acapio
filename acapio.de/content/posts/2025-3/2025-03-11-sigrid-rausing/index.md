@@ -149,3 +149,76 @@ Hugo bleibt höflich – schließlich handelt es sich hier um einen **hoch anges
 > Mit freundlichen Grüßen,    
 > Hugo    
 > BMW-Club Ruhrpott    
+
+
+## Der Anwalt Tom West antwortet
+
+Ahhh, da ist sie endlich – die legendäre „einmalige Gebühr“! 😆 Natürlich kann Hugo seine Million nicht einfach so bekommen, da müssen erst mal ein paar Hundert Euro „Verwaltungskosten“ über den Tresen gehen. Und wie es sich für einen hochprofessionellen Anwalt gehört, gibt es sogar ein schickes Premium-Paket für besonders eilige Millionäre!
+
+> Herzlichen Glückwunsch! Frau Rausing hat mir bereits die Vorbereitung des Rechtsdokuments mitgeteilt. Sie hat mir Ihre Daten zur Vorbereitung Ihres Dokuments bereits zugesandt.  
+>   
+> Bevor das Dokument erstellt werden kann, müssen Sie eine einmalige Gebühr entrichten, damit wir fortfahren können. Ihr Geld ist zur Überweisung bereit. Sie müssen eine einmalige Registrierungs- und Überweisungsgebühr entrichten. Nach Zahlung dieser Gebühr erhalten Sie 1.000.000,00 Euro (eine Million Euro). Wählen Sie unten eine Option aus und teilen Sie mir mit, wann Sie die Gebühr überweisen können, damit wir fortfahren können.  
+>   
+> Standardüberweisung: 455 Euro, Erhalt innerhalb von 5 Tagen nach dem Absenden  
+> Premiumüberweisung: 875 Euro, Erhalt innerhalb von 2 Tagen nach dem Absenden  
+>   
+> Ich freue mich auf Ihre umgehende Antwort.  
+>   
+> Mit freundlichen Grüßen  
+> Barr. Tom West  
+>   
+> Global Access Rechtsanwalt und Berater  
+
+
+### Hugos Antwort: Ein echter Geschäftsmann verhandelt!  
+
+Hugo bleibt entspannt – schließlich geht es hier nur um eine **klitzekleine Verwaltungsgebühr** für seinen Millionen-Gewinn. Aber warum unnötig Geld hin- und herschicken? Ein echter Ruhrpottler denkt praktisch: **Einfach die 875 Euro direkt von der Million abziehen!** 😎 
+
+Oder noch besser: Hugo könnte das Geld auch **persönlich in Schweden abholen** – schließlich lässt man sich so einen Batzen nicht einfach per Standardversand zuschicken. 💸😆
+
+
+> Sehr geehrter Herr Barrister Tom West,    
+>   
+> vielen Dank für Ihre schnelle Antwort! Ich verstehe natürlich, dass solch hohe Beträge mit gewissen Verwaltungskosten verbunden sind – immerhin kann man nicht einfach so eine Million durch die Gegend schicken.    
+>   
+> Ich würde mich natürlich für die Premiumüberweisung entscheiden, schließlich kann ich nicht ewig auf mein Geld warten. Ich hab nur eine kleine Frage: Kann ich die 875 Euro einfach von der Million abziehen? Dann müssen wir gar nicht lange hin- und herschicken und alles geht noch schneller! 😎    
+>   
+> Alternativ könnte ich Ihnen auch in bar bezahlen – ich bin ja oft in Schweden unterwegs (die Elche da oben sind super!). Gibt’s vielleicht eine Möglichkeit, das direkt in Ihrer Kanzlei abzuholen?    
+>   
+> Freue mich auf Ihre Antwort, damit wir den Transfer endlich durchziehen können!    
+>   
+> Mit besten Grüßen,    
+> Hugo    
+> BMW-Club Ruhrpott    
+
+
+## Keine Barzahlung möglich – Barrister West ist auf Weltreise  
+
+Hugos Vorschlag, das Geld einfach persönlich abzuholen oder die Gebühr direkt von der Million abzuziehen, kam beim guten Tom leider nicht so gut an. **Bargeld? Um Gottes willen – er ist doch bald auf Reisen!** Vielleicht muss er ja noch ein paar andere Millionäre betreuen.  
+
+Auch die Idee mit dem „ziehen wir die Gebühr einfach direkt ab“ wurde charmant abgeschmettert. 
+
+Stattdessen steht jetzt der nächste logische Schritt an: **Bankverbindung des Empfängers**. Klar doch – Hugo wird doch nicht zögern, jemandem mit einer *@gmail.com*-Adresse sein sauer verdientes Kleingeld zu überweisen, oder? 😆
+
+> Guten Tag, wir können kein Bargeld akzeptieren, da wir nicht im selben Land sind und ich auch in Kürze verreisen werde.   
+> Es wäre besser, wenn wir eine Banküberweisung bevorzugen, das ist einfacher. Den Ken Sie daran,   
+> dass wir die Gebühren nicht vom Spendenbetrag abziehen können. Die Gebühren müssen von Ihnen gesendet werden.   
+> Bestätigen Sie mir, ob ich Ihnen die Bankkontodaten des Empfängers senden soll. Grüße    
+
+### Wir lassen uns auf eine Überweisung ein!  
+
+Hugo zeigt Größe – schließlich geht es hier um eine ganze Million Euro, da darf man bei läppischen 875 Euro Premiumgebühr nicht rumknausern. 😎 Barzahlung ist zwar nicht möglich (Barrister West ist *leider* demnächst auf Weltreise), aber Hugo wäre nicht Hugo, wenn er sich davon aufhalten ließe.  
+
+Stattdessen gibt er sich professionell: **„Schicken Sie mir die Bankverbindung, ich regel das.“** Und natürlich entscheidet er sich für die **Premium-Überweisung** – man will ja schließlich nicht ewig auf die Millionen warten. Weihnachten ist schließlich auch keine Lösung. 🎄💸
+
+> Sehr geehrter Herr Barrister Tom West Esq.,    
+>   
+> vielen Dank für Ihre Rückmeldung. Natürlich verstehe ich, dass eine Barzahlung schwierig ist – gerade wenn Sie auf Reisen sind. Ich will Sie ja auch nicht vom Kofferpacken abhalten.    
+>   
+> Selbstverständlich bin ich bereit, die Gebühr zu überweisen. Schließlich geht es hier um eine Million Euro – da will man ja nicht kleinlich sein. 😎    
+>   
+> Bitte senden Sie mir die Bankverbindung des Empfängers, damit ich alles in die Wege leiten kann. Ich bevorzuge übrigens Premium, ich will die Kohle ja nicht erst zu Weihnachten.    
+>   
+> Mit besten Grüßen    
+> Hugo    
+> BMW-Club Ruhrpott  

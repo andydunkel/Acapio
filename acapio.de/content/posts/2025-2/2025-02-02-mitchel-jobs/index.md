@@ -460,3 +460,100 @@ Anne behauptet, dass sie den Fall offiziell bei der Bundesanstalt für Finanzdie
 >   
 > Beste Grüße,  
 > Anne  
+
+## Jetzt wird’s offiziell – oder doch nur peinlich?
+
+Unsere lieben Scammer legen nach: **Zwei "offizielle" IRS-Dokumente** als PDF sollen nun beweisen, dass die Steuerzahlung wirklich nötig ist. Natürlich **muss es schnell gehen**, denn Annes **Transitkonto läuft bald ab**, und das Geld könnte an den Staat „verfallen“.  
+
+Besonders kreativ: **Sie behaupten, die Bank hätte bereits mit der Sparkasse gesprochen**, um Annes eingehende Millionen zu bestätigen. Klar, weil eine echte Bank mitten im Betrugsprozess einfach mal ein freundliches Telefonat mit den Tätern führt. 😆  
+
+Aber keine Sorge, die Lösung ist einfach: **Anne muss nur sofort zahlen**, und dann wird alles gut. **Ganz bestimmt.**  
+
+![Lange Erklärungen](/posts/2025-02-02_mitchel-jobs/mail_mit_dokumenten.png)
+
+### **Die PDF-Dokumente – ein echtes Kunstwerk der Scammer-Kreativität**  
+
+Natürlich schauen wir uns die PDFs genauer an – ob wir hier ein offizielles IRS-Dokument vor uns haben oder eher eine **Google-Docs-Bastelarbeit mit Word-Art-Finesse**? 😆  
+
+Die Betrüger haben sich sichtlich Mühe gegeben: Ein **schön verpixeltes Banklogo**, eine „offizielle“ Bestätigung der 0,5 % Steuern – und natürlich darf unser Name auch nicht fehlen. Immerhin, **die Scammer hatten ein bisschen Arbeit damit**, das freut uns!  
+
+![](/posts/2025-02-02_mitchel-jobs/pdf_1.webp)  
+
+Aber es kommt noch besser: **Das zweite PDF schlägt alles.** Ein völlig verpixeltes IRS-Logo, kreative **Word-Art-Spielereien**, die an die Anfänge von Microsoft Office erinnern – hier wurde wirklich **alles ausgereizt, was Word 2016 zu bieten hat.** Ein wahres Meisterwerk der Trash-Ästhetik! 😆  
+
+![](/posts/2025-02-02_mitchel-jobs/pdf_2.webp)  
+
+Man merkt: **Unsere Scammer geben sich Mühe – aber an den Details hapert’s noch ein bisschen.** Vielleicht sollten sie für die nächste Fälschung doch mal in eine bessere Bildqualität investieren? 😏
+
+### Meta-Daten in den Dokumenten: Wer ist Akpan Brown?  
+
+Natürlich werfen wir auch einen Blick in die **Meta-Daten** der PDFs – schließlich hinterlassen Betrüger oft unfreiwillig Spuren. Beim Standard-Export aus Word werden **Autor, Titel und weitere Informationen** gespeichert. Und was sollen wir sagen? **Wir werden nicht enttäuscht.**  
+
+Plötzlich taucht der Name **Akpan Brown** auf – ein bisher unbekannter Mitspieler in diesem dubiosen Spiel. Doch damit nicht genug: **Als Organisation ist die „NIGERIAN NATIONAL PETROLEUM CORPORATION“ eingetragen.**  
+
+![](/posts/2025-02-02_mitchel-jobs/metadaten.webp)  
+
+Ob Herr Brown nebenher Millionen ausgibt oder einfach nur **vergessen hat, sein Word-Profil zu ändern**, wissen wir nicht. Aber eines ist sicher: **Der „IRS“ sitzt wohl doch nicht in Washington, sondern irgendwo ganz anders.** 😆
+
+> Titel: NIGERIAN NATIONAL PETROLEUM CORPORATION  
+> Autor: Barr. Akpan_Brown  
+> Erstellt am: 12.03.2025 09:22:38  
+> Geändert am: 12.03.2025 09:22:39  
+> Anwendung: Microsoft® Word 2016  
+
+Wir fragen mal nach, ob der Herr Mitchel den Herren kennt!
+
+### **Akpan Brown? Nur der Assistent vom IRS-Chef – na klar!** 😅  
+
+Der gute Mitchel streitet erstmal alles ab! Er kennt den guten **Akpan Brown** nicht.
+
+> Ich habe noch nie von Akpan Brown gehört. Wer ist er und was hat er mit dieser Transaktion zu tun?
+
+Also haben wir nochmal höflich nachgefragt, wer denn bitte **Akpan Brown** ist, der in den Meta-Daten als Autor der „offiziellen IRS-Dokumente“ auftaucht. Und siehe da: **Die Antwort ist ebenso kreativ wie dreist.**  
+
+Mitchell erklärt ganz locker, **Akpan Brown sei der persönliche Assistent des IRS-Kommissars** – legitim, autorisiert und natürlich absolut vertrauenswürdig. Dass sein Name in einem Word-Dokument auftaucht, das angeblich vom IRS stammt, sei kein Problem – schließlich habe **die Herstal Trust Bank nur als Vermittler gehandelt.** Klingt doch vollkommen logisch … in der Scam-Welt. 😏  
+
+Und jetzt wird wieder auf die Tränendrüse gedrückt: **Mitchell war immer für Anne da**, will nur helfen, ist ganz traurig wegen der Verzögerung – **und bittet jetzt ganz dringend darum, endlich zu zahlen.**  
+
+Tja, Mitchell. Wir prüfen weiter … und lassen dich noch ein wenig zappeln. 🦈💸
+
+> Liebe Anne,  
+>   
+> Ich verstehe Ihre Bedenken voll und ganz und danke Ihnen, dass Sie sich die Zeit genommen haben, Ihre Gedanken zu klären. Nach gründlicher Prüfung kann ich jedoch zweifelsfrei bestätigen, dass Akpan Brown tatsächlich der persönliche Assistent des Commissioner of the IRS ist. Das bedeutet, dass seine Beteiligung an dieser Angelegenheit legitim und autorisiert ist.  
+>   
+> Bezüglich des fraglichen Dokuments möchte ich Ihnen versichern, dass es nicht von ihm erstellt, sondern vom IRS selbst herausgegeben wurde. Es wurde Ihnen jedoch über die Herstal Trust Bank zugestellt, was möglicherweise zu Verwirrung geführt hat. Die Bank fungierte als Vermittler bei der Zustellung dieses Dokuments, da es sich direkt auf Ihre Transaktion bezieht. Dies ist eine gängige Praxis in Finanz- und Steuerangelegenheiten, bei der Institute zusammenarbeiten, um die Einhaltung der gesetzlichen Anforderungen zu gewährleisten.  
+>   
+> An diesem Punkt ist es meiner Meinung nach entscheidend, dass wir diese Bedenken ausräumen und uns auf die Beschaffung der erforderlichen IRS-Steuernummer konzentrieren, damit Sie Ihr Geld erfolgreich auf Ihr angegebenes Konto überweisen können. Verzögerungen bei der Bearbeitung dieser Angelegenheit könnten nur zu weiteren Komplikationen führen, und das möchte ich Ihnen wirklich nicht zumuten.  
+>   
+> Anne, ich habe Sie während des gesamten Prozesses unterstützt und alles in meiner Macht Stehende getan, um Sie zu unterstützen. Meine oberste Priorität ist es, dass Sie Ihre rechtmäßigen Gelder erhalten, damit Sie sie endlich überweisen und mir wie ursprünglich vereinbart erstatten können. Je länger wir warten, desto mehr unnötige Hindernisse könnten entstehen, und das möchte ich unbedingt vermeiden.  
+>   
+> Ich bitte Sie dringend, die vorliegenden Fakten zu prüfen. Alles wurde überprüft, und die erforderlichen Schritte sind klar. Lassen Sie uns jetzt handeln, die Zahlung abschließen und die IRS-Steuernummer unverzüglich einholen. Nur so können wir sicherstellen, dass Ihre Gelder reibungslos und ohne weitere Hürden freigegeben werden.  
+>   
+> Bitte teilen Sie mir Ihre Meinung mit, damit wir vorankommen und die Sache ein für alle Mal hinter uns bringen können. Die Zeit drängt, und ich hoffe aufrichtig, dass wir das Problem so schnell wie möglich lösen können.  
+>   
+> Ich freue mich auf Ihre Antwort.  
+>   
+> Mit freundlichen Grüßen,  
+> Mitchell Jobs  
+
+
+### Akpan Brown, Nigeria und unsere Skepsis wächst
+
+Nach unserem Fund in den Meta-Daten – **Name: Akpan Brown, Organisation: Nigerian National Petroleum Corporation** – wollten wir es natürlich genau wissen. Also haben wir höflich bei Mitchell nachgefragt, wer dieser ominöse Herr Brown eigentlich ist.  
+
+Die Antwort: **Natürlich ist Akpan Brown der persönliche Assistent des IRS-Kommissars.** Ganz normal, dass der in offiziellen US-Steuerdokumenten auftaucht. Und das mit Nigeria? Ach, nur ein Missverständnis. Die Dokumente wurden ja „nur über die Bank vermittelt“. 😅  
+
+Wir bleiben freundlich, aber lassen durchblicken, dass wir **Nigeria und Internetbetrug schon mal in Verbindung gehört haben**. Mal sehen, wie lange Mitchell noch die Fassade aufrechterhalten kann … 🧐💸
+
+> Lieber Herr Jobs,    
+>   
+> vielen Dank für Ihre ausführliche Antwort und Ihre Mühe. Ich verstehe, dass Sie mir helfen möchten, und ich weiß das wirklich zu schätzen.    
+>   
+> Allerdings bin ich weiterhin etwas verunsichert. Beim Öffnen der Dokumente sind mir die Meta-Daten aufgefallen – dort stand nicht nur der Name Akpan Brown, sondern auch der Vermerk „Nigerian National Petroleum Corporation“.    
+>   
+> Bitte verstehen Sie mich nicht falsch, aber Nigeria ist weltweit leider als Ursprung vieler Internetbetrugsfälle bekannt, was auch in den Medien und bei Verbraucherschutzseiten oft thematisiert wird. Das hat mich ehrlich gesagt etwas stutzig gemacht.    
+>   
+> Vielleicht gibt es eine einfache Erklärung dafür – aber ich möchte auf Nummer sicher gehen, bevor ich einen so großen Betrag überweise. Können Sie mir das bitte genauer erklären?    
+>   
+> Vielen Dank für Ihr Verständnis,    
+> Anne  

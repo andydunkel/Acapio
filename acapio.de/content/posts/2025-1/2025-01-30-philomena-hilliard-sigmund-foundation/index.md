@@ -405,3 +405,31 @@ Da haken wir doch gleich nochmal frech nach!
 > Hugo aus Wanne-Eickel    
 > (immer noch pleite, aber hoffnungsvoll 🍻)    
 
+
+## Carbert will uns helfen – wie großzügig! 
+
+Jetzt wird’s rührend! 🥹 Unser Scam-Banker **Carbert George** will uns bei der **1500-Euro-Gebühr** unterstützen – aber zahlen müssen wir trotzdem. Logisch, ohne diese magische Zahlung kann die **Enterprise Holdings Peoples Bank™** unsere Millionen ja *nicht schützen*! 😂  
+
+> Ich kann Sie mit einem Teil der Zahlung unterstützen. Ohne die  
+> erforderliche Gebühr können wir Ihre Spende nicht weiterverarbeiten.  
+> Diese Zahlung ist sehr wichtig für die Durchführung Ihrer Spende. Sie  
+> werden Ihr Bestes tun, um die erforderliche Zahlung aufzubringen, damit  
+> wir diese Spende endgültig abschließen können. Ich weiß, dass diese  
+> Zahlung hoch ist, aber wir müssen Ihre Spende schützen und alle  
+> Verfahren einhalten, damit wir die Spende problemlos abschließen können.  
+> Ohne diese Zahlung können wir Ihre Spendengelder nicht  
+> weiterverarbeiten.  
+
+Natürlich lässt sich Hugo nicht lange bitten!
+
+> Hey Carbert,    
+>   
+> ich wusste doch, dass du ein guter Kerl bist! 😍 Dass du mich bei der Zahlung unterstützen willst, zeigt, dass wir hier ein echtes Vertrauensverhältnis aufgebaut haben. Brüder im Geiste, oder?    
+>   
+> Sag mal, wie viel kannst du denn beisteuern? 50-50? Oder vielleicht übernimmst du die ganze Summe und ziehst sie einfach direkt von den 890.000 Dollar ab? Dann hätten wir das Problem elegant gelöst, und du müsstest dich nicht mehr mit meinen verspäteten Zahlungen rumschlagen. 😉    
+>   
+> Lass mal hören, wie wir das am besten regeln!    
+>   
+> Hugo aus Wanne-Eickel    
+> (Baldiger Millionär, aber aktuell noch klamm 💸🍻)  
+
