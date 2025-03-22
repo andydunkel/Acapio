@@ -222,3 +222,22 @@ Stattdessen gibt er sich professionell: **„Schicken Sie mir die Bankverbindung
 > Mit besten Grüßen    
 > Hugo    
 > BMW-Club Ruhrpott  
+
+## Und jetzt: Die Bankverbindung  
+
+Na endlich! Barrister Tom West hat geliefert – Hugo bekommt die nötigen Kontodaten für seine *Premium-Überweisung*. Und die haben es in sich:  
+
+> Bankname: MOONEY  
+> KONTONAME:ONI OSAMUYI   
+> IBAN: IT65J3253203200006572081938  
+> BIC: SIGPITM1XXX   
+> Bankadresse: Via Privata Nino Bonnet 6 A, Milano  
+> Land: Italy  
+
+Moment mal… Italien? Wurde Hugo nicht von einer schwedischen Milliardärin kontaktiert, deren Anwalt angeblich aus Stockholm kommt? Aber hey – *internationale Spendenprozesse* sind eben komplex, und MOONEY klingt ja auch irgendwie… großzügig. 😆  
+
+### Wir zahlen!
+
+Wir machen wieder den Klassiker und geben vor die Überweisung getätigt zu haben. Sicher sorgt das für kurze Freude bei den Scammern...
+
+![](/posts/2025-03-11_sigrid-rausing/transaction.webp)

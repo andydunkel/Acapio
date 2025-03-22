@@ -183,3 +183,51 @@ Wir tun so, als ob wir zahlen, erstellen einen Zahlungsbeleg und schicken den Li
 ![](/posts/2025-02-05_cfrances/transaktion.webp)
 
 Natürlich machen wir beim Betreff einen Fehler und geben einen anderen Betreff ein.
+
+
+## **Es kommt kein Geld! – Die Scammer werden nervös**  
+
+Oh je – jetzt wird’s ernst! Unser Anwalt **Michael Bradley** ist **sichtlich beunruhigt**: Die 500 Euro sind **immer noch nicht angekommen**. Er fragt sich ganz verzweifelt, **was mit der Überweisung nicht in Ordnung sein könnte**. Hat Hugo etwa eine **Online-Überweisung ins Nirgendwo** gemacht? Oder wurde das Geld vom Konto von „Familie & Freunde“ in die Parallelwelt transferiert?
+
+Die Mail ist ein echtes Highlight:  
+> „Bitte sprechen Sie dringend mit mir.“  
+
+Michael, ganz ruhig – Hugo ist bestimmt schon auf dem Weg zur Sparkasse. Wahrscheinlich hat nur der Geldautomat in Wanne-Eickel mal wieder gesponnen, oder der gute Johnson Newton in Turin hat vergessen, sein Konto zu aktualisieren.
+
+Wie dem auch sei – wir überlegen noch, wie wir reagieren. Vielleicht sagen wir einfach, dass wir die 500 Euro als **Briefmarkenpäckchen** nach Italien geschickt haben? 😏📦🇮🇹
+
+
+> Sehr geehrter Herr Hugo,  
+>   
+> Hiermit teilen wir Ihnen mit, dass Ihre Zahlung noch nicht auf unserem Konto eingegangen und bestätigt wurde. Ich möchte wissen, wie Sie die Online-Überweisung durchgeführt haben. War die Überweisung erfolgreich?  
+>   
+> Sind die 500 Euro zum Zeitpunkt der Überweisung von Ihrem Bankkonto abgebucht worden?  
+>   
+> Wir haben noch kein Geld auf unserem Konto erhalten und fragen uns daher, was mit der Überweisung nicht in Ordnung sein könnte. Bitte melden Sie sich dringend bei mir und sagen Sie mir, was genau das Problem ist und warum wir die Zahlung noch nicht erhalten haben.  
+>   
+> Ich warte jetzt auf Ihre dringende Antwort bezüglich dieser Zahlungen. Bitte sprechen Sie dringend mit mir.  
+>   
+> Mit freundlichen Grüßen  
+>   
+> Michael Bradley  
+> 115 Bishopsgate London  
+> EW2N 6AY  
+> mblawfirm33@outlook.com  
+
+
+### Wir geben vor, die Bankverbindung wäre falsch!
+
+Jetzt wird’s richtig schön – wir drehen den Spieß um und behaupten einfach, **die Bankverbindung sei fehlerhaft**. Hugo schreibt höflich, aber leicht verwirrt zurück und bittet darum, die Kontodaten noch mal zu überprüfen. Vielleicht war ja ein Zahlendreher drin? Oder „Johnson Newton“ hat einfach sein Konto nicht richtig angegeben? Kann ja mal passieren… 😂  
+
+Natürlich versichern wir dem „Anwalt“, dass wir **weiterhin bereit sind, die Zahlung zu leisten** – schließlich geht es ja um eine „gute Sache“. Mal sehen, wie der Herr Bradley reagiert. Ob jetzt eine neue IBAN kommt? Oder eine Ausrede, dass der Empfangsserver „überlastet“ war?  
+
+> Sehr geehrter Herr Bradley,  
+>   
+> ich habe soeben eine Rückmeldung von meiner Bank erhalten – die Überweisung wurde nicht ausgeführt und ist wieder zurückgebucht worden. Es scheint, als gäbe es ein Problem mit der angegebenen Bankverbindung.  
+>   
+> Könnten Sie bitte noch einmal überprüfen, ob alle Kontodaten korrekt sind? Vielleicht ist ein Zahlendreher drin oder der Empfängername passt nicht zum Konto.  
+>   
+> Ich bin natürlich weiterhin bereit, die Zahlung zu leisten – schließlich geht es hier ja um eine gute Sache. Bitte lassen Sie mich wissen, ob sich etwas geändert hat oder ob ich es noch einmal versuchen soll.  
+>   
+> Mit freundlichen Grüßen  
+> Hugo   
