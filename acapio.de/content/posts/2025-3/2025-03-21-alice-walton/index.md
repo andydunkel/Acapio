@@ -66,4 +66,31 @@ Weil wir natürlich wissen wollten, wie ernst es Alice meint, hat sich unser Man
 > Mit solidarischen Grüßen aus’m Pott,    
 > Hugo (Millionär in Vorbereitung)  
 
+## Die heilige Dreifaltigkeit des Scams: Alice, Gott und die Nationwide Bank
 
+Kaum hatte Hugo geantwortet, meldete sich Alice wieder – und diesmal so richtig dramatisch. Zwischen Pathos, Predigt und Überweisungstango wird schnell klar: Jetzt wird’s ernst. Denn Alice hat große Pläne – und **wenig Zeit**:
+
+> *„Ich möchte meine Wünsche erfüllen, bevor ich in einigen Monaten sterbe.“*
+
+Na dann, frohes Countdown-Zählen!
+
+Die gute Alice hat nämlich schon gehandelt: Ganze **3.800.000,00 €** (komisch, vorher waren’s noch 2 Mio?) hat sie auf ein Konto bei der **„Nationwide Bank“** gelegt – was verdächtig klingt wie ein erfundener Filialname aus einem B-Movie. Hugo soll sich jetzt direkt bei der Bank melden, und zwar mit allem Drum und Dran:
+
+- Vollständiger Name  
+- Adresse  
+- Kontodaten  
+- Und natürlich: **„ein funktionierender WhatsApp-Kontakt“**  
+  (Weil alle großen Finanzgeschäfte natürlich per WhatsApp laufen – eh klar!)
+
+Zwischendrin wird’s nochmal spirituell:
+
+> *„Was nützt es mir, in meiner jetzigen Lage die ganze Welt zu gewinnen und meine Seele an den Teufel zu verlieren?“*
+
+Gute Frage, Alice. Vielleicht erstmal mit Rechtschreibung anfangen, dann über Weltgewinne reden.
+
+Natürlich bittet sie Hugo ganz sanft, doch bitte sofort an die Bank zu schreiben – und **ihr parallel auch nochmal zu mailen, sobald er das getan hat**. Wahrscheinlich, damit sie im Hintergrund schnell ihre nächste Rolle vorbereitet – als „Bankmitarbeiter“, „Notar“, „Rechtsanwalt Dr. Bongo aus Zürich“ oder was auch immer gerade im Spam-Drehbuch steht.
+
+
+![Lange E-Mail](/posts/2025-03-21_alice-walton/mail.webp)
+
+Nagut, dann schreiben wir mal der Bank mit ein paar Fake-Daten und warten ab! 🫠

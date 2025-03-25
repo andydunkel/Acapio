@@ -231,3 +231,45 @@ Natürlich versichern wir dem „Anwalt“, dass wir **weiterhin bereit sind, di
 >   
 > Mit freundlichen Grüßen  
 > Hugo   
+
+
+### Bankverbindung klappt nicht? Dann eben mit Steam-Karte! 🎮💸  
+
+Unser „Anwalt“ Michael Bradley ist leicht gereizt. Hugo antwortet ihm einfach nicht „pünktlich genug“. Frechheit! 😄 Er teilt uns mit:  
+
+> *„Ich habe viel zu lange auf Ihre Antwort gewartet.“*  
+
+Und die Bankverbindung? Natürlich sei **alles korrekt**, sagt er – wir sind offenbar das Problem. Aber zum Glück hat Herr Bradley einen genialen Plan B:
+
+> *„Beachten Sie, dass wir unsere Zahlungen auch über Bitcoin-Wallets und Geschenkkarten wie Steam-Karten erhalten.“*  
+
+Na klar! Was könnte **seriöser** wirken als eine 500-Euro-Spende per **Steam-Guthabenkarte**? Einfach beim nächsten Tanken mitnehmen und dem internationalen Spendenanwalt mailen – läuft. 😅
+
+**Fazit:** Die Masche ist jetzt endgültig im **Kinderzimmer angekommen**. Mal sehen, ob Hugo ihm bald eine Minecraft-Goldkarte oder Pokémon-Coins schickt. 🕹️💳
+
+![](/posts/2025-02-05_cfrances/ungeduld.webp)
+
+### Steam-Karten, Pfandflaschen und ein halber Tankgutschein
+
+Herr Bradley lässt nicht locker – und Hugo natürlich auch nicht. Unsere neueste Antwort bringt den „Zahlungsverkehr“ auf das nächste Level:  
+
+Hugo bietet eine Steam-Karte im Wert von 20 Euro an (die war eigentlich für neue Trucker-Skins gedacht), dazu noch **drei Kästen Fiege-Pils**, einen halben **Tankgutschein von Aral** und – natürlich – einen **Bollerwagen voller Pfandflaschen** als mögliche Alternativzahlung. 😂
+
+Wir sind gespannt, ob Michael Bradley darauf eingeht. Vielleicht möchte er ja doch lieber in Naturalien bezahlt werden? 🍺
+
+> Sehr geehrter Herr Bradley,    
+>   
+> vielen Dank für Ihre Nachricht und Ihre Geduld. Ich war in letzter Zeit etwas im Stress – die Rennleitung hat mir den Auspuff vom BMW stillgelegt.    
+>   
+> Die Steam-Karte klingt erstmal gut, aber ich habe nur noch eine von Media Markt im Wert von 20 Euro, die ich eigentlich für neue Trucker-Skins in Euro Truck Simulator 2 verwenden wollte. Reicht das erstmal als Anzahlung?    
+>   
+> Falls nicht, gibt’s vielleicht auch andere Zahlungsmöglichkeiten? Ich hätte noch:    
+> - Drei Kästen Fiege-Pils (gekühlt)    
+> - Einen halben Tankgutschein von Aral    
+> - Und einen Bollerwagen mit Pfandflaschen    
+>   
+> Ich möchte das Spendenprojekt natürlich nicht gefährden – melden Sie sich bitte, wie wir das jetzt am besten regeln.    
+>   
+> Mit freundlichen Grüßen    
+> Hugo Scholz    
+> (Steam-Nutzername: BMW_Hugo_87)    

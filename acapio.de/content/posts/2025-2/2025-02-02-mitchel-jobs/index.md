@@ -557,3 +557,17 @@ Wir bleiben freundlich, aber lassen durchblicken, dass wir **Nigeria und Interne
 >   
 > Vielen Dank für Ihr Verständnis,    
 > Anne  
+
+
+## Akpan Brown bleibt – jetzt offiziell! 😆  
+
+Nach unserer kritischen Nachfrage zu **Akpan Brown** und dem seltsamen Vermerk **„Nigerian National Petroleum Corporation“** in den Meta-Daten der angeblich offiziellen IRS-Dokumente, meldet sich unser Finanzhai **Mitchell Jobs** erneut – diesmal mit einer **wahren Meisterleistung bürokratischer Fantasie.**  
+
+Die Auflösung:  
+- **Akpan Brown** ist (natürlich!) der **Privatsekretär des IRS-Chefs Daniel Werfel**.  
+- Die Nigeria-Erwähnung? Nur ein **technischer Formatierungsfehler**, weil Akpan wohl kürzlich auch an einem **nigerianischen Öl-Steuerfall** gearbeitet hat.  
+- Alles kein Problem – das **Dokument sei trotzdem vollkommen offiziell.**  
+
+Mitchell beteuert erneut, dass alles absolut **seriös, sicher, vom IRS abgesegnet und natürlich ganz dringend** ist. Es fehle nur noch unsere „kleine“ Steuerzahlung – dann stünde der Auszahlung nichts mehr im Wege.  
+
+![](/posts/2025-02-02_mitchel-jobs/akpan.webp)

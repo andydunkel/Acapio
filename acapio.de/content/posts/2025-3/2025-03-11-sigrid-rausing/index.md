@@ -241,3 +241,18 @@ Moment mal… Italien? Wurde Hugo nicht von einer schwedischen Milliardärin kon
 Wir machen wieder den Klassiker und geben vor die Überweisung getätigt zu haben. Sicher sorgt das für kurze Freude bei den Scammern...
 
 ![](/posts/2025-03-11_sigrid-rausing/transaction.webp)
+
+## Die Scammer sind unzufrieden!  
+
+Kaum zu glauben – da will Hugo schon freiwillig Geld überweisen, und dann meckern die Scammer über den **Betreff der Überweisung!** 😂 Statt „Gebühr für Spende“ hätte er bitteschön „Beitrag“ schreiben sollen. Klar, klingt ja auch viel seriöser beim Geldwaschen.  
+
+> Ich habe Ihnen gesagt, Sie sollen als Verwendungszweck der Überweisung „Beitrag“ angeben, damit wir die Überweisung erhalten können. Sie haben jedoch „Gebühr für Spende“ angegeben. Sie schreiben etwas anderes. Können Sie das korrigieren und „Beitrag“ angeben? Es ist auch in Ordnung, wenn Sie es nicht korrigieren können. Ich werde Sie auf dem Laufenden halten, sobald wir es erhalten haben. Grüße  
+
+### Die große Rückerstattung – oder: Der Agent ist verreist  
+
+Plot Twist! Obwohl Hugo sich gar nicht mehr meldet, kommt plötzlich die frohe Botschaft: **Das Geld wird zurückerstattet!** 😱 Warum? Ganz einfach: Der ominöse „Agent“ ist *gestern verreist* und konnte das Geld nicht „dokumentieren“. Natürlich! Denn was sind internationale Überweisungen ohne persönliche Dokumentation durch einen abwesenden Agenten? 🤷‍♂️  
+
+Aber keine Sorge, es gibt bereits einen **„aktuellen Agenten“**, der bereitsteht wie ein Ersatzspieler beim SC Bamberg. Hugo soll einfach *bescheid geben, sobald die Rückerstattung da ist*, und dann geht’s nochmal von vorne los.  
+
+> Grüße, zu unserer Kenntnis, die Gelder werden Ihnen zurückerstattet, sie wurden bereits zurückerstattet und es kann einige Werktage dauern, halten Sie uns auf dem Laufenden, sobald Sie die Gebühr erhalten, die wir Ihnen erstatten, sie wurde zurückerstattet, weil der Agent, der sie erhalten sollte, gestern gereist ist und nicht im Dienst war, um sie zu dokumentieren, Sie werden sie an meinen aktuellen Agenten schicken, der im Dienst ist und sie dokumentieren kann, sobald Sie sie erhalten, Grüße  
+
