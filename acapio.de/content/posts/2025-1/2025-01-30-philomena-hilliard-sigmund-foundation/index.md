@@ -433,3 +433,49 @@ Natürlich lässt sich Hugo nicht lange bitten!
 > Hugo aus Wanne-Eickel    
 > (Baldiger Millionär, aber aktuell noch klamm 💸🍻)  
 
+### **Wir bekommen zwei Bankverbindungen – Carbert wird kreativ!**  
+
+Ein paar Tage nicht ins Postfach geschaut – und zack! **Carbert**, aka unser treuer Spendenanwalt **Marcus Owens**, ist in der Zwischenzeit richtig aktiv geworden. Offenbar will er unser Geld *unbedingt*, denn er schickt uns im Abstand von zwei Tagen **zwei völlig verschiedene Bankverbindungen**. Der Mann ist engagiert! 😂  
+
+Zuerst sollen wir unsere großzügige „Bearbeitungsgebühr“ an eine gewisse **PhDr. Liščák, Vladimír DSc** in Tschechien überweisen – wohlgemerkt mit dem Verwendungszweck: **„Gift“**. Ja, *Geschenk*, damit’s beim Zoll auch richtig eindeutig ist. 🎁  
+
+> **Bank name:** Fio Bank  
+> **IBAN:** CZ76 2010 0000 0020 0254 5679  
+> **BIC/SWIFT:** FIOBCZPPXXX  
+> **Account name:** PhDr. Liščák, Vladimír DSc  
+> **Country:** Czech Republic  
+> **Purpose of transfer:** Gift  
+
+Und dann, ganz plötzlich, ein **zweites Angebot** – diesmal geht’s nach **Deutschland**, an eine Dame mit dem charmanten Namen **Ophélie Ouedraogo**, bei der wir den Betrag bitte *per Express* überweisen sollen. Ist ja klar – **der Countdown zum Spendenwunder läuft!** ⏱️  
+
+> **Account name:** Ophélie Ouedraogo  
+> **IBAN:** DE38 3701 9000 1011 1127 75  
+> **BIC:** BUNQDE82  
+> **Bank:** Bunq (Germany 🇩🇪)
+
+Man merkt: **Die Nerven liegen blank.** Vielleicht gibt’s eine interne Carbert-Deadline für erfolgreich abgezockte Opfer? Oder er hat schon Angst, Hugo könnte wieder nach Malle verschwinden… 😆  
+
+### **Zurück auf Malle – und Carbert wartet… wieder!**  
+
+Kaum zu glauben, aber **Hugo ist wieder auf Malle!** 🍻☀️ BMW-Club, Pool voll Bier, Sangria intravenös – das volle Programm. Währenddessen sitzt unser Lieblings-Scammer **Carbert** in irgendeiner windigen Fake-Bank und wartet sehnsüchtig auf seine 1500 Euro.  
+
+Dumm nur: **Er hat uns zwei verschiedene Bankverbindungen geschickt** – einmal nach Tschechien, einmal nach Deutschland. Also haben wir ihm geschrieben, dass wir **uns Montag melden**, wenn wir (hoffentlich) wieder nüchtern sind. 
+
+Und ganz wichtig: **Bitte nur eine IBAN, Carbert – sonst wird das nix mit dem Reichtum!** 😆  
+
+> Hey Carbert,    
+>   
+> sorry für die Funkstille, aber ich bin wieder auf Malle mit den Jungs vom BMW-Club – und was soll ich sagen: Die Sause ist real! 🍹🎉 Dieses Mal haben wir sogar nen Pool mit Bier gefüllt. Also alles wie immer – nur schlimmer.    
+>   
+> Ich bin Montag wieder zurück (hoffentlich mit Erinnerung), dann kümmer ich mich um die Überweisung.    
+>   
+> Kurze Frage noch:    
+> Du hast mir zwei verschiedene Bankverbindungen geschickt – welche ist denn jetzt die richtige?    
+> - Die in Tschechien mit dem Doktortitel?    
+> - Oder die in Deutschland mit der schnellen Express-Option?    
+>   
+> Lass mal wissen, wohin die 1500 Euro am besten gehen sollen, bevor ich mich *im Suff noch vertippe*… 😅    
+>   
+> Bis Montag!    
+> Hugo aus Wanne-Eickel    
+> (Momentan eher Hugo aus Palma de Mallorca 🍻🇪🇸)  

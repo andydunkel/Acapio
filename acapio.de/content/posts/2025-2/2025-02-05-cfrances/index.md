@@ -273,3 +273,61 @@ Wir sind gespannt, ob Michael Bradley darauf eingeht. Vielleicht möchte er ja d
 > Mit freundlichen Grüßen    
 > Hugo Scholz    
 > (Steam-Nutzername: BMW_Hugo_87)    
+
+
+## **Kein Bier, kein Pfand – aber 500 € in Steam-Karten bitte!**  
+
+Hugo hat angeboten, mit einer Mischung aus Steam-Guthaben, Fiege-Pils und Pfandflaschen zu zahlen – aber **Michael Bradley bleibt hart**:  
+
+> *„Eine Anzahlung von nur 20 € kann nicht akzeptiert werden, das ist zu wenig.“* 😢  
+
+Jetzt wird’s richtig professionell: Hugo soll **Steam-Karten im Wert von 500 € kaufen**, zu Hause die PINs freirubbeln, **fotografieren und per Mail schicken**. Ganz klar, so läuft das bei jeder wohltätigen Stiftung mit Sitz in „115 Bishopsgate London“. 😂  
+
+> *„Wann erhalten Sie die 500 € und wann werden Sie die Zahlung leisten?“* – fragt Michael ungeduldig.  
+> *„Ich hoffe auf Ihre dringende Antwort bezüglich des Zahlungstermins.“*  
+
+Tja, lieber Michael – Hugo hat vielleicht nicht das Geld, aber ganz sicher **eine Antwort mit Stil**.  
+Jetzt überlegen wir, ob wir ihm schreiben, dass die Tankstelle keine Steam-Karten mehr hatte – aber **Itunes-Karten** im Angebot waren. Oder vielleicht Amazon-Gutscheine, aber **leicht angeknabbert**, weil sie der Hund gefressen hat. 🐶💳
+
+> Sehr geehrter Herr Hugo Scholz,  
+>   
+> Ich habe Ihre E-Mail erhalten und den Inhalt zur Kenntnis genommen. Es handelt sich um ein großes Finanzierungsprojekt der Connolly's Foundation, das wir professionell bearbeiten. Daher muss ich Sie beruhigen: Eine Anzahlung von nur 20 € kann nicht akzeptiert werden, das ist zu wenig. Wir benötigen die vollständige Zahlung von 500 € so schnell wie möglich.  
+>   
+> Sobald Sie die 500 € haben, kaufen Sie bitte Steam-Karten im Wert von 500 € und senden Sie sie mir zu. Kaufen Sie die Steam-Karten, nehmen Sie sie mit nach Hause, kratzen Sie die PIN-Nummer auf der Rückseite frei, fotografieren Sie sie und senden Sie sie mir zu.  
+>   
+> Nun möchte ich Sie bitten, mir mitzuteilen, wann genau Sie die vollständige Zahlung leisten können. Wann erhalten Sie die 500 € und wann werden Sie die Zahlung leisten?  
+>   
+> Ich hoffe auf Ihre dringende Antwort bezüglich des Zahlungstermins.  
+>   
+> Aufrichtig,  
+>   
+> Michael Bradley  
+> 115 Bishopsgate London  
+> EW2N 6AY  
+
+
+### Steam-Karten ausverkauft – Horst frisst Amazon-Guthaben 🐶💳 
+
+Hugo nimmt’s wie immer ernst – nur leider gibt es **ein Steam-Karten-Problem in Wanne-Eickel**: Die Tanke ist leer, Fortnite ist schuld. Also bietet Hugo dem „Anwalt“ eine kreative Alternative an:  
+
+> *„Ich hätte noch zwei Amazon-Gutscheine im Wert von je 50 Euro, allerdings sind die etwas angeknabbert – mein Hund Horst hat sie für Leckerli gehalten.“*  
+
+Ein klarer Fall für den digitalen Tierschutz, aber Hugo bleibt lösungsorientiert: Falls Amazon nicht geht, bietet er auch eine **PlayStation-Guthabenkarte** an oder fährt – ganz uneigennützig – **ins Einkaufszentrum nach Herne**, um die Spende endlich zu retten. 😇  
+
+Man merkt: Hugo ist ein Ehrenmann. Und Horst? Naja, der mag offenbar keine Steam-PINs, dafür aber Pappe mit Code. 🐾  
+
+Jetzt sind wir gespannt, ob Michael Bradley auch mit leicht benagten Gutscheinkarten arbeitet oder sich lieber mit Horst direkt anlegt… Fortsetzung folgt!
+
+> Sehr geehrter Herr Bradley,  
+>   
+> vielen Dank für Ihre Rückmeldung. Ich verstehe, dass 20 Euro etwas knapp bemessen waren – ich wollte nur zeigen, dass ich es ernst meine. Leider hatte meine Tankstelle gestern keine Steam-Karten mehr auf Lager (die waren alle weg wegen Fortnite-Angeboten, meinte der Verkäufer).  
+>   
+> Ich hätte aber noch zwei Amazon-Gutscheine im Wert von je 50 Euro, allerdings sind die etwas angeknabbert – mein Hund Horst hat sie für Leckerli gehalten. Die Codes sind aber größtenteils noch lesbar! Wäre das eventuell auch möglich?  
+>   
+> Ansonsten kann ich Montag versuchen, eine PlayStation-Guthabenkarte zu organisieren – oder, wenn’s unbedingt sein muss, gehe ich nachmittags zum Einkaufszentrum in Herne, da soll’s wohl noch Steam-Karten geben.  
+>   
+> Bitte lassen Sie mich wissen, was für Sie am besten passt. Ich will die Auszahlung der 5 Millionen ja nicht gefährden!  
+>   
+> Mit freundlichen Grüßen  
+> Hugo Scholz  
+> (und Horst 🐾)  
