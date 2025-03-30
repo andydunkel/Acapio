@@ -115,3 +115,59 @@ Und um die Sache offiziell wirken zu lassen, gibt Hugo als Verwendungszweck ganz
 >   
 > Mit freundlichen Grüßen,    
 > Hugo  
+
+
+### **Jetzt wird’s offiziell – Hugo soll nach Madrid**
+
+Hurra! Hugo ist jetzt nicht nur auserwählt, sondern auch offiziell „extrem lucky“, wie Herr Al-Naimi es formuliert. Die knappe Million wird allerdings nicht einfach überwiesen – das wäre ja zu einfach. Stattdessen liegt Hugos *"Payment File"* jetzt im „**European Claims Office**“ in Madrid. Klingt wichtig, existiert aber vermutlich nur in der Fantasie des Betrügers (und vielleicht auf einem USB-Stick neben der Mikrowelle).
+
+Der gute **Dr. Antonio Triguero Sanchez** soll nun die Übergabe organisieren. Natürlich mit eigener **@europe.com**-Adresse, weil echte Finanztransaktionen immer über Gratis-Mailanbieter laufen – Logo! Hugo bekommt sogar eine **PIN (QF-999-2025)**, damit’s schön offiziell wirkt.  
+
+Mal sehen, ob Dr. Antonio demnächst „Bearbeitungsgebühren“, „Steuern“ oder „internationale Transferzertifikate“ verlangt. Hugo ist bereit – vielleicht investiert er die 995.000 Euro ja in einen mobilen Currywurst-Imbiss mit Goldrand. 🥇🌭
+
+> This is to recognize the receipt of the requested data and the endorsement of your reliability in this universal program, I must state that you are extremely lucky to have your email emerged as one of the recipients in this universal donation of (€ 995,000.00 EUROs). The idea of this donation is to maintain standard of living with notable progress among most communities around the world within the next couple of years.  
+>   
+> You have been chosen to receive the donation once only from the Qatar Foundation, this means subsequent annual donations cannot get to you ever again. Please take time and thought in spending the donation funds wisely on an investment that will stand the test of time.  
+>   
+> Hence, your payment file with pin number (QF-999-2025) have been sent to the European Claims office in Madrid, (Spain), and find below the contact details of the disbursing officer in charge of your donation for claims. Please communicate with the remittance officer through the email address at: Mapfreseguroses@europe.com, with the file pin number (QF-999-2025).  
+>   
+> Contact Person: Dr. Antonio Triguero Sanchez  
+> Contact E-mail: mapfreseguroses@europe.com  
+> Contact Telephone: +34 691 558 617 | Fax: +34 912 725 299  
+>   
+> Address: Carretera de Pozuelo nº 52,  
+> 28222 Majadahonda,  
+> Madrid (Spain).  
+>   
+> REMINDER: In contact with Dr. Antonio Triguero Sanchez, you are to identify with your Pin number (QF-999-2025), to ensure accuracy on your payment. I will require a concise update on proceedings as soon as you communicate with the office. Do not hesitate to get back if you need any assistance whatsoever.  
+>   
+> Congratulations to you once again!  
+>   
+> Yours Sincerely,  
+> Mr. Rashid Al-Naimi.  
+
+
+### **Unsere E-Mail an Dr. Antonio Triguero Sanchez – mapfreseguroses@europe.com**
+
+Wie bei den meisten gut abgehangenen Scams üblich, folgt jetzt der Klassiker: Man wird freundlich, aber bestimmt von A nach B geschickt – angeblich zur *zuständigen Stelle*, damit das Ganze irgendwie offiziell und seriös wirkt. 
+
+In unserem Fall heißt die nächste Station „**Dr. Antonio Triguero Sanchez**“ vom *European Claims Office* in Madrid. Klingt nach Marmorboden, Aktenschränken und dicken Siegeln – ist in Wirklichkeit wahrscheinlich nur ein freier E-Mail-Account bei europe.com.
+
+Also schreibt Hugo ganz brav und vertrauensvoll seine erste Nachricht an den *Disbursing Officer*:
+
+> Sehr geehrter Herr Dr. Triguero Sanchez,  
+>   
+> mein Name ist Hugo Scholz, und ich wurde von Herrn Rashid Al-Naimi von der Qatar Foundation an Sie verwiesen.  
+>   
+> Ich freue mich sehr über die großzügige Spende in Höhe von €995.000,00, die mir im Rahmen des Universalprogramms zugesprochen wurde. Wie gewünscht, möchte ich mich bei Ihnen mit der PIN: QF-999-2025 melden, um den weiteren Ablauf der Auszahlung zu besprechen.  
+>   
+> Bitte lassen Sie mich wissen, welche Schritte nun erforderlich sind, damit die Überweisung möglichst schnell erfolgen kann. Ich bin bereit, alle notwendigen Formalitäten zu erfüllen.  
+>   
+> Vielen Dank für Ihre Unterstützung. Ich freue mich auf Ihre Rückmeldung.  
+>   
+> Mit freundlichen Grüßen,  
+> Hugo  
+
+Jetzt heißt es zurücklehnen und abwarten, ob Dr. Antonio vielleicht bald ein **„internationales Überweisungszertifikat“**, **„notarielle Bestätigung“** oder die berüchtigte **Bearbeitungsgebühr in Höhe von 950 Euro in Amazon-Gutscheinen** verlangt. 
+
+Hugo ist bereit – mit Mantaplatte in der einen, Maus in der anderen Hand. 😎
