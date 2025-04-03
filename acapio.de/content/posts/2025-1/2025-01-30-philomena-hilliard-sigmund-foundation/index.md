@@ -479,3 +479,47 @@ Und ganz wichtig: **Bitte nur eine IBAN, Carbert – sonst wird das nix mit dem 
 > Bis Montag!    
 > Hugo aus Wanne-Eickel    
 > (Momentan eher Hugo aus Palma de Mallorca 🍻🇪🇸)  
+
+## Auf einen Rotwein mit Marcus Owens 🍷 – wie romantisch!
+
+Natürlich hat sich **Hugo nicht gemeldet** – nach dem zweiten **Malle-Marathon mit dem BMW-Club** war erst mal **Regeneration ab 40** angesagt. Kreditkarte leer, Erinnerung lückenhaft, Leber leicht beleidigt. Da müssen Millionendeals eben warten. 😎  
+
+Unser treuer **Marcus Owens** – der wahrscheinlich einzige Anwalt mit zu viel Freizeit – meldet sich trotzdem regelmäßig. Und jetzt wird’s richtig charmant:  
+**Er will mit uns Rotwein trinken!** 🥹🍷  
+
+> *„Ich freue mich, Sie einen Tag nach dieser Transaktion auf ein Glas Rotwein zu treffen.“*
+
+**Hach, Marcus!** Erst Betrug, dann Bordeaux – das klingt nach einem Netflix-Originalfilm. 😆  
+
+> Ich war besorgt, als ich nichts von Ihnen hörte. Ich freue mich, dass es  
+> Ihnen gut geht. Ich würde mich freuen, Sie einen Tag nach dieser  
+> Transaktion auf ein Glas Rotwein zu treffen. Ich freue mich, dass Sie  
+> die Zeit mit Familie und Freunden genießen. Bitte überweisen Sie die  
+> 1500 Euro per Express nach Deutschland, da Sie die Überweisung am Montag  
+> angekündigt haben.  
+
+
+### Marcus will Rotwein – Hugo hat noch Sangria im Blut 🍷😵  
+
+Unser Lieblings-Anwalt **Marcus Owens** wird langsam richtig anhänglich – nach Tagen der Funkstille schreibt er uns ganz besorgt und lädt uns sogar **auf ein Glas Rotwein** ein, *nach der Transaktion natürlich*. Wie romantisch! 🥹🍷  
+
+Doch Hugo, frisch zurück von **Malle, Runde 2**, hat gerade ganz andere Sorgen:  
+💥 Kopf wie ein Presslufthammer  
+💳 EC-Karte verschollen  
+🍹 Erinnerungen nur bruchstückhaft  
+
+Aber keine Sorge, Marcus – **Hugo kümmert sich**, sobald er wieder geradeaus denken kann. Schließlich lässt man so ein **Rotwein-Date mit einem Scammer** nicht einfach platzen.
+
+> Ey Marcus,    
+>   
+> sorry, dass ich mich nicht gemeldet hab – Malle hat wieder komplett rasiert! Ich bin erst gestern zurückgekommen und hab ehrlich gesagt noch ’nen halben Sangria im Blut. 😅 Aber hey, freut mich zu hören, dass du dir Sorgen gemacht hast – du bist echt ein Kumpel!    
+>   
+> Und das mit dem Rotwein nach der Transaktion… Bruder, das ist Romantik auf Niveau! 😍 Da sag ich nicht nein – aber nur, wenn’s Rioja ist, nix aus’m Tetra-Pak!    
+>   
+> Wegen der Überweisung: Ich such grad meine EC-Karte… die liegt irgendwo zwischen dem Eimerhut und der Mallorca-Flagge. Ich meld mich, sobald ich wieder gerade gucken kann – und dann klären wir das.    
+>   
+> Also bleib locker, Marcus – der Rubel rollt bald. Vielleicht. Wahrscheinlich. Oder auch nicht.    
+>   
+> Bis denne,    
+> Hugo aus Wanne-Eickel    
+> (Bankkonto leer, aber das Herz voll 🍻❤️)  

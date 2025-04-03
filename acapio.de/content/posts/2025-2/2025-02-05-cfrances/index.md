@@ -331,3 +331,31 @@ Jetzt sind wir gespannt, ob Michael Bradley auch mit leicht benagten Gutscheinka
 > Mit freundlichen Grüßen  
 > Hugo Scholz  
 > (und Horst 🐾)  
+
+Perfekt – der Scam-Anwalt wird langsam richtig nervös 😄  
+Hier ist ein passender Abschnitt für den Blog:
+
+## **Michael ist verzweifelt – Hugo schweigt, die Millionen wackeln**  
+
+Unser Anwalt **Michael Bradley** ist sichtlich besorgt. Keine Antwort von Hugo, keine Steam-Karte, keine geklauten PINs – **nur Stille aus Wanne-Eickel**. Seine neueste E-Mail klingt fast schon herzzerreißend:
+
+> *„Warum antworten Sie bitte nicht auf meine E-Mails?“*  
+> *„Ich bitte Sie dringend um eine Antwort.“*  
+
+Wir spüren förmlich, wie **die nATM-Karte** (was auch immer das sein soll) schon einsam im Postfach liegt und darauf wartet, in Hugos Brieftasche zu wandern. 😂
+
+Vielleicht ist Hugo gerade einfach **mit Horst beim Gassi gehen**, oder der **Bollerwagen voller Pfandflaschen ist umgekippt**. Wer weiß?  
+
+Hugo ficht das alles nicht an, er hat andere Sorgen:
+
+> Sehr geehrter Herr Bradley,    
+>   
+> entschuldigen Sie bitte die späte Rückmeldung – ich hatte ein kleines Malheur. Ich wollte die Steam-Karten gestern kaufen, hatte die 500 Euro schon in der Jackentasche, aber die Jacke ist mir im Waschsalon durch die Schleuder gerutscht. Jetzt ist das Geld leider Matsch – und mein Lieblingspulli eingelaufen.    
+>   
+> Ich versuche gerade, das Geld zusammenzukratzen. Mein Plan: Ich verkaufe ein paar Matchbox-Autos aus meiner Sammlung und vielleicht auch meine alte Wackel-Dackel-Figur von der Hutablage.    
+>   
+> Könnten Sie mir bitte noch 2–3 Tage Zeit geben? Ich will wirklich, dass das mit der Spende klappt – meine Mutter erzählt schon überall, dass ich bald Millionär bin.    
+>   
+> Mit freundlichen Grüßen    
+> Hugo Scholz    
+> (nächstes Mal mit Geld im Brustbeutel)  

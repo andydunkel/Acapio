@@ -119,3 +119,44 @@ Leider gibt es für Hugo kein Happy End! Die E-Mail-Adresse von Tom wurde gesper
 Damit erhalten wir wohl kein Foto mehr von dem Herren und seiner Tochter.
 
 ![](/posts/2025-02-01_tom-crist-lotto/ende.png)
+
+
+## Tom Cris der Wiedergänger!
+
+Wochenlang herrschte Funkstille. Kein Foto, keine Reaktion, kein Lebenszeichen – wir dachten schon, Tom (Crist? Cris? Wer weiß das schon…) hätte sich ins Reich der vergessenen Scam-Versuche verabschiedet.  
+
+**Doch plötzlich, wie aus dem Nichts, war er wieder da!**  
+Nicht mehr unter seiner alten Adresse, nein, jetzt meldet er sich frisch auferstanden als **Tom Cris** – der Schreibfehler wurde befördert zum offiziellen Nachnamen. Vielleicht hat Audrey den Mail-Account neu eingerichtet, vielleicht war es auch einfach ein besonders spiritueller Moment in Seattle.
+
+Der Inhalt seiner Mail? **Fast eins zu eins identisch** mit der ersten Nachricht. Dieselbe tragische Geschichte, dieselbe göttliche Eingebung, dieselbe tiefe Mission, das Geld sinnvoll zu investieren – nur diesmal mit noch mehr Nachdruck und der Bitte, Hugo möge doch endlich seine Daten schicken.
+
+Eines hat sich nicht geändert: **Ein Beweis, ein Foto oder irgendetwas Echtes? Fehlanzeige.**  
+Dafür eine extra Portion Gefühl, Pathos und moralischer Druck: Audrey geht es schlecht, sie möchte noch Gutes tun, bevor sie „diese sündige Welt“ verlässt.
+
+![Die neue Mail, alte Masche](/posts/2025-02-01_tom-crist-lotto/cris_mail.webp)
+
+### Hugo bleibt höflich – aber wachsam  
+
+Wochenlang Funkstille – aber Hugo ist kein nachtragender Mensch. Als echter Wanne-Eickeler weiß er: Nicht jeder hat Zeit, auf jede Mail direkt zu antworten. Vielleicht war Tom Cris ja mit seiner Tochter Audrey auf Pilgerreise oder musste erst noch den 4,8-Millionen-Koffer bei der Sparkasse wechseln lassen.  
+
+Trotzdem: So ein bisschen Skepsis darf sein. Immerhin geht es hier um viel Geld – und noch mehr Pathos. Hugo bleibt freundlich, aber stellt nochmal höflich klar: **Ein kleines Foto wäre schön.** Irgendwas Echtes. Vielleicht mit Audrey, vielleicht auch mit einem Lottoschein, vielleicht auf einem Mofa.  
+
+Denn wie heißt es so schön im Ruhrgebiet:  
+**„Vertrauen ist gut – aber erst mal gucken, ob die Kohle echt is’!“**
+
+> Hallo Herr Cris (oder war’s doch Crist?),    
+>   
+> schön, mal wieder von Ihnen zu hören! Ich hatte mir schon Sorgen gemacht. Wochenlang nix – da dachte ich, Sie hätten sich’s anders überlegt oder vielleicht hätten Sie mich mit jemand anderem verwechselt. Bei 40 Millionen kann man da ja schon mal den Überblick verlieren, ne?    
+>   
+> Ich war ehrlich gesagt ein bisschen enttäuscht. Ich hatte Ihnen ja geschrieben und sogar ganz freundlich um ein Foto gebeten – ein kleines Bildchen, nichts Großes. Einfach, damit ich weiß, mit wem ich’s zu tun habe. Vertrauen ist schließlich keine Einbahnstraße.    
+>   
+> Aber gut – ich bin keiner, der lange nachtragend ist. Vielleicht war Audrey gerade nicht fotogen oder die Kamera hatte Urlaub. Kann ja alles sein.    
+>   
+> Jedenfalls: Wenn das mit der Spende noch aktuell ist, bin ich natürlich weiterhin interessiert. Und wenn Sie diesmal wirklich ernst machen wollen, dann würde ich mich wirklich über ein kleines Zeichen freuen – irgendwas, das zeigt, dass das kein Schmu ist.    
+>   
+> Und falls Sie doch nur Quatsch machen: Sagen Sie’s ruhig. Ich bin nicht böse. Wir sind hier im Ruhrgebiet – wir können mit klaren Ansagen umgehen.    
+>   
+> Mit erwartungsvollen Grüßen    
+> Hugo Krawuttke    
+> BMW-Club Wanne-Eickel e.V.    
+>   
