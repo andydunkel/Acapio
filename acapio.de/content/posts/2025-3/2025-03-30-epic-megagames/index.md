@@ -58,3 +58,22 @@ Jetzt warten wir gespannt, ob Frau Faulkner antwortet. Vielleicht kommt ja demn�
 > BMW-Club Wanne-Eickel    
 > Grillmeister seit 2003  
 
+
+## Die zweite Mail – jetzt wird’s spirituell
+
+Jetzt wird’s ernst: Judith meldet sich erneut – beseelt, entschlossen und offenbar direkt nach einem Gespräch mit dem lieben Gott.  
+**99 % ihres Vermögens will sie spenden**, und Hugo soll 3,5 Millionen davon bekommen – weil, na klar, *Wanne-Eickel braucht Hoffnung*.
+
+Dafür will sie nur ein paar Kleinigkeiten: Name, Adresse, Religion, Einkommen… also quasi alles außer Hugos Blutgruppe.  
+Aber gut, wer Milliarden verschenkt, darf auch mal neugierig sein.  
+
+**Hugo ist bereit.**
+
+![Too long did not read!](/posts/2025-03-30_epic-megagames/mail.webp)
+
+Wir antworten und schicken brav unsere Daten. 
+
+![Too long did not read!](/posts/2025-03-30_epic-megagames/hookers.webp)
+
+**Ob sie antworten?**
+

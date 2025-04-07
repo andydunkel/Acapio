@@ -359,3 +359,40 @@ Hugo ficht das alles nicht an, er hat andere Sorgen:
 > Mit freundlichen Grüßen    
 > Hugo Scholz    
 > (nächstes Mal mit Geld im Brustbeutel)  
+
+Wunderbar! Jetzt setzt unser „Anwalt“ alles auf eine Karte – wortwörtlich. Hier kommt der passende Blog-Absatz:
+
+## Druck aus London: „Hugo, sonst kriegt jemand anders die Millionen!“ 💸🎭  
+
+Jetzt wird richtig emotional. Michael Bradley ist **enttäuscht** – Hugo hat ihn offenbar mit zu vielen Ausreden strapaziert. Und jetzt kommt der Druckhammer:
+
+> *„Die Spendensumme, die auf Ihren Antrag wartet, ist nicht mehr lange verfügbar.“*  
+> *„Es gibt andere Begünstigte, die nur darauf warten, dass Sie versagen.“* 😱  
+
+Die Geschichte erinnert langsam an einen schlechten Teleshopping-Spot: „**Nur noch heute! Nur noch 1 Spende verfügbar! Greifen Sie jetzt zu!**“ 🤡
+
+Michael appelliert an Hugos Vernunft – und daran, wie *selten* solche Chancen sind. Klar, Millionen gegen eine Steam-Karte? **Kommt ständig vor**, vor allem bei Anwälten mit Outlook-Adresse.
+
+> Sehr geehrter Herr Hugo,
+> 
+> Es ist sehr bedauerlich, dass Sie immer wieder auf zufällige und komplizierte Probleme stoßen, die Sie vom Kauf der Karten abhalten. Ich möchte Sie darauf hinweisen, dass die Spendensumme, die auf Ihren Antrag wartet, nicht mehr lange verfügbar ist. Die Connolly's Foundation hat eine Reihe von Begünstigten auf ihrer Liste, die auf diese Spende warten, falls Sie die Voraussetzungen nicht erfüllen und die Gebühr nicht bezahlen.  
+
+
+### Hugo wird nervös – der Druck steigt, die Steam-Karten sind knapp! 😬🎮  
+
+Der Ton wird schärfer, die Uhr tickt – unser Anwalt **Michael Bradley** macht jetzt richtig Druck. Die **5 Millionen Euro Spende** ist plötzlich nicht mehr sicher, andere „Begünstigte“ lauern angeblich schon auf Hugos Platz. Klarer Fall: Das ist jetzt wie bei einem **RTL-Gewinnspiel mit Countdown**.  
+
+Aber Hugo lässt sich nicht einschüchtern – er wird aktiv! Extra aus Wanne-Eickel **ins Einkaufszentrum nach Bottrop gefahren**, Steam-Karten gejagt, **vier Stück hat er ergattert**. Leider hat’s fürs komplette Set nicht gereicht – der letzte Fünfer fehlt noch, aber **Norbert** könnte aushelfen.  
+
+> Sehr geehrter Herr Bradley,    
+>   
+> vielen Dank für Ihre Nachricht – und Ihre Geduld. Ich wusste gar nicht, dass die Spende auf der Kippe steht! Jetzt bin ich natürlich richtig nervös.    
+>   
+> Ich bin heute extra nach Bottrop ins große Einkaufszentrum gefahren, aber die hatten nur noch Steam-Karten für je 25 Euro. Ich hab mir jetzt vier Stück gesichert, aber ich war leider ein paar Cent zu knapp für die fünfte. Ich frag morgen meinen Kumpel Norbert, ob er mir noch ’nen Fünfer leihen kann.    
+>   
+> Könnten Sie mir bitte zusagen, dass die Spende wirklich für mich reserviert bleibt? Ich hab meinem Onkel schon gesagt, dass er sich auf ein neues Wohnmobil freuen kann…    
+>   
+> Ich melde mich morgen mit einem Update – vielleicht klappt’s ja doch noch!    
+>   
+> Mit hoffnungsvollen Grüßen    
+> Hugo     
