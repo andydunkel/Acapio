@@ -90,7 +90,88 @@ Gute Frage, Alice. Vielleicht erstmal mit Rechtschreibung anfangen, dann über W
 
 Natürlich bittet sie Hugo ganz sanft, doch bitte sofort an die Bank zu schreiben – und **ihr parallel auch nochmal zu mailen, sobald er das getan hat**. Wahrscheinlich, damit sie im Hintergrund schnell ihre nächste Rolle vorbereitet – als „Bankmitarbeiter“, „Notar“, „Rechtsanwalt Dr. Bongo aus Zürich“ oder was auch immer gerade im Spam-Drehbuch steht.
 
-
 ![Lange E-Mail](/posts/2025-03-21_alice-walton/mail.webp)
 
 Nagut, dann schreiben wir mal der Bank mit ein paar Fake-Daten und warten ab! 🫠
+
+## Die Bank meldet sich – mit Konto, Gebühren und Premium-Käse
+
+Jetzt wird’s offiziell: Die **Nationwide Bank** hat sich gemeldet. Und sie ist voller Tatendrang – natürlich nur, wenn Hugo vorher ordentlich **Eintrittsgeld** bezahlt.
+
+Denn bevor die Millionen fließen, soll Hugo erstmal **ein Konto eröffnen**. Klar – was sind schon 1.000 bis 2.500 €, wenn man danach über Nacht Millionär wird, oder?
+
+Zur Auswahl stehen vier wunderschön erfundene Kontomodelle:
+
+- 🐌 **Sparkonto** – 1.000 €  
+- 🐢 **Girokonto** – 1.400 €  
+- 🏎️ **Premiumkonto** – 2.500 €  
+- 🧙 **Direktüberweisung auf dein Konto** – nur 1.300 € (Sonderangebot?)
+
+Natürlich kann Hugo ganz bequem **per Banküberweisung oder Bitcoin** zahlen – weil, wie wir alle wissen, **seriöse Banken** IMMER gerne Bitcoin annehmen 🙃
+
+Und dann noch dieser herrliche Satz:
+
+> *„Die Kontoeröffnungsgebühr geht nicht verloren.“*  
+>  
+> Das klingt so… tröstlich. Fast schon wie: *„Das Geld ist nicht weg, es hat jetzt nur jemand anders.“*
+
+Aber damit’s richtig professionell wirkt, gibt’s natürlich auch noch:
+
+- Die Pflicht zur **Ausweiskopie** (damit später vielleicht noch Identitätsdiebstahl möglich ist)  
+- Einen freundlichen Hinweis, dass das Geld **nicht von der Spende abgezogen** werden kann, weil… *„versichert durch eine renommierte Versicherungsgesellschaft in den Vereinigten Staaten“* – natürlich. Mit Glitzer.
+
+> Grüße von der Bank.  
+>    
+> Sie müssen ein Auslandsüberweisungskonto eröffnen, um Ihre Leistungen in Bargeld umzuwandeln. Ich werde Ihnen Ihre neue Kontonummer und Kontonummern mitteilen, damit Sie auf Ihr Konto zugreifen und es übertragen können. Bitte beachten Sie, dass Ihr neues Konto bei unserer Bank hier in den USA als Offshore-Transitbankkonto fungiert und Sie weltweit online auf Ihr Konto zugreifen können. Wenn Sie als Nichtansässiger ein Konto eröffnen möchten, erwartet die State Bank von Ihnen, dass Sie die gewünschte Kontoart aus der unten stehenden Liste der Optionen für Nichtansässige auswählen und die Kontoeröffnungsgebühr bezahlen. Wir werden Ihr Konto so schnell wie möglich eröffnen. Stellen Sie sicher, dass Sie die folgenden Schritte abgeschlossen haben:  
+>    
+> Schritt 1: Wählen Sie die gewünschte Kontoart aus und zahlen Sie Geld auf das Konto ein.  
+>    
+> Zahlungsart für die Kontoeröffnung  
+>    
+> 1. Sparkonto ............1000,00 EUR
+> 2. Girokonto .................... 1400,00 EUR
+> 3. Premiumkonto ................ 2500,00 EUR 
+> 4. Direktüberweisung auf Ihr Konto ............ 1300 EUR
+>    
+> 1. Sparkonto: Ermöglicht Ihnen einfache Überweisungen, ohne dass Ihr Kontostand innerhalb von 3 Werktagen belastet wird. Sie erhalten eine Debitkarte und Online-Zugang zu Ihrem Konto, sodass Sie auch Online-Banking nutzen können.  
+> 2. Girokonto: Ermöglicht Ihnen ebenfalls einfache Überweisungen. Die Überweisung wird Ihrem Konto erst nach 24 Stunden gutgeschrieben. Sie erhalten eine Debitkarte und können online auf Ihr Konto zugreifen und Online-Banking nutzen.  
+> 3. Premiumkonto: Ermöglicht sofortige Überweisungen und Abhebungen. Am schnellsten und sichersten ist es, sich eine Debitkarte zusenden zu lassen und online auf Ihr Konto zuzugreifen, das Sie auch über Online-Banking nutzen können.   
+> 4. Die Überweisung erfolgt direkt auf Ihr Konto.  
+>    
+> Hinweis: Nachdem Sie eine Option für den Erhalt Ihrer Spende in Höhe von 3.800.000,00 EUR ausgewählt haben, wählen Sie bitte eine der folgenden Zahlungsmethoden aus:  
+>    
+> Banküberweisung  
+> Bitcoin-Einzahlung  
+>    
+> Die Kontoeröffnungsgebühr geht nicht verloren und wird auch nicht von der Bank eingezogen. Sie dient als erste Einzahlung zur Aufrechterhaltung Ihres Kontos für Bankdienstleistungen. {Scheckeinlösung und internationale Banküberweisung} Rückerstattungen sind nur möglich, wenn der Kunde das Konto schließt und eine vollständige Rückerstattung erhält.  
+>    
+> Schritt 2: Fügen Sie Ihre Unterlagen als E-Mail-Anhang bei. A] Ein Originaldokument zur Bestätigung Ihrer Identität, z. B. ein aktuell unterschriebener Reisepass oder Führerschein mit Lichtbild.  
+>    
+> Hinweis: Die Kontoeröffnungsgebühr/das Kontoguthaben kann nicht von Ihrer Spende abgezogen werden, da diese in Ihrem Namen durch eine renommierte Versicherungsgesellschaft in den Vereinigten Staaten von Amerika voll versichert ist. Dies ist eine Sicherheitsmaßnahme der Einleger des Fonds, um sicherzustellen, dass wir den vollen Betrag auf Ihr angegebenes Spendenkonto überweisen. Andernfalls drohen unserer Bank erhebliche rechtliche Konsequenzen. Ihre dringende Antwort bestimmt, wie schnell Ihre Überweisung bearbeitet wird. Sie erhalten mir außerdem eine E-Mail mit weiteren Informationen zu Ihrer Überweisung und der von Ihnen gewählten Kontoeröffnungsoption. Mit freundlichen Grüßen  
+>    
+> Nationwide Bank Zurück  
+> Kundenservice  
+> Die Nationwide Financial Services Group  
+
+### Das windige Zertifikat
+
+Damit wir auch gleich vertrauensseliger sind, gibt es noch ein hochwertiges PDF-Zertifikat mit dazu. Powered by Alice Walton!
+
+![Alles echt!](/posts/2025-03-21_alice-walton/certificate.webp)
+
+## Hugo bleibt bescheiden – Sparkonto muss reichen
+
+Der Premiumluxus mag verlockend sein, aber Hugo bleibt realistisch. Denn wer weiß besser als ein Mann aus Wanne-Eickel: Auch mit einem Sparkonto kann man glücklich werden. Und so schrieb er ganz pragmatisch zurück:
+
+> „Leider hab ich im Moment nicht so viel Geld auf der hohen Kante – das Premiumkonto ist für mich nicht drin. Ich nehm deshalb das Sparkonto für 1.000 €, das passt besser zu meinem Budget.“  
+>  
+> „Wenn’s möglich ist, würd ich den Betrag gerne in zwei Raten zahlen – 500 jetzt, 500 später. Geht das?“    
+
+Ein Mann mit Prinzipien. Statt in Bitcoin zu zahlen oder gleich das Premiumkonto zu buchen, bleibt Hugo bodenständig – und hofft, dass auch die **Nationwide Bank Zurück** sowas wie Menschlichkeit kennt.
+
+Wir sind gespannt, ob die Bank auf Hugos Ratenzahlung eingeht.
+
+![Alles echt!](/posts/2025-03-21_alice-walton/ausweis.webp)
+
+
+

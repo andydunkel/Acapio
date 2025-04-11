@@ -17,7 +17,6 @@ summary: "„Eine Milliardärin will mir Millionen spenden – was soll da schon
 Neulich im Posteingang, zwischen der Rechnung vom Stromversorger und dem neuesten Sonderangebot für Autopolitur, ploppte plötzlich eine ganz besondere E-Mail auf:
 Dr. Judith R. Faulkner persönlich – Gründerin, CEO und offenbar auch Weihnachtsmann in einem – wollte mir 3,5 Millionen Euro schenken. Einfach so. Fürs gute Karma.
 
-
 ## Die E-Mail von judithfaulkner@cashdonation.org
 
 Manchmal bekommt man Mails, bei denen man sich fragt: **„Ist das Spam, ein schlechter Witz oder habe ich gerade im Lotto gewonnen – ohne zu spielen?“**  
@@ -77,3 +76,39 @@ Wir antworten und schicken brav unsere Daten.
 
 **Ob sie antworten?**
 
+## Jetzt wird’s offiziell – und ein bisschen biblisch
+
+Nachdem Hugo sich als spendefreudiger BMW-Fan aus Wanne-Eickel geoutet hat, geht Judith voll in die Offensive:  
+Jetzt kommt **die Community Foundation Bank ins Spiel** – mit einer E-Mail-Adresse von `@accountant.com`, was ja direkt nach Wall Street klingt. Hugo ist übrigens der **30. Empfänger der Spende**, was den Druck natürlich erhöht: *„Mach hinne, damit Nummer 31 auch was kriegt!“*
+
+Zusätzlich wird die Geschichte noch etwas mit dem Heiligenschein bestäubt:  
+Judith betet für Hugo, ihr Herz sei voller Freude, und sogar der geheimnisvolle Herr **Richardson Parker** habe schon seine Millionen erhalten – trotz anfänglicher Skepsis!  
+**Klassisches Storytelling**, wie aus dem großen Internet-Betrüger-Handbuch: Vertrauen schaffen, emotional binden, Dringlichkeit erzeugen.
+
+Ach ja – ganz wichtig: Hugo soll jetzt bitte die **Einzahlungsnummer** mitschicken. BAYIV / AHY5353 / 373462 / ESPANA / – klingt irgendwie wie IBAN im Würfelbecher.
+
+![Übergabe an die Bank!](/posts/2025-03-30_epic-megagames/mail1.webp)
+
+### Wir schreiben dem Kundenbetreuer - communityfoundationbank01@accountant.com
+
+Jetzt wird’s ernst: Hugo meldet sich bei der sogenannten **Community Foundation Bank**, wie es sich gehört – freundlich, vorbereitet und voller Vorfreude.  
+
+Er schickt brav die Einzahlungsnummer, seine (natürlich "echte") Adresse und lässt durchblicken, dass **Uschi schon im ALDI-Katalog nach Whirlpools blättert.** Schließlich muss man vorbereitet sein, wenn man plötzlich Millionär wird.
+
+> Sehr geehrter Herr Kontomanager,  
+>   
+> mein Name ist Hugo Scholz aus Wanne-Eickel. Ich wurde von Frau Dr. Judith R. Faulkner informiert, dass ich zu den glücklichen Empfängern ihrer großzügigen Spende gehöre (3.500.000 € – ich kann’s immer noch kaum glauben!). Sie hat mir Ihre Kontaktdaten weitergeleitet und mich gebeten, mich direkt bei Ihnen zu melden.  
+>   
+> Hier die benötigten Informationen zur Bearbeitung der Auszahlung:  
+>   
+> Einzahlungsnummer: BAYIV / AHY5353 / 373462 / ESPANA /    
+> Vollständiger Name: Hugo Scholz    
+> Postanschrift: Am Stadion 12, 44649 Herne    
+>   
+> Ich freue mich schon riesig auf die Auszahlung – meine Frau Uschi hat schon angefangen, im ALDI-Katalog nach Whirlpools zu suchen.    
+> Bitte teilen Sie mir mit, welche Schritte ich als Nächstes machen muss, damit die 3,5 Millionen sicher auf meinem Konto landen. Ich bin bereit und voller Vorfreude.  
+>   
+> Mit erwartungsvollen Grüßen    
+> Hugo     
+> BMW-Club Wanne-Eickel    
+> Grillmeister seit 2003

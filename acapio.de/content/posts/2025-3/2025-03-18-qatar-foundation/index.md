@@ -171,3 +171,72 @@ Also schreibt Hugo ganz brav und vertrauensvoll seine erste Nachricht an den *Di
 Jetzt heißt es zurücklehnen und abwarten, ob Dr. Antonio vielleicht bald ein **„internationales Überweisungszertifikat“**, **„notarielle Bestätigung“** oder die berüchtigte **Bearbeitungsgebühr in Höhe von 950 Euro in Amazon-Gutscheinen** verlangt. 
 
 Hugo ist bereit – mit Mantaplatte in der einen, Maus in der anderen Hand. 😎
+
+## Antonio Triguero Sanchez schreibt uns - mapfreseguroses@europe.com
+
+Die Antwort von Dr. Antonio kommt schnell und freundlich – schließlich wittert man leichte Beute. Natürlich ist alles hochseriös: Man arbeite mit internationalen Organisationen zusammen, will die Lebensqualität weltweit steigern und wirtschaftliche Stabilität fördern. Blöd nur, dass die Absenderadresse immer noch *@europe.com* ist und das "Zahlungsfreigabeformular" vermutlich mit Paint zusammengeschustert wurde.
+
+Hugo darf nun wählen:  
+🔘 **Banküberweisung** oder  
+🔘 **Zertifizierter Scheck per Kurierdienst**  
+
+Klingt edel, doch am Ende geht’s nur darum, Hugo möglichst elegant zur nächsten Falle zu lotsen – vermutlich in Form einer Bearbeitungsgebühr, Zollkosten oder einem „internationalen Sicherheitszertifikat“, das man bequem vorab bezahlen darf.
+
+Im Anhang wartet ein Formular auf Hugo. 😏
+
+> Sehr geehrter Herr Scholz,  
+>   
+> Willkommen bei Mapfre Seguros EU Claims Services. Wir sind eine etablierte Nichtregierungsorganisation, die stolz mit der Qatar Foundation und verschiedenen internationalen Organisationen zusammenarbeitet. Unsere Mission ist es, sicherzustellen, dass Spenden sicher und garantiert an berechtigt Empfänger weltweit übermittelt werden. Unser übergeordnetes Ziel ist es, die Lebensqualität der Menschen weltweit zu verbessern, wirtschaftliche Stabilität zu fördern und zur Entwicklung über Kontinente hinweg beizutragen.  
+> Wir freuen uns, Ihnen mitzuteilen, dass der Verifizierungsprozess für Ihre Spendenzuteilung „QF-999-2025“ in Kürze eingeleitet wird. Unser engagiertes Team wird Ihnen die erforderlichen Details zur Verfügung stellen, um den Erhalt Ihrer großzügigen Spende in Höhe von €995.000,00 zu erleichtern.  
+> Bitte finden Sie unten die zwei verfügbaren Optionen für die Auszahlung Ihrer Spende:  
+>   
+> - Bank-zu-Bank-Überweisung  
+> - Zertifizierter Bankscheck, der per Kurierdienst zugestellt wird  
+>   
+> Um die Bearbeitung und Freigabe Ihrer Zahlung zu beschleunigen, finden Sie im Anhang das Formular zur Zahlungsfreigabe. Bitte füllen Sie die erforderlichen Informationen aus und senden Sie das ausgefüllte Formular per E-Mail an mapfreseguroses@europe.com zurück. Dies wird den Bearbeitungsprozess erleichtern und Ihre Auszahlung beschleunigen.  
+> Wir danken Ihnen für Ihre Geduld während dieses Prozesses und freuen uns auf Ihre baldige Rückmeldung.  
+> Sollten Sie Fragen haben oder weitere Unterstützung benötigen, zögern Sie bitte nicht, uns zu kontaktieren. Ihre Zufriedenheit und Ihr Vertrauen sind für uns von höchster Bedeutung.  
+>   
+> Mit freundlichen Grüßen,  
+
+### Das Foto
+
+Um den Eindruck maximaler Seriosität zu erwecken, haben sich die Betrüger nicht lumpen lassen – ein schickes Porträt des angeblichen Dr. Antonio Triguero Sanchez ziert die E-Mail. Wie so oft bei solchen Maschen stammt das Foto von einer **realen Person**, die von ihrer neuen Karriere als Scammer-„Zahlungsoffizier“ garantiert nichts weiß. Eine kurze Google-Bildersuche führt direkt zum [eigentlichen Ursprung](https://www.upo.es/diario/institucional/2015/03/juan-pablo-olmo-impartira-dos-sesiones-del-master-universitario-en-finanzas-y-banca-de-la-upo/): Ein Finanzdozent der Universität Pablo de Olavide in Spanien – mit Spendenabwicklung für Fake-Stiftungen hat er vermutlich eher wenig am Hut.  
+
+![Ein echtes Foto geklaut im Netz](/posts/2025-03-18_qatar-foundation/foto.webp)
+
+
+### Das Formular
+
+Im Anhang der E-Mail wartet – wie zu erwarten – ein herrlich unprofessionelles PDF, liebevoll gebastelt in **Microsoft Word 2007**. Wahrscheinlich schon seit Jahren im Umlauf, vermutlich mit mehr Rechtschreibfehlern als ein WhatsApp-Chat zwischen Teenagern. Das Ganze soll den Eindruck erwecken, man sei bei einer hochoffiziellen Geldübertragung auf UN-Niveau – in Wahrheit ist es einfach nur ein schlecht designter Datenabgriff.
+
+Das Formular fragt wirklich alles ab, was das Scam-Herz begehrt:  
+📝 Name, Adresse, Telefonnummer, Beruf, Geburtsdatum  
+🏦 Bankverbindung inklusive Kontonummer und SWIFT-Code  
+👨‍👩‍👧‍👦 Sogar eine *„Next of Kin“-Angabe* – falls Hugo bei der Millionenüberweisung spontan vom Glauben abfällt?  
+
+Krönung des Ganzen ist eine herrlich sinnfreie „Deklaration“ am Ende, in der Hugo bestätigen soll, dass niemand anders jemals für ihn Geld beansprucht hat – und MAPFRE SEGUROS EU ihn offiziell vertreten darf. Mit rotem *„CONFIDENTIAL & APPROVED*“-Stempel versteht sich – damit’s so richtig wichtig aussieht.
+
+![Das Formular im Anhang](/posts/2025-03-18_qatar-foundation/formular.webp)
+
+Seriös ist hier nur eins: der Versuch, so viele persönliche Daten wie möglich abzugreifen. 😎
+
+
+## Wir haben keine Lust auf das Formular
+
+Das Formular ist nicht nur unnötig lang, sondern fragt auch jede Menge Daten ab, die ein Scammerherz höherschlagen lassen – von der kompletten Bankverbindung bis zur Kontaktperson im Todesfall. **Darauf haben wir ehrlich gesagt keinen Bock.**  
+
+Statt unsere Zeit mit dem Ausfüllen eines Word-Dokuments von 2007 zu verschwenden, machen wir das, was Hugo am besten kann: *Einfach mal dumm stellen.* Natürlich höflich und mit einer ordentlichen Portion Alltagschaos – zum Beispiel dem Klassiker: „Ich hab nur mein Handy.“
+
+**Hugos Antwort:**  
+
+> Sehr geehrter Herr Dr. Sanchez,  
+>   
+> vielen Dank für die Unterlagen. Leider bin ich aktuell nur mit meinem Smartphone unterwegs und kann das Formular darauf nicht öffnen oder ausfüllen. Ich bin ehrlich gesagt technisch nicht so fit, was sowas angeht. Gibt es vielleicht eine Möglichkeit, die Daten direkt per E-Mail zu übermitteln?  
+>   
+> Alternativ könnte ich versuchen, das Formular auszudrucken, aber mein Drucker zu Hause funktioniert seit Wochen nicht mehr – und mein Neffe, der mir sonst bei sowas hilft, ist gerade im Urlaub.  
+>   
+> Ich hoffe, das ist kein Problem. Ich freue mich auf Ihre Rückmeldung!  
+>   
+> Mit freundlichen Grüßen  
+> Hugo
