@@ -22,9 +22,8 @@ Die erste Nachricht ist auffällig kurz, fast schon mysteriös – gerade genug,
 
 > Am 30.03.2025 um 07:14 schrieb Guillaume Pousaz:  
 >   
->     I have a deal for you  
->   
->     Ich habe einen Deal für Sie  
+> I have a deal for you    
+> Ich habe einen Deal für Sie  
 
 ### Wir antworten
 
