@@ -240,3 +240,37 @@ Statt unsere Zeit mit dem Ausfüllen eines Word-Dokuments von 2007 zu verschwend
 >   
 > Mit freundlichen Grüßen  
 > Hugo
+
+
+## Ohne Formular keine Million – Bürokratie muss sein
+
+Wie bei jeder guten Behörde heißt es auch bei den Scammern: **„Formularpflicht!“** Dr. Antonio zeigt sich zwar verständnisvoll – aber letztlich kompromisslos. Kein Word-Dokument, keine 995.000 Euro. Also soll Hugo jetzt extra in den Copyshop dackeln, das Dokument ausdrucken, ausfüllen, einscannen oder fotografieren und dann zurückmailen.  
+
+> Sehr geehrter Herr Scholz,  
+>   
+> vielen Dank für Ihre Nachricht. Ich verstehe Ihre Situation und die momentanen Umstände vollkommen.  
+>   
+> Für Verifizierungs- und Bearbeitungszwecke ist es jedoch wichtig, dass das Formular ausgefüllt und in seinem Originalformat an uns zurückgesendet wird. Ich möchte Ihnen daher empfehlen, ein Copyshop, ein öffentliches Zentrum oder eine Bibliothek in Ihrer Nähe aufzusuchen, wo Sie das Formular ausdrucken, handschriftlich ausfüllen und anschließend entweder einscannen oder ein gut lesbares Foto davon machen können, um es uns per E-Mail zurückzusenden.  
+>   
+> Vielen Dank für Ihre Kooperation. Bei Fragen oder wenn Sie weitere Unterstützung benötigen, stehen wir Ihnen selbstverständlich gerne zur Verfügung.  
+>   
+> Wir freuen uns auf den Erhalt des ausgefüllten Formulars.  
+>   
+> Mit freundlichen Grüßen  
+
+### Uns sind die Hände gebunden!
+
+Copyshop, Bibliothek, Scanner, E-Mail – klingt mehr nach *Steuererklärung mit Windows XP*, als nach einer simplen Spendenabwicklung. Hugo soll also für ein nicht existierendes Geschenk erstmal auf Schatzsuche nach Büromaterial gehen. Fehlt nur noch die Bitte, das Formular zusätzlich in dreifacher Ausfertigung auf Pergamentpapier einzureichen – mit Wachssiegel vom Bürgermeister von Wanne-Eickel. 🕵️‍♂️📜
+
+> Sehr geehrter Herr Dr. Sanchez,  
+>   
+> vielen Dank für Ihre Rückmeldung. Ich verstehe, dass das Formular wichtig ist – aber ehrlich gesagt bin ich damit gerade überfordert. Ich habe weder einen Drucker noch einen Scanner, und in meiner Nähe gibt's auch keinen Copyshop mehr.  
+>   
+> Die Bibliothek hier hat Montags zu und mein Knie macht auch nicht mehr mit, um da hinzulaufen. Ich wollte eigentlich heute noch Winterreifen wechseln – wird langsam Zeit.  
+>   
+> Wäre es nicht möglich, dass ich Ihnen die nötigen Daten einfach direkt per E-Mail schreibe? Ich kann die Sachen auch nummerieren, damit es übersichtlich ist. Ich will das wirklich nicht versäumen – das Geld würde mir sehr helfen.  
+>   
+> Ich hoffe, Sie haben Verständnis.  
+>   
+> Mit freundlichen Grüßen  
+> Hugo 

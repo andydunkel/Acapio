@@ -112,3 +112,75 @@ Er schickt brav die Einzahlungsnummer, seine (natürlich "echte") Adresse und l�
 > Hugo     
 > BMW-Club Wanne-Eickel    
 > Grillmeister seit 2003
+
+
+## Die Bank meldet sich – und will erstmal… na? Richtig: Geld!
+
+Jetzt wird klar, worum es bei dieser ganzen göttlich gesegneten Freundschaft mit Judith wirklich geht:  
+**495 € bis 736 € „Kontoeröffnungsgebühr“**, je nachdem, ob man’s lieber langsam, normal oder *Premium Deluxe* mag.  
+Sparsam wie er ist, überlegt Hugo natürlich, ob das Sparkonto reicht – aber die Aussicht auf „**sofortige Gutschrift**“ beim Premiumkonto klingt einfach zu verlockend. Man will ja nicht, dass das Geld zu lange auf dem virtuellen Parkplatz steht.
+
+Natürlich wird betont, dass das alles „**voll versichert**“ ist und die Gebühr „**nicht verloren geht**“ – außer natürlich in den Taschen der Betrüger.  
+**Der Clou:** Die Spende ist angeblich so sicher, dass sie nicht mal für die Kontoeröffnung benutzt werden darf.  
+**"Aus rechtlichen Gründen", versteht sich.** Na klar.
+
+Ach, und einen Ausweis wollen sie jetzt auch.  
+Weil ja jeder seriöse Philanthrop von seinen Spendenempfängern erstmal den Führerschein haben möchte.
+
+> Herzliche Grüße von der Community Foundation Bank  
+>   
+> Um Ihre Leistungen in Bargeld umwandeln zu können, müssen Sie bei uns ein Transitkonto für Nichtansässige eröffnen. Ich teile Ihnen Ihre neue Kontonummer und Ihre PINs mit, damit Sie auf Ihr Geld zugreifen und es überweisen können. Bitte beachten Sie, dass Ihr neues Konto bei unserer Bank als Offshore-Transitkonto in den USA fungiert und Sie von überall auf der Welt online auf Ihr Konto zugreifen können. Um ein Konto für Nichtansässige bei uns zu eröffnen, erwartet die Community Foundation Bank von Ihnen, dass Sie aus unserer Liste der unten aufgeführten Kontooptionen für Nichtansässige die gewünschte Kontoart auswählen und die Kontoeröffnungsgebühr entrichten. Damit wir Ihr Konto schnellstmöglich eröffnen können, stellen Sie sicher, dass Sie alle folgenden Schritte abgeschlossen haben:  
+>   
+> Schritt 1: Wählen Sie die gewünschte Kontoart aus und zahlen Sie den ersten Kontostand ein.  
+>   
+> KONTOART  
+> 1. Sparkonto ................... 495 €  
+> 2. Girokonto ................... 589 €  
+> 3. Premiumkonto ................... 736 €  
+>   
+> 1. Das Sparkonto ermöglicht einfache Überweisungen, wirkt sich aber erst nach 3 Werktagen auf den Kontostand aus.  
+>   
+> 2. Das Girokonto ermöglicht ebenfalls einfache Überweisungen, die jedoch erst nach 24 Stunden auf Ihrem Konto wirksam werden.  
+>   
+> 3. Das Premiumkonto ermöglicht sofortige Überweisungen und sofortige Gutschrift des Guthabens auf Ihrem Konto. Es ist das schnellste und sicherste Konto.  
+>   
+> Die Kontoeröffnungsgebühr geht nicht verloren und wird nicht von der Bank eingezogen. Sie dient zur Eröffnung/Aktivierung Ihres Kontos als erste Einzahlung zur Aufrechterhaltung Ihres Kontos für Bankdienstleistungen (Scheckeinlösung und Auslandsüberweisungen). Sie kann nur bei Kontoauflösung abgehoben werden und ist vollständig erstattungsfähig.  
+>   
+> Schritt 2: Fügen Sie Ihre unten stehenden Unterlagen als E-Mail-Anhang bei. a) Ein Originaldokument zur Bestätigung Ihrer Identität, z. B. ein aktueller unterschriebener Reisepass oder Führerschein mit Lichtbildausweis.  
+>   
+> Hinweis: Die Kontoeröffnungsgebühr/Ersteinzahlung kann nicht von Ihrem Spendenscheck abgezogen werden, da dieser in Ihrem Namen bei einer renommierten Versicherungsgesellschaft in den USA voll versichert ist. Dies ist eine Sicherheitsmaßnahme der Einleger des Fonds, um sicherzustellen, dass wir das Geld vollständig auf Ihr angegebenes Girokonto überweisen. Andernfalls drohen uns schwerwiegende rechtliche Konsequenzen. Ihre dringende Antwort bestimmt, wie schnell Ihre Überweisung beginnt. Sie erhalten außerdem eine E-Mail mit weiteren Informationen zu Ihrer Überweisung und der gewählten Kontoeröffnungsoption. Mit freundlichen Grüßen  
+>   
+> Community Foundation Bank,  
+>   
+> Kundenservice  
+> Überweisungsabteilung,  
+> Herr Joseph Townsend  
+
+### Hugo fragt nach – Vertrauen ist gut, aber Uschi passt auf
+
+So langsam wird es ernst: Die Millionen sind zum Greifen nah, aber Hugo bleibt wachsam – **schließlich ist nicht jeder Tag Zahltag in Wanne-Eickel.**  
+Und weil man heutzutage im Internet ja alles versprechen kann, bittet Hugo den ehrenwerten Herrn Townsend höflich um etwas ganz Banales: **eine Webseite.**
+
+Nicht viel verlangt, sollte man meinen – immerhin handelt es sich ja um eine internationale „Community Foundation Bank“ mit Überweisungsabteilung und allem Zipp und Zapp.  
+Doch Hugo weiß: **Wer 3,5 Millionen überweist, darf auch mal fragen, ob’s ein Impressum gibt.**  
+Ganz besonders, wenn Uschi im Hintergrund schon skeptisch die Stirn runzelt und murmelt: *„Dat riecht wie der Heizlüfter vom Heinz – verschmort und faul.“*
+
+Also will Hugo erstmal die Internetseite sehen, bevor er sich für ein Sparkonto, Girokonto oder Premium-Luxus-Megagoldkonto entscheidet.
+
+
+> Sehr geehrter Herr Townsend,  
+>   
+> vielen Dank für Ihre schnelle Rückmeldung und die ausführliche Erklärung zu den verschiedenen Kontoarten. Ich bin ehrlich gesagt ziemlich aufgeregt, dass es jetzt bald soweit ist – 3,5 Millionen Euro, das glaubt einem ja keiner!  
+>   
+> Allerdings möchte ich vor der Überweisung der Kontoeröffnungsgebühr auf Nummer sicher gehen. Sie wissen ja selbst: Es gibt heutzutage so viele Betrügereien im Internet, und man kann nie vorsichtig genug sein.    
+> Daher wäre ich Ihnen sehr dankbar, wenn Sie mir bitte noch die offizielle Webseite der Community Foundation Bank schicken könnten – damit ich mich dort nochmal genau informieren kann.  
+>   
+> Ich bin mir sicher, dass bei einer seriösen Bank wie Ihrer natürlich alles seine Richtigkeit hat, aber meine Frau Uschi sagt immer: *„Vertrau is jut, Kontrolle is besser!“*    
+> Ich hoffe, Sie verstehen das.  
+>   
+> Sobald ich die Webseite gesehen habe, treffe ich eine Entscheidung bezüglich der Kontoart – ich tendiere aktuell zum Premiumkonto, weil das einfach am professionellsten klingt.  
+>   
+> Mit freundlichen Grüßen    
+> Hugo    
+> BMW-Club Wanne-Eickel    
+> Grillmeister seit 2003  
