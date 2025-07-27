@@ -57,3 +57,7 @@ Das lassen wir uns nicht entgehen und schreiben pflichtbewusst zurück!
 > Mit spendierfreudigen Grüßen  
 > **Hugo aus Wanne-Eickel**  
 > Botschafter für Gehirnkäfigbewusstsein und Bratwurstgerechtigkeit e.V. 🌭🇩🇪  
+
+## Fazit
+
+Leider war unsere E-Mail wohl zu nassforsch! Wir haben keine Antwort erhalten. 😁
