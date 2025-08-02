@@ -85,4 +85,34 @@ Natürlich lässt sich Hugo diese Chance nicht entgehen. Schließlich hat er **a
 > Mit freundlichen Grüßen  
 > Hugo  
 
-Jetzt heißt es erstmal abwarten!
+
+## **Jetzt wird’s offiziell: Hugo soll seinen Ausweis schicken**
+
+Kaum hatte Hugo seine Daten verschickt, kam auch schon die nächste Antwort: Frau Katherine meldet sich **höchstpersönlich** zurück – diesmal mit noch mehr Pathos und gleich einem ganzen FAQ-Katalog zur Ausweispflicht. ✉️🔍
+
+Natürlich *nur zur Verifizierung*, wegen „Geldwäschebekämpfung“ und „Fairness im Preisverteilungsprozess“. Klingt fast wie aus dem Lehrbuch für Bürokratie-Deutsch mit Google Translate. Jetzt soll Hugo also **seinen Ausweis schicken** – damit die 3,85 Millionen Euro auch ganz sicher beim „rechtmäßigen Empfänger“ landen. 
+
+Na dann, Zeit für einen kleinen Photoshop-Einsatz... oder Hugos legendären Bowlingausweis vom Vereinsheim Wanne-Eickel! 🎳📸
+
+
+![](/posts/2025-07-29_superenalotto/mail.webp)
+
+
+### Hugo schickt seinen Ausweis
+
+Hugo wäre nicht Hugo, wenn er sich von Bürokratie ausbremsen ließe. Also hat er kurzerhand seinen „Ausweis“ fotografiert und zurückgeschickt – natürlich in bester JPEG-Qualität. 
+
+Ob das Dokument echt ist? Lassen wir das mal offen. 😉 Hauptsache, Frau Federico kann jetzt „mit der Bank koordinieren“ und Hugos Millionen endlich auf den Weg bringen. 
+
+> Sehr geehrte Frau Federico,  
+>   
+> vielen Dank für Ihre erneute Nachricht und die ausführliche Erklärung zum weiteren Ablauf – das klingt alles sehr professionell und durchdacht. Ich habe meinen Ausweis rausgesucht und eine Kopie angehängt, wie gewünscht.  
+>   
+> Ich hoffe, das passt so – wenn Sie noch etwas brauchen, sagen Sie einfach Bescheid. Ich kann auch zur Not meinen Bowlingausweis vom Club in Wanne-Eickel beilegen, aber ich denke, der normale Ausweis reicht erstmal. 😄  
+>   
+> Ich bin schon ganz aufgeregt wegen der Auszahlung. Bitte halten Sie mich auf dem Laufenden, wie es weitergeht.  
+>   
+> Mit freundlichen Grüßen  
+> Hugo  
+
+Wir sind gespannt, ob das Geld bald per Panzerwagen aus Monaco eintrifft. 💶🚛
