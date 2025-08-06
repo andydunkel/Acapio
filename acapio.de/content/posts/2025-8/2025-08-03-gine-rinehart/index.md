@@ -140,3 +140,77 @@ Seine Angaben sind vollständig (inkl. Kniffel-Einkommen und Currywurst-Spiritua
 > Botschafter für ehrliche Wurst und saubere Spenden seit 1977 🐾💸  
 
 Was soll da noch schiefgehen? 🤑
+
+## 💼 Gina wird offiziell – jetzt kommt die Bank ins Spiel
+
+Gina ist zufrieden. Hugo hat rechtzeitig geantwortet, zeigt sich demütig (wie es sich für Empfänger göttlich inspirierter Großspenden gehört), und jetzt geht’s ans Eingemachte: **Die Überweisung steht an.**
+
+Aber Vorsicht, bitte keine *öffentliche Show oder Mediendarstellung*! Gina will schließlich nicht, dass noch mehr arme Würstchen aus Wanne-Eickel auf die Idee kommen, sie um Geld zu bitten.
+
+Stattdessen gibt’s jetzt:
+
+* eine britische Bankadresse,
+* einen Herrn Wang als Ansprechpartner
+* und eine mysteriöse E-Mail: `info@cfbonlineplc.com`
+  *(die übrigens absolut *nichts* mit einer echten Bank zu tun hat)*
+
+Die Millionen sollen laut Gina in weniger als zwei Tagen überwiesen werden – **wenn Hugo den Anweisungen folgt.** Na dann: Konto bereitmachen, Bingo-Stift spitzen und Dackel Uschi festhalten!
+
+> Lieber Hugo   
+>   
+> Ich hoffe, es geht dir gut? Es ist gut, dass Sie rechtzeitig geantwortet haben und ich freue mich, dass Sie von diesem Geld profitieren können. Ich hoffe, dass dieses Geld ein Segen für Sie sein wird. Es berührt mein Herz, Menschen weit und breit zu erreichen. Ich dachte, es sei eine andere Art, Gutes zu tun, abgesehen von meinen Verpflichtungen. Ich denke, Sie würden mehr davon profitieren.  
+>   
+> Bitte machen Sie keine öffentliche Show oder Mediendarstellung, denn ich möchte nicht von unzähligen Behauptungen geplagt werden. Um eine Einigung zu erzielen, müssen Sie sich jetzt an meine europäische Bank (Citizens Financial Bank) wenden, bei der ich mein persönliches Vermögen investiert und aufbewahrt habe, ich habe die Bank vollständig informiert und sie freut sich auf Ihre E-Mail.  
+>   
+> Die Kontaktdaten und die E-Mail-Adresse der Bank finden Sie unten. Sie können sie per E-Mail kontaktieren und sie werden Ihnen helfen, Ihr Geld auf Ihr Bankkonto in Ihrem Land zu überweisen. Ich habe die Citizens Financial Bank bereits benachrichtigt und sie wird darauf warten, von Ihnen zu hören, wie das Geld an Sie überwiesen wird. Die Kontaktdaten der  
+> Bank sind unten angegeben:  
+>   
+> Citizens banking Limited.  
+>  342 Regents Park Road, London, N3 2LJ, Vereinigtes Königreich. EH11  
+> 3TP NR 6883/5/M/93/19.  
+>  INTERNATIONALE TRANSFERABTEILUNG.  
+>  E-Mail: info@cfbonlineplc.com  
+>  Bürozeiten: 8:00 - 19:00 Uhr britischer Zeit.  
+>  Ansprechpartner: Herr Daniel Wang  
+>   
+> Die Übertragung Ihres Erbes dauert weniger als 2 Tage, wenn Sie den Anweisungen der Bank folgen. Bitte beachten Sie, dass Sie, sobald Sie Ihre Nachlassgelder von der Bank erhalten haben, mich benachrichtigen müssen, damit ich Ihre Nachlassakte schliessen kann.  
+>   
+> Ich wünsche dir und deiner Familie die zeitlosen Schätze Gottes, die Wärme des Zuhauses, die Liebe der Familie und die Gesellschaft guter Freunde.  
+>   
+> Danke und Gott beschütze dich.  
+>   
+> Ich vertraue darauf, dass Sie mir folgen und mich auf dem Laufenden halten.  
+> Grüße  
+> Frau Gina Rinehart.  
+
+
+### Die Webseite der Bank
+
+Natürlich schauen uns die Webseite der Bank an. Diese sieht aus, wie eine der vielen Vorlagen, welche wir bereits öfter für Scams gesehen haben.
+
+![](/posts/2025-08-03_gine-rinehart/bank.webp)
+
+## 📤 Hugo schreibt an die Bank – mit Dackel, IBAN und großem Herzen
+
+Hugo kontaktiert die „Citizens Financial Bank“, wie von Gina befohlen. Natürlich höflich, aber mit klarem Auftrag: **2 Millionen Euro, bitte einmal in den Pott.** 🏦💸
+
+Er bietet alles an, was man für eine seriöse Transaktion braucht: Name, Adresse – und sogar Dackel Uschi als Sicherheitsbeauftragte. Die Sparkasse ist bereit, das Kniffel-Konto auch. Nur die Sache mit Herrn Wang ist noch etwas diffus… aber Hugo bleibt optimistisch. Schließlich hat er schon kompliziertere Dinge geregelt – zum Beispiel die Grillzange beim Sommerfest von Nachbar Dieter.
+
+> Sehr geehrter Herr Wang,  
+> sehr geehrtes Team der Citizens Financial Bank,  
+>   
+> mein Name ist Hugo Scholz aus Wanne-Eickel, Deutschland. Ich wurde von Frau Gina Rinehart informiert, dass sie mir eine Spende in Höhe von 2.000.000 Euro zukommen lassen möchte (bitte mit allen Nullen, ich hab's dreimal gezählt).  
+>   
+> Sie schrieb mir, dass Sie bereits über alles informiert sind und auf meine Kontaktaufnahme warten.  
+>   
+> Ich bin bereit, mein Konto steht bereit, meine Sparkasse hat den roten Teppich ausgerollt – wie geht es nun weiter? Benötigen Sie eine IBAN, einen Ausweis oder ein Foto von meinem Dackel Uschi, der über das Geld wachen wird?  
+>   
+> Ich freue mich auf Ihre Rückmeldung und die weitere Abwicklung der Überweisung.  
+>   
+> Mit den besten Grüßen aus dem Herzen des Ruhrpotts  
+> Hugo  
+> Bürger, Bingo-König & Spendenfreund  
+> Am Förderschacht 7  
+> 44623 Wanne-Eickel  
+> Deutschland  
+

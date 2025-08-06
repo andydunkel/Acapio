@@ -116,3 +116,39 @@ Ob das Dokument echt ist? Lassen wir das mal offen. 😉 Hauptsache, Frau Federi
 > Hugo  
 
 Wir sind gespannt, ob das Geld bald per Panzerwagen aus Monaco eintrifft. 💶🚛
+
+## **Jetzt wird’s teuer: Goldkarte oder Bitcoin gegen Bares**
+
+Endlich ist Hugos Gewinn „bereit zur Auszahlung“. 🥳 Doch Moment – vorher darf er noch **zwischen drei exklusiven Zahlungsarten** wählen:
+💳 eine *ATM-Goldkarte* (klingt nach Monopoly),
+🏦 eine *Überweisung mit Bearbeitungsgebühr*,
+🪙 oder gleich *Bitcoin*, damit’s richtig modern klingt.
+
+Das Beste: Jede Option kostet ordentlich Geld vorab – natürlich **nicht vom Gewinn abziehbar**, denn das würde ja „zu schweren Strafen für die Bank führen“. Klar doch. Wer schon mal 3,85 Millionen gewonnen hat, hat sicher auch 1.480 Euro Portokasse rumliegen. Hugo überlegt jetzt, ob er stattdessen lieber ein Girokonto bei *Goldkarte Worldwide* eröffnet oder sich seine Millionen in Zigarettenpäckchen auszahlen lässt. 🚬💼
+
+![](/posts/2025-07-29_superenalotto/gebuehren.webp)
+
+### **Und auch noch eine Urkunde! 🏅**
+
+Als wäre der versprochene Millionenbetrag nicht genug, flatterte auch noch ein „Zertifikat“ ins Postfach. Offiziell. Mit Stempel. Und sogar mit der Original-Unterschrift von „Claudio Moro“, dem vermutlich mächtigsten Mann der Fantasie-Finanzwelt. 
+
+Die Gestaltung? Ein Mix aus Grundschulprojekt, ClipArt und Comic Sans auf Speed. Aber hey – **Hugo Scholz ist jetzt ganz offiziell SuperEnalotto-Hauptgewinner der 5. Saison 2025**, was auch immer das heißt.
+
+![](/posts/2025-07-29_superenalotto/urkunde.webp)
+
+## Hugo fragt nach: Kann man das nicht einfach vom Gewinn abziehen?
+
+Hugo wäre nicht Hugo, wenn er bei 3,85 Millionen Euro nicht ein bisschen rechnen würde. Denn wieso soll er **über 1.000 Euro Bearbeitungsgebühren** zahlen, wenn doch der Gewinn eh schon „bereit zur Auszahlung“ ist? Die Lösung liegt doch auf der Hand: Einfach abziehen vom Preisgeld, **Rest bitte per Scheck oder Goldkoffer**. 
+
+> Sehr geehrte Frau Federico,  
+>   
+> vielen Dank für die Urkunde – die sieht wirklich sehr offiziell aus, ich habe sie mir gleich ausgedruckt und über mein Sofa gehängt. Meine Nachbarin ist jetzt richtig neidisch.  
+>   
+> Allerdings bin ich gerade ein bisschen verwirrt wegen der Gebühren. Ich soll jetzt zwischen 1.195 und 1.710 Euro zahlen, damit ich 3,85 Millionen bekomme? Könnte man das nicht einfach von meinem Gewinn abziehen? Dann haben doch alle weniger Aufwand und das Geld ist sowieso schon da.  
+>   
+> Ich habe aktuell leider nicht so viel auf dem Konto, aber ich könnte notfalls noch mein Mountainbike verkaufen oder meine Modelleisenbahn, wenn das wirklich sein muss. Bitte lassen Sie mich wissen, ob wir das nicht irgendwie einfacher regeln können.  
+>   
+> Mit freundlichen Grüßen  
+> Hugo   
+> Der glückliche Gewinner aus Wanne-Eickel 🥳  
+>   
