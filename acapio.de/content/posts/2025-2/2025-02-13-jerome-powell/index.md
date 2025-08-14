@@ -199,3 +199,46 @@ Egal, dann schreiben wir halt, schick mit Fake-Daten und unserem Ausweis der Bun
 >   
 > Mit freundlichen Grüßen    
 > Hugo  
+
+
+## Es dauert eine Weile
+
+Wochen gehen ins Land nichts passiert, wir haken nach und bekommen eine Antwort!
+
+Natürlich lässt sich „Barrister“ Damian Williams nicht lumpen und kommt gleich mit einem Schnäppchen-Angebot: **Für nur 1.080 Dollar Gebühren gibt’s 10,5 Millionen aufs Konto** – wie bei „Kaufe 1, bekomme 10 gratis“.
+Kleiner Haken: Die Adresse klingt wie ein Postfach im Lottozentrum und das einzige Gericht, das hier eine Rolle spielt, ist wohl der Nachtisch. 🍮
+
+
+> From Barrister Damian Williams  
+> From US Court of Federal Claim  
+> Address: Southern District of New York One St.  
+> Andrew's Plaza New York NY 15607; County, New York  
+> Telephone:  (937) 949 0534  
+>   
+> Dear Sir/Madam, Hugo Scholz,  
+>   
+> Sir, the two documents you are required to obtain for the transferring of your total funds $10.500.000.00 usd will cost you $1080.00 usd and once the two documents are obtained it will be forwarded to the bank and the bank will transfer your total funds to your bank account without any delay, therefore, if you are ready to obtain the two documents let me know to send you the account details to send the fee.  
+>   
+> Waiting for your response soon.  
+
+Hugo antwortet brav:
+
+> Sehr geehrter Herr „Barrister“ Damian Williams,  
+>   
+> hui, gleich 10.500.000,00 USD – und das für läppische 1.080,00 USD Gebühren. Klingt wie ein Sonderangebot aus dem Baumarkt: „Nimm die Millionen, zahl die Kleinteile an der Kasse.“ 😉  
+>   
+> Können wir das bitte einfach direkt vom zu überweisenden Betrag abziehen? Also 10.500.000,00 minus 1.080,00 – dann spart sich Ihre Buchhaltung sogar einen extra Beleg. Win-win!  
+>   
+> Außerdem bräuchte ich kurz zur Ordnung:  
+>   
+> 1. Aktenzeichen/Docket Number des Falls  
+> 2. Korrekte Anschrift Ihres Gerichts (inkl. ZIP – 15607 klingt mehr nach Lotto als nach Manhattan)  
+> 3. Ein offizielles Schreiben mit Siegel/Briefkopf als PDF  
+> 4. Den rechtlichen Grund für diese „zwei Dokumente“ (genaue Bezeichnung & zuständige Stelle)  
+> 5. Und weil’s Spaß macht: ein Selfie vor dem Gerichtsgebäude mit heutiger Tageszeitung. 😇  
+>   
+> Sobald das passt, können wir die Überweisung der 1.080,00 USD vom großen Kuchen abziehen lassen und den Rest zu mir schicken. Klingt doch fair.  
+>   
+> Mit hochoffiziellen Grüßen  
+> Hugo  
+> Wanne-Eickel, Amt für Gesunden Menschenverstand 🦡  

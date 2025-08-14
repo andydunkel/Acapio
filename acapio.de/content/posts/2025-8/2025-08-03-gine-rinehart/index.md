@@ -214,3 +214,44 @@ Er bietet alles an, was man für eine seriöse Transaktion braucht: Name, Adress
 > 44623 Wanne-Eickel  
 > Deutschland  
 
+## Webseite der Bank gesperrt
+
+Natürlich melden wir die Fake-Webseite auch dem Webhoster. Dieser reagiert schnell und sperrt die Webseite und E-Mail. 😁
+
+> Thank you for your report.  
+> Listed abusive account(s) has been suspended.  
+>   
+> Hostinger Abuse Department  
+
+
+## 📱 Website weg? Kein Problem – jetzt wird über WhatsApp „überwiesen“: +44 7432 118760
+
+Kaum war die Fake-Bank-Webseite gesperrt (🎉 danke an den Hoster!), melden sich die Scammer zurück – mit einem neuen Plan:
+
+**„Die Bank hat Wartung, aber kontaktiere sie doch einfach per WhatsApp!“** 😅
+
+Ja genau. Millionenüberweisung per Messenger. Zwischen Hundefotos und Familiengruppen geht dann mal eben das Spendenvermögen über die Leitung. Seriöser geht’s kaum.
+
+![](/posts/2025-08-03_gine-rinehart/sperre.webp)
+
+
+### 📶 Kein WhatsApp – nur Signal im Kühlschrankbereich
+
+Kaum ist die Fake-Bank offline, wollen die Betrüger Hugo auf WhatsApp locken. Doch der hat andere Probleme: **In Wanne-Eickel ist das WLAN ein scheues Reh**, und Empfang gibt’s nur auf dem Küchenstuhl neben dem Kühlschrank – und **auch da nur mit Signal.** 🧊📡
+
+> Hallo Frau Rinehart, hallo Herr Wang,  
+>   
+> vielen Dank für Ihre Nachricht. Ich habe versucht, die Webseite der Bank aufzurufen, aber sie ist leider nicht erreichbar. Stattdessen wurde mir gesagt, ich soll WhatsApp nutzen.  
+> Das ist leider schwierig – ich habe nur Signal, und das auch nur, wenn ich in der Küche auf dem Stuhl neben dem Kühlschrank sitze. 📶🥴  
+>   
+> Könnten Sie mir bitte mitteilen, wie lange die Wartung noch dauert? Oder gibt es eine andere Möglichkeit, das Geld zu überweisen – vielleicht per Briefumschlag oder per Brieftaube? Ich bin da flexibel.  
+>   
+> Ich freue mich auf Ihre Rückmeldung und hoffe, dass alles klappt – die Sparkasse ist heiß auf das Geld!  
+>   
+> Mit schürfenden Grüßen  
+> Hugo
+> WLAN-Empfänger 2. Klasse  
+> Wanne-Eickel  
+
+Hugo fragt freundlich nach, wie lange die "Wartung" der Webseite wohl dauern wird – schließlich wartet seine Sparkasse schon mit scharrenden Hufen auf die 2 Millionen. Alternativen wie Brieftaube oder Bollerwagen wären im Ruhrpott übrigens kein Problem.
+
