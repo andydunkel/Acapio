@@ -255,3 +255,34 @@ Kaum ist die Fake-Bank offline, wollen die Betrüger Hugo auf WhatsApp locken. D
 
 Hugo fragt freundlich nach, wie lange die "Wartung" der Webseite wohl dauern wird – schließlich wartet seine Sparkasse schon mit scharrenden Hufen auf die 2 Millionen. Alternativen wie Brieftaube oder Bollerwagen wären im Ruhrpott übrigens kein Problem.
 
+
+## 💸 2 Millionen gegen 500 Euro – ein echtes Schnäppchen!
+
+Da die Webseite offline ist und damit unser Banker nicht erreichbar, muss Gina selbst ran!
+
+Jetzt kommt der wahre Kern des Ganzen ans Licht:
+Die großzügige Spende von 2.000.000,00 Euro gibt’s natürlich nicht **einfach so** – zuerst will die "Bank" **500 Euro Gebühren**. Klar. Wie bei Amazon Prime, nur mit schlechterem Support.
+
+Die Begründung? Transfergebühren. Weil es ja unglaublich teuer ist, zwei Millionen digital zu überweisen. Vielleicht muss Herr Wang auch noch zur Sparkasse laufen, oder der Bollerwagen braucht TÜV. 🤷‍♂️
+
+Hugo bleibt gelassen. 500 Euro? Da kann man in Wanne-Eickel besser was anderes mit machen – z. B. fünf Jahre Bingo inklusive Schnittchen.
+
+**Egal wir antworten:**
+
+> Liebe Frau Gina,  
+>   
+> ich wollte mich nochmal melden wegen der 500 Euro Transfergebühr. Ganz ehrlich: Gerade ist’s bei mir finanziell etwas eng.  
+>   
+> Mein Dackel Waldi war letzte Woche beim Tierarzt – Blähbauch und ’ne verrutschte Bandscheibe. Hat ordentlich gekostet, der kleine Gourmet hatte wohl wieder am Gulasch von Oma genascht. 🐶💨  
+>   
+> Und jetzt hat auch noch Tante Humpe Geburtstag – da kann ich nicht ohne was kommen, sonst gibt’s Krach im Familienrat.  
+>   
+> Deshalb meine Frage:  
+> Könnte man die 500 Euro nicht einfach direkt von den 2 Millionen abziehen?  
+> Dann wären’s halt nur 1.999.500 – ich will ja kein Fass aufmachen, mir reicht das auch so locker fürs Erste.  
+>   
+> Ich hoffe, das ist kein Problem – und wenn doch, muss ich schauen, ob ich noch irgendwo Pfandflaschen finde oder Waldi kurzzeitig als Therapiehund vermiete.  
+>   
+> Mit hoffnungsvollen Grüßen  
+> Hugo 
+> Tierliebhaber, Geschenkexperte, Sparkassenfreund  
