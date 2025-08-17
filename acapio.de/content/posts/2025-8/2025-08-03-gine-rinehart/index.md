@@ -286,3 +286,42 @@ Hugo bleibt gelassen. 500 Euro? Da kann man in Wanne-Eickel besser was anderes m
 > Mit hoffnungsvollen Grüßen  
 > Hugo 
 > Tierliebhaber, Geschenkexperte, Sparkassenfreund  
+
+## 🛍️ Jetzt wird’s günstig – Millionen im Sommerschlussverkauf
+
+Die Betrüger zeigen plötzlich Herz – oder eher: **Rabattfreude.**
+Hugo muss doch nicht 500 Euro zahlen – **jetzt reichen auch 250!**
+Das ist ungefähr so, als würde man bei einer Tupperparty sagen:
+„Ach komm, nimm den Salatbehälter, den gibt’s heut zum halben Preis – und dafür schenken wir dir noch 2 Millionen Euro.“
+
+Wie großzügig.
+Wie absurd.
+Wie durchschaubar.
+
+Hugo überlegt noch, ob er zahlt. Schließlich ist **Waldi schon teuer genug** und Tante Humpe wartet noch auf ihre Geburtstagssocken.
+
+> Danke für Ihre Mail. Der 500 Euro kann nicht von der 2,000.000,00 Euro Spende abgezogen werden. Aber Sie können auch die Hälfte der Gebühr bezahlen, die die Summe von 250 Euro ist.  
+>   
+> Also sollte ich Ihnen die Kontodaten für die 250 Euro-Zahlung senden?  
+
+
+### 💸 Erst das Geld, dann die Gebühren
+
+Hugo ist ein Mann der Ordnung – und der Mathematik. Statt blind 250 Euro in den digitalen Äther zu überweisen, schlägt er eine glasklare Ruhrpott-Lösung vor:
+**„Schickt mir einfach die 2 Millionen, und ich zieh die 250 Euro selbst ab – fertig ist der Lack.“**
+
+> Liebe Frau Gina,  
+>   
+> vielen Dank für Ihre Rückmeldung – das mit der Reduzierung auf 250 Euro ist natürlich ein faires Angebot. Ich hab da nur eine viel einfachere Idee:  
+>   
+> Schicken Sie mir doch einfach direkt die 2.000.000 Euro – ich zieh die 250 Euro dann selbst ab und überweise sie Ihnen sofort zurück.  
+> Dann sparen wir beide Zeit, Gebühren und unnötige Wartezeiten. Ich bin da zuverlässig – meine Sparkasse kennt mich beim Vornamen.  
+>   
+> Falls gewünscht, kann ich Ihnen sogar eine Quittung schreiben. Oder einen handschriftlichen Zahlungsbeleg mit Dackelpfote als Unterschrift. 🐾  
+>   
+> Ich freue mich auf Ihre Bestätigung und den Zahlungseingang!  
+>   
+> Herzliche Grüße  
+> Hugo 
+> Vertrauenswürdiger Abzieher von Gebühren seit 1977  
+
