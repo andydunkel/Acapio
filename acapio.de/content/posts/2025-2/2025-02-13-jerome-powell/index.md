@@ -242,3 +242,38 @@ Hugo antwortet brav:
 > Mit hochoffiziellen Grüßen  
 > Hugo  
 > Wanne-Eickel, Amt für Gesunden Menschenverstand 🦡  
+
+
+## Millionen aus New York – aber zahlen nach New Mexico
+
+Und zack – da ist sie, die „offizielle“ Kontoverbindung. Statt Staatskasse oder Treuhandkonto gibt’s eine **Privatperson namens Dwayna Garcia in New Mexico**. Klar, so laufen also seriöse US-Gerichtstransaktionen ab: Richter, Robe, Hammer – und am Ende geht das Geld an Tante Dwayna im Wüstenstaat. Man möchte fast fragen, ob es beim Überweisungsbeleg auch noch einen Gutschein für Margaritas dazu gibt. 🍹
+
+> Dear Sir/Madam, Hugo,  
+>   
+> Sir, use the account details below to send the fee $1080 united states dollars for the two documents needed for your funds transfer.  
+>   
+> Bank name:--  Wellsfargo 🇺🇸  
+> Account name :-- Dwayna Garcia   
+> Account number :--- 7750331246  
+> Routing numbers :---- 107002192  
+> Wire routing number:--- 121000248  
+> International wire :---- WFBIUS6S  
+> Home address: ----- 12 Rainwater Rd Algodones ,NM 87001  
+>   
+> When you send the fee please do make sure you send the transfer slips to me for confirmation sir.  
+
+### Millionen futsch wegen fehlender IBAN
+
+Und wieder zeigt sich: Die Betrüger haben ein Problem mit der Realität. Während Hugo in Deutschland brav bei der Sparkasse sitzt und eine **IBAN** eintippen will, werfen die „Juristen“ mit **Routing Numbers, Wire Codes und Swift-Salat** um sich. Ergebnis: Hugo versteht nur Bahnhof – oder besser gesagt nur „IBAN“. Wer hätte gedacht, dass 10,5 Millionen Dollar an so einer Kleinigkeit wie einem deutschen Überweisungsformular scheitern? 💸
+
+> Dear Sir Barrister,  
+>   
+> vielen Dank für die Bankdaten. Leider habe ich ein kleines Problem:  
+> Hier in Deutschland kann ich bei meiner Bank nur eine IBAN eingeben. Diese ganzen Sachen wie „routing number“, „wire routing“ und „WFBIUS6S“ gibt es bei uns gar nicht in der Maske. Da steht nur: *IBAN, Betrag, Verwendungszweck.*  
+>   
+> Können Sie mir bitte die IBAN für die Überweisung nennen? Ohne geht das bei meiner Sparkasse nicht.  
+>   
+> Viele Grüße  
+> Hugo  
+> Wanne-Eickel International Banking GmbH 🦡  
+

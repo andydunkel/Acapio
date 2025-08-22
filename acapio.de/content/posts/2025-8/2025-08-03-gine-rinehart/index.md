@@ -325,3 +325,51 @@ Hugo ist ein Mann der Ordnung – und der Mathematik. Statt blind 250 Euro in de
 > Hugo 
 > Vertrauenswürdiger Abzieher von Gebühren seit 1977  
 
+
+## 🏦 Kontodaten für den guten Zweck – oder so ähnlich
+
+Gina lässt jetzt die Hüllen fallen – also, die finanziellen:
+**IBAN, BIC, Kontoinhaber, alles liegt auf dem Tisch.** Das Geld soll an einen Herrn *Ozes Oviane* gehen – vermutlich ein leidenschaftlicher Millionenumverteiler mit Sitz in Deutschland.
+
+Die angebliche Bank heißt **WiVid** – was klingt wie eine Mischung aus Online-Videothek und WLAN-Router-Marke.
+
+> Lieber Hugo   
+> Danke für Ihre Mail. Im Folgenden finden Sie die Kontodaten für die 250 Euro-Zahlung.  
+>   
+> IBAN: DE95202208000028365722  
+> BIC: SXPYDEHHXXX  
+> Name: Ozes Oviane  
+> Land: Deutschland  
+> Bank: WiVid  
+>   
+> Bestellen Sie jetzt den 250 Euro und senden Sie mir den Eingang der Zahlung für die Anpassung.  
+>   
+> Wir erwarten den Eingang der 250 Euro-Zahlung zur Bestätigung.  
+>   
+> Vielen Dank für Ihre bisherige Zusammenarbeit.  
+> Frau Gina  
+
+
+### 🧾 Hugo zahlt – zumindest sieht’s so aus
+
+Endlich ist es so weit: **Hugo hat angeblich die 250 Euro überwiesen.**
+Die Sparkasse hat mitgespielt, Waldi hat nochmal drübergeschaut, und der Beleg wurde feierlich als *Beweisstück A* verschickt.
+
+![Gefälschter Überweisungsbeleg](/posts/2025-08-03_gine-rinehart/transaction.webp)
+
+Der Verwendungszweck? **"Spende Gine Rinehart"** – damit auch jeder in der Buchhaltung weiß, worum’s geht.
+Der Empfänger: **Ozes Oviane** – vermutlich irgendwo zwischen Monaco und McFit als Briefkasten gemeldet.
+Und das Beste: Die Sparkasse Wanne-Eickel hat wieder geliefert.
+
+> Liebe Frau Gina,  
+>   
+> ich freue mich, Ihnen mitteilen zu können, dass die Überweisung der 250 Euro erfolgreich durchgeführt wurde!  
+> Ich habe das Geld heute Morgen bei meiner Sparkasse eingeworfen – der Automat hat ein bisschen gequietscht, aber am Ende hat er es geschluckt. 💸  
+>   
+> Im Anhang finden Sie den Überweisungsbeleg, den ich direkt aus dem Onlinebanking gezogen habe (Waldi hat’s nochmal gegenlesen lassen – er sagt, alles korrekt).  
+>   
+> Ich bitte nun um schnelle Weiterleitung der 2.000.000 Euro. Meine Sparkasse hat schon den roten Teppich ausgelegt, und Tante Humpe wartet sehnsüchtig auf den neuen Thermomix.  
+>   
+> Mit besten Grüßen  
+> Hugo  
+> Kontoführer mit Herz und Humor  
