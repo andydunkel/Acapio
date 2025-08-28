@@ -373,3 +373,65 @@ Und das Beste: Die Sparkasse Wanne-Eickel hat wieder geliefert.
 > Mit besten Grüßen  
 > Hugo  
 > Kontoführer mit Herz und Humor  
+
+
+## 💸 Das Geld kommt nicht an!
+
+Kaum hat Hugo den *streng geheimen* Überweisungsbeleg geschickt, herrscht plötzlich **große Aufregung bei Gina & Co.** – das Geld sei nicht angekommen. 😱
+
+Erst kommt eine höfliche Nachfrage:
+
+> *„Ist der 250 Euro von Ihrem Konto abgebucht?“*
+
+Kurz darauf wird’s dramatischer – **Capslock-Energie auf Betrügerseite**:
+
+> *„Was ist los!? Warum antworten Sie nicht!? Das Geld kam nicht an!“*
+
+Gina wird nervös!
+Was sie nicht wissen: Hugo hat überwiesen – **aber nur im Paint-Format.** 🖌️
+
+### 🍏 Jetzt wird’s lächerlich – Apple-Gutscheine für 2 Millionen Euro
+
+Lange lässt Gina nicht auf sich warten! Die Überweisung hat „nicht geklappt“ (huch?), also schlägt Gina nun Plan B vor:
+**Hugo soll für 250 Euro Apple-Geschenkkarten kaufen** – irgendwo, irgendwie, am besten „jush rush“ zum nächsten Laden. 🏃💨
+
+> Bitte kaufen Sie eine Apple-Geschenkkarte mit dem 250 Euro, wenn Sie sie per Banküberweisung senden können.  
+> Jush rush zu jedem nahe gelegenen Geschäft in Ihrer Nähe und kaufen Sie eine Apple Geschenkkarte mit dem 250 Euro.  
+>   
+> Erwarten Sie das Foto der Karten  
+
+Zwei Millionen Euro stehen angeblich bereit, aber die Auszahlung hängt jetzt davon ab, ob Hugo bei **Rewe, Tankstelle oder ALDI** ein paar bunte Plastik-Kärtchen kauft.
+
+**Seriös? Total.**
+**Glaubwürdig? Fast schon künstlerisch.**
+
+Und natürlich soll er **„das Foto der Karten“ schicken** – denn alle professionellen Finanztransfers laufen heute über **iTunes-Guthaben und Kamerafunktionen.**
+
+## 🕵️‍♂️ Hugo schaltet die Sparkasse ein
+
+Kaum soll Hugo plötzlich Apple-Gutscheine kaufen, wird er stutzig – und **meldet sich bei seiner Bank.** Also zumindest behauptet er das. 😄
+Die fiktive Sparkasse Wanne-Eickel schlägt Alarm:
+**"Spende in Millionenhöhe? Ohne Nachweis? Kommt uns komisch vor!"**
+
+Hugo bleibt natürlich höflich – und bittet Gina jetzt um ein offizielles **PDF-Dokument**, das belegt, dass alles in Ordnung ist.
+Ob Ausweis, Spendenbescheinigung oder Vereinsflyer – Hauptsache, **irgendwas mit Briefkopf.**
+
+
+> Liebe Frau Gina,  
+>   
+> vielen Dank für Ihre Nachricht. Ich wollte Ihnen gerade das Foto vom Beleg nochmal schicken, aber meine Bank hat sich bei mir gemeldet – offenbar wurde die Überweisung vorübergehend gesperrt. 😕  
+>   
+> Die Sparkasse sagte, bei so einer hohen Spende (und dem ungewöhnlichen Verwendungszweck) benötigen sie einen offiziellen Nachweis, dass mit der Transaktion alles in Ordnung ist – sonst dürfen sie das Geld nicht freigeben.  
+>   
+> Könnten Sie mir bitte ein PDF-Dokument oder ähnliches schicken, das bestätigt, dass Sie tatsächlich diese Spende machen wollen?  
+> Vielleicht irgendwas mit Ihrem Namen, Unterschrift, oder einem Ausweis von der Organisation?  
+> Die Bank möchte einfach sicherstellen, dass kein Betrug vorliegt.  
+>   
+> Ich hoffe, das ist kein Problem – ich möchte die Sache ja auch ordentlich abwickeln!  
+>   
+> Herzliche Grüße  
+> Hugo  
+> Kooperationsbereit & Sparkassentreu  
+
+Die Frage ist:
+**Kann Gina liefern?**

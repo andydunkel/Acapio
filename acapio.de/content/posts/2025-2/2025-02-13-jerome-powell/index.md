@@ -277,3 +277,40 @@ Und wieder zeigt sich: Die Betrüger haben ein Problem mit der Realität. Währe
 > Hugo  
 > Wanne-Eickel International Banking GmbH 🦡  
 
+
+## Monate später! Damian Williams meldet sich wieder!
+
+Und siehe da: Nach monatelanger Funkstille kommt der große Auftritt – plötzlich gibt es eine **deutsche IBAN**! Angeblich gehört das Konto einem gewissen **Lucky Ebuka Anikpe** (ja, Lucky, welch Zufall 🤡) bei einer Bank namens „Banking Circle“ in München. 
+
+Überweisungszweck: **Family Support**. Klar doch – 1.080 Dollar Familienhilfe, und schwupps gibt’s 10,5 Millionen vom US-Gericht. Wer braucht schon Lotto, wenn man „Lucky“ auf dem Überweisungsträger stehen hat? 🍀💸
+
+> Dear Sir/Madam, Hugo   
+>   
+> In regarge to your email received sir, I tried to get an account from your country that will help you easily to transfer the fee to avoid much delay for your funds transfer, therefore use the below account details to transfer the fee $1080.00 usd and let me know as soon as you transfer it by sending the transfer slip for conformation okay.  
+>   
+> Here is the account details to transfer the fee;  
+>   
+> IBAN:----  DE59202208000028372287  
+> BIC:----  SXPYDEHHXXX  
+> Owner:----  Lucky Ebuka Anikpe  
+> Bank Name:-----  Banking Circle - Germany .  
+> Branch:----  German Branch  
+> Bank address:--- 80333 München, Deutschland.  
+> Purpose for payment :---- Family Support  
+
+
+### Sparkasse riecht den Braten
+
+Bei der Sparkasse am Schalter war sofort Schluss mit lustig. Statt Millionenregen gab’s die klare Ansage: **„Das sieht nach Betrug aus.“** Tja, ohne offizielles Dokument mit Stempel und Siegel läuft hierzulande eben nichts – schon gar keine 1.080 Dollar an einen gewissen *Lucky*. Damian muss also erst einmal seine **Behörden-Fantasie-Abteilung** anschmeißen und ein schönes PDF basteln, bevor Hugo weiter überweist. 🏦📄
+
+> Dear Sir Barrister Damian,  
+>   
+> vielen Dank für die neue IBAN. Ich war heute bei meiner Bank am Schalter, um die Überweisung von den $1080 zu machen. Leider gab es dort ein Problem: Der Bankmitarbeiter hat sofort gesagt, dass es sich um Betrug handeln könnte, da kein offizielles Dokument oder Schreiben vorliegt.  
+>   
+> Die Bank möchte unbedingt ein offizielles Schreiben oder eine Bestätigung von Ihrer Behörde sehen (mit Briefkopf, Stempel oder Siegel), sonst dürfen sie die Zahlung nicht durchführen.  
+>   
+> Bitte senden Sie mir daher unbedingt ein offizielles Dokument, das bestätigt, dass diese Zahlung rechtmäßig ist. Ohne so etwas kann meine Bank die Überweisung nicht annehmen.  
+>   
+> Mit freundlichen Grüßen  
+> Hugo   
+> BMW-Club Wanne-Eickel International 🦡  
