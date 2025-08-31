@@ -49,3 +49,38 @@ Dass die Absenderadresse aber nicht @google.com lautet, sondern von einer dubios
 >   
 > Mit freundlichen Grüßen  
 > Hugo  
+
+
+😂 Herrlich! Jetzt haben sie sogar ein „offizielles Google-Zertifikat“ mit WordArt-Buchstaben und Clipart-Siegel gebastelt. Da ist wirklich alles drin, was man von einem Top-Konzern erwartet:
+
+* Absenderadresse: **[info@caixiabank.com](mailto:info@caixiabank.com)** – logisch, Google wickelt Milliarden-Auszahlungen natürlich über eine *falsch geschriebene* spanische Bank ab.
+* Titel: **„Online Director von Google“** – ein Job, den es garantiert nur in Scamhausen gibt.
+* Das Zertifikat prangt voller **„COPY: RESTRICTED OFFICIAL USE ONLY“**-Wasserzeichen, was den offiziellen Charakter unterstreicht (oder wie man im Ruhrpott sagt: „Das hat meine Enkelin in Word gemalt“).
+* Signatur von **ZURPHAT VICTOR** als „Foreign Operations Director“. Falls das kein real existierender Manager bei Google ist, dann weiß ich auch nicht. 😉
+* Und natürlich die klassische **Datenabfrage**: Name, Adresse, Alter, Beruf – kurzum alles, was man für eine gepflegte Identitätsübernahme braucht.
+
+
+## Das offizielle Google-Zertifikat 🎖️😂
+
+Man muss Google schon loben: Während andere Konzerne nüchterne Geschäftskorrespondenz verschicken, liefert der „Online Director“ gleich ein knallbuntes Word-Dokument mit Wasserzeichen, Clipart-Siegel und Unterschriften von Fantasie-Managern. Angeblich genügt es jetzt, der „Caixiabank“ in Madrid Name, Adresse, Telefonnummer, Alter und Beruf mitzuteilen – und schon fließen 195.000 €. Waldi ist begeistert, wir weniger.
+
+![](/posts/2025-08-28_google-nutzung/zertifikat.webp)
+
+### Hugo antwortet, mit Fake-Daten
+
+Wir sind überzeugt und schicken unsere Daten:
+
+> Sehr geehrter Herr „Online Director“ und Team,  
+>   
+> vielen Dank für Ihr offizielles Schreiben sowie das Zertifikat. Ich habe mich sehr gefreut und möchte die Auszahlung selbstverständlich beantragen. Hiermit übermittle ich die von Ihnen gewünschten Angaben:  
+>   
+> FAKEDATEN  
+>   
+> Bitte bestätigen Sie mir kurz, dass alle Daten vollständig sind und ich nichts vergessen habe. Ich freue mich schon auf die weitere Abwicklung mit der CaixaBank.  
+>   
+> Mit freundlichen Grüßen  
+> Hugo  
+
+
+
+

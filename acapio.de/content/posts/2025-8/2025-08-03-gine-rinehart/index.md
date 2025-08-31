@@ -435,3 +435,60 @@ Ob Ausweis, Spendenbescheinigung oder Vereinsflyer – Hauptsache, **irgendwas m
 
 Die Frage ist:
 **Kann Gina liefern?**
+
+## 😡 Gina ist sauer – Hugo hat das „Geheimnis“ verraten!
+
+Jetzt ist Schluss mit lustig:
+**Gina wird böse.** Hugo habe das „Geheimnis“ verraten – **an seine Bank!** 😱
+Ein Unding, wenn man anonym Millionen spenden will, klar.
+
+Sie kündigt an, dass „jetzt keine Informationen mehr offengelegt werden können“ – es sei denn, Hugo tut endlich das einzig Richtige:
+**Apple iTunes Karte. 250 Euro. Foto her. Sofort.**
+(Am besten noch mit Kassenbon und Fanclubmitgliedschaft.)
+
+Von Spende und Philanthropie ist keine Rede mehr – jetzt geht’s ums Prinzip. Gina will Gutscheine, und zwar pronto.
+
+> Ist ein Problem, wenn die Transfergebühr noch nicht bezahlt wird. Wir können Ihnen jetzt alle Informationen offenlegen, weil die Transfergebühr noch nicht bezahlt wird.  
+> Ich sagte dir, du sollst dieses Geheimnis behalten, du gehst immer noch weiter und gibst es deiner Bank offen.  
+> Der einzige Weg ist jetzt, das Geld zurückzuziehen, und gehen Sie zu jedem nahe gelegenen Shop in Ihrer Nähe und kaufen Apple iTunes Karte mit dem 250 Euro.  
+> Bitte, Sie müssen das jetzt tun.  
+> Erwarte das Foto der Karten. Frau Gina  
+
+### 🕊️ Gina rudert zurück – Schuld ist jetzt die Bank
+
+Nach ihrem kleinen Wutausbruch hat sich Gina wieder gefangen – und entschuldigt sich:
+
+> *„Es tut mir leid, Sie falsch zu beschuldigen. Ich war nur sauer auf deine Bank.“*
+
+Wie konnte Hugo auch nur so dreist sein, seine Bank benutzen zu wollen – zum Überweisen!? Und das noch nach Aufforderung von Gina! Unfassbar. 😅
+
+Aber jetzt soll alles wieder gut werden. **Die Lösung ist wie immer einfach:**
+
+👉 *„Ziehen Sie den 250 Euro jetzt sanft zurück“* (bitte mit Gefühl)
+👉 *„eilen Sie in die Nähe von Store oder Shop“*
+👉 *und kaufen Sie **Apple iTunes Karte.***
+
+Weil nichts seriöser klingt als ein internationaler Millionen-Transfer über bunte Geschenkkarten aus der Drogerieabteilung.
+
+## 🎮 Fortnite statt iTunes – Hugo bietet Alternativen
+
+Gina will Apple-Guthaben – **Hugo hat Fortnite.**
+Nachdem der Kiosk keine iTunes-Karten mehr hatte, bietet Hugo nun großzügig seinen letzten **Fortnite-Gutschein** an – eigentlich fürs Neffen-Geburtstagsgeschenk gedacht, aber hey: **Für Gina ist ihm nichts zu schade.**
+
+Die Frage ist nur:
+**Kann man mit V-Bucks auch internationale Millionenspenden freischalten?**
+
+> Liebe Frau Gina,  
+>   
+> ich war heute nochmal unterwegs, aber leider gab es keine Apple iTunes Karten mehr – die waren alle ausverkauft! 🥴  
+>   
+> Aber ich habe noch was anderes gefunden, was vielleicht auch geht:  
+> Ich hab hier noch einen Fortnite-Gutschein im Wert von 200 Euro – war eigentlich als Geburtstagsgeschenk für meinen Neffen gedacht, aber für Sie opfere ich den natürlich gern. 🎮✨  
+>   
+> Wäre das auch in Ordnung? Oder geht wirklich nur Apple?  
+>   
+> Ich kann Ihnen den Code gleich schicken – muss nur kurz schauen, ob Waldi ihn nicht angenagt hat. 🐶  
+>   
+> Viele Grüße aus dem digitalen Dschungel  
+> Hugo  
+> Gutscheinprofi im Auftrag der Menschlichkeit  
