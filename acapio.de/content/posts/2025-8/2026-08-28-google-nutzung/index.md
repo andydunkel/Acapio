@@ -121,3 +121,64 @@ Wir melden die Domain an den Registrar und schauen ob WildWestDomains hier den w
 Kein Wunder das Betrug im Internet floriert, wenn die Hoster erstmal mauern und die Meldung umständlich machen. Egal, wir füllen das Formular aus und harren der Dinge.
 
 
+## Jetzt wird’s teuer: Gebühren für den Google-Scheck 💸😂
+
+Und da ist er endlich, der Haken: Bevor die 195.000 € auf unser Konto wandern, will die „CaixaBank“ erst mal 495 € für die Eröffnung eines neuen Premium-Kontos – weil wir ja angeblich noch keins haben. Alternativ dürfen wir den Scheck auch per Kurier bestellen, für schlappe 421 € Express-Versand. Google zahlt Milliarden an Cloud-Infrastruktur, aber den Briefträger leider nicht.
+
+Natürlich wird streng gewarnt: „Fordern Sie nicht, dass die Gebühren vom Gewinn abgezogen werden – sonst senden wir den Scheck zurück an Google!“ Klingt seriös, wie eine Mischung aus Kindergartendrohung und DHL-Preisliste. Waldi überlegt schon, ob er sein Sparschwein knackt, wir eher nicht. 🐶💶
+
+![](/posts/2025-08-28_google-nutzung/scheck.webp)
+
+> CAIXA BANK S.A.  
+> Head Office: Caixa bank P.º del General.   
+> Martínez Campos, 3, 28010  
+> Madrid, Spain.  
+>    
+> TIMINGS  
+> 24 hours support.  
+>    
+>    
+> Freundliche Aufmerksamkeit: Herr. Hugo Scholz,  
+>    
+>   
+> Willkommen bei der CAIXA BANK SA. CaixaBank wird von der spanischen Abteilung für Banken und Versicherungen (DOBI) reguliert und geregelt. Dies sind die Finanzinstitute, die alle finanziellen Aktivitäten regeln. Was auch immer Sie für Ihre Überweisung benötigen, wir haben eine passende Lösung, von international über Privatbanken bis hin zu Hypotheken transfer von gewinnmitteln per google award.  
+>   
+> Wir erhalten Ihre Daten zusammen mit Ihrem Ausweis für Ihren Gewinnanspruch per Google Award und möchten Sie darüber informieren, dass Ihr Scheck über 195.000,00 Euro von Google Award hier eingezahlt wurde, bevor wir mit dieser Überweisung auf Ihr Konto beginnen Die Kosten für die Eröffnung eines neuen Kontos und die Einlösung Ihres Schecks betragen 495 Euro und werden Ihrem Kontostand gutgeschrieben, sobald der Scheck eingelöst wurde Ihre Gewinnsumme aus dem Google Award. Wir müssen für Sie hier in unserer Bank ein Bankkonto eröffnen und dann die 495 Euro in bar auf das Konto einzahlen, damit es scheckberechtigt ist, da Sie kein bestehendes Bankkonto bei uns haben über 1 Jahr.  
+>   
+> Diese Zahlung gehört immer noch Ihnen, da sie erst auf das neue Konto eingezahlt wird, um den Scheck einzulösen und dann das Geld sofort auf Ihr Heimatbankkonto zu überweisen, und dies liegt daran, dass Sie noch kein bestehendes Bankkonto bei unserer Bank haben dauerte über ein Jahr.  
+>   
+> Wenn Sie bereits seit über 1 Jahr ein bestehendes Konto bei unserer Bank haben, werden Sie nicht aufgefordert, ein neues Konto bei unserer Bank zu eröffnen.  
+>   
+> Hinweis: Senden Sie keine Antwort mit der Aufforderung, einen Betrag vom Scheck abzuziehen, da dieser durch eine Ausstellungshülle geschützt ist. Wir werden den Vorgang sofort beenden und den Scheck als ungeklärten Scheck an das Google-Team zurücksenden, wenn eine solche Aufforderung eingeht. Bitte beachten Sie, dass die CaixaBank das Recht hat, Zahlungen / Überweisungen abzulehnen, wenn Unregelmäßigkeiten festgestellt werden.  
+>   
+> In Anbetracht der obigen Ausführungen bitten wir Sie dringend, die Bankverbindung für die Einzahlung der angeforderten Gebühren anzufordern, damit wir mit der Überweisung Ihres Gewinnbetrags direkt auf Ihr persönliches Bankkonto beginnen können, sobald Ihr Scheck nach dem Einlösen eingelöst wurde die eröffnung ihres premium kontos bei unserer bank hier.  
+>   
+> (Option Nummer 2) Kurierdienst:  
+>   
+> Wenn Sie den Scheck per Kurierdienst erhalten möchten, tragen Sie die Kosten für die Zusendung des Schecks an Ihre Heimatadresse. Der Scheck wird über ein Kurierunternehmen verschickt, um sicherzustellen, dass der Scheck sicher an Ihre Postanschrift geliefert wird. Die Zustellung Ihres Schecks per Kurierdienst kostet Sie 421 € für 72 Stunden Zustellung mit Genehmigung des internationalen Schifffahrtsrates.   
+> Vielen Dank,  
+> Deine Aufrichtig,  
+> Herr Javier Pano Riera  
+> Finanzvorstand  
+> Privatkundengeschäft, Überweisung,  
+> CaixaBank S.A.  
+
+
+## Hugo versteht die Welt nicht mehr! 🤯
+
+Wenn Google schon 195.000 € „verschenkt“, dann sollten 495 € doch wirklich kein Problem sein. Aber nein, statt aus der Portokasse zu zahlen, soll Hugo selbst in die Tasche greifen – damit Google angeblich die Großzügigkeit freischalten kann.
+
+Das ist ungefähr so logisch, wie wenn man beim Lottogewinn erstmal einen Fünfziger an die Annahmestelle überweisen muss, damit der Gewinnschein gültig wird. 
+ 
+Waldi schlägt vor, dass Google die Gebühren einfach in Kleingeld aus der Kaffeekasse nimmt – aber vermutlich ist die gerade leer. 🐶☕💸
+
+> Sehr geehrter Herr Riera,  
+>   
+> vielen Dank für die ausführlichen Informationen. Die 195.000 € freuen mich natürlich sehr, aber ich verstehe nicht ganz: Wenn Google mir schon so viel Geld schenkt, warum kann die Firma nicht direkt die 495 € für das neue Konto übernehmen? Für Google ist das doch Kleingeld.  
+>   
+> Könnten Sie das bitte noch einmal erklären, bevor ich eine Entscheidung treffe?  
+>   
+> Mit freundlichen Grüßen  
+> Hugo  
+
+
