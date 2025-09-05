@@ -492,3 +492,25 @@ Die Frage ist nur:
 > Viele Grüße aus dem digitalen Dschungel  
 > Hugo  
 > Gutscheinprofi im Auftrag der Menschlichkeit  
+
+
+## 🤑 Keine Fragen mehr – Gina will den Fortnite-Gutschein
+
+Gina hat fertig verhandelt.
+Nach Apple-Karten, Banküberweisung und moralischer Entrüstung kommt jetzt der **klare Befehl**:
+
+> *„Schicken Sie mir den Gutschein.“*
+
+Völlig egal, ob Apple, Fortnite, Baumarkt oder „3 für 2 bei Curry Klaus“ – **Hauptsache, ein Code.**
+Man hat fast das Gefühl, **sie sitzt irgendwo mit leerem iPhone und hofft auf In-App-Käufe.**
+
+Natürlich antworten wir! Haben aber noch Fragen!
+
+> Hallo Frau Gina,
+> ich schick Ihnen den Gutschein gern – aber nur zur Sicherheit:
+> **Können Sie mir bestätigen, dass man mit einem Fortnite-Gutschein auch Spenden freischalten kann?**
+>
+> Ich hab das bisher nur für Skins, Tänze und bunte Hämmer benutzt. Nicht, dass Sie am Ende aus Versehen ein Leuchtschwert kaufen. 😅
+>
+> Grüße aus dem Battle Bus
+> Hugo

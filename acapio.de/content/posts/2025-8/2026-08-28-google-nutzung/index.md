@@ -83,4 +83,41 @@ Wir sind überzeugt und schicken unsere Daten:
 
 
 
+## Google-Bürokratie für Arme 🏦😂
+
+Kaum haben wir unser glänzendes „Google-Zertifikat“ bestaunt, geht der Papierkrieg erst richtig los. Plötzlich ist nicht mehr Google zuständig, sondern eine „CaixaBank“ in Madrid, die mit einer Gmail-artigen Adresse angeblich unsere Millionen überweisen will. Also heißt es: Daten nochmal schicken, diesmal an die Bank – weil das hochprofessionelle Konzernwesen von Google offenbar mit Copy & Paste überfordert ist.
+
+> Bitte senden Sie die Informationen an unsere Zahlungsbank an die unten angegebene E-Mail-Adresse, damit diese den Betrag auf Ihr Bankkonto überweisen kann. Die Bank hat Ihre E-Mail nicht erhalten, Sie müssen sie erneut senden.  
+>   
+> Bitte leiten Sie die Informationen per E-Mail an unsere Zahlungsbank weiter:    info@caixiabank.com  
+>   
+> Vielen Dank,  
+> Herr Pichai Sundararajan,  
+> Google Management.  
+
+Wir antworten natürlich brav!
+
+> Sehr geehrte Damen und Herren,  
+>   
+> wie gewünscht übersende ich Ihnen erneut meine Angaben zur Gewinnnummer GFP/955/GPWIN/ES:  
+>   
+> FAKE DATEN  
+>   
+> Bitte bestätigen Sie den Eingang der Daten und teilen Sie mir die nächsten Schritte mit. Meine Bank in Hamburg benötigt außerdem ein offizielles Schreiben auf Ihrem Briefkopf mit ladungsfähiger Anschrift, Registernachweis und einem verifizierbaren Ansprechpartner.  
+>   
+> Mit freundlichen Grüßen  
+> Hugo  
+
+## Die Webseite der caixiabank.com
+
+Natürlich rufen wir auch mal die Domain der vermeintlichen Bank auf. Es erscheint eine leere Seite. Die Domain wird anscheinend nur für E-Mail verwendet, eine Fake-Webseite gibt es nicht, um Sperrungen vorzubeugen. 
+
+![](/posts/2025-08-28_google-nutzung/hoster.webp)
+
+Wir melden die Domain an den Registrar und schauen ob WildWestDomains hier den wilden Westen im Internet sieht oder etwas unternimmt. E-Mail geht raus und wir bekommen erstmal die Nachricht zurück, dass per E-Mail gar nichts geht. Wir sollen ein Formular ausfüllen.
+
+![](/posts/2025-08-28_google-nutzung/abuse_1.webp)
+
+Kein Wunder das Betrug im Internet floriert, wenn die Hoster erstmal mauern und die Meldung umständlich machen. Egal, wir füllen das Formular aus und harren der Dinge.
+
 
