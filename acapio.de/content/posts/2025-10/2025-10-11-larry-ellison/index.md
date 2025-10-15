@@ -126,4 +126,66 @@ Natürlich lässt sich Hugo nicht lumpen und antwortet sofort – höflich, bege
 >
 > P.S.: Wenn Sie mich anrufen wollen, bitte nicht vor 10 Uhr – ich brauch morgens erstmal meinen Kaffee.
 
-**Schauen wir ob die Scammer antworten!**
+## 🧯 Ab geht es zur Bank: citigroupincorporation@yahoo.com
+
+Kaum hat Hugo geantwortet, wird’s „offiziell“:
+Jetzt sollen Personalausweis/Reisepass und am besten direkt die Bankdaten rüberwachsen. Dazu eine „Bank“ mit @yahoo.com-Adresse!
+
+> Grüße und vielen Danke für Ihre Aufmerksamkeit. Wir haben Ihre Daten bestätigt und bitten Sie, uns eine Kopie Ihres Personalausweises oder Reisepasses zu senden, damit die Überweisung Ihrer Spende umgehend bearbeitet werden kann.  
+>   
+> Die Bank ist möglicherweise verpflichtet und wird gebeten, ein neues Online-Konto für Sie zu eröffnen, auf das Ihre Spende in Höhe von $3 Millionen USD. eingezahlt wird. Sie erhalten dann die Zugangsdaten für Ihr neues Konto, von dem aus Sie das Geld auf Ihr persönliches Konto überweisen können.  
+>   
+> Wir empfehlen Ihnen daher, Ihre E-Mail an die Bank zurückzusenden, damit diese die Überweisung Ihres Geldes durchführen kann.  
+>   
+> Wenn Sie jedoch eine direkte Überweisung auf Ihr Konto wünschen, können Sie der Bank auch Ihre Bankdaten für die Überweisung übermitteln.  
+>   
+> Kontaktieren Sie die Bank per E-Mail: citigroupincorporation@yahoo.com  
+>   
+> Bitte geben Sie Ihre Bankdaten für die Überweisung im unten stehenden Format an.  
+>   
+> Bankname:  
+> Kontoinhaber:  
+> IBAN-Nummer:  
+> Bankleitzahl/SWIFT-Code:  
+> Bankadresse:  
+> Land:  
+>   
+> Kontaktieren Sie die Bank per E-Mail: citigroupincorporation@yahoo.com  
+
+**Warum das brandgefährlich ist:**
+
+* **Ausweiskopie = Identitätsdiebstahl:** Damit lassen sich Konten eröffnen, Verträge abschließen, Käufe tätigen.
+* **IBAN & SWIFT** landen in Betrugsnetzwerken; oft folgt die Forderung nach „Transfergebühren“ oder „Notarkosten“.
+* **Freemail-Bankadressen** (Yahoo/Hotmail/Gmail) sind **niemals** seriöse Bankkontakte. Punkt.
+
+> 🔒 **Merke:** Keine Ausweiskopien, keine Bankdaten, keine „Gebühren“.
+> Offizielle Banken schreiben niemals von Freemail-Domains und fordern keine Dokumente über unsichere Kanäle.
+
+
+### 🧐 Hugo wittert Yahoo-Zauber
+
+Man merkt: Hugo wird vorsichtig. Schließlich ist er nicht erst seit gestern im Internet unterwegs – und wer schon mal bei eBay Kleinanzeigen einen „fast neuen“ Auspuff gekauft hat, weiß, dass dort mehr Märchen erzählt werden als beim „Tatort“.
+
+Als echter **BMW-Ultra aus Wanne-Eickel** lässt er sich natürlich nicht von einer *@yahoo.com*-Bank beeindrucken. Schon gar nicht, wenn’s um drei Millionen Dollar geht.
+
+„Yahoo“, murmelt Hugo, „das klingt eher nach ’ner Tippgemeinschaft im Schrebergarten als nach Weltbank.“
+
+Und Recht hat er! Denn wer würde ernsthaft glauben, dass ein Weltkonzern seine Überweisungen über eine Freemail-Adresse regelt? Höchstens der Praktikant im ersten Lehrjahr – und selbst der würde vorher bei Mutti fragen!
+
+> Hallo Ralph,
+>
+> danke für deine schnelle Antwort – klingt ja alles super mit den 3 Millionen, aber ich muss ehrlich sagen:
+> Die Bank-E-Mail mit *@yahoo.com* kommt mir ein bisschen komisch vor.
+>
+> Ich bin kein Misstrauenstyp, aber ich hab schon schlimme Sachen gehört mit **Betrug im Internet**.
+> Mein Kumpel Ralle aus’m BMW-Club hat neulich fast seine PlayStation verloren, weil einer ihm auch ’ne „Gewinn-E-Mail“ geschickt hat.
+>
+> Seid ihr sicher, dass das so richtig ist mit der Yahoo-Adresse? Ich dachte, bei 3 Millionen läuft das über was Seriöseres, vielleicht *@citigroup.com* oder so.
+>
+> Ich will ja nix Falsches sagen, aber bei uns in Wanne-Eickel würden wir sowas höchstens noch beim **Grillabend** klären – nicht per Mail.
+>
+> Wenn ihr wirklich die Kohle überweisen wollt, komm ich auch gern vorbei, dann bring ich den **BMW** frisch gewaschen mit.
+>
+> Glück auf aus Wanne,
+> **Hugo**
+> *BMW-Club Wanne-Eickel Ultras*
