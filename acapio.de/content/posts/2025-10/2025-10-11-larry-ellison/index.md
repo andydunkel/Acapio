@@ -189,3 +189,61 @@ Und Recht hat er! Denn wer würde ernsthaft glauben, dass ein Weltkonzern seine 
 > Glück auf aus Wanne,
 > **Hugo**
 > *BMW-Club Wanne-Eickel Ultras*
+
+## 🧘 Ralph beruhigt: „Vertrau mir, mein lieber Freund“
+
+Kaum äußert Hugo leichten Zweifel, da kommt sie auch schon – die **beruhigende Antwort** von „Geschäftsführer“ Ralph Stevens.
+Freundlich, verbindlich, und natürlich völlig glaubwürdig – schließlich klingt *„Vertrau mir, mein lieber Freund“* exakt so, wie jede seriöse Bankkorrespondenz beginnen sollte.
+
+> „Ich glaube, das ist die interaktive Online-E-Mail-Adresse der Bank. Es ist einfacher und schneller, die Bank aus dem Ausland über die Korrespondenz-E-Mail-Adresse zu kontaktieren.“
+
+Ralph gibt sich Mühe, Hugo die letzten Zweifel zu nehmen: „Du musst dem Prozess vertrauen.“
+Klingt wie die spirituelle Variante eines Kontoauszugs – fast schon esoterisch.
+
+Doch Hugo bleibt skeptisch. Denn wer im Ruhrpott schon mal bei der Currywurstbude das Wechselgeld nachgezählt hat, weiß: **Vertrauen ist gut, Kontrolle ist besser.**
+Und drei Millionen über Yahoo? Da ruft selbst der Kaninchenverein Wanne-Süd: *„Lass dat bleiben, Jung!“* 🐇💸
+
+
+> Lieber Hugo,  
+>   
+> Grüße und wie geht es dir? Danke für deine Nachricht!  
+>   
+> Ich glaube, das ist die interaktive Online-E-Mail-Adresse der Bank. Es ist einfacher und schneller, die Bank aus dem Ausland über die Korrespondenz-E-Mail-Adresse zu kontaktieren.  
+>   
+> Ich möchte dich jedoch darüber informieren, dass du dir darüber keine Sorgen machen musst. Bleib ruhig und glaub mir, die Bank wird dir das Geld auf dein Konto überweisen. Du musst dem Prozess vertrauen, mein lieber Freund.  
+>   
+> Bitte kontaktiere die Bank. Sie wird dir erklären, was du tun musst und dir die Bedingungen mitteilen.  
+>   
+> Ich bitte um dein Verständnis und deine Mitarbeit.  
+>   
+> Mit freundlichen Grüßen  
+> Ralph Stevens  
+
+
+### 🐾 Hugo verlangt Beweise
+
+Langsam wird’s ernst – Hugo hat nämlich den **Dackelclub Wanne-Eickel** im Nacken. Und wenn die sagen, im Internet sei Vorsicht geboten, dann hat das Gewicht. Schließlich haben die schon schlimmere Sachen gesehen – von gefälschten Welpenanzeigen bis hin zu angeblichen Wurstlieferanten aus Bulgarien.
+
+Also will Hugo jetzt was Offizielles sehen: ein Dokument, ein Siegel, irgendwas mit Stempel. Schließlich will er im Dackelclub nicht als der Typ dastehen, der auf eine Yahoo-Bank reingefallen ist. Und mal ehrlich – wer drei Millionen verspricht, sollte wenigstens ein hübsches PDF mit ClipArt-Logo parat haben. 🐶💼
+
+> Hallo Ralph,
+>
+> danke für deine nette Nachricht, freut mich echt, dass du dir so viel Mühe gibst.
+> Ich will ja auch niemandem Unrecht tun – aber weißte, bei uns im **Dackelclub Wanne-Eickel** warnen die immer vor solchen Internet-Geschäften.
+>
+> Der Vorsitzende, der Horst, hat mal gesagt:
+> *„Wenn dir einer im Internet Millionen anbietet, aber keine Wurstbude in der Nähe hat – dann stimmt was nich’!“*
+>
+> Und da ist was dran, glaub ich.
+>
+> Deshalb wollt ich mal höflich fragen: Gibt’s da vielleicht **ein offizielles Dokument oder Zertifikat**, wo draufsteht, dass das alles echt ist mit der Spende und der Bank?
+> So was mit Stempel, Logo, Unterschrift – du weißt schon, was Handfestes.
+>
+> Ich will ja schließlich keinen Ärger mit dem Finanzamt kriegen, falls die drei Millionen wirklich kommen.
+>
+> Also, wenn du mir da was schicken könntest, wär super. Dann kann ich das auch im Dackelclub rumzeigen – die glauben mir sonst nie was!
+>
+> Glück auf aus Wanne-Eickel,
+> **Hugo**
+> *BMW-Club & Dackelverein Wanne-Süd e.V.* 🐾
+

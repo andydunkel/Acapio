@@ -182,3 +182,61 @@ Waldi schlägt vor, dass Google die Gebühren einfach in Kleingeld aus der Kaffe
 > Hugo  
 
 
+## Andere haben ihr Geld schon bekommen! 💰🙃
+
+Natürlich, das sagen sie alle. Laut „Herrn Riera“ haben schon etliche glückliche Gewinner ihr Geld erhalten – vermutlich wohnen die direkt neben dem Weihnachtsmann und dem Osterhasen. 🐰🎅
+
+Google sei nicht verantwortlich, und die Bank könne das Geld nicht einfach vom Scheck abziehen, weil… ja, weil sie’s halt nicht kann. Stattdessen soll Hugo erst mal 495 € einzahlen, *damit er das Geld bekommt, das er schon gewonnen hat*. Eine Logik, die so schlüssig ist, dass selbst Waldi kurz den Taschenrechner geholt hat. 🐶📉
+
+> CAIXA BANK S.A.  
+> Head Office: Caixa bank P.º del  
+> General. Martínez Campos, 3,  
+> 28010 Madrid Spain..  
+>    
+> TIMINGS  
+> 24 hours support.  
+>   
+>   
+> Vielen Dank für Ihre E-Mail. Bitte beachten Sie, dass andere ihre Prämien bereits erfolgreich über uns erhalten haben.  
+>   
+> Wir müssen für Sie ein Konto bei unserer Bank eröffnen, um den Scheck einlösen und das Geld auf Ihr Bankkonto überweisen zu können.  
+>   
+> Da Sie seit über einem Jahr kein bestehendes Bankkonto bei uns haben, müssen wir ein Bankkonto für Sie eröffnen und die 495 Euro in bar auf das Konto einzahlen, damit der Scheck eingelöst werden kann.  
+>   
+> Es tut uns leid, aber es ist nicht möglich, das Geld auf Ihr Bankkonto zu überweisen, ohne ein Konto bei unserer Bank zu eröffnen. Wir können die Gebühren nicht von dem noch nicht eingelösten Scheck abziehen. Das Google Award-Team ist hierfür nicht verantwortlich.  
+>   
+> Bitte beachten Sie, dass wir den Scheck nicht einlösen können, wenn Sie kein Konto bei unserer Bank haben.  
+>   
+> Diese Zahlung gehört weiterhin Ihnen, da sie nur auf das neue Konto eingezahlt wird, um den Scheck einzulösen und das Geld anschließend sofort auf Ihr Bankkonto zu überweisen. Dies liegt daran, dass Sie kein bestehendes Bankkonto bei unserer Bank haben, das bereits länger als ein Jahr besteht.  
+>   
+> Wenn Sie bereits seit länger als einem Jahr ein Konto bei unserer Bank haben, wurden Sie nicht erneut aufgefordert, ein neues Konto bei unserer Bank zu eröffnen.  
+>   
+> Bitte denken Sie darüber nach und melden Sie sich bei uns, um die Bankverbindung für die Zahlung zu erhalten und Ihre Überweisung abzuwickeln. Andere haben ihre Prämiengelder bereits erfolgreich erhalten, und wir garantieren Ihnen, dass auch Sie Ihre Prämiengelder erfolgreich erhalten werden.  
+>   
+> Vielen Dank für Ihre Bankverbindung. Wir sind hier, um Ihnen die besten Bankdienstleistungen zu bieten.  
+>   
+> Nochmals herzlichen Glückwunsch.  
+>   
+> Vielen Dank,  
+> Mit freundlichen Grüßen,  
+> Herr Javier Pano Riera,  
+> Finanzvorstand,  
+> Abteilung für internationale Überweisungen,  
+> Caixa Bank S.A.  
+
+
+### Der Dackelclub beschließt: Wir zahlen! 🐶💶🍻
+
+Nach intensiver Beratung im Dackelclub Wanne-Eickel stand der Entschluss fest: Wenn Google uns schon 195.000 € schenken will, dann sollen die 495 € Gebühr nicht im Weg stehen. Zwischen Frikadellen, Bier und Waldis lautem Bellen wurde demokratisch abgestimmt – einstimmig dafür! 
+
+Schließlich klingt „Herr Riera, Finanzvorstand der internationalen Überweisungsabteilung“ ja schon verdammt seriös. Und wenn einer weiß, wie man Geld verschiebt, dann doch wohl Google. Waldi hat sogar vorgeschlagen, eine Vereinskollekte zu starten – man hilft ja, wo man kann. 🐕🍺
+
+> Sehr geehrter Herr Riera,  
+>   
+> nachdem wir die Angelegenheit gestern im Dackelclub Wanne-Eickel ausführlich besprochen haben, sind wir zu dem Schluss gekommen, dass das Ganze wohl seine Richtigkeit hat. 🐶💬 Die Kollegen dort meinten, bei so einem offiziellen Scheck könne man ja nichts falsch machen. Selbst Waldi hat beim Vereinsabend mit dem Schwanz gewedelt, als ich die 195.000 € erwähnt habe.  
+>   
+> Ich möchte die Sache nun also abschließen und die 495 Euro Gebühr überweisen, damit mein Konto eröffnet werden kann. Bitte teilen Sie mir mit, wie und wohin die Zahlung erfolgen soll. Soll ich das bar einzahlen, per Überweisung schicken oder gibt es eine andere Möglichkeit?  
+>   
+> Mit freundlichen Grüßen  
+> Hugo  
+> BMW-Club & Dackelclub Wanne-Eickel 🚗🐕🍻  
