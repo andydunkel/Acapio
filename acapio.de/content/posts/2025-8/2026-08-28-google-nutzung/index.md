@@ -240,3 +240,41 @@ Schließlich klingt „Herr Riera, Finanzvorstand der internationalen Überweisu
 > Mit freundlichen Grüßen  
 > Hugo  
 > BMW-Club & Dackelclub Wanne-Eickel 🚗🐕🍻  
+
+
+## Und der Gewinner ist … Liberty Ojemolon! 🏆🇮🇹💸
+
+Da ist sie also, die große Enthüllung: Das Google-Preisgeld soll nach Italien überwiesen werden – an niemand Geringeren als **Liberty Ojemolon**. Klingt wie eine Nebenfigur aus einem schlechten Netflix-Drama, ist aber laut „Herrn Riera“ der offizielle Zahlungsempfänger von Google. 
+
+Natürlich bei der **Banco Bilbao Vizcaya Argentaria** in Mailand, wo sich traditionell alle großen Internetkonzerne ihre Preisgelder abwickeln lassen.
+
+> Vielen Dank für Ihre E-Mail. Bitte überweisen Sie den Betrag von 495 Euro jetzt auf unser internationales Korrespondenzbankkonto und senden Sie uns eine Kopie des Überweisungsbelegs, damit wir Ihren Scheck umgehend bearbeiten und Ihr Preisgeld in Höhe von 195.000,00 Euro umgehend auf Ihrem Bankkonto eintreffen kann.  
+>   
+> Begünstigter:   Liberty Ojemolon  
+> IBAN:           IT19F0357601601010003375980  
+> BIC:            BBVAITMM  
+> Bankname:       BANCO BILBAO VIZCAYA ARGENTARIA S.A. (BBVA)  
+> Bankadresse:    CORSO GIACOMO MATTEOTTI, 10 MILANO 20121  
+> Zahlungsart:    ZIPM207  
+>   
+> Wir erwarten in Kürze Ihre Antwort mit der Überweisungsbestätigung, sobald Sie die 495 Euro überwiesen haben.  
+>   
+> Nochmals herzlichen Glückwunsch!  
+>   
+> Vielen Dank,  
+> Mit freundlichen Grüßen,  
+> Herr Javier Pano Riera  
+> Finanzvorstand  
+> Abteilung für internationale Überweisungen,  
+> Caixa Bank S.A.  
+
+Der Plan: Hugo soll 495 € überweisen und anschließend einen Screenshot vom Beleg schicken – dann rollen die Millionen!!!!
+
+
+## Pech im Glück: Die Überweisung ist (fast) raus! 💸🤦‍♂️
+
+Hugo hat alles gegeben: Onlinebanking geöffnet, Verwendungszweck „Google Gewinnspiel ZIPM207“ eingetragen und den stolzen Betrag von 495 Euro auf den Weg gebracht...
+
+Doch wie das Schicksal so will, kam direkt die Meldung: **„Empfänger konnte nicht überprüft werden.“** Kein Wunder, Hugo ist nicht so firm was modernes Banking angeht und hat aus dem IT ein DE bei der IBAN gemacht! 😁
+
+![](/posts/2025-08-28_google-nutzung/transaction.webp)

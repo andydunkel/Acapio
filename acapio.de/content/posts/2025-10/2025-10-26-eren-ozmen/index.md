@@ -55,3 +55,40 @@ Hugo wäre nicht Hugo, wenn er nicht erst mal nach Beweisen fragen würde. Schli
 >   
 > Beste Grüße  
 > Hugo  
+
+Herrlich 😄 — das ist Scam in Reinform. Jetzt ist sie also *nicht mehr Chefin der Sierra Nevada Corporation*, sondern plötzlich **Vorsitzende der „Casino-Gruppe Las Vegas Sands“** (die übrigens einem ganz anderen Milliardär gehört). Dazu kommen noch **Gottes Werk**, **33,7 Milliarden Dollar**, **Gebetsstunden** und das komplette **Datenabfrageformular**. Perfekte Vorlage für den nächsten Blogabschnitt!
+
+
+### Hugos Millionen – jetzt mit Gebetsstunden und Bankanschluss
+
+Und siehe da – Frau Ozmen hat sich gemeldet! Diesmal allerdings nicht mehr als Chefin der Sierra Nevada Corporation, sondern als **Vorstand der Casino-Gruppe Las Vegas Sands**. Man gönnt sich ja sonst nichts. 
+
+Dazu ein bisschen Bibelstunde, ein Hauch Forbes-Millionärsliste und natürlich der übliche „Ich will nur Gutes tun“-Ton.
+
+Damit der Geldsegen fließt, braucht sie jetzt Hugos **vollständigen Namen, Adresse, Alter, Religion und Einkommen** – also genau das, was man Fremden im Internet *niemals* geben sollte. 
+
+Hugo überlegt noch, ob er „Dackelzüchter mit göttlichem Beistand“ einträgt oder lieber „ehrenamtlicher Kassierer beim Wanne-Eickeler Grillfest“.
+
+![Scammer können sich nicht kurz halten](/posts/2025-10-26_eren-ozmen/long_mail.webp)
+
+
+## 🙏 Hugos göttliche Million – jetzt auch mit Bankstempel 😇💸
+
+Hugo war natürlich tief ergriffen. Eine Milliardärin, die Gebetsstunden abhält und drei Millionen Euro verschenken will – das klingt ja fast wie ein modernes Wunder von Wanne-Eickel. 😅 Doch unser Hugo bleibt auf dem Boden der Tatsachen: Der Dackelclub hat schließlich seine eigenen Regeln. Seit dem Vorfall mit dem *Prinz von Nigeria* wird kein Geld mehr ohne **amtlichen Stempel** angenommen.
+
+> Liebe Frau Ozmen,  
+>   
+> vielen Dank für Ihre rührende Nachricht, die mich und den Dackel tief bewegt hat. 🙏  
+> Es ist schön zu sehen, dass es noch Menschen gibt, die in dieser kalten Welt Gutes tun wollen – und das sogar mit Gebetsstunden!  
+>   
+> Natürlich bin ich bereit, Ihre großzügige Spende anzunehmen und damit auch anderen in meiner Gemeinde zu helfen. Bevor ich aber die Daten schicke, hätte ich bitte noch eine kleine Bitte:  
+>   
+> Könnten Sie mir kurz ein offizielles Schreiben von Ihrer Bank schicken, am besten mit Briefkopf und Stempel, damit ich das hier beim Dackelclub als Nachweis vorlegen kann? Unser Schatzmeister ist da sehr genau, besonders seit dem Vorfall mit dem „Prinz von Nigeria“.  
+>   
+> Außerdem: Ist es möglich, dass die Auszahlung bar erfolgt? Wir haben hier im Verein leider kein SEPA-fähiges Konto, nur die Kaffeekasse.  
+>   
+> Ich freue mich sehr auf Ihre Antwort – möge Gott Ihnen und Ihrer Casino-Gruppe reichlich segnen.  
+>   
+> Herzlichst  
+> Hugo  
+> Dackelclub Wanne-Eickel e.V. (in Gründung)  
