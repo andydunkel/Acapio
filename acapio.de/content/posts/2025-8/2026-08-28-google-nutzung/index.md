@@ -278,3 +278,40 @@ Hugo hat alles gegeben: Onlinebanking geöffnet, Verwendungszweck „Google Gewi
 Doch wie das Schicksal so will, kam direkt die Meldung: **„Empfänger konnte nicht überprüft werden.“** Kein Wunder, Hugo ist nicht so firm was modernes Banking angeht und hat aus dem IT ein DE bei der IBAN gemacht! 😁
 
 ![](/posts/2025-08-28_google-nutzung/transaction.webp)
+
+Perfekt 😄 — jetzt geht’s in die nächste Runde: Die Betrüger schalten auf *„Bankmodus“* um. Das „Antragsformular“ ist der klassische **Köder**, um persönliche Daten abzugreifen – Name, Adresse, Telefonnummer, manchmal sogar Ausweisbilder.
+
+## 🏦 Jetzt wird’s offiziell – die „Bank“ meldet sich! 📄😂
+
+Kaum hatte Hugo nach einem Beweis gefragt, meldete sich – *Überraschung!* – die „Bank“. 
+
+Und wie es sich für ein seriöses Finanzinstitut gehört, kommt das Schreiben natürlich **nicht mit Logo oder Stempel**, sondern per Gmail und natürlich erst nach dem Kennenlernen per Antragsformular.
+
+> Hallo,  
+> wie geht es Ihnen? Wir haben Ihre E-Mail erhalten und verstehen Ihr Anliegen. Das von Ihnen angeforderte Schreiben wird Ihnen von unserer Bank ausgehändigt. Zuvor bitten wir Sie jedoch, das Antragsformular auszufüllen, damit wir Sie besser kennenlernen und die Spende weiter bearbeiten können.  
+
+### 📝 Hugo füllt brav — neugierig wie ein Köter vor’m Kaffeetisch ☕🐕
+
+Neugierig wie immer hat Hugo das Formular ausgefüllt und brav seine Daten abgeschickt: Adresse, Alter, Beruf — alles sauber aufgeschrieben, damit die „Bank“ auch ja keine Ausrede hat. 
+
+Er wartet jetzt gespannt auf den großen Nachweis mit Stempel, Unterschrift und möglichst einem Heiligenschein obendrauf. 
+
+> Liebe Frau Ozmen,  
+>   
+> vielen Dank für Ihre Nachricht und die Mühe, die Sie sich machen. Ich habe das Formular wie gewünscht ausgefüllt, damit Sie alles Weitere veranlassen können:  
+>   
+> Vollständiger Name: Hugo  
+> Land: Deutschland  
+> Adresse: Am Hausweg 13, 44649 Wanne-Eickel  
+> Alter: 53  
+> Beruf: Fahrer / Kraftfahrer  
+> Familienstand: Alleinstehend  
+> Monatliches Einkommen: ca. 1.800 EUR  
+> Religion: Evangelisch (Gottesdienst, Grillfest & Gebetskreis)  
+>   
+> Ich freue mich schon auf den weiteren Ablauf und hoffe, dass alles klappt. Wenn Sie noch etwas brauchen, sagen Sie bitte Bescheid. Ich bin werktags meistens unterwegs, aber Mails schaue ich abends nach der Schicht an.  
+>   
+> Mit freundlichen Grüßen  
+> Hugo  
+> Wanne-Eickel, Deutschland  
+

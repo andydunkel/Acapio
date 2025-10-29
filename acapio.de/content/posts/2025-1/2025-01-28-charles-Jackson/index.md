@@ -179,5 +179,21 @@ Mit einer cleveren Rückfrage testet Hugo, wie flexibel diese „Bank“ wirklic
 >   
 > Beste Grüße,    
 > Hugo aus Wanne-Eickel    
->   
 
+
+## Update im Oktober!
+
+Geduld haben die Scammer, im Oktober gibt es ein Update, die Scammer schicken noch einmal hoffnungsvoll eine Bankverbindung. Deutsche IBAN bei der Deutschen Bank. Was mal wieder zeigt, dass die Banken nicht so genau hinschauen, wem sie hier ein Konto und Bühne bieten.
+
+![Die Bankverbindung](/posts/2025-01-28-charles-jackson/konto.webp)
+
+> Bankname: Deutsche Bank  
+> IBAN: DE69820700240153682000  
+
+Durch die neue Kontoüberprüfung, können wir nun prüfen, ob der Name zum Konto passt und ja er tut es!
+
+![Überprüfung des Kontoinhabers](/posts/2025-01-28-charles-jackson/konto2.webp)
+
+Den Scammern schicken wir natürlich erstmal nur die Info, dass der Name nicht passt! 😁
+
+![](/posts/2025-01-28-charles-jackson/konto3.webp)
