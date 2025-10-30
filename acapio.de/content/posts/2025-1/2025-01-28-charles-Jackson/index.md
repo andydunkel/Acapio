@@ -197,3 +197,29 @@ Durch die neue Kontoüberprüfung, können wir nun prüfen, ob der Name zum Kont
 Den Scammern schicken wir natürlich erstmal nur die Info, dass der Name nicht passt! 😁
 
 ![](/posts/2025-01-28-charles-jackson/konto3.webp)
+
+### Jetzt wird’s kreativ: Apple Card statt Banküberweisung
+
+Die Antwort der "Bank" lässt tief blicken – anstatt professionell auf Hugos Rückfrage einzugehen, heißt es plötzlich:
+
+> *„Mit dem Konto stimmt nichts, okay? Kauf dir eine Apple Card und schick sie ab. Das ist viel einfacher.“*
+
+Aha! Das "seriöse" Finanzinstitut mit der @accountant.com-Adresse möchte also keine Banküberweisung mehr – jetzt soll Hugo stattdessen eine **Apple-Guthabenkarte** kaufen und den Code übermitteln.
+
+Klassischer kann eine Betrugsmasche kaum sein: Wenn der vermeintliche Millionensegen nur noch per iTunes-Gutschein aktiviert werden kann, ist endgültig klar – **hier geht’s nicht ums Schenken, sondern ums Abzocken.**
+
+Das kann Hugo natürlich so nicht nachvollziehen:
+
+> Hallo,  
+>   
+> vielen Dank für Ihre Rückmeldung. Also wenn mit dem Konto *„nichts stimmt“*, dann macht mir das als zukünftiger ATM-Kartenbesitzer natürlich schon ein bisschen Sorgen.  
+>   
+> Und eine Apple Card? Wirklich jetzt? Ich dachte, wir reden hier von einer Bank – nicht von einem Geschenkeladen. Ich wüsste nicht, dass Sparkasse oder Deutsche Bank ihre Kunden bitten, iTunes-Karten mitzubringen, um ein Konto zu eröffnen.  
+>   
+> Ich kann gern mit meiner Bank über eine reguläre Überweisung sprechen oder, wie vorgeschlagen, die Gebühr von der Karte abziehen lassen. Aber Apple Cards kauft bei uns höchstens der Kevin für Clash of Clans.  
+>   
+> Ich warte auf eine seriösere Lösung – ansonsten werde ich wohl doch die Volksbank Wanne-Eickel beauftragen, das Ganze zu prüfen.  
+>   
+> Beste Grüße,  
+> Hugo aus Wanne-Eickel  
+> Kontoinhaber, BMW-Fahrer und Apple-Karten-Skeptiker  

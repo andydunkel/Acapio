@@ -92,3 +92,75 @@ Hugo war natürlich tief ergriffen. Eine Milliardärin, die Gebetsstunden abhäl
 > Herzlichst  
 > Hugo  
 > Dackelclub Wanne-Eickel e.V. (in Gründung)  
+
+
+## 🏦 Jetzt wird’s offiziell – die „Bank“ meldet sich! 📄😂
+
+Kaum hatte Hugo nach einem Beweis gefragt, meldete sich – *Überraschung!* – die „Bank“. 
+
+Und wie es sich für ein seriöses Finanzinstitut gehört, kommt das Schreiben natürlich **nicht mit Logo oder Stempel**, sondern per Gmail und natürlich erst nach dem Kennenlernen per Antragsformular.
+
+> Hallo,  
+> wie geht es Ihnen? Wir haben Ihre E-Mail erhalten und verstehen Ihr Anliegen. Das von Ihnen angeforderte Schreiben wird Ihnen von unserer Bank ausgehändigt. Zuvor bitten wir Sie jedoch, das Antragsformular auszufüllen, damit wir Sie besser kennenlernen und die Spende weiter bearbeiten können.  
+
+
+### 📝 Hugo füllt brav — neugierig wie ein Köter vor’m Kaffeetisch ☕🐕
+
+Neugierig wie immer hat Hugo das Formular ausgefüllt und brav seine Daten abgeschickt: Adresse, Alter, Beruf — alles sauber aufgeschrieben, damit die „Bank“ auch ja keine Ausrede hat. 
+
+Er wartet jetzt gespannt auf den großen Nachweis mit Stempel, Unterschrift und möglichst einem Heiligenschein obendrauf. 
+
+> Liebe Frau Ozmen,  
+>   
+> vielen Dank für Ihre Nachricht und die Mühe, die Sie sich machen. Ich habe das Formular wie gewünscht ausgefüllt, damit Sie alles Weitere veranlassen können:  
+>   
+> Vollständiger Name: Hugo  
+> Land: Deutschland  
+> Adresse: Am Hausweg 13, 44649 Wanne-Eickel  
+> Alter: 53  
+> Beruf: Fahrer / Kraftfahrer  
+> Familienstand: Alleinstehend  
+> Monatliches Einkommen: ca. 1.800 EUR  
+> Religion: Evangelisch (Gottesdienst, Grillfest & Gebetskreis)  
+>   
+> Ich freue mich schon auf den weiteren Ablauf und hoffe, dass alles klappt. Wenn Sie noch etwas brauchen, sagen Sie bitte Bescheid. Ich bin werktags meistens unterwegs, aber Mails schaue ich abends nach der Schicht an.  
+>   
+> Mit freundlichen Grüßen  
+> Hugo  
+> Wanne-Eickel, Deutschland  
+
+
+## 💰 Von Eren zu Safra – die göttliche Beförderung ✨😂
+
+Kaum hatte Hugo seine Daten brav abgeschickt, ging das Wunder weiter:
+Aus Frau Ozmen wurde über Nacht **Frau Safra Catz**, ihres Zeichens CEO von Oracle – und offenbar jetzt auch Hobby-Missionarin mit Bankanschluss in Holland. 😇
+
+Der neue Plan: Hugo soll sich bei der **„Centurion Trust Bank“** melden, die angeblich in Zierikzee sitzt (wo sonst, wenn man Millionen verschenkt?). Natürlich per E-Mail an *info@centuriontb.com* – klingt schon fast nach einer echten Sparkasse Wanne-Eickel International. 🏦
+
+Damit alles „reibungslos“ klappt, soll Hugo nur seine Daten und eine geheimnisvolle **Referenznummer DE/KVL2025/28112/DEUTSCHLAND/** angeben.
+Na klar, so einfach läuft das mit drei Millionen Euro.
+
+Wikipedia-Links, Gottes Segen und eine CEO, die plötzlich Kirchenlieder zitiert – da weiß Hugo: Jetzt wird’s ernst. Und er überlegt, ob er der Bank wohl auch gleich seine Dackelsteuer-Bescheide mitschicken soll. 🐕💸
+
+![Ralph Wohlgemuth hat bereits sein Geld](/posts/2025-10-26_eren-ozmen/long_mail.webp)
+
+### 🌍 Multimilliardärin im Wandel – jetzt spendet auch Oracle 😅💸
+
+Hugo ist endgültig verwirrt. Erst wollte ihm **Frau Eren Ozmen** drei Millionen Euro schenken, jetzt meldet sich plötzlich **Safra Catz** – ebenfalls Milliardärin, aber von **Oracle**. Da fragt man sich: Haben sich die beiden abgesprochen oder ist das einfach göttliche Arbeitsteilung?
+
+Jedenfalls steht Hugo jetzt zwischen zwei Spenderinnen, einer holländischen Fantasie-Bank und einer Menge Fragezeichen. 🤔
+Er bleibt höflich und fragt brav nach, warum der Name plötzlich gewechselt hat – vielleicht ja ein spontaner Milliardärinnen-Tausch oder eine Art „Spendenfusion“.
+
+> Guten Tag Frau Ozmen,  
+>   
+> äh… oder jetzt Frau Catz? Ich bin ein bisschen durcheinander, bitte nicht falsch verstehen. Erst ging es um Ihre großzügige Spende als Frau Eren Ozmen, jetzt steht unter der Mail Safra Catz.  
+>   
+> Habe ich da was verpasst? Sind Sie umgezogen, befördert worden oder teilen Sie sich das Projekt? Ich will ja nichts falsch machen, nicht dass ich am Ende bei der falschen Milliardärin lande. 😅  
+>   
+> Und noch eine Frage: Diese Centurion Trust Bank – die hat doch bestimmt auch eine Webseite, oder? Ich hab beim Googeln nix gefunden, vielleicht hab ich mich vertippt. Können Sie mir den richtigen Link schicken, bevor ich mich dort melde?  
+>   
+> Vielen Dank und liebe Grüße  
+> Hugo  
+> Dackelclub Wanne-Eickel e.V. (in Planung) 🐾  
+
+Der Dackel jedenfalls blickt genauso ratlos wie Hugo. 🐕💫

@@ -270,7 +270,6 @@ Natürlich bei der **Banco Bilbao Vizcaya Argentaria** in Mailand, wo sich tradi
 
 Der Plan: Hugo soll 495 € überweisen und anschließend einen Screenshot vom Beleg schicken – dann rollen die Millionen!!!!
 
-
 ## Pech im Glück: Die Überweisung ist (fast) raus! 💸🤦‍♂️
 
 Hugo hat alles gegeben: Onlinebanking geöffnet, Verwendungszweck „Google Gewinnspiel ZIPM207“ eingetragen und den stolzen Betrag von 495 Euro auf den Weg gebracht...
@@ -281,37 +280,27 @@ Doch wie das Schicksal so will, kam direkt die Meldung: **„Empfänger konnte n
 
 Perfekt 😄 — jetzt geht’s in die nächste Runde: Die Betrüger schalten auf *„Bankmodus“* um. Das „Antragsformular“ ist der klassische **Köder**, um persönliche Daten abzugreifen – Name, Adresse, Telefonnummer, manchmal sogar Ausweisbilder.
 
-## 🏦 Jetzt wird’s offiziell – die „Bank“ meldet sich! 📄😂
 
-Kaum hatte Hugo nach einem Beweis gefragt, meldete sich – *Überraschung!* – die „Bank“. 
+### Die IBAN-Verschwörung: Deutschland oder Italien? 🇩🇪➡️🇮🇹
 
-Und wie es sich für ein seriöses Finanzinstitut gehört, kommt das Schreiben natürlich **nicht mit Logo oder Stempel**, sondern per Gmail und natürlich erst nach dem Kennenlernen per Antragsformular.
+Kaum war Hugos vermeintliche Überweisung raus, meldet sich „Herr Riera“ höchstpersönlich: Fehler! Die IBAN beginne mit **IT**, nicht **DE**. 
 
-> Hallo,  
-> wie geht es Ihnen? Wir haben Ihre E-Mail erhalten und verstehen Ihr Anliegen. Das von Ihnen angeforderte Schreiben wird Ihnen von unserer Bank ausgehändigt. Zuvor bitten wir Sie jedoch, das Antragsformular auszufüllen, damit wir Sie besser kennenlernen und die Spende weiter bearbeiten können.  
+Offenbar hat Hugo mit seiner deutschen IBAN den ganzen Prozess ins Wanken gebracht. Jetzt soll er „dringend“ eine internationale Überweisung starten – man kennt das ja, wenn Google-Preisgelder nur über einen Mailänder Privataccount fließen können. Waldi schlägt derweil vor, einfach in bar nach Italien zu fahren. Aber der Dackelclub hat entschieden: Erstmal abwarten, ob Google vielleicht doch PayPal anbietet. 🐶💻
 
-### 📝 Hugo füllt brav — neugierig wie ein Köter vor’m Kaffeetisch ☕🐕
+## Hugo hat alles gegeben 💸🐶💔
 
-Neugierig wie immer hat Hugo das Formular ausgefüllt und brav seine Daten abgeschickt: Adresse, Alter, Beruf — alles sauber aufgeschrieben, damit die „Bank“ auch ja keine Ausrede hat. 
+Und da war’s passiert: Hugo hat überwiesen – zumindest glaubt er das. Laut Kontoauszug ist das Geld „unterwegs“, laut „Herr Riera“ aber nie angekommen. Ein klassischer Fall von digitaler Zauberei: 495 Euro weg, 195.000 Euro immer noch in weiter Ferne.
 
-Er wartet jetzt gespannt auf den großen Nachweis mit Stempel, Unterschrift und möglichst einem Heiligenschein obendrauf. 
+Waldi sitzt traurig vor dem Laptop, der Dackelclub schweigt betreten, und Hugo starrt auf den Bildschirm wie auf einen Lottoschein mit den falschen Zahlen. 
 
-> Liebe Frau Ozmen,  
+> Sehr geehrter Herr Riera,  
 >   
-> vielen Dank für Ihre Nachricht und die Mühe, die Sie sich machen. Ich habe das Formular wie gewünscht ausgefüllt, damit Sie alles Weitere veranlassen können:  
+> ich verstehe das jetzt ehrlich gesagt nicht so ganz. 😕  
+> Die Überweisung ist doch schon raus! Das Geld wurde von meinem Konto abgebucht, da steht ganz klar „Liberty Ojemolon – Google Gewinnspiel ZIPM207“. Wenn das bei Ihnen nicht angekommen ist, weiß ich auch nicht, wo es jetzt steckt.  
 >   
-> Vollständiger Name: Hugo  
-> Land: Deutschland  
-> Adresse: Am Hausweg 13, 44649 Wanne-Eickel  
-> Alter: 53  
-> Beruf: Fahrer / Kraftfahrer  
-> Familienstand: Alleinstehend  
-> Monatliches Einkommen: ca. 1.800 EUR  
-> Religion: Evangelisch (Gottesdienst, Grillfest & Gebetskreis)  
->   
-> Ich freue mich schon auf den weiteren Ablauf und hoffe, dass alles klappt. Wenn Sie noch etwas brauchen, sagen Sie bitte Bescheid. Ich bin werktags meistens unterwegs, aber Mails schaue ich abends nach der Schicht an.  
+> Ich hab jedenfalls kein Geld mehr auf dem Konto, das war mein ganzes Erspartes. Vielleicht dauert es ja nur ein bisschen, bis es ankommt? Bitte prüfen Sie das nochmal.  
 >   
 > Mit freundlichen Grüßen  
-> Hugo  
-> Wanne-Eickel, Deutschland  
+> Hugo   
+> Dackelclub Wanne-Eickel 🐶  
 
