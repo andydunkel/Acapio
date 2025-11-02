@@ -164,3 +164,31 @@ Er bleibt höflich und fragt brav nach, warum der Name plötzlich gewechselt hat
 > Dackelclub Wanne-Eickel e.V. (in Planung) 🐾  
 
 Der Dackel jedenfalls blickt genauso ratlos wie Hugo. 🐕💫
+
+---
+
+### 🏦 Die „Centurion Trust Bank“ – ein Institut ohne Spuren 🕵️‍♂️💶
+
+Auf Hugos Frage, warum aus Frau Ozmen plötzlich Frau Catz wurde, kam natürlich keine Antwort. Stattdessen schickte man ihm erneut die **angeblichen Bankdaten** der „Centurion Trust Bank“ in den Niederlanden. Adresse, E-Mail – alles dabei, nur eine Kleinigkeit fehlt:
+**Die Bank selbst existiert nicht.** 😂
+
+> Die Kontaktdaten der Bank finden Sie unten:  
+> Bankname: Centurion Trust Bank Adresse: Oude Haven 6, 4301 CK Zierikzee, Zeeland, Niederlande.  
+> E-Mail-Adresse des Bankmitarbeiters: info@centuriontb.com  
+
+### 💼 Die Bank mit den schönsten Stockfotos der Welt 📸💳
+
+Hugo staunte nicht schlecht: Die „Centurion Trust Bank“ hat tatsächlich eine eigene Webseite! Glänzende Menschen in weißen Hemden, alle lächeln, alle erfolgreich – nur leider existiert die Bank in der echten Welt genauso wenig wie Hugos Dackel auf der Forbes-Liste. 😂
+
+![Die Fake-Webseite der Bank](/posts/2025-10-26_eren-ozmen/centurion.webp)
+
+Alles wirkt seriös: Menüleisten, hübsche Schlagworte, ein paar inspirierende Floskeln über Nachhaltigkeit und Innovation. Nur wer mal genauer hinsieht, merkt schnell: Hier steht viel über „Werte“ – aber nichts über **Lizenznummern, Aufsicht oder echte Ansprechpartner**.
+Kurz gesagt: Eine Bank, die aussieht wie PowerPoint mit Kreditkarte. 💳🐾
+
+### 🔍 Whois sagt mehr als tausend Worte 💻
+
+Hugo hat kurz recherchiert – und siehe da: Die angebliche „Centurion Trust Bank“ wurde erst vor ein paar Wochen registriert. Eine echte Bank, die Milliarden bewegt, gibt’s wohl kaum erst seit gestern. 😂
+
+Mit einer einfachen **Whois-Abfrage** auf Seiten wie [who.is](https://who.is) sieht man sofort, wann und von wem eine Domain angelegt wurde. Frisches Registrierungsdatum + versteckte Inhaberdaten = **Scam mit Hochglanzfotos**.
+
+Wir melden auf jeden Fall die Webseite beim Hoster und schauen was passiert!
