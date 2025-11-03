@@ -192,3 +192,19 @@ Hugo hat kurz recherchiert – und siehe da: Die angebliche „Centurion Trust B
 Mit einer einfachen **Whois-Abfrage** auf Seiten wie [who.is](https://who.is) sieht man sofort, wann und von wem eine Domain angelegt wurde. Frisches Registrierungsdatum + versteckte Inhaberdaten = **Scam mit Hochglanzfotos**.
 
 Wir melden auf jeden Fall die Webseite beim Hoster und schauen was passiert!
+
+### 💸 Hugos Millionen platzen – die Bank hat Feierabend 🏦💨
+
+Der Hoster meldet sich und hat die Webseite und Domain gesperrt. Danke für die schnelle Reaktion. **Aber ach**:
+
+Hugo war bereit. Alle Daten geschickt, Dackel geföhnt, Sekt kaltgestellt – doch dann kam der Schock:
+Die **Bank existiert nicht mehr.** 😳
+Die Mails an *info@centuriontb.com* kommen zurück, die Webseite ist verschwunden und irgendwo im Nirgendwo verpuffte auch Hugos Traum vom göttlichen Geldsegen.
+
+Statt drei Millionen Euro gab’s nur eine Fehlermeldung: *„Address not found.“*
+Der Dackel schaute enttäuscht, Hugo tippte noch einmal vorsichtig auf „Aktualisieren“ – nichts.
+Die „Centurion Trust Bank“ hatte sich in Luft aufgelöst, vermutlich schneller, als man „Onlinebanking“ sagen kann.
+
+Wir haben bei den Scammern nach und fragen vorsichtig, was da los ist!
+
+![Mails kommen nicht mehr an](/posts/2025-10-26_eren-ozmen/mailfail.webp)
