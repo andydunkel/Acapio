@@ -208,3 +208,37 @@ Die „Centurion Trust Bank“ hatte sich in Luft aufgelöst, vermutlich schnell
 Wir haben bei den Scammern nach und fragen vorsichtig, was da los ist!
 
 ![Mails kommen nicht mehr an](/posts/2025-10-26_eren-ozmen/mailfail.webp)
+
+
+## 📱 Die heilige WhatsApp-Verbindung – jetzt wird’s richtig persönlich 😇📞
+
+Kaum war die „Bank“ verschwunden, hatte Frau Ozmen (oder Catz? oder wer auch immer sie gerade ist) schon einen Plan B:
+Ein „Bankmitarbeiter“ soll sich jetzt per **WhatsApp** melden – natürlich unter einer amerikanischen Nummer. Schließlich ist nichts seriöser, als Millionenüberweisungen per Chat-App abzuwickeln. 😅
+
+
+> Guten Morgen. Ich hoffe, es geht Ihnen gut? Ich verstehe nicht ganz, warum Sie die Bank nicht über die von mir gesendete E-Mail erreichen können. Da Sie die Bank hier nicht kontaktieren können, werde ich Sie bitten, den zuständigen Mitarbeiter für Banküberweisungen per WhatsApp zu kontaktieren. Er wird Ihnen alle notwendigen Informationen geben, um mit der Bank zu sprechen, da Sie sie ja nicht erreichen können. Es ist allerdings seltsam, dass Sie sie nicht erreichen können.  
+>   
+> Hier ist die WhatsApp-Nummer des Mitarbeiters für Banküberweisungen: +1 (360) 316-8633. Wenn Sie diese Spende wirklich tätigen möchten, rate ich Ihnen, ihn jetzt zu kontaktieren.  
+
+Hugo staunte: Die erste Spende, die man nicht bei einer Bank, sondern bei WhatsApp abholt. Vielleicht gibt’s die Quittung ja auch gleich als Sprachnachricht? Der Dackel ist skeptisch und rät, lieber den Grill anzuschmeißen statt den Chat. 🔥🐕
+
+### 🤔 Hugos Zweifel wachsen – WhatsApp und Weltbank passen nicht zusammen 📱💭
+
+Hugo ist verunsichert. Erst war die Bank da, dann weg, jetzt soll alles plötzlich über **WhatsApp** laufen. Das klingt für ihn eher nach Familiengruppe als nach Millionenspende. 😅
+
+Er kratzt sich am Kopf, schaut den Dackel an und murmelt: „Also ich weiß ja nicht, ob das alles noch mit rechten Dingen zugeht.“
+
+> Guten Morgen Frau Ozmen,  
+>   
+> danke für Ihre Nachricht. Ich muss ehrlich sagen, ich bin jetzt ein bisschen durcheinander. Erst ging die Bank nicht mehr, jetzt soll ich jemanden über WhatsApp anschreiben – das kommt mir etwas komisch vor. 😕  
+>   
+> Ich möchte ja nichts falsch machen oder am Ende auf einer falschen Seite landen. Ich bin kein Experte für internationale Überweisungen, aber normalerweise läuft sowas doch über richtige Bankadressen, oder?  
+>   
+> Können Sie mir bitte nochmal bestätigen, dass hier alles mit rechten Dingen zugeht? Ich meine ist doch nicht normal, dass die Bank einfach offline geht.  
+>   
+> Gruß  
+> Hugo  
+> Wanne-Eickel (leicht besorgt, aber hoffnungsvoll) 🐾  
+
+Denn selbst in Wanne-Eickel gilt: Wer drei Millionen verschenkt, macht das selten per Sprachnachricht. 🐕💬
+

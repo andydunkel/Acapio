@@ -44,3 +44,65 @@ Wir bekommen eine Geldkarte versprochen, die jeden Geldautomaten dazu bringen so
 > Hugo   
 > BMW-Club Wanne-Eickel e. V.  
 > (und Dackel „Turbo“) 🐾  
+
+## Hugos zweite Runde: Jetzt wird’s richtig kriminell! 💳
+
+Eigentlich hatten wir mit keiner Antwort gerechnet, aber Scammer greifen nach jedem Strohhalm.
+
+Kaum hatte Hugo höflich nachgefragt, kam auch schon die Antwort – diesmal auf Englisch und mit noch mehr Fantasie als beim letzten Bierabend im BMW-Club. Die „unsichtbare ATM-Karte“ soll jetzt angeblich sogar *Überwachungskameras ausschalten* und mit *beliebigen Summen* geladen werden können.
+
+> Hello, i got your email.  
+>   
+> We sell these cards to individuals, investors, and large companies. They serve as a source of financing for many businesses. We create debit cards and load them with any amount you choose. The card has a special feature that deactivates the security camera every time you use an ATM.  
+>   
+> This debit card is accepted at all ATMs worldwide and is just as easy and convenient to use as your local debit card. It allows for fast and secure cash withdrawals at ATMs or point-of-sale systems in shopping centers. The debit card can be used for online purchases and has a daily withdrawal limit of €6,000. To create the debit card, we need your full name (as it will appear on the card) and your address (where the card should be delivered).  
+>   
+> Please note that there is a fee for each loaded card, which you must pay before delivery.  
+>   
+> Once we receive this information from you, we will print your name on the card and personalize it along with your PIN. Our partner delivery service will then deliver the cards directly to you. We sell these cards worldwide to all our existing and potential customers. They offer a daily withdrawal limit of €6,000 at any ATM worldwide and unlimited spending at any shopping center with a checkout.  
+>   
+> We look forward to hearing from you.  
+
+Da wir nicht gleich reagieren, kommt auch kurz danach automatisch eine WhatsApp-Nummer:
+
+> I'm available on WhatsApp.
+> Write to me on WhatsApp +34619129327
+
+---
+
+### Die Preisliste der ATM-Karte! 💵🏦
+
+Und jetzt wird’s richtig edel: Für nur **1 % Gebühr** bekommst du laut den Herren eine Karte, mit der du Millionen abheben kannst – ganz ohne Kamera, Polizei oder schlechtes Gewissen. Eine Million Euro für 10.000 €? Da sagt selbst Hugos Dackel: *„Wuff, das ist günstiger als mein Napf bei Fressnapf!“* 🐾
+
+> The price list for the rechargeable cards and the associated costs can be found below.  
+>   
+> €50,000 loaded card: 1% fee: €500  
+> €100,000 loaded card: 1% fee: €1,000  
+> €200,000 loaded card: 1% fee: €2,000  
+> €300,000 loaded card: 1% fee: €3,000  
+> €500,000 loaded card: 1% fee: €5,000  
+> €700,000 loaded card: 1% fee: €7,000  
+> €1,000,000 loaded card: 1% fee: €10,000  
+> €2,000,000 loaded card: 1% fee: €20,000  
+> €5,000,000 loaded card Card: 1% fee; maximum withdrawal: €50,000.  
+>   
+> Choose your preferred debit card plan. Send us your next email. We will then encrypt your card for you. We will generate a PIN for your debit card and send it to you within four business days. It will arrive. You can withdraw your first €6,000 at the nearest ATM and transfer up to €10,000 to your local bank account.  
+
+Hugo überlegt kurz, ob er gleich die **5-Millionen-Karte** nimmt, aber dann fällt ihm ein, dass der Geldautomat bei der Sparkasse Wanne-Eickel nur 500 € auf einmal ausspuckt. Fazit: Die einzige Karte, die hier wirklich funktioniert, ist die **Lachkarte**. 😁
+
+### Hugos Skepsis wächst – wo kommt das ganze Geld her? 💶🤔
+
+Nach der Preisliste wurde es Hugo dann doch ein bisschen zu bunt. Millionen aufladen, Kameras ausschalten, und das alles per Gmail – da kann ja was nicht stimmen. Also fragt er höflich nach, wo das Geld eigentlich herkommt. Wird das irgendwo abgebucht? Gibt’s da ein Konto? Oder wächst das einfach auf magischen Bankomaten-Bäumen? 🌳💸
+
+> Hallo,  
+>   
+> also das klingt ja alles ganz schön deluxe – Millionenkarte und so! 😎  
+> Aber mal ehrlich, wo kommt das Geld denn her? Wird das irgendwo abgebucht oder macht ihr das einfach so „aus Luft und Liebe“?  
+>   
+> Ich hab nicht viel Geld, vielleicht reicht bei mir die 50.000-Euro-Karte. Aber bevor ich was zahle: Gibt’s da auch ’ne richtige Firma dahinter? Also mit Adresse und so, nicht nur Gmail?  
+>   
+> Klingt ja fast zu schön, um wahr zu sein. Mein Dackel meint schon wieder, das riecht nach Blödsinn. 🐾  
+>   
+> Grüße  
+> Hugo  
+> BMW-Club Wanne-Eickel  
