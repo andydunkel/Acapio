@@ -304,3 +304,45 @@ Waldi sitzt traurig vor dem Laptop, der Dackelclub schweigt betreten, und Hugo s
 > Hugo   
 > Dackelclub Wanne-Eickel 🐶  
 
+
+## Es wird nachgehakt! 📩💼
+
+Jetzt wird’s ernst: Herr Riera vom „internationalen Überweisungsmanagement“ meldet sich persönlich und klingt dabei wie ein genervter Callcenter-Agent kurz vor Feierabend. Hugo habe schließlich gestern eine Rückmeldung versprochen! 😤
+
+Natürlich geht es wieder um die **495 Euro**, die angeblich den Weg nach Spanien (oder Italien, man weiß es nicht mehr so genau) finden sollten. Und weil das Ganze „dringend“ ist, will man Hugo nun sogar **neue Bankdaten** geben – schließlich läuft ein globaler Konzern wie Google nicht mit einem einzigen Konto.
+
+> Guten Tag,   
+> Herr Hugo Scholz,  
+>   
+> wir haben noch keine Rückmeldung von Ihnen erhalten und möchten gerne wissen, ob Sie bereits mit Ihrer Bank gesprochen haben und ob die 495 Euro bereits auf Ihrem Konto eingegangen sind.  
+>   
+> Bitte informieren Sie uns umgehend, damit wir Ihnen die neuen Bankdaten für die Zahlung mitteilen können und Sie Ihre Prämie noch heute auf Ihr Konto erhalten.  
+>   
+> Sie hatten uns gestern eine Rückmeldung versprochen, wir haben aber noch nichts von Ihnen gehört.  
+>   
+> Wir erwarten Ihre dringende Antwort.  
+>   
+> Vielen Dank,  
+> Mit freundlichen Grüßen,  
+> Javier Pano Riera,  
+> Finanzvorstand  
+> Abteilung Internationale Geldüberweisungen,  
+> Caixa Bank S.A.  
+
+## Die Sparkasse hat Fragen – und Hugo auch 🏦🐶
+
+Jetzt mischt sich auch noch die Sparkasse ein! Das Geld ist plötzlich wieder da, und Hugo steht ratlos am Schalter. Die freundliche Dame hinterm Tresen hat gleich gewarnt: *„Da stimmt was nicht, Herr Scholz!“* – und verlangt eine schriftliche Bestätigung der angeblichen „CaixaBank“.
+
+> Sehr geehrter Herr Riera,  
+>   
+> ich muss ehrlich sagen, ich bin jetzt etwas durcheinander. 🤔  
+> Das Geld, das ich überwiesen hatte, ist wohl wieder zurück auf meinem Konto bei der Sparkasse. Die meinten, es gab „Unstimmigkeiten bei der Empfängerbank“ und haben mir sogar geraten, erstmal gar nichts mehr zu überweisen.  
+>   
+> Die Sparkasse hat außerdem gesagt, ich soll mir eine schriftliche Bestätigung von Ihrer Bank besorgen, dass die Zahlung wirklich sicher ist und dass die 495 Euro direkt für die Kontoeröffnung meines Google-Gewinns verwendet werden. Ohne so ein Schreiben in offizieller Form mit Stempel und Unterschrift darf ich laut Sparkasse keine weitere Überweisung ins Ausland machen.  
+>   
+> Könnten Sie mir das bitte schnell zukommen lassen, damit ich das bei meiner Bank vorlegen kann? Dann kann ich die Zahlung sofort freigeben.  
+>   
+> Mit freundlichen Grüßen  
+> Hugo    
+> Dackelclub Wanne-Eickel 🐶💬  
+
