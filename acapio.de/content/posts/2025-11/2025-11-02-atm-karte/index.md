@@ -106,3 +106,39 @@ Nach der Preisliste wurde es Hugo dann doch ein bisschen zu bunt. Millionen aufl
 > Grüße  
 > Hugo  
 > BMW-Club Wanne-Eickel  
+
+
+## Jetzt wird’s esoterisch – Geld aus der Blockchain für Rentner! 💫💰
+
+Und zack, die nächste Antwort flattert rein: Das Geld kommt angeblich „aus der Krypto-Blockchain“ und soll „Rentnern und Geschäftsinhabern helfen“. ❤️‍🔥 Wie rührend! Da hilft Hugo doch gern, denkt er – bis der Dackel nachrechnet: *„Wenn das Geld aus der Blockchain fällt, warum braucht der Typ dann WhatsApp?“* 📱🐾
+
+Hugo kratzt sich am Kopf, trinkt einen Schluck Pils und fasst zusammen:
+
+> „Also entweder ist das die großzügigste Wohltätigkeitsaktion seit dem Lotto, oder jemand hat zu tief in den Krypto-Keller geguckt.“
+
+> Hallo, ich habe Ihre E-Mail erhalten.   
+>   
+> Wir programmieren Karten aus der Krypto-Blockchain, aus der das Geld stammt.  
+> Wir nutzen es, um Rentnern und Geschäftsinhabern zu helfen, damit sie die Mittel zur Förderung ihres Geschäfts einsetzen können.  
+>   
+> Sie müssen nichts zurückzahlen.  
+>   
+> Sie erreichen mich über WhatsApp unter +34619129327.  
+>   
+> Ich hoffe, bald von Ihnen zu hören.  
+
+### Hugo will Beweise – jetzt muss eine Karte her! 💳🐾
+
+Langsam wird’s selbst Hugo zu bunt. Blockchain hier, Rentnerhilfe da – aber noch kein einziger Beweis weit und breit. Also bittet er freundlich um ein Foto. Schließlich will man ja wissen, wie so eine „magische Geldkarte“ aussieht, bevor man seine sauer verdienten Kronkorken investiert.
+
+Der Dackel nickt zustimmend: *„Erst gucken, dann bellen!“* 🐶
+
+> Hallo,  
+>   
+> interessant — das klingt ja fast wie Zauberei. Bevor ich mein letztes Biergeld hergebe: könnt ihr mir bitte ein Foto von so einer Karte schicken? Am besten ein unpersonalisiertes Muster (also ohne Namen oder PIN), eine Nahaufnahme vom Chip/Magnetstreifen und die Verpackung bzw. das Kartendesign. Dann kann ich mir wenigstens was darunter vorstellen.  
+>   
+> Ach so: schickt das bitte per E-Mail — ich antworte ungern per WhatsApp. Und nein, ich gebe keine persönlichen Daten raus, bevor ich das nicht geprüft habe.  
+>   
+> Gruß,  
+> Hugo  
+> BMW-Club Wanne-Eickel (und Dackel Turbo)  

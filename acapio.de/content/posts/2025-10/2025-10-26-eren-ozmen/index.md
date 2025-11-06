@@ -242,3 +242,41 @@ Er kratzt sich am Kopf, schaut den Dackel an und murmelt: „Also ich weiß ja n
 
 Denn selbst in Wanne-Eickel gilt: Wer drei Millionen verschenkt, macht das selten per Sprachnachricht. 🐕💬
 
+
+## 💼 Die neue Bank ist da! Aus centuriontb.com wird centuriontb.org! 🏦🎉
+
+Hugo staunte nicht schlecht: Kaum war die alte Bank vom Netz, tauchte plötzlich eine neue auf – **gleicher Name, neue Domain, gleiche Masche**. Aus *centuriontb.com* wurde kurzerhand *centuriontb.org*, offenbar das digitale Pendant zu „neue Filiale, gleiches Chaos“. 😂
+
+![Da freut sich der Kunde, die Fake-Webseite](/posts/2025-10-26_eren-ozmen/oma_lacht.webp)
+
+### 💰 Konditionen zum Staunen – Millionen gegen Vorkasse 😂💸
+
+Die neue „Bank“ hat wirklich an alles gedacht:
+Drei Millionen Euro schenken? Kein Problem – **vorher bitte erst zahlen!**
+Ob 500 Euro für die Direktüberweisung, 800 für das Spar-Konto oder 1.300 Euro für die „Universal-Geldautomatenkarte mit Transportversicherung“ – die Auswahl ist bunt wie ein Supermarktregal, nur ohne Kassenbon. 🛒💶
+
+Hugo liest die Preisliste und fragt sich: Wenn die schon Millionen verteilen, warum haben die dann kein Porto mehr übrig? Der Dackel meint trocken: *„Chef, das riecht nicht nach Geld, das riecht nach Quittungsfalle.“* 🐕💬
+
+![Die Konditionen der Bank](/posts/2025-10-26_eren-ozmen/bank_die_zweite.webp)
+
+Natürlich melden wir auch diese Webseite und hoffen, dass der Webhoster reagiert.
+
+### 💳 Hugo wundert sich – warum kostet Schenken plötzlich Geld? 🤔💸
+
+Hugo kratzt sich am Kopf. Drei Millionen Euro soll er bekommen, aber vorher soll er erst mal **1.300 Euro Transportversicherung** bezahlen – oder wahlweise 500 Euro für eine „Direktüberweisung“. Das klingt für ihn irgendwie wie „Kauf zwei, krieg keins gratis“. 😅
+
+Er bleibt höflich, fragt nach einem offiziellen Schreiben mit Stempel und Lizenznummer – schließlich will er alles ordentlich in der Vereinsbuchhaltung vom Dackelclub eintragen. Doch innerlich ahnt er schon: Wenn eine Bank fürs Schenken Gebühren verlangt, dann stimmt hier eher das Konto als die Geschichte nicht. 🐕💼
+
+> Guten Tag Herr Wilkins,  
+>   
+> vielen Dank für Ihre ausführliche Nachricht – das klingt ja alles sehr beeindruckend! Ich bin aber ein bisschen unsicher, was ich jetzt genau machen soll.  
+>   
+> Wenn das eine Spende ist, warum muss ich vorher Geld bezahlen? Ich dachte, das wird einfach überwiesen. Ich habe sowas noch nie gemacht – ist das wirklich üblich, dass man für eine Spende erst eine „Transportversicherung“ bezahlt? 😕  
+>   
+> Außerdem wollte ich fragen: Die alte Bankseite ging ja plötzlich nicht mehr, und jetzt ist die Adresse centuriontb.org. Ist das dieselbe Bank oder eine neue Filiale? Ich möchte nur sicher sein, dass ich nicht aus Versehen an die falsche Stelle schreibe.  
+>   
+> Ich hätte grundsätzlich Interesse an der ATM-Karte (die klingt praktisch), aber bevor ich irgendwas überweise, brauche ich bitte ein offizielles Schreiben mit Stempel, Unterschrift und Ihrer Lizenznummer – einfach, damit ich das für meine Unterlagen habe.  
+>   
+> Gruß  
+> Hugoe  
+> Wanne-Eickel, Deutschland 🐾  
