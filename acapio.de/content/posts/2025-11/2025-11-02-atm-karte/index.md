@@ -142,3 +142,35 @@ Der Dackel nickt zustimmend: *„Erst gucken, dann bellen!“* 🐶
 > Gruß,  
 > Hugo  
 > BMW-Club Wanne-Eickel (und Dackel Turbo)  
+
+
+## Wir bekommen Fotos und ein Video
+
+Die Foto-Show der Wunderkarte: zwei weiße Plastikkarten mit Chip, ein bisschen Bargeld dazu – fertig ist das Casino-Märchen. Hugo schaut das Bild an, kratzt sich am Kinn und sagt: „Schönes Foto, Jungs. Sieht aus wie meine alte Kundenkarte vom Kiosk, nur ohne Logo und mit handgeschriebenem Nummern-Gimmick. Wenn das die Blockchain-Karte ist, dann hat die Blockchain wohl Ferien.“ 🐾💳
+
+> The blank bank card has no name on it, easy access with pin number just like the normal ATM card  and you are to activate the card with your local bank, I will send you a short video on how to use the card.  
+>   
+> Note that once you order this card to be take two to four working days before it arrives at your address.you provide   
+>   
+> Hopefully to hear for you soonest.  
+
+![Die Geldkarten](/posts/2025-11-02_atm-karte/atm_card.webp)
+
+Damit die Sache auch noch etwas glauwürdiger wird, gibt es auch ein Video. Hier wird Geld abgehoben, während der Protagonist die Karte präsentiert. Was auffällt, man sieht nie, wie diese Karte in den Automaten gesteckt wird.
+
+<video width="360" height="480" controls>
+<source src="/posts/2025-11-02_atm-karte/atm.mp4" type="video/mp4">
+</video>
+
+### Hugos Budgetlösung – Luxus auf Raten? 💸🐾
+
+Nachdem die Betrüger mit Millionen um sich warfen, kam Hugo mal wieder auf den Boden der Tatsachen: „Jungs, ich hab höchstens 750 Euro!“ schreibt er ehrlich. Schließlich ist das keine Blockchain, das ist Wanne-Eickel. Und bevor er das in eine „magische Karte“ investiert, will er wenigstens wissen, ob’s dafür eine **Garantie oder Quittung** gibt.
+
+> Hallo,  
+>   
+> also kurz und ehrlich: ich hab nicht viel — mehr als 750 € krieg ich nicht locker. Welche von euren Karten passt denn in dieses Budget? (Nennt bitte klar die Option — z. B. „50.000-€ Karte = 1% Gebühr → 500 €“ — und was genau ich dafür bekomme.)  
+>   
+> Noch ein paar wichtige Punkte, bevor ich auch nur an eine Zahlung denke, gibt es irgendeine Garantie oder Nachweis?  
+>   
+> Gruß,  
+> Hugo 

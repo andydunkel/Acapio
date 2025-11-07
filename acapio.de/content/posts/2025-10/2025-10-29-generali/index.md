@@ -116,3 +116,14 @@ Dass der vermeintliche Vorstand von Generali eine **AOL-Adresse** nutzt, findet 
 > Beste Grüße und Buona Sera ausm Ruhrpott  
 > Hugo  
 > BMW-Club Wanne-Eickel – Abt. Sponsoring & Grillfest  
+
+## Fazit: Hugo wartet, Generali schweigt 🕵️‍♂️💶
+
+Und so endet auch diese Episode aus der unendlichen Reihe „Wie das Internet Hugo reich machen wollte“. Seit Hugos letztem Schreiben herrscht Funkstille. Weder aus Triest noch aus der AOL-Zentrale kam eine Antwort – vielleicht hat der angebliche Vorstand von Generali gerade seinen Posteingang gelöscht oder die Geschichte war einfach zu heiß.
+
+Hugo nimmt’s gelassen. Statt Millionenregen gab’s immerhin wieder was zu erzählen beim Grillabend des BMW-Clubs. Die Moral der Geschichte: **Wer 992.335 Euro per E-Mail verspricht, hat meist nicht mal 9,92 Euro Porto übrig.**
+
+Und während die Betrüger wohl schon den nächsten „Begünstigten“ anschreiben, bleibt Hugo wachsam – mit einem klaren Leitsatz:
+
+> „Wenn Generali mir wirklich was schenken will, dann schicken die mir nen Brief. Und keinen Roman mit AOL-Adresse.“
+

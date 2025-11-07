@@ -280,3 +280,59 @@ Er bleibt höflich, fragt nach einem offiziellen Schreiben mit Stempel und Lizen
 > Gruß  
 > Hugoe  
 > Wanne-Eickel, Deutschland 🐾  
+
+
+## 🕵️‍♂️ Die Bank will’s jetzt genau wissen – Ausweis, Bitcoin und ein bisschen Kleingeld 💸🪪
+
+Hugo kann’s kaum glauben: Jetzt will die „Bank“ nicht nur Geld, sondern auch gleich seinen **Ausweis**! Und das per E-Mail, versteht sich – so wie’s halt jede seriöse Bank macht. 🙄
+Dazu gibt’s drei noble Zahlungsmethoden: **Banküberweisung, Bitcoin oder PayPal**. Fehlt eigentlich nur noch „Zigaretten und Rubbellose an der Tankstelle“.
+
+Sogar der Dackel hebt misstrauisch den Kopf, als er liest: *„Sehr geehrte/r Wanne-Eickel“.*
+
+Offenbar hat die Bank beschlossen, gleich die ganze Stadt reich zu machen. Hugo aber bleibt höflich – und denkt sich: Wenn die wirklich drei Millionen verschenken, könnten sie ja wohl auch die 1.300 Euro Bearbeitungsgebühr selbst bezahlen. 🐕💳
+
+Selbstredend wird auf den Wechsel der Web-Adresse nicht eingegangen!
+
+> Sehr geehrte/r Wanne-Eickel,  
+>   
+> wir hoffen, es geht Ihnen gut. Die Centurion Trust Bank kontaktiert Sie bezüglich der Ausstellung Ihrer autorisierten Bankkarte im Zusammenhang mit der Spendenabwicklung für Wanne-Eickel.  
+>   
+> Für die weitere Bearbeitung benötigen wir Folgendes:  
+>   
+> Bearbeitungsgebühr: 1.300 € – diese Gebühr deckt die Bearbeitung, Ausstellung und den sicheren Versand ab. Eine detaillierte Rechnung ist beigefügt.  
+>   
+> Identitätsnachweis: Bitte laden Sie eine gut lesbare Kopie eines amtlichen Lichtbildausweises über unsere sichere E-Mail-Adresse hoch.  
+>   
+> Lieferadresse: Bitte teilen Sie uns die Postanschrift mit, an die die Karte gesendet werden soll.  
+>   
+> Akzeptierte Zahlungsmethoden:  
+>   
+> Banküberweisung  
+> Bitcoin  
+> PayPal  
+>   
+> Verifizierter Treuhandservice/Zahlungsabwickler (Details finden Sie im Portal)  
+>   
+> Sobald wir den vollständigen Identitätsnachweis und die Zahlung erhalten haben, versenden wir die Karte. Voraussichtliche Lieferzeit nach Bestätigung: bis zu 72 Stunden.  
+>   
+> Wenn Sie Informationen zu Centurion Trust benötigen oder Unterstützung bei der Verifizierung wünschen, wenden Sie sich bitte an Frau Eren Özmen. Sie hatte selbst ein Konto bei uns und kann Ihnen alle benötigten Informationen geben.  
+>   
+> Bei Fragen oder wenn Sie die Verifizierung lieber persönlich durchführen möchten, kontaktieren Sie uns bitte. Wir bieten Ihnen sichere Möglichkeiten.  
+
+### 🐕 Emil rettet den Tag – wenn der Dackel zum Finanzberater wird 💉💸
+
+Gerade als die Betrüger kassieren wollten, kam Hugos bester Freund ins Spiel: **Dackel Emil**. Der musste nämlich zum Tierarzt – und das ging nun mal vor. Also erklärte Hugo der „Bank“ ganz ehrlich, dass das Budget diesen Monat knapp sei. Statt 1.300 Euro Bearbeitungsgebühr könne er höchstens **500 Euro locker machen** – oder, noch besser, man solle das Geld doch einfach **vom Spendenbetrag abziehen**.
+
+> Guten Tag Herr Wilkins,  
+>   
+> vielen Dank für Ihre Nachricht. Ich möchte das gern ordentlich erledigen, aber ehrlich gesagt bin ich im Moment etwas knapp bei Kasse. Mein Dackel Emil muss diesen Monat noch zum Tierarzt, und das kostet auch wieder einiges. 🐕‍🦺💉  
+>   
+> Daher wollte ich fragen, ob man die Gebühr nicht einfach vom Spendenbetrag abziehen kann? Wenn Sie mir also z. B. 2.998.700 € überweisen statt der vollen drei Millionen, wäre ja allen geholfen. 😅  
+>   
+> Falls das nicht geht, könnte ich höchstens 500 Euro aufbringen, aber das wäre dann echt die Schmerzgrenze.  
+>   
+> Bitte lassen Sie mich wissen, ob das so möglich ist – ich will ja nichts blockieren, aber Emil braucht seine Spritze, und das hat Vorrang.  
+>   
+> Mit freundlichen Grüßen  
+> Hugo  
+> Wanne-Eickel 🐾  
