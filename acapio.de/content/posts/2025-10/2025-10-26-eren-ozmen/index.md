@@ -336,3 +336,29 @@ Gerade als die Betrüger kassieren wollten, kam Hugos bester Freund ins Spiel: *
 > Mit freundlichen Grüßen  
 > Hugo  
 > Wanne-Eickel 🐾  
+
+
+## 💸 Jetzt wird’s offiziell – die Spendenmafia präsentiert ihre IBAN 🏦😅
+
+Und da ist sie: die große Kontonummer!
+Nach all den Wundern, Gebeten und neuen Domains will die „Bank“ jetzt ganz bodenständig **500 Euro nach Hamburg** überwiesen haben – auf ein Konto mit dem klangvollen Namen **Ozes Oviane**. Natürlich mit dem Versprechen, dass Hugo danach seine Millionenkarte bekommt.
+
+Hugo liest das, seufzt und denkt: *„Wenn das wirklich echt wäre, würde doch die Frau Ozmen selbst die 500 Euro vorstrecken – bei 33 Milliarden Vermögen fällt das doch kaum auf!“* 😂
+
+Der Dackel bellt zustimmend, und Hugo beschließt: Dieses Konto bekommt eher die Polizei als die Spende. 🐕🚓
+
+> Bitte leisten Sie eine erste Zahlung von 500 € der Gesamtsumme von 1.300 €. Nach Eingang dieser Zahlung erhalten Sie Ihre Bankkarte, mit der Sie anschließend den Restbetrag von 800 € begleichen können.  
+>   
+> Bitte überweisen Sie die 500 € mit den unten angegebenen Zahlungsdaten:  
+>   
+> Zahlungsinformationen  
+>   
+> * IBAN: DE95 2022 0800 0028 3657 22  
+> * BIC: SXPYDEHHXXX  
+> * Kontoinhaber: Ozes Oviane  
+> * Bank: ViVid  
+> * Land: Deutschland  
+>   
+> Bitte senden Sie uns nach der Überweisung einen Zahlungsbeleg, damit wir Ihre Spende abschließen können.  
+
+Da wir nun die Bankverbindung haben, melden wir dies den entsprechenden Banken und schauen was passiert.
