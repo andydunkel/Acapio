@@ -174,3 +174,37 @@ Nachdem die Betrüger mit Millionen um sich warfen, kam Hugo mal wieder auf den 
 >   
 > Gruß,  
 > Hugo 
+
+## Die Rückgabegarantie aus dem Krypto-Wunderland 💰😂
+
+Endlich, denkt Hugo, *„jetzt wird’s seriös!“* — es gibt **eine Garantie!** Ganze sieben Tage, in denen man sein Geld zurückbekommt, **falls die magische Karte mal nicht funktioniert.** Nur schade, dass danach vermutlich nicht mehr die Karte, sondern die E-Mail-Adresse verschwindet.
+
+Auch schön: bezahlt werden darf in **BTC, USDT oder per „Bank“**!
+
+> Garantiert...  
+> Von den mehreren tausend Kunden, die diese ATM-Karte gekauft haben, hat sich noch keiner über eine Fehlfunktion beschwert oder die Karte zurückgegeben. Diese Karte funktioniert garantiert, da sie vor jeder Auslieferung an unsere Kunden geprüft und getestet wird. Wir bieten eine 7-tägige Garantie, dass wir Ihnen Ihr Geld zurückerstatten, wenn die Karte nicht funktioniert.  
+>   
+> Die Gebühr für die mit 50.000 € aufgeladene Karte beträgt 500 €.  
+>   
+> Zahlungsoptionen   
+> Bank   
+> BTC   
+> USDT   
+> Die Zahlung per Kryptowährung ist schneller als die Zahlung per Banküberweisung.   
+>   
+> Wählen Sie die Zahlungsoption Zahlung in Kürze.  
+>   
+> Wir hoffen, bald von Ihnen zu hören.  
+>   
+> Übersetzt mit DeepL.com (kostenlose Version)  
+
+### Hugos logische Frage – wenn’s so einfach ist, warum sind die noch arm? 🤔💸
+
+Irgendwann reicht’s selbst Hugo. Wenn diese Leute wirklich unbegrenzt Geld aus der „Blockchain“ zapfen können, warum sitzen sie dann in ihrem Gmail-Büro und betteln um 500 Euro Gebühren? Hugo fragt nach – freundlich, aber mit der Logik eines echten Wanne-Eickelers: *„Wenn ihr so reich seid, warum verkauft ihr dann Karten statt einfach selber Geld abzuheben?“*
+
+> Hallo,  
+>   
+> bevor ich auch nur ans Bezahlen denke: warum macht ihr das eigentlich? Wenn ihr angeblich unbegrenzt Geld abheben könnt — warum behaltet ihr das selbst und helft nicht einfach euren eigenen Leuten? Und warum verlangt ihr dann überhaupt eine Gebühr für die Karte, wenn ihr das Geld „aus der Blockchain“ einfach so verfügbar habt?  
+>   
+> Grüße,  
+> Hugo  

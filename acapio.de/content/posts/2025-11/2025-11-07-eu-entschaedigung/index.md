@@ -74,3 +74,50 @@ Auch die Sprache ist verräterisch: Juristische Fachbegriffe wie „Artikel 47 d
 Das Ziel ist wie immer klar: Die Betrüger wollen persönliche Daten – Name, Adresse, Telefonnummer, Beruf – um Identitätsdiebstahl zu betreiben oder später angebliche Gebühren zu verlangen. Die „Einzahlungsreferenznummer“ klingt offiziell, ist aber reine Fantasie.
 
 Ein weiteres Indiz: **Kein echtes Verfahren, keine Behörde, kein Bezug zu einer realen Transaktion.** Niemand zahlt einfach so 1,5 Millionen Euro Entschädigung aus!
+
+## Update: Jetzt mit „Glandous Bank“
+
+Nach Hugos Nachfrage wird’s „offiziell“: Die Professorin verweist plötzlich auf eine **Glandous Bank** samt Kontaktadresse **@accountant.com** und einer „Web-Filiale“. Klingt schick – ist aber genau das Gegenteil von seriös. Keine **@europa.eu-Adresse**, dafür eine dubiose Dritt-Domain und der Versuch, persönliche Daten direkt an eine fremde Bank zu lenken. Der vermeintliche EU-Bezug (Art. 214 AEUV, IWF, UN) soll Seriosität vorgaukeln, ersetzt aber keinen echten **Nachweis einer EU-Behörde**.
+
+> Name der Bank: Glandous Bank  
+> Ansprechpartner: Herr David Pasco  
+> CFO/Leiter Rechnungswesen  
+> E-Mail: glandousbank@accountant.com  
+> Website: https://web.glandous.com/  
+
+![](/posts/2025-11-07_eu-entschaedigung/eu_bank.webp)
+
+### Die E-Mail!
+
+Dazu gibt es eine längliche E-Mail, die wir hier nur verkürzt darstellen wollen!
+
+Frau Prof. Dr. Barros meldet sich wieder – diesmal mit **1,5 Millionen Euro humanitärer Hilfe** direkt aus Brüssel (angeblich). Das Geld soll über die hochseriöse **Glandous Bank** mit der Adresse **@accountant.com** fließen. Natürlich „gemäß Artikel 214“ und in Zusammenarbeit mit dem **IWF und der UNO** – klar doch. Hugo ist offenbar jetzt offizieller EU-Krisenfall. 
+
+Kurz gesagt: Bürokratie trifft Bullshit Bingo.
+
+![](/posts/2025-11-07_eu-entschaedigung/eu_bank_mail.webp)
+
+### Die Red Flags
+
+Schon beim zweiten Blick auf die neue Nachricht leuchten die Warnlampen wie beim TÜV-Termin. Eine angebliche **EU-Behörde**, die über eine **@accountant.com-Adresse** kommuniziert und mit einer dubiosen **„Glandous Bank“** zusammenarbeitet, ist schlicht unglaubwürdig. Offizielle EU-Stellen nutzen immer **@europa.eu**, keine Freemail-Domains. 
+
+Auch die zahlreichen Verweise auf **IWF**, **UN** und Artikel aus EU-Verträgen sollen Seriosität vortäuschen, ersetzen aber keinen echten Nachweis. Zusammengefasst: Wenn eine „EU-Entschädigung“ plötzlich private Daten oder Kontakt zu einer unbekannten Bank verlangt – ist das keine Hilfe, sondern ein klarer **Phishing-Versuch**.
+
+### Hugo bleibt skeptisch – Corona-Hilfen lassen grüßen
+
+So leicht lässt sich Hugo natürlich nicht einwickeln. 1,5 Millionen Euro klingen zwar verlockend, aber im **BMW-Club Wanne-Eickel** kennt man sich mit Formularen und Rückzahlungen aus. Einer meinte gleich: *„Pass bloß auf, sonst wollen die am Ende wieder was zurück – wie bei den Corona-Hilfen!“* 
+
+> Sehr geehrte Frau Prof. Dr. Barros,  
+>   
+> vielen Dank für Ihre Nachricht – ich muss sagen, das klingt ja alles ganz großartig. Trotzdem bin ich ein bisschen unsicher, ob das alles so seine Richtigkeit hat. Die Jungs vom BMW-Club haben gleich gesagt, ich soll vorsichtig sein – nicht, dass man am Ende noch was zurückzahlen muss wie bei den Corona-Hilfen.  
+>   
+> Könnten Sie mir vielleicht ein offizielles Dokument oder eine Bestätigung schicken, die zeigt, dass das Ganze wirklich von der Europäischen Union kommt? Am besten mit einem Siegel oder einer @europa.eu-Adresse, damit ich das prüfen kann.  
+>   
+> Ich hoffe, Sie verstehen das – man hört ja viel über Betrug im Internet, und ich will nur sicher sein, dass hier alles seine Ordnung hat.  
+>   
+> Mit freundlichen Grüßen  
+> Hugo  
+> Wanne-Eickel  
+> BMW-Club, Abteilung „Vertrauen ist gut, Nachweis ist besser“  
+
+Also fragte Hugo höflich nach, ob es **irgendein offizielles Dokument oder Siegel** gibt, das die Echtheit bestätigt. Schließlich hat die echte EU ja bestimmt genug Stempel, um so etwas ordentlich zu bescheinigen. Bis dahin bleibt Hugo misstrauisch – und das Grillgeld lieber auf dem Konto.

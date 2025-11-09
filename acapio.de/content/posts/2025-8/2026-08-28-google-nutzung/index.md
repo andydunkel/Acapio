@@ -346,3 +346,42 @@ Jetzt mischt sich auch noch die Sparkasse ein! Das Geld ist plötzlich wieder da
 > Hugo    
 > Dackelclub Wanne-Eickel 🐶💬  
 
+## Neue Bank, neuer Name – alles ganz normal 🙃🏦
+
+Kaum ist die eine Überweisung „ungewollt“ zurückgehoppelt, tauchen **neue Kontodaten** auf: anderer Name, andere Bank, weiterhin Italien. 
+
+> Ihre E-Mail ist eingegangen. Bitte überweisen Sie den Betrag umgehend per Expressüberweisung auf dieses Konto und senden Sie uns eine Kopie des Überweisungsbelegs, damit Sie das Geld morgen früh auf Ihrem Bankkonto erhalten.  
+>   
+> Empfänger:       Akhidenor Stanley  
+> IBAN:            IT36Z0338501601100080145948  
+> Bank:            ISYBANK SPA  
+> BIC:             ISYBITMMXXX  
+> Bankadresse:     Via Monte di Pieta, 820121 Verbania, Italien  
+> Verwendungszweck:Überweisung  
+>   
+> Wir erwarten Ihre baldige Antwort.  
+>   
+> Vielen Dank,  
+> Mit freundlichen Grüßen,  
+> Javier Pano Riera  
+
+Für Hugo ist das nur noch verwirrend, für Betrugsopfer leider typisch: **wechselnde Zahlungsempfänger** sind ein klassisches Warnsignal. Die Sparkasse will jetzt ein offizielles Schreiben – Waldi nickt zustimmend. Schließlich überweist man 495 € nicht jeden Tag an **Akhidenor Stanley** von der **ISYBANK SPA**. 🐶💼
+
+> Sehr geehrter Herr Riera,  
+>   
+> danke für Ihre Nachricht. Die neuen Daten (Empfänger Akhidenor Stanley, IBAN IT36Z0338501601100080145948, Bank ISYBANK SPA) habe ich notiert. Meine Sparkasse verlangt jedoch vor einer Expressüberweisung eine schriftliche Bestätigung auf Ihrem offiziellen Briefkopf (mit Anschrift, Registerangabe, verantwortlicher Ansprechperson, Unterschrift und Rückrufnummer), aus der hervorgeht:  
+>   
+> dass diese Empfängerdaten korrekt und aktuell sind,  
+>   
+> dass die 495 Euro ausschließlich zur Kontoeröffnung / Scheckeinlösung meines Google-Gewinns verwendet werden,  
+>   
+> dass keine weiteren Zahlungen erforderlich sind und nach Eingang des Belegs die Auszahlung umgehend veranlasst wird.  
+>   
+> Bitte senden Sie mir das Dokument als PDF (Deutsch oder Englisch), damit ich es der Sparkasse vorlege.  
+> Eine kurze Erklärung, warum nun ein anderer Empfängername und eine andere Bank in Italien verwendet wird, benötige ich ebenfalls für die Unterlagen.  
+>   
+> Vielen Dank für die schnelle Bestätigung.  
+>   
+> Mit freundlichen Grüßen  
+> Hugo  
+> Dackelclub Wanne-Eickel  
