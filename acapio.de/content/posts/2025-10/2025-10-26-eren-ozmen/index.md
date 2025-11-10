@@ -362,3 +362,51 @@ Der Dackel bellt zustimmend, und Hugo beschließt: Dieses Konto bekommt eher die
 > Bitte senden Sie uns nach der Überweisung einen Zahlungsbeleg, damit wir Ihre Spende abschließen können.  
 
 Da wir nun die Bankverbindung haben, melden wir dies den entsprechenden Banken und schauen was passiert.
+
+## Eren meldet sich wieder 🔥
+
+Erste Scammerregel, immer wieder nachhaken. Daher meldet sich "Eren" am nächsten Tag wieder:
+
+> Hallo, wie geht es Ihnen? Wir haben noch nichts von Ihnen gehört und möchten gerne wissen, ob Sie die Angelegenheit mit der Bank bereits geklärt haben, damit Sie Ihre Spende erhalten können. Bitte melden Sie sich so bald wie möglich.  
+
+### 💸 Hugo überweist – und die Bank spielt Schutzengel 😇🏦
+
+Endlich schien alles erledigt: Hugo hatte angeblich die 500 Euro überwiesen, um seine Millionenkarte zu bekommen. Doch dann kam die Überraschung – die **Bank hat das Geld zurückgebucht**, weil das Konto gar nicht existiert! 😂
+
+Hugo war kurz enttäuscht, aber auch ein bisschen stolz: Offenbar hat selbst das Finanzsystem beschlossen, dass dieser Deal zu schön war, um wahr zu sein. 
+
+> Guten Tag Herr Wilkins,  
+>   
+> ich wollte kurz Bescheid geben: Ich habe die 500 Euro überwiesen, aber kurz darauf hat sich meine Bank gemeldet.  
+> Laut deren Aussage existiert das angegebene Konto gar nicht – die Zahlung wurde automatisch zurückgebucht. 😕  
+>   
+> Ich bin jetzt etwas verunsichert, ob vielleicht ein Tippfehler bei der IBAN oder beim Empfängernamen vorliegt.  
+> Könnten Sie das bitte nochmal prüfen oder mir eine alternative Kontoverbindung nennen?  
+>   
+> Ich möchte die Sache ja sauber abschließen, aber so wird das natürlich schwierig.  
+>   
+> Viele Grüße  
+> Hugo  
+> Wanne-Eickel 🐾  
+
+
+### 🚫 Ende Gelände – Die „Bank“ ist offline! 🏦💥
+
+Game over für die Centurion Trust Bank: Hugos letzte E-Mail kam mit einer Fehlermeldung zurück – *„Address not found“*. Die Domain **centuriontb.org** ist verschwunden, der Server abgeschaltet, und der vermeintliche „Herr Wilkins“ hat sich in Luft aufgelöst.
+
+![Wieder ist die Bank gesperrt](/posts/2025-10-26_eren-ozmen/sperre_die_zweite.webp)
+
+Offenbar war die Abuse-Meldung erfolgreich: Die Fake-Bank wurde gesperrt, bevor sie weiteren Leuten Geld oder Daten abluchsen konnte. Hugo freut sich, Emil bekommt ein Extra-Leckerli – und das Internet ist wieder ein kleines Stück sicherer. 🐕💪💻
+
+Natürlich informieren wir Eren darüber!
+
+> Liebe Frau Ozmen,  
+>   
+> ich hoffe, es geht Ihnen gut? Ich wollte nur kurz Bescheid geben: Ich habe versucht, Ihre Bank zu erreichen, aber die Seite centuriontb.org funktioniert nicht mehr, und meine E-Mail an Herrn Wilkins kam zurück mit „Address not found“.  
+>   
+> Wissen Sie, was da los ist? Ich mache mir ein bisschen Sorgen, nicht dass da irgendwas mit den Geldern oder meinem Antrag schiefgelaufen ist.  
+>   
+> Soll ich warten, bis die Bank wieder erreichbar ist, oder gibt es vielleicht eine neue Kontaktadresse? Ich möchte das ja ordentlich abschließen.  
+>   
+> Viele Grüße aus Wanne-Eickel  
+> Hugo  🐾  
