@@ -243,3 +243,39 @@ Nachdem der „Cyberheld“ aus England immer noch auf seine 500 Euro pochte, ve
 >   
 > Gruß,  
 > Hugo  
+
+## Sonderangebot nur für Hugo – das Blockchain-Billigmodell! 🎉💳
+
+Zuerst kam nur die Antwort, das das nicht geht:
+
+> Es ist nicht verhandelbar, die Gebühr beträgt genau 500 Euro. Sie haben Glück, Ihre E-Mail-Adresse gehört zu den 500 glücklichen Empfängern dieser E-Mail.  
+
+Aber dann schreibt Patricia Busking: 
+
+> Hallo Hugo,  
+>   
+> Eine Prepaid-Karte mit einem Guthaben von 30.000 € und einer Gebühr von 300 € ist verfügbar. Möchten Sie eine Bestellung aufgeben?  
+>   
+> Wenn Sie interessiert sind, senden Sie uns bitte die folgenden Informationen:   
+> Vollständiger Name:   
+> Wohnadresse:   
+> Land:   
+> Leisten Sie Ihre Zahlung in Höhe von 300 €   
+> Wir hoffen, bald von Ihnen zu hören.  
+
+Na also, es geht doch! Erst hieß es noch streng: *„Nicht verhandelbar, 500 Euro!“* – aber kaum hat Hugo nicht geantwortet, flattert schon das **Sonderangebot** rein: 30.000 Euro Guthaben für nur **300 Euro Gebühr**! 🎁
+Offenbar gehört Hugo jetzt zu den „500 glücklichen Empfängern“ dieser ganz besonderen Spam-Lotterie.
+
+### Hugos Einstiegsmodell – erstmal klein anfangen 💳😎
+
+Hugo zeigt sich vernünftig: Erstmal die **30.000-Euro-Testkarte** für 300 Euro, bevor er in die große Liga der Blockchain-Millionäre aufsteigt. Der Dackel nickt anerkennend: *„Immer schön mit kleinem Einsatz anfangen – so fangen alle guten Märchen an.“* 🐾
+
+> Hallo,  
+>   
+> das klingt super mit der 30.000-Euro-Karte – das wäre genau das Richtige für den Anfang. Ich würd die gern erstmal testen, bevor ich mir später vielleicht die größere Variante hole.  
+>   
+> Nur zur Sicherheit: Ich kann also jetzt die Karte für 300 Euro nehmen und, wenn alles klappt, später noch auf eine mit mehr Guthaben „aufrüsten“, richtig?  
+>   
+> Gruß,  
+> Hugo  
+

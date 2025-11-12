@@ -386,6 +386,29 @@ Für Hugo ist das nur noch verwirrend, für Betrugsopfer leider typisch: **wechs
 > Hugo  
 > Dackelclub Wanne-Eickel  
 
+## Die Garantieerklärung: Jetzt wird’s offiziell! 🧾💼
+
+Und siehe da – Hugo hat es tatsächlich geschafft! Nach Tagen voller E-Mails, IBANs und Verwirrung kam endlich die **„offizielle Garantieerklärung der Caixa Bank“**. Darin steht schwarz auf beige, dass die Zahlung von **495 Euro** absolut sicher ist und das Geld *unmittelbar nach Zahlungseingang* freigegeben wird. Sogar ein Stempel mit „APPROVED“ prangt stolz darunter – weil, wenn’s draufgestempelt ist, **muss** es ja stimmen.
+
+Zwei Herren mit klangvollen Namen – **Mr. Mujahid** und **Mr. Javier Pano Riera** – haben unterschrieben. Beide vermutlich sehr beschäftigt, denn sie mussten gleichzeitig den Google-Gewinn, den Dackelclub und das Internet regeln.
+
+![Die Bank garantiert](/posts/2025-08-28_google-nutzung/garantie.webp)
+
+
+### Hugo druckt – und geht zur Bank 🖨️🏦🐶
+
+Jetzt wird’s ernst: Mit der frisch „APPROVED“ abgestempelten Garantieerklärung unterm Arm macht sich Hugo auf den Weg zur Sparkasse. Schließlich will er diesmal alles richtig machen – persönlich, mit echtem Bankmitarbeiter und Waldi als moralischer Unterstützung vor der Tür. 🐾
+
+> Sehr geehrter Herr Riera,  
+>   
+> vielen Dank für die Zusendung der Garantieerklärung. Ich werde das Dokument ausdrucken und damit zur Sparkasse gehen, damit die Überweisung persönlich mit einem Mitarbeiter der Bank vorgenommen werden kann. Sicher ist sicher — ich möchte vermeiden, dass unterwegs etwas schiefgeht.  
+>   
+> Bitte bestätigen Sie mir kurz, dass ich nach Vorlage des Ausdrucks und dem Überweisungsbeleg mit der endgültigen Freigabe des Gewinns zu rechnen habe.  
+>   
+> Mit freundlichen Grüßen  
+> Hugo  
+> Dackelclub Wanne-Eickel 🚗🐕🍻  
+
 
 ## Fazit: Waldi wartet, Google schweigt 🐶💸
 
