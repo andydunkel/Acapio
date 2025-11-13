@@ -279,3 +279,36 @@ Hugo zeigt sich vernünftig: Erstmal die **30.000-Euro-Testkarte** für 300 Euro
 > Gruß,  
 > Hugo  
 
+## Jetzt wird’s ernst – Hugo soll blechen 💸💻
+
+Und da ist sie, die alles entscheidende Frage: *„Wann möchten Sie die Zahlung vornehmen?“* — charmant serviert mit der Wahl zwischen **Banküberweisung, Bitcoin oder USDT**. Natürlich „geht Krypto schneller“, weil man das Geld dann auch schneller **nicht mehr wiedersieht**. 😏
+
+> Besser, möchten Sie die Zahlung jetzt vornehmen?  
+> Zahlungsoption  
+> Bank  
+> BTC  
+> USDT  
+> Kryptowährungen sind für Zahlungsvorgänge schneller als Banken.  
+> Wählen Sie Ihre Zahlungsoption.  
+>   
+> Wann möchten Sie die Zahlung vornehmen?  
+> Beachten Sie, dass es nach der Zahlung zwei bis vier Werktage dauert, bis die ATM-Karte bei Ihnen eintrifft.  
+
+### Hugo braucht „Prüfungsunterlagen“ – jetzt wird’s spannend 💳🔍
+
+Hugo wäre nicht Hugo, wenn er nicht nochmal gründlich nachhaken würde. Also bittet er ganz höflich um die **Bitcoin-Adresse, die USDT-Wallet und die Bankdaten**, „damit er das erstmal prüfen kann“. Der Dackel grinst breit: *„Prüfen heißt bei uns: Popcorn holen und warten, was für ’ne Kreativität jetzt kommt.“* 🍿🐾
+
+> Hallo,  
+>   
+> bevor ich mich für eine Methode entscheide, brauche ich die genauen Zahlungsinformationen, um das erstmal mit meiner Bank und meinem Kumpel (der kennt sich mit sowas aus) zu prüfen.  
+>   
+> Also bitte sendet mir:  
+> - die Bitcoin-Adresse  
+> - und die Bankdaten (IBAN, BIC, Name der Bank, Kontoinhaber)  
+>   
+> Ohne dass ich das vorher prüfen kann, geht leider gar nichts.  
+>   
+> Schickt mir bitte einfach alle drei Optionen, dann kann ich schauen, was für mich passt.  
+>   
+> Gruß,  
+> Hugo  

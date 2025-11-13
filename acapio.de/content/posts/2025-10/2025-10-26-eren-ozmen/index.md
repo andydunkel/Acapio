@@ -410,3 +410,26 @@ Natürlich informieren wir Eren darüber!
 >   
 > Viele Grüße aus Wanne-Eickel  
 > Hugo  🐾  
+
+## Mailwechsel um die Bank!
+
+Wir schreiben ein paar Mal mit "Eren" hin und her. Sie drängt darauf, dass wir auf WhatsApp wechseln, wir bestehen auf die Bank und verweise darauf, dass die technischen Probleme hoffentlich bald behoben sind.
+
+> Ich schätze, es geht bald, aber ich weiß es noch nicht genau. Ich habe mit dem Bankmitarbeiter gesprochen, und er hat darauf bestanden, dass Sie die Zahlung durchführen. Es wird also keine Verzögerung geben. Deshalb wurden Sie gebeten, sich per WhatsApp mit ihnen in Verbindung zu setzen. Ich verstehe aber nicht, warum Sie das nicht können, denn ich habe erst vor Kurzem mit meinem Bankmitarbeiter über WhatsApp gesprochen, und er sagte, Sie könnten die Zahlung durchführen.   
+
+
+### Die Bank meldet sich wieder: infocenturiontb@proton.me
+
+Kaum war die alte Domain vom Netz, taucht die „Bank“ wieder auf – diesmal mit einer **ProtonMail-Adresse**, dem Lieblingswerkzeug aller Hobby-Geheimagenten und Internetzauberer. 
+
+Angeblich hat ein „Serverproblem“ gleich die Webseite *und* das E-Mail-System gelöscht, aber keine Sorge: Das „IT-Team“ arbeitet „mit Hochdruck“ daran, während Herr Wilkins natürlich weiterhin gerne Hugos Zahlung entgegennimmt.
+
+> Hallo Hugo,   
+> wie geht es Ihnen? Wir entschuldigen uns aufrichtig für die Unannehmlichkeiten. Aufgrund eines unerwarteten Serverproblems wurden die Website und die E-Mail-Systeme der Bank derzeit technisch gewartet. Unser IT-Team arbeitet mit Hochdruck daran, die volle Funktionalität so schnell wie möglich wiederherzustellen. Wir verstehen, dass dies insbesondere für Kunden, die Zahlungen tätigen möchten, ärgerlich sein kann, und entschuldigen uns für die Verzögerung.  
+>   
+> Sollten Sie dringend Hilfe bei Ihrer Zahlung benötigen, geben Sie uns bitte Bescheid, damit wir die Transaktion durchführen können. In der Zwischenzeit versichern wir Ihnen, dass alle Kundendaten sicher sind. Vielen Dank für Ihr Verständnis und Ihr anhaltendes Vertrauen.  
+>   
+> Mit freundlichen Grüßen,   
+> David Wilkins  
+
+Natürlich melden wir dem Anbieter "Proton Mail" auch diese Adresse. 😁
