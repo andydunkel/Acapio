@@ -410,6 +410,12 @@ Jetzt wird’s ernst: Mit der frisch „APPROVED“ abgestempelten Garantieerkl�
 > Dackelclub Wanne-Eickel 🚗🐕🍻  
 
 
+## Überweisung
+
+Gemein wie wir sind geben wir nicht nur eine fingierte Zahlung raus, sondern auch noch mit falschane Daten! Die Bankverbindung stammt von einem [anderem Scam](/posts/2025-11-02_atm-karte/). 
+
+![](/posts/2025-08-28_google-nutzung/ueberweisung.webp) 
+
 ## Fazit: Waldi wartet, Google schweigt 🐶💸
 
 Und damit endet das große Abenteuer um 195.000 Euro, drei Banken, vier Empfängernamen und ungefähr so vielen Tippfehlern wie Versprechungen. Erst schrieb der „Online Director von Google“, dann übernahm „Herr Riera“ aus Madrid, später wurde das Geld nach Mailand umgeleitet – und zuletzt landete alles bei einem gewissen **Akhidenor Stanley**. Dann Funkstille.
@@ -417,3 +423,5 @@ Und damit endet das große Abenteuer um 195.000 Euro, drei Banken, vier Empfäng
 Hugo hat alles versucht: Sparkasse, Dackelclub, sogar Waldi hat den Postboten angebellt – doch Google blieb stumm. Vielleicht zählt Wanne-Eickel einfach nicht mehr zu den Premium-Kunden des Konzerns. 🤷‍♂️
 
 Immerhin bleibt eine wichtige Erkenntnis: Wer 195.000 € gewinnen will, sollte keine 495 € dafür bezahlen müssen – schon gar nicht an Liberty Ojemolon & Friends. 🏦🐕🍻
+
+

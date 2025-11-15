@@ -312,3 +312,38 @@ Hugo wäre nicht Hugo, wenn er nicht nochmal gründlich nachhaken würde. Also b
 >   
 > Gruß,  
 > Hugo  
+
+### *Oh là là!* – Hugos exklusiver Italien-Deal 🇮🇹💸
+
+Und da ist sie: die große Enthüllung. Für eine angeblich „nicht zurückverfolgbare Wunderkarte“ soll Hugo plötzlich **eine Überweisung nach Italien** tätigen – an einen gewissen „Richard Uwenlenfoh“ über die Bank **zen.com**. Zahlungsgrund: *Familienunterstützung.*
+
+Der Dackel fällt fast vom Sofa vor Lachen:
+*„Klar Hugo, du unterstützt jetzt die Familie… aber nicht deine!“* 🐾🤣
+
+Nichts schreit lauter **Betrug** als ein „italienischer Vertreter“ mit litauischer IBAN und einer Bank, die für FinTech-Konten bekannt ist. Wenn da jemals eine Blockchain beteiligt war, dann höchstens, um den Verstand zu blockieren.
+
+> Die Überweisung sollte direkt an unseren Vertreter in Italien erfolgen. Die Überweisungsdaten finden Sie unten. Bitte senden Sie mir den Zahlungsbeleg zu.  
+> Italien 🇮🇹 Konto  
+>   
+> Empfänger  
+> Richard Uwenlenfoh  
+> Bankname: zen.com  
+> IBAN: LT963130010180051036  
+> Bic/Swift: BZENLT22  
+>   
+> LAND Italien   
+> Zahlungsgrund? Familienunterstützung  
+>   
+> Wenn Sie die Zahlung über die Bank vornehmen, dauert es ein bis zwei Tage, bis das Geld eintrifft, aber wenn Sie die Zahlung über Kryptowährung vornehmen, dauert es 5 bis 10 Minuten, bis es eintrifft.  
+
+Zumindest der Name stimmt und wer googlet findet schnell eine Person mit dem Namen.
+
+![](/posts/2025-11-02_atm-karte/kontoinhaber.webp)
+
+Neben der Bankverbindung gibt es auch eine Bitcoin-Adresse: **1GbPuJ3ynFoP9LqxvsksmbGvYk1uPTCZ9t**. Auf kurzer Check auf der Blockchain ergibt, dass bisher keine Zahlungen eingegangen sind.
+
+### Wir spielen mit und "überweisen"
+
+Auch Scammer sollen sich mal freuen und wir geben wieder einen fingierten Überweisungsbeleg raus. Mit naiver Absicht verwenden wir nicht den geforterten Betreff, sondern legen den Grundstein für "Bank verweigert die Überweisung". 😁
+
+![](/posts/2025-11-02_atm-karte/ueberweisung.webp)
