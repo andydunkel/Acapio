@@ -121,3 +121,8 @@ So leicht lässt sich Hugo natürlich nicht einwickeln. 1,5 Millionen Euro kling
 > BMW-Club, Abteilung „Vertrauen ist gut, Nachweis ist besser“  
 
 Also fragte Hugo höflich nach, ob es **irgendein offizielles Dokument oder Siegel** gibt, das die Echtheit bestätigt. Schließlich hat die echte EU ja bestimmt genug Stempel, um so etwas ordentlich zu bescheinigen. Bis dahin bleibt Hugo misstrauisch – und das Grillgeld lieber auf dem Konto.
+
+
+## Fazit
+
+Wie so oft bleibt am Ende Funkstille – sobald man **kritische Fragen** stellt, ist der große Geldsegen plötzlich verdampft. Keine 1,5 Millionen Euro, keine EU-Dokumente, keine Professorin Barros – nur heiße Luft und eine dubiose Bankadresse bei *accountant.com*. Offenbar war Hugo diesmal wieder zu schlau für den internationalen „Hilfsfonds“. Der BMW-Club Wanne-Eickel hat’s geahnt: Wenn’s um Millionen geht und keiner mehr antwortet, dann war’s wohl wieder nur **ein Betrug mit EU-Siegel aus dem Tintenstrahldrucker**.
