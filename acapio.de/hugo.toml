@@ -58,7 +58,10 @@ home = ["HTML", "RSS", "JSON"]
   parent = "background"
   url = "/bitcoin/"
 
-
+[[menus.main]]
+  name = "Scam Datenbank"
+  url = "/db/"
+  weight = -90
 
 [[menus.main]]
   name = "Kontakt"
