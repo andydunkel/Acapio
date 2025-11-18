@@ -136,3 +136,81 @@ Natürlich möchte Nicolas jetzt die komplette Datenladung: Name, Adresse, Gebur
 >   
 > Mit freundlichen Grüßen  
 > Hugo 
+
+## 📑🕳️ Die „Dokumente“: Wenn Photoshop einen schlechten Tag hat
+
+Nicolas legt los – und liefert jetzt sogar *Dokumente*. Ein Todeszertifikat aus **China**, eine Einlagerungsurkunde aus **Barcelona** und ein mysteriöses „Deposit Certificate“, das aussieht, als hätte jemand bei Windows 95 die Cliparts neu entdeckt. 
+
+Besonders spannend: Der angeblich verstorbene Spanier **David M. Scholz** ist laut Urkunde im Jahr 2008 bei einem Erdbeben in Sichuan, China gestorben – während er gleichzeitig als spanischer Immobilienmakler firmierte.
+
+Wenn das kein globetrottender Vielseitigkeits-Scholz war.
+
+Natürlich sind die PDFs voller Schreibfehler, Fantasie-Adressen, wild zusammenkopierter Stempel und Unterschriften, die aussehen wie vom Praktikanten auf dem ersten Wacom-Tablet-Kurs. Kurz gesagt: Wer diese Dokumente ernst nimmt, glaubt wahrscheinlich auch, dass Waldi der Dackel mit Bitcoins handelt.
+
+Die Scammer versuchen damit aber nur eines: Seriös wirken. Spoiler: Tun sie nicht.
+
+> Guten Morgen Hugo Scholz  
+>   
+> Ich war heute Morgen beim Gericht, um einige der erforderlichen  
+> Dokumente zur Einsichtnahme abzuholen.  
+>   
+> 1. Aufgrund meiner Hintergrundüberprüfungen und meines Verständnisses  
+> bin ich mir sehr sicher, dass Sie fähig und fähig sind. Aus diesem Grund  
+> habe ich Sie bezüglich dieses Prozesses kontaktiert.  
+>   
+> 2. Haven hat den Prozess untersucht. Ich bin mir sicher, dass wir mit  
+> diesem Prozess beiderseitig erfolgreich sein werden. Ihre Einhaltung  
+> weiß ich zu schätzen und ich werde mein Bestes geben und mich an die  
+> Standardpraxis halten.  
+>   
+> 3. Sobald ich Ihre detaillierten Informationen erhalten habe, kann ich  
+> an dem Bewerbungsschreiben arbeiten, das ich Ihnen mit den  
+> erforderlichen Richtlinien für den Prozess zusenden werde. Daher  
+> brauchen Sie sich über meinen Vorschlag nicht zu beunruhigen.  
+>   
+> Beste Grüße und bleiben Sie gesund  
+> Nicolas  
+
+
+![](/posts/2025-11-13_nicolas-ortels/attachments.webp)
+
+### Anhang 1: Ausweis
+
+![](/posts/2025-11-13_nicolas-ortels/ausweis.webp)
+
+### Anhang 2: Chinesische Sterbeurkunde und Deposit Agreement
+
+![](/posts/2025-11-13_nicolas-ortels/deed.webp)
+
+### Anhang 3: Securty Deposit wasauchimmer
+
+![](/posts/2025-11-13_nicolas-ortels/deposit.webp)
+
+
+---
+
+## 🤯💼 Hugos Sorge: „Darf ich dat überhaupt annehmen? Ich bin doch nur der Hugo!“
+
+Nachdem Nicolas ihm die hochseriösen Weltklasse-Dokumente geschickt hat – Todesurkunde aus China, Papierkram aus Barcelona und ein Deposit-Zertifikat, das aussieht wie aus Word 97 exportiert – kommt Hugo ins Grübeln. Verständlich: Ein Mann, der sonst maximal einen Pfandbon erbt, soll plötzlich internationale Millionen aus China-Spanien-Weltreise-Herkunft kassieren.
+
+> Sehr geehrter Herr Nicolas,  
+>   
+> danke für die ganzen Papiere. Ich hab mir das angeschaut, so gut ich konnte. Sieht alles wichtig aus, aber ehrlich gesagt: Ich hab von sowas überhaupt keine Ahnung.  
+> Ich bin kein Anwalt, kein Banker, nix – ich bin einfach nur der Hugo aus Wanne-Eickel, der am Wochenende am BMW schraubt.  
+>   
+> Darum hab ich jetzt ’ne ganz einfache Frage:  
+> Darf ich so was überhaupt?  
+> Also… kann so ein normaler Typ wie ich einfach so eine große Einlage oder Versicherung aus dem Ausland annehmen? Ich will da nix falsch machen und nachher Ärger kriegen, nur weil irgendein Scholz in Spanien oder China gestorben ist.  
+>   
+> Und wie läuft das genau?  
+> Ist das kompliziert?  
+> Muss ich da irgendwo hin oder irgendwas Wichtiges beantragen?  
+>   
+> Ich will ja mitmachen, aber ich will vorher wissen, ob das alles sauber ist und nicht so’n Ding wird, wo ich am Ende mehr Ärger als Geld krieg.  
+>   
+> Beste Grüße  
+> Hugo  
+> BMW-Club Wanne-Eickel  
+
+Hugo fragt sich also völlig zu Recht: **„Kann ich als kleiner Mann aus Wanne-Eickel sowas überhaupt legal annehmen? Oder kommt da am Ende das Finanzamt, Interpol oder sonst wer um die Ecke und fragt, warum ich plötzlich Millionär bin?“**
+Während Nicolas also seriös wirken will, sitzt Hugo zwischen Werkzeugkiste und BMW-Emblem und versucht herauszufinden, ob man für so eine Erbschaft nicht mindestens ein Jura-Studium oder wenigstens eine gute Rechtsschutzversicherung braucht.
