@@ -347,3 +347,17 @@ Neben der Bankverbindung gibt es auch eine Bitcoin-Adresse: **1GbPuJ3ynFoP9Lqxvs
 Auch Scammer sollen sich mal freuen und wir geben wieder einen fingierten Überweisungsbeleg raus. Mit naiver Absicht verwenden wir nicht den geforterten Betreff, sondern legen den Grundstein für "Bank verweigert die Überweisung". 😁
 
 ![](/posts/2025-11-02_atm-karte/ueberweisung.webp)
+
+---
+
+## Die Überweisung geht schief
+
+Kaum fragen die Herren aus Italien wieder nach, ob wir denn *endlich* gezahlt hätten, ist Hugo natürlich bereit: **„Ja, klar – Überweisung raus!“**
+Doch dann passiert’s: Die Bank meldet sich mit einem hochamtlichen PDF, die Zahlung wurde blockiert, und ein mysteriöser Fragebogen muss ausgefüllt werden. Deutscher Papierkrieg at its best. 🇩🇪📄
+
+Hugo leitet den Scammern nur lässig den Screenshot weiter und fragt: **„Was soll ich tun?“**
+Dann lehnt er sich zurück, der Dackel rollt schon Popcorn in den Napf, und beide warten gespannt, ob die selbsternannten Blockchain-Engel jetzt auch eine Antwort auf deutsche Bürokratie haben.
+
+![](/posts/2025-11-02_atm-karte/bank.webp)
+
+Spoiler: Wahrscheinlich nicht. 😄

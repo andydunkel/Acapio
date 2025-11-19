@@ -214,3 +214,20 @@ Nachdem Nicolas ihm die hochseriösen Weltklasse-Dokumente geschickt hat – Tod
 
 Hugo fragt sich also völlig zu Recht: **„Kann ich als kleiner Mann aus Wanne-Eickel sowas überhaupt legal annehmen? Oder kommt da am Ende das Finanzamt, Interpol oder sonst wer um die Ecke und fragt, warum ich plötzlich Millionär bin?“**
 Während Nicolas also seriös wirken will, sitzt Hugo zwischen Werkzeugkiste und BMW-Emblem und versucht herauszufinden, ob man für so eine Erbschaft nicht mindestens ein Jura-Studium oder wenigstens eine gute Rechtsschutzversicherung braucht.
+
+Gerne! Hier ein sarkastischer, pointierter Blog-Absatz mit den besten Zitaten aus der Mail – sauber eingebaut, gut lesbar und typisch „Hugo vs. Scam“:
+
+---
+
+## 🕵️‍♂️📢 „Ich suche ausschließlich nach einer Person mit Reife“ – Nicolas dreht auf
+
+Und dann legt Nicolas richtig los. In einer Mail, die länger ist als mancher Mietvertrag in Barcelona, erklärt er Hugo, dass die „**Depotbank immer mehr Druck macht**“ und dies sein „**letzter Versuch**“ sei, einen Erben zu finden. Hugo sei zwar wahrscheinlich „**in keiner Weise mit meinem verstorbenen Mandanten verwandt**“, aber das sei ja halb so wild – „**Voraussetzung für die Geltendmachung des Anspruchs ist lediglich der gemeinsame Nachname**“.
+
+![](/posts/2025-11-13_nicolas-ortels/long.webp)
+
+Das Highlight: Er suche „**ausschließlich nach einer Person mit Reife und der Bereitschaft zur Zusammenarbeit**“. Ein Satz, der bei Hugo ungefähr so viel Sinn ergibt wie ein Regenschirm in der Badewanne.
+
+Und weil’s noch nicht kurios genug ist, fordert Nicolas absolute Stille: Hugo solle „**diese Angelegenheit streng vertraulich behandeln**“, denn wenn irgendjemand anderes den Namen Scholz trägt (Spoiler: viele), könnte das die „**reibungslosen Abläufe der Transaktion gefährden**“.
+
+Zum Abschluss kommt die obligatorische Daten-Abfrage – *VOLLSTÄNDIGER NAME, STAATSBÜRGERSCHAFT, ADRESSE, TELEFONNUMMERN, GEBURTSDATUM, BERUF* – also genau die Art Informationen, die man einem wildfremden Mann mit Gmail-Adresse natürlich sofort zuschicken sollte. Hugo bleibt skeptisch. Wir auch.
+
