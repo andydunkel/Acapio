@@ -231,3 +231,96 @@ Und weil’s noch nicht kurios genug ist, fordert Nicolas absolute Stille: Hugo 
 
 Zum Abschluss kommt die obligatorische Daten-Abfrage – *VOLLSTÄNDIGER NAME, STAATSBÜRGERSCHAFT, ADRESSE, TELEFONNUMMERN, GEBURTSDATUM, BERUF* – also genau die Art Informationen, die man einem wildfremden Mann mit Gmail-Adresse natürlich sofort zuschicken sollte. Hugo bleibt skeptisch. Wir auch.
 
+
+Gerne! Hier ist ein sarkastischer Blog-Absatz zur neuen Wendung – inklusive dem absurden „offiziellen“ PDF, das Hugo unterzeichnen soll. Humor, Stil und Ton wieder klar auf „Hugo vs. Internationale Erbschaftsmafia“ eingestellt:
+
+---
+
+## 📝💼 Jetzt wird’s amtlich – oder zumindest sieht es so aus
+
+Und dann kommt endlich das, worauf jeder gute Scam wartet: **ein offiziös aussehendes PDF**, das Hugo ausdrucken, unterschreiben und nach Barcelona faxen soll. Man könnte fast glauben, es stammt aus einer Behörde – wenn man nicht lesen könnte. In dem Schreiben erklärt Rechtsanwalt Nicolas C. Ortells, er habe „**meine Recherchen und Untersuchungen abgeschlossen**“ und präsentiere nun Hugo als Erben der sagenhaften 10-Millionen-Euro-Einlage. Natürlich sei dies alles nur Formsache, denn die Einzelfirma „Gtrust Seguridad“ brenne nur darauf, endlich Hugos Daten zu bekommen.
+
+Besonders charmant: Hugo wird belehrt, dass alles „**streng vertraulich**“ zu behandeln sei, weil ja sonst plötzlich ein anderer Scholz – und davon gibt es nun wirklich ein paar – ebenfalls Erbschaftsansprüche geltend machen könnte. Und natürlich soll Hugo sofort das beigefügte Formular unterschreiben und zurückschicken. Was fehlt? Richtig: Nur noch die Blutgruppe und die Kontonummer von Waldi, dem Dackel.
+
+![](/posts/2025-11-13_nicolas-ortels/formular.webp)
+
+
+> Angesichts der erhaltenen Unterlagen/Informationen und des laufenden  
+> Projekts senden wir Ihnen anbei das Schreiben zur Freigabe Ihrer  
+> Einlage. Bitte prüfen Sie es sorgfältig und unterschreiben Sie es in der  
+> Spalte mit Ihrem Namen, bevor Sie es direkt an die zuständige  
+> Einlagensicherungsgesellschaft in Spanien senden. Eine Kopie des  
+> unterschriebenen Antrags ist für meine Unterlagen und die weitere  
+> Kommunikation mit dem Unternehmen erforderlich.  
+>   
+> Informationen zur Einlagensicherungsgesellschaft:  
+> Gtrust Seguridad  
+> ADRESSE: Carrer De Vallarama, 32, 08006 Barcelona, ​​Spanien  
+> TELEFAX: +3493 2710518  
+> E-MAIL: info@gtseguridad.com  
+>   
+> Bitte beachten Sie, dass nach Eingang des beigefügten Antrags bei der  
+> Einlagensicherungsgesellschaft alle rechtlichen Schritte bezüglich Ihrer  
+> Freigabe eingeleitet werden. Dies bedeutet, dass wir die Transaktion  
+> umgehend bearbeiten müssen.  
+>   
+> Als Ihr Partner steht unser beiderseitiges Interesse stets an erster  
+> Stelle. Ich werde bei allen Verhandlungen klare Anweisungen geben, um  
+> ein positives Ergebnis zu erzielen. Daher finden Sie unten einige  
+> Richtlinien für den Ablauf der Transaktion. Bitte lesen Sie diese  
+> sorgfältig durch:  
+>   
+> 1. Sobald das Einlageninstitut Ihnen Post oder sonstige Mitteilungen  
+> sendet, leiten Sie diese bitte zur rechtlichen Prüfung an mich zurück.  
+> Wir können keinerlei Korrespondenz ignorieren.  
+>   
+> 2. Es ist unumgänglich, dass das Depotunternehmen vor der Freigabe  
+> gültige amtliche Dokumente wie Sterbeurkunde, Geburtsurkunde und weitere  
+> relevante Dokumente des verstorbenen Kunden anfordern wird. Sobald wir  
+> mit dem Verfahren beginnen, werde ich beim Standesamt eine beglaubigte  
+> Kopie der genannten Dokumente einholen, die wir dem Depotunternehmen auf  
+> Anfrage vorlegen können.  
+>   
+> 3. Aufgrund der Vertraulichkeit der Transaktion sind Sie verpflichtet,  
+> alle Verhandlungen und Vorgänge bis zum Abschluss unseres Antrags  
+> vertraulich zu behandeln.  
+>   
+> 4. Nachdem Sie alles oben Genannte verstanden haben, drucken Sie bitte  
+> das Formular aus, unterschreiben Sie es und senden Sie es per  
+> E-Mail-Anhang oder Fax an das Einzahlungsunternehmen.  
+>   
+> 5. Nach Eingang Ihres Antrags erhalten Sie vom Einzahlungsunternehmen  
+> eine Übersicht über die Auszahlungsbedingungen und die erforderlichen  
+> Schritte/Verfahren für die Transaktion.  
+>   
+> 6. Wie Sie sehen, ist der Antrag in englischer Sprache verfasst, da dies  
+> die internationale Standardsprache ist und Voraussetzung für alle  
+> internationalen Anträge darstellt.  
+
+---
+
+### 📤 Wir schreiben dem Zwischenhändler: info@gtseguridad.com
+
+Nachdem Nicolas nun unbedingt wollte, dass Hugo sein „amtliches“ Freigabeformular nach Barcelona schickt, entscheidet sich Hugo erst mal für die **vernünftige Ruhrpott-Variante**: *nachfragen*. Denn bevor der gute Mann aus Wanne-Eickel irgendwas unterschreibt, druckt oder faxed, will er sicher sein, dass er nicht am Ende den falschen Knopf drückt und plötzlich für irgendeinen spanischen Tresor Mietgebühren zahlt.
+
+Also schreibt Hugo ganz höflich an *info@gtseguridad.com* und fragt nach, ob das Formular dort wirklich hinterlegt ist, ob er noch irgendwas braucht, und ob das Ganze überhaupt stimmt – schließlich kennt er weder den verstorbenen David M. Scholz noch hat er jemals etwas mit Spanien zu tun gehabt, außer dass er einmal Sangria bestellt hat.
+
+> Sehr geehrte Damen und Herren,  
+>   
+> ich habe von Herrn Nicolás C. Ortells ein Schreiben bekommen, in dem steht, dass ich als Erbe von Herrn David M. Scholz eingetragen werden soll. Er meinte, ich solle das Formular unterschrieben an Sie senden.  
+>   
+> Bevor ich das mache, wollte ich nur kurz etwas klären, weil ich sowas noch nie gemacht habe:  
+>   
+> Ist das Formular bei Ihnen korrekt so hinterlegt?  
+> Ich möchte nichts Falsches ausfüllen oder zu früh losschicken.  
+>   
+> Brauchen Sie irgendwas zusätzlich von mir, bevor ich Ihnen das unterschriebene Dokument zukommen lasse? Herr Ortells meinte, es gäbe bestimmte Schritte, die nacheinander laufen müssen.  
+>   
+> Ich bin da ganz ehrlich: Ich kenne diese ganze Einlage überhaupt nicht und hatte auch nie Kontakt zu Spanien. Deswegen will ich nur sicher sein, dass ich nichts falsch mache und das wirklich bei Ihnen richtig ist.  
+>   
+> Sobald ich eine kurze Bestätigung von Ihnen habe, sende ich Ihnen das Formular wie gewünscht unterschrieben zurück.  
+>   
+> Vielen Dank für Ihre Hilfe.  
+>   
+> Mit freundlichen Grüßen  
+> Hugo  
