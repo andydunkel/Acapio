@@ -324,3 +324,43 @@ Also schreibt Hugo ganz höflich an *info@gtseguridad.com* und fragt nach, ob da
 >   
 > Mit freundlichen Grüßen  
 > Hugo  
+
+---
+
+## 🏦📩 Die „Einlagensicherung“ meldet sich – und natürlich ist alles dringend, eilig und absolut glaubwürdig
+
+Und siehe da: **Gtrust Seguridad** antwortet. Oder besser gesagt: Ein gewisser *Oscar Vicente Josué*, „Operations (HOP)“, schreibt Hugo zurück und klingt dabei wie eine Mischung aus Dringlichkeits-Marketing und Behördensimulation. Man bestätigt Hugo, dass Nicolás natürlich der „**eingetragene Bevollmächtigte**“ sei und dass man „**schnelles Handeln**“ brauche, bevor der Staat die Kohle einsackt. Klar – das spanische Finanzministerium wartet schließlich nur darauf, dass Hugo aus Wanne-Eickel zu lange überlegt.
+
+Besonders bemerkenswert: Oscar gibt eine neue E-Mail an –
+**nicolas.ortells@hillbrandglobaladvisors.com** – offenbar arbeitet Nicolás jetzt parallel für drei Firmen. Vielleicht ist er Anwalt, Treuhänder und internationaler Berater in einer Person. Multitalent.
+
+> Sehr geehrter Herr,  
+>   
+> Wir haben Ihre E-Mail erhalten und können sie bestätigen. Herr Nicolás  
+> C. Ortells ist der eingetragene Bevollmächtigte unseres verstorbenen  
+> Mandanten (David M. Scholz). Wir verwalten dessen Erbschaft und haben  
+> Herrn Nicolás C. Ortells persönlich beauftragt, den Begünstigten dem  
+> Treuhänder vorzustellen, damit dieser die Gelder beanspruchen kann.  
+> Andernfalls fallen sie an den Staat. Daher ist schnelles Handeln  
+> erforderlich. Die E-Mail-Adresse von Herrn Nicolás C. Ortells lautet:  
+> nicolas.ortells@hillbrandglobaladvisors.com  
+>   
+> Wir haben den Antrag sorgfältig geprüft. Sie können ihn unterschreiben  
+> und uns zur weiteren Bearbeitung zusenden.  
+>   
+> Vielen Dank  
+> Oscar Vicente Josué  
+> Bestätigung/Freigabe  
+> Operations (HOP)  
+
+Perfekt – dann gibt’s jetzt den passenden Blog-Absatz zur *Hugo-Scholz-Kringel-Signatur*, der den Moment herrlich einfängt:
+
+---
+
+## ✍️🖋️ Hugo unterschreibt – und zwar so richtig „Hugo-mäßig“
+
+Damit „Barcelona“ endlich Ruhe gibt, hat Hugo das Formular natürlich „unterschrieben“. Und wie! Während Nicolas und Konsorten sich mit ihren gekritzelten Fake-Juristen-Schwüngen abmühen, setzt Hugo einfach seinen unverwechselbaren **Wanne-Eickel-Premium-Kringel** unter das Dokument. Ein Kunstwerk irgendwo zwischen Arzt-Rezept, DHL-Zustellnachweis und Kindergeburtstagskarte – und damit absolut perfekt für eine internationale Multimillionenerbschaft.
+
+Die Scammer wollten eine Unterschrift? Sie *bekommen* eine Unterschrift.
+
+![](/posts/2025-11-13_nicolas-ortels/unterschrift.webp)

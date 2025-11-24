@@ -361,3 +361,26 @@ Dann lehnt er sich zurück, der Dackel rollt schon Popcorn in den Napf, und beid
 ![](/posts/2025-11-02_atm-karte/bank.webp)
 
 Spoiler: Wahrscheinlich nicht. 😄
+
+---
+
+## Es wird nachgefragt!
+
+Die Scammer lassen nicht locker – im Stundentakt trudeln neue „Anweisungen“ ein, jedes Mal absurder als zuvor:
+
+> **„Zahlungszweck: Familienunterstützung.“**
+> **„Geben Sie als Verwendungszweck ‘Straßenmusik’ an oder lassen Sie es leer.“**
+> **„Hallo, wurde das Geld zurückerstattet?“**
+
+Hugo und der Dackel lachen Tränen: Erst Blockchain-Wunderkarten, dann Rentnerhilfe – und plötzlich soll der Verwendungszweck **Straßenmusik** sein.
+Wenn Betrüger anfangen, kreativ zu werden, weiß man: Sie sind nervöser als Hugos BMW beim TÜV. 😄
+
+### Hugos Bier-Kaufrausch – Prioritäten muss man setzen 🍻😄
+
+Kaum ist die nächste Scammer-Mail eingetrudelt, hat Hugo dafür natürlich gerade *überhaupt keine Zeit*. Kaufland hatte **Haffeeröder für 0,99 €**, der BMW-Club ist im Trupp angerückt, und gemeinsam haben sie das komplette Regal leergefegt. 
+
+Jetzt wird im Vereinsheim gefeiert, der Dackel dreht Ehrenrunden – und die Scammer bekommen nur eine verwaschene Handy-Mail zurück. Wenn Betrüger hoffen, dass Hugo jetzt überweist, kennen sie seine Prioritäten schlecht: **erst Bier, dann Betrug entlarven.** 🍺🐾
+
+![](/posts/2025-11-02_atm-karte/betrunken.webp)
+
+
