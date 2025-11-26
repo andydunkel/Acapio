@@ -364,3 +364,30 @@ Damit „Barcelona“ endlich Ruhe gibt, hat Hugo das Formular natürlich „unt
 Die Scammer wollten eine Unterschrift? Sie *bekommen* eine Unterschrift.
 
 ![](/posts/2025-11-13_nicolas-ortels/unterschrift.webp)
+
+
+## 📚🔍 Neue „Amtspapiere“ aus Barcelona – und jetzt wird’s richtig schräg
+
+Kaum hat Hugo seine legendäre Krakel-Unterschrift zurückgeschickt, flattert schon die nächste Runde „offizieller“ Dokumente ins Postfach. Diesmal ein angeblicher Behördenbrief aus Barcelona und ein **„Vault Release Processing Form“**, das aussieht wie ein Steuerformular aus einer Parallelwelt – inklusive riesigem *BORDEREAU*-Wasserzeichen, damit es besonders wichtig wirkt.
+
+Oscar Vicente Josué, angeblich Chef der Freigabestelle, erklärt feierlich, Hugo müsse jetzt innerhalb von sieben Tagen allerlei Unterlagen einreichen: Sterbeurkunde (die sie selbst gebastelt haben), eidesstattliche Erklärung (klar), Ausweis – und am besten noch **eine aktuelle Strom-, Gas- oder Wasserrechnung**.
+
+Weil das natürlich völlig normal ist, wenn man eine 10-Millionen-Euro-Erbschaft aus einem spanischen Tresor abholt.
+
+Kurz gesagt:
+Die Scammer werden kreativer, die PDFs sehe aus wie mit Microsoft Word 95 erstellt – und Hugo amüsiert sich köstlich.
+
+> Anbei finden Sie die aktualisierte Bestätigung Ihrer Bewerbung. Bitte  
+> bestätigen Sie den Erhalt dieser E-Mail.  
+>   
+> Mit freundlichen Grüßen,  
+>   
+> Oscar Vicente Josué  
+> Leiter des Operations-/Freigabezentrums  
+> Barcelona, ​​Spanien  
+
+
+![](/posts/2025-11-13_nicolas-ortels/formulare.webp)
+
+Wir leiten die Formulare an Herrn Ortels weiter und sehen dann weiter.
+

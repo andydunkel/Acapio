@@ -384,3 +384,33 @@ Jetzt wird im Vereinsheim gefeiert, der Dackel dreht Ehrenrunden – und die Sca
 ![](/posts/2025-11-02_atm-karte/betrunken.webp)
 
 
+## Jetzt wird’s europäisch – Hugo bekommt den nächsten „Vertreter“ 🇮🇪💸
+
+Und kaum hat Hugo gemütlich weitergefeiert, flattert schon die nächste Sensation rein:
+Der „italienische Vertreter“ ist plötzlich nicht mehr zuständig – jetzt soll das Geld nach **Irland** gehen. Natürlich wieder an einen völlig unbekannten Namen, diesmal **GODSTIME OKOSUN**, über eine Prepaid-Bank. Klar doch.
+
+> Die Überweisung sollte direkt an unseren Vertreter in Irland erfolgen. Die Überweisungsdaten finden Sie unten. Bitte senden Sie mir den Zahlungsbeleg zu.  
+>   
+> Name des Begünstigten: GODSTIME OKOSUN  
+> BANK: Paysafe Prepaid Services Limited  
+> IBAN: IE92 PPSE 9903 8058 9435 64  
+> BIC PPSEIE22XXX  
+> ADRESSE: Grand Canal House, Grand Canal Street Upper  
+> STADT: Dublin   
+> LAND: Irland (IE)  
+>   
+> Zahlungsgrund? Familienunterstützung  
+
+### Hugos Zwei-Tage-Ausraster – und der Dackel mittendrin 🍻🐕💥
+
+Nach zwei Tagen Vollgas mit dem BMW-Club war an Überweisungen natürlich nicht mehr zu denken. Hugo lag wie ein zusammengefalteter Klappstuhl auf dem Sofa, der Dackel hatte sich im Vereinsheim entleert und tat so, als sei er Opfer eines Hafferöder-Tornados geworden. 
+
+Während die Scammer schon ungeduldig nach Dublin schielten, schickte Hugo ihnen nur eine verbeulte Handy-Nachricht voller Tippfehler. Wer zwei Tage Party überlebt, schafft’s vielleicht morgen zur Bank – oder auch erst übermorgen. 😄
+
+> hallo,  
+> sorry das ich mich erst jetz melde… wir haben zwei tage durchgefeiert mit den jungs vom bmw club 😵‍💫🍻  
+> selbst der dackel hat gekotzt ey, der liegt immer noch wie ein lumpen aufm teppich  
+> ich lieg hier auch halb tot aufm sofa, kopf bummert wie ne defekte auspuffanlage  
+> muss mal gucken ob ich morgen überhaupt zur bank komme für die überweisung  
+> ich meld mich dann wieder wenn ich gradaus gucken kann  
+> gruß hugo  
