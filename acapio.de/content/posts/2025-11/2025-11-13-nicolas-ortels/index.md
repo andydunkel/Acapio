@@ -391,3 +391,38 @@ Die Scammer werden kreativer, die PDFs sehe aus wie mit Microsoft Word 95 erstel
 
 Wir leiten die Formulare an Herrn Ortels weiter und sehen dann weiter.
 
+---
+
+## 🏛️📄 Jetzt sogar ein „Formular vom spanischen Justizministerium“ – zumindest laut Paint.exe
+
+Und als die Scammer merken, dass Hugo immer noch fröhlich mitspielt, zünden sie die nächste Stufe: ein angebliches Formular des **„Ministerio de Justicia“**, das aussieht, als wäre es von einem gelangweilten Schüler in der Computer-AG zusammengeklöppelt worden. Links ein Clown-Notar-Stempel, rechts eine pixelige Spanienflagge, oben drüber ein Titel in einer Schriftart, die sogar WordArt peinlich wäre.
+
+Nicolas verlangt nun, Hugo solle dieses Meisterwerk ausfüllen, unterschreiben und zurückschicken – Zweck der Erklärung:
+**„Freigabe des Depots des verstorbenen David M. Scholz an Hugo Scholz.“**
+
+> Gemäß den Vorgaben der Depotbank finden Sie im Anhang das Formular zur  
+> Beantragung der eidesstattlichen Erklärung. Bitte füllen Sie es aus und  
+> senden Sie es mir zu, damit ich die Erklärung wie gewünscht bearbeiten  
+> kann.  
+>   
+> Als Zweck der Erklärung geben Sie bitte Folgendes an: Freigabe des  
+> Depots des verstorbenen David M. Scholz an Hugo Scholz.  
+>   
+> Vielen Dank.  
+> Nicolas.  
+
+![](/posts/2025-11-13_nicolas-ortels/formular_affidavit.webp)
+
+---
+
+### 🖨️🥴 Hugos Druckerstreik
+
+Kaum soll Hugo das nächste „offizielle“ Formular ausfüllen, geht natürlich alles schief: Der Drucker hat keine Tinte mehr und spuckt nur weiße Seiten aus. Klassiker. Während Nicolas dringend nach „amtlichen Unterlagen“ verlangt, sitzt Hugo mit einem leeren Blatt in der Hand da und fragt sich, ob man nicht einfach per E-Mail antworten kann.
+
+> Sehr geehrter Herr Nicolas,  
+>   
+> ich hab das Formular gesehen, aber ich krieg’s gerade nicht gedruckt. Mein Drucker hat keine Farbe mehr und druckt nur leere Seiten.  
+> Können wir das nicht auch ohne Ausdrucken machen? Ich kann Ihnen die Sachen auch einfach per Mail schicken.  
+>   
+> Beste Grüße  
+> Hugo  

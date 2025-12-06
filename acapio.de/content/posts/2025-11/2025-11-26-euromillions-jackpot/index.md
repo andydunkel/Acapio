@@ -93,3 +93,66 @@ Also fragt Hugo erstmal ganz seriös nach einem **offiziellen Dokument**, bevor 
 >   
 > mfg  
 > hugo  
+
+## Die „offizielle“ Urkunde – streng geheim! 🤫💸
+
+Und siehe da – Paul hat geliefert! Weil Hugo so vorsichtig gefragt hat, hat man ihm direkt die **streng vertrauliche, hochamtliche und absolut seriöse Gewinnurkunde** zugeschickt.
+Mit Siegel! Mit Stempel! Mit allem, was ein Word-Template hergibt! 🏅📄
+
+Schon der erste Satz in Pauls Antwort lässt tief blicken:
+*„Bitte zeigen Sie diese aus Sicherheitsgründen niemandem.“*
+Klar! Denn wenn jemand anderes merkt, dass man eine **Euro-Millionen-Urkunde in Comic-Sans-Seriosität** verschickt, könnte ja jemand anfangen, Fragen zu stellen. 🙃
+
+Auf der Urkunde steht natürlich alles, was dazugehört:
+
+* ein Ticket, das nach Seriennummer-Lotto aussieht 🎟️
+* ein Lotteriegesetz, das vermutlich in Absurdistan gilt 📘
+* ein Datum, das man per Hand in einem Formularfeld ergänzt hat 📅
+* und natürlich die Unterschrift von *George Kenneth*, dem vermutlich sehr bekannten „Lottery Manager for EMLI“ – zumindest in den Kellerräumen dieses Scammer-Startups. 🖋️
+
+![](/posts/2025-11-26-euromillions-jackpot/zert.webp)
+
+
+### Hugo legt nach – Auszahlung bitte bis Montag 💸🚗
+
+Nachdem Hugo seine brandneue „Milliarden-Urkunde“ einmal stolz über den Küchentisch gezogen hat (und die Nachbarn natürlich schon neugierig geguckt haben), schreibt er direkt zurück. Schließlich will man ja nicht, dass zwei Millionen Euro ungenutzt rumliegen.
+
+Hugo bleibt pragmatisch: **Auszahlung bitte am Montag**, wenn’s geht. Die Jungs vom BMW-Club planen nämlich am Wochenende einen Ausflug nach Ballermann 6, und da wäre etwas Startkapital natürlich nicht verkehrt. 🍻🏍️
+
+> hey paul,  
+>   
+> danke dir für die urkunde, sieht echt mega aus, richtig offiziell und so. hab ich direkt ausgedruckt und auf den küchentisch gelegt, meine nachbarn ham schon gefragt, was da los is, aber ich hab nix gesagt, wegen geheimhaltung und so.  
+>   
+> also mit der auszahlung, ich würd das gern so schnell wie möglich machen. die jungs vom bmw club fahren nächstes wochenende nach ballermann 6 und da wärs schon gut, wenn ich bissel geld hätte, weißte.  
+>   
+> sagt mal, geht montag schon? oder müsst ihr da erst noch was prüfen? ich kann auch zur sparkasse gehen und das direkt mit denen klären, wenn das einfacher is, die kennen mich da.  
+>   
+> mfg  
+> hugo  
+
+
+## Die nächste Daten-Abfrage – jetzt wird’s persönlich 📋🧐
+
+Kaum hatte Hugo höflich nach der Auszahlung gefragt, kam schon die nächste „amtliche“ Nachricht. Dieses Mal wollen die Euro-Millions-Experten wirklich **alles** wissen: Name, Adresse, Beruf, Alter, Handy, WhatsApp – fehlt eigentlich nur noch Schuhgröße und Lieblingspizza. 
+
+Die Liste liest sich wie das Formular für einen neuen Mobilfunkvertrag, nur dass es hier angeblich um zwei Millionen Euro geht. Dass sämtliche Angaben aber längst in ihren eigenen Mails und „Dokumenten“ stehen, scheint niemanden zu stören. Hauptsache, der Gewinner liefert brav seine Lebensakte nach.
+
+> Bitte geben Sie die folgenden Informationen an, damit wir Ihre Unterlagen für die sofortige Auszahlung freigeben können:  
+>    
+> 1. Vollständiger Name des Gewinners:  
+> 2. Alternative E-Mail-Adresse des Gewinners:  
+> 3. Referenznummer:  
+> 4. Losnummer:  
+> 5. Mobiltelefonnummer:  
+> 6. WhatsApp-Nummer:  
+> 7. Telefonnummer:  
+> 8. Land:  
+> 9. Alter:  
+> 10. Beruf:  
+> 11. Wohnadresse  
+>    
+> Mit freundlichen Grüßen,  
+> Paul S. Rohner  
+> WhatsApp: +44 7529 458688  
+
+Wir schicken den Scammern ein paar Fake-Daten und schauen was passiert.
