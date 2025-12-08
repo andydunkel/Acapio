@@ -156,3 +156,70 @@ Die Liste liest sich wie das Formular für einen neuen Mobilfunkvertrag, nur das
 > WhatsApp: +44 7529 458688  
 
 Wir schicken den Scammern ein paar Fake-Daten und schauen was passiert.
+
+## Weiterleitung an die „Bank“ – jetzt wird’s richtig professionell 🏦🤣
+
+Nachdem Paul seine „amtliche“ Mission erfüllt hat, schickt er Hugo nun zur nächsten Station im Scam-Karussell: einer angeblichen Bank mit gleich **zwei E-Mail-Adressen, London-Telefonnummer und WhatsApp-Service** – klingt wie ein Start-up, das zwischen Kaffeeküche und Spamfilter entstanden ist. Öffentlich soll Hugo bitte nichts sagen, keine Medien, keine Show – nicht etwa, weil das alles faul ist, sondern natürlich, weil Paul „nicht mit Anfragen überhäuft werden möchte“. 
+
+Sehr selbstlos. Jetzt soll Hugo also die Bank kontaktieren, damit diese „in weniger als drei Werktagen“ zwei Millionen Euro überweist. Man muss sich das merken: Die einzige Lotterie der Welt, bei der nicht der Gewinner vorsichtig ist, sondern der angebliche Veranstalter Angst vor zu viel Aufmerksamkeit hat. 💸🕵️‍♂️
+
+
+> EURO MILLIONS JACKPOTS INTERNATIONAL,  
+> 175 WOODHILL ​​ROAD, BULKYARD, LONDON, VEREINIGTES KÖNIGREICH  
+> VON: ONLINE-DIREKTOR,  
+> ABTEILUNG INTERNATIONALE PROMOTIONEN/PRÄMIEN  
+> Antragsnr.: 7GB/M5/0DOE  
+> Referenznr.: UK/NL2024/01NIO  
+>    
+> Sehr geehrter Herr Hugo,  
+>    
+> ich hoffe, es geht Ihnen gut. Es freut mich, dass Sie so schnell reagiert haben und von diesem Geld profitieren können. Ich hoffe, es erweist sich für Sie als vorteilhaft.  
+>    
+> Ich bitte Sie höflich, von öffentlichen Auftritten und Medienpräsenz abzusehen, da ich nicht mit Anfragen überhäuft werden möchte. Um eine Einigung zu erzielen, müssen Sie sich nun mit der Bank in Verbindung setzen. Die Bank ist über die Situation informiert und erwartet Ihre E-Mail.  
+>    
+> Die Kontaktdaten und die E-Mail-Adresse der Bank finden Sie unten. Sie können die Bank per E-Mail kontaktieren. Die Mitarbeiterin wird Ihnen gerne bei der Überweisung Ihres Geldes auf Ihr Bankkonto in Ihrem Heimatland behilflich sein. Ich habe die Bank bereits benachrichtigt, und sie wartet auf Ihre Überweisungsanweisungen. Die Kontaktdaten der Bank lauten wie folgt:  
+>    
+> E-Mail: support@hitchiininvest.online  
+> E-Mail: customercare@hitchiininvest.online  
+> Telefon: +441242235436  
+> WhatsApp: +447417416116  
+> Adresse: Gateway East, White City, London, W12 7TU  
+>    
+> Die Überweisung Ihres EUROMILLIONS-JACKPOTS (2.000.000,00 EUR) dauert weniger als drei Werktage, sofern Sie die Anweisungen der Bank befolgen. Bitte informieren Sie mich umgehend, sobald Sie Ihren EUROMILLIONS-JACKPOT (2.000.000,00 EUR) von der Bank erhalten haben, damit ich Ihre Bewerbung abschließen kann.  
+>    
+> Ich wünsche Ihnen und Ihrer Familie Gottes ewigen Segen, ein behagliches Zuhause, die Liebe Ihrer Familie und die Gesellschaft guter Freunde.  
+>    
+> Mit freundlichen Grüßen,  
+> Paul S. Rohner  
+
+---
+
+## Die „Bank-Webseite“ – professionell wie ein Bauzaunbanner 🏦✨😂
+
+Natürlich hat Paul uns auch die Webseite der angeblichen **Hitchin Investment Bank** genannt, und die sieht… na ja… sagen wir: *bemüht* aus.
+
+Ein paar stockfotos von Menschen, die sehr angestrengt auf einen Laptop starren, dazu ein Logo, das wirkt wie aus einem „Create Your Own Bank in 5 Minutes“-Baukasten – perfekt abgerundet mit Texten wie „Mortgages management“ und „Convenient Options Earn Rewards“, die offenbar direkt von einem müden Google-Translator aus dem Jahr 2011 ausgespuckt wurden.
+
+![](/posts/2025-11-26-euromillions-jackpot/bank.webp)
+
+
+### Hugo kontaktiert die „Bank“ – Finanzelite, macht Platz! 🏦😄
+
+Hugo hat brav der angeblichen Bank geschrieben – freundlich, aber mit der typischen Wanne-Eickel-Erdung. Er fragt, wie die Auszahlung der zwei Millionen denn „normalerweise läuft“ und erwähnt gleich dazu, dass er das Geld fürs Wochenende gebrauchen kann. Prioritäten!
+
+Nebenbei bittet er die Bank darum, ihm die richtige Losnummer nochmal zu schicken, weil seine „grad nicht auffindbar“ ist. Ein Moment, der jede echte Bank ins Schwitzen bringen würde – aber diese hier? Für die ist das wohl Routine. 😏💸
+
+> hallo bank-leute,  
+>   
+> der paul vom euro millions hat gesagt, ich soll mich bei euch melden wegen meiner auszahlung von den 2.000.000 euro.  
+> ich bin der hugo scholz aus wanne-eickel, vielleicht hat er euch schon bescheid gesagt.  
+>   
+> ich weiß noch nicht genau, wie das läuft. überweist ihr mir das einfach so? oder muss ich da irgendwie was unterschreiben? ich war heute eh schon fast bei der sparkasse, aber da war die schlange zu lang, deswegen dachte ich, ich schreib euch erstmal.  
+>   
+> paul meinte, das geht in drei werktagen, das wär super, ich brauch das geld nämlich für eine sache am wochenende mit den jungs vom bmw club. nix großes, aber bisschen startkapital wär halt gut.  
+>   
+> sagt mir bitte bescheid, was ihr noch braucht.  
+> meine daten hab ich dem paul schon geschickt, aber ich glaub, er hat die losnummer verwechselt, er meinte irgendwas mit uk/nl, ich find die zettel grad nicht mehr. könnt ihr mir die nochmal sagen? dann mach ich euch das fertig.  
+>   
+> mfg  
+> hugo  
