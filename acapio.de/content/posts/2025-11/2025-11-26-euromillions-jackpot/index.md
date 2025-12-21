@@ -313,3 +313,20 @@ Statt Ausweis per Mail und Geldüberweisung fragt er erstmal ganz altmodisch nac
 >   
 > gruß  
 > hugo  
+
+---
+
+## Ende der Reise – selbst der Scam-Server sagt „Nein“ 🚦📧
+
+Und dann war plötzlich Schluss. Keine Antwort mehr, kein neues Formular, kein weiteres Offshore-Märchen. Stattdessen meldet sich ganz offiziell das **Mail Delivery Subsystem von Google**:
+**Nachricht blockiert.** 🚫
+
+Unsere E-Mail an die „Bank“ kam nicht mehr durch – offenbar hat man beschlossen, Hugo lieber komplett auszusperren, als noch weitere Fragen zu beantworten oder gar ein „offizielles Dokument“ liefern zu müssen. Wenn selbst die angebliche Bank den Kontakt kappt, sobald jemand skeptisch wird, ist eigentlich alles gesagt.
+
+Kurz gesagt:
+Wer wirklich zwei Millionen Euro auszahlen will, blockiert keine Mails.
+Wer blockiert, wollte nur eins – **vorher kassieren**. 💸🤡
+
+Game over für den Euro-Millions-Traum aus dem Spam-Ordner.
+
+![](/posts/2025-11-26-euromillions-jackpot/mailblocked.webp)
