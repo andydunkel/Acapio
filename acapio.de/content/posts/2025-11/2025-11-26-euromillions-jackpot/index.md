@@ -223,3 +223,93 @@ Nebenbei bittet er die Bank darum, ihm die richtige Losnummer nochmal zu schicke
 >   
 > mfg  
 > hugo  
+
+## Jetzt wird’s teuer – erst zahlen, dann gewinnen 💳🤡
+
+Und da ist er endlich, der Klassiker unter den Scam-Schritten: **Bevor Hugo seine zwei Millionen bekommt, soll er erstmal Geld überweisen.** Natürlich nicht einfach so, sondern für ein hochseriöses *„Offshore-Transitkonto für Nichtansässige“* – ein Begriff, der klingt wie direkt aus dem Handbuch *„Wie erkläre ich Unsinn möglichst kompliziert“*.
+
+Zur Auswahl stehen verschiedene Kontomodelle, von „dauert drei Tage“ bis „geht sofort“ – Überraschung: **Je schneller Hugo an sein Geld will, desto mehr soll er vorher einzahlen.** Dazu bitte noch Ausweis, Reisepass oder Führerschein per Mail schicken, sonst drohen der Bank angeblich „rechtliche Konsequenzen“. Klar.
+
+Kurzfassung:
+👉 Erst überweisen
+👉 Dann Ausweis mailen
+👉 Dann hoffen
+👉 Dann nie wieder was hören
+
+Willkommen in der Endstufe des Millionenmärchens. 💸😏
+
+> Hallo,  
+>   
+> Sie müssen bei uns ein Transitkonto für Nichtansässige eröffnen, um Ihre  
+> Sozialleistungen in Bargeld umzuwandeln. Ich werde Ihnen Ihre neue  
+> Kontonummer und die PINs zukommen lassen, damit Sie auf Ihr Guthaben  
+> zugreifen und es überweisen können. Bitte beachten Sie, dass Ihr neues  
+> Konto bei unserer Bank als Ihr Offshore-Transitkonto hier in  
+> Großbritannien dient und Sie von überall auf der Welt online darauf  
+> zugreifen können. Um ein Konto für Nichtansässige bei uns zu eröffnen,  
+> bittet die Hitchin Bank Sie, den passenden Kontotyp aus unserer  
+> untenstehenden Liste auszuwählen. Damit wir Ihr Konto so schnell wie  
+> möglich eröffnen können, stellen Sie bitte sicher, dass Sie alle  
+> folgenden Schritte abgeschlossen haben:  
+>   
+> Schritt 1: Wählen Sie den gewünschten Kontotyp und überweisen Sie den  
+> Eröffnungsbetrag.  
+>   
+> KONTOART MINDESTEINZAHLUNG  
+>   
+> 1. Sparkonto:  
+>   
+> 2. Festgeldkonto:  
+>   
+> 3. Girokonto:  
+>   
+> 1. Ein Sparkonto ermöglicht einfache Überweisungen, die Gutschrift  
+> erfolgt jedoch erst nach 3 Werktagen.  
+>   
+> 2. Ein Festgeldkonto ermöglicht ebenfalls einfache Überweisungen, die  
+> Gutschrift erfolgt jedoch erst nach 24 Stunden.  
+>   
+> 3. Ein Girokonto ermöglicht sofortige Überweisungen und Gutschriften. Es  
+> ist die schnellste und sicherste Methode.  
+>   
+> Schritt 2: Bitte fügen Sie Ihre Dokumente unten per E-Mail bei. a) Ein  
+> Originaldokument zur Bestätigung Ihrer Identität, z. B. ein Reisepass,  
+> Personalausweis oder Führerschein mit Foto.  
+>   
+> Dies ist eine Sicherheitsmaßnahme, um sicherzustellen, dass wir den  
+> vollen Betrag auf Ihr angegebenes Girokonto überweisen. Andernfalls  
+> drohen uns rechtliche Konsequenzen. Ihre schnelle Reaktion entscheidet  
+> darüber, wie zügig Ihre Überweisung erfolgen kann. Bitte kontaktieren  
+> Sie uns per E-Mail für weitere Informationen zu Ihrer Überweisung und  
+> der von Ihnen gewählten Kontoeröffnungsoption. Mit freundlichen Grüßen.  
+> Sollten Sie weitere Informationen benötigen, kontaktieren Sie uns bitte  
+> direkt per E-Mail. Wir werden Ihre Anfrage schnellstmöglich bearbeiten.  
+>   
+> Bitte beachten Sie, dass sich die Hitchin Investment Bank das Recht  
+> vorbehält, Zahlungen/Überweisungen bei Unregelmäßigkeiten abzulehnen.  
+>   
+> Vielen Dank im Voraus für Ihre Bankverbindung.  
+>   
+> Herr Rohlfsen Russell Williams  
+> E-Mail: support@hitchininvest.online  
+> E-Mail: info@hitchininvest.online  
+> Telefon/WhatsApp: +447417416116  
+> Website: https://www.hitchininvest.online/  
+
+
+## Hugo wird misstrauisch – sogar der Spamfilter warnt 🚨📧
+
+Diese Mail hat es nicht mal bis in den Posteingang geschafft – **direkt Spamfilter**. Selbst Googles Algorithmen hatten offenbar Bauchschmerzen bei „Offshore-Transitkonto für Sozialleistungen“. Und wenn dann auch noch die Jungs vom BMW-Club unisono sagen *„Junge, pass auf bei sowas“*, ist klar: Hugo tritt auf die Bremse.
+
+Statt Ausweis per Mail und Geldüberweisung fragt er erstmal ganz altmodisch nach **einem offiziellen Dokument** – mit Briefkopf, Stempel oder wenigstens irgendwas, das nicht nach Copy-&-Paste klingt. Geld oder Ausweis gibt’s erst, wenn jemand beweist, dass diese Nummer mehr ist als ein schlecht getarntes Märchen aus dem Spam-Ordner. 😏💸
+
+> hallo herr rohlfsen,  
+>   
+> hab eure mail bekommen, die lag allerdings direkt im spamfilter, deswegen war ich erst etwas skeptisch. die jungs vom bmw club ham auch gleich gesagt, dass man bei offshore-sachen und vorab-überweisungen lieber zweimal hingucken soll, nich dass man am ende der doofe is.  
+>   
+> ich will ja nix falsch machen. könnt ihr mir irgendwas **offizielles als dokument** schicken? also so was mit briefkopf, stempel oder unterschrift, wo klar drinsteht, dass das alles echt is und dass ich nix verliere, wenn ich das konto eröffne. dann kann ich mir das in ruhe angucken und auch der familie zeigen.  
+>   
+> geld überweisen oder ausweis per mail schicken mach ich erst, wenn ich sicher bin, dass das alles korrekt läuft. hoffe ihr versteht das, is halt viel geld.  
+>   
+> gruß  
+> hugo  
