@@ -61,3 +61,33 @@ Natürlich antwortet Hugo erst mal vorsichtig – und vor allem ehrlich. Englisc
 > thanks  
 > hugo  
 
+Die Antwort lässt nicht lange auf sich warten, brav übersetzen die Scammer die E-Mail mit einem Übersetzungsdienst.
+
+Hugo versteht die Geschichte jetzt zwar auf Deutsch, aber sie wird dadurch nicht glaubwürdiger – im Gegenteil. Statt Euphorie gibt es einfache Rückfragen: Welche Bank? Welches Land? Und warum sollte man sich absichtlich als jemand ausgeben, der man nicht ist? Jetzt ist der Punkt erreicht, an dem Scammer meist nervös werden – oder plötzlich von „kleinen Gebühren“ sprechen!
+
+
+## Hugo schaltet den Wanne-Eickel-Modus ein
+
+Nach der höflichen Übersetzung ist Schluss mit internationalem Banker-Englisch. Jetzt meldet sich **Hugo aus Wanne-Eickel** – bodenständig, skeptisch und mit gesundem Misstrauen. Keine Fachbegriffe, keine großen Zusagen, sondern einfache Fragen: Wie heißt die Bank? In welchem Land? Und gibt es irgendetwas Schriftliches, das mehr ist als eine nette E-Mail?
+
+Unterstützung bekommt Hugo vom **BMW-Club** und sogar vom **Dackel-Club** – beide einig: Erst prüfen, dann reden. Genau an diesem Punkt wird es für Scammer oft unangenehm. Denn wer echtes Geld verwaltet, kann auch echte Namen, Orte und Dokumente liefern. Wer das nicht kann, fängt meist an auszuweichen.
+
+> hallo herr park,  
+>   
+> also ich sag mal so: ich bin hugo aus wanne-eickel, kein banker und auch kein professor. englisch kann ich nich so, deswegen lieber deutsch.  
+>   
+> ich hab mir das mit den 10,5 millionen jetzt durchgelesen, aber ganz ehrlich: klingt alles bisschen wild. ich soll mich als kunde ausgeben, obwohl ich nie bei ihrer bank war – da krieg ich direkt bauchschmerzen. ich hab kein bock auf ärger mit bank oder polizei.  
+>   
+> ich hab das gestern beim bmw-club und auch im dackel-club erzählt (der dackel hat übrigens gekotzt, so unglaubwürdig fand der das), und alle meinten: erst mal vorsichtig sein.  
+>   
+> bevor ich hier irgendwas zusage:  
+>   
+> wie heißt ihre bank genau?  
+> in welchem land ist die bank?  
+> gibt es irgendwas offizielles, dokument, schreiben, irgendwas mit stempel oder so?  
+>   
+> ich bin einfacher typ, trink gern bier und fahr bmw, aber ich lass mich nich verarschen.  
+> wenn das alles sauber ist, kann man weiterreden. wenn nich, dann eher nich.  
+>   
+> gruß  
+> hugo aus wanne-eickel 🐶🍺🚗  
