@@ -91,3 +91,82 @@ Unterstützung bekommt Hugo vom **BMW-Club** und sogar vom **Dackel-Club** – b
 >   
 > gruß  
 > hugo aus wanne-eickel 🐶🍺🚗  
+
+
+## Kurzfassung: **Alles legal, kein Risiko, Gott ist dabei – aber bitte sofort Passkopie schicken.**
+
+Der angebliche Banker erklärt erneut, dass es sich um eine völlig harmlose Banküberweisung handelt. Zur Beruhigung wird gleich mehrfach betont, wie **gottesfürchtig** man sei und dass **absolut kein Risiko** bestehe – ein Satz, der erfahrungsgemäß immer dann fällt, wenn das Risiko astronomisch hoch ist.
+
+Die Geschichte wird weiter ausgeschmückt: Überschüssige Gewinne aus **2010**, seit **15 Jahren** unauffällig geparkt, keine Spuren mehr vorhanden (praktisch!), jetzt plötzlich der perfekte Moment, das Geld „zu unserem beiderseitigen Vorteil“ zu verschieben. Natürlich streng vertraulich – **niemand darf davon erfahren**, was bei legalen Bankgeschäften ja völlig normal ist.
+
+Im nächsten Schritt sollen wir dann bitte einmal den kompletten **Identitätsbaukasten** liefern: Name, Adresse, Beruf, Telefonnummer und am besten direkt noch eine **Passkopie**. Alles angeblich nur für die „Computerdatenbank“ der Filiale. Welche Bank? Welches Land? Weiterhin egal.
+
+Bonus-Plot: Nach der erfolgreichen Überweisung geht der Banker in Rente und reist persönlich an, um seinen Anteil abzuholen. Und wenn wir schon dabei sind, können wir ihm ja gleich noch eine **lukrative Geschäftsidee** liefern.
+
+>  Hallo Herr Hugo,  
+>   
+> Wie geht es Ihnen? Ich möchte mich für Ihre Antwort bedanken. Ich habe mich sehr über Ihre E-Mail gefreut.  
+>   
+> Bezüglich Ihrer E-Mail möchte ich Ihnen mitteilen, dass es sich um eine Banküberweisung handelt. Ich habe Sie kontaktiert, damit wir gemeinsam und in voller Zusammenarbeit die Freigabe der Gelder auf Ihren Namen veranlassen können. Ich bin ein gottesfürchtiger Mensch und möchte Sie versichern, dass ich mich nicht an illegalen Aktivitäten beteiligen werde. Um Ihnen die Herkunft der Gelder näher zu erläutern: Es handelt sich um überschüssige Gewinne aus dem Jahr 2010, die sich im Abschlussbilanz meiner Bank vor fünfzehn Jahren befanden. Ich habe diese Gelder bis heute auf einem Treuhandkonto ohne Begünstigten verwahrt. Da seit der Einzahlung der Gelder auf mein Konto keine Spuren mehr vorhanden waren, habe ich beschlossen, die Gelder zu unserem beiderseitigen Vorteil zu transferieren, indem ich Sie als rechtmäßigen Begünstigten einsetze. Ich möchte Sie darüber informieren, dass die Transaktion professionell vorbereitet wurde, um uns beiden zugutezukommen. Es besteht absolut kein Risiko. Alles, was ich von Ihnen benötige, ist Ihre maximale Kooperation, um eine reibungslose Überweisung der Gelder auf Ihr Konto zu gewährleisten. Sie dürfen dieses Geschäft mit keiner anderen Partei besprechen, verstanden?  
+>   
+> Ich möchte, dass Sie verstehen, dass ich nach erfolgreichem Abschluss dieser Überweisung meinen Rentenantrag einreichen werde und sobald dieser genehmigt ist, in Ihr Land reisen werde, um meinen Anteil am Geld abzuholen.  
+>   
+> Ich benötige lediglich die folgenden Informationen, um mit der Bearbeitung der Überweisung zu beginnen:  
+>   
+> 1) Vollständiger Name:  
+> 2) Beruf:  
+> 3) Alter:  
+> 4) Telefonnummer/Faxnummer:  
+> 5) Ihr Herkunftsland:  
+> 6) Kontaktadresse  
+> 7) Kopie des Reisepasses oder eines gültigen Ausweises  
+>   
+> Alle oben genannten Informationen werden in unserer Computerdatenbank in meiner Filiale als Daten eines ausländischen Investors, der die Gelder in meiner Filiale eingezahlt hat, gespeichert. Die Bearbeitung der Überweisung beginnt, sobald Ihre Daten in unserer Computerdatenbank erfasst sind. Ich werde Sie während des gesamten Transaktionsprozesses begleiten, es besteht kein Risiko. Ich beabsichtige außerdem, einen Teil meines Geldes in eine profitable Investition in Ihrem Land zu investieren. Haben Sie vielleicht eine gute Idee für ein lukratives Geschäftsvorhaben?  
+>   
+> Ich wünsche Ihnen alles Gute und erwarte Ihre baldige Antwort.  
+>   
+> Vielen Dank und freundliche Grüße,  
+> Mr. Park  
+
+### Kontrolliertes Entgegenkommen – aber mit Handbremse
+
+Hugo zeigt sich kooperativ, aber nicht naiv. Ein paar harmlose Basisdaten gibt es, gerade genug, um den Kontakt am Leben zu halten – **ohne Telefonnummer, ohne Ausweis, ohne sensible Dokumente**. Die Begründung ist simpel und nachvollziehbar: Sicherheit zuerst. Wer ein legales Bankgeschäft anbietet, sollte auch in der Lage sein, **schriftliche Nachweise, einen Banknamen und offizielle Unterlagen** zu liefern. Jetzt liegt der Ball beim „Banker“. Erfahrungsgemäß ist genau das der Moment, in dem entweder gefälschte Dokumente auftauchen – oder plötzlich doch alles ganz schnell gehen soll.
+
+> hallo herr park,  
+>   
+> ok, ich will nicht unhöflich sein und zeige guten willen, aber aus sicherheitsgründen gehe ich langsam vor.  
+>   
+> hier die infos, die ich im moment geben kann:  
+>   
+> vollständiger name:  
+> hugo scholz  
+>   
+> beruf:  
+> lagerarbeiter / fahrer  
+>   
+> alter:  
+> 52  
+>   
+> telefonnummer / fax:  
+> im moment nicht. ich gebe keine telefonnummer raus, solange nichts schriftliches vorliegt.  
+>   
+> herkunftsland:  
+> deutschland  
+>   
+> kontaktadresse:  
+> wanne-eickel, nordrhein-westfalen, deutschland  
+>   
+> ausweis oder passkopie schicke ich noch nicht.  
+> das ist mir zu sensibel für eine e-mail. da müssen sie mir zuerst etwas schriftliches schicken, wo klar steht:  
+>   
+> name der bank  
+>   
+> land der bank  
+>   
+> und ein offizielles dokument oder schreiben  
+>   
+> wenn das passt, kann man über weitere schritte reden.  
+> ich hoffe sie verstehen, sicherheit geht vor.  
+>   
+> gruß  
+> hugo aus wanne-eickel 🍺🚗🐶  
