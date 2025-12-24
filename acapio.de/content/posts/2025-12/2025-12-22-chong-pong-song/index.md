@@ -107,3 +107,50 @@ Wenn dann noch Begriffe wie „vertraulich“, „niemand darf davon wissen“ o
 >   
 > Viele Grüße  
 > Hugo  
+
+## Lob, Druck, Ausweis bitte 📄🚨
+
+Nach Hugos Hinweis, dass ihm die Mails zu lang und zu kompliziert sind, folgt direkt die nächste Textwand. Inhaltlich geht es schnell zur Sache: viel Lob, viel Vertrauen, alles angeblich legal – und dann die klare Ansage.
+
+Hugo soll seinen Beruf nennen, ein Konto bei einer ausländischen Online-Bank eröffnen und dafür sensible Daten liefern. Am Ende wird offen eine Kopie von Ausweis oder Führerschein, Adresse und Telefonnummer gefordert. Natürlich alles streng vertraulich 🤫 und bitte zügig, damit das „Projekt“ in wenigen Tagen abgeschlossen werden kann.
+
+Unterm Strich bleibt: viele Worte, große Versprechen – und das eigentliche Ziel sind persönliche Daten und Identitätsdokumente. Spätestens hier ist klar, wohin die Reise geht. 🛑
+
+> Guten Tag,  
+>   
+> vielen Dank nochmals für Ihr aufrichtiges Interesse an dieser Transaktion. Ich freue mich sehr, dass Sie eine integre, reife und vertrauenswürdige Person sind, auf deren Kompetenz ich mich bei der Abwicklung dieser Transaktion verlassen kann. Aufgrund Ihres Status und Ihrer Erfahrung bin ich sehr zuversichtlich, dieses Geschäft mit Ihnen erfolgreich abzuschließen.  
+>   
+> Wie bereits erwähnt, war es aufgrund der aktuellen Situation notwendig, Ihre Unterstützung in Anspruch zu nehmen. Ich schätze Ihre Bereitschaft, mich bei der Durchführung dieses Projekts zu unterstützen und mir möglicherweise auch bei der Investition meines Geldes in Ihrem Land oder anderswo behilflich zu sein. Ich bin mir dessen ziemlich sicher. Sie brauchen sich keine Sorgen zu machen. Ich werde alle rechtlich erforderlichen Maßnahmen ergreifen, um einen reibungslosen Ablauf des Projekts zu gewährleisten. Es wird alle internationalen Bankgesetze und die Bestimmungen zur Geltendmachung von Ansprüchen der Begünstigten erfüllen. Darauf können Sie sich verlassen.  
+>   
+> Nachdem ich mich entschieden habe, Ihnen diese Transaktion anzuvertrauen, möchte ich Sie daran erinnern, dass Ihr Engagement und Ihre sorgfältige Nachverfolgung unerlässlich sind. Wenn Sie sich ernsthaft engagieren, sollte die gesamte Transaktion in wenigen Tagen abgeschlossen sein.  
+>   
+> BITTE LESEN SIE FOLGENDES UND MELDEN SIE SICH BEI MIR:  
+>   
+> Zunächst möchte ich genau wissen, welchen Beruf Sie ausüben. Dieses Projekt ist sehr kapitalintensiv, daher muss ich äußerst vorsichtig vorgehen. Ich benötige Ihr volles Engagement und Ihr Vertrauen, um dies erfolgreich abzuschließen. Ich weiß, wir haben uns noch nicht persönlich getroffen, bin aber zuversichtlich, dass wir das notwendige Vertrauen aufbauen können, um dieses Projekt durchzuführen.  
+>   
+> Ich suche derzeit nach einer ausländischen Online-Bank, bei der Sie möglicherweise ein Konto auf Ihren Namen eröffnen müssen. Ich werde eine Bank finden, bei der Sie online ein Konto eröffnen können und Ihre Steueridentifikationsnummer benötigen. Das Geld wird dann auf Ihr Konto überwiesen, das Sie für uns beide bei dieser Bank eröffnen. Dies ist eine der Möglichkeiten, die ich gefunden habe, und sie schützt uns vor den Banken in meinem Heimatland. Ich möchte, dass wir das Geld nach Abschluss des Projekts unbesorgt genießen können. Daher sollten Sie meine Anweisungen genau befolgen. Außerdem müssen Sie wissen, dass ich dieses Geld nicht in meinem Namen überweisen kann, da meine Bank sonst wüsste, dass es von mir stammt. Hier benötige ich Ihre Unterstützung.  
+>   
+> Daher müssen Sie möglicherweise ein Konto bei der entsprechenden Bank eröffnen, die dieselbe Überweisungsmethode wie meine Bank verwendet. Ich werde dann von meiner Bank eine Einlagenbestätigung erhalten, die auf Ihren Namen ausgestellt wird und Sie zum Begünstigten der Gelder macht. Sobald das Geld freigegeben ist, wird es auf Ihr Konto überwiesen, und wir können die Bank anschließend anweisen, unsere jeweiligen Aktien nach und nach auf unsere jeweiligen Konten zu übertragen. Ich werde die Dokumentation mit Unterstützung meines Anwalts fertigstellen, um der Transaktion Rechtssicherheit zu geben.  
+>   
+> Bevor wir mit den Formalitäten beginnen, muss ich die Unterlagen vorbereiten, die Sie als Begünstigten des Fonds ausweisen. Bitte senden Sie mir daher eine Kopie Ihres Ausweises (Reisepass ODER Führerschein), Ihre aktuelle Wohnadresse und Ihre Telefonnummer. Ich werde diese an den Anwalt weiterleiten, der die Unterlagen erstellt. Dies dient auch als Nachweis, dass ich mit der richtigen Person verhandle. Sobald ich alle Unterlagen von Ihnen erhalten habe, beginne ich mit der Vorbereitung Ihrer Eintragung als Begünstigter. Ich hoffe, Sie verstehen, warum ich diese Informationen benötige. Es handelt sich um eine beträchtliche Summe, und ich möchte sichergehen, dass ich Sie gut kenne, bevor ich Ihnen alle Details für den Projektstart mitteile. Nach Erhalt Ihrer Unterlagen sende ich Ihnen auch meinen Ausweis.  
+>   
+> Bitte behandeln Sie dieses Projekt vertraulich und sprechen Sie mit niemandem darüber, da es sich um eine vertrauliche Angelegenheit handelt.  
+>   
+> Bitte antworten Sie baldmöglichst.  
+>   
+> Mit freundlichen Grüßen  
+
+### „Ich bin Fahrer – passt das überhaupt?“ 🚗🤔
+
+An dieser Stelle hat Hugo den Ball bewusst zurückgespielt. Statt weitere Fragen zu Dokumenten oder Details zu stellen, kam eine ganz einfache Überlegung: Ist ein ganz normaler Fahrer wirklich die richtige Person für ein angeblich internationales Millionenprojekt? Was hier beschrieben wird, klingt nach Anwälten, Finanzberatern und Spezialisten – nicht nach jemandem aus dem Alltag. Genau solche Zweifel sind wichtig, denn in seriösen Finanzgeschäften zählt Erfahrung und Qualifikation. Bei Scams hingegen ist der Beruf plötzlich egal. Hauptsache, jemand macht mit. 😏
+
+> Guten Tag,  
+>   
+> danke für Ihre Nachricht.  
+>   
+> Ich bin ehrlich gesagt unsicher, ob ich dafür überhaupt die richtige Person bin. Ich arbeite als Fahrer und habe mit Banken, großen Investitionen oder rechtlichen Dingen nichts zu tun. Das klingt eher nach einer Angelegenheit für Anwälte oder Finanzexperten.  
+>   
+> Bevor wir hier weitergehen, wollte ich daher nachfragen, ob mein beruflicher Hintergrund dafür wirklich passend ist.  
+>   
+> Viele Grüße  
+> Hugo  

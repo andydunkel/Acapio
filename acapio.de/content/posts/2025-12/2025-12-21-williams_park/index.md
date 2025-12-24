@@ -170,3 +170,39 @@ Hugo zeigt sich kooperativ, aber nicht naiv. Ein paar harmlose Basisdaten gibt e
 >   
 > gruß  
 > hugo aus wanne-eickel 🍺🚗🐶  
+
+
+## „Vertrauen gegen Daten“ – jetzt wird Druck gemacht
+
+Die Antwort fällt auffallend kurz aus. Statt Belegen, Dokumenten oder auch nur einem konkreten Banknamen gibt es vor allem eines: **Druck**. Ohne vollständige Daten könne man nicht weitermachen, Vertrauen sei die Voraussetzung – gemeint ist damit natürlich **einseitiges Vertrauen**. Neu ist lediglich die vage Information, die Bank sitze „in den USA“. Welche Bank genau, welche Stadt, welche Filiale? Weiterhin Fehlanzeige. Klassisches Muster: Je mehr Fragen gestellt werden, desto knapper und ausweichender werden die Antworten – während der Fokus konsequent auf der Herausgabe persönlicher Daten liegt.
+
+> Hallo Herr Hugo,  
+>   
+> vielen Dank für die Informationen. Wie ich bereits erwähnt habe, kann die Geschäftsabwicklung ohne Ihre vollständigen Daten nicht fortgesetzt werden. Ohne Vertrauen kann dieses Geschäft nicht erfolgreich sein. Die Bank, die diese Transaktion abwickelt, hat ihren Sitz in den USA.  
+>   
+> Das ist alles, was ich Ihnen im Moment mitteilen kann. Wenn Sie wirklich an diesem Geschäft interessiert sind, senden Sie mir bitte die restlichen Daten, die ich von Ihnen angefordert habe, damit wir den Prozess beginnen können.  
+>   
+> Ich freue mich, bald von Ihnen zu hören.  
+>   
+> Vielen Dank und freundliche Grüße,  
+> Herr Park  
+
+### Das Ultimatum – ohne Belege kein Kontakt mehr
+
+An diesem Punkt ist für Hugo Schluss mit lustig. **Vertrauen ohne Gegenleistung gibt es nicht**, schon gar nicht bei angeblichen Millionen-Überweisungen. Die Forderung nach immer mehr persönlichen Daten steht weiterhin im Raum, während von der anderen Seite **kein einziges schriftliches Dokument** geliefert wird – nicht einmal ein Bankname. Also folgt das Ultimatum: Entweder es kommen endlich **nachprüfbare Unterlagen**, oder der Kontakt endet hier. Denn eines ist klar: Hugo mag aus Wanne-Eickel kommen, **aber doof ist er nicht**.
+
+> Hallo Herr Park,  
+>   
+> ich mache es jetzt ganz klar.  
+>   
+> Ohne schriftlichen Nachweis, Dokumente, einen Banknamen oder irgendetwas Offizielles  
+> gibt es von mir keine weiteren Daten.  
+> Kein Ausweis, keine Telefonnummer, gar nichts.  
+>   
+> Wenn Sie wirklich seriös sind, schicken Sie mir zuerst etwas Schriftliches.  
+> Wenn nicht, dann war es das und ich melde mich nicht mehr.  
+>   
+> Ich habe heute Weihnachtsfeier vom BMW-Club und ehrlich gesagt keine Zeit für Faxen.  
+>   
+> Gruß  
+> Hugo aus Wanne-Eickel 🍺🚗🎄  
