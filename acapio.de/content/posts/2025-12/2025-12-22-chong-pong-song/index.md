@@ -154,3 +154,16 @@ An dieser Stelle hat Hugo den Ball bewusst zurückgespielt. Statt weitere Fragen
 >   
 > Viele Grüße  
 > Hugo  
+
+
+## Jetzt wird es eindeutig: Ausweis her 🛑🪪
+
+Nach all den langen Erklärungen, Lobeshymnen und angeblichen rechtlichen Absicherungen bleibt am Ende nur noch ein einziger Satz übrig – und der sagt alles. Der angebliche Bankmitarbeiter fordert nun ganz direkt eine Kopie des Ausweises, egal ob Reisepass oder Führerschein. Keine weiteren Details, keine neuen Erklärungen, kein Kontext.
+
+Spätestens hier fällt jede Maske. Wer Ausweisdokumente per E-Mail verlangt, will kein Geschäft abwickeln, sondern Identitäten missbrauchen. Ab diesem Punkt geht es nicht mehr um Geld, sondern um Identitätsdiebstahl – und genau hier sollte jede Kommunikation sofort enden. 🚨
+
+> Ich benötige von Ihnen eine Kopie Ihres Ausweises (Reisepass ODER Führerschein).  
+
+Nagut, dann schicken wir halt mal unseren Fake-Ausweis:
+
+![](/posts/2025-12-22_chong-pong-song/ausweis.webp)
