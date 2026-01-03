@@ -167,3 +167,46 @@ Spätestens hier fällt jede Maske. Wer Ausweisdokumente per E-Mail verlangt, wi
 Nagut, dann schicken wir halt mal unseren Fake-Ausweis:
 
 ![](/posts/2025-12-22_chong-pong-song/ausweis.webp)
+
+## Ausweis da, Konto folgt, Kosten natürlich auch 💸🙃
+
+Kaum ist der Ausweis angeblich angekommen, geht es plötzlich ganz schnell. Ein Anwalt wird erwähnt, eine US-Bank steht bereit und Hugo soll demnächst ein neues Konto eröffnen – natürlich auf seinen Namen. Die Millionenüberweisung sei „intern“, „diskret“ und für Behörden völlig unauffällig. Klingt beruhigend.
+
+Der Haken kommt wie immer später: Zwar übernimmt der Scammer angeblich alle großen Kosten, Hugo soll aber trotzdem für Kontoeröffnung, Startguthaben und eigene Ausgaben selbst aufkommen. Und weil Vertrauen wichtig ist, wird eine 50/50-Gewinnteilung versprochen. Kurz gesagt: Identität eingesammelt, Konto geplant, erste Zahlungen vorbereitet – klassischer Scam-Fahrplan. 🚨
+
+>  Sehr geehrte/r,  
+>   
+> ich habe Ihre Informationen und die Kopie Ihres Ausweises erhalten und werde diese an den Anwalt weiterleiten, der die Formalitäten erledigt. Ich werde Sie später über die Bank informieren, bei der Sie ein neues Konto auf Ihren Namen eröffnen sollen. Sobald das Konto eingerichtet ist, werde ich den Betrag überweisen. Ich sende Ihnen außerdem eine Kopie meines Reisepasses zu Ihrer Information. All dies geschieht nach Eingang Ihrer Antwort.  
+>   
+> Sie sollten wissen, dass die Bank, die wir für diese Transaktion nutzen werden, in den Vereinigten Staaten ansässig ist. Als Bankangestellter ist es meine Pflicht, sicherzustellen, dass diese Überweisung diskret abläuft. Ein Grund dafür ist, dass diese Bank dasselbe Telex-System wie meine Bank verwendet. Das bedeutet, dass jede Überweisung zwischen unseren Banken als interne Überweisung gilt. Dadurch vermeiden wir die Aufmerksamkeit bestimmter internationaler Finanzinstitutionen mit strengen Geldpolitiken. Sie brauchen sich diesbezüglich keine Sorgen zu machen.  
+>   
+> Die Behörden würden diese Überweisung einfach als normale Banktransaktion betrachten, ohne Verdacht zu erregen. Dennoch ist es notwendig, in solchen Angelegenheiten Vorsichtsmaßnahmen zu treffen, und ich muss sicherstellen, dass unsere Interessen bei dieser Transaktion gewahrt bleiben. Als professioneller Banker erwarte ich, dass Sie meinen Anweisungen folgen, damit die Transaktion erfolgreich verläuft.  
+>   
+> An dieser Stelle möchte ich Sie auch auf einige wichtige Punkte bezüglich der mit dieser Transaktion verbundenen Kosten hinweisen. Ihnen ist möglicherweise nicht bewusst, was die Überweisung eines so hohen Betrags, insbesondere von geerbtem Geld, mit sich bringt. Ich versichere Ihnen, dass ich die Kosten für die gesamte Logistik dieser Überweisung übernehmen werde, wie beispielsweise die Kosten für die Beauftragung eines Anwalts und die Beschaffung der notwendigen offiziellen Dokumente und Genehmigungen der Hongkonger Behörden sowie alle weiteren Kosten, die für eine reibungslose Überweisung anfallen. Ich werde keine Phase dieser Transaktion dem Zufall überlassen.  
+>   
+> Ich möchte Ihnen hiermit klarstellen, dass 5 % der Gesamtsumme als Kostenerstattung für alle im Rahmen dieser Transaktion anfallenden Kosten beider Parteien zurückgestellt werden. Daher empfehle ich Ihnen, alle Ihre Ausgaben, unabhängig von deren Höhe, zu dokumentieren. Ich werde meine Ausgaben ebenfalls dokumentieren. Diese werden wir bei der Gesamtberechnung von den 5 % abziehen. Wie bereits in meiner vorherigen E-Mail an Sie erwähnt, erhalten Sie als ausländischer Partner 50 % der Gesamtsumme als Ihren Anteil. Ich habe Ihnen bereits erklärt, warum ich Ihre Unterstützung benötige. Tatsache bleibt, dass ich die Gelder nicht in meinem eigenen Namen überweisen kann. Dies ist der Hauptgrund, warum Ihre Hilfe als Ausländer erforderlich ist.  
+>   
+> An dieser Stelle möchte ich Sie darüber informieren, dass ich alle meine Kosten im Rahmen dieser Transaktion trage. Sie hingegen müssen Ihre Kosten übernehmen, beispielsweise die Kosten für die Kontoeröffnung und die Aktivierung mit einem Startguthaben. Eigentlich erwarte ich von Ihnen in Ihrem Alter und mit Ihrem Status, dass Sie die Bearbeitung Ihres Kontos selbst übernehmen.  
+>   
+> Was die Steuern betrifft, werde ich die Erbschaftssteuer und alle anderen Steuern von Ihnen begleichen lassen. Ich möchte Ihnen jegliche Schwierigkeiten bei der Zahlung ersparen und kümmere mich darum. Ich werde Ihnen in Kürze eine Kopie meines Reisepasses zukommen lassen, sobald ich Ihre Antwort erhalten habe.  
+>   
+> Mit freundlichen Grüßen,  
+
+### Damit wir alles glauben, der Ausweis von Chong Pong Song
+
+![](/posts/2025-12-22_chong-pong-song/ausweis_song.webp)
+
+### Wir fragen nach Bank-Details
+
+An dieser Stelle haben wir bewusst auf die Bremse getreten. Statt überstürzt ein neues Konto zu eröffnen oder erste Kosten zu übernehmen, haben wir ganz nüchtern nachgefragt, um welche Bank es überhaupt gehen soll und welche Schritte konkret notwendig wären. Genau hier trennt sich in solchen Fällen schnell die Spreu vom Weizen: Seriöse Finanzgeschäfte können klare Banknamen, nachvollziehbare Abläufe und überprüfbare Informationen liefern. Scammer reagieren auf solche Rückfragen meist ausweichend, mit noch mehr Text – oder gar nicht mehr.
+
+> Guten Tag,  
+>   
+> danke für Ihre Rückmeldung.  
+>   
+> Bevor ich hier weiter etwas veranlasse oder Kosten übernehme, möchte ich das in Ruhe prüfen. Die Eröffnung eines neuen Kontos, mögliche Gebühren und steuerliche Fragen sind für mich keine Kleinigkeit.  
+>   
+> Bitte teilen Sie mir zunächst mit, um welche Bank es konkret geht und welche Schritte genau erforderlich sind. Danach melde ich mich wieder.  
+>   
+> Viele Grüße  
+> Hugo  
