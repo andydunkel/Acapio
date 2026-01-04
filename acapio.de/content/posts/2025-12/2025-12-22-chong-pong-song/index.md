@@ -210,3 +210,47 @@ An dieser Stelle haben wir bewusst auf die Bremse getreten. Statt überstürzt e
 >   
 > Viele Grüße  
 > Hugo  
+
+
+## Vom „Bruder“ zur Offshore-Bank in der Türkei 🤝🏦🚨
+
+Nachdem wir lediglich nach Bankdetails gefragt hatten, eskaliert die Geschichte erwartungsgemäß. Aus einem Fremden wird plötzlich ein „Bruder“, aus Skepsis tiefes Vertrauen – und aus einer angeblich seriösen Transaktion eine Einladung zur Kontoeröffnung bei einer obskuren „Online-Bank“ in der Türkei: 
+
+> TURKCITY BANK INC keine reguläre TURKCITY BANK INC ist, sondern eine Kreditintermediärbank, die ein Online-Banking-System in kleinem Umfang betreibt und Bankdienstleistungen für Privatpersonen und Unternehmen mit internationalen Geschäften anbietet
+
+> Bankname: TURKCITY BANK INC  
+> E-Mail: turkcib@accountant.com  
+> Bankdirektor: Durmuş Ali Kuzu  
+> KONTAKTPERSON: Herr Durmuş Ali Kuzu  
+> (Generaldirektor für operative Angelegenheiten)  
+> Leiter Privat- und Geschäftskunden  
+> Adresse: BANKADRESSE ::: 01021 - BEYKOP BELIKDUZU SUBESI ISTANBUL TÜRKEY. 
+
+Kontakt bitte nicht über eine Bankdomain, sondern ganz professionell per `@accountant.com`. Dies ist der klassische Free-Mailer-Trick, eine Domain die halbwegs seriös aussehen soll, aber jeder kann sich so einen Account klicken.
+
+Die Begründung ist wie aus dem Scam-Lehrbuch: interne Telex-Überweisungen, keine Aufmerksamkeit der Behörden, alles diskret und natürlich extrem dringend. Kurz gesagt: viel Pathos, religiöse Segenswünsche und emotionale Bindung – kombiniert mit der Aufforderung, schnell ein neues Konto zu eröffnen. Genau hier ist endgültig klar: Das ist kein Banking, das ist Betrug. 🛑
+
+![Kurz fassen, nicht mit Mr. Pong](/posts/2025-12-22_chong-pong-song/long_bank.webp)
+
+### Hugo kontaktiert die Bank 
+
+Egal wir fragen beim Direktor **Durmuş Ali Kuzu** mal genauer nach, mit der Bitte sich kürzer zu halten, wir können nicht soviel lesen.
+
+> Guten Tag,  
+>   
+> ich habe Ihre Kontaktdaten über einen Dritten erhalten und bin ehrlich gesagt etwas unsicher, worum es hier genau geht.  
+>   
+> Mir wurde mitgeteilt, dass ich bei Ihnen ein Online-Konto eröffnen soll. Ich bin allerdings kein Banker und bekomme dazu sehr viele lange E-Mails, die mich eher verwirren als weiterbringen. Die Jungs aus dem Dackelclub meinten gestern bei der Zeche auch, man müsse bei so etwas sehr vorsichtig sein.  
+>   
+> Könnten Sie mir bitte kurz und verständlich erklären:  
+>   
+> - ob es Ihre Bank wirklich gibt,  
+> - ob eine Kontoeröffnung per E-Mail möglich ist,  
+> - und was dafür grundsätzlich benötigt wird?  
+>   
+> Bitte möglichst einfach, ich bin etwas überfordert mit der ganzen Sache.  
+>   
+> Vielen Dank.  
+>   
+> Viele Grüße  
+> Hugo  

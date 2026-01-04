@@ -86,4 +86,40 @@ Nach einer sachlichen Rückfrage läuft das Drehbuch fast immer gleich ab:
 
 Wer bis hierhin ruhig bleibt und nichts überweist, hat das Spiel im Grunde bereits gewonnen. 😏
 
----
+## Die Antwort des „Barristers“: Jetzt wird es konkret – angeblich
+
+Die Verwirrung aus Wanne-Eickel beeindruckt wenig. Statt auf die offenen Fragen einzugehen, legt der angebliche Anwalt direkt nach:
+Jetzt geht es plötzlich um ein **„inheritance fund“ in Höhe von 5,6 Millionen Dollar**. Beauftragt natürlich gleich von **US- und UK-Regierung gemeinsam** – man gönnt sich ja sonst nichts. 🌍💼
+
+> I am Barrister James Frederick, Principal Attorney with Springfield Law Office worldwide we have our offices in Europe, United States and Asia. Thank you very much for your email message. we are instructed by the government of United States and UK to help you transfer your inheritance fund which is the sum $5,600,000 to your bank account in Germany. We are committed to assist you with every legal means. We will provide you with the bank contact details once you are ready to proceed   
+
+
+Auffällig:
+Keine Erklärung, warum Hugo erben soll.
+Kein Bezug zu einer Person, keinem Nachlass, keinem Dokument.
+Dafür ein klarer Ausblick auf den nächsten Schritt: **Bankdetails gibt es erst, wenn man „bereit ist fortzufahren“**.
+
+Genau hier liegt der Klassiker:
+Solange man nur liest und staunt, bleibt alles vage. Sobald man „bereit“ ist, folgen erfahrungsgemäß Formulare, Gebühren und ganz viel angebliche Bürokratie – selbstverständlich gegen Vorkasse. 💸
+
+Kurz gesagt:
+Aus „überwiesenem Geld“ wird nun ein Millionen-Erbe. Die Story wird größer, die Belege bleiben gleich null. 😏
+
+### Geht es auch auf Deutsch?
+
+Nachdem aus dem angeblich bereits überwiesenen Geld nun plötzlich ein Millionen-Erbe geworden ist, folgt Hugos nächster logischer Schritt: nachfragen – diesmal ganz pragmatisch. Denn komplizierte englische Mails über internationale Erbschaften sind schwer zu beurteilen, wenn man selbst kaum Englisch spricht.
+
+> Sehr geehrter Herr Frederick,  
+>   
+> vielen Dank für Ihre Nachricht.  
+>   
+> Leider muss ich vorab sagen, dass ich kaum Englisch verstehe und mich mit solchen Inhalten schwertue.  
+> Um Missverständnisse zu vermeiden, wäre es für mich deutlich einfacher, wenn Sie mir den Sachverhalt auf Deutsch erklären könnten.  
+>   
+> Ich weiß aktuell weder, von welchem Erbe Sie sprechen, noch warum ich davon bisher nichts wusste.  
+> Ohne eine verständliche Erklärung kann ich leider nicht beurteilen, worum es hier geht.  
+>   
+> Vielen Dank für Ihr Verständnis.  
+>   
+> Mit freundlichen Grüßen  
+> Hugo  
