@@ -123,3 +123,48 @@ Nachdem aus dem angeblich bereits überwiesenen Geld nun plötzlich ein Millione
 >   
 > Mit freundlichen Grüßen  
 > Hugo  
+
+
+## Jetzt auf Deutsch – aber nicht glaubwürdiger
+
+Kaum bittet Hugo um Deutsch, klappt das plötzlich problemlos. 🇩🇪✨
+Inhaltlich wird es aber nicht besser – im Gegenteil.
+
+Jetzt sollen **gleich zwei Regierungen (USA & UK)** persönlich dabei helfen, **5,6 Millionen US-Dollar** nach Deutschland zu überweisen. 💸🌍
+Details? Fehlanzeige. Kein Erblasser, kein Aktenzeichen, kein offizielles Schreiben. Dafür der altbekannte Satz: *Bankdaten gibt es erst, wenn man „bereit ist“.*
+
+Und genau hier wissen wir, wie es weitergeht:
+„Bereit sein“ bedeutet meist Gebühren, Freigaben, Steuern oder sonstige Fantasieposten – natürlich **vor** der Auszahlung. 🧾💰
+
+> Wir sind von den Regierungen der Vereinigten Staaten und Großbritanniens beauftragt, Sie bei der Überweisung Ihres Geldbetrags von 5.600.000 US-Dollar auf Ihr deutsches Bankkonto zu unterstützen. Wir sichern Ihnen dabei alle rechtlichen Möglichkeiten zu. Sobald Sie bereit sind, die Überweisung durchzuführen, erhalten Sie die Bankverbindung von uns. Bitte melden Sie sich umgehend bei uns, damit Sie Ihr Geld schnellstmöglich erhalten.  
+
+
+### Wenn plötzlich der Dackelclub zuständig ist 🐶
+
+Hugo bleibt konsequent bodenständig: Millionenüberweisungen gehen im Dackelclub nicht ohne Vorstand, Kassenprüfung und Unterlagen. 🐕📑
+Genau diese nüchterne Bürokratie ist für Scammer tödlich – denn ohne Nachweise, Aktenzeichen oder echte Zuständigkeiten bricht das Konstrukt schnell zusammen.
+
+Ob sich die US- und UK-Regierung nun beim nächsten Dackelclub-Treffen meldet? 😏
+
+> Sehr geehrter Herr Frederick,  
+>   
+> vielen Dank für Ihre Nachricht.  
+>   
+> Ich muss dazu sagen, dass ich Ihre E-Mail zunächst für eine Nachricht an mich in meiner Funktion als Kassenwart unseres lokalen Dackelclubs gehalten habe, da ich darüber regelmäßig Post zu Finanzen und Abrechnungen erhalte.  
+>   
+> Da es sich bei dem von Ihnen genannten Betrag um eine sehr hohe Summe handelt, kann ich darüber nicht alleine entscheiden.  
+> Solche Angelegenheiten müssen bei uns zunächst im Vorstand besprochen und anschließend durch die Kassenprüfung freigegeben werden.  
+>   
+> Dafür benötigen wir vorab:  
+> – eine schriftliche Erklärung, worum es genau geht  
+> – den Ursprung des angeblichen Erbes  
+> – sowie einen offiziellen Nachweis oder ein Aktenzeichen, das wir den Unterlagen beifügen können  
+>   
+> Ohne diese Informationen kann ich den Punkt leider nicht auf die Tagesordnung setzen.  
+>   
+> Mit freundlichen Grüßen  
+> Hugo   
+> Kassenwart  
+> (Dackelclub Wanne-Eickel)  
+
+![Sitzung beim Dackelclub](/posts/2025-01-03_springfieldlaws/dackel.webp)
