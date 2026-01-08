@@ -168,3 +168,37 @@ Ob sich die US- und UK-Regierung nun beim nächsten Dackelclub-Treffen meldet? �
 > (Dackelclub Wanne-Eickel)  
 
 ![Sitzung beim Dackelclub](/posts/2025-01-03_springfieldlaws/dackel.webp)
+
+
+## Der Nachweis existiert – man darf ihn nur nicht sehen 📄✨
+
+Jetzt wird versichert, dass es **einen Nachweis der Bank gibt**. Die Auszahlung sei genehmigt, alles bestätigt, alles offiziell. Nur eines bleibt gleich: **Das angebliche Dokument bekommt man natürlich nicht zu sehen.**
+
+Stattdessen wird erneut betont, dass Hugo persönlich Anspruch auf die **5,6 Millionen US-Dollar** habe und man extra von der US-Regierung kontaktiert worden sei. Belege? Aktenzeichen? Kopien? Fehlanzeige.
+
+Das Muster ist bekannt:
+„Der Nachweis existiert“ ersetzt hier den Nachweis selbst. Sobald man ihn sehen will, soll man erst „bereit sein“ – und genau dann beginnt erfahrungsgemäß der kostenpflichtige Teil der Geschichte. 💸😏
+
+> Die Geldüberweisung steht ausschließlich Ihnen zu, und wir haben einen Nachweis über die Gelder, das entsprechende Dokument der Bank. Die Auszahlung der Summe von 5.600.000 US-Dollar wurde genehmigt, und ich wurde von der US-Regierung kontaktiert, um Ihnen beim Empfang des Geldes auf Ihrem Bankkonto in Deutschland zu helfen.  
+
+
+### Hugo ist genervt...
+
+Nachdem der angebliche Nachweis weiter unsichtbar bleibt, fragt Hugo nun direkt nach – ohne Höflichkeitsfloskeln. Keine Zeit für Spielchen, kein Nerv für vage Aussagen. Genau an diesem Punkt wird es für Scammer interessant: Jetzt müssen sie Farbe bekennen.
+
+> Sehr geehrter Herr Frederick,  
+>   
+> ich sage es offen: Ich habe heute ehrlich gesagt wenig Geduld für Hin-und-Her.  
+>   
+> Mein Dackel ist heute in eine Scherbe getreten, wir sitzen hier beim Tierarzt, und ich habe gerade keine Lust auf irgendwelche Spielchen oder vage Aussagen.  
+>   
+> Bitte sagen Sie mir konkret und kurz, wie es jetzt weitergeht  
+> – was genau ich tun soll  
+> – und was Sie von mir erwarten.  
+>   
+> Alles andere klären wir später.  
+>   
+> Gruß  
+> Hugo  
+
+Erfahrungsgemäß folgt hier entweder der erste Kostenpunkt – oder der Kontakt bricht ab. Beides ist ein klares Zeichen dafür, dass es nie um ein Erbe ging, sondern nur um Geduld, Druck und Geld. 😏

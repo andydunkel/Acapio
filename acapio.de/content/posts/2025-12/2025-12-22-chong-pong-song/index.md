@@ -254,3 +254,77 @@ Egal wir fragen beim Direktor **Durmuş Ali Kuzu** mal genauer nach, mit der Bit
 >   
 > Viele Grüße  
 > Hugo  
+
+## Willkommen bei der Bank mit Einzahlungsgebühr 💳💸🚨
+
+Die angebliche „Bank“ meldet sich prompt – mit Freemail-Adresse, Fantasie-Titeln und einem beeindruckenden Angebot: Konto gibt’s nur gegen **Vorkasse**. Je mehr Geld man einzahlt, desto „besser“ wird das Konto. Von 850 € Einstieg bis 4.500 € für das „Diamond Reserve“-Konto mit unbegrenzten Überweisungen ist alles dabei.
+
+> Bankname: TURKCITY BANK INC  
+> E-Mail: turkcib@accountant.com  
+> Bankdirektor: Durmuş Ali Kuzu  
+> KONTAKTPERSON: Herr Durmuş Ali Kuzu  
+> (Generaldirektor für Operations)  
+> Leiter Privat- und Geschäftskunden  
+> Adresse: BANKADRESSE ::: 01021 - BEYKOP BELIKDUZU SUBESI ISTANBUL TÜRKEY.  
+>    
+> Willkommen bei der Online-Banking-Abteilung der TURKCITY BANK, einem der weltweit führenden Online-Banking-Anbieter, mit dem wir im Namen unserer Kunden große Geldbeträge weltweit innerhalb von 48 Stunden nach Online-Einzahlung überweisen können.  
+>    
+> Da Sie noch kein Girokonto bei unserer Bank besitzen, wählen Sie bitte eines der unten aufgeführten Konten aus, damit unsere Buchhaltungsabteilung mit der Bearbeitung Ihres neuen Kontos bei unserer renommierten Bank beginnen kann. Nachfolgend finden Sie die verschiedenen Arten von Online-Konten, die wir in der Crest TURKCITY BANK ONLINE-Bankabteilung anbieten. Bitte geben Sie in Ihrer Antwort die genaue Art Ihres gewünschten Kontos an. Für die Eröffnung eines beliebigen Online-Kontos müssen Sie Ihren Personalausweis und Ihre aktuelle Adresse angeben.  
+>    
+> 1. Sparkonto mit Reserve:  
+> Kontofunktionen: *Erfordert eine Kontoeröffnungs-/Einrichtungseinlage von 850,00 € (Euro). *Direkter Online-Banking-Zugang rund um die Uhr. *Der maximale Überweisungsbetrag ist auf 500.000,00 USD (fünfhunderttausend Euro) monatlich begrenzt.  
+>    
+> 2. Girokonto mit Reserve:  
+> Kontofunktionen: *Erfordert eine Kontoeröffnungs-/Einrichtungseinlage von 1.500,00 € (Euro). *Direkter Online-Banking-Zugang rund um die Uhr. *Der maximale Überweisungsbetrag ist auf 1.000.000,00 € (eine Million Euro) monatlich begrenzt.  
+>    
+> 3. Advantage Gold Reservekonto:  
+> Kontofunktionen: *Kontoeröffnung/-einrichtung erforderlich: Einzahlung von 2.500,00 € (Euro) * 24/7 Online-Banking-Direktzugriff * Keine Mindestabhebungsgebühr * Transaktionen in mehreren Währungen möglich * Akzeptiert gemeinsames Halten * Maximale Überweisungslimits: 2.000.000,00 € (zwei Millionen Euro) monatlich.  
+>    
+> 4. Diamond Reserve-Konto:  
+> Kontofunktionen: *Kontoeröffnung/-einrichtung erforderlich: Einzahlung von 4.500 € (Euro) * 24/7 Online-Banking-Direktzugriff * Mindestzinsen: 7 % * Keine Mindestabhebungsgebühr * Transaktionen in mehreren Währungen möglich * Akzeptiert gemeinsames Halten * Keine maximalen Überweisungslimits. (Das bedeutet, Sie können jeden beliebigen Betrag auf einmal überweisen.)  
+>    
+> Sobald Sie ein Konto ausgewählt haben, füllen Sie bitte die folgenden Informationen für das Online-Konto aus und senden Sie Ihren Personalausweis zur Überprüfung ein.  
+> Name:  
+> Land:  
+> Hausanschrift:  
+> Arbeitsadresse:  
+> Beruf:  
+> Geschlecht:  
+> Nächste Angehörige:  
+> Gewähltes Konto:  
+> Telefonnummer:  
+> Vielen Dank, dass Sie sich für die TURKCITY BANK Services als Ihr Finanzinstitut entschieden haben. Vertrauen Sie auf unsere professionellen Dienstleistungen und lassen Sie sich entsprechend beraten. Vielen Dank für Ihre Zusammenarbeit.  
+> Wir freuen uns auf eine für beide Seiten vorteilhafte Zusammenarbeit.  
+
+Natürlich braucht man dafür zuerst Ausweis, Adresse, Beruf, Angehörige und Telefonnummer. Banking per E-Mail, Einzahlung vor Leistung und maximale Überweisungsfreiheit gegen Gebühr – seriöser wird es heute nicht mehr. 
+
+Soger die Anschrift vom Arbeitgeber wird wichtig! 😄
+
+Spätestens hier ist klar: Das ist keine Bank, sondern ein Kassenhäuschen für Vorschussbetrug. 🛑
+
+
+### Premium-Banking trifft 500-Euro-Realität 💳😅
+
+Während auf der anderen Seite von Millionen, Offshore-Konten und „Diamond Reserve“-Paketen die Rede ist, bleibt Hugo ganz bodenständig. Als einfacher Fahrer aus Wanne-Eickel erklärt er offen, dass er die Kontomodelle nicht versteht – und vor allem: dass mehr als **500 Euro** aktuell einfach nicht drin sind.
+
+> Guten Tag,  
+>   
+> vielen Dank für Ihre Nachricht.  
+>   
+> Ich bin ein einfacher Mann aus Wanne-Eickel und ehrlich gesagt etwas überfordert mit den vielen Konten. Ich fülle die Daten gern aus, aber ich verstehe nicht so richtig, welches Konto ich überhaupt brauche. Außerdem habe ich aktuell nicht viel Geld zur Verfügung – maximal 500 Euro.  
+>   
+> Könnten Sie mir bitte kurz sagen, welches Konto für mich in Frage kommt, wenn ich nicht mehr als 500 Euro habe?  
+>   
+> Hier schon einmal meine Daten, wie gewünscht:  
+>   
+> FAKE DATEN  
+>   
+> Sobald ich weiß, welches Konto für mich passend ist, melde ich mich wieder.  
+>   
+> Vielen Dank für Ihr Verständnis.  
+>   
+> Viele Grüße  
+> Hugo  
+
+Genau hier wird es spannend. In seriösen Bankgeschäften wäre an dieser Stelle Schluss. Bei Scams beginnt jetzt jedoch die kreative Phase: Plötzlich soll auch mit wenig Geld alles möglich sein. Denn egal ob Diamond oder Sparbuch – am Ende zählt für die Betrüger nur eins: irgendwas überweisen. 💸😏
+
