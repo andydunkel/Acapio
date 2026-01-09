@@ -328,3 +328,46 @@ Während auf der anderen Seite von Millionen, Offshore-Konten und „Diamond Res
 
 Genau hier wird es spannend. In seriösen Bankgeschäften wäre an dieser Stelle Schluss. Bei Scams beginnt jetzt jedoch die kreative Phase: Plötzlich soll auch mit wenig Geld alles möglich sein. Denn egal ob Diamond oder Sparbuch – am Ende zählt für die Betrüger nur eins: irgendwas überweisen. 💸😏
 
+## Die Maske fällt: Von Istanbul nach Hannover 🎭📉
+
+Jetzt wird es völlig absurd. Nach all dem Gerede über die „TURKCITY BANK“ und internationale Offshore-Systeme landet die Millionen-Saga plötzlich bei der **Sparda-Bank Hannover**.
+
+Dass eine angebliche Bank in Istanbul ihre Gebühren über ein deutsches Privatkonto auf den Namen **Rosemarie XXXXXX** abwickelt, ist der ultimative Beweis für den Betrug.
+
+> Hallo  
+>    
+> Vielen Dank für Ihre E-Mail. Alles ist in Ordnung und unter Kontrolle. Sie müssen lediglich die 500 Euro für die Kontoeröffnung bezahlen, damit alles abgeschlossen ist.  
+>    
+> Unten finden Sie die Kontodaten für die Zahlung der 500 Euro.  
+>    
+> Account Name: Rosemarie XXXXXX  
+> Bank Name: Sparda-Bank Hannover  
+> IBAN:  DE89 2509 0500 0200 XXXX XX  
+> BIC:  GENODEF1SY9  
+> Address: XXXXXXX 30 Bremen Deutschland  
+
+Dank der Namensüberprüfung, finden wir auch raus, dass das Konto unter dem Namen läuft
+
+![Name der Bankverbindung stimmt](/posts/2025-12-22_chong-pong-song/konto.webp)
+
+### Das steckt dahinter: „Money Mules“ 🕵️‍♂️
+
+Rosemarie ist höchstwahrscheinlich ein **Finanzagent** (Money Mule). Das sind oft Menschen, die auf gefälschte Jobangebote hereinfallen und ihr privates Konto für Geldwäsche zur Verfügung stellen. Das Geld, das Hugo hier einzahlt, wird sofort ins Ausland weitergeleitet und ist unwiderruflich weg.
+
+**Die roten Flaggen:**
+
+* **Privatperson statt Bank:** Banken nutzen keine Privatkonten für Gebühren.
+* **Standort-Chaos:** Eine türkische Bank braucht kein Konto in Bremen/Hannover.
+* **Geldwäsche-Gefahr:** Wer hier überweist, macht sich im schlimmsten Fall selbst strafbar.
+
+---
+
+### Hugos Antwort: Die "Persönliche Übergabe" 🚗💨
+
+Hugo zieht die Karte des hilfsbereiten Fahrers:
+
+> Hallo Herr Kuzu,
+> 500 Euro gehen klar! Aber mal eine Frage: Wer ist Rosemarie? Ist das die Frau vom Direktor?
+> Da ich als Fahrer viel unterwegs bin: Ich bin nächste Woche eh in der Nähe von Bremen. Soll ich die 500 Euro einfach bar bei der Dame in der Schreberstraße vorbeibringen? Dann sparen wir uns die Bankgebühren und ich kann direkt schauen, ob die Quittung ordentlich gestempelt ist.
+> Geben Sie kurz Bescheid, ob das passt!
+> Gruß Hugo
