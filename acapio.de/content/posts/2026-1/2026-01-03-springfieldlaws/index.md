@@ -202,3 +202,53 @@ Nachdem der angebliche Nachweis weiter unsichtbar bleibt, fragt Hugo nun direkt 
 > Hugo  
 
 Erfahrungsgemäß folgt hier entweder der erste Kostenpunkt – oder der Kontakt bricht ab. Beides ist ein klares Zeichen dafür, dass es nie um ein Erbe ging, sondern nur um Geduld, Druck und Geld. 😏
+
+
+## Übergabe an die „Bank“ – jetzt wird es offiziell 📞🏦
+
+Jetzt ist es so weit: Der Anwalt ist angeblich fertig, alles geregelt, die **5,6 Millionen Dollar** stünden zur Auszahlung bereit. Ab jetzt soll Hugo **direkt die Bank kontaktieren** – natürlich *ASAP*. ⏰
+
+Neu auf der Bühne: die **„First International Bank“**, inklusive Bankdirektor, Telefonnummer, Fax (!), und E-Mail-Adresse. Klingt beeindruckend – bis man einen Blick auf die Webseite wirft. Denn dort herrscht: **gähnende Leere**. Keine Inhalte, keine Angaben, kein Impressum. 🕳️
+
+Dieses Vorgehen ist typisch. Der Anwalt verschwindet, die „Bank“ übernimmt – und genau dort beginnt erfahrungsgemäß der kostenpflichtige Teil mit Gebühren, Freigaben oder angeblichen Steuern. 💸😏
+
+Neues Bankhaus, leere Webseite, gleiches Spiel.
+
+> I am Barrister James Frederick, Principal Attorney with Springfield Law Office worldwide we have our offices in Europe, United States and Asia. We have concluded arrangement with the bank now to have your fund released to you without delay. The sum of $5,600,000 to your bank account in Germany. We are committed to assist you with every legal means  
+>   
+> You should immediately contact the bank ASAP.   
+>   
+> Below is the official First International Bank Remittance Bank Director to complete the remittance of your fund to you.  
+>   
+> Find below the bank contact details.   
+>   
+> FIRST INTERNATIONAL BANK  
+> Dr.  Mark Peterson  
+> USA Financial Director  
+>   
+> Phone:  +1 (409) 240-0193  
+> Fax:   +1 (409) 240-0193  
+> Email: peterson@fibbanc.com  
+
+
+### Kontaktaufnahme mit der „Bank“ 🏦✉️
+
+Hugo folgt der Anweisung und schreibt die Bank direkt an – kurz, einfach und bewusst ohne Fachbegriffe. Schließlich soll ja erstmal geklärt werden, **worum es überhaupt geht**. Persönliche Daten oder Zustimmung gibt es weiterhin nicht.
+
+> Hello,  
+>   
+> I was told by Barrister James Frederick to contact you about some money transfer.  
+>   
+> I do not speak English very well, sorry.  
+> I am not sure what this is about.  
+>   
+> He say there is money for me and that you handle the transfer to my bank in Germany.  
+>   
+> Please tell me short and clear:  
+> - what is this  
+> - what I have to do now  
+>   
+> Thanks.  
+> Hugo  
+
+Genau hier beginnt in solchen Fällen normalerweise der entscheidende Moment: Jetzt muss die „Bank“ erklären, was angeblich zu tun ist. Erfahrungsgemäß dauert es nicht lange, bis die erste „notwendige Gebühr“ auftaucht. 💸😏
