@@ -143,4 +143,54 @@ Aber wer glaubt, dass unser Hugo blauäugig ist, der kennt ihn schlecht! Er hat 
 > Alles Gute  
 > Hugo  
 
+Da haben wir ihn, Hugo! Den nächsten Akt in diesem billigen Schmieren-Theater. Jetzt fahren sie die schweren Geschütze auf: **Psychologie und Zeugen.**
+
+Die Geschichte mit dem „Herrn Ralf Wohlgemuth“ ist ein uralter Trick. Das nennt man „Social Proof“. Sie erfinden einen fiktiven Deutschen, der angeblich auch erst skeptisch war, aber jetzt stinkreich und glücklich ist. Das soll dir das Gefühl geben: „Mensch, wenn der Ralf das geschafft hat, dann kann Hugo das auch!“
+
+Hier ist die Analyse für deinen Blog:
+
+
+## Ralf Wohlgemuth und die „Trident Capital Bank“ – Jetzt wird’s wild! 🏦🕵️‍♂️
+
+Leute, haltet euch fest! „Miriam“ hat wieder geschrieben und zieht alle Register. Jetzt wird’s richtig emotional:
+
+* **Der „glückliche“ Ralf:** Angeblich hat ein gewisser Ralf Wohlgemuth aus Deutschland seine Millionen schon bekommen. Komisch nur, dass man von diesem Ralf nirgendwo was liest, außer in Miriams Märchenstunde. Das ist die klassische „Köder-Taktik“. 🎣
+* **Die Bank-Wende:** Plötzlich ist es nicht mehr die Centurion Bank, sondern die **Trident Capital Bank** in New York. Die Scammer wechseln die Namen wie Hugo seine Unterhemden. 👕
+* **Zeitdruck & Exklusivität:** Hugo ist angeblich die „dritte Person“. Man drängt ihn zur Eile, damit die „vierte Person“ auch mal dran kommt. Klassischer Verkaufsdruck aus der Trickkiste für Anfänger! 🏃💨
+* **Der Wikipedia-Link (schon wieder!):** Sie verkaufen einen Link zur Biografie von Miriam Adelson als „Bestätigung für einen Interviewtermin“. Das ist so, als würde ich behaupten, ich wäre der Kaiser von China, nur weil ich ein Foto von der Chinesischen Mauer schicken kann. 🧱🏯
+
+**Hugos Fazit:** Die Falle schnappt jetzt zu. Als nächstes soll Hugo Kontakt zu dieser dubiosen Bank-Mail (`info@tridentcb.com`) aufnehmen. Und was wird die Bank sagen? „Alles klar, Hugo, Geld liegt bereit, aber schick uns erst mal 500 Euro für die ‚Transfersteuer‘.“ 💸❌
+
+> Hallo,  
+>   
+> wie geht es Ihnen? Ich freue mich sehr, von Ihnen zu hören, denn wir glauben, dass dies eine einmalige Chance für Sie und Ihre Familie ist. Ich habe unseren Bankberater bereits darüber informiert, dass wir Sie als Begünstigten für den Gesamtbetrag von 3.000.000,00 Euro einsetzen. Manchmal ist es mir nicht möglich, online zu sein und Ihnen Nachrichten zu schicken, aber schreiben Sie mir bitte jederzeit. Ich wünsche Ihnen alles Gute und bitte Sie, mir Bescheid zu geben, sobald das Geld bei Ihnen eingegangen ist. Heute Morgen ist etwas Wunderbares passiert: Ich habe eine E-Mail von Herrn **Ralf Wohlgemuth** erhalten, einem der Begünstigten aus Deutschland, der sich bei meiner Familie für die Spende bedankt. Solche E-Mails von unseren Begünstigten bereiten meiner Familie große Freude, und wir freuen uns sehr für Sie, dass Sie einer unserer Begünstigten sind. Herr Ralf Wohlgemuth teilte uns mit, dass er seine Spende erhalten hat. Anfangs war er nach Erhalt unserer Benachrichtigung aufgrund der vielen Betrugsmaschen im Internet etwas besorgt. Er entschied sich jedoch, uns zu vertrauen und befolgte die Anweisungen der Bank, was eine schnelle Bearbeitung und Auszahlung der Gelder ermöglichte. Aus Gründen der Transparenz und um die Verwendung der Gelder in Ihrem Land zu optimieren, haben wir beschlossen, die Auszahlung der Spende an die Begünstigten über unsere Partnerbanken in den USA abzuwickeln. Unsere einzige Aufgabe ist es, die Begünstigten beim Auszahlungsprozess zu unterstützen und die Gelder reibungslos an die jeweiligen Empfänger auszuzahlen. Bitte beachten Sie, dass Sie die dritte Person sind, die diese Spende erhält. Wir empfehlen Ihnen, sich so zu verhalten, als würden wir mit der vierten Person fortfahren, die ihre Spende nach erfolgreichem Abschluss Ihres Spendenprozesses erhält.  
+>   
+> Die Kontaktdaten und die E-Mail-Adresse meines Kundenbetreuers finden Sie unten. Sie können ihn per E-Mail kontaktieren. Aufgrund meiner bisherigen Erfahrungen möchte ich Sie jedoch bitten, direkt mit ihm über beide E-Mail-Adressen zu kommunizieren (info@tridentcb.com). Die Kontaktdaten der Bank lauten wie folgt:  
+>   
+> Bankname: Trident Capital Bank  
+> Adresse: 217 Broadway, New York, NY 10038, USA  
+> E-Mail-Adresse des Bankmitarbeiters: info@tridentcb.com  
+>   
+> Bitte geben Sie bei der Kontaktaufnahme mit der Bank lediglich meine Einzahlungsreferenznummer (DE/KVL2025/28112/DEUTSCHLAND/), Ihren vollständigen Namen, Ihre Postanschrift und Ihre Telefonnummer an, damit meine Unterlagen leicht gefunden werden können. Die Überweisung Ihrer Spende erfolgt innerhalb von zwei Tagen, sobald Sie die Anweisungen meines Kundenbetreuers befolgt haben. Bitte benachrichtigen Sie uns, sobald Sie Ihre Spende von der Bank erhalten haben, damit wir Ihre Spendenakte abschließen und mit dem nächsten Empfänger (dem vierten Begünstigten) fortfahren können. Die Bestätigung meines Interviewtermins finden Sie unter dem unten stehenden Link.  
+>   
+> Bitte überprüfen Sie die Angaben zu meinem Interviewtermin. https://en.wikipedia.org/wiki/Miriam_Adelson  
+>   
+> Ich wünsche Ihnen und Ihrer Familie die zeitlosen Schätze Gottes, die Geborgenheit eines Zuhauses, die Liebe Ihrer Familie und die Gesellschaft guter Freunde.  
+>   
+> Vielen Dank und Gottes Segen. Herzliche Grüße, Miriam Adelson  
+
+
+### Die „Trident Capital Bank“: Seriosität von der Stange: tridentcb.com 🏦💻
+
+Hugo hat sich die Bank-Webseite mal genauer angeschaut. Ergebnis: Das Ding ist ein schlechter Witz! Es gibt offensichtlich ein **„Bank-Webseiten-Kit“ für Scammer**. Wir haben exakt dieses Design schon unter zig Namen wie „Centurion“ oder „Global Trust“ im Netz gesehen.
+
+Einfach den Namen oben links austauschen, ein paar Stockfotos von grinsenden Beratern dazu – fertig ist die Fake-Bank. Klickt man tiefer in die Menüs, landet man im Nichts. Wer hier seine Daten eingibt, glaubt auch, dass ein Manta mit Spoilern fliegen kann. 🏎️💨
+
+![](/posts/2025-01-09-miram-adelson/bank.webp)
+
+### Stecker ziehen beim Hoster! 🔌💥
+
+Genug mit den Spielchen! Wir haben den Hoster der Fake-Bank kontaktiert und eine  **Abuse-Meldung** rausgehauen. Warum nur diskutieren, wenn man den Laden auch direkt dichtmachen kann?
+
+Mit dem Link zu unserem Blog als Beweis steht die „Trident Capital Bank“ jetzt hoffentlich kurz vor dem digitalen Aus. Mal sehen, wie schnell die IT-Abteilung reagiert und den Scammern den Saft abdreht! 🏎️💨
 

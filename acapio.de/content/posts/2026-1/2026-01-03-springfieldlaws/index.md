@@ -252,3 +252,35 @@ Hugo folgt der Anweisung und schreibt die Bank direkt an – kurz, einfach und b
 > Hugo  
 
 Genau hier beginnt in solchen Fällen normalerweise der entscheidende Moment: Jetzt muss die „Bank“ erklären, was angeblich zu tun ist. Erfahrungsgemäß dauert es nicht lange, bis die erste „notwendige Gebühr“ auftaucht. 💸😏
+
+
+## Jetzt bitte anrufen – sofort 📞⏰
+
+Kaum ist die Bank kontaktiert, kommt der nächste Druckversuch: **anrufen, sofort, am besten jetzt gleich**. Inhaltlich nichts Neues, dafür umso mehr Hektik. Fragen bleiben unbeantwortet, stattdessen soll der direkte telefonische Kontakt hergestellt werden.
+
+Telefonate sind in solchen Scams kein Zufall. Dort gibt es keine Belege, keine Nachweise, keine überprüfbaren Aussagen – nur Stimme, Autorität und Zeitdruck. Genau hier sollen Gebühren erklärt, Zweifel zerredet und Entscheidungen beschleunigt werden. 💸😏
+
+Kurz gesagt: Wenn plötzlich alles *sofort* telefonisch geklärt werden soll, ist das kein Service – sondern der nächste rote Alarm. 🚨
+
+> The bank has promised to release your fund to your bank account in Germany on Monday morning next week. And make sure that you comply with their instructions immediately. Have the bank respond back to you  
+>   
+> You can call me on my direct telephone number +1-(202) 827-6404  
+
+
+## Auslandstelefonate? Lieber nicht 📵💸
+
+Hugo bleibt bodenständig. Internationale Telefonate sind gesperrt, weil sie schlicht teuer sind – selbst eingehende Anrufe aus dem Ausland kosten Geld. Stattdessen fragt er pragmatisch nach **WhatsApp**, schließlich lebt man ja nicht mehr im Fax-Zeitalter.
+
+> Dear Sir,  
+>   
+> I cannot call you.  
+>   
+> I only have a mobile phone with special numbers blocked.  
+> International calls are disabled because they cost a lot of money. I even have to pay when you call me from other country.  
+>   
+> Do you have whatsapp?  
+>   
+> Regards  
+> Hugo  
+
+Für Scammer ist das unangenehm. Ohne Telefonat fehlt der direkte Druck, ohne Stimme fehlt Autorität. Schriftliche Kommunikation oder Messenger machen Ausreden sichtbar – und genau das mögen Betrüger bekanntlich gar nicht. 😏

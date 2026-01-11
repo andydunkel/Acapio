@@ -427,3 +427,17 @@ Hugo zieht die emotionale Reißleine. Statt Pralinen für Rosi gibt’s jetzt da
 Das Ziel? Die Gier der Scammer füttern! Wer glaubt, sein Opfer habe das absolut letzte Hemd gegeben, wittert fette Beute und hält die Story am Laufen. Dazu ein herrlich dilettantischer Screenshot von einer Überweisung, die niemals stattgefunden hat. 📸❌
 
 Jetzt heißt es: Warten. Wie lange braucht „Bankdirektor“ Kuzu wohl, um zu merken, dass auf Rosis Konto in Hannover gähnende Leere herrscht? Eines ist sicher: In der Welt der Scams ist das Mitleid klein, aber die Hoffnung auf die 500 Euro riesengroß. 💎🤡
+
+---
+
+## Die Ruhe vor dem (Gebühren-)Sturm 🧘‍♂️💸
+
+Kürzer geht’s kaum: "Vielen Dank. Sobald die Gebühr bestätigt ist, geht’s los." In Scammer-Sprache heißt das: „Wir hängen jetzt mit der Nase am Bildschirm und warten, dass Rosis Kontostand nach oben hüpft.“ 📈🤡
+
+Dass der Beleg eigentlich wertlos ist, wird ignoriert – die Hoffnung auf die 500 Euro stirbt zuletzt. Hugo hat den Köder ausgeworfen, und die „Bank“ hat ihn geschluckt. Jetzt beginnt das große Warten auf ein Geld, das niemals ankommen wird. Wie lange es wohl dauert, bis Herr Kuzu ungemütlich wird, weil Rosemaries Konto immer noch Staub ansetzt? 🤔⏳
+
+> Hallo Hugo.  
+>    
+> Vielen Dank für Ihre E-Mail. Ich habe die Quittung erhalten. Sobald die Gebühr bestätigt ist, werden wir das Konto eröffnen.  
+>    
+> Viele Grüße  
