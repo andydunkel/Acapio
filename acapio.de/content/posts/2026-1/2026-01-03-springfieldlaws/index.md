@@ -284,3 +284,29 @@ Hugo bleibt bodenständig. Internationale Telefonate sind gesperrt, weil sie sch
 > Hugo  
 
 Für Scammer ist das unangenehm. Ohne Telefonat fehlt der direkte Druck, ohne Stimme fehlt Autorität. Schriftliche Kommunikation oder Messenger machen Ausreden sichtbar – und genau das mögen Betrüger bekanntlich gar nicht. 😏
+
+
+## Jetzt bitte das Formular ausfüllen 📝🚩
+
+Auf die Frage nach WhatsApp oder einer schriftlichen Klärung wird gar nicht eingegangen. Stattdessen kommt direkt der nächste Schritt im Drehbuch: **ein Online-Formular**. Einfach klicken, ausfüllen, fertig – angeblich im Auftrag der Bank.
+
+Genau hier wird es kritisch. Solche Formulare dienen nicht der Überweisung, sondern dem Sammeln von Daten oder der Vorbereitung der nächsten Forderung. Dass der Link zu einer „Bank“ führt, deren Webseite ansonsten leer ist, rundet das Bild ab.
+
+Kurz gesagt: Keine Antworten, kein Dialog – nur ein Formular. Und genau da sollte man spätestens den Stift fallen lassen. 😏🚫
+
+> Dear Sir;  
+>   
+> The bank asked you to fill the online application below.   
+> Kindly clicked one below web link and fill up the application  
+>   
+> https://fibbanc.com/fib/transferform.php     
+
+Im Formular werden verschiedene Daten abgefragt, Name, Anschrift, sogar das Gehalt.
+
+### Wir spammen das Formular! 
+
+Natürlich füllen wir das Formular aus, ein kleines Script füllt das Formular beständig mit Fake-Daten. Der Spaß dauert nicht lange und das Formular ist offline.
+
+Wir fragen natürlich nach!
+
+![](/posts/2025-01-03_springfieldlaws/form.webp)
