@@ -26,7 +26,7 @@ Da stand sie nun, die Mail, die Hugos Leben verändern sollte. Kurz, trocken und
 
 > Private Spende für Sie von Kristine Wellenstein. Kontaktieren Sie Barr. Steven Oscar per E-Mail: stevechamberonline@outlook.com für Details/Ansprüche.  
 >   
->     Kontaktieren Sie diese E-Mail: stevechamberonline@outlook.com 
+> Kontaktieren Sie diese E-Mail: stevechamberonline@outlook.com 
 
 ## Wer ist die echte Kristine Wellenstein? 👸💰
 
