@@ -441,3 +441,64 @@ Dass der Beleg eigentlich wertlos ist, wird ignoriert – die Hoffnung auf die 5
 > Vielen Dank für Ihre E-Mail. Ich habe die Quittung erhalten. Sobald die Gebühr bestätigt ist, werden wir das Konto eröffnen.  
 >    
 > Viele Grüße  
+
+Hier ist der nächste Abschnitt für deinen Blog, der den absurden Moment beschreibt, in dem die „Bank“ den fiktiven Geldeingang bestätigt:
+
+
+## Wunderheilung in Hannover: Geld da, Konto offen! 🪄💸
+
+Man glaubt es kaum: Obwohl Hugo keinen Cent überwiesen hat, meldet die „Bank“ freudig: **„Zahlung erhalten!“** Das ist modernes Banking – da reicht offenbar schon die reine Absicht (oder ein schlechter Fake-Screenshot), um das System zu beglücken. 🤡
+
+Hugo hat jetzt Log-in-Daten für eine Fake-Webseite erhalten. Der Plan der Scammer: Hugo soll sich einloggen, die 9,3 Millionen USD auf dem Bildschirm sehen und vor lauter Gier den Verstand verlieren. Sobald er versucht, das Geld wirklich zu bewegen, wird die nächste „Gebühren-Hürde“ auftauchen – und die wird dann richtig teuer.
+
+> Hallo  
+>    
+> Vielen Dank für Ihre Zahlung. Ihre Zahlung wurde erhalten. Ihr Konto wurde mit Ihren Daten erstellt. Bitte senden Sie die Kontodaten an Ihren Partner, damit er die Transaktion abschließen kann.  
+> Nachfolgend finden Sie die Kontodaten für die Anmeldung.  
+>    
+> Bankverbindung: turkcib.com/internet-banking  
+> Kontoinhaber: Hugo   
+> Kontonummer: 1643xxxx  
+> Passwort: xxxxxxx  
+>    
+> Bei Fragen stehen wir Ihnen gerne zur Verfügung.  
+>    
+> Mit freundlichen Grüßen  
+
+
+### Wir loggen uns ein!
+
+Und da ist sie – Hugos neue „Bank" in voller Pracht! 🏦✨
+
+Was wir sehen: Ein schickes Dashboard der **„Turk City Bank"** mit allem, was das Betrügerherz begehrt. Oben rechts grüßt Hugo mit Profilbild, darunter flimmern echte Börsenkurse von TradingView – denn nichts sagt „seriöse Bank" wie ein eingebettetes Widget, das jeder 14-Jährige in seine Webseite klatschen kann.
+
+![](/posts/2025-12-22_chong-pong-song/bank_login.webp)
+
+Die Zahlen sind köstlich: **Available Balance: $0.00** – aber halt! Da ist noch ein mysteriöser **„Booking Balance"** von **$500.00** in alarmierendem Rot. Das sind genau die 500 Dollar, die Hugo angeblich überwiesen hat (Spoiler: hat er nicht). 
+
+Dass der Betrag rot leuchtet wie eine Ampel, verheißt nichts Gutes – da wird garantiert noch eine Nachricht kommen: *„Ihre Einzahlung konnte leider nicht verifiziert werden"* oder *„Für die Freischaltung ist eine zusätzliche Sicherheitsgebühr erforderlich"*.
+
+Besonders charmant: Das Konto wurde am **14.01.2026** eröffnet – also heute. Frischer geht's nicht!
+
+**Woher stammt das Ganze?** Das Template ist eindeutig **Material Dashboard 3.0.0** von Creative Tim – ein kostenloses Bootstrap-Template. Das Backend? Vermutlich eines der zahlreichen „Banking Scripts" von CodeCanyon (ab $29) oder gleich eine gecrackte Version von **ViserBank** aus einschlägigen Warez-Foren. Kostenpunkt für die Scammer: irgendwas zwischen 0 und 99 Dollar. Für eine komplette „Bank". Im Jahr 2026. Man muss es einfach bewundern. 👏
+
+Die Menüpunkte lesen sich wie eine Wunschliste für Geldwäsche: *Blockchain Transfer*, *Virtual Cards*, *Quick Loan* – fehlt eigentlich nur noch „Nigerian Prince Direct Line". 
+
+
+## Hugo drückt auf die Tube: „Wo sind meine Millionen?“ 🚗💨
+
+Statt skeptisch zu werden, gibt Hugo den „begeisterten Neukunden“ und schickt direkt eine Nachricht an das dynamische Duo Song und Kuzu. Er feiert das schicke Dashboard, spielt aber gleichzeitig den besorgten LKW-Fahrer: Warum ist die Balance auf Null? Und warum leuchten seine 500 Euro so verdächtig rot? 🔴
+
+> Hallo Herr Song, hallo Herr Kuzu,  
+>   
+> Wahnsinn, ich bin drin! Das sieht ja alles hochmodern aus bei euch in der Turk City Bank. Dass ihr sogar mein Foto da oben reingemacht habt – sehr schick!  
+>   
+> Ich habe mich aber gerade ein bisschen erschreckt: Da steht bei "Available Balance" eine dicke 0.00. Und meine 500 Euro leuchten knallrot bei "Booking Balance". Heißt das, das Geld ist noch nicht richtig angekommen? Muss ich da noch irgendwo draufklicken?  
+>   
+> Und vor allem: Wo sind die 9,3 Millionen? Ich dachte, die werden direkt eingebucht, sobald das Konto offen ist. Herr Song, Sie meinten doch, alles sei vorbereitet!  
+>   
+> Ich wollte eigentlich heute Nachmittag schon mal beim BMW-Händler vorbeischauen und eine Anzahlung machen, aber mit 0 Dollar auf dem Konto lachen die mich in Wanne-Eickel ja aus.  
+>   
+> Bitte helft mir mal kurz: Wie kriege ich die Millionen auf "Available" und warum ist mein Geld rot?  
+>   
+> Gruß Hugo  
