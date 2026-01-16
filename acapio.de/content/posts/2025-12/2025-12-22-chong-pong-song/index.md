@@ -502,3 +502,36 @@ Statt skeptisch zu werden, gibt Hugo den „begeisterten Neukunden“ und schick
 > Bitte helft mir mal kurz: Wie kriege ich die Millionen auf "Available" und warum ist mein Geld rot?  
 >   
 > Gruß Hugo  
+
+
+
+## Ertappt! Wenn der Fake-Beleg auffliegt 🚩🤡
+
+Die Scammer machen jetzt Druck, kein Geld da!
+
+> Hallo  
+>    
+> Vielen Dank für Ihre E-Mail. Die Gebühr ist leider nicht eingegangen. Bitte kontaktieren Sie Ihre Bank und fragen Sie nach, warum die Überweisung nicht durchgeführt wurde.  
+>    
+> Haben Sie die Zahlung online über Ihre Banking-App oder in einer Bankfiliale getätigt?  
+> Bitte senden Sie uns zur Bestätigung einen Kontoauszug, aus dem hervorgeht, dass das Geld gutgeschrieben wurde.  
+>    
+> Wir warten auf Ihre Antwort.  
+
+Die Maske der „internationalen Großbank“ bekommt Risse: Plötzlich wird Direktor Kuzu kleinlich und fragt nach, ob wir am Schalter oder per App gezahlt haben. Dass sie jetzt sogar einen echten Kontoauszug sehen wollen, zeigt: Die Gier ist groß, aber das Misstrauen wächst. Für Hugo ist das der perfekte Moment, um den „empörten Kunden“ zu mimen und die Schuld ganz charmant auf das „Telex-System“ oder die Sparkasse Wanne-Eickel zu schieben.
+
+
+
+> Hallo Herr Kuzu,  
+>   
+> wie jetzt? Nicht eingegangen? Ich krieg hier gerade Schnappatmung! 😱  
+>   
+> Das Geld ist bei mir vom Konto definitiv weg! Ich hab das extra am Schalter bei der Sparkasse gemacht, weil ich der Technik nicht traue. Die Dame am Schalter hat mir sogar noch zugenickt!  
+>   
+> Wenn das Geld nicht bei Ihnen ist, wo ist es dann? Hat die Rosi in Hannover das vielleicht übersehen? Ich hab doch den Beleg geschickt!  
+>   
+> Ich fahre morgen früh sofort zur Sparkasse und mache da richtig Terz. Die können doch nicht einfach meine 500 Euro verschlampen, während ich hier auf die Millionen warte!  
+>   
+> Bitte prüfen Sie das nochmal bei sich. Nicht dass das Geld irgendwo im „Telex-System“ hängen geblieben ist, von dem Sie immer erzählt haben! Ich will mein Diamond-Konto jetzt nutzen!  
+>   
+> Gruß Hugo  

@@ -310,3 +310,43 @@ Natürlich füllen wir das Formular aus, ein kleines Script füllt das Formular 
 Wir fragen natürlich nach!
 
 ![](/posts/2025-01-03_springfieldlaws/form.webp)
+
+---
+
+## Jetzt bitte die Telefonnummer 📱🚨
+
+Nachdem Formular, Bank und Telefonanruf nicht funktioniert haben, folgt der nächste logische Schritt: die direkte Nachfrage nach der **persönlichen Handynummer**. Das Ziel ist klar – weg von schriftlichen Spuren, hin zu direktem Druck.
+
+An dieser Stelle ist das Muster vollständig sichtbar: Wer keine Nummer herausgibt, bleibt im Vorteil. Denn ohne Telefon, ohne Messenger und ohne echte Daten endet der Scam meist genau hier. 😏🚫
+
+Wenn du willst, machen wir als Nächstes ein **abschließendes Fazit** oder warten auf die (wahrscheinlich ausbleibende) nächste Antwort 📭
+
+> What's your direct phone number ??
+
+Wir schreiben, Nummer gibt es nicht!
+
+> Dear Sir,  
+>   
+> I do not give out my phone number.  
+>   
+> As I already wrote, international calls are blocked on my mobile phone.  
+> Please keep all communication by email.  
+>   
+> Regards  
+> Hugo  
+
+
+Nachdem wir die Nummer nicht rausgeben wollen brechen die Scammer den Kontakt ab.
+
+---
+
+## **Fazit: 5,6 Millionen Gründe – und dann Funkstille** 📭
+
+Nachdem weder Telefonnummer, noch echte Daten, noch ein funktionierendes Formular geliefert wurden, ist plötzlich Ruhe. Keine Mails mehr, kein Nachhaken, kein *ASAP*. Die **5,6 Millionen US-Dollar** scheinen sich in Luft aufgelöst zu haben. 💨
+
+Das Ende ist typisch: Solange Hoffnung auf Daten, Gebühren oder telefonischen Druck besteht, bleibt der Kontakt aktiv. Sobald klar wird, dass nichts zu holen ist, brechen Scammer den Kontakt kommentarlos ab.
+
+Zurück bleiben keine Millionen, aber eine klare Erkenntnis:
+Kein Nachweis, keine echten Dokumente, leere Webseiten, ständiger Zeitdruck – und am Ende Funkstille. Genau so sieht ein Scam aus. 😏🚫
+
+Und der Dackel? Dem geht es übrigens wieder gut. 🐶❤️
