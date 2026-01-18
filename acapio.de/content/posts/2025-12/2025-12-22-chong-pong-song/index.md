@@ -534,4 +534,4 @@ Die Maske der „internationalen Großbank“ bekommt Risse: Plötzlich wird Dir
 >   
 > Bitte prüfen Sie das nochmal bei sich. Nicht dass das Geld irgendwo im „Telex-System“ hängen geblieben ist, von dem Sie immer erzählt haben! Ich will mein Diamond-Konto jetzt nutzen!  
 >   
-> Gruß Hugo  
+> Gruß Hugo
