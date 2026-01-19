@@ -521,6 +521,11 @@ Die Scammer machen jetzt Druck, kein Geld da!
 Die Maske der „internationalen Großbank“ bekommt Risse: Plötzlich wird Direktor Kuzu kleinlich und fragt nach, ob wir am Schalter oder per App gezahlt haben. Dass sie jetzt sogar einen echten Kontoauszug sehen wollen, zeigt: Die Gier ist groß, aber das Misstrauen wächst. Für Hugo ist das der perfekte Moment, um den „empörten Kunden“ zu mimen und die Schuld ganz charmant auf das „Telex-System“ oder die Sparkasse Wanne-Eickel zu schieben.
 
 
+## Angriff ist die beste Verteidigung: Hugo macht Terz! 😤🏦
+
+Statt klein beizugeben, schaltet Hugo auf „Wanne-Eickel-Aggro“. Er spielt den empörten Kunden, der sein letztes Hemd gegeben hat und nun die Sparkasse stürmen will. Das Ziel: Die Scammer verunsichern und von der offensichtlichen Tatsache ablenken, dass der Überweisungsbeleg ein Fake war. 
+
+Wer laut genug schreit, weckt bei Betrügern die Hoffnung, dass das Geld vielleicht doch nur im „System“ klemmt. 🤡🔥
 
 > Hallo Herr Kuzu,  
 >   
@@ -535,3 +540,11 @@ Die Maske der „internationalen Großbank“ bekommt Risse: Plötzlich wird Dir
 > Bitte prüfen Sie das nochmal bei sich. Nicht dass das Geld irgendwo im „Telex-System“ hängen geblieben ist, von dem Sie immer erzählt haben! Ich will mein Diamond-Konto jetzt nutzen!  
 >   
 > Gruß Hugo
+
+## Eskalation auf WhatsApp: Herr Kuzu wird ungeduldig 📱🔥
+
+Wenn E-Mails nicht schnell genug zum (Geld-)Erfolg führen, wechseln Scammer gerne das Medium. Hugo bekommt plötzlich Nachrichten von einer US-Nummer (**+1 708...**). Dass ein „Direktor einer türkischen Bank“ über eine amerikanische Handynummer mit Weihnachtsbaum-Profilbild chattet, passt natürlich perfekt ins Bild. 🎄🤡
+
+Die Taktik ist simpel: **Präsenz zeigen.** Durch das „Hallo“ am Morgen und am Nachmittag soll Hugo das Gefühl bekommen, dass man ihn beobachtet. Als Hugo schließlich antwortet, kommt sofort die Forderung: „Senden Sie mir den Zahlungsbeleg für die 500.“ Der rote Balken im Dashboard war wohl nicht deutlich genug – jetzt wollen sie das Ding schwarz auf weiß (oder eben Pixel auf Pixel).
+
+![](/posts/2025-12-22_chong-pong-song/whatsapp_1.webp)
