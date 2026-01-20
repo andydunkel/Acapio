@@ -49,3 +49,17 @@ Die Strategie ist simpel: Wir geben dem Betrüger genau das Opfer, das er sich w
 
 
 Hugo hinterfragt nicht, warum ein US-Milliardär ihm schreibt. Nein, Hugo sieht nur die Kohle für seinen geliebten E36 und das nächste Bier. Dass er den echten Michael Bloomberg dabei mit einem Saufkumpel vom Dackelplatz oder einem Schrauber aus Bochum verwechselt? Perfekt! Das senkt die Deckung des Scammers, denn wer so schreibt, der ist (hoffentlich) leichte Beute. Mal sehen, wie schnell "Keule Michael" anbeißt! 🤑🐕
+
+## **Fazit: Michael hat uns geghostet!** 👻💔
+
+Wir haben gewartet. Wir haben F5 gedrückt, bis die Taste glühte. Wir haben sogar kurz überlegt, ob die E-Mail im Spam-Ordner bei den Angeboten für Potenzmittel gelandet ist. Aber nichts. Totale Funkstille. 📉
+
+Offenbar war unser "Keule Michael" von Hugos direkter Art und dem dringenden Bedürfnis nach neuen Reifen doch etwas überfordert. Oder – und das ist unsere finstere Vermutung – **Hugo ist bereits verbrannt!** 🔥
+
+Womöglich gibt es im Darknet eine schwarze Liste für "besonders anstrengende Opfer", und der Kassenwart des Dackel-Clubs Wanne-Eickel steht dort ganz oben. Vermerk: *"Achtung: Fragt zu viel nach Felgen, hat kein Geld, nervt tierisch."* 😂
+
+Das bedeutet für uns: Wir müssen zurück ans Reißbrett. Für den nächsten Scammer brauchen wir eine neue, unverbrauchte Identität. Vielleicht etwas weniger Dosenbier-Charme und etwas mehr... na ja, lassen wir uns überraschen. 
+
+Hugo geht erst mal wieder in die Werkstatt schmollen. 🔧👋
+
+![Kein Reichtum für Hugo, aber Bier für den Dackel.](/posts/2025-01-19-springfieldlaws/hugo.webp)

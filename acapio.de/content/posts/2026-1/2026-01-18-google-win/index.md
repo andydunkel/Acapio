@@ -72,3 +72,11 @@ Aber Hugo wäre nicht Hugo, wenn er nicht antworten würde. Schließlich müssen
 >   
 > Glück Auf, Hugo  
 
+
+Da die Scammer offensichtlich gemerkt haben, dass bei Hugo kein schneller Euro (oder Pfund) zu holen ist, bleibt die Antwort aus. Wahrscheinlich haben sie schon beim "Dackel-Club" oder dem "Schultenbräu" den Braten gerochen. Zeit für ein Fazit in Hugos Blog.
+
+
+## **Fazit: Funkstille im Postfach – Hugo bleibt (leider) arm**
+
+Tja, wat soll man sagen? Seit Hugos kritischer Nachfrage nach einem Ausweis herrscht bei `info@googlelottowinner.com` Schweigen im Walde. Wahrscheinlich sitzen die "Google-Experten" gerade völlig ratlos über ihrem Englisch-Deutsch-Übersetzer und versuchen herauszufinden, wat ein "Kalle" oder "Butter bei die Fische" ist. 🐟
+

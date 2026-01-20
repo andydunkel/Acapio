@@ -56,3 +56,18 @@ Nachdem Hugo sich den ersten Schock mit einem Kurzen runtergespült hat, greift 
 > Hugo  
 
 Wir sind gespannt, ob die Scammer anbeissen, wenn Hugo mit dem Dackel-Club wedelt. **Eines ist sicher: Das wird teurer als eine Generalüberholung beim E36!** 🛠️🍻
+
+---
+
+### **Fazit: Funkstille im Postfach – Brian, wat is los?** 📉🤫
+
+Tja, Freunde der gepflegten Unterhaltung, es sieht so aus, als hätte Hugo unseren „Präsidenten“ Brian mit seiner Begeisterung für Dackel und Currywurst in die Flucht geschlagen. Seit Hugos Mail mit der Frage nach den Goldbarren und der vergoldeten Zapfanlage herrscht im Postfach herbe Funkstille.
+
+**Woran hat’s gelegen?** Wahrscheinlich war Hugos BMW-Fachwissen oder die Erwähnung des Wanne-Eickeler Dackel-Clubs eine Nummer zu hoch für die Herrschaften. Oder – und das ist wahrscheinlicher – die Scammer haben gemerkt, dass bei Hugo außer einer Altölsammlung und einem gut gelaunten Vierbeiner nichts zu holen ist.
+
+**Was wir daraus lernen:**
+
+* **Kein Druck:** Scammer hassen es, wenn man nicht sofort spurt, sondern mit dämlichen Gegenfragen kommt.
+* **Humor schlägt Gier:** Sobald man den Spieß umdreht und die Geschichte ins Lächerliche zieht, verlieren die Profi-Abzocker das Interesse. Zeit ist für die schließlich Geld (oder zumindest Steam-Gutscheine).
+
+Hugo sitzt jedenfalls immer noch im Vereinsheim, trinkt sein Pils und wartet auf die 300 Millionen. Aber keine Sorge: Er hat die Goldfarbe für die Felgen schon mal vorsorglich im Baumarkt stehen lassen.

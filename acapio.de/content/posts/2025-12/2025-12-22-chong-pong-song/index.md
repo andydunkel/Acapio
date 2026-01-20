@@ -548,3 +548,8 @@ Wenn E-Mails nicht schnell genug zum (Geld-)Erfolg führen, wechseln Scammer ger
 Die Taktik ist simpel: **Präsenz zeigen.** Durch das „Hallo“ am Morgen und am Nachmittag soll Hugo das Gefühl bekommen, dass man ihn beobachtet. Als Hugo schließlich antwortet, kommt sofort die Forderung: „Senden Sie mir den Zahlungsbeleg für die 500.“ Der rote Balken im Dashboard war wohl nicht deutlich genug – jetzt wollen sie das Ding schwarz auf weiß (oder eben Pixel auf Pixel).
 
 ![](/posts/2025-12-22_chong-pong-song/whatsapp_1.webp)
+
+Am nächsten Tag geht die Geschichte weiter:
+
+![](/posts/2025-12-22_chong-pong-song/whatsapp_2.webp)
+

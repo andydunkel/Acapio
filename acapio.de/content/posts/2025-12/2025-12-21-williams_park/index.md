@@ -206,3 +206,15 @@ An diesem Punkt ist für Hugo Schluss mit lustig. **Vertrauen ohne Gegenleistung
 >   
 > Gruß  
 > Hugo aus Wanne-Eickel 🍺🚗🎄  
+
+## **Fazit: Funkstille sagt mehr als tausend Worte**
+
+Nach dem Ultimatum wird es still. Keine Antwort, keine Dokumente, keine Erklärungen – nichts. Und genau das ist das deutlichste Zeichen von allen. Sobald keine persönlichen Daten mehr fließen und stattdessen **konkrete Belege** gefordert werden, bricht das Kartenhaus in sich zusammen.
+
+Der angebliche Banker konnte weder einen Banknamen nennen noch irgendeinen schriftlichen Nachweis liefern. Stattdessen blieb es bei vagen Aussagen, religiösen Beteuerungen und dem ständigen Drängen auf Ausweis- und Kontaktdaten. Als klar wurde, dass Hugo darauf nicht hereinfällt, endete der Kontakt abrupt.
+
+**Merke:**
+Echte Banken liefern Dokumente.
+Betrüger liefern Ausreden.
+
+Und wenn nach klaren Fragen nur noch Funkstille folgt, weiß man ganz genau, woran man ist. 💸🚫
