@@ -553,3 +553,31 @@ Am nächsten Tag geht die Geschichte weiter:
 
 ![](/posts/2025-12-22_chong-pong-song/whatsapp_2.webp)
 
+<div class="chat-container">
+
+{{< chat sender="hugo" >}}
+Hömma Herr Kuzu, ich hab Ihnen das Ding doch schon gemailt! Bin gerade auf Achse Richtung Kassel.
+Mein Chef kriegt die Krise, wenn ich hier nur am Handy hänge. Ich hab doch gesagt: Die Sparkasse hat das Geld abgebucht. Wenn das bei Ihrer Rosi nicht ankommt, liegt das an Ihrem komischen System!
+
+Ich schick Ihnen den Wisch nachher nochmal, wenn ich auf dem Rastplatz stehe. Aber ich sag Ihnen: Wenn die Millionen nicht bald auftauchen, fahr ich persönlich bei der Sparda-Bank in Hannover vorbei. Das ist doch nicht normal!
+{{< /chat >}}
+
+
+{{< chat sender="scammer" >}}
+Bitte senden Sie uns die vollständige Quittung. Wurde das Geld von Ihrem Konto abgebucht? Bitte antworten Sie baldmöglichst.
+{{< /chat >}}
+
+
+{{< chat sender="scammer" >}}
+Hallo, sie hat das Geld noch nicht erhalten. Bitte kontaktieren Sie Ihre Bank und fragen Sie nach dem Grund.
+{{< /chat >}}
+
+
+{{< chat sender="hugo" >}} Samma, ich steh hier gerade auf der A7 im Stau und Sie nerven mich alle 5 Minuten!
+
+Hab gerade in meine App geguckt: Die 500 Euro sind weg, da steht „Wertstellung erfolgt“. Wenn Ihre Rosi zu dusselig ist, ihren Kontoauszug zu lesen, kann ich doch nichts dafür!
+
+Vielleicht hat die Sparda-Bank das Geld wegen „Geldwäscheprüfung“ oder so angehalten, weil das so eine krumme Summe für eine Privatperson ist? Ich fahr morgen früh nach der Schicht direkt bei meiner Sparkasse vorbei und lass mir das abstempeln. Dann schick ich Ihnen das Foto, aber vorher ist Schicht im Schacht, ich muss mich aufs Fahren konzentrieren! {{< /chat >}}
+
+
+</div>
