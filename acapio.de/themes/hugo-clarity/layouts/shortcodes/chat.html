@@ -1,0 +1,23 @@
+{{- $sender := .Get "sender" | default "scammer" -}}
+{{- $name := .Get "name" | default "" -}}
+{{- $image := .Get "image" | default "" -}}
+
+{{- /* Sender-Klasse bestimmen */ -}}
+{{- $class := "chat-bubble chat-scammer" -}}
+{{- if or (eq $sender "hugo") (eq $sender "ich") (eq $sender "me") -}}
+  {{- $class = "chat-bubble chat-me" -}}
+{{- end -}}
+
+<div class="{{ $class }}">
+  {{- if $name -}}
+  <div class="chat-name">{{ $name }}</div>
+  {{- end -}}
+  
+  {{- if $image -}}
+  <div class="chat-image">
+    <img src="{{ $image }}" alt="Chat Bild" loading="lazy">
+  </div>
+  {{- end -}}
+  
+  <div class="chat-text">{{ .Inner | markdownify }}</div>
+</div>
