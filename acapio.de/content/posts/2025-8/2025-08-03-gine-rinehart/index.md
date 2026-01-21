@@ -43,7 +43,7 @@ Natürlich antworten wir!
 
 > Liebe Frau Gina Rinehart,  
 >   
-> erstmal Respekt – was Sie da unten in Australien mit dem Bergbau reißen, ist nicht von schlechten Eltern. Ich bin Hugo Scholz aus Wanne-Eickel, Ruhrpott-Original und Hobbyinvestor mit Herz.  
+> erstmal Respekt – was Sie da unten in Australien mit dem Bergbau reißen, ist nicht von schlechten Eltern. Ich bin Scholz aus Wanne-Eickel, Ruhrpott-Original und Hobbyinvestor mit Herz.  
 >   
 > Ihre Nachricht hat mich wirklich berührt. 2 Millionen Euro – das ist mehr als mein Dackel auf dem Konto hat! 🐶💸 Ich sag mal so: Interesse ist da! Wer wäre ich, da Nein zu sagen?  
 >   
@@ -199,7 +199,7 @@ Er bietet alles an, was man für eine seriöse Transaktion braucht: Name, Adress
 > Sehr geehrter Herr Wang,  
 > sehr geehrtes Team der Citizens Financial Bank,  
 >   
-> mein Name ist Hugo Scholz aus Wanne-Eickel, Deutschland. Ich wurde von Frau Gina Rinehart informiert, dass sie mir eine Spende in Höhe von 2.000.000 Euro zukommen lassen möchte (bitte mit allen Nullen, ich hab's dreimal gezählt).  
+> mein Name ist Scholz aus Wanne-Eickel, Deutschland. Ich wurde von Frau Gina Rinehart informiert, dass sie mir eine Spende in Höhe von 2.000.000 Euro zukommen lassen möchte (bitte mit allen Nullen, ich hab's dreimal gezählt).  
 >   
 > Sie schrieb mir, dass Sie bereits über alles informiert sind und auf meine Kontaktaufnahme warten.  
 >   

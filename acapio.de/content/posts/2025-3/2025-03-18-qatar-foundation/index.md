@@ -157,7 +157,7 @@ Also schreibt Hugo ganz brav und vertrauensvoll seine erste Nachricht an den *Di
 
 > Sehr geehrter Herr Dr. Triguero Sanchez,  
 >   
-> mein Name ist Hugo Scholz, und ich wurde von Herrn Rashid Al-Naimi von der Qatar Foundation an Sie verwiesen.  
+> mein Name ist Scholz, und ich wurde von Herrn Rashid Al-Naimi von der Qatar Foundation an Sie verwiesen.  
 >   
 > Ich freue mich sehr über die großzügige Spende in Höhe von €995.000,00, die mir im Rahmen des Universalprogramms zugesprochen wurde. Wie gewünscht, möchte ich mich bei Ihnen mit der PIN: QF-999-2025 melden, um den weiteren Ablauf der Auszahlung zu besprechen.  
 >   

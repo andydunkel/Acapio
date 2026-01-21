@@ -225,7 +225,7 @@ Man muss es ihm lassen – unser Kreditmanager George Lucas gibt sich alle Mühe
 
 Natürlich rein zufällig hat Yaya Financial Services **vor Kurzem eine Filiale in Nairobi eröffnet**. Klar, warum sollte ein globaler Finanzdienstleister nicht ausgerechnet in Kenia seine wichtigste Außenstelle haben? Und weil das alles so seriös ist, soll Hugo im Western-Union-Büro einfach sagen, dass er **„Geld an einen Freund der Familie“** schickt – das klingt nicht verdächtig, nein nein.  
 
-> Lieber Hugo Scholz.  
+> Lieber Scholz.  
 >   
 > Wie geht es Ihnen? Ich hoffe, Sie haben ein schönes Wochenende mit Ihrer Familie.  
 >   
@@ -263,7 +263,7 @@ Hugo zeigt sich kooperativ und möchte das Geld sofort überweisen – er brauch
 > Ich freue mich auf Ihre schnelle Antwort, damit wir das endlich abschließen können.    
 >   
 > Beste Grüße    
-> Hugo Scholz    
+> Scholz    
 > BMW-Club Wanne-Eickel – Immer auf Achse!    
 
 ### Hugos Geld soll nach Nairobi – an eine gewisse Annet Nakhumicha Murambi

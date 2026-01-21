@@ -88,7 +88,7 @@ Fazit: **Eine katastrophal schlecht übersetzte, lächerliche Scam-Mail** mit ei
 
 ### Die erste Antwort-Mail
 
-> Hallo Hugo Scholz,  
+> Hallo Scholz,  
 >   
 > mein Name ist Carl Icahn, ich bin ein amerikanischer Geschäftsmann, Investor und Philanthrop. Ich bin ein Investor und CEO von Berkshire Hathaway. Ihre E-Mail-Adresse wurde zufällig aus der europäischen E-Mail-Datenbank ausgewählt und du wurden ausgewählt, um 500.000,00 € zu erhalten. Dies ist zu 100% legitim. Zur Bestätigung besuchen bitte:  
 >   

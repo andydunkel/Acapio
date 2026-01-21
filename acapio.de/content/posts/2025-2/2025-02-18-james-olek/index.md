@@ -131,11 +131,11 @@ In seiner gewohnt bescheidenen Art fragt Hugo höflich nach dem Geld. Aber mal e
 
 > Hello Dr. Mark Peterson,    
 >   
-> This is Hugo Scholz. I just received a message from the Metropolitan Police UK, and they told me that you are the guy I need to talk to about my 16.6 million dollars. First of all, let me say: WOW! That’s a lot of money. I had no idea I was this rich! Maybe I should buy another BMW now. 🚗💨    
+> This is Scholz. I just received a message from the Metropolitan Police UK, and they told me that you are the guy I need to talk to about my 16.6 million dollars. First of all, let me say: WOW! That’s a lot of money. I had no idea I was this rich! Maybe I should buy another BMW now. 🚗💨    
 >   
 > Anyway, the police said everything is re-approved, so we can move forward now. Tell me, what do I need to do to get my money? I hope you don’t need any more proof that I’m alive – I’m still drinking beer and working every day, so I think that’s enough.    
 >   
 > Looking forward to your instructions. Please let me know if I need to send anything else.    
 >   
 > Cheers,    
-> Hugo Scholz    
+> Scholz    

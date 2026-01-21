@@ -149,7 +149,7 @@ Natürlich sind die PDFs voller Schreibfehler, Fantasie-Adressen, wild zusammenk
 
 Die Scammer versuchen damit aber nur eines: Seriös wirken. Spoiler: Tun sie nicht.
 
-> Guten Morgen Hugo Scholz  
+> Guten Morgen Scholz  
 >   
 > Ich war heute Morgen beim Gericht, um einige der erforderlichen  
 > Dokumente zur Einsichtnahme abzuholen.  
@@ -398,7 +398,7 @@ Wir leiten die Formulare an Herrn Ortels weiter und sehen dann weiter.
 Und als die Scammer merken, dass Hugo immer noch fröhlich mitspielt, zünden sie die nächste Stufe: ein angebliches Formular des **„Ministerio de Justicia“**, das aussieht, als wäre es von einem gelangweilten Schüler in der Computer-AG zusammengeklöppelt worden. Links ein Clown-Notar-Stempel, rechts eine pixelige Spanienflagge, oben drüber ein Titel in einer Schriftart, die sogar WordArt peinlich wäre.
 
 Nicolas verlangt nun, Hugo solle dieses Meisterwerk ausfüllen, unterschreiben und zurückschicken – Zweck der Erklärung:
-**„Freigabe des Depots des verstorbenen David M. Scholz an Hugo Scholz.“**
+**„Freigabe des Depots des verstorbenen David M. Scholz an Scholz.“**
 
 > Gemäß den Vorgaben der Depotbank finden Sie im Anhang das Formular zur  
 > Beantragung der eidesstattlichen Erklärung. Bitte füllen Sie es aus und  
@@ -406,7 +406,7 @@ Nicolas verlangt nun, Hugo solle dieses Meisterwerk ausfüllen, unterschreiben u
 > kann.  
 >   
 > Als Zweck der Erklärung geben Sie bitte Folgendes an: Freigabe des  
-> Depots des verstorbenen David M. Scholz an Hugo Scholz.  
+> Depots des verstorbenen David M. Scholz an Scholz.  
 >   
 > Vielen Dank.  
 > Nicolas.  

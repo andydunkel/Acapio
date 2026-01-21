@@ -262,7 +262,7 @@ Er hat damit seine Schuldigkeit getan und er verweist uns an die Bank und hat so
 >   
 > Kontaktperson: Herr MacQuoid Taylor  
 >   
-> Wenn Sie die Bank per E-Mail kontaktieren möchten, schlage ich vor, dass Sie die Bank wie folgt per E-Mail kontaktieren. COURTAGE TRUST BANK (SWINDON, ENGLAND, VEREINIGTES KÖNIGREICH), Mein Name ist Hugo Scholz, ich schreibe diese E-Mail im Zusammenhang mit den Geldern meines verstorbenen Verwandten, mit dem Namen Dr. Thomas .J. Scholz, die sich bei Ihrer Bank THE COURTAGE TRUST BANK befinden. Ich möchte ein Online-Konto bei Ihrer Bank eröffnen, um Zugang zu den Geldern meines verstorbenen Verwandten als seinem einzigen überlebenden Verwandten und nächsten Angehörigen zu haben. Ich würde mich sehr freuen, wenn meine E-Mail eine Antwort im Hinblick auf meine Anfrage erhalten würde  
+> Wenn Sie die Bank per E-Mail kontaktieren möchten, schlage ich vor, dass Sie die Bank wie folgt per E-Mail kontaktieren. COURTAGE TRUST BANK (SWINDON, ENGLAND, VEREINIGTES KÖNIGREICH), Mein Name ist Scholz, ich schreibe diese E-Mail im Zusammenhang mit den Geldern meines verstorbenen Verwandten, mit dem Namen Dr. Thomas .J. Scholz, die sich bei Ihrer Bank THE COURTAGE TRUST BANK befinden. Ich möchte ein Online-Konto bei Ihrer Bank eröffnen, um Zugang zu den Geldern meines verstorbenen Verwandten als seinem einzigen überlebenden Verwandten und nächsten Angehörigen zu haben. Ich würde mich sehr freuen, wenn meine E-Mail eine Antwort im Hinblick auf meine Anfrage erhalten würde  
 
 #### Unser Dank an Haskel
 
@@ -337,7 +337,7 @@ Liefern wir!
 > Sollte es noch irgendwelche Fragen geben, lassen Sie es mich bitte wissen. Ich stehe bereit!  
 >   
 > Beste Grüße,  
-> Hugo Scholz  
+> Scholz  
 >   
 > P.S.: Ich hoffe, es macht Ihnen nichts aus, dass ich noch keine schicke Krawatte für den Anlass trage – ich bin mehr der Typ für T-Shirts. 😉  
 
@@ -377,7 +377,7 @@ Auch unseren Haskel antworten wir!
 > Sie sind echt die beste Unterstützung, die man haben kann – tausend Dank dafür!    
 >   
 > Grüße aus’m Pott,    
-> Hugo Scholz    
+> Scholz    
 >   
 > P.S.: Bier und Currywurst geht auf mich, wenn das Ding durch ist. Ohne Witz, Sie haben’s sich verdient! 😉  
 

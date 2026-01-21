@@ -44,7 +44,7 @@ Hugo war natürlich sofort Feuer und Flamme. Immerhin bekommt man nicht alle Tag
 > Ich bin völlig aus dem Häuschen! 4 Millionen Euro?! Ich hab direkt die Spendenquittung schon mal selbst vorgedruckt!  
 >   
 > Meine Daten:  
-> Name: Hugo Scholz  
+> Name: Scholz  
 > Land: Wanne-Eickel, Ruhrpott  
 > WhatsApp: Leider verloren, seit ich mein Nokia 3310 im Schwimmbad versenkt hab  
 >    

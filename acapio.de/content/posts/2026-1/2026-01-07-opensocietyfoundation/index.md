@@ -60,9 +60,9 @@ Der Screenshot zeigt die **echte** Seite der *Open Society Foundations*. Der Kon
 ![Die Webseite der echten Foundation nach der Weiterleitung](/posts/2025-01-06-opensocietyfoundation/website.webp)
 
 
-## 🏎️ Hugo Scholz übernimmt: Wanne-Eickel schlägt zurück!
+## 🏎️ Scholz übernimmt: Wanne-Eickel schlägt zurück!
 
-Wir haben den Spieß umgedreht und unseren Geheimagenten **Hugo Scholz** (BMW-Fan, Dackelbesitzer, Pils-Liebhaber) antworten lassen. 🍻🐕 Sein Stil: Ruhrpott-Charme pur statt kühler Analyse.
+Wir haben den Spieß umgedreht und unseren Geheimagenten **Scholz** (BMW-Fan, Dackelbesitzer, Pils-Liebhaber) antworten lassen. 🍻🐕 Sein Stil: Ruhrpott-Charme pur statt kühler Analyse.
 
 Hugo freut sich in der Mail schon auf „Super Plus“ für seinen 3er BMW und kündigt an, die frohe Botschaft heute Abend im Vereinsheim bei ein paar kühlen Blonden zu bequatschen. Während er auf den „Bargeld-Koffer“ hofft, müssen die Scammer jetzt erklären, warum sie eigentlich zwei verschiedene Stiftungsnamen nutzen. 🕵️‍♂️
 
@@ -88,7 +88,7 @@ Hugo freut sich in der Mail schon auf „Super Plus“ für seinen 3er BMW und k
 Tja, was soll man sagen? Seit Hugos Mail über den Bargeld-Koffer und Bertis Extra-Wurst herrscht am anderen Ende der Leitung betretenes Schweigen. Keine Antwort von der „openocietynfoundation“. Scheinbar haben die Herrschaften keine Lust auf ein kühles Blondes im Vereinsheim oder sie suchen verzweifelt nach einer Übersetzung für „Dackel“. 🐕🚫
 
 **Was wir daraus lernen:**
-Scammer suchen das schnelle, leichte Opfer. Sobald man den Spieß umdreht, kritische Fragen stellt (Wyss vs. Open Society!) oder mit einer überdrehten Persona wie Hugo Scholz um die Ecke kommt, verlieren sie das Interesse. Ihre Zeit ist ihr Geld – und die haben wir ihnen erfolgreich gestohlen. ⏳💰
+Scammer suchen das schnelle, leichte Opfer. Sobald man den Spieß umdreht, kritische Fragen stellt (Wyss vs. Open Society!) oder mit einer überdrehten Persona wie Scholz um die Ecke kommt, verlieren sie das Interesse. Ihre Zeit ist ihr Geld – und die haben wir ihnen erfolgreich gestohlen. ⏳💰
 
 **Bleibt wachsam:** Echte Stiftungen verschenken kein Geld per Gmail. Wenn es zu gut klingt, um wahr zu sein, ist es das meistens auch. Und wenn ihr mal wieder eine solche Mail bekommt: Denkt an Hugo, Berti und den 3er BMW – kurzes Lachen, löschen und bloß nichts anklicken! 🏎️💨
 

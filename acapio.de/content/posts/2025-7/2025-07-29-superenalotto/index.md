@@ -132,7 +132,7 @@ Das Beste: Jede Option kostet ordentlich Geld vorab – natürlich **nicht vom G
 
 Als wäre der versprochene Millionenbetrag nicht genug, flatterte auch noch ein „Zertifikat“ ins Postfach. Offiziell. Mit Stempel. Und sogar mit der Original-Unterschrift von „Claudio Moro“, dem vermutlich mächtigsten Mann der Fantasie-Finanzwelt. 
 
-Die Gestaltung? Ein Mix aus Grundschulprojekt, ClipArt und Comic Sans auf Speed. Aber hey – **Hugo Scholz ist jetzt ganz offiziell SuperEnalotto-Hauptgewinner der 5. Saison 2025**, was auch immer das heißt.
+Die Gestaltung? Ein Mix aus Grundschulprojekt, ClipArt und Comic Sans auf Speed. Aber hey – **Scholz ist jetzt ganz offiziell SuperEnalotto-Hauptgewinner der 5. Saison 2025**, was auch immer das heißt.
 
 ![](/posts/2025-07-29_superenalotto/urkunde.webp)
 

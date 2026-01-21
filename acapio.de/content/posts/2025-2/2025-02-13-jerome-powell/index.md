@@ -215,7 +215,7 @@ Kleiner Haken: Die Adresse klingt wie ein Postfach im Lottozentrum und das einzi
 > Andrew's Plaza New York NY 15607; County, New York  
 > Telephone:  (937) 949 0534  
 >   
-> Dear Sir/Madam, Hugo Scholz,  
+> Dear Sir/Madam, Scholz,  
 >   
 > Sir, the two documents you are required to obtain for the transferring of your total funds $10.500.000.00 usd will cost you $1080.00 usd and once the two documents are obtained it will be forwarded to the bank and the bank will transfer your total funds to your bank account without any delay, therefore, if you are ready to obtain the two documents let me know to send you the account details to send the fee.  
 >   

@@ -100,7 +100,7 @@ Hömma, es ist passiert! Der „Barista“ Steven Oscar hat geantwortet – und 
 
 ## **Hugo bleibt hart: Kein Ausweis ohne Beweis! 🙅‍♂️🛠️**
 
-Nachdem Steven versuchte, Hugo mit einer Textwüste einzulullen, zeigt unser Lieblings-Schrauber jetzt Kante. Mit seiner neuen Identität als „Hugo Scholz“ (man will ja unerkannt bleiben, falls das Finanzamt mitliest) und einem fiktiven Wohnsitz in Hamburg, spielt er den Ball zurück.
+Nachdem Steven versuchte, Hugo mit einer Textwüste einzulullen, zeigt unser Lieblings-Schrauber jetzt Kante. Mit seiner neuen Identität als „Scholz“ (man will ja unerkannt bleiben, falls das Finanzamt mitliest) und einem fiktiven Wohnsitz in Hamburg, spielt er den Ball zurück.
 
 „Hömma“, erklärt Hugo seinen Lesern, „der Steven will meinen Ausweis? Den kriegt ja nicht mal die Politesse, wenn ich im Halteverbot stehe, ohne dass ich vorher ne Dienstmarke sehe!“ 👮‍♂️🚫 
 
@@ -112,7 +112,7 @@ Nachdem Steven versuchte, Hugo mit einer Textwüste einzulullen, zeigt unser Lie
 >   
 > Hier sind aber mal die Eckdaten für deine Unterlagen, damit die Kristine sieht, dass ich es ernst meine:  
 >   
-> Name: Hugo Scholz (Die Jungs nennen mich aber nur „Scholle“) 🏎️  
+> Name: Scholz (Die Jungs nennen mich aber nur „Scholle“) 🏎️  
 > Alter: 49 (und knackig wie ne Grillwurst)  
 > Adresse: Fährweg 12b, 22305 Hamburg (Bin gerade geschäftlich in der Hansestadt, muss hier ein paar Schlitten überführen) ⚓🚢  
 > Beruf: Fahrer (Ich bewege alles, was Räder hat und Krach macht!) 🏎️💨  

@@ -104,7 +104,7 @@ Natürlich lässt sich Hugo nicht lumpen und antwortet sofort – höflich, bege
 >
 > Hier die Daten, die Sie wollten:
 >
-> **Vollständiger Name:** Hugo Scholz
+> **Vollständiger Name:** Scholz
 > **Land:** Deutschland
 > **Bundesland:** Nordrhein-Westfalen
 > **Stadt:** Wanne-Eickel
@@ -121,8 +121,7 @@ Natürlich lässt sich Hugo nicht lumpen und antwortet sofort – höflich, bege
 > Ich freu mich schon, von Ihnen zu hören.
 >
 > Glück auf und Gottes Segen,
-> **Hugo Scholz**
-> *[scholzhugo4@gmail.com](mailto:scholzhugo4@gmail.com)*
+> **Scholz**
 >
 > P.S.: Wenn Sie mich anrufen wollen, bitte nicht vor 10 Uhr – ich brauch morgens erstmal meinen Kaffee.
 

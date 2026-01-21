@@ -89,7 +89,7 @@ Auch wenn es diesmal *nur* 890.000 Dollar sind und wir knapp an der Millionenmar
 > Falls noch weitere Informationen benötigt werden (z. B. meine Lieblingsfarbe oder der Name meines ersten Haustiers – rein aus Sicherheitsgründen natürlich), lassen Sie es mich wissen. Ich bin gespannt, wie es weitergeht und freue mich schon darauf, das Geld für *absolut ehrliche und gemeinnützige Zwecke* einzusetzen.    
 >   
 > Mit vorfreudigen Grüßen,    
-> Hugo Scholz    
+> Scholz    
 > BaldigerWohltäter und zukünftiger Dollar-Millionär 🎩💸  
 
 
@@ -269,7 +269,7 @@ Und schreiben eine freudige E-Mail!
 > Ich freue mich auf Ihre Rückmeldung und danke Ihnen für Ihre Unterstützung.  
 >   
 > Mit freundlichen Grüßen,  
-> Hugo Scholz  
+> Scholz  
 > Baldiger Philanthrop und glücklicher Spendenempfänger 💸  
 
 ## Willkommen bei der Bank unseres Vertrauens!

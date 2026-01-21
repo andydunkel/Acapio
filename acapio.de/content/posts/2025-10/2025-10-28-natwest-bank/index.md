@@ -76,7 +76,7 @@ Die E-Mail, wie immer lang, ausführlich und auf englisch!
 
 ## Hugos Antwort auf die 10-Millionen-Mail 💸
 
-Natürlich hat sich auch unser **Hugo Scholz vom BMW-Club Wanne-Eickel** nicht zweimal bitten lassen.
+Natürlich hat sich auch unser **Scholz vom BMW-Club Wanne-Eickel** nicht zweimal bitten lassen.
 
 Zwar ist sein Englisch etwas… sagen wir *handwerklich geprägt*, aber dafür kommt er direkt zur Sache.
 
@@ -94,7 +94,7 @@ Er möchte wissen, **warum ausgerechnet er** jetzt 10 Millionen Dollar bekommen 
 > You can write slow, I use Google translate.  
 >   
 > Best greetings,  
-> Hugo Scholz  
+> Scholz  
 > BMW Club Wanne-Eickel  
 > Germany 🇩🇪  
 

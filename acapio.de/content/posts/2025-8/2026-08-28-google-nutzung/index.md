@@ -138,7 +138,7 @@ Natürlich wird streng gewarnt: „Fordern Sie nicht, dass die Gebühren vom Gew
 > 24 hours support.  
 >    
 >    
-> Freundliche Aufmerksamkeit: Herr. Hugo Scholz,  
+> Freundliche Aufmerksamkeit: Herr. Scholz,  
 >    
 >   
 > Willkommen bei der CAIXA BANK SA. CaixaBank wird von der spanischen Abteilung für Banken und Versicherungen (DOBI) reguliert und geregelt. Dies sind die Finanzinstitute, die alle finanziellen Aktivitäten regeln. Was auch immer Sie für Ihre Überweisung benötigen, wir haben eine passende Lösung, von international über Privatbanken bis hin zu Hypotheken transfer von gewinnmitteln per google award.  
@@ -312,7 +312,7 @@ Jetzt wird’s ernst: Herr Riera vom „internationalen Überweisungsmanagement�
 Natürlich geht es wieder um die **495 Euro**, die angeblich den Weg nach Spanien (oder Italien, man weiß es nicht mehr so genau) finden sollten. Und weil das Ganze „dringend“ ist, will man Hugo nun sogar **neue Bankdaten** geben – schließlich läuft ein globaler Konzern wie Google nicht mit einem einzigen Konto.
 
 > Guten Tag,   
-> Herr Hugo Scholz,  
+> Herr Scholz,  
 >   
 > wir haben noch keine Rückmeldung von Ihnen erhalten und möchten gerne wissen, ob Sie bereits mit Ihrer Bank gesprochen haben und ob die 495 Euro bereits auf Ihrem Konto eingegangen sind.  
 >   
