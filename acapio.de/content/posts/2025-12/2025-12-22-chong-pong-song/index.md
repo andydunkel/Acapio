@@ -543,7 +543,7 @@ Wer laut genug schreit, weckt bei Betrügern die Hoffnung, dass das Geld viellei
 
 ## Eskalation auf WhatsApp: Herr Kuzu wird ungeduldig 📱🔥
 
-Wenn E-Mails nicht schnell genug zum (Geld-)Erfolg führen, wechseln Scammer gerne das Medium. Hugo bekommt plötzlich Nachrichten von einer US-Nummer (**+1 708...**). Dass ein „Direktor einer türkischen Bank“ über eine amerikanische Handynummer mit Weihnachtsbaum-Profilbild chattet, passt natürlich perfekt ins Bild. 🎄🤡
+Wenn E-Mails nicht schnell genug zum (Geld-)Erfolg führen, wechseln Scammer gerne das Medium. Hugo bekommt plötzlich Nachrichten von einer US-Nummer (**+1 (708) 470-1896**). Dass ein „Direktor einer türkischen Bank“ über eine amerikanische Handynummer mit Weihnachtsbaum-Profilbild chattet, passt natürlich perfekt ins Bild. 🎄🤡
 
 Die Taktik ist simpel: **Präsenz zeigen.** Durch das „Hallo“ am Morgen und am Nachmittag soll Hugo das Gefühl bekommen, dass man ihn beobachtet. Als Hugo schließlich antwortet, kommt sofort die Forderung: „Senden Sie mir den Zahlungsbeleg für die 500.“ Der rote Balken im Dashboard war wohl nicht deutlich genug – jetzt wollen sie das Ding schwarz auf weiß (oder eben Pixel auf Pixel).
 
@@ -605,3 +605,31 @@ Sagen Sie mal, was ist das für eine Nummer? Ich hab hier meine letzte Kohle ges
 {{< /chat >}}
 
 </div>
+
+## Game Over: Wenn der Scammer die Geduld verliert 🛑😤
+
+Es ist die höchste Auszeichnung in der Welt des Scam-Baitings: Der Moment, in dem der Betrüger moralisch entrüstet den Kontakt abbricht. Nachdem Hugo die Polizei, gesperrte Konten und die mysteriöse Rosemarie ins Spiel gebracht hat, ist das Kartenhaus der „Turk City Bank“ endgültig zusammengebrochen.
+
+<div class="chat-container">
+
+{{< chat sender="scammer" >}}
+Du bist ein großer Lügner.
+{{< /chat >}}
+
+{{< chat sender="scammer" >}}
+Bitte kontaktieren Sie mich nicht mehr.
+{{< /chat >}}
+
+</div>
+
+Dass ausgerechnet Herr Kuzu – der Mann mit der Fake-Bank und dem geklauten Weihnachtsbaum-Profilbild – Hugo als „Lügner“ bezeichnet, ist an Ironie kaum zu überbieten. Es zeigt aber auch: Die Betrüger haben gemerkt, dass bei Hugo außer heißer Luft und Geschichten aus Wanne-Eickel nichts zu holen ist. Zeit ist Geld, und Hugo hat ihnen davon jede Menge gestohlen. ⏳❌
+
+### Was wir aus dieser Reise gelernt haben:
+
+* **Banken nutzen keine Outlook-Adressen:** Echte Mitarbeiter der Citibank schreiben nicht von `@outlook.com`.
+* **Vorschuss bedeutet Betrug:** Sobald Gebühren für Erbschaften oder Millionen-Transfers verlangt werden, sollten alle Alarmglocken schrillen.
+* **Privatkonten sind Tabu:** Keine seriöse Bank der Welt lässt Gebühren über ein Privatkonto einer „Rosemarie“ bei der Sparda-Bank Hannover abwickeln.
+* **Fake-Plattformen sind billig:** Ein schickes Dashboard macht noch keine Bank. Heute kann sich jeder für ein paar Dollar ein täuschend echtes Banking-Interface zusammenklicken.
+
+Hugo kehrt nun zurück in seinen BMW, krault seinen Dackel und freut sich, dass die 9,3 Millionen Dollar zwar nicht auf seinem Konto gelandet sind, er dafür aber ein paar Kriminelle ordentlich Zeit und Nerven gekostet hat. 🚗🐶✌️
+
