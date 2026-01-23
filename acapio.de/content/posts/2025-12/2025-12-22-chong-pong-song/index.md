@@ -553,6 +553,8 @@ Am nächsten Tag geht die Geschichte weiter:
 
 ![](/posts/2025-12-22_chong-pong-song/whatsapp_2.webp)
 
+Es wird nachgehakt:
+
 <div class="chat-container">
 
 {{< chat sender="hugo" >}}
@@ -579,5 +581,27 @@ Hab gerade in meine App geguckt: Die 500 Euro sind weg, da steht „Wertstellung
 
 Vielleicht hat die Sparda-Bank das Geld wegen „Geldwäscheprüfung“ oder so angehalten, weil das so eine krumme Summe für eine Privatperson ist? Ich fahr morgen früh nach der Schicht direkt bei meiner Sparkasse vorbei und lass mir das abstempeln. Dann schick ich Ihnen das Foto, aber vorher ist Schicht im Schacht, ich muss mich aufs Fahren konzentrieren! {{< /chat >}}
 
+
+</div>
+
+Da wir uns nicht melden, wird Druck gemacht:
+
+<div class="chat-container">
+
+{{< chat sender="scammer" >}}
+Okay, bitte senden Sie das Foto morgen.
+{{< /chat >}}
+
+{{< chat sender="scammer" >}}
+Hallo
+{{< /chat >}}
+
+{{< chat sender="hugo" >}}
+Hör mal Herr Kuzu, ich bin gerade erst nach Hause gekommen und hab direkt bei der Bank angerufen, weil das Geld immer noch nicht bei euch ist.
+
+Wissen Sie, was die mir gesagt haben? Die haben die 500 Euro ZURÜCKGEBUCHT! Die Tante am Telefon meinte, das Konto von dieser Rosemarie in Hannover wurde GESPERRT. Wegen Verdacht auf BETRUG und POLIZEI-Ermittlungen!
+
+Sagen Sie mal, was ist das für eine Nummer? Ich hab hier meine letzte Kohle gesetzt und jetzt hab ich Stress mit der Kripo, weil ich Geld an eine Kriminelle schicke? Was ist mit meinen Millionen? Ist das alles nur Verarsche hier? Ich will sofort wissen, was da los ist, sonst fahr ich morgen direkt zur Wache!
+{{< /chat >}}
 
 </div>
