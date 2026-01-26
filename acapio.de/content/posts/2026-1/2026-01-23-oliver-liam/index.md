@@ -13,7 +13,6 @@ thumbnail: "lawyer.webp"
 url: "posts/2025-01-23-oliver-liam"
 summary: "**Millionenerbe oder Vollrausch? 🥴💸**
 Gestern Abend nach dem dritten Krügerl kam die Mail: Ein fettes Erbe wartet auf mich! Aber selbst mit 1,5 Promille riecht der Basti diesen Braten. 🍖"
-draft: true
 
 ---
 
@@ -180,3 +179,13 @@ Ich habe dem "Riesen-Olli" jetzt geschrieben, dass ich heiß auf die 18 Millione
 > Sag mir bitte Bescheid, ob wir schon mal ohne Ausweis starten können!  
 >   
 > Dein Freund Basti  
+
+
+## Fazit: Der Olli hat mich geghostet! (Oder: Warum ich doch nicht Millionär werde) 👻💔
+
+Tja, liebe Leut’, es ist vorbei. Aus der Traum vom goldenen Hundenapf. 🐩💎
+
+Seit meiner Nachricht mit dem "Schiefen Zapfhahn" herrscht Funkstille. Der Olli meldet sich nimmer. Keine 18 Millionen, kein Privatjet, und mein Ausweis bleibt wohl virtuell beim Wirt.
+
+**Warum hat er aufgegeben?**
+Ganz einfach: Scammer sind wie Fließbandarbeiter. Die wollen schnelle Kohle und keine komplizierten Geschichten von besoffenen Lageristen, die ihre Geldbörse verlieren. Sobald es "mühsam" wird, brechen die Profis oft ab. Die riechen den Braten – oder sie haben gemerkt, dass bei mir außer dummen Sprüchen und Leergut nix zu holen ist.

@@ -5,7 +5,6 @@ params:
 date: "2026-01-24"
 featured: true
 toc: true
-draft: true
 tags:
   -  "scam"
 categories:
@@ -102,4 +101,18 @@ Hier ist meine Antwort an den Herrn Millionär:
 **Bastis Plan:** Schau ma mal, wie er darauf reagiert, wenn man ihm nicht sofort um den Hals fällt. Wetten, er wird jetzt erst richtig aufdringlich? 🎣
 
 
+## Fazit: Der Manuel hat mich geghostet! 👻🚫
 
+Tja, Leute. Es ist passiert. Funkstille.
+Seit meiner letzten Mail herrscht **Ruhe im Karton**. Der „Millionär“ meldet sich nimmer. Hat er vielleicht sein Passwort für die Outlook-Adresse vergessen? Oder ist ihm das Guthaben am Prepaid-Handy ausgegangen? 🤔
+
+**Die Wahrheit ist:**
+Betrüger betreiben **Massenabfertigung**. Die suchen Opfer, die vor lauter Gier sofort das Hirn ausschalten. Sobald einer wie ich kommt und fragt: *„Heast, wo ist der Haken?“*, wissen die sofort: **Bei dem ist nix zu holen.** Das ist denen zu anstrengend. Ich bin schlecht fürs Geschäft.
+
+**Was lernen wir daraus?**
+
+1. Wenn ihr Fragen stellt, hauen die Ratten ab. 🐀
+2. Ignorieren ist immer noch die beste Waffe.
+3. Ich bleib zwar arm, aber dafür hab ich meine Daten noch.
+
+In diesem Sinne Prost! 🍻
