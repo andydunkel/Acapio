@@ -115,3 +115,49 @@ Besonders ironisch ist die Adresse `rolandhughessolicitation@consultant.com` –
 > Glück Auf! Hugo  
 
 
+## **Phase 2: Roland will dein Gesicht (und deinen Ausweis)**
+
+Jetzt wird es offiziell – oder zumindest das, was man in einem Internetcafé unter „offiziell“ versteht. Roland Hughes, der „Senior Partner“, schwingt die **KYC-Keule** (Know Your Customer). Er will nicht nur Hugos Daten, sondern einen hochauflösenden Scan vom Ausweis und ein **„Selfie mit ID“**.
+
+**Die Masche hinter dem Biometrie-Check:**
+Was Roland hier als „Schutz vor Identitätsdiebstahl“ verkauft, ist in Wahrheit der **Identitätsdiebstahl selbst**. Mit einem Selfie inklusive Ausweis können die Betrüger in Hugos Namen Konten eröffnen, Kredite beantragen oder Krypto-Wallets verifizieren. Besonders perfide: Der Zeitdruck („allotted window“) und die Drohung, das Geld sonst dem nächsten Glückspilz zu geben, sollen Hugo dazu bringen, den Kopf auszuschalten und den Auslöser zu drücken.
+
+> **Hugos Urteil:** „Roland, Schätzelein, mein Gesicht kriegste nur auf ’ner Autogrammkarte am Kirmesstand, aber sicher nicht mit Pass in der Hand. Dat riecht hier mehr nach Daten-Klau als nach Dollar-Regen!“
+
+
+> ATTN: Hugo Scholz,,  
+>    
+> Thank you for contacting the legal chambers of Roland Hughes Solicitation. We are the appointed legal representatives overseeing the verified private donation from the office of Mrs. Julia Koch.  
+>   
+> We acknowledge your correspondence and your interest in the final payout of $500,000.00 under the humanitarian reference: 001/354-USA/2026. As this is a high-value philanthropic disbursement, our legal team is mandated to perform a strictly regulated "Know Your Grantee" (KYC) verification to prevent identity theft and ensure the funds reach the intended recipient.  
+>   
+> To proceed with the formal vetting and the preparation of your Grant Award Certificate, please submit the following documentation:  
+> Proof of Identity: A high-resolution scan or photo of a valid government-issued ID (Passport, Driver’s License, or National ID).  
+> Facial Verification: A clear selfie photo of yourself holding the aforementioned ID document for biometric matching.  
+>    
+>   
+> Process Timeline: Upon receipt of these documents, our Compliance Department will finalize your verification. You will receive a formal status update and the Release of Funds Protocol within 24 business hours.  
+>   
+> Legal Notice: This disbursement is handled under strict confidentiality. Failure to provide the requested identification within the allotted window may result in the temporary suspension of your file and the reallocation of the grant to the next selected beneficiary.  
+>   
+> Congratulations once again on being selected for this humanitarian contribution. We look forward to facilitating your payout.  
+>   
+> Sincerely,  
+>   
+> Roland Hughes Senior Partner & Solicitor ROLAND HUGHES SOLICITATION 11 Walter St, Chelmsford, MA 01824, USA  
+
+## Die „Ich-versteh-nur-Bahnhof“-Taktik
+
+Hugo stellt sich dumm – und das mit System. Während Roland mit Begriffen wie „Compliance Department“ und „High-Value Disbursement“ um sich wirft, antwortet Hugo auf „Bude-Deutsch“.
+
+> Sehr geehrter Herr Roland,  
+>   
+> ich hab Ihre Mail bekommen, aber mal ehrlich: Mein Englisch ist schlechter als die Bilanz von Schalke 04. Ich hab das mal durch den Übersetzer gejagt, aber was ist denn ein "KYC" oder "biometrisches Matching"?  
+>   
+> Wollen Sie jetzt ein Foto von mir? Ich hab ein schönes im Partykeller gemacht, wo ich die Daumen hochhalte. Aber warum muss ich da meinen Personalausweis in die Kamera halten? Ich hab meinen Pass doch schon beim Einwohnermeldeamt gezeigt, die wissen, dass ich Hugo bin.  
+>   
+> Und was ist das für ein "Fenster", das bald zugeht? Ich will nicht, dass die 500.000 Dollar an den nächsten gehen, nur weil ich hier mit der Kamera kämpfe. Können wir das nicht einfach per Post machen? Oder kommen Sie mal auf’n Kaffee vorbei, wenn Sie eh in der Nähe sind?  
+>   
+> Erklären Sie das mal so, dass ein normaler Mensch aus Wanne-Eickel das versteht.  
+>   
+> Glück Auf, Hugo  
