@@ -161,3 +161,40 @@ Hugo stellt sich dumm – und das mit System. Während Roland mit Begriffen wie 
 > Erklären Sie das mal so, dass ein normaler Mensch aus Wanne-Eickel das versteht.  
 >   
 > Glück Auf, Hugo  
+
+
+## Roland wird handzahm (und plötzlich zweisprachig)
+
+Kaum stellt Hugo sich ein bisschen dumm, mutiert der „Senior Partner“ Roland Hughes zum hilfsbereiten Nachbarn. Plötzlich ist das Englisch vergessen, und Roland erklärt auf Deutsch, dass er eigentlich nur unser Bestes will – nämlich unser Gesicht. 
+
+Die Masche ist klar: Mit der Drohung, das „Zeitfenster“ würde sich schließen, soll Hugo dazu gedrängt werden, seinen Ausweis in die Kamera zu halten. Dass dieses „biometrische Matching“ eigentlich nur dazu dient, Hugos Identität für zwielichtige Bankgeschäfte zu missbrauchen, verschweigt der nette Herr Anwalt natürlich charmant.
+
+> Hallo Hugo,  
+>   
+> keine Sorge wegen der Sprache – wir kriegen das hin! Um es ganz einfach zu sagen: KYC (Kenne deinen Kunden) bedeutet schlichtweg, dass die Bank sicherstellen muss, dass der echte Hugo das Geld bekommt und nicht irgendein Betrüger.  
+>   
+> Das Foto im Partykeller mit dem Daumen nach oben klingt zwar nett, aber für die internationalen Bankregeln reicht das leider nicht aus.  
+> Was wir jetzt von Ihnen brauchen:  
+>   
+> Damit die $500.000 nicht verfallen und das „Zeitfenster“ offen bleibt, müssen Sie Folgendes tun:  
+>   
+> Ein Foto (Selfie) von sich  
+> Eine klare Kopie/Foto Ihres Ausweises: Damit wir die Daten mit der Registrierung abgleichen können.  
+>   
+> Warum das Ganze? Das ist eine einmalige Überprüfung. Die Bank nutzt „biometrisches Matching“, um Ihr Gesicht mit dem Foto auf dem Ausweis zu vergleichen. Das ist Pflicht für die Registrierung Ihres Anspruchs. Ohne diesen Abgleich darf die Stiftung das Geld rechtlich nicht freigeben.  
+>   
+> Sobald wir dieses eine Foto haben, ist die Identitätsprüfung erledigt und Ihr Geld ist sicher für die Auszahlung reserviert. Per Post dauert das leider zu lange – das Fenster schließt sich bald, und wir wollen nicht, dass Ihr Anteil an jemand anderen geht!  
+>   
+> Schicken Sie mir das Foto einfach kurz per E-Mail, dann ist die Sache erledigt.  
+>   
+> Herzliche Grüße,  
+>   
+> Roland Hughes  
+
+### Das biometrische Wunder von Wanne-Eickel 🐓📸
+
+Hugo hat geliefert! Er schickt dem „Anwalt“ ein Dossier, das in jedem Geheimdienst-Archiv für Schnappatmung sorgen würde. Ein Geburtsdatum am **1. April** 🤡, der Geburtsort **Wanne-Eickel** ⚒️ und ein fälschungssicherer **Gockel-Hintergrund** 🐓 – mehr Sicherheit geht nicht!
+
+![](/posts/2025-01-28-julia-koch/ausweis.webp)
+
+Mit dieser geballten Ladung Ruhrpott-Charme testen wir jetzt, wie „High-Level“ die Philanthropie von Roland wirklich ist. Erkennt seine KI den heroischen Glanz in Hugos Augen oder platzt die Blase aus Chelmsford? 💥 Denkt dran: Wer solche Fotos an echte Behörden schickt, landet im Knast – wer sie an Scammer schickt, landet in unserem Blog! ✍️😂
