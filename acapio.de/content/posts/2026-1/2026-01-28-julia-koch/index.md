@@ -198,3 +198,48 @@ Hugo hat geliefert! Er schickt dem „Anwalt“ ein Dossier, das in jedem Geheim
 ![](/posts/2025-01-28-julia-koch/ausweis.webp)
 
 Mit dieser geballten Ladung Ruhrpott-Charme testen wir jetzt, wie „High-Level“ die Philanthropie von Roland wirklich ist. Erkennt seine KI den heroischen Glanz in Hugos Augen oder platzt die Blase aus Chelmsford? 💥 Denkt dran: Wer solche Fotos an echte Behörden schickt, landet im Knast – wer sie an Scammer schickt, landet in unserem Blog! ✍️😂
+
+
+## Der Gockel hat gesiegt: Roland will die IBAN! 🐓💰
+
+Es ist amtlich: Der „Senior Partner“ Roland Hughes hat Hugos Dokumente „geprüft und verifiziert“. Man muss sich das kurz bildlich vorstellen: Da sitzt ein hochbezahlter (oder zumindest so tuender) Anwalt und nickt einen Ausweis ab, der einen Gockel im Hintergrund hat und am 1. April in Wanne-Eickel ausgestellt wurde. Wahrscheinlich ist das die neue „High-Level-Sicherheitsstufe“ der Koch-Stiftung.
+
+**Was jetzt passiert:**
+Nachdem wir Roland unser Gesicht geschenkt haben, will er jetzt an das Eingemachte: die **Bankdaten**. 🏦
+Er wirft mit Begriffen wie **SWIFT** und **Interbank-Standards** um sich, um den Eindruck zu erwecken, hier würde wirklich echtes Geld fließen und nicht nur Hugos Daten in eine Excel-Liste für den nächsten Großbetrug wandern.
+
+> Sehr geehrter Herr,  
+>    
+> wir haben Ihre Unterlagen geprüft und alle erforderlichen Informationen verifiziert! Vielen Dank, dass Sie sich die Zeit genommen haben, den Antragsprozess zu bestätigen. Wir gratulieren Ihnen herzlich zur Zusage Ihrer Spende.  
+>    
+> Mit diesem Schreiben möchten wir Sie offiziell darüber informieren, dass die genehmigte Spende per SWIFT-Überweisung an Sie ausgezahlt wird. SWIFT (Society for Worldwide Interbank Financial Telecommunication) ist der international anerkannte und sichere Kanal, über den Finanzinstitute weltweit Zahlungsanweisungen übermitteln. Er gewährleistet Genauigkeit, Nachverfolgbarkeit und die Einhaltung internationaler Bankstandards.  
+>    
+> Für die Auszahlung benötigen wir die vollständigen Bankdaten des Empfängers:  
+>    
+> SWIFT-Überweisung – Erforderliche Bankdaten  
+> Vollständiger Name des Kontoinhabers  
+> Name und Anschrift der Bank  
+> Kontonummer/IBAN  
+> SWIFT/BIC-Code  
+>    
+> Bitte stellen Sie sicher, dass die Angaben korrekt und vollständig sind, da Fehler zu Verzögerungen oder Ablehnungen durch zwischengeschaltete Banken führen können. Sobald diese Informationen bei uns eingegangen und geprüft sind, wird die Überweisung veranlasst. Sie werden benachrichtigt, sobald das Geld überwiesen wurde.  
+>    
+> Wir danken Ihnen für Ihre Mitarbeit und die schnelle Rückmeldung, die eine zügige Abwicklung dieser Transaktion ermöglicht.  
+>    
+> Nochmals herzlichen Glückwunsch! Wir freuen uns, bald von Ihnen zu hören.  
+>    
+> Mit freundlichen Grüßen  
+>    
+>    
+> Roland Hughes  
+
+
+## Die Phantom-IBAN: Hugo geht all-in 🏦💸
+
+Hugo liefert! Er schickt Roland eine Bankverbindung, die zwar amtlich aussieht, aber ins Leere führt. Während der „Anwalt“ schon die Sektkorken knallen lässt, lockt Hugo ihn tiefer in den Kaninchenbau.
+
+![Ein bissel Fake schadet nie](/posts/2025-01-28-julia-koch/bankverbindung.webp)
+
+**Der Clou:** Wir spielen den braven Empfänger, während die Daten reiner Fake sind. Jetzt warten wir nur noch darauf, dass Roland uns erklärt, warum die 500.000 Dollar „leider“ an einer winzigen Gebühr hängen.
+
+Hugo trocken: „Daten sind raus, Roland. Jetzt lass die Scheine flattern!“ 🕊️💰

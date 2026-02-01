@@ -2,16 +2,15 @@
 title: "Blanko-Bankkarten & Märchenprinzen: Geld abheben ohne Ende“ 🤡📩"
 params:
   author: Andy
-date: "2026-01-25"
+date: "2026-02-01"
 featured: true
 toc: true
-draft: true
 tags:
   -  "scam"
 categories:
   - "Scam"
 thumbnail: "geldkarte.webp"
-url: "posts/2025-01-25-cyberkarte"
+url: "posts/2025-02-01-cyberkarte"
 summary: "Reich werden per E-Mail? Unser Lager-Experte Basti hat Post von einem mysteriösen „Ingenieur“ bekommen, der mit magischen Bankkarten und täglichen 5.000-Euro-Geschenken um sich wirft. Während sein Pudel Rudi noch von goldenen Hundehütten träumt, hat Basti den Braten schon längst gerochen. 🍖"
 
 ---
@@ -136,3 +135,59 @@ Die Antwort der Betrüger ist da und liest sich wie ein schlechter Science-Ficti
 > Schickt mir doch bitte mal die Preisliste rüber!  
 >   
 > Beste Grüße, Basti  
+
+## Die Preisliste: Jetzt wird’s teuer! 🏷️💰
+
+Die „Ingenieure“ haben die Katze aus dem Sack gelassen. Wer dachte, die Hilfe für Bedürftige sei gratis, hat sich geschnitten. Hier ist das Menü für Bastis neuen Reichtum:
+
+* **Das „Einsteiger-Paket“:** 50.000 € Guthaben für **699 €** Vorkasse.
+* **Die Luxus-Variante:** 1 Million € für schlappe **10.900 €**.
+* **Lustiges Detail:** Die 3-Millionen-Karte ist „derzeit nicht verfügbar“ – wahrscheinlich ist das magische Plastik gerade ausverkauft. 📉
+
+> Guten Tag,  
+>   
+> ich habe Ihre E-Mail bezüglich der ATM-Karte erhalten.  
+> Bitte beachten Sie, dass Sie die Versandkosten für die Zustellung der Karte tragen müssen. Nachstehend finden Sie eine Liste der verfügbaren Kartenoptionen.  
+> Alle unten aufgeführten Karten haben je nach Option ein Tageslimit von 5.000 Euro. Sie können die Karte auswählen, die Sie benötigen.  
+>   
+> 50,000 €: ………........................ 699 €  
+> 100,000 €: ................................ 1.800 €  
+> 380,000 €: .................................. 4.700 €  
+> 600,000 €: ..................................... 6.100 €  
+> 1,000.000 €: ............................. 10.900 €  
+> 3.000.000 €: ............................... 14090 € Diese Karte ist derzeit nicht verfügbar.  
+>   
+> Bitte beachten Sie, dass die mit der Karte verbundenen Kosten den Versand und die Kosten für die Karte umfassen.   
+> Wenn Sie mit den Bedingungen einverstanden sind, füllen Sie bitte schnell die folgenden Angaben aus:  
+>   
+> Vollständiger Name:  
+> Beruf:  
+> Land:  
+> Bundesland:  
+> Alter:  
+> Wohnadresse:  
+> Telefonnummer:  
+>   
+> Bitte beachten Sie, dass Ihnen diese Karte innerhalb von 72 Stunden zugestellt wird.  
+
+### Bastis Fazit:
+
+„700 Euro bezahlen, um 50.000 Euro zu bekommen? Wenn die Karte so toll ist, sollen sie die Gebühr einfach direkt vom Guthaben abziehen! Aber nein, sie wollen mein echtes Geld und obendrein noch meine komplette Adresse und Telefonnummer.“
+
+**Die harte Realität:** Wer hier seine Daten eingibt oder Geld überweist, sieht beides nie wieder. Der „Märchenprinz“ entpuppt sich als simpler Datendieb. 🚫🏦
+
+
+> Hallo,  
+>   
+> da haut es mich ja glatt aus den Socken! Über 10.000 Euro für eine Karte mit einer Million? Da muss ich wohl noch ein paar Überstunden im Lager schieben, bis ich mir die leisten kann.  
+>   
+> Ich bin ehrlich gesagt noch ein bisschen skeptisch, ob das mit der Technik und den Kameras wirklich so klappt, wie Sie sagen. Aber wer nicht wagt, der nicht gewinnt, oder? Ich würde es also erst mal mit der kleinsten Karte für 699 Euro probieren. Wenn die funktioniert, bestelle ich für meinen Hund Rudi und mich die ganz große Karte nach.  
+>   
+> Wegen der persönlichen Daten: Da habe ich ein ungutes Gefühl. Man weiß ja nie, wer da mitliest. Können wir das nicht so machen: Ich überweise Ihnen das Geld (sagen Sie mir wie), und Sie schicken die Karte einfach an eine neutrale Packstation oder legen sie irgendwo in Wien ab? Meinen Beruf und mein Alter brauchen Sie für die Programmierung der Software ja sicher nicht, oder?  
+>   
+> Schicken Sie mir bitte die Zahlungsdaten, dann schauen wir mal, ob der "Ingenieur" wirklich liefern kann!  
+>   
+> Beste Grüße, Basti  
+
+
+
