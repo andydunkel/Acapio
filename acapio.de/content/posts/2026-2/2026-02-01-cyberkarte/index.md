@@ -190,4 +190,34 @@ Die „Ingenieure“ haben die Katze aus dem Sack gelassen. Wer dachte, die Hilf
 > Beste Grüße, Basti  
 
 
+## Das Finale: „Godstime“ aus Irland will dein Geld! 🕊️💸
 
+Jetzt ist die Maske endgültig gefallen. Die Betrüger haben die Bankdaten für die 699 Euro geschickt. Und siehe da: Die „Sicherheits-Experten“ nutzen ein Konto, das bei jedem Banker Schnappatmung auslöst.
+
+* **Der Empfänger:** Das Geld soll an einen gewissen „GODSTIME OKOSUN“ gehen.
+* **Der Standort:** Ein Prepaid-Konto in Irland. Warum ein „Ingenieur“ mit Millionen-Karten ein anonymes Konto in Dublin braucht? Damit das Geld weg ist, bevor man „Abzocke“ sagen kann. 🇮🇪🏦
+* **Das Versprechen:** „100 Prozent garantiert sicher“. Ein Satz, der bei Scammern eigentlich bedeutet: „Dein Geld ist garantiert weg.“
+
+> Guten Tag,  
+>   
+> wir haben gerade Ihre E-Mail bezüglich der Bankkarte erhalten.  
+> Sie brauchen sich keine Sorgen zu machen, es ist zu 100 Prozent garantiert und sicher für Sie. Wir können sie irgendwo in Wien abgeben, wenn Sie sich dann sicherer fühlen.  
+> Hier sind die Bankdaten des Zustelldienstes:  
+>   
+> Name des Begünstigten: GODSTIME OKOSUN  
+>   
+> BANK: Paysafe Prepaid Services Limited  
+> IBAN: IE92 PPSE 9903 8058 9435 64  
+> BIC PPSEIE22XXX  
+> ADRESSE: Grand Canal House, Grand Canal Street Upper  
+>   
+> STADT: Dublin   
+> LAND: Irland (IE)  
+
+## Das Täuschungsmanöver: Basti schickt den „Beleg“ 📸💸
+
+Um zu sehen, wie die Betrüger auf vermeintliches Geld reagieren, haben wir den Spieß umgedreht. Anstatt echtes Geld nach Irland zu schicken, hat Basti den Photoshop-Pinsel geschwungen und den Scammern eine gefälschte Bankbestätigung über die 699 Euro geschickt.
+
+![](/posts/2025-02-01-cyberkarte/trans.webp)
+
+In der Welt der Betrüger ist dieser Moment wie Weihnachten und Ostern zusammen: Sie glauben, ihr Opfer sicher am Haken zu haben. Wir warten nun gespannt darauf, ob „Godstime“ und sein Team den Schwindel bemerken oder ob sie uns jetzt mit erfundenen Tracking-Nummern und weiteren Märchen beglücken. 🕵️‍♂️🍿
