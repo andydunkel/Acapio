@@ -285,3 +285,26 @@ Wir gehen voll auf die Story ein, bauen aber versteckte Fallen ein, um das Skrip
 > Ich freue mich schon auf deine nächste Nachricht und denke an dich!  
 >   
 > Viele Grüße aus Wien Sebastian  
+
+
+## Nachfassen: Die Funkstille brechen
+
+Nachdem Aiperi plötzlich schwieg, haben wir mit einer kurzen, belanglosen Mail reagiert. Im Scamming ist Schweigen oft Taktik, um Sehnsucht zu erzeugen oder „schwierige“ Opfer auszusortieren.
+
+> Hallo Aiperi,  
+>   
+> ich hoffe, es geht dir gut und du hattest keinen allzu stressigen Dienst im Krankenhaus?  
+>   
+> Ich habe heute nur kurz Zeit, wollte dir aber einen lieben Gruß dalassen. Ich war vorhin am Naschmarkt und habe dort ein paar frische Sachen für das Abendessen besorgt – Rudi hat natürlich auch ein Leckerli abgestaubt. :)  
+>   
+> Konntest du dein Handy eigentlich schon zur Reparatur bringen? Ich würde mich freuen, bald wieder von dir zu hören!  
+>   
+> Alles Liebe Sebastian  
+
+**Der strategische Kern der Mail:**
+
+* **Belanglosigkeit:** Wir fragen nett nach ihrem Dienst, ohne Druck aufzubauen.
+* **Rudi-Check:** Ein kleiner Gruß vom Wiener Naschmarkt inklusive Leckerli für den Hund Rudi festigt Bastis Identität.
+* **Sanfter Stupser:** Wir fragen beiläufig nach dem Handy, um zu sehen, ob sie jetzt die „Reparatur-Karte“ spielt.
+
+**Das Ziel:** Wir locken sie aus der Reserve, um zu sehen, ob sie auf Rudi eingeht oder direkt zum nächsten Scam-Schritt übergeht.

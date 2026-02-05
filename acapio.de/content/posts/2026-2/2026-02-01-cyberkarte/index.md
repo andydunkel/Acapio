@@ -221,3 +221,31 @@ Um zu sehen, wie die Betrüger auf vermeintliches Geld reagieren, haben wir den 
 ![](/posts/2025-02-01-cyberkarte/trans.webp)
 
 In der Welt der Betrüger ist dieser Moment wie Weihnachten und Ostern zusammen: Sie glauben, ihr Opfer sicher am Haken zu haben. Wir warten nun gespannt darauf, ob „Godstime“ und sein Team den Schwindel bemerken oder ob sie uns jetzt mit erfundenen Tracking-Nummern und weiteren Märchen beglücken. 🕵️‍♂️🍿
+
+## Nervosität in Dublin: „Schick uns deine Nummer!“ 📞⚠️
+
+Anscheinend hat „Godstime“ vergeblich auf den Geldeingang gewartet. Trotz unseres (gefälschten) Belegs blieb das Konto leer. Die Scammer werden ungeduldig und fordern jetzt Bastis WhatsApp-Nummer, um „schneller antworten“ zu können.
+
+**Der Hintergrund:** Auf WhatsApp können Betrüger viel mehr Druck ausüben, Sicherheitsfilter umgehen und die Telefonnummer für weiteren Identitätsdiebstahl missbrauchen.
+
+> Okay. Schicken Sie uns Ihre WhatsApp-Nummer, damit wir Ihnen schnellstmöglich antworten können.
+
+**Bastis Fazit:** „Meine Nummer? Sicher nicht! Sonst rufen die mich noch im Lager an, während ich gerade Brotzeit mache. Dass das Geld nicht ankommt, liegt wohl an der ‚unentdeckbaren Software‘ – oder einfach daran, dass wir sie an der Nase herumführen.“ 🐩🚫
+
+---
+
+## Die „Chef-Ausrede“: Basti stellt sich dumm 👔⏳
+
+Da die Scammer unbedingt auf WhatsApp wechseln wollen (mehr Druck, weniger Filter), zieht Basti die Notbremse. Er serviert ihnen die klassische Ausrede vom strengen Chef im Lager, der private Handys sofort mit einer Abmahnung bestraft.
+
+Gleichzeitig spielt er den unschuldigen Kunden: „Das Geld ist doch laut Beleg raus – warum hakt es denn bei euch?“
+
+> Hallo,  
+>   
+> mit WhatsApp ist das bei mir im Lager leider ganz schwierig. Mein Chef ist da extrem streng und passt auf wie ein Schießhund – wenn er mich mit dem Privathandy in der Hand sieht, habe ich sofort eine Abmahnung am Hals. Wir müssen also bitte hier per E-Mail schreiben, das kann ich zwischendurch am Computer im Büro erledigen.  
+>   
+> Aber sagen Sie mal: Wo genau liegt denn jetzt das Problem? Ich habe Ihnen den Beleg von der Bank doch geschickt. Das Geld müsste doch schon längst bei Herrn Godstime auf dem Konto in Irland angekommen sein, oder etwa nicht?  
+>   
+> Geben Sie mir bitte Bescheid, ob mit der Überweisung alles passt, damit wir die Übergabe der Karte in Wien endlich planen können. Ich freue mich schon darauf!  
+>   
+> Beste Grüße, Basti  
