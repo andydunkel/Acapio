@@ -415,7 +415,41 @@ Hugo hat den Köder endgültig platziert. Mit der Ankündigung, dass der (fiktiv
 >   
 > Glück Auf, Ihr Hugo  
 
-**Warum wir das machen:**
-In der Welt der Scammer sind zwei Tage eine Ewigkeit. Roland sieht die 1.680 Euro schon fast auf seinem Konto (oder in seiner Krypto-Wallet) und wird jetzt jede Stunde nervös auf sein Postfach starren. Hugo spielt den „braven Zahler“, während wir im Hintergrund die Popcorn-Tüten rausholen.
 
-**Hugos Taktik:** „Lass den Vogel mal zwei Tage schmoren. Gier macht unvorsichtig – mal sehen, wie oft er in der Zwischenzeit nachfragt, ob das Geld schon da ist!“ 🍿🧐
+## Schönes Wochenende, Hugo! (Und vergiss die Kohle nicht) 🍻☀️
+
+Roland wird jetzt richtig gemütlich. Er wünscht Hugo ein „erholtes Wochenende“ – wahrscheinlich das teuerste Wochenende in Hugos Leben, wenn es nach dem „Senior Partner“ geht. Man beachte die fast schon zärtliche Fürsorge: Roland erinnert Hugo pünktlich zum Ablauf der Zwei-Tages-Frist an den fiktiven Bausparer.
+
+**Der Krypto-Zaunpfahl:**
+Besonders spannend: Roland bringt jetzt immer offensichtlicher **Krypto-Zahlungen** ins Spiel. Warum? Weil eine Banküberweisung an einen Betrüger oft noch gestoppt werden kann, eine Bitcoin-Zahlung aber weg ist wie ein herrenloses Pils am Kiosk. Roland will den „schnellen Abschluss“, bevor Hugo am Montag vielleicht doch noch mal beim echten Bankberater vorbeischaut.
+
+> Hallo Hugo,  
+>   
+> vielen Dank für das Update! Es freut mich sehr zu hören, dass bei Ihrer Bank alles nach Plan läuft und der Bausparvertrag nun zur Auszahlung bereitsteht. Damit haben Sie die wichtigste Hürde für die finale Verifizierung genommen.  
+>   
+> Da wir nun am Wochenende stehen, möchte ich Ihnen zunächst ein erholsames und ruhiges Wochenende in Wanne-Eickel wünschen. Genießen Sie die freien Tage – Sie haben es sich nach der Aufregung der letzten Woche verdient!  
+>   
+> Da die zwei Tage nun um sind, wollte ich kurz bei Ihnen nachhorchen: Haben Sie das Geld bereits vorliegen oder wird es am Montagmorgen final verfügbar sein?  
+>   
+> Sobald Sie startklar sind, geben Sie mir bitte kurz Bescheid. Ich werde Ihnen dann die geeignetste Zahlungsoption (entweder per internationaler Banküberweisung oder über eine schnellere Krypto-Zahlungsmethode) zukommen lassen. Sobald dieser letzte Schritt der Verifizierung über 1.680,00 Euro erledigt ist, können wir die Gutschrift der $500.000 auf Ihr Konto umgehend einleiten.  
+>   
+> Ich warte auf Ihre Rückmeldung und freue mich darauf, dieses Kapitel gemeinsam mit Ihnen erfolgreich abzuschließen.  
+>   
+> Herzliche Grüße,  
+>   
+> Roland Hughes Senior Partner & Solicitor  
+
+
+## Der Bauspar-Baron von Wanne-Eickel 🏦💰
+
+Hugo hat den Köder serviert: Der fiktive Bausparer ist geschlachtet, die 1.680 Euro liegen „bar im Umschlag“. Um die Sache noch glaubwürdiger zu machen, schwärmt Hugo von seinen **vermögenswirksamen Leistungen** – deutsche Spießigkeit als ultimativer Vertrauensbeweis.
+
+> Hallo Roland,  
+>   
+> super Neuigkeiten: Ich habe die 1.680,00 Euro gerade bar von der Bank abgeholt! Den Rest vom Bausparer habe ich für meine vermögenswirksamen Leistungen direkt stehen lassen, man muss ja vorsorgen.  
+>   
+> Der Umschlag mit dem Geld liegt jetzt hier vor mir. Sagen Sie mir bitte genau, wie ich es Ihnen zukommen lassen soll, damit die 500.000 Dollar endlich fließen können. Ich bin startklar!  
+>   
+> Glück Auf, Ihr Hugo  
+
+**Der Plan:** Wir signalisieren volle Zahlungsbereitschaft. Jetzt muss Roland die Maske fallen lassen. Wird er eine dubiose Bankverbindung schicken oder doch versuchen, Hugo zu einer anonymen **Krypto-Zahlung** zu drängen?

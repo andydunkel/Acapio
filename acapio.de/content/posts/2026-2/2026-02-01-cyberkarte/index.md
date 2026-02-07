@@ -249,3 +249,65 @@ Gleichzeitig spielt er den unschuldigen Kunden: „Das Geld ist doch laut Beleg 
 > Geben Sie mir bitte Bescheid, ob mit der Überweisung alles passt, damit wir die Übergabe der Karte in Wien endlich planen können. Ich freue mich schon darauf!  
 >   
 > Beste Grüße, Basti  
+
+## Jetzt kommen täglich Mails!
+
+Das Spiel ist aus! Die Scammer haben unseren Braten gerochen, und die Stimmung kippt gewaltig. Von höflichem Warten bis hin zur blanken Wut ist alles dabei. Hier sind die drei Phasen des Erwachens für den Blog:
+
+### Phase 1: Die höfliche Ungeduld ⏳
+
+In der ersten Mail versuchen sie es noch mit professioneller Zurückhaltung. „Das Geld ist noch nicht da“, schreiben sie – wahrscheinlich während sie alle fünf Minuten die Seite ihres irischen Prepaid-Kontos aktualisieren. Dass Basti kein WhatsApp hat, finden sie zwar schade, aber die Gier nach den 699 Euro lässt sie noch freundlich bleiben.
+
+> ich habe gerade Ihre E-Mail erhalten.   
+>   
+> Ok. Ich habe Sie nach Ihrer WhatsApp-Nummer gefragt, um Sie so schnell wie möglich kontaktieren zu können.  
+>   
+> Das Geld ist noch nicht auf dem Bankkonto eingegangen. Wir warten noch darauf, dass der Betrag auf dem Konto eingeht.  
+>   
+> Ich hoffe, bald von Ihnen zu hören.  
+>   
+> Mit freundlichen Grüßen  
+
+### Phase 2: Der „Zustelldienst“ schlägt Alarm 🚨
+
+Plötzlich schaltet sich der mysteriöse „Zustelldienst“ ein. Das ist ein klassischer Trick: Die Betrüger erfinden eine weitere Instanz, um Druck aufzubauen. Sie fordern den „vollständigen Beleg“, weil sie hoffen, in Bastis Photoshop-Kunstwerk doch noch einen Fehler zu finden oder echte Kontodaten zu erspähen. Die Nervosität steigt!
+
+> Guten Tag,  
+> ich habe gerade eine E-Mail vom Zustelldienst erhalten, dass die Überweisung nicht auf das Konto eingegangen ist, da das Geld bis jetzt noch nicht angekommen ist.  
+> Ich bitte Sie, mir den vollständigen Überweisungsbeleg zukommen zu lassen.  
+>   
+> Ich hoffe, bald von Ihnen zu hören.  
+
+### Phase 3: Die Maske fällt – „Halten Sie mich für dumm?“ 👺
+
+Jetzt wird es lustig! In der dritten Mail platzt dem „Ingenieur“ der Kragen. Die Erkenntnis, dass sie von einem Lagerarbeiter aus Wien an der Nase herumgeführt wurden, schmerzt offenbar. Die Frage „Halten Sie mich für dumm?“ ist die Krönung der Ironie – wer versucht, „unsichtbare Bankkarten“ zu verkaufen, sollte mit solchen Fragen vorsichtig sein. Basti hat das Duell gewonnen: Die Scammer sind entlarvt und stinksauer.
+
+> Guten Tag.  
+> Ich warte noch immer auf Ihre Antwort bezüglich der von Ihnen überwiesenen Kosten. Halten Sie mich für dumm???   
+> Sie haben die Kosten nicht überwiesen, sondern nur ein Papier geschickt und behauptet, Sie hätten eine Überweisung getätigt.  
+
+
+## **Wir melden den Account bei proton.me**
+
+Nachdem die Scammer in ihrer letzten Mail die Beherrschung verloren haben („Halten Sie mich für dumm?“), haben wir das Experiment beendet. Wer versucht, ahnungslosen Menschen mit Märchen über „unsichtbare Bankkarten“ das Geld aus der Tasche zu ziehen, hat auf seriösen Plattformen nichts verloren.
+
+Wir haben den Fall daher offiziell gemeldet. Über das **[Proton Abuse Formular](https://proton.me/support/report-abuse)** haben wir den Account `superkarte_cyberhacker23@proton.me` sowie unsere Dokumentation eingereicht, um sicherzustellen, dass dieser „Ingenieur“ so schnell keine Mails mehr verschickt.
+
+
+## Der Spieß wird umgedreht: Basti ist „beleidigt“ 🙄🎭
+
+Basti geht in die Offensive: Er spielt den empörten Kunden, der sich den rüden Tonfall der Scammer („Halten Sie mich für dumm?“) nicht gefallen lässt.
+
+**Die neue Story:** Die Bank hat das Geld angeblich zurückgebucht, weil die Daten von „Godstime“ in Irland „unplausibel“ seien. Basti stellt die Profi-Hacker nun als technische Amateure dar, die nicht einmal eine Überweisung unfallfrei empfangen können. Während die Abuse-Meldung läuft, dürfen die Scammer jetzt versuchen, sich bei Basti zu entschuldigen, um doch noch an die Beute zu kommen.
+
+> Hallo,  
+>   
+> jetzt bleiben Sie mal ganz ruhig! Ich war ein paar Tage beruflich unterwegs und konnte nicht ständig in meine Mails schauen. Dass Sie direkt so unhöflich werden („Halten Sie mich für dumm?“), finde ich ehrlich gesagt ziemlich daneben. Ich versuche hier schließlich, Ihnen eine Menge Geld zu schicken.  
+>   
+> Ich habe das gerade bei meiner Bank überprüft: Die Zahlung kam tatsächlich zurück auf mein Konto. Der Bankberater meinte, dass der Verwendungszweck oder die Daten wohl „unplausibel“ waren oder die Empfängerbank in Irland die Annahme verweigert hat.  
+>   
+> Ich bin jetzt ehrlich gesagt ziemlich verwirrt, was da genau los ist. Wenn das alles „100 % sicher“ ist, warum klappt dann nicht mal eine einfache Überweisung? Ich wollte die Karte eigentlich unbedingt haben, aber bei dem Tonfall und den technischen Problemen bin ich mir gerade unsicher.  
+>   
+> Beste Grüße, Basti  
+
+Basti bleibt cool: „Wer Millionen verspricht, sollte zumindest seine IBAN im Griff haben.“ 🐩💸
