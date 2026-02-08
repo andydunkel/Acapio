@@ -72,3 +72,43 @@ Für Betrüger ist so eine Antwort ein Volltreffer – freundlich, nicht abschre
 >   
 > Kind regards  
 > Hugo  
+
+
+## Die nächste Stufe: Datensammlung 🎣
+
+Die Antwort lässt nicht lange auf sich warten und folgt einem bekannten Drehbuch. Nach etwas religiöser Nebelkerze („Dear in Christ“, Gebet, göttliche Fügung) kommt der eigentliche Zweck der Mail ziemlich unverblümt zum Vorschein: **eine strukturierte Liste persönlicher Daten**. Voller Name, Adresse, Telefonnummer, Alter, Familienstand, Beruf – fein säuberlich abgefragt wie in einem Formular.
+
+> Dear in Christ   
+>   
+> Thanks for your swift response.  Well , after my personal prayers I ask God to direct me to the rights way to go in choosing who will carry out this mission.  Some day's later I went for an online search then I found your email address and decided to contact you immediately.  
+>   
+> Secondly, i know that you have lost total confidence in trusting people because of how they dealt with you in the past but my case is different give it a trial and you will not regret it.     
+>   
+> Full name ,......  ...........  
+> Address ...... ................  
+> Phone ........ .  ...................  
+> Age......................  
+> Martial status.......................  
+> Occupation............................  
+>   
+> Thanks   
+> Mrs.Esther Johnson  
+
+Auffällig ist dabei weniger *was* gefragt wird, sondern *wie früh*. Noch bevor es irgendeinen Nachweis, einen Anwalt oder auch nur ein Minimum an Substanz gibt, soll der Empfänger seine Identität offenlegen. Für Betrüger ist das der erste echte Gewinn: verwertbare persönliche Daten, die später für Druck, weitere Scams oder Identitätsmissbrauch taugen.
+
+Kurz gesagt: Die Millionen bleiben weiter nebulös, aber **die Datenernte soll sofort beginnen** 📋🤡
+
+### Nachfrage statt Datenspende 🧐
+
+Hugo macht an dieser Stelle etwas Ungewöhnliches: Er fragt nach. Nicht nach Geld, nicht nach dem Anwalt, nicht nach dem nächsten Schritt – sondern ganz banal danach, **woher seine E-Mail-Adresse überhaupt stammt**. Eine einfache, legitime Frage, die in normalen Geschäfts- oder Spendenkontexten problemlos beantwortet werden könnte.
+
+> Dear Mrs Johnson,  
+>   
+> thank you for your message. I was wondering where exactly you found my email address online, as I am a bit surprised to be contacted this way.  
+>   
+> Before I share any personal details, I would like to better understand how you came across my contact information.  
+>   
+> Kind regards  
+> Hugo  
+
+Für Betrüger ist genau das jedoch unbequem. Statt nebulöser Andeutungen und vorbereiteter Textbausteine wird plötzlich eine konkrete Herkunft verlangt. Erfahrungsgemäß wird an dieser Stelle ausgewichen, verallgemeinert („online search“, „God directed me“) – oder der Kontakt bricht ganz ab. Ein kleiner Realitätscheck mit großer Wirkung 📉📧

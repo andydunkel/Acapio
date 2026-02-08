@@ -311,3 +311,54 @@ Basti geht in die Offensive: Er spielt den empörten Kunden, der sich den rüden
 > Beste Grüße, Basti  
 
 Basti bleibt cool: „Wer Millionen verspricht, sollte zumindest seine IBAN im Griff haben.“ 🐩💸
+
+Das ist ja fast schon rührend! Die Scammer kriechen zu Kreuze und liefern uns gleichzeitig die perfekte Vorlage für das Lehrbuch des Online-Betrugs. Hier sind die Abschnitte für den Blog:
+
+---
+
+## Phase 4: Die „Freunde & Familie“-Finte 🫂🤡
+
+In der ersten Mail präsentieren uns die „Ingenieure“ eine hanebüchene Erklärung für die gescheiterte Zahlung: Der Verwendungszweck war schuld! Basti hätte nicht „Bankkarte“ schreiben dürfen, sondern „Freunde und Familie“.
+
+> Guten Tag,  
+>   
+> ich habe gerade Ihre E-Mail bezüglich der Kosten erhalten. Ich möchte Sie darüber informieren, dass der Grund für die Rückerstattung darin liegt, dass Sie als Verwendungszweck der Überweisung „Bankkarte” angegeben haben.   
+>   
+> Der Verwendungszweck hätte „Freunde und Familie” lauten müssen, damit die Kosten rechtzeitig überwiesen werden.  
+>   
+> Ich kann Ihnen versichern, dass Sie sich keine Sorgen machen müssen, da es zu 100 Prozent sicher ist, okay?  
+
+
+**Der wahre Grund:** Betrüger lieben diesen Verwendungszweck (besonders bei Diensten wie PayPal), weil er Transaktionen als private Geschenke tarnt. Das macht es für Banken schwerer, Geldwäsche-Alarme auszulösen, und für das Opfer fast unmöglich, das Geld jemals zurückzufordern. Dass Basti und „Godstime“ keine Sandkastenfreunde sind, scheint den Ingenieur nicht zu stören.
+
+---
+
+## Phase 5: Das „Sorry“ des Scammers 🙏🎭
+
+Kurz darauf folgt die große Entschuldigung. Der Scammer gibt sich emotional: Er war „sehr wütend“, weil er so viel „Zeit und Mühe“ investiert habe. Er spielt die Mitleidskarte, um das verlorene Vertrauen wiederherzustellen.
+
+> Guten Tag,  
+>   
+> ich habe gerade eine E-Mail vom Zustelldienst bezüglich Ihrer Bankkarte erhalten. Ich möchte mich für meine Ausdrucksweise in meiner E-Mail entschuldigen. Ich war sehr wütend, dass ich so viel Zeit und Mühe aufgewendet habe, damit Sie diese Karte erhalten.   
+>   
+> Bitte vertrauen Sie mir. Ich versichere Ihnen, dass Sie diese Karte erhalten, sobald diese Kosten erneut mit dem Verwendungszweck „Familie und Freunde” überwiesen wurden.   
+
+---
+
+## Basti spielt den „Guten Freund“ 🤝🎭
+
+Nach der rührenden Entschuldigung der Scammer lässt Basti sich (scheinbar) breitschlagen. Er spielt das Spiel mit und verspricht, die Überweisung morgen früh mit dem gewünschten Verwendungszweck „Freunde und Familie“ zu wiederholen.
+
+> Hallo,  
+>   
+> na gut, Entschuldigung angenommen. Ich war schon kurz davor, die Sache abzublasen, aber ich verstehe ja, dass wir alle nur Menschen sind und man mal gestresst ist.  
+>   
+> Dass es am Verwendungszweck lag, ergibt natürlich Sinn – mein Bankberater ist da manchmal echt pingelig. Ich werde morgen früh direkt noch mal zur Bank gehen und die Überweisung mit 'Freunde und Familie' neu anstoßen. Dann sollte das Geld ja fix bei Herrn Godstime sein.  
+>   
+> Ich melde mich, sobald ich vom Schalter zurück bin!  
+>   
+> Beste Grüße, Basti  
+
+Wir lassen die „Ingenieure“ in dem Glauben, dass der große Zahltag kurz bevorsteht – ein klassisches Beispiel dafür, wie man Scammer so lange wie möglich hinhält, damit sie in dieser Zeit keine echten Opfer abkassieren können. 🕵️‍♂️⏳
+
+Bis dahin hoffen wir, dass der E-Mail-Anbieter den Account sperrt!
