@@ -362,3 +362,29 @@ Nach der rührenden Entschuldigung der Scammer lässt Basti sich (scheinbar) bre
 Wir lassen die „Ingenieure“ in dem Glauben, dass der große Zahltag kurz bevorsteht – ein klassisches Beispiel dafür, wie man Scammer so lange wie möglich hinhält, damit sie in dieser Zeit keine echten Opfer abkassieren können. 🕵️‍♂️⏳
 
 Bis dahin hoffen wir, dass der E-Mail-Anbieter den Account sperrt!
+
+Das ist das perfekte Ende für unseren Krimi! Hier ist der passende Text für den Blog, inklusive dem Lob für Proton:
+
+---
+
+## Aus die Maus, die E-Mail-Adresse der Scammer wird gesperrt!
+
+Manchmal gewinnt eben doch die Gerechtigkeit – oder in diesem Fall: die Security-Abteilung. Nachdem Basti die „Ingenieure“ lange genug hingehalten hat, kam die erlösende Nachricht von Proton.
+
+Ein großes Lob geht an das Team von **Proton Mail**. Auf unsere Abuse-Meldung wurde blitzschnell reagiert. Das Unternehmen zeigt damit Kante gegen Cyberkriminalität und beweist, dass verschlüsselte Kommunikation kein Freifahrtschein für Betrüger ist. Die Antwort war kurz und schmerzlos:
+
+> Thank you for reporting this to our team.
+> We can confirm that the indicated Proton Mail address has been disabled in accordance with our terms of service ([https://proton.me/legal/terms](https://proton.me/legal/terms)) so it is no longer operational.
+
+Ein Versuch, den Scammern noch eine letzte Nachricht zu senden, um sich nach dem Wohlbefinden von „Godstime“ zu erkundigen, quittiert das System nun mit einer digitalen Sackgasse:
+
+> Sorry, we were unable to deliver your message to the following address.
+> [superkarte_cyberhacker23@proton.me](mailto:superkarte_cyberhacker23@proton.me):
+> 550: 5.1.1 [superkarte_cyberhacker23@proton.me](mailto:superkarte_cyberhacker23@proton.me): Recipient address rejected: Address is not configured to receive emails
+
+---
+
+## Das Fazit der Redaktion 🏁
+
+Basti hat seine 699 Euro noch, Rudi bekommt trotzdem sein Leckerli, und ein Betrüger-Account weniger verpestet das Netz. Unser Experiment zeigt: Skepsis ist der beste Schutz. Sobald jemand „Vorkasse“, „illegale Bankkarten“ oder „Freunde und Familie“-Überweisungen fordert, sollte man den Stecker ziehen.
+

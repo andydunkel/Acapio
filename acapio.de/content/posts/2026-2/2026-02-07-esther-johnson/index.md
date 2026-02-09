@@ -112,3 +112,49 @@ Hugo macht an dieser Stelle etwas Ungewöhnliches: Er fragt nach. Nicht nach Gel
 > Hugo  
 
 Für Betrüger ist genau das jedoch unbequem. Statt nebulöser Andeutungen und vorbereiteter Textbausteine wird plötzlich eine konkrete Herkunft verlangt. Erfahrungsgemäß wird an dieser Stelle ausgewichen, verallgemeinert („online search“, „God directed me“) – oder der Kontakt bricht ganz ab. Ein kleiner Realitätscheck mit großer Wirkung 📉📧
+
+
+## Gott, Excel und die 13 Auserwählten 📊🙏
+
+Auf die harmlose Frage nach der Herkunft der E-Mail folgt eine Erklärung, die irgendwo zwischen Erweckungserlebnis und Office-Schulung liegt. Nach intensiven Gebeten, medizinischer Google-Recherche und einem spontanen Abstecher in **Microsoft Excel** fand Mrs. Johnson genau 13 E-Mail-Adressen – und Hugo war der Einzige, der antwortete. Zufall? Nein. **Göttliche Selektion.**
+
+Begleitet wird das Ganze von der üblichen Versicherung absoluter Wahrhaftigkeit, einer ominösen Vorgängerin mit „bösen Absichten“ und dem Hinweis, dass persönliche Daten nur dazu dienen, sicherzustellen, dass Hugo kein Roboter ist. Die Millionen bleiben weiter im Nebel, aber immerhin ist jetzt klar: **Der liebe Gott arbeitet offenbar mit Tabellenkalkulation.** 🤡📧
+
+> Dear Friend in Christ Jesus,  Hugo Scholz.   
+>   
+> Thanks once again for giving me the opportunity to interact with you in this regard and also for your expedite response.   
+>   
+> However, I know because of the corruption in the world and internet it's difficult for one to trust each other especially a stranger.   
+>   
+> I am Christina and a woman of God and I hate lies or misleading people for whatsoever reasons,our God is God of the Truth.   
+>   
+> After the death of my husband years ago, I keep searching for one who can be trusted in other to handle this donation and I got one  early last year but her intention was evil and through the help of my lawyer I have to cancel everything with her.   
+>   
+> Now come to your question how I got your email address. After my consultation in prayer's with God , I was making an online research about my health condition then in that process I moved into a Microsoft Excel program and find some emails address about 13 of them and I sent them a message which you have a copy and lucky for me you're the only person that responds to it and I am not surprised because that's how God answered my prayers if you prove to be trusted.   
+>   
+> In conclusion, I requested your information to know weather I am been replied by a robot and also to know his or her identity period, the rest will be handle by my lawyer.  
+>   
+> If you're convinced with my answer we forge ahead,but if you're still in doubt you can still ask more questions to make more of your findings.  
+>   
+> I am in deep pain but at same time let God's will be done ✅   
+>   
+> Once again   
+> Thanks for your words of encouragement in your previous message.  
+>   
+> Mrs Esther Johnson   
+
+
+### Verständnis zeigen – und nach dem Ablauf fragen 🤔
+
+Hugo bleibt weiterhin höflich und menschlich. Er zeigt Mitgefühl für die geschilderte Situation, lobt die angeblich selbstlose Idee und vermeidet jede Form von Konfrontation. Gleichzeitig verschiebt er den Fokus bewusst weg von Glaubensbekenntnissen, Excel-Erleuchtungen und persönlichen Daten – hin zur entscheidenden Frage: **Wie soll das Ganze eigentlich konkret ablaufen?**
+
+> Dear Mrs Johnson,  
+>   
+> thank you for your detailed reply and for explaining your situation. I respect your intention to use this money for good purposes, especially in such a difficult time for you.  
+>   
+> I am still trying to understand how this would work in practice. Could you please explain in simple terms how the whole process is supposed to go, step by step, and what my role would be in it?  
+>   
+> I think it is important to clearly understand this before going any further.  
+>   
+> Kind regards  
+> Hugo  
