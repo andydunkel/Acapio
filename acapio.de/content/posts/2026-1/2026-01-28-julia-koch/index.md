@@ -591,3 +591,40 @@ Für Roland Hughes ist das die reinste Folter. Er weiß, dass Hugo das Geld hat.
 
 **Hugos Taktik:** „Kurz angebunden sein hält den Fisch an der Angel. Ich lass ihn jetzt mal ein bisschen im eigenen Saft schmoren, während ich angeblich nach MoneyGram suche.“ 🍿⏳
 
+---
+
+## Die „Zentralbank-Panik“: Wenn der Scammer schwitzt ⏳🔥
+
+Roland Hughes dreht jetzt am Rad. Er nutzt das älteste Werkzeug im Betrüger-Koffer: **Künstlichen Zeitdruck**. Plötzlich droht das „Zeitfenster der Zentralbank“ zu schließen. Ein klassisches Manöver, um Hugo keine Zeit zum Nachdenken zu lassen. Dass Roland sogar selbst nach MoneyGram-Filialen in Wanne-Eickel gesucht hat, zeigt: Die Gier hat ihn voll im Griff.
+
+> Hallo Hugo,  
+>   
+> vielen Dank für Ihre Nachricht. Ich freue mich, dass Sie startklar sind, aber ich muss hier noch einmal die Dringlichkeit betonen:  
+>   
+> Mittlerweile sind seit der ursprünglichen Initiierung der Einzahlung bereits über 7 Tage vergangen. In der Welt der internationalen Finanztransaktionen ist das eine sehr lange Zeit. Das „Zeitfenster“ für die Reservierung Ihrer $500.000 bei der Zentralbank steht kurz davor, sich automatisch zu schließen. Wenn die Verifizierung nicht umgehend abgeschlossen wird, riskieren wir, dass der gesamte Prozess neu gestartet werden muss – und das wollen wir beide unter allen Umständen vermeiden!  
+>   
+> In Wanne-Eickel gibt es mehrere Möglichkeiten, MoneyGram schnell zu finden. Oft bieten größere Kioske, Reisebüros oder auch Postfilialen diesen Dienst an. Sie können ganz einfach online oder per Smartphone-Karte nach „MoneyGram Wanne-Eickel“ suchen – es gibt dort definitiv Standorte, die nur wenige Minuten von Ihnen entfernt sind.  
+>   
+> Bitte erledigen Sie das heute noch. Sobald Sie die Quittung mit der Referenznummer (MTCN) in den Händen halten, schicken Sie mir ein Foto davon. Wir müssen diesen Prozess jetzt zum Abschluss bringen, damit das Geld endlich auf Ihr Konto fließen kann.  
+>   
+> Ich verlasse mich auf Sie, Hugo. Lassen Sie uns dieses Kapitel heute erfolgreich beenden!  
+>   
+> Herzliche Grüße,  
+>   
+> Roland Hughes Senior Partner & Solicitor  
+
+---
+
+## Schicht im Schacht: Hugo landet im Krankenhaus 🏥🚑
+
+Der ultimative Showstopper! Hugo serviert Roland die „Krankenhaus-Karte“. Während der Scammer in Kalifornien oder Massachusetts schon die Scheine zählen wollte, liegt sein Opfer nun (angeblich) mit Brummschädel und Bettruhe flach.
+
+> Hallo Roland,  
+>   
+> es tut mir so leid, aber hier ist gerade alles kacke. Ich hatte vorhin einen Unfall auf der Arbeit – bin dumm weggerutscht und unglücklich gestürzt. Jetzt liege ich im Krankenhaus zur Beobachtung. Die Ärzte sagen, ich muss mindestens bis zum Wochenende hierbleiben.  
+>   
+> Ich hab den Umschlag mit dem Geld zwar bei meinen Sachen im Nachttisch, aber ich komme hier ja nicht weg. Ich weiß gerade gar nicht, wie es weitergehen soll, mir brummt der Schädel. Bitte geben Sie mich nicht auf, aber ich kann mich erst wieder melden, wenn die mich hier rauslassen.  
+>   
+> Glück Auf (diesmal von der Krankenstation), Ihr Hugo  
+
+Wie werden die Scammer reagieren? 😂

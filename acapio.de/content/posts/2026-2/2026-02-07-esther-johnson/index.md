@@ -17,6 +17,9 @@ Was danach passiert, ist weniger Bibelstunde – und mehr Betrugs-Bingo 🎰📧
 
 ---
 
+Eine todkranke Millionärin, 5,6 Millionen Dollar und ein Anwalt, der „alles regelt“ 🤡💼
+Hugo aus Wanne-Eickel, BMW-Schrauber, Dackelfreund und Vereinsheim-Stammgast, wird plötzlich zum auserwählten Christen.
+Was danach passiert, ist weniger Bibelstunde – und mehr Betrugs-Bingo 🎰📧
 
 
 ## Und jetzt zur Absurdität 🤡, die E-Mail von mrsestherjohnson1966@yahoo.com
@@ -158,3 +161,57 @@ Hugo bleibt weiterhin höflich und menschlich. Er zeigt Mitgefühl für die gesc
 >   
 > Kind regards  
 > Hugo  
+
+
+## Der Heilige Verteilungsschlüssel 💸✝️
+
+Nachdem Hugo nach einem konkreten Ablauf fragt, wird endlich Klartext gesprochen – zumindest mathematisch. Die Millionen werden nun sauber aufgeteilt: **70 % für wohltätige Zwecke**, **20 % als göttlich legitimierte Aufwandsentschädigung für den Auserwählten** und **10 % für den Anwalt**, der wie gewohnt alles regelt. Amen.
+
+
+> Thanks for your response.   
+>   
+> Well my wishes is that I want a church an individual that will use this fund for a Non-Governmental Foundation, orphanages, Old people homes and to propagate the word of God and to ensure that the house of God is maintained.  
+>   
+> I took this decision because I don't have any child That will inherit this money and my husband's relatives Are not Christians and I don't want my husband's hard Earned money to be misused by unbelievers, Hence the reason for taking this bold Decision.  
+>   
+> However, you're to contact my lawyer for further directive and I have given him instruction on how the fund will be untilized which are follows.  70% of the fund will be use for orphanages, Old people homes and to propagate the word of God and to ensure that the house of God is maintained.  
+>   
+> Then 20% of the fund will go to the person the individual that accepted the offer to carry out the work of God , and 10% will go to my lawyer for his professional service.  
+>   
+> Once again   
+> Thanks for your words of encouragement in your previous message.  
+>   
+> Mrs Esther Johnson   
+
+Inhaltlich bleibt ansonsten alles beim Alten: keine Details zum Geld, keine Nachweise, keine Erklärung des Transfers – dafür erneut die Versicherung guter Absichten und der Hinweis, man möge sich nun bitte direkt an den Anwalt wenden. Die Geschichte wird also nicht konkreter, nur lukrativer. Für Hugo zumindest theoretisch 🤡📧
+
+---
+
+### Einverstanden – und weiter? 👉
+
+Hugo akzeptiert den vorgeschlagenen Rahmen erst einmal kommentarlos. Keine Diskussion über Prozente, keine Begeisterung über die 20 %, kein theologischer Disput. Stattdessen eine einfache, sachliche Frage: **Wie geht es jetzt konkret weiter?** Genau so, wie man es auch in jedem normalen, seriösen Prozess erwarten würde.
+
+Damit ist der Ball nun endgültig bei der Gegenseite. Ab diesem Punkt muss geliefert werden – oder zumindest so getan werden.
+
+> Dear Mrs Johnson,  
+>   
+> thank you for explaining your wishes and the proposed distribution.  
+>   
+> I understand. Please let me know how we proceed from here and how I can get in touch with your lawyer for the next steps.  
+>   
+> Kind regards  
+> Hugo  
+
+---
+
+### Was nun vermutlich passieren wird 🔮
+
+Erfahrungsgemäß folgt jetzt einer dieser Klassiker:
+
+* **Der Anwalt meldet sich** – mit offizieller Signatur, beeindruckendem Titel und erstaunlich schlechter Grammatik.
+* **Dokumente tauchen auf** – angebliche Bankbestätigungen, Vollmachten oder „Certificates“, gerne als PDF.
+* **Erste Gebühren** – nie für das Geld selbst, sondern für „Bearbeitung“, „Freigabe“, „Steuern“ oder „Transferkosten“.
+* **Zeitdruck** – plötzlich ist alles sehr dringend, weil Fristen, Krankheit oder göttliche Eingebungen es verlangen.
+
+Egal welche Variante kommt: Die Millionen bleiben weiterhin außer Reichweite, aber **der nächste Schritt kostet plötzlich echtes Geld**. Und genau hier endet für viele der Spaß – und beginnt der Schaden 💸📉
+
