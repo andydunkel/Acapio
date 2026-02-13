@@ -1,5 +1,5 @@
 ---
-title: "🚩💸 Wing Hang Bank, Gmail & 500.000 € – was soll da schon schiefgehen?"
+title: "🚩💸 Wing Hang Bank, Gmail & 500.000 €, was soll da schon schiefgehen?"
 params:
   author: Andy
 date: "2026-02-08"
@@ -11,15 +11,15 @@ categories:
   - "Scam"
 thumbnail: "panda.webp"
 url: "posts/2025-02-08-reto-meisser"
-summary: "Eine halbe Million Euro, ein angeblicher Banker aus Hongkong und eine Gmail-Adresse. Klingt nach seriösem Finanzgeschäft? Wir schauen uns an, warum solche Mails garantiert nichts mit der Wing Hang Bank zu tun haben – und woran man den Scam in Sekunden erkennt. 🚩💸"
+summary: "Eine halbe Million Euro, ein angeblicher Banker aus Hongkong und eine Gmail-Adresse. Klingt nach seriösem Finanzgeschäft? Wir schauen uns an, warum solche Mails garantiert nichts mit der Wing Hang Bank zu tun haben, und woran man den Scam in Sekunden erkennt. 🚩💸"
 
 ---
 
-Eine halbe Million Euro, ein angeblicher Banker aus Hongkong und eine Gmail-Adresse. Klingt nach seriösem Finanzgeschäft? Wir schauen uns an, warum solche Mails garantiert nichts mit der Wing Hang Bank zu tun haben – und woran man den Scam in Sekunden erkennt. 🚩💸
+Eine halbe Million Euro, ein angeblicher Banker aus Hongkong und eine Gmail-Adresse. Klingt nach seriösem Finanzgeschäft? Wir schauen uns an, warum solche Mails garantiert nichts mit der Wing Hang Bank zu tun haben, und woran man den Scam in Sekunden erkennt. 🚩💸
 
 ## Die E-Mail von retomeisser5@gmail.com
 
-Die E-Mail ist schnell erzählt: Ein angeblicher Mitarbeiter der **Wing Hang Bank** möchte einer völlig unbekannten Person spontan 500.000 € anvertrauen. Abgerundet wird das seriöse Bankgeschäft durch eine private Gmail-Adresse – mehr Warnsignal passt kaum in zwei Absätze. 🚩
+Die E-Mail ist schnell erzählt: Ein angeblicher Mitarbeiter der **Wing Hang Bank** möchte einer völlig unbekannten Person spontan 500.000 € anvertrauen. Abgerundet wird das seriöse Bankgeschäft durch eine private Gmail-Adresse, mehr Warnsignal passt kaum in zwei Absätze. 🚩
 
 
 > Hallo,  
@@ -38,9 +38,9 @@ Wir schreiben kurz zurück, kann das echt sein?
 
 ---
 
-## Die lange Erklärung – jetzt wird’s „seriös“ 🚨
+## Die lange Erklärung, jetzt wird’s „seriös“ 🚨
 
-Nach der knappen Nachfrage folgt das übliche Eskalationslevel: viel Text, dramatische Hintergrundgeschichte, angebliche Rechtmäßigkeit und der dringende Wunsch nach absoluter Geheimhaltung. Spätestens hier ist klar, dass es sich um klassischen Vorschussbetrug im Gewand von Private Banking handelt – nur mit mehr Absätzen.
+Nach der knappen Nachfrage folgt das übliche Eskalationslevel: viel Text, dramatische Hintergrundgeschichte, angebliche Rechtmäßigkeit und der dringende Wunsch nach absoluter Geheimhaltung. Spätestens hier ist klar, dass es sich um klassischen Vorschussbetrug im Gewand von Private Banking handelt, nur mit mehr Absätzen.
 
 **Kurz zusammengefasst behauptet der angebliche Mitarbeiter der Wing Hang Bank:**
 
@@ -54,7 +54,7 @@ Nach der knappen Nachfrage folgt das übliche Eskalationslevel: viel Text, drama
 * Kontakt dürfe **ausschließlich über private Kanäle** erfolgen
 * Offizielle Wege seien „nicht sicher“ und ausdrücklich verboten
 
-👉 Klassisches Muster: viel Text, viel Drama, viel Vertrauen – und am Ende die Einladung zu etwas, das garantiert nicht legal ist. 🚩
+👉 Klassisches Muster: viel Text, viel Drama, viel Vertrauen, und am Ende die Einladung zu etwas, das garantiert nicht legal ist. 🚩
 
 **Wer will kann die E-Mail hier lesen:**
 
@@ -79,7 +79,7 @@ Nach der knappen Nachfrage folgt das übliche Eskalationslevel: viel Text, drama
 
 ### Hugo aus Wanne-Eickel stellt eine ganz einfache Frage 🤔💸
 
-Hugo bleibt erst einmal Hugo: einfacher Mann, BMW-Club, keine Erfahrung mit internationalen Millionenüberweisungen. Statt reflexartig „Ja, nehme ich“ zu sagen, fragt er vorsichtig nach, wie man als völlig Fremder plötzlich Erbe wird – und ob das Ganze wirklich legal ist oder eher nach kreativem Finanzmärchen klingt. 
+Hugo bleibt erst einmal Hugo: einfacher Mann, BMW-Club, keine Erfahrung mit internationalen Millionenüberweisungen. Statt reflexartig „Ja, nehme ich“ zu sagen, fragt er vorsichtig nach, wie man als völlig Fremder plötzlich Erbe wird, und ob das Ganze wirklich legal ist oder eher nach kreativem Finanzmärchen klingt. 
 
 > Guten Tag Herr Meisser,  
 >   
@@ -89,7 +89,7 @@ Hugo bleibt erst einmal Hugo: einfacher Mann, BMW-Club, keine Erfahrung mit inte
 >   
 > Können Sie mir bitte in einfachen Worten erklären, was genau meine Rolle wäre und warum ausgerechnet ich als fremde Person plötzlich als Angehöriger eingetragen werden kann? Außerdem würde mich interessieren, wie das rechtlich abgesichert ist, damit ich am Ende keine Probleme bekomme.  
 >   
-> Ich bitte um Verständnis für meine Vorsicht – bei solchen Summen möchte man natürlich sicher sein, dass alles mit rechten Dingen zugeht.  
+> Ich bitte um Verständnis für meine Vorsicht, bei solchen Summen möchte man natürlich sicher sein, dass alles mit rechten Dingen zugeht.  
 >   
 > Viele Grüße  
 > Hugo  
@@ -108,11 +108,11 @@ Kurzfassung der Antwort des angeblichen Mitarbeiters der **Wing Hang Bank**:
 * Er könne das Geld **nicht selbst überweisen** und brauche deshalb Hilfe
 * Ein **Anwalt in Hongkong** soll alle Dokumente und eidesstattlichen Erklärungen erstellen
 * Alles sei angeblich **legal, genehmigt und international abgesichert**
-* Kosten? Natürlich **keine** – vorerst
+* Kosten? Natürlich **keine**, vorerst
 * Zeitrahmen: **12 Werktage**, wenn man „ernsthaft“ mitmacht
 * Nächster Schritt nur bei klarer **Zusicherung und Loyalität**
 
-👉 Übersetzt: viel Pathos, viel Druck, viel Vertrauen fordern – aber weiterhin keine überprüfbaren Fakten, keine offiziellen Kanäle und keine echte Transparenz. 🚩📧
+👉 Übersetzt: viel Pathos, viel Druck, viel Vertrauen fordern, aber weiterhin keine überprüfbaren Fakten, keine offiziellen Kanäle und keine echte Transparenz. 🚩📧
 
 > Lieber Freund,   
 >   
@@ -133,7 +133,7 @@ Kurzfassung der Antwort des angeblichen Mitarbeiters der **Wing Hang Bank**:
 
 ## Hugo bekundet Interesse
 
-Hugo zeigt sich nun offen, aber bodenständig interessiert. Keine großen Versprechen, kein Überschwang – nur die Bitte um eine kurze, verständliche Erklärung, was er eigentlich tun soll. 🤷‍♂️📧 
+Hugo zeigt sich nun offen, aber bodenständig interessiert. Keine großen Versprechen, kein Überschwang, nur die Bitte um eine kurze, verständliche Erklärung, was er eigentlich tun soll. 🤷‍♂️📧 
 
 > Guten Tag Herr Meisser,  
 >   
@@ -147,9 +147,9 @@ Hugo zeigt sich nun offen, aber bodenständig interessiert. Keine großen Verspr
 > Viele Grüße  
 > Hugo  
 
-Damit wird der Spieß umgedreht: Statt weiterer Textwüsten soll der angebliche Banker endlich Klartext reden – etwas, womit Scammer erfahrungsgemäß große Probleme haben. 🚩😏
+Damit wird der Spieß umgedreht: Statt weiterer Textwüsten soll der angebliche Banker endlich Klartext reden, etwas, womit Scammer erfahrungsgemäß große Probleme haben. 🚩😏
 
-Das ist jetzt die **klassische nächste Eskalationsstufe** – hier eine **passende Überschrift** und eine **kompakte Zusammenfassung für den Blog**, damit niemand diese Textwand komplett lesen muss 😄
+Das ist jetzt die **klassische nächste Eskalationsstufe**, hier eine **passende Überschrift** und eine **kompakte Zusammenfassung für den Blog**, damit niemand diese Textwand komplett lesen muss 😄
 
 
 ## Jetzt soll Hugo liefern: Ausweis, Konto und bitte volle Gefolgschaft 🚨📄
@@ -160,7 +160,7 @@ Das ist jetzt die **klassische nächste Eskalationsstufe** – hier eine **passe
 * Erneute Betonung von **Vertrauen, Engagement und absolutem Befolgen der Anweisungen**
 * Hugo soll bei Bedarf ein **neues ausländisches Online-Bankkonto** eröffnen
 * Das Konto soll **nicht mit der Bank des Absenders in Verbindung stehen**
-* Über dieses Konto soll später das Geld laufen – „zu beider Schutz“
+* Über dieses Konto soll später das Geld laufen, „zu beider Schutz“
 * Nun wird es konkret:
 
   * **Ausweiskopie (Pass oder Führerschein)**
@@ -169,7 +169,7 @@ Das ist jetzt die **klassische nächste Eskalationsstufe** – hier eine **passe
 * Alles natürlich **streng vertraulich** und bitte niemandem erzählen
 
 👉 Übersetzt: Ab hier geht es nicht mehr um Geschichten, sondern um **Identitätsdiebstahl, Konto-Missbrauch und Geldwäsche**. 🚩💸
-Spätestens an diesem Punkt sollte klar sein, warum solche Mails niemals beantwortet – sondern höchstens dokumentiert – werden sollten.
+Spätestens an diesem Punkt sollte klar sein, warum solche Mails niemals beantwortet, sondern höchstens dokumentiert, werden sollten.
 
 Wenn du willst, machen wir als Nächstes:
 
@@ -218,11 +218,11 @@ Wer mag, kann hier noch die E-Mail lesen:
 > Reto Meisser   
 
 
-## Hugo gibt nach – aber nur ein bisschen 😏📄
+## Hugo gibt nach, aber nur ein bisschen 😏📄
 
 Hugo zeigt sich kooperativ, aber nicht leichtsinnig. Er liefert ein paar harmlose Basisdaten und macht gleichzeitig klar, dass damit erst einmal Schluss ist. 
 
-Kein Ausweis, keine Telefonnummer, kein Einkommen, keine Religion – denn wer echte Millionen verwaltet, sollte auch mit einem Minimum an Informationen auskommen. 🚩💸 
+Kein Ausweis, keine Telefonnummer, kein Einkommen, keine Religion, denn wer echte Millionen verwaltet, sollte auch mit einem Minimum an Informationen auskommen. 🚩💸 
 
 > Guten Tag Herr Meisser,  
 >   
@@ -232,6 +232,63 @@ Kein Ausweis, keine Telefonnummer, kein Einkommen, keine Religion – denn wer e
 > Vollständiger Name: Hugo ....  
 >   
 > Bitte haben Sie Verständnis dafür, dass ich weitere persönliche Details oder Dokumente erst dann zur Verfügung stellen kann, wenn für mich klar ist, wie der Ablauf konkret aussieht.  
+>   
+> Viele Grüße  
+> Hugo  
+
+
+## Neues Konto in der Türkei, und bitte Anfangssaldo einzahlen 🚩🌍
+
+In der nächsten Mail wird es konkret: Hugo soll ein neues Bankkonto eröffnen, bei einer Bank in der Türkei. Die Überweisung soll dort „diskret“ als interne Bank-zu-Bank-Transaktion laufen, um internationale Prüfungen zu vermeiden.
+
+Zwar übernimmt der angebliche Banker angeblich sämtliche Anwalts- und Behördenkosten, doch Hugo müsse die Kontoeröffnung und einen Anfangssaldo selbst bezahlen. Zusätzlich werden 5 % der Gesamtsumme als „Kostenpuffer“ einbehalten, bei einer versprochenen Beteiligung von 50 %.
+
+👉 Übersetzt: Konto eröffnen, eigenes Geld einsetzen, internationale Kontrollen umgehen, und bitte stillhalten. Mehr rote Flaggen passen kaum in eine einzige E-Mail. 🚩📧
+
+Besonders bemerkenswert: Wir haben **zu keinem Zeitpunkt eine Ausweiskopie verschickt**, dennoch bestätigt der Absender bereits den Erhalt unseres Dokuments. Ein kleiner Realitätsabgleich scheint im Scam-Skript nicht vorgesehen zu sein. 🚩📄
+
+> Hallo  
+>   
+> Ich habe Ihre Daten und die Kopie Ihres Ausweises erhalten und werde diese an den Anwalt weiterleiten, der den Papierkram erledigt. Später werde ich Sie auch über die Bank informieren, bei der Sie ein neues Bankkonto in Ihrem Namen eröffnen möchten. Sobald das Konto eingerichtet ist, werde ich das Geld auf das neue Konto überweisen. Außerdem sende ich Ihnen eine Kopie meines Ausweises zu Ihren Referenzzwecken. All dies erfolgt nach Eingang Ihrer Antwort.  
+>   
+> Bitte beachten Sie, dass sich die Bank, die wir für diese Transaktion verwenden, in der Türkei befindet. Als Bankier ist es meine Pflicht, sicherzustellen, dass diese Überweisung diskret abläuft. Einer der Gründe, warum wir diese Bank verwenden, ist, dass sie dasselbe Telex-Verfahren wie meine Bank verwendet. Das bedeutet, dass jede Überweisung zwischen dieser und meiner Bank als interne Überweisung angesehen wird. Dadurch wird die Aufmerksamkeit bestimmter internationaler Finanzinstitute mit strenger Geldpolitik vermieden. Sie müssen sich diesbezüglich keine Sorgen machen.  
+>   
+> Die Behörden würden diese Überweisung als reine Bank-zu-Bank-Transaktion betrachten, ohne dass es zu Verwunderung oder Warnsignalen kommt. In solchen Fällen sind Vorsichtsmaßnahmen erforderlich, und ich muss sicherstellen, dass unsere Interessen bei dieser Transaktion gewahrt bleiben. Ich bin Bankfachmann und erwarte, dass Sie meinen Anweisungen folgen, damit die Transaktion erfolgreich verläuft.  
+>   
+> An dieser Stelle möchte ich Sie auch auf einige wichtige Punkte zu den mit dieser Transaktion verbundenen Kosten hinweisen. Ihnen ist vielleicht nicht bewusst, welche Kosten für die Überweisung eines solchen Betrags anfallen, insbesondere bei geerbten Geldern. Ich möchte Ihnen jedoch klarstellen, dass ich die Kosten für die gesamte Logistik dieser Überweisung übernehme, wie z. B. die Kosten für die Beauftragung des Anwalts und die Einholung der erforderlichen offiziellen Dokumente und Genehmigungen der Behörden von Hongkong, einschließlich sonstiger Kosten, die für eine reibungslose Überweisung anfallen. Ich werde keinen Aspekt dieser Transaktion als selbstverständlich betrachten.  
+>   
+> Ich möchte Sie hiermit darauf hinweisen, dass 5 % der Gesamtsumme als Erstattung für alle beiderseitigen Kosten dieser Transaktion zurückgelegt werden. Daher rate ich Ihnen, alle Ihnen entstandenen Kosten unabhängig von der Höhe zu dokumentieren. Ich werde meine Ausgaben dokumentieren und wir werden sie bei der Gesamtberechnung von den 5 % abziehen. Wie in meiner vorherigen E-Mail an Sie festgelegt, verbleiben 50 % der Gesamtsumme als Ihr Anteil, da Sie ein ausländischer Partner dieser Transaktion sind. Ich habe den Grund erläutert, warum ich Ihre Unterstützung benötige. Tatsache ist jedoch, dass ich die Gelder nicht in meinem eigenen Namen überweisen kann. Dies ist der Hauptgrund, warum Ihre Unterstützung als Ausländer erforderlich ist.  
+>   
+> An dieser Stelle möchte ich Sie darüber informieren, dass ich alle Kosten dieser Transaktion auf meiner Seite übernehme. Sie müssen jedoch die Kosten auf Ihrer Seite tragen, z. B. die Kosten für die Eröffnung Ihres Kontos und die Aktivierung mit einem Anfangssaldo. Für eine Person Ihres Alters und Status erwarte ich, dass Sie sich um die Abwicklung Ihres Kontos kümmern.  
+>   
+> Auch was die Steuern betrifft: Ich werde die Erbschaftssteuern und andere Steuern von hier aus bezahlen lassen. Ich möchte, dass Sie keine Schwierigkeiten bei der Zahlung haben, und werde mich darum kümmern. Sobald ich Ihre Antwort erhalten habe, sende ich Ihnen in Kürze eine Kopie meines Reisepasses.  
+>   
+> Mit freundlichen Grüßen  
+>   
+> Herr Reto Meisser   
+
+
+### Einen Ausweis gibt es auch 📘🚩
+
+Natürlich darf im weiteren Verlauf auch ein „Beweis der Seriosität“ nicht fehlen: eine eingesannte Passkopie. Das Dokument soll Vertrauen schaffen, nach dem Motto: *„Ich zeige dir meinen Ausweis, also kannst du mir deinen schicken.“*
+
+Genau das ist ein klassischer Trick. Solche Bilder sind entweder manipuliert, gestohlen oder stammen von völlig unbeteiligten Personen, deren Dokumente missbraucht werden. Eine JPEG-Datei per E-Mail ist kein Identitätsnachweis, sondern lediglich ein weiteres Puzzleteil im Vertrauens-Theater des Betrugs. 📧😏
+
+![](/posts/2025-02-08-reto-meisser/ausweis_reto.webp)
+
+## Jetzt reden wir über Zahlen 💰🤔
+
+Hugo bleibt sachlich und stellt die entscheidende Frage: Wie geht es konkret weiter, und was kostet der Spaß maximal? Denn bei aller internationalen Diskretion, Telex-Verfahren und 50-Prozent-Beteiligung interessiert am Ende vor allem eines: Wer soll wann wie viel zahlen? 🚩
+
+Erfahrungsgemäß wird genau an diesem Punkt aus der „kostenlosen Abwicklung“ plötzlich eine Liste mit Aktivierungsgebühren, Anfangssalden oder sonstigen „notwendigen Formalitäten“. Und genau hier trennt sich Millionenerbe von Vorschussbetrug. 😏
+
+> Guten Tag Herr Meisser,  
+>   
+> vielen Dank für Ihre ausführlichen Informationen.  
+>   
+> Für mich ist nun wichtig zu verstehen, wie es ganz konkret weitergeht. Können Sie bitte Schritt für Schritt erklären, was als Nächstes passiert und was genau ich tun muss?  
+>   
+> Außerdem möchte ich vorab wissen, welche Kosten auf meiner Seite maximal entstehen können (z. B. Kontoeröffnung, Anfangssaldo oder sonstige Gebühren). Bitte nennen Sie mir möglichst konkrete Beträge, damit ich planen kann.  
 >   
 > Viele Grüße  
 > Hugo  

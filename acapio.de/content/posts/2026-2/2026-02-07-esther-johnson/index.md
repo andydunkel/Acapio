@@ -13,18 +13,18 @@ thumbnail: "moneyfox.webp"
 url: "posts/2025-02-07-esther-johnson"
 summary: "Eine todkranke Millionärin, 5,6 Millionen Dollar und ein Anwalt, der „alles regelt“ 🤡💼
 Hugo aus Wanne-Eickel, BMW-Schrauber, Dackelfreund und Vereinsheim-Stammgast, wird plötzlich zum auserwählten Christen.
-Was danach passiert, ist weniger Bibelstunde – und mehr Betrugs-Bingo 🎰📧"
+Was danach passiert, ist weniger Bibelstunde, und mehr Betrugs-Bingo 🎰📧"
 
 ---
 
 Eine todkranke Millionärin, 5,6 Millionen Dollar und ein Anwalt, der „alles regelt“ 🤡💼
 Hugo aus Wanne-Eickel, BMW-Schrauber, Dackelfreund und Vereinsheim-Stammgast, wird plötzlich zum auserwählten Christen.
-Was danach passiert, ist weniger Bibelstunde – und mehr Betrugs-Bingo 🎰📧
+Was danach passiert, ist weniger Bibelstunde, und mehr Betrugs-Bingo 🎰📧
 
 
 ## Und jetzt zur Absurdität 🤡, die E-Mail von mrsestherjohnson1966@yahoo.com
 
-Eine angeblich todkranke Millionärin aus der Schweiz, aktuell zur Behandlung in Indien, meldet sich völlig ungefragt bei einer fremden Person. Ihr verstorbener Ehemann – Diplomat, selbstverständlich – habe **5,6 Millionen US-Dollar** bei einer britischen Bank geparkt. Da weder Kinder noch „gläubige“ Verwandte existieren, soll ausgerechnet der Empfänger der Mail das Geld übernehmen, um damit Gutes zu tun – inklusive Anwalt, aber bitte ohne Telefonate und möglichst schnell.
+Eine angeblich todkranke Millionärin aus der Schweiz, aktuell zur Behandlung in Indien, meldet sich völlig ungefragt bei einer fremden Person. Ihr verstorbener Ehemann, Diplomat, selbstverständlich, habe **5,6 Millionen US-Dollar** bei einer britischen Bank geparkt. Da weder Kinder noch „gläubige“ Verwandte existieren, soll ausgerechnet der Empfänger der Mail das Geld übernehmen, um damit Gutes zu tun, inklusive Anwalt, aber bitte ohne Telefonate und möglichst schnell.
 
 > Dear Friend  
 >   
@@ -50,8 +50,8 @@ Was hier serviert wird, ist ein **Best-of der Betrugsfolklore**:
 * **Globale Weltreise in drei Sätzen**: Schweiz → Indien → Großbritannien → Lloyds Bank. Praktisch eine Pauschalreise für Fantasiefiguren.
 * **Zeitdruck mit Bibelzitat**: Noch ein Monat zu leben, aber genug Energie für internationale Vermögensübertragungen per Yahoo-Mail.
 * **Millionen + Fremde = Vertrauen**: Statt Familie, Kirche oder offizieller Organisation wird irgendeine Mailadresse angeschrieben. Logisch.
-* **Anwalt regelt alles™**: Natürlich taucht erst nach der Antwort ein Anwalt auf – zufällig genau dann, wenn Gebühren ins Spiel kommen könnten.
-* **Kein Telefon, keine Nachfragen**: Krankheit, Verwandte, Gründe über Gründe – Hauptsache niemand stellt echte Fragen.
+* **Anwalt regelt alles™**: Natürlich taucht erst nach der Antwort ein Anwalt auf, zufällig genau dann, wenn Gebühren ins Spiel kommen könnten.
+* **Kein Telefon, keine Nachfragen**: Krankheit, Verwandte, Gründe über Gründe, Hauptsache niemand stellt echte Fragen.
 
 Kurz gesagt:
 👉 **Zu viel Drama, zu viele Millionen, zu wenig Realität.**
@@ -63,7 +63,7 @@ Oder anders formuliert: Wenn Gott wirklich Geld verteilen wollte, würde er verm
 
 Hugo bleibt sachlich. Keine großen Versprechen, keine Begeisterung über Millionen, kein sofortiges „Amen“. Stattdessen bedankt er sich höflich, zeigt vorsichtige Anteilnahme und signalisiert genau das, was Scammer lieben: **grundsätzliches Interesse bei gleichzeitiger Unsicherheit**.
 
-Für Betrüger ist so eine Antwort ein Volltreffer – freundlich, nicht abschreckend und offen genug, um den nächsten Schritt einzuleiten. Der Anwalt kann kommen, die Geschichte darf weitergehen 🎭📧
+Für Betrüger ist so eine Antwort ein Volltreffer, freundlich, nicht abschreckend und offen genug, um den nächsten Schritt einzuleiten. Der Anwalt kann kommen, die Geschichte darf weitergehen 🎭📧
 
 > Dear Mrs Johnson,  
 >   
@@ -79,7 +79,7 @@ Für Betrüger ist so eine Antwort ein Volltreffer – freundlich, nicht abschre
 
 ## Die nächste Stufe: Datensammlung 🎣
 
-Die Antwort lässt nicht lange auf sich warten und folgt einem bekannten Drehbuch. Nach etwas religiöser Nebelkerze („Dear in Christ“, Gebet, göttliche Fügung) kommt der eigentliche Zweck der Mail ziemlich unverblümt zum Vorschein: **eine strukturierte Liste persönlicher Daten**. Voller Name, Adresse, Telefonnummer, Alter, Familienstand, Beruf – fein säuberlich abgefragt wie in einem Formular.
+Die Antwort lässt nicht lange auf sich warten und folgt einem bekannten Drehbuch. Nach etwas religiöser Nebelkerze („Dear in Christ“, Gebet, göttliche Fügung) kommt der eigentliche Zweck der Mail ziemlich unverblümt zum Vorschein: **eine strukturierte Liste persönlicher Daten**. Voller Name, Adresse, Telefonnummer, Alter, Familienstand, Beruf, fein säuberlich abgefragt wie in einem Formular.
 
 > Dear in Christ   
 >   
@@ -103,7 +103,7 @@ Kurz gesagt: Die Millionen bleiben weiter nebulös, aber **die Datenernte soll s
 
 ### Nachfrage statt Datenspende 🧐
 
-Hugo macht an dieser Stelle etwas Ungewöhnliches: Er fragt nach. Nicht nach Geld, nicht nach dem Anwalt, nicht nach dem nächsten Schritt – sondern ganz banal danach, **woher seine E-Mail-Adresse überhaupt stammt**. Eine einfache, legitime Frage, die in normalen Geschäfts- oder Spendenkontexten problemlos beantwortet werden könnte.
+Hugo macht an dieser Stelle etwas Ungewöhnliches: Er fragt nach. Nicht nach Geld, nicht nach dem Anwalt, nicht nach dem nächsten Schritt, sondern ganz banal danach, **woher seine E-Mail-Adresse überhaupt stammt**. Eine einfache, legitime Frage, die in normalen Geschäfts- oder Spendenkontexten problemlos beantwortet werden könnte.
 
 > Dear Mrs Johnson,  
 >   
@@ -114,12 +114,12 @@ Hugo macht an dieser Stelle etwas Ungewöhnliches: Er fragt nach. Nicht nach Gel
 > Kind regards  
 > Hugo  
 
-Für Betrüger ist genau das jedoch unbequem. Statt nebulöser Andeutungen und vorbereiteter Textbausteine wird plötzlich eine konkrete Herkunft verlangt. Erfahrungsgemäß wird an dieser Stelle ausgewichen, verallgemeinert („online search“, „God directed me“) – oder der Kontakt bricht ganz ab. Ein kleiner Realitätscheck mit großer Wirkung 📉📧
+Für Betrüger ist genau das jedoch unbequem. Statt nebulöser Andeutungen und vorbereiteter Textbausteine wird plötzlich eine konkrete Herkunft verlangt. Erfahrungsgemäß wird an dieser Stelle ausgewichen, verallgemeinert („online search“, „God directed me“), oder der Kontakt bricht ganz ab. Ein kleiner Realitätscheck mit großer Wirkung 📉📧
 
 
 ## Gott, Excel und die 13 Auserwählten 📊🙏
 
-Auf die harmlose Frage nach der Herkunft der E-Mail folgt eine Erklärung, die irgendwo zwischen Erweckungserlebnis und Office-Schulung liegt. Nach intensiven Gebeten, medizinischer Google-Recherche und einem spontanen Abstecher in **Microsoft Excel** fand Mrs. Johnson genau 13 E-Mail-Adressen – und Hugo war der Einzige, der antwortete. Zufall? Nein. **Göttliche Selektion.**
+Auf die harmlose Frage nach der Herkunft der E-Mail folgt eine Erklärung, die irgendwo zwischen Erweckungserlebnis und Office-Schulung liegt. Nach intensiven Gebeten, medizinischer Google-Recherche und einem spontanen Abstecher in **Microsoft Excel** fand Mrs. Johnson genau 13 E-Mail-Adressen, und Hugo war der Einzige, der antwortete. Zufall? Nein. **Göttliche Selektion.**
 
 Begleitet wird das Ganze von der üblichen Versicherung absoluter Wahrhaftigkeit, einer ominösen Vorgängerin mit „bösen Absichten“ und dem Hinweis, dass persönliche Daten nur dazu dienen, sicherzustellen, dass Hugo kein Roboter ist. Die Millionen bleiben weiter im Nebel, aber immerhin ist jetzt klar: **Der liebe Gott arbeitet offenbar mit Tabellenkalkulation.** 🤡📧
 
@@ -147,9 +147,9 @@ Begleitet wird das Ganze von der üblichen Versicherung absoluter Wahrhaftigkeit
 > Mrs Esther Johnson   
 
 
-### Verständnis zeigen – und nach dem Ablauf fragen 🤔
+### Verständnis zeigen, und nach dem Ablauf fragen 🤔
 
-Hugo bleibt weiterhin höflich und menschlich. Er zeigt Mitgefühl für die geschilderte Situation, lobt die angeblich selbstlose Idee und vermeidet jede Form von Konfrontation. Gleichzeitig verschiebt er den Fokus bewusst weg von Glaubensbekenntnissen, Excel-Erleuchtungen und persönlichen Daten – hin zur entscheidenden Frage: **Wie soll das Ganze eigentlich konkret ablaufen?**
+Hugo bleibt weiterhin höflich und menschlich. Er zeigt Mitgefühl für die geschilderte Situation, lobt die angeblich selbstlose Idee und vermeidet jede Form von Konfrontation. Gleichzeitig verschiebt er den Fokus bewusst weg von Glaubensbekenntnissen, Excel-Erleuchtungen und persönlichen Daten, hin zur entscheidenden Frage: **Wie soll das Ganze eigentlich konkret ablaufen?**
 
 > Dear Mrs Johnson,  
 >   
@@ -165,7 +165,7 @@ Hugo bleibt weiterhin höflich und menschlich. Er zeigt Mitgefühl für die gesc
 
 ## Der Heilige Verteilungsschlüssel 💸✝️
 
-Nachdem Hugo nach einem konkreten Ablauf fragt, wird endlich Klartext gesprochen – zumindest mathematisch. Die Millionen werden nun sauber aufgeteilt: **70 % für wohltätige Zwecke**, **20 % als göttlich legitimierte Aufwandsentschädigung für den Auserwählten** und **10 % für den Anwalt**, der wie gewohnt alles regelt. Amen.
+Nachdem Hugo nach einem konkreten Ablauf fragt, wird endlich Klartext gesprochen, zumindest mathematisch. Die Millionen werden nun sauber aufgeteilt: **70 % für wohltätige Zwecke**, **20 % als göttlich legitimierte Aufwandsentschädigung für den Auserwählten** und **10 % für den Anwalt**, der wie gewohnt alles regelt. Amen.
 
 
 > Thanks for your response.   
@@ -183,15 +183,15 @@ Nachdem Hugo nach einem konkreten Ablauf fragt, wird endlich Klartext gesprochen
 >   
 > Mrs Esther Johnson   
 
-Inhaltlich bleibt ansonsten alles beim Alten: keine Details zum Geld, keine Nachweise, keine Erklärung des Transfers – dafür erneut die Versicherung guter Absichten und der Hinweis, man möge sich nun bitte direkt an den Anwalt wenden. Die Geschichte wird also nicht konkreter, nur lukrativer. Für Hugo zumindest theoretisch 🤡📧
+Inhaltlich bleibt ansonsten alles beim Alten: keine Details zum Geld, keine Nachweise, keine Erklärung des Transfers, dafür erneut die Versicherung guter Absichten und der Hinweis, man möge sich nun bitte direkt an den Anwalt wenden. Die Geschichte wird also nicht konkreter, nur lukrativer. Für Hugo zumindest theoretisch 🤡📧
 
 ---
 
-### Einverstanden – und weiter? 👉
+### Einverstanden, und weiter? 👉
 
 Hugo akzeptiert den vorgeschlagenen Rahmen erst einmal kommentarlos. Keine Diskussion über Prozente, keine Begeisterung über die 20 %, kein theologischer Disput. Stattdessen eine einfache, sachliche Frage: **Wie geht es jetzt konkret weiter?** Genau so, wie man es auch in jedem normalen, seriösen Prozess erwarten würde.
 
-Damit ist der Ball nun endgültig bei der Gegenseite. Ab diesem Punkt muss geliefert werden – oder zumindest so getan werden.
+Damit ist der Ball nun endgültig bei der Gegenseite. Ab diesem Punkt muss geliefert werden, oder zumindest so getan werden.
 
 > Dear Mrs Johnson,  
 >   
@@ -208,10 +208,58 @@ Damit ist der Ball nun endgültig bei der Gegenseite. Ab diesem Punkt muss gelie
 
 Erfahrungsgemäß folgt jetzt einer dieser Klassiker:
 
-* **Der Anwalt meldet sich** – mit offizieller Signatur, beeindruckendem Titel und erstaunlich schlechter Grammatik.
-* **Dokumente tauchen auf** – angebliche Bankbestätigungen, Vollmachten oder „Certificates“, gerne als PDF.
-* **Erste Gebühren** – nie für das Geld selbst, sondern für „Bearbeitung“, „Freigabe“, „Steuern“ oder „Transferkosten“.
-* **Zeitdruck** – plötzlich ist alles sehr dringend, weil Fristen, Krankheit oder göttliche Eingebungen es verlangen.
+* **Der Anwalt meldet sich**, mit offizieller Signatur, beeindruckendem Titel und erstaunlich schlechter Grammatik.
+* **Dokumente tauchen auf**, angebliche Bankbestätigungen, Vollmachten oder „Certificates“, gerne als PDF.
+* **Erste Gebühren**, nie für das Geld selbst, sondern für „Bearbeitung“, „Freigabe“, „Steuern“ oder „Transferkosten“.
+* **Zeitdruck**, plötzlich ist alles sehr dringend, weil Fristen, Krankheit oder göttliche Eingebungen es verlangen.
 
-Egal welche Variante kommt: Die Millionen bleiben weiterhin außer Reichweite, aber **der nächste Schritt kostet plötzlich echtes Geld**. Und genau hier endet für viele der Spaß – und beginnt der Schaden 💸📉
+Egal welche Variante kommt: Die Millionen bleiben weiterhin außer Reichweite, aber **der nächste Schritt kostet plötzlich echtes Geld**. Und genau hier endet für viele der Spaß, und beginnt der Schaden 💸📉
 
+
+## Jetzt übernimmt der Anwalt, natürlich mit AOL 📬💼
+
+Wie zu erwarten, wird das Ganze nun offiziell: Ein „Barrister John Edward Esq.“ soll die Millionenüberweisung koordinieren, erreichbar über eine stilvolle AOL-Adresse. Parallel dazu steigt der Betrag plötzlich von 5,6 auf 6,5 Millionen Dollar. Offenbar wirkt Gebet hier wie Zinseszins.
+
+Dazu kommt wieder das bewährte Element des Zeitdrucks: Operation in 40 Minuten, Tage gezählt, sofort handeln. Emotionaler Druck, neue Kontaktperson, externe Mailadresse, das Drehbuch folgt weiterhin exakt dem klassischen Scam-Muster 🎭📧
+
+Hugo steht jetzt vor der nächsten Entscheidung: Mit dem „Anwalt“ sprechen, oder erst einmal tief durchatmen 🍻
+
+> Dearest Friend in Christ    
+>   
+> God bless you as you show enough commitment in carrying out my wish. Be rest assured that my attorney will act as I instructed.  
+>   
+> Regarding your mail, I have informed my late husband attorney Barr. John Edward, which you need to get in touch with him he will be able to instruct you on what next to do to enable him inform the bank to make transfer of the said amount which is $million (Six Million Five hundred thousand USDollars) into your nominated bank account without further delay.  
+>   
+> Meanwhile, below is the contact information of my late husband attorney:  
+>   
+> Name:===============Barrister John Edward Esq.  
+> Email:==============   attorneyjohnedward112@aol.com  
+>   
+> Note, you have to get in touch with him immediately as you know my days are numbered but there is nothing God can't do as I have faith that he is still God Okay. I am going into the theater in the next 40 minutes for a major operation, please pray for me.  
+>   
+> I shall wait for your update mail as soon as you get in touch with Barr. John Edward.  
+> Please always be Prayerful all through your life.  
+>   
+> Thanks and God bless you.  
+> Mrs. Esther Johnson  
+
+### Hugo schreibt dem Anwalt 📧⚖️
+
+Spätestens jetzt wird es offiziell. Hugo nimmt Kontakt mit „Barrister John Edward Esq.“ auf, sachlich, höflich und mit einer entscheidenden Bitte: **eine klare, nachvollziehbare Erklärung des Ablaufs**. Keine Begeisterung über Millionen, kein vorschnelles Vertrauen, sondern die einfache Frage nach Kanzleiname, Adresse und rechtlichem Prozess.
+
+Genau hier trennt sich bei solchen Geschichten oft Spreu vom Weizen. Ein echter Anwalt hätte kein Problem damit, seine Kanzlei, Anschrift und regulatorische Zulassung transparent zu benennen. Ein erfundener hingegen muss nun kreativ werden, oder in Richtung „Gebühren vorab“ abbiegen.
+
+Der nächste Akt verspricht also entweder juristische Präzision, oder besonders unterhaltsame Improvisation 🎭📄
+
+> Dear Barrister John Edward,  
+>   
+> Mrs Esther Johnson contacted me and informed me that you are handling the legal process regarding her late husband’s deposited funds.  
+>   
+> She advised me to get in touch with you for further instructions concerning the transfer of the stated amount. Before proceeding, I would appreciate it if you could kindly explain the legal process step by step and clarify what would be required from my side.  
+>   
+> As this is a serious matter, I would also like to know the official name and address of your law firm.  
+>   
+> I look forward to your reply.  
+>   
+> Kind regards  
+> Hugo  
