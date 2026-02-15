@@ -11,23 +11,23 @@ categories:
     - "Scam"
 thumbnail: "fraud.webp"
 url: "posts/2025-01-11_neurologe_macht_uns_reich"
-summary: "Eine mysteriöse E-Mail, ein verstorbener Neurologe und Millionen auf einem englischen Bankkonto – klingt nach einem Krimi, oder? Doch leider steckt dahinter ein altbekannter Betrug. Wir haben genauer hingeschaut – und schmunzeln noch immer."
+summary: "Eine mysteriöse E-Mail, ein verstorbener Neurologe und Millionen auf einem englischen Bankkonto, klingt nach einem Krimi, oder? Doch leider steckt dahinter ein altbekannter Betrug. Wir haben genauer hingeschaut, und schmunzeln noch immer."
 ---
 
-Es gibt E-Mails, die einen den Glauben an die Menschheit verlieren lassen – und dann gibt es die, die ihn einfach testen. So auch in unserem Postfach: Eine Nachricht von niemand Geringerem als Jonathan Haskel, Mitglied des Geldpolitischen Ausschusses der Bank of England! Zwischen ein paar bescheidenen Millionen Pfund und uns steht nur eine kleine Formalität – wir müssten uns als Erben eines gewissen Doktor ausgeben. Jackpot, oder?
+Es gibt E-Mails, die einen den Glauben an die Menschheit verlieren lassen, und dann gibt es die, die ihn einfach testen. So auch in unserem Postfach: Eine Nachricht von niemand Geringerem als Jonathan Haskel, Mitglied des Geldpolitischen Ausschusses der Bank of England! Zwischen ein paar bescheidenen Millionen Pfund und uns steht nur eine kleine Formalität, wir müssten uns als Erben eines gewissen Doktor ausgeben. Jackpot, oder?
 
-Doch bevor wir die Koffer für unseren neuen Lebensstil packen, klären wir auf, warum dieser vermeintliche Glücksgriff eher zu leeren Taschen führen würde – und warum solche Betrugsversuche trotzdem noch so erfolgreich sind. Spoiler: Es liegt nicht an der Seriosität der Geschichte.
+Doch bevor wir die Koffer für unseren neuen Lebensstil packen, klären wir auf, warum dieser vermeintliche Glücksgriff eher zu leeren Taschen führen würde, und warum solche Betrugsversuche trotzdem noch so erfolgreich sind. Spoiler: Es liegt nicht an der Seriosität der Geschichte.
 
 ## Wir erhalten eine E-Mail
 
-Wie aus dem Handbuch für Betrüger: Eine E-Mail landet in unserem Posteingang, und die Masche dahinter ist so alt wie das Internet selbst – sie wartet nur darauf, dass wir antworten
+Wie aus dem Handbuch für Betrüger: Eine E-Mail landet in unserem Posteingang, und die Masche dahinter ist so alt wie das Internet selbst, sie wartet nur darauf, dass wir antworten
 
 Am 08.01.2025 um 13:09 schrieb Jonathan Haskel:
 > Ihr Name ist mit einer nicht beanspruchten Leistung verknüpft. Bitte kontaktieren sie mich für weitere info. Grüße, Jonathan Haskel Mitglied des Monetary Policy Committee 
 
 ## Die Betrügermail! Lang!
 
-Plötzlich haben wir einen reichen Verwandten mit gleichem Nachnamen – und der hat uns eine ordentliche Stange Geld hinterlassen! Leider gibt es ein klitzekleines Problem: Der angebliche Erbe ist tot, es gibt keine anderen Angehörigen, und ein mysteriöser Bankangestellter möchte uns ganz uneigennützig helfen, die Millionen zu "retten". Klingt nach einer Netflix-Serie? Leider nein, das ist einfach die kreativste Art, uns um unser eigenes Geld zu bringen.
+Plötzlich haben wir einen reichen Verwandten mit gleichem Nachnamen, und der hat uns eine ordentliche Stange Geld hinterlassen! Leider gibt es ein klitzekleines Problem: Der angebliche Erbe ist tot, es gibt keine anderen Angehörigen, und ein mysteriöser Bankangestellter möchte uns ganz uneigennützig helfen, die Millionen zu "retten". Klingt nach einer Netflix-Serie? Leider nein, das ist einfach die kreativste Art, uns um unser eigenes Geld zu bringen.
 
 Wer lesen will und Zeit hat, die Antwort kommt von "jonahaskel19@gmail.com":
 
@@ -46,13 +46,13 @@ Wer lesen will und Zeit hat, die Antwort kommt von "jonahaskel19@gmail.com":
 >   
 > Der Verstorbene starb ohne Testament, was bedeutet, dass unser verstorbener Kunde ohne identifizierbare Familienangehörige gestorben ist. In Übereinstimmung mit unseren internen Verfahren für Kontoinhaber, die verstorben sind, haben wir in gutem Glauben eigene Ermittlungen eingeleitet, um festzustellen, wer Anspruch auf das Vermögen haben könnte. Diese Untersuchung war in den letzten Monaten erfolglos. Es ist diese Untersuchung, die dazu führte, dass ich Ihre Daten als möglichen Verwandten des Verstorbenen erhalten habe.  
 >   
-> Laut unserer Praxis wird die Bank am Ende dieses Finanzjahres eine Aufforderung zur Anspruchserklärung veröffentlichen – sollten keine rechtskräftigen Ansprüche eingehen, werden die Gelder entweder an Bristol and West oder das Finanzministerium des Vereinigten Königreichs übertragen, und das Portfolio wird aus den Händen der Courtage Bank genommen und meiner Kontrolle unterstellt. Das wird nicht geschehen, wenn es nach mir geht.  
+> Laut unserer Praxis wird die Bank am Ende dieses Finanzjahres eine Aufforderung zur Anspruchserklärung veröffentlichen, sollten keine rechtskräftigen Ansprüche eingehen, werden die Gelder entweder an Bristol and West oder das Finanzministerium des Vereinigten Königreichs übertragen, und das Portfolio wird aus den Händen der Courtage Bank genommen und meiner Kontrolle unterstellt. Das wird nicht geschehen, wenn es nach mir geht.  
 >   
 > Was ich Ihnen mitteilen möchte, könnte als unethisch angesehen werden, aber ich möchte, dass Sie eines verstehen: Nur Außenstehende in der Bankenwelt finden die internen politischen Abläufe der Bankenwelt ungewöhnlich. Insbesondere im Bereich des Private Bankings gibt es enorme Belohnungen für diejenigen, die bestimmte Positionen einnehmen und bestimmte Portfolios verwalten. Sie sollten inzwischen eine Vorstellung davon haben, was ich vorschlage.  
 >   
 > MEIN VORSCHLAG IST FOLGENDER:  
 >   
-> Sie teilen eine Besonderheit mit dem verstorbenen Mann – in diesem Fall sind Sie beide aus demselben Land und tragen den gleichen Nachnamen XXXX. Ich bin bereit, Sie in die Position zu versetzen, bei der Courtage Bank die Freigabe der Gelder zu veranlassen, als wären Sie der alleinige Erbe und nächste Angehörige.  
+> Sie teilen eine Besonderheit mit dem verstorbenen Mann, in diesem Fall sind Sie beide aus demselben Land und tragen den gleichen Nachnamen XXXX. Ich bin bereit, Sie in die Position zu versetzen, bei der Courtage Bank die Freigabe der Gelder zu veranlassen, als wären Sie der alleinige Erbe und nächste Angehörige.  
 >   
 > Ich bin bereit, das Geld mit Ihnen zu teilen. Das bedeutet, dass ich Sie als nächsten Angehörigen präsentieren möchte, Ihnen die erforderlichen Unterlagen zur Verfügung stelle und die Freigabe der Gelder an Sie veranlasse. Ich hätte die Freigabe der Gelder für mich selbst beantragen können, aber das hätte eine direkte Verbindung zu mir hergestellt und meine Beteiligung an der Inanspruchnahme der Gelder offengelegt. Ich versichere Ihnen, dass ich die Gelder innerhalb einer Woche freigeben lassen könnte. Ich werde die Bank einfach über den endgültigen Abschluss der Akte des Verstorbenen informieren. Dann werde ich die Courtage Bank offiziell anweisen, die Gelder freizugeben. Alternativ könnten wir auch die Courtage Bank anweisen, die Gelder auf ein anderes Bankkonto mit Ihnen als Kontoinhaber zu überweisen.  
 >   
@@ -71,11 +71,11 @@ Wer lesen will und Zeit hat, die Antwort kommt von "jonahaskel19@gmail.com":
 
 ### Wir antworten
 
-Natürlich antworten wir – wer könnte bei so einem Angebot widerstehen? Mit einer gesunden Portion Naivität und dem unverwechselbaren Charme von unserer Tarnidentität wagen wir uns ins Abenteuer „Millionenerbe“. Denn wer weiß, vielleicht rollen ja wirklich bald acht Millionen Pfund in unsere Richtung? Jedenfalls bleibt Hugo skeptisch neugierig – so wie es sich gehört.
+Natürlich antworten wir, wer könnte bei so einem Angebot widerstehen? Mit einer gesunden Portion Naivität und dem unverwechselbaren Charme von unserer Tarnidentität wagen wir uns ins Abenteuer „Millionenerbe“. Denn wer weiß, vielleicht rollen ja wirklich bald acht Millionen Pfund in unsere Richtung? Jedenfalls bleibt Hugo skeptisch neugierig, so wie es sich gehört.
 
 > Hallo Herr Haskel,    
 >   
-> also das klingt ja richtig krass! Ich wusste gar nicht, dass ich so’n reichen Verwandten hab. Schon verrückt, wie das Leben manchmal läuft, oder? Acht Millionen Pfund – Junge, Junge, das ist ja’n Haufen Kohle!    
+> also das klingt ja richtig krass! Ich wusste gar nicht, dass ich so’n reichen Verwandten hab. Schon verrückt, wie das Leben manchmal läuft, oder? Acht Millionen Pfund, Junge, Junge, das ist ja’n Haufen Kohle!    
 >   
 > Aber mal ehrlich, wie läuft das jetzt? Brauchen Sie von mir irgendwas? Vielleicht ’nen Ausweis oder so? Oder gibt’s ’n Formular, was ich ausfüllen muss? Ich will ja nix falsch machen, Sie wissen ja, ich hab sowas noch nie gemacht.    
 >   
@@ -129,7 +129,7 @@ Wir bekommen eine Antwort vom geldpolitschen Ausschuss....
 >   
 > Sobald ich Ihre Dokumente/Details erhalte, werde ich die erforderlichen Formalitäten in die Wege leiten.  
 >   
-> Was das Cruisen durch Wanne-Eickel in einem großen Auto angeht – warum nicht? 😊 Es macht immer Spaß, ein wenig zu träumen, besonders wenn diese Träume greifbar sind!  
+> Was das Cruisen durch Wanne-Eickel in einem großen Auto angeht, warum nicht? 😊 Es macht immer Spaß, ein wenig zu träumen, besonders wenn diese Träume greifbar sind!  
 >   
 > Ich freue mich auf Ihre zeitnahe Antwort und auf die nächsten Schritte, um diese Reise gemeinsam zu unternehmen.  
 >   
@@ -141,19 +141,19 @@ Wir bekommen eine Antwort vom geldpolitschen Ausschuss....
 
 Sogar auf unsere Cruise-Fahrt durch Wanne-Eickel wird Bezug genommen:
 
-> Was das Cruisen durch Wanne-Eickel in einem großen Auto angeht – warum nicht? 😊 Es macht immer Spaß, ein wenig zu träumen, besonders wenn diese Träume greifbar sind!  
+> Was das Cruisen durch Wanne-Eickel in einem großen Auto angeht, warum nicht? 😊 Es macht immer Spaß, ein wenig zu träumen, besonders wenn diese Träume greifbar sind!  
 
 ## Der gutgläubige Hugo schreibt zurück
 
-Hugo ist immer noch begeistert – die Vorstellung, bald mit einem glänzenden Schlitten durch Wanne-Eickel zu cruisen, lässt ihn nicht mehr los. Doch trotz aller Euphorie bleibt unser Hugo bodenständig und hat ein paar wichtige Fragen: Warum wollen die eigentlich wissen, welche Religion er hat? Und vor allem – wer bezahlt den Anwalt? Schließlich kann man ja nicht einfach Geld vorschießen, das man noch gar nicht hat! 
+Hugo ist immer noch begeistert, die Vorstellung, bald mit einem glänzenden Schlitten durch Wanne-Eickel zu cruisen, lässt ihn nicht mehr los. Doch trotz aller Euphorie bleibt unser Hugo bodenständig und hat ein paar wichtige Fragen: Warum wollen die eigentlich wissen, welche Religion er hat? Und vor allem, wer bezahlt den Anwalt? Schließlich kann man ja nicht einfach Geld vorschießen, das man noch gar nicht hat! 
 
 Mit seiner typisch herzlichen Art schickt Hugo also seine Fake-Daten los und wartet gespannt darauf, ob sein Traum vom Millionärsleben wahr wird.
 
 > Hallo Herr Haskel,    
 >   
-> boah, das klingt ja alles ziemlich amtlich! Eidesstattliche Erklärungen, Anwälte und Behörden – das ist für mich ehrlich gesagt ganz schön großes Kino. Aber wenn Sie sagen, dass das alles sicher und legal läuft, dann will ich mal dran glauben. Ich meine, wer lässt sich so eine Chance entgehen, oder?    
+> boah, das klingt ja alles ziemlich amtlich! Eidesstattliche Erklärungen, Anwälte und Behörden, das ist für mich ehrlich gesagt ganz schön großes Kino. Aber wenn Sie sagen, dass das alles sicher und legal läuft, dann will ich mal dran glauben. Ich meine, wer lässt sich so eine Chance entgehen, oder?    
 >   
-> Also, ich bin natürlich bereit, Ihnen die Sachen zu schicken, die Sie brauchen. Sie wollen ja anscheinend alles Mögliche wissen – von meinem Beruf bis zu meiner Telefonnummer. Aber jetzt mal ehrlich: Wozu brauchen Sie meine Religion? Bin ich der Einzige, der das komisch findet? Egal, ich schicke Ihnen das alles trotzdem mal, denn ich will ja sehen, wie das hier weitergeht.    
+> Also, ich bin natürlich bereit, Ihnen die Sachen zu schicken, die Sie brauchen. Sie wollen ja anscheinend alles Mögliche wissen, von meinem Beruf bis zu meiner Telefonnummer. Aber jetzt mal ehrlich: Wozu brauchen Sie meine Religion? Bin ich der Einzige, der das komisch findet? Egal, ich schicke Ihnen das alles trotzdem mal, denn ich will ja sehen, wie das hier weitergeht.    
 >   
 > Ach ja, bevor ich vergesse: Gibt’s eigentlich auch ’ne Garantie, dass das mit dem Anwalt nicht so teuer wird? Ich mein, ich hab ja leider grad keine acht Millionen auf der hohen Kante, um Anwaltskosten vorzustrecken, wissen Sie?    
 >   
@@ -179,11 +179,11 @@ Mit seiner typisch herzlichen Art schickt Hugo also seine Fake-Daten los und war
 
 ## Der Plan wird immer absurder
 
-Hugo hat es endlich geschafft – Jonathan Haskel vertraut ihm jetzt so sehr, dass er sogar die „Anwaltskosten“ von stolzen £18.300 selbst übernimmt. Na, wenn das mal kein Gentleman ist! Und damit Hugo nicht „krankheitsbedingt“ nach London reisen muss (gut, dass Jonathan sich sogar um Hugos Gesundheit sorgt), wird das ganze Erbe einfach online abgewickelt. Klingt praktisch, oder?
+Hugo hat es endlich geschafft, Jonathan Haskel vertraut ihm jetzt so sehr, dass er sogar die „Anwaltskosten“ von stolzen £18.300 selbst übernimmt. Na, wenn das mal kein Gentleman ist! Und damit Hugo nicht „krankheitsbedingt“ nach London reisen muss (gut, dass Jonathan sich sogar um Hugos Gesundheit sorgt), wird das ganze Erbe einfach online abgewickelt. Klingt praktisch, oder?
 
-Natürlich bleibt Hugo skeptisch – ein Online-Bankkonto? PIN-Codes? Und ein Anwalt, der so viel kostet, dass selbst Milliardäre ins Schwitzen kommen würden? Dennoch: Jonathan beteuert, dass er alles legal abwickelt, sich um die Behörden kümmert und niemand sonst davon erfahren soll. Nicht mal seine Frau weiß Bescheid. Hugo fragt sich insgeheim, ob Jonathan nachts wohl heimlich mit der Taschenlampe unter der Bettdecke arbeitet.
+Natürlich bleibt Hugo skeptisch, ein Online-Bankkonto? PIN-Codes? Und ein Anwalt, der so viel kostet, dass selbst Milliardäre ins Schwitzen kommen würden? Dennoch: Jonathan beteuert, dass er alles legal abwickelt, sich um die Behörden kümmert und niemand sonst davon erfahren soll. Nicht mal seine Frau weiß Bescheid. Hugo fragt sich insgeheim, ob Jonathan nachts wohl heimlich mit der Taschenlampe unter der Bettdecke arbeitet.
 
-Während Hugo also überlegt, wie er mit diesem „Geheimprojekt“ umgehen soll, fragt er sich noch eins: Wenn Jonathan alles selbst bezahlt, warum braucht er dann immer noch Hugos Ausweis? Schließlich hat der doch genug Vertrauen bewiesen – und träumt schon wieder von seinem Roadtrip durch London. 😊
+Während Hugo also überlegt, wie er mit diesem „Geheimprojekt“ umgehen soll, fragt er sich noch eins: Wenn Jonathan alles selbst bezahlt, warum braucht er dann immer noch Hugos Ausweis? Schließlich hat der doch genug Vertrauen bewiesen, und träumt schon wieder von seinem Roadtrip durch London. 😊
 
 > Hallo Hugo,  
 >   
@@ -213,18 +213,18 @@ Hugo bedankt sich überschwänglich, dass Jonathan die Anwaltskosten übernimmt,
 
 > Hallo Herr Haskel,  
 >   
-> erstmal danke, dass Sie die Kosten übernehmen – das ist echt voll knorke von Ihnen! Sie haben was gut bei mir, und wenn Sie mal im Pott sind, gehen Currywurst und Bier auf mich!  
+> erstmal danke, dass Sie die Kosten übernehmen, das ist echt voll knorke von Ihnen! Sie haben was gut bei mir, und wenn Sie mal im Pott sind, gehen Currywurst und Bier auf mich!  
 >   
 > Aber wie läuft das mit dem Online-Konto? Ich hab gar keins. Können Sie mir da auch helfen? Ich kenn mich mit sowas nicht aus, aber wenn Sie sagen, das klappt, dann mach ich mit. Schreiben Sie mir einfach, was ich tun soll.  
 >   
 > Beste Grüße,  
 > Hugo 
 >   
-> P.S.: Wenn das durch ist, komm ich in London vorbei – und wir cruisen zusammen! 
+> P.S.: Wenn das durch ist, komm ich in London vorbei, und wir cruisen zusammen! 
 
 ### Haskel liefert ab 
 
-Jonathan Haskel macht Ernst: In einer weiteren Nachricht schickt er Hugo eine ganze Reihe offiziell wirkender Dokumente – vom angeblichen Testament über ein Affidavit bis hin zu einer Zertifizierung der „Courtage Trust Bank“. Alles wirkt beeindruckend, mit Stempeln, Unterschriften und sogar Siegeln. Hugo ist begeistert – endlich sieht er schwarz auf weiß, dass er ein reicher Erbe ist!
+Jonathan Haskel macht Ernst: In einer weiteren Nachricht schickt er Hugo eine ganze Reihe offiziell wirkender Dokumente, vom angeblichen Testament über ein Affidavit bis hin zu einer Zertifizierung der „Courtage Trust Bank“. Alles wirkt beeindruckend, mit Stempeln, Unterschriften und sogar Siegeln. Hugo ist begeistert, endlich sieht er schwarz auf weiß, dass er ein reicher Erbe ist!
 
 ![](/posts/2025-01-11_neurologe_macht_uns_reich/doc_1.webp)
 
@@ -270,11 +270,11 @@ Natürlich bedanken wir uns beim guten Haskel! Die Einladung nach Wanne auf Bier
 
 > Hallo Herr Haskel,    
 >   
-> also ich muss sagen, ich bin echt beeindruckt, was Sie da alles geliefert haben! Die Dokumente sehen ja aus wie aus ’nem echten Krimi – mit Siegeln, Stempeln und allem Drum und Dran. Richtig professionell, da merkt man, dass Sie Ahnung haben.    
+> also ich muss sagen, ich bin echt beeindruckt, was Sie da alles geliefert haben! Die Dokumente sehen ja aus wie aus ’nem echten Krimi, mit Siegeln, Stempeln und allem Drum und Dran. Richtig professionell, da merkt man, dass Sie Ahnung haben.    
 >   
 > Die Einladung in den Pott steht übrigens immer noch! Wenn das hier durch ist, machen wir ’nen richtig schönen Abend mit Currywurst und Bier, das schwör ich Ihnen.    
 >   
-> Jetzt schreibe ich erstmal der Bank, wie Sie gesagt haben. Bin gespannt, wie’s weitergeht – ich halte Sie auf dem Laufenden!    
+> Jetzt schreibe ich erstmal der Bank, wie Sie gesagt haben. Bin gespannt, wie’s weitergeht, ich halte Sie auf dem Laufenden!    
 >   
 > Beste Grüße aus Wanne-Eickel,    
 > Hugo    
@@ -283,7 +283,7 @@ Natürlich bedanken wir uns beim guten Haskel! Die Einladung nach Wanne auf Bier
 
 ### Wir schreiben der Bank 
 
-Natürlich tippen wir sofort eine E-Mail an die hochseriöse Adresse „CourtageBankOnline@englandmail.com“. Klingt ja fast wie der Briefkasten einer echten Bank, oder? Natürlich halten wir uns streng an Jonathans Vorlage – schließlich will man bei den „feinen Leuten“ nichts falsch machen. Mit so einem professionellen Tonfall fühlen wir uns glatt wie in der oberen Liga des internationalen Bankwesens. 
+Natürlich tippen wir sofort eine E-Mail an die hochseriöse Adresse „CourtageBankOnline@englandmail.com“. Klingt ja fast wie der Briefkasten einer echten Bank, oder? Natürlich halten wir uns streng an Jonathans Vorlage, schließlich will man bei den „feinen Leuten“ nichts falsch machen. Mit so einem professionellen Tonfall fühlen wir uns glatt wie in der oberen Liga des internationalen Bankwesens. 
 
 **Hugo ist bereit, der Traum von den Millionen rückt näher!** 😉
 
@@ -291,9 +291,9 @@ Natürlich tippen wir sofort eine E-Mail an die hochseriöse Adresse „Courtage
 
 ### Haskel schreibt länglich zurück
 
-Jonathan Haskel legt nochmal ordentlich nach – und das in epischer Länge. Zwischen Anweisungen zum Online-Banking, Latein-Zitaten und Appellen an Hugos Vernunft wird klar: Der gute Haskel sieht sich als unangefochtenen Projektleiter. Vertrauen, Vertraulichkeit und blinder Gehorsam sind seine Schlüssel zum Erfolg.  
+Jonathan Haskel legt nochmal ordentlich nach, und das in epischer Länge. Zwischen Anweisungen zum Online-Banking, Latein-Zitaten und Appellen an Hugos Vernunft wird klar: Der gute Haskel sieht sich als unangefochtenen Projektleiter. Vertrauen, Vertraulichkeit und blinder Gehorsam sind seine Schlüssel zum Erfolg.  
 
-Doch auch der Mensch hinter der Mail kommt durch: Haskel freut sich schon auf den Currywurst-Abend im Pott und philosophiert darüber, wie zerbrechlich Vertrauen ist – ganz so, als hätten wir es mit einem Hobby-Psychologen zu tun. Hugo fühlt sich gebauchpinselt, aber auch ein bisschen erschlagen von dieser Flut an Ratschlägen und Warnungen.
+Doch auch der Mensch hinter der Mail kommt durch: Haskel freut sich schon auf den Currywurst-Abend im Pott und philosophiert darüber, wie zerbrechlich Vertrauen ist, ganz so, als hätten wir es mit einem Hobby-Psychologen zu tun. Hugo fühlt sich gebauchpinselt, aber auch ein bisschen erschlagen von dieser Flut an Ratschlägen und Warnungen.
 
 ![](/posts/2025-01-11_neurologe_macht_uns_reich/long_mail.png)
 
@@ -310,11 +310,11 @@ oder:
 
 > Hallo Herr Haskel,  
 >   
-> also erstmal: Respekt! Sie sind echt ’ne coole Socke. Ihre Mail hat mich echt beeindruckt, auch wenn ich ehrlich gesagt nicht alles so ganz verstanden hab. Sie schreiben da was von Latein und „primus irgendwas“ – klingt richtig schlau. 
+> also erstmal: Respekt! Sie sind echt ’ne coole Socke. Ihre Mail hat mich echt beeindruckt, auch wenn ich ehrlich gesagt nicht alles so ganz verstanden hab. Sie schreiben da was von Latein und „primus irgendwas“, klingt richtig schlau. 
 >   
-> Keine Sorge, ich mach, was Sie sagen. Wenn Sie sagen, ich soll der Bank schreiben und das Online-Konto checken, dann mach ich das natürlich. Vertrauen hab ich – Sie sind ja Profi, das merkt man.  
+> Keine Sorge, ich mach, was Sie sagen. Wenn Sie sagen, ich soll der Bank schreiben und das Online-Konto checken, dann mach ich das natürlich. Vertrauen hab ich, Sie sind ja Profi, das merkt man.  
 >   
-> Ich halte Sie auf dem Laufenden, wie’s weitergeht. Und keine Angst, ich erzähl keinem was – bleibt alles unter uns, versprochen!  
+> Ich halte Sie auf dem Laufenden, wie’s weitergeht. Und keine Angst, ich erzähl keinem was, bleibt alles unter uns, versprochen!  
 >   
 > Beste Grüße aus Wanne-Eickel,  
 > Hugo
@@ -332,49 +332,49 @@ Liefern wir!
 >   
 > vielen Dank für Ihre schnelle Antwort und die klare Anleitung! Ich freue mich sehr, dass es jetzt vorwärtsgeht. Ich werde das Formular gleich ausfüllen und Ihnen schicken. Die geforderten Dokumente habe ich ja schon von Herrn Haskel erhalten, die lege ich natürlich auch direkt bei.
 >   
-> Ich bin wirklich begeistert, wie professionell und zügig das hier läuft – dafür ein großes Dankeschön an Sie und Ihr Team! Ich hoffe, dass wir das alles bald abschließen können, damit ich mein Erbe antreten kann.  
+> Ich bin wirklich begeistert, wie professionell und zügig das hier läuft, dafür ein großes Dankeschön an Sie und Ihr Team! Ich hoffe, dass wir das alles bald abschließen können, damit ich mein Erbe antreten kann.  
 >   
 > Sollte es noch irgendwelche Fragen geben, lassen Sie es mich bitte wissen. Ich stehe bereit!  
 >   
 > Beste Grüße,  
 > Scholz  
 >   
-> P.S.: Ich hoffe, es macht Ihnen nichts aus, dass ich noch keine schicke Krawatte für den Anlass trage – ich bin mehr der Typ für T-Shirts. 😉  
+> P.S.: Ich hoffe, es macht Ihnen nichts aus, dass ich noch keine schicke Krawatte für den Anlass trage, ich bin mehr der Typ für T-Shirts. 😉  
 
 
-## Die Bank will Gebühren – klar doch! "COURTAGE PLATINUM-KONTO"
+## Die Bank will Gebühren, klar doch! "COURTAGE PLATINUM-KONTO"
 
-Jetzt kommt der nächste Schritt: Die „Courtage Trust Bank“ erklärt Hugo, dass alles bereitsteht – es fehlen nur noch £699,99, um ein schickes „Platinum-Konto“ zu eröffnen. 
+Jetzt kommt der nächste Schritt: Die „Courtage Trust Bank“ erklärt Hugo, dass alles bereitsteht, es fehlen nur noch £699,99, um ein schickes „Platinum-Konto“ zu eröffnen. 
 
 ![](/posts/2025-01-11_neurologe_macht_uns_reich/bank_3.png)
 
 
-Natürlich klingt das für Hugo nachvollziehbar, denn £8.000.000 brauchen schließlich einen würdigen Platz. Während Hugo überlegt, wie er die Gebühr auftreiben soll, bleibt er weiter höflich und optimistisch – schließlich hat er ein Ziel vor Augen: Millionen und ein neues Leben voller Currywurst und Luxus! 😉
+Natürlich klingt das für Hugo nachvollziehbar, denn £8.000.000 brauchen schließlich einen würdigen Platz. Während Hugo überlegt, wie er die Gebühr auftreiben soll, bleibt er weiter höflich und optimistisch, schließlich hat er ein Ziel vor Augen: Millionen und ein neues Leben voller Currywurst und Luxus! 😉
 
 > Hallo Herr Taylor,    
 >   
 > danke für Ihre Nachricht und die Infos! Es klingt echt super, dass £8.000.000 bald auf meinem Konto landen können. Sie machen das echt richtig professionell, das muss ich sagen.    
 >   
-> Die Gebühr von £699,99 ist natürlich verständlich – so ein Konto eröffnet sich ja nicht von selbst. Ich könnte das Geld von meiner Sparkasse hier in Wanne-Eickel überweisen. Können Sie mir bitte die Bankdaten schicken, wohin ich das Geld überweisen soll? Dann mach ich das direkt.    
+> Die Gebühr von £699,99 ist natürlich verständlich, so ein Konto eröffnet sich ja nicht von selbst. Ich könnte das Geld von meiner Sparkasse hier in Wanne-Eickel überweisen. Können Sie mir bitte die Bankdaten schicken, wohin ich das Geld überweisen soll? Dann mach ich das direkt.    
 >   
 > Ich freu mich schon riesig, dass das alles bald klappt. Danke, dass Sie sich so gut kümmern!
 >
 > Viele Grüße,    
 > Hugo
 >   
-> P.S.: Wenn alles fertig ist, müssen wir das feiern – ich spendier ein Bier! 😉   
+> P.S.: Wenn alles fertig ist, müssen wir das feiern, ich spendier ein Bier! 😉   
 
 Auch unseren Haskel antworten wir!
 
 > Moin Herr Haskel,    
 >   
-> also echt mal, Sie sind ja ’ne Granate! Danke für die Nachricht – ich fühl mich bei Ihnen echt gut aufgehoben. Sie haben den Laden voll im Griff, das merkt man.    
+> also echt mal, Sie sind ja ’ne Granate! Danke für die Nachricht, ich fühl mich bei Ihnen echt gut aufgehoben. Sie haben den Laden voll im Griff, das merkt man.    
 >   
 > Das mit dem Latein ist schon irgendwie cool, auch wenn ich da nicht durchblicke. Aber wie Sie sagen: Hauptsache, wir ziehen das Ding zusammen durch, und ich weiß, dass ich auf Sie zählen kann.    
 >   
 > Ich hab die Bank angeschrieben, die haben sich auch gleich gemeldet. Die Gebühr fürs Konto krieg ich schon irgendwie hin, da lass ich mir was einfallen. Sobald ich was Neues hab, geb ich Bescheid.    
 >   
-> Sie sind echt die beste Unterstützung, die man haben kann – tausend Dank dafür!    
+> Sie sind echt die beste Unterstützung, die man haben kann, tausend Dank dafür!    
 >   
 > Grüße aus’m Pott,    
 > Scholz    
@@ -409,7 +409,7 @@ Wir melden die Sache auf jeden Fall mal an "reportfraud@bankingcircle.com".
 
 ### Hugo macht’s offiziell
 
-Hugo bleibt standhaft – schließlich will er sicherstellen, dass alles seine Ordnung hat. Seine Sparkasse in Wanne-Eickel verlangt noch ein offizielles Schreiben der „Courtage Trust Bank“, um die Legitimität der Transaktion zu prüfen. 
+Hugo bleibt standhaft, schließlich will er sicherstellen, dass alles seine Ordnung hat. Seine Sparkasse in Wanne-Eickel verlangt noch ein offizielles Schreiben der „Courtage Trust Bank“, um die Legitimität der Transaktion zu prüfen. 
 
 > Hallo Herr Taylor,    
 >   
@@ -448,20 +448,20 @@ Natürlich schreiben wir auch noch ne freudige E-Mail an den guten Haskel.
 
 > Hallo Herr Haskel,    
 >   
-> erstmal danke für Ihre motivierenden Worte – die tun echt gut! Es läuft ja wirklich alles wie am Schnürchen, und das verdanke ich vor allem Ihnen. Ich hab die Gebühr jetzt überwiesen und den Beleg an die Bank geschickt. Das hat alles super geklappt, auch wenn meine Sparkasse ein bisschen verwundert war, wofür ich das Geld brauche. Aber egal, Hauptsache, wir sind einen Schritt weiter.    
+> erstmal danke für Ihre motivierenden Worte, die tun echt gut! Es läuft ja wirklich alles wie am Schnürchen, und das verdanke ich vor allem Ihnen. Ich hab die Gebühr jetzt überwiesen und den Beleg an die Bank geschickt. Das hat alles super geklappt, auch wenn meine Sparkasse ein bisschen verwundert war, wofür ich das Geld brauche. Aber egal, Hauptsache, wir sind einen Schritt weiter.    
 >   
 > Wie geht’s denn jetzt weiter? Soll ich auf die Kontodaten von der Bank warten, oder gibt’s noch was, was ich vorbereiten muss? Ich bin bereit für die nächsten Schritte und freu mich, dass wir gemeinsam so gut vorankommen.    
 >   
-> Die Einladung nach London klingt übrigens großartig! Wenn das hier alles durch ist, komm ich vorbei, und wir stoßen ordentlich auf unseren Erfolg an – Currywurst bring ich mit, falls Sie die im Vereinigten Königreich nicht haben. 😉    
+> Die Einladung nach London klingt übrigens großartig! Wenn das hier alles durch ist, komm ich vorbei, und wir stoßen ordentlich auf unseren Erfolg an, Currywurst bring ich mit, falls Sie die im Vereinigten Königreich nicht haben. 😉    
 >   
 > Ich freu mich auf Ihre Antwort und bin gespannt, wie’s weitergeht!    
 >   
 > Grüße aus Wanne-Eickel,    
 > Hugo    
 >   
-> P.S.: WhatsApp klingt super – das macht’s echt einfacher! Schreiben Sie mir, wenn Sie bereit sind. 😊    
+> P.S.: WhatsApp klingt super, das macht’s echt einfacher! Schreiben Sie mir, wenn Sie bereit sind. 😊    
 
-## Hugo hat’s nicht leicht – der Agent ist krank
+## Hugo hat’s nicht leicht, der Agent ist krank
 
 Kaum läuft’s mal, tauchen neue Probleme auf: Herr Jackson Osazuwa, der Empfänger der ersten Überweisung, ist krank und kann das Geld nicht verarbeiten. Es wird doch hoffentlich nicht an unserer Meldung an die Vivid-Bank liegen? 😁
 
@@ -489,13 +489,13 @@ Jetzt soll Hugo das Geld stornieren und an einen gewissen Olaf Reinhold Heinrich
 > Mit freundlichen Grüßen,  
 > MacQuoid Taylor  
 
-### Hugo und die Sparkasse – Bürokratie lässt grüßen 
+### Hugo und die Sparkasse, Bürokratie lässt grüßen 
 
-Hugo lässt sich nicht so leicht unter Druck setzen. Klar, die neuen Kontodaten sind da, aber erstmal muss alles sauber abgeklärt werden – schließlich nimmt es die Sparkasse in Wanne-Eickel mit sowas ganz genau. 
+Hugo lässt sich nicht so leicht unter Druck setzen. Klar, die neuen Kontodaten sind da, aber erstmal muss alles sauber abgeklärt werden, schließlich nimmt es die Sparkasse in Wanne-Eickel mit sowas ganz genau. 
 
 > Hallo Herr Taylor,    
 >   
-> danke für die Info und die neuen Kontodaten. Ich verstehe, dass Herr Osazuwa gerade nicht verfügbar ist – gute Besserung an ihn!    
+> danke für die Info und die neuen Kontodaten. Ich verstehe, dass Herr Osazuwa gerade nicht verfügbar ist, gute Besserung an ihn!    
 >   
 > Ich muss jetzt erstmal bei meiner Sparkasse klären, ob die Stornierung der ersten Überweisung überhaupt möglich ist. Die sind da manchmal etwas pingelig und wollen genaue Nachweise. Haben Sie vielleicht ein offizielles Schreiben, dass der neue Empfänger Olaf Reinhold Heinrich Friedrichs autorisiert ist? Das könnte mir helfen, die Sache schneller zu regeln.    
 >   
@@ -506,7 +506,7 @@ Hugo lässt sich nicht so leicht unter Druck setzen. Klar, die neuen Kontodaten 
 
 ### Haskel meldet sich via WhatsApp 
 
-Der gute Jonathan Haskel lässt nichts anbrennen und kontaktiert Hugo jetzt auch über WhatsApp – natürlich von seiner „privaten Nummer“ (+44 7365 795276), um maximale Diskretion zu gewährleisten. Offizielle Leitungen seien wegen „Total Quality Management Policy“ (was auch immer das genau ist) überwacht, deshalb der geheime Kanal. 
+Der gute Jonathan Haskel lässt nichts anbrennen und kontaktiert Hugo jetzt auch über WhatsApp, natürlich von seiner „privaten Nummer“ (+44 7365 795276), um maximale Diskretion zu gewährleisten. Offizielle Leitungen seien wegen „Total Quality Management Policy“ (was auch immer das genau ist) überwacht, deshalb der geheime Kanal. 
 
 ![](/posts/2025-01-11_neurologe_macht_uns_reich/whatspp_kontakt.webp)
 
@@ -514,7 +514,7 @@ Natürlich schreiben wir was zurück, die Neuigkeiten der Bank.
 
 > hallo herr haskel,    
 >   
-> entschuldigen sie die späte antwort – wir waren das ganze wochenende am feiern, aber jetzt bin ich wieder voll dabei!    
+> entschuldigen sie die späte antwort, wir waren das ganze wochenende am feiern, aber jetzt bin ich wieder voll dabei!    
 >   
 > ich wollte mal nachfragen: wissen sie irgendwas über die sache mit der überweisung? die bank hat mir plötzlich eine andere kontonummer gegeben, weil der ursprüngliche empfänger angeblich krank ist. passt das alles so, oder sollten wir da nochmal nachhaken?    
 >   
@@ -579,17 +579,17 @@ Parallel meldet sich auch der olle Haskel, wir schreiben ihm auch noch, das alle
 
 ![](/posts/2025-01-11_neurologe_macht_uns_reich/whatsapp_1.webp)
 
-## Es geht nicht voran – und Haskel macht sich Sorgen!
+## Es geht nicht voran, und Haskel macht sich Sorgen!
 
-Der gute Haskel wird langsam ungeduldig, aber Hugo hat gerade „andere Probleme“ – eine plötzliche Krankheit zwingt ihn zur Pause. Während wir Haskel also noch ein wenig zappeln lassen, kommt plötzlich unsere Bank ins Spiel: Die Überweisung wird gesperrt!  
+Der gute Haskel wird langsam ungeduldig, aber Hugo hat gerade „andere Probleme“, eine plötzliche Krankheit zwingt ihn zur Pause. Während wir Haskel also noch ein wenig zappeln lassen, kommt plötzlich unsere Bank ins Spiel: Die Überweisung wird gesperrt!  
 
 Natürlich informieren wir den besorgten Haskel über diesen unerwarteten Rückschlag und warten gespannt, wie er auf diese neue Hürde reagiert. 😉  
 
 ![](/posts/2025-01-11_neurologe_macht_uns_reich/sperre.webp)
 
-## Wir drehen uns im Kreis – also stornieren wir!
+## Wir drehen uns im Kreis, also stornieren wir!
 
-Es geht einfach nicht voran – also ziehen wir die Reißleine. Wir erklären den Betrügern, dass wir den Kontakt abbrechen, denn mal ehrlich: Eine „Bank“ ohne eigene Webseite? Das geht ja wohl gar nicht!  
+Es geht einfach nicht voran, also ziehen wir die Reißleine. Wir erklären den Betrügern, dass wir den Kontakt abbrechen, denn mal ehrlich: Eine „Bank“ ohne eigene Webseite? Das geht ja wohl gar nicht!  
 
 Damit drehen wir den Spieß um und legen den Ball in das Feld der Scammer. Mal sehen, ob sie sich etwas Neues einfallen lassen oder langsam die Nerven verlieren. 😉  
 
@@ -598,17 +598,17 @@ Damit drehen wir den Spieß um und legen den Ball in das Feld der Scammer. Mal s
 
 ### **Haskel will die Stornierung nicht akzeptieren!**  
 
-Scammer hassen es, wenn ihnen die Beute in letzter Sekunde entwischt – und genau das merkt man Haskels Nachrichten an. Fast trotzig betont er, wie viel Mühe und exklusive Dokumente extra für uns angefertigt wurden.  
+Scammer hassen es, wenn ihnen die Beute in letzter Sekunde entwischt, und genau das merkt man Haskels Nachrichten an. Fast trotzig betont er, wie viel Mühe und exklusive Dokumente extra für uns angefertigt wurden.  
 
-Doch Hugo bleibt skeptisch. Er fordert eine offizielle Webseite der „Bank“ – und siehe da, plötzlich gibt es eine! Ob die wohl genauso professionell ist wie ihre E-Mails? 😉  
+Doch Hugo bleibt skeptisch. Er fordert eine offizielle Webseite der „Bank“, und siehe da, plötzlich gibt es eine! Ob die wohl genauso professionell ist wie ihre E-Mails? 😉  
 
 ![](/posts/2025-01-11_neurologe_macht_uns_reich/trotz.webp)
 
-### Die Webseite: Courtagetrust.com – ein fragwürdiger Auftritt
+### Die Webseite: Courtagetrust.com, ein fragwürdiger Auftritt
 
-Endlich haben wir die „offizielle“ Webseite der Scammer! Doch schon beim ersten Blick wird’s verdächtig: Die Seite ist nur über den Link **https://www.courtagetrust.com/ltd/** erreichbar – gibt man nur **www.courtagetrust.com** ein, bleibt die Seite komplett leer.  
+Endlich haben wir die „offizielle“ Webseite der Scammer! Doch schon beim ersten Blick wird’s verdächtig: Die Seite ist nur über den Link **https://www.courtagetrust.com/ltd/** erreichbar, gibt man nur **www.courtagetrust.com** ein, bleibt die Seite komplett leer.  
 
-Offenbar will man gezielt vermeiden, dass Außenstehende zufällig über die Seite stolpern. Stattdessen wird der Link nur gezielt an potenzielle Opfer verschickt – ein klassischer Trick, um unter dem Radar zu bleiben. Doch wir haben ihn natürlich trotzdem gefunden. 😉  
+Offenbar will man gezielt vermeiden, dass Außenstehende zufällig über die Seite stolpern. Stattdessen wird der Link nur gezielt an potenzielle Opfer verschickt, ein klassischer Trick, um unter dem Radar zu bleiben. Doch wir haben ihn natürlich trotzdem gefunden. 😉  
 
 ![Die Webseite](/posts/2025-01-11_neurologe_macht_uns_reich/bank.webp)
 

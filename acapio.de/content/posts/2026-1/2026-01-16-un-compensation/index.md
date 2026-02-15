@@ -36,13 +36,13 @@ Man kennt das: Man sitzt im Vereinsheim des BMW-Schrauber-Clubs Wanne-Eickel, ha
 > Email us  
 > bankofamerica5839@gmail.com  
 
-Der Haken? Brian (der scheinbar in seiner Freizeit auf eine `@gmail.com`-Adresse umgestiegen ist – man muss ja sparen!) braucht Hugos Daten. Ausweis, Adresse, Beruf. Hugo, dessen IQ knapp über der Betriebstemperatur eines Kühlwasserbehälters liegt, ist natürlich sofort Feuer und Flamme. Endlich eine vergoldete Leine für Dackel „Waldi“ und eine Zapfanlage im Kofferraum!
+Der Haken? Brian (der scheinbar in seiner Freizeit auf eine `@gmail.com`-Adresse umgestiegen ist, man muss ja sparen!) braucht Hugos Daten. Ausweis, Adresse, Beruf. Hugo, dessen IQ knapp über der Betriebstemperatur eines Kühlwasserbehälters liegt, ist natürlich sofort Feuer und Flamme. Endlich eine vergoldete Leine für Dackel „Waldi“ und eine Zapfanlage im Kofferraum!
 
 Aber wir wissen ja: Wenn dir jemand im Internet 300 Millionen schenken will, ist das meistens so seriös wie eine TÜV-Plakette, die mit dem Edding gemalt wurde. 🤡
 
 ### Der Köder ist ausgelegt: Hugo geht „All-In“ 🎣
 
-Nachdem Hugo sich den ersten Schock mit einem Kurzen runtergespült hat, greift er zur Tastatur. Die Taktik: **Begeisterter Vollpfosten.** Wer 300 Millionen verschenkt, der erwartet schließlich jemanden, der vor Glück die Bodenhaftung verliert – und Hugo liefert!
+Nachdem Hugo sich den ersten Schock mit einem Kurzen runtergespült hat, greift er zur Tastatur. Die Taktik: **Begeisterter Vollpfosten.** Wer 300 Millionen verschenkt, der erwartet schließlich jemanden, der vor Glück die Bodenhaftung verliert, und Hugo liefert!
 
 > Tach Brian,  
 >   
@@ -59,11 +59,11 @@ Wir sind gespannt, ob die Scammer anbeissen, wenn Hugo mit dem Dackel-Club wedel
 
 ---
 
-### **Fazit: Funkstille im Postfach – Brian, wat is los?** 📉🤫
+### **Fazit: Funkstille im Postfach, Brian, wat is los?** 📉🤫
 
 Tja, Freunde der gepflegten Unterhaltung, es sieht so aus, als hätte Hugo unseren „Präsidenten“ Brian mit seiner Begeisterung für Dackel und Currywurst in die Flucht geschlagen. Seit Hugos Mail mit der Frage nach den Goldbarren und der vergoldeten Zapfanlage herrscht im Postfach herbe Funkstille.
 
-**Woran hat’s gelegen?** Wahrscheinlich war Hugos BMW-Fachwissen oder die Erwähnung des Wanne-Eickeler Dackel-Clubs eine Nummer zu hoch für die Herrschaften. Oder – und das ist wahrscheinlicher – die Scammer haben gemerkt, dass bei Hugo außer einer Altölsammlung und einem gut gelaunten Vierbeiner nichts zu holen ist.
+**Woran hat’s gelegen?** Wahrscheinlich war Hugos BMW-Fachwissen oder die Erwähnung des Wanne-Eickeler Dackel-Clubs eine Nummer zu hoch für die Herrschaften. Oder, und das ist wahrscheinlicher, die Scammer haben gemerkt, dass bei Hugo außer einer Altölsammlung und einem gut gelaunten Vierbeiner nichts zu holen ist.
 
 **Was wir daraus lernen:**
 

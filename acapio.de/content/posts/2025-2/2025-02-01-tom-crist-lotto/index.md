@@ -11,10 +11,10 @@ categories:
     - "Scam"
 thumbnail: "fraud.webp"
 url: "posts/2025-02-01_tom-crist-lotto"
-summary: "Ein Lotto-Millionär aus Amerika will sein Vermögen großzügig verteilen – und ausgerechnet Hugo aus Wanne-Eickel gehört zu den Auserwählten! Klingt zu schön, um wahr zu sein? Dann wird’s Zeit für einen genaueren Blick auf diesen außergewöhnlichen „Spenden“-Fall. 😏"
+summary: "Ein Lotto-Millionär aus Amerika will sein Vermögen großzügig verteilen, und ausgerechnet Hugo aus Wanne-Eickel gehört zu den Auserwählten! Klingt zu schön, um wahr zu sein? Dann wird’s Zeit für einen genaueren Blick auf diesen außergewöhnlichen „Spenden“-Fall. 😏"
 ---
 
-Ein Lotto-Millionär aus Amerika will sein Vermögen großzügig verteilen – und ausgerechnet Hugo aus Wanne-Eickel gehört zu den Auserwählten! Klingt zu schön, um wahr zu sein? Dann wird’s Zeit für einen genaueren Blick auf diesen außergewöhnlichen „Spenden“-Fall. 😏
+Ein Lotto-Millionär aus Amerika will sein Vermögen großzügig verteilen, und ausgerechnet Hugo aus Wanne-Eickel gehört zu den Auserwählten! Klingt zu schön, um wahr zu sein? Dann wird’s Zeit für einen genaueren Blick auf diesen außergewöhnlichen „Spenden“-Fall. 😏
 
 ## Die E-Mail von Tom Crist (tom.cris.vp@gmail.com)
 
@@ -28,11 +28,11 @@ Natürlich lassen wir uns diese Chance nicht entgehen und antworten.
 
 > Hallo Tom,    
 >   
-> Mensch, da hab ich aber Schwein gehabt! Erst letzte Woche hab ich im Lotto 1,50 € gewonnen und dachte schon, das wäre mein Glückstag – aber jetzt DAS! 😲    
+> Mensch, da hab ich aber Schwein gehabt! Erst letzte Woche hab ich im Lotto 1,50 € gewonnen und dachte schon, das wäre mein Glückstag, aber jetzt DAS! 😲    
 >   
 > Ich bin wirklich gerührt, dass Sie an mich gedacht haben. So viele Menschen auf der Welt, und ausgerechnet Hugo aus Wanne-Eickel ist einer der Auserwählten! Das Schicksal meint es wirklich gut mit mir.    
 >   
-> Nun stellt sich mir natürlich die große Frage: Wie krieg ich die Kohle? Soll ich mit meinem Mofa zur Bank fahren, oder kommt das Geld per Brieftaube? Falls eine kleine Bearbeitungsgebühr nötig ist, kein Problem – ich habe noch einen 5-Euro-Gutschein von der Pommesbude um die Ecke.    
+> Nun stellt sich mir natürlich die große Frage: Wie krieg ich die Kohle? Soll ich mit meinem Mofa zur Bank fahren, oder kommt das Geld per Brieftaube? Falls eine kleine Bearbeitungsgebühr nötig ist, kein Problem, ich habe noch einen 5-Euro-Gutschein von der Pommesbude um die Ecke.    
 >   
 > Schreiben Sie mir bitte schnell zurück, bevor ich aus Versehen doch noch arbeiten gehe! 😅    
 >   
@@ -44,9 +44,9 @@ Natürlich lassen wir uns diese Chance nicht entgehen und antworten.
 
 ## Die rührende Geschichte eines „echten“ Wohltäters  
 
-Tom Crist – oder auch Tom Cris, je nachdem, wie es gerade passt – ist ein kanadischer Lotto-Millionär ([hier der Link zum Echten](https://www.today.com/news/canadian-lottery-winner-donates-40-million-jackpot-charity-2d11777987)) mit einem Herzen aus Gold. 2013 gewann er **40 Millionen Dollar** im Lotto und beschloss, sein Geld wahllos an fremde Menschen zu verteilen, die er **per Google und Facebook** entdeckt hat. Und welch ein Glück: **Hugo aus Wanne-Eickel** ist einer der Auserwählten! 🎉  
+Tom Crist, oder auch Tom Cris, je nachdem, wie es gerade passt, ist ein kanadischer Lotto-Millionär ([hier der Link zum Echten](https://www.today.com/news/canadian-lottery-winner-donates-40-million-jackpot-charity-2d11777987)) mit einem Herzen aus Gold. 2013 gewann er **40 Millionen Dollar** im Lotto und beschloss, sein Geld wahllos an fremde Menschen zu verteilen, die er **per Google und Facebook** entdeckt hat. Und welch ein Glück: **Hugo aus Wanne-Eickel** ist einer der Auserwählten! 🎉  
 
-Doch das Ganze ist nicht einfach nur ein Gewinnspiel – nein, es steckt eine **zutiefst emotionale Story** dahinter. Seine geliebte Frau starb an Krebs, und nun soll das Geld in ihrem Andenken gespendet werden. Als ob das nicht schon dramatisch genug wäre, ist nun auch noch seine Tochter Audrey todkrank! 😢 Und natürlich hat sie einen letzten Wunsch: **Hugo soll 4,8 Millionen Dollar bekommen!**  
+Doch das Ganze ist nicht einfach nur ein Gewinnspiel, nein, es steckt eine **zutiefst emotionale Story** dahinter. Seine geliebte Frau starb an Krebs, und nun soll das Geld in ihrem Andenken gespendet werden. Als ob das nicht schon dramatisch genug wäre, ist nun auch noch seine Tochter Audrey todkrank! 😢 Und natürlich hat sie einen letzten Wunsch: **Hugo soll 4,8 Millionen Dollar bekommen!**  
 
 Alles, was Hugo tun muss? **Seine Daten schicken.** Immerhin wird hier bewusst auf den Ausweis verzichtet, wie nett!
 
@@ -91,7 +91,7 @@ Alles, was Hugo tun muss? **Seine Daten schicken.** Immerhin wird hier bewusst a
 
 ### Misstrauen? Aber natürlich!  
 
-Hugo aus Wanne-Eickel ist zwar kein Misstrauensminister, aber wenn plötzlich jemand mit **4,8 Millionen Dollar winkt**, darf man schon mal kurz innehalten. Die Geschichte klingt schließlich zu schön, um wahr zu sein – und in den meisten Fällen ist das dann auch so.  
+Hugo aus Wanne-Eickel ist zwar kein Misstrauensminister, aber wenn plötzlich jemand mit **4,8 Millionen Dollar winkt**, darf man schon mal kurz innehalten. Die Geschichte klingt schließlich zu schön, um wahr zu sein, und in den meisten Fällen ist das dann auch so.  
 
 Da wir aber den höflichen und investigativen Ansatz bevorzugen, gehen wir erstmal freundlich drauf ein. Vielleicht ist ja doch was dran? Vielleicht gibt es **tatsächlich einen schwerreichen Wohltäter, der ausgerechnet Hugo aus der Ruhrpott-Metropole Wanne-Eickel für seine Mission auserkoren hat?**  
 
@@ -123,38 +123,38 @@ Damit erhalten wir wohl kein Foto mehr von dem Herren und seiner Tochter.
 
 ## Tom Cris der Wiedergänger!
 
-Wochenlang herrschte Funkstille. Kein Foto, keine Reaktion, kein Lebenszeichen – wir dachten schon, Tom (Crist? Cris? Wer weiß das schon…) hätte sich ins Reich der vergessenen Scam-Versuche verabschiedet.  
+Wochenlang herrschte Funkstille. Kein Foto, keine Reaktion, kein Lebenszeichen, wir dachten schon, Tom (Crist? Cris? Wer weiß das schon…) hätte sich ins Reich der vergessenen Scam-Versuche verabschiedet.  
 
 **Doch plötzlich, wie aus dem Nichts, war er wieder da!**  
-Nicht mehr unter seiner alten Adresse, nein, jetzt meldet er sich frisch auferstanden als **Tom Cris** – der Schreibfehler wurde befördert zum offiziellen Nachnamen. Vielleicht hat Audrey den Mail-Account neu eingerichtet, vielleicht war es auch einfach ein besonders spiritueller Moment in Seattle.
+Nicht mehr unter seiner alten Adresse, nein, jetzt meldet er sich frisch auferstanden als **Tom Cris**, der Schreibfehler wurde befördert zum offiziellen Nachnamen. Vielleicht hat Audrey den Mail-Account neu eingerichtet, vielleicht war es auch einfach ein besonders spiritueller Moment in Seattle.
 
-Der Inhalt seiner Mail? **Fast eins zu eins identisch** mit der ersten Nachricht. Dieselbe tragische Geschichte, dieselbe göttliche Eingebung, dieselbe tiefe Mission, das Geld sinnvoll zu investieren – nur diesmal mit noch mehr Nachdruck und der Bitte, Hugo möge doch endlich seine Daten schicken.
+Der Inhalt seiner Mail? **Fast eins zu eins identisch** mit der ersten Nachricht. Dieselbe tragische Geschichte, dieselbe göttliche Eingebung, dieselbe tiefe Mission, das Geld sinnvoll zu investieren, nur diesmal mit noch mehr Nachdruck und der Bitte, Hugo möge doch endlich seine Daten schicken.
 
 Eines hat sich nicht geändert: **Ein Beweis, ein Foto oder irgendetwas Echtes? Fehlanzeige.**  
 Dafür eine extra Portion Gefühl, Pathos und moralischer Druck: Audrey geht es schlecht, sie möchte noch Gutes tun, bevor sie „diese sündige Welt“ verlässt.
 
 ![Die neue Mail, alte Masche](/posts/2025-02-01_tom-crist-lotto/cris_mail.webp)
 
-### Hugo bleibt höflich – aber wachsam  
+### Hugo bleibt höflich, aber wachsam  
 
-Wochenlang Funkstille – aber Hugo ist kein nachtragender Mensch. Als echter Wanne-Eickeler weiß er: Nicht jeder hat Zeit, auf jede Mail direkt zu antworten. Vielleicht war Tom Cris ja mit seiner Tochter Audrey auf Pilgerreise oder musste erst noch den 4,8-Millionen-Koffer bei der Sparkasse wechseln lassen.  
+Wochenlang Funkstille, aber Hugo ist kein nachtragender Mensch. Als echter Wanne-Eickeler weiß er: Nicht jeder hat Zeit, auf jede Mail direkt zu antworten. Vielleicht war Tom Cris ja mit seiner Tochter Audrey auf Pilgerreise oder musste erst noch den 4,8-Millionen-Koffer bei der Sparkasse wechseln lassen.  
 
-Trotzdem: So ein bisschen Skepsis darf sein. Immerhin geht es hier um viel Geld – und noch mehr Pathos. Hugo bleibt freundlich, aber stellt nochmal höflich klar: **Ein kleines Foto wäre schön.** Irgendwas Echtes. Vielleicht mit Audrey, vielleicht auch mit einem Lottoschein, vielleicht auf einem Mofa.  
+Trotzdem: So ein bisschen Skepsis darf sein. Immerhin geht es hier um viel Geld, und noch mehr Pathos. Hugo bleibt freundlich, aber stellt nochmal höflich klar: **Ein kleines Foto wäre schön.** Irgendwas Echtes. Vielleicht mit Audrey, vielleicht auch mit einem Lottoschein, vielleicht auf einem Mofa.  
 
 Denn wie heißt es so schön im Ruhrgebiet:  
-**„Vertrauen ist gut – aber erst mal gucken, ob die Kohle echt is’!“**
+**„Vertrauen ist gut, aber erst mal gucken, ob die Kohle echt is’!“**
 
 > Hallo Herr Cris (oder war’s doch Crist?),    
 >   
-> schön, mal wieder von Ihnen zu hören! Ich hatte mir schon Sorgen gemacht. Wochenlang nix – da dachte ich, Sie hätten sich’s anders überlegt oder vielleicht hätten Sie mich mit jemand anderem verwechselt. Bei 40 Millionen kann man da ja schon mal den Überblick verlieren, ne?    
+> schön, mal wieder von Ihnen zu hören! Ich hatte mir schon Sorgen gemacht. Wochenlang nix, da dachte ich, Sie hätten sich’s anders überlegt oder vielleicht hätten Sie mich mit jemand anderem verwechselt. Bei 40 Millionen kann man da ja schon mal den Überblick verlieren, ne?    
 >   
-> Ich war ehrlich gesagt ein bisschen enttäuscht. Ich hatte Ihnen ja geschrieben und sogar ganz freundlich um ein Foto gebeten – ein kleines Bildchen, nichts Großes. Einfach, damit ich weiß, mit wem ich’s zu tun habe. Vertrauen ist schließlich keine Einbahnstraße.    
+> Ich war ehrlich gesagt ein bisschen enttäuscht. Ich hatte Ihnen ja geschrieben und sogar ganz freundlich um ein Foto gebeten, ein kleines Bildchen, nichts Großes. Einfach, damit ich weiß, mit wem ich’s zu tun habe. Vertrauen ist schließlich keine Einbahnstraße.    
 >   
-> Aber gut – ich bin keiner, der lange nachtragend ist. Vielleicht war Audrey gerade nicht fotogen oder die Kamera hatte Urlaub. Kann ja alles sein.    
+> Aber gut, ich bin keiner, der lange nachtragend ist. Vielleicht war Audrey gerade nicht fotogen oder die Kamera hatte Urlaub. Kann ja alles sein.    
 >   
-> Jedenfalls: Wenn das mit der Spende noch aktuell ist, bin ich natürlich weiterhin interessiert. Und wenn Sie diesmal wirklich ernst machen wollen, dann würde ich mich wirklich über ein kleines Zeichen freuen – irgendwas, das zeigt, dass das kein Schmu ist.    
+> Jedenfalls: Wenn das mit der Spende noch aktuell ist, bin ich natürlich weiterhin interessiert. Und wenn Sie diesmal wirklich ernst machen wollen, dann würde ich mich wirklich über ein kleines Zeichen freuen, irgendwas, das zeigt, dass das kein Schmu ist.    
 >   
-> Und falls Sie doch nur Quatsch machen: Sagen Sie’s ruhig. Ich bin nicht böse. Wir sind hier im Ruhrgebiet – wir können mit klaren Ansagen umgehen.    
+> Und falls Sie doch nur Quatsch machen: Sagen Sie’s ruhig. Ich bin nicht böse. Wir sind hier im Ruhrgebiet, wir können mit klaren Ansagen umgehen.    
 >   
 > Mit erwartungsvollen Grüßen    
 > Hugo Krawuttke    

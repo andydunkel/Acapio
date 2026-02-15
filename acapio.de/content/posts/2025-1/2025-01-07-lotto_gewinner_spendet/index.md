@@ -66,7 +66,7 @@ Wie es sich gehört, werden auch Foto und Pass mitgeliefert. Der Pass sieht gut 
 
 ## Wir antworten
 
-Natürlich antworten wir sofort – schließlich will man ja nicht unhöflich wirken! Doch kaum ein Tag vergeht, schon werden wir mit einer nachdrücklichen Nachfrage bombardiert. Offenbar brennt es ihnen geradezu unter den Nägeln, die großzügigen Millionen so schnell wie möglich unters Volk zu bringen. Wie selbstlos!
+Natürlich antworten wir sofort, schließlich will man ja nicht unhöflich wirken! Doch kaum ein Tag vergeht, schon werden wir mit einer nachdrücklichen Nachfrage bombardiert. Offenbar brennt es ihnen geradezu unter den Nägeln, die großzügigen Millionen so schnell wie möglich unters Volk zu bringen. Wie selbstlos!
 
 Wir können unsere Freude kaum verbergen!
 
@@ -83,7 +83,7 @@ Wir können unsere Freude kaum verbergen!
 
 ## Die Anwältin antwortet
 
-Natürlich lassen sie uns nicht lange warten – zack, die Antwort ist da! Und was für eine: episch in ihrer Länge, fast schon ein kleines Epos der Dreistigkeit. Klar, wir sollen mal wieder unser komplettes Leben auf dem Silbertablett servieren. Name, Adresse, Bankdaten, der gute alte Personalausweis – fehlt nur noch die Einladung zum Abendessen und der Pin fürs Handy. Alles natürlich „ganz wichtig“ für die Dokumente und den „rechtlichen Ablauf“. Denn wie soll man ohne unsere Bankverbindung eine Million überweisen? Das geht ja gar nicht! 🙃
+Natürlich lassen sie uns nicht lange warten, zack, die Antwort ist da! Und was für eine: episch in ihrer Länge, fast schon ein kleines Epos der Dreistigkeit. Klar, wir sollen mal wieder unser komplettes Leben auf dem Silbertablett servieren. Name, Adresse, Bankdaten, der gute alte Personalausweis, fehlt nur noch die Einladung zum Abendessen und der Pin fürs Handy. Alles natürlich „ganz wichtig“ für die Dokumente und den „rechtlichen Ablauf“. Denn wie soll man ohne unsere Bankverbindung eine Million überweisen? Das geht ja gar nicht! 🙃
 
 > Hallo  
 >     Ich möchte Ihnen sehr dafür danken, dass Sie sich bezüglich des rechtlichen Verfahrens zur Spende an mich gewandt haben. Mein Name ist Elisabeth Massi und ich bin die Anwältin, die Herrn Simmons Schiavo Marco vertritt. Ich verstehe, dass Sie sich nach der Spende in Höhe von 1.000.000 € für wohltätige Zwecke erkundigen. Als Rechtsspezialistin bin ich hier, um Sie während des gesamten Rechtsverfahrens zu unterstützen und zu beraten. Ich möchte Sie darüber informieren, dass Herr Simmons Schiavo Marco die Spendengelder genehmigt hat, und ich verpflichte mich, sicherzustellen, dass alle erforderlichen rechtlichen Unterlagen vorhanden sind, um die reibungslose Überweisung der Mittel auf Ihr angegebenes Bankkonto nach Unterzeichnung der erforderlichen Dokumente zu ermöglichen. Bevor ich jedoch mit dem Verfahren fortfahre, möchte ich Sie um zusätzliche Informationen bitten, um sicherzustellen, dass alle rechtlichen Dokumente in Ordnung sind und alles gut geht. Bitte stellen Sie mir die folgenden Informationen zur   
@@ -127,7 +127,7 @@ Heute geben wir uns mal skeptisch und fragen nach einem Selfie mit Zeitung und o
 
 ## Kein Selfie und andere Kontaktaufnahme
 
-Leider blieb uns das ersehnte Selfie mit Tageszeitung und Lottoschein verwehrt – offensichtlich war Frau Massi an diesem Tag nicht besonders fotogen. 😄 Wir haben aber dennoch nach und antworten also Hugo, Prolet, aus Wanne-Eickel.
+Leider blieb uns das ersehnte Selfie mit Tageszeitung und Lottoschein verwehrt, offensichtlich war Frau Massi an diesem Tag nicht besonders fotogen. 😄 Wir haben aber dennoch nach und antworten also Hugo, Prolet, aus Wanne-Eickel.
 
 > Moin,  
 >   
@@ -143,7 +143,7 @@ Wir bekommen die gleiche Antwort wie oben und schreiben erneut zurück.
 >   
 > boah, ich kann dat ja gar nich glauben! So was is mir ja noch nie passiert! Ich mein, wer gewinnt schon so viel Geld und denkt dann an Leute wie mich? Du bist echt n ganz feiner Kerl, ehrlich!  
 >   
-> Dat Geld würd ich natürlich genau so einsetzen, wie du sagst – für die armen Leutchen hier im Viertel, Waisenhäuser und so.  
+> Dat Geld würd ich natürlich genau so einsetzen, wie du sagst, für die armen Leutchen hier im Viertel, Waisenhäuser und so.  
 >   
 > Ich schreib deiner Anwältin direkt, wat die braucht, und schick alles hin.  
 >   
@@ -156,7 +156,7 @@ Wir bekommen die gleiche Antwort wie oben und schreiben erneut zurück.
 
 Wir geben uns gutgläubig und lassen Hugo die Sache regeln. Hugo, der Mann fürs Grobe und Bürokratische, hat sich direkt an Frau Massi gewandt. Und wie könnte es anders sein: höflich, vertrauensvoll und mit einem Hauch Ruhrpott-Charme, der jeden Winkeladvokaten dahinschmelzen lässt.  
 
-Sein Plan ist simpel: "Kein Bürokrat, aber alles sauber." Denn wenn einer in Wanne-Eickel weiß, wie man mit großen Summen umgeht, dann ist es Hugo – zumindest solange es um Kumpels, Currywurst und ’nen schnellen Pils an der Ecke geht.  
+Sein Plan ist simpel: "Kein Bürokrat, aber alles sauber." Denn wenn einer in Wanne-Eickel weiß, wie man mit großen Summen umgeht, dann ist es Hugo, zumindest solange es um Kumpels, Currywurst und ’nen schnellen Pils an der Ecke geht.  
 
 Jetzt warten wir gespannt, wie Frau Massi auf Hugos herzerwärmende Mail reagiert. Wird sie beeindruckt sein von so viel Bodenständigkeit? 😄  
 
@@ -175,7 +175,7 @@ Jetzt warten wir gespannt, wie Frau Massi auf Hugos herzerwärmende Mail reagier
 
 ### Massi will's wissen: Digitaler Striptease
 
-Prompt kommt die Antwort: Natürlich sollen wir uns auch hier einem digitalen Striptease unterziehen und all unsere persönlichen Daten preisgeben, inklusive Scan des Personalausweises. Sogar der IFSC-Code der Bank wird verlangt – was auch immer das sein mag. Klingt doch seriös, oder? 🙃
+Prompt kommt die Antwort: Natürlich sollen wir uns auch hier einem digitalen Striptease unterziehen und all unsere persönlichen Daten preisgeben, inklusive Scan des Personalausweises. Sogar der IFSC-Code der Bank wird verlangt, was auch immer das sein mag. Klingt doch seriös, oder? 🙃
 
 > Hallo  
 >     Ich möchte Ihnen sehr dafür danken, dass Sie sich bezüglich des rechtlichen Verfahrens zur Spende an mich gewandt haben. Mein Name ist Elisabeth Massi und ich bin die Anwältin, die Herrn Simmons Schiavo Marco vertritt. Ich verstehe, dass Sie sich nach der Spende in Höhe von 1.000.000 € für wohltätige Zwecke erkundigen. Als Rechtsspezialistin bin ich hier, um Sie während des gesamten Rechtsverfahrens zu unterstützen und zu beraten. Ich möchte Sie darüber informieren, dass Herr Simmons Schiavo Marco die Spendengelder genehmigt hat, und ich verpflichte mich, sicherzustellen, dass alle erforderlichen rechtlichen Unterlagen vorhanden sind, um die reibungslose Überweisung der Mittel auf Ihr angegebenes Bankkonto nach Unterzeichnung der erforderlichen Dokumente zu ermöglichen. Bevor ich jedoch mit dem Verfahren fortfahre, möchte ich Sie um zusätzliche Informationen bitten, um sicherzustellen, dass alle rechtlichen Dokumente in Ordnung sind und alles gut geht. Bitte stellen Sie mir die folgenden Informationen zur   
@@ -209,7 +209,7 @@ Prompt kommt die Antwort: Natürlich sollen wir uns auch hier einem digitalen St
 
 ### Wir sind skeptisch
 
-Natürlich bleiben wir skeptisch. Höflich fragen wir nach einem offiziellen Nachweis – man will ja schließlich sicher sein, dass das großzügige Millionenangebot tatsächlich echt ist. Auch Hugo hält sich diesmal zurück und spielt den höflichen Interessenten. Mal sehen, wie überzeugend Frau Massi ihre Spendenabsichten untermauern kann. 😉
+Natürlich bleiben wir skeptisch. Höflich fragen wir nach einem offiziellen Nachweis, man will ja schließlich sicher sein, dass das großzügige Millionenangebot tatsächlich echt ist. Auch Hugo hält sich diesmal zurück und spielt den höflichen Interessenten. Mal sehen, wie überzeugend Frau Massi ihre Spendenabsichten untermauern kann. 😉
 
 > Sehr geehrte Frau Massi,  
 >   
@@ -221,17 +221,17 @@ Natürlich bleiben wir skeptisch. Höflich fragen wir nach einem offiziellen Nac
 
 ### Wir antworten dem guten Simmons
 
-Auch dem guten Simmons schreiben wir zurück – höflich, aber mit der richtigen Portion Hugo-Charme. Schließlich wollen wir sicherstellen, dass dieses großzügige Millionenprojekt auch wirklich Hand und Fuß hat. Und natürlich lassen wir uns dabei nicht nehmen, nach einem offiziellen Nachweis zu fragen. 
+Auch dem guten Simmons schreiben wir zurück, höflich, aber mit der richtigen Portion Hugo-Charme. Schließlich wollen wir sicherstellen, dass dieses großzügige Millionenprojekt auch wirklich Hand und Fuß hat. Und natürlich lassen wir uns dabei nicht nehmen, nach einem offiziellen Nachweis zu fragen. 
 
-Man will ja schließlich wissen, wo die versprochenen Millionen herkommen – wir sind ja nicht von gestern! 😏
+Man will ja schließlich wissen, wo die versprochenen Millionen herkommen, wir sind ja nicht von gestern! 😏
 
 > Ey Herr Schiavo Marco,  
 >   
-> erstmal Respekt für die fetten Worte und die guten Wünsche – so viel Liebe kriegt man ja nicht mal zu Weihnachten! Ich hab mich natürlich direkt bei Ihrer Anwältin gemeldet, ganz seriös und mit feiner Sprache – glauben Sie mir, selbst Goethe hätte applaudiert.  
+> erstmal Respekt für die fetten Worte und die guten Wünsche, so viel Liebe kriegt man ja nicht mal zu Weihnachten! Ich hab mich natürlich direkt bei Ihrer Anwältin gemeldet, ganz seriös und mit feiner Sprache, glauben Sie mir, selbst Goethe hätte applaudiert.  
 >   
 > Aber mal Butter bei die Fische: Bevor wir hier mit Ihrem Millionen-Projekt loslegen, müssen wir noch ein paar Sachen klären. Ich mein, bei so einer Riesennummer will ich schon sicher sein, dass alles sauber läuft. Können Sie oder Ihre Anwältin mir was Offizielles schicken, so ein Papier, das die Spende bestätigt und zeigt, wo die Kohle herkommt? Wäre Bombe!  
 >   
-> Bin gespannt, was da noch geht – lassen Sie uns zusammen was Großes reißen!  
+> Bin gespannt, was da noch geht, lassen Sie uns zusammen was Großes reißen!  
 >   
 > Beste Grüße aus’m Herzen von Wanne-Eickel,  
 > Ihr Hugo  
@@ -259,15 +259,15 @@ Unsere Skepsis bleibt unerschütterlich, auch wenn Frau Massi versucht, uns mit 
 
 ### Wir wollen Kontakt mit Rudolf!
 
-Ein Screenshot als Beweis? Nee, damit geben wir uns nicht zufrieden. Hugo will’s genau wissen und fordert den direkten Draht zu Rudolf ein – WhatsApp-Nummer inklusive. Schließlich klärt man so was am besten persönlich, oder?
+Ein Screenshot als Beweis? Nee, damit geben wir uns nicht zufrieden. Hugo will’s genau wissen und fordert den direkten Draht zu Rudolf ein, WhatsApp-Nummer inklusive. Schließlich klärt man so was am besten persönlich, oder?
 
 > Ey Frau Massi,    
 >   
-> erstmal Respekt für den Screenshot, das sieht ja richtig amtlich aus! Der gute Rudolf hat also seine Mille kassiert – läuft bei ihm! Aber Sie wissen ja, man will immer auf Nummer sicher gehen.    
+> erstmal Respekt für den Screenshot, das sieht ja richtig amtlich aus! Der gute Rudolf hat also seine Mille kassiert, läuft bei ihm! Aber Sie wissen ja, man will immer auf Nummer sicher gehen.    
 >   
 > Könnten Sie mir vielleicht Rudolfs WhatsApp-Nummer schicken? Würd mich echt mal interessieren, wie er so drauf ist und ob das alles wirklich so easy gelaufen ist. Ist ja auch für mich wichtig, wenn ich hier in die große Millionärsrunde einsteige, dass ich weiß, worauf ich mich einlasse.    
 >   
-> Also, her mit der Nummer – wir klären das mal direkt mit dem Kollegen!    
+> Also, her mit der Nummer, wir klären das mal direkt mit dem Kollegen!    
 >   
 > Beste Grüße aus’m Pott,    
 > Ihr Hugo    

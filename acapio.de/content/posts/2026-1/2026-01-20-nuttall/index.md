@@ -1,5 +1,5 @@
 ---
-title: "Goldene Felgen für den Dackel 🐶✨ – Hugo vs. die Lotto-Scammer"
+title: "Goldene Felgen für den Dackel 🐶✨, Hugo vs. die Lotto-Scammer"
 params:
   author: Andy
 date: "2026-01-20"
@@ -11,16 +11,16 @@ categories:
   - "Scam"
 thumbnail: "evil_badger.webp"
 url: "posts/2026-01-20-nuttall"
-summary: "Sie wurden ausgewählt für £1.000.000!“ 📧 Eine plumpe Scam-Mail landet bei Hugo. Statt sie zu löschen, wittert er goldene Felgen für den BMW – und schreibt zurück."
+summary: "Sie wurden ausgewählt für £1.000.000!“ 📧 Eine plumpe Scam-Mail landet bei Hugo. Statt sie zu löschen, wittert er goldene Felgen für den BMW, und schreibt zurück."
 ---
 
-Sie wurden ausgewählt für £1.000.000!“ 📧 Eine plumpe Scam-Mail landet bei Hugo. Statt sie zu löschen, wittert er goldene Felgen für den BMW – und schreibt zurück.
+Sie wurden ausgewählt für £1.000.000!“ 📧 Eine plumpe Scam-Mail landet bei Hugo. Statt sie zu löschen, wittert er goldene Felgen für den BMW, und schreibt zurück.
 
 ## Die E-Mail von knana_mil@foxmail.com
 
 Man muss schon sagen: Seriöser geht es kaum! 🎩✨ 
 
-Der Absender `knana_mil@foxmail.com` schreit förmlich nach internationaler Hochfinanz und aristokratischer Wohltätigkeit. Wer kennt sie nicht, die exklusiven Bankiers, die ihre Milliarden-Geschäfte über chinesische Freemail-Anbieter (`foxmail`) abwickeln? Das klingt für den Laien vielleicht nach Spam, aber für Hugo klingt das nach **„Fuchs“** – und Füchse sind bekanntlich schlau. 🦊🧠
+Der Absender `knana_mil@foxmail.com` schreit förmlich nach internationaler Hochfinanz und aristokratischer Wohltätigkeit. Wer kennt sie nicht, die exklusiven Bankiers, die ihre Milliarden-Geschäfte über chinesische Freemail-Anbieter (`foxmail`) abwickeln? Das klingt für den Laien vielleicht nach Spam, aber für Hugo klingt das nach **„Fuchs“**, und Füchse sind bekanntlich schlau. 🦊🧠
 
 > Gute Nachrichten!  
 >   
@@ -29,11 +29,11 @@ Der Absender `knana_mil@foxmail.com` schreit förmlich nach internationaler Hoch
 > Mit freundlichen Grüßen  
 > Das Team von Richard & Debbie Nuttall  
 
-Und dann dieser Betreff: „Gute Nachrichten!“ – Kurz, knackig, präzise. Keine unnötigen Details, keine persönliche Anrede, einfach nur pure Freude. So kommunizieren Profis.
+Und dann dieser Betreff: „Gute Nachrichten!“, Kurz, knackig, präzise. Keine unnötigen Details, keine persönliche Anrede, einfach nur pure Freude. So kommunizieren Profis.
 
 Besonders vertrauenserweckend ist auch das „Team von Richard & Debbie Nuttall“. Man stellt sich sofort ein Hochglanz-Büro in London vor, wo Dutzende Assistenten in Anzügen nichts anderes tun, als wildfremden Leuten in Wanne-Eickel Geld hinterherzuwerfen. 
 
-Hier ist der erklärende Absatz – er verbindet die nackten Fakten mit dem nötigen Sarkasmus und erklärt die psychologische Falle dahinter.
+Hier ist der erklärende Absatz, er verbindet die nackten Fakten mit dem nötigen Sarkasmus und erklärt die psychologische Falle dahinter.
 
 ## Wer sind Richard & Debbie Nuttall?
 
@@ -52,7 +52,7 @@ Es ist der perfekte psychologische Trick, um Vertrauen zu erschleichen.
 
 Prioritäten müssen sein. ☝️ Hugo wittert zwar das große Geld, aber der Dienstagabend ist heilig. Das Bier wird warm, die Kumpels im Vereinsheim warten und Hansi muss dringend Gassi. Für lange Höflichkeitsfloskeln fehlt schlichtweg die Zeit.
 
-Also haut er schnell in die Tasten – mit der diplomatischen Eleganz eines tiefergelegten Auspuffs. 🏎️💨
+Also haut er schnell in die Tasten, mit der diplomatischen Eleganz eines tiefergelegten Auspuffs. 🏎️💨
 
 > Mahlzeit ihr zwei! 🍻  
 >   

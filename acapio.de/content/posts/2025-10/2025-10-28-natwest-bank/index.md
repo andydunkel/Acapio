@@ -1,5 +1,5 @@
 ---
-title: "10 Millionen Dollar vom Premierminister – NatWest verteilt wieder Liebe per Gmail"
+title: "10 Millionen Dollar vom Premierminister, NatWest verteilt wieder Liebe per Gmail"
 params:
   author: Andy
 date: "2025-10-28"
@@ -15,9 +15,9 @@ summary: "Breaking News: Die britische Regierung, die UNO und die Weltbank haben
 ---
 
 Breaking News: Die britische Regierung, die UNO und die Weltbank haben beschlossen, mir **10 Millionen Dollar** zu schenken! 🎉
-Zumindest laut einer E-Mail von *Mrs. Katie Murray*, angeblich CFO der NatWest Bank – mit einer Gmail-Adresse.
+Zumindest laut einer E-Mail von *Mrs. Katie Murray*, angeblich CFO der NatWest Bank, mit einer Gmail-Adresse.
 Da weiß man sofort: Das wird wieder ein Klassiker.
-Ein bisschen Weltbank, ein bisschen Verschwörung – und am Ende nur heiße Luft aus London Bridge.
+Ein bisschen Weltbank, ein bisschen Verschwörung, und am Ende nur heiße Luft aus London Bridge.
 
 ## Die E-Mail der NATWEST BANK PLC
 
@@ -60,17 +60,17 @@ Die E-Mail, wie immer lang, ausführlich und auf englisch!
 > My private email: bnatwest82@gmail.com  
 
 
-## Warum das Betrug ist – kurz & knackig
+## Warum das Betrug ist, kurz & knackig
 
-* **Freemail statt Firmendomain**: „CFO“ schreibt von **bnatwest82@gmail.com** – niemals professionell.
+* **Freemail statt Firmendomain**: „CFO“ schreibt von **bnatwest82@gmail.com**, niemals professionell.
 * **UN/World Bank-Story**: Klassiker in Scams; echte Institutionen zahlen keine „Entschädigungen“ per Mail aus.
-* **Geheime „Online-Account“-Eröffnung**: Sie „richten ein Konto für dich ein“, angeblich damit „keine Agency es merkt“ – reine Datenernte.
-* **Druck & Deadline**: „innerhalb 3 Arbeitstagen“ – typischer Druckaufbau.
-* **Datenabfrage**: Vollständige Adresse, Telefon, Beruf + **zweite Mail (Gmail/Hotmail)** – genau die Beute, die Betrüger wollen.
-* **Verbotsformel**: „Kommuniziere mit niemandem sonst“ – Isolation ist ein rotes Tuch.
-* **Sprache & Formfehler**: „United **Nation**“, „Tell=“, holprige Grammatik – keine seriöse Bankkommunikation.
-* **Pseudo-Formalitäten**: „RC: 121878“, „Our Ref…“ ohne echte Prüf- oder Kontaktmöglichkeiten – Blendwerk.
-* **Kein persönlicher Bezug**: Weder Name noch konkrete Vorgänge – Massenmail.
+* **Geheime „Online-Account“-Eröffnung**: Sie „richten ein Konto für dich ein“, angeblich damit „keine Agency es merkt“, reine Datenernte.
+* **Druck & Deadline**: „innerhalb 3 Arbeitstagen“, typischer Druckaufbau.
+* **Datenabfrage**: Vollständige Adresse, Telefon, Beruf + **zweite Mail (Gmail/Hotmail)**, genau die Beute, die Betrüger wollen.
+* **Verbotsformel**: „Kommuniziere mit niemandem sonst“, Isolation ist ein rotes Tuch.
+* **Sprache & Formfehler**: „United **Nation**“, „Tell=“, holprige Grammatik, keine seriöse Bankkommunikation.
+* **Pseudo-Formalitäten**: „RC: 121878“, „Our Ref…“ ohne echte Prüf- oder Kontaktmöglichkeiten, Blendwerk.
+* **Kein persönlicher Bezug**: Weder Name noch konkrete Vorgänge, Massenmail.
 * **Unrealistische Summe**: 10 Mio. USD für Fremde per E-Mail? Niemals.
 
 
@@ -80,7 +80,7 @@ Natürlich hat sich auch unser **Scholz vom BMW-Club Wanne-Eickel** nicht zweima
 
 Zwar ist sein Englisch etwas… sagen wir *handwerklich geprägt*, aber dafür kommt er direkt zur Sache.
 
-Er möchte wissen, **warum ausgerechnet er** jetzt 10 Millionen Dollar bekommen soll – schließlich besitzt er weder ein Unternehmen noch einen Königstitel, sondern maximal einen Grill und einen gepflegten 3er BMW.
+Er möchte wissen, **warum ausgerechnet er** jetzt 10 Millionen Dollar bekommen soll, schließlich besitzt er weder ein Unternehmen noch einen Königstitel, sondern maximal einen Grill und einen gepflegten 3er BMW.
 
 > Hello Mrs Katie,  
 >   

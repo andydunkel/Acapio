@@ -1,5 +1,5 @@
 ---
-title: "Finanzbetrug im Namen der Investition – Ein Blick hinter die Kulissen"
+title: "Finanzbetrug im Namen der Investition, Ein Blick hinter die Kulissen"
 params:
   author: Andy
 date: "2025-02-10"
@@ -14,15 +14,15 @@ url: "posts/2025-02-10_norton-finance-ltd"
 summary: "Immer wieder tauchen dubiose Investoren auf, die Unternehmen und Start-ups mit **hohen Geldsummen und traumhaften Konditionen** ködern wollen."
 ---
 
-Immer wieder tauchen dubiose Investoren auf, die Unternehmen und Start-ups mit **hohen Geldsummen und traumhaften Konditionen** ködern wollen. Wer würde ein Angebot von **100% Finanzierung, 6,5% Zinsen und weltweiter Investitionsfreiheit** ablehnen? Klingt zu gut, um wahr zu sein – und genau das ist es meistens auch.  
+Immer wieder tauchen dubiose Investoren auf, die Unternehmen und Start-ups mit **hohen Geldsummen und traumhaften Konditionen** ködern wollen. Wer würde ein Angebot von **100% Finanzierung, 6,5% Zinsen und weltweiter Investitionsfreiheit** ablehnen? Klingt zu gut, um wahr zu sein, und genau das ist es meistens auch.  
 
 Dieses Mal haben wir es nicht bei einer Warnung belassen, sondern sind mit unserer Fake-Identität auf die Anfrage eingegangen. Das Ziel? **Herausfinden, wie der Scam funktioniert und wie weit die Betrüger gehen.**
 
 ## Die E-Mail von Norton Financial Services - steve.robertnfg@gmail.com
 
-Und da war sie – die Goldene Gans unter den Investment-Angeboten! 🎉 Ein unbekannter **Steven Robert** (mit einer **Gmail-Adresse**, versteht sich) von der **weltberühmten Norton Financial Services Limited** möchte unser bahnbrechendes Projekt **vollständig finanzieren**.  
+Und da war sie, die Goldene Gans unter den Investment-Angeboten! 🎉 Ein unbekannter **Steven Robert** (mit einer **Gmail-Adresse**, versteht sich) von der **weltberühmten Norton Financial Services Limited** möchte unser bahnbrechendes Projekt **vollständig finanzieren**.  
 
-Ganz egal, **wo** wir sind, **was** wir tun oder **ob unser Business nur aus einer PowerPoint-Folie besteht** – er ist bereit, zu investieren! Kein mühsames Pitching, keine Investoren-Runden, keine lästigen Finanzprüfungen. Stattdessen: **6,5% Zinsen, 100% Finanzierung und garantiert keine Fragen!**  
+Ganz egal, **wo** wir sind, **was** wir tun oder **ob unser Business nur aus einer PowerPoint-Folie besteht**, er ist bereit, zu investieren! Kein mühsames Pitching, keine Investoren-Runden, keine lästigen Finanzprüfungen. Stattdessen: **6,5% Zinsen, 100% Finanzierung und garantiert keine Fragen!**  
 
 Man fragt sich fast: **Warum spielt Steven Robert nicht in der Champions League der Finanzwelt?** Mit solchen Angeboten könnte er doch locker Elon Musk aus dem Markt drängen!  
 
@@ -30,9 +30,9 @@ Doch leider gibt es ein paar klitzekleine Ungereimtheiten:
 - **Die Website fehlt.** Nichts zu finden über „Norton Financial Services Limited“.  
 - **Die E-Mail-Adresse ist... naja, sagen wir mal „suboptimal“.** Kein „@nortonfinance.com“, sondern ein nettes kleines Gmail-Konto.  
 - **Die Investitionsbedingungen?** Keine. Einfach „Schick uns was und wir werfen Geld auf dich!“  
-- **Der ROI-Versuch:** 10% Rendite? Wir hätten auch 50% reinschreiben können – Steven hätte trotzdem angebissen.  
+- **Der ROI-Versuch:** 10% Rendite? Wir hätten auch 50% reinschreiben können, Steven hätte trotzdem angebissen.  
 
-Mit anderen Worten: **Steven Robert ist entweder der großzügigste Mensch auf diesem Planeten – oder ein ganz gewöhnlicher Scammer, der auf naive Opfer hofft.**  
+Mit anderen Worten: **Steven Robert ist entweder der großzügigste Mensch auf diesem Planeten, oder ein ganz gewöhnlicher Scammer, der auf naive Opfer hofft.**  
 
 > Hello,
 >  
@@ -52,11 +52,11 @@ Mit anderen Worten: **Steven Robert ist entweder der großzügigste Mensch auf d
 
 ## **Wir sind interessiert!**
 
-Natürlich klingt eine **100% Finanzierung ohne Fragen** verlockend – also zeigen wir Interesse.  
+Natürlich klingt eine **100% Finanzierung ohne Fragen** verlockend, also zeigen wir Interesse.  
 
-JetRide, ein bahnbrechendes **Ride-Sharing-Startup mit KI, Afrika-Expansion und Berliner Partner**, passt perfekt in das Portfolio von Mr. Robert. Mit **12% AROI in 24 Monaten** und einer bald startenden App sind die Zahlen beeindruckend – vielleicht **zu beeindruckend**.  
+JetRide, ein bahnbrechendes **Ride-Sharing-Startup mit KI, Afrika-Expansion und Berliner Partner**, passt perfekt in das Portfolio von Mr. Robert. Mit **12% AROI in 24 Monaten** und einer bald startenden App sind die Zahlen beeindruckend, vielleicht **zu beeindruckend**.  
 
-Dazu noch ein paar gezielte Fragen zur **Due Diligence und den Investitionsbedingungen** – mal sehen, wie professionell unser Investor wirklich ist.  
+Dazu noch ein paar gezielte Fragen zur **Due Diligence und den Investitionsbedingungen**, mal sehen, wie professionell unser Investor wirklich ist.  
 
 Jetzt heißt es abwarten: **Gibt es eine Antwort oder geht’s direkt zur „Bearbeitungsgebühr“?** 😏
 
@@ -78,18 +78,18 @@ Jetzt heißt es abwarten: **Gibt es eine Antwort oder geht’s direkt zur „Bea
 >   
 > Best regards,    
 > Ahmet    
-> Founder & CEO – JetRide Mobility    
+> Founder & CEO, JetRide Mobility    
 
 
-## Die Millionen fließen – oder doch nicht?
+## Die Millionen fließen, oder doch nicht?
 
-Bingo! Die Antwort kam schnell – und sie ist genau das, was man von einem **erstklassigen Fake-Investor** erwarten würde. **10 Millionen Dollar Mindestkredit? Kein Problem!** Branche? Egal – ob wir eine **Goldmine, ein KI-Startup oder eine Pinguin-Farm** finanzieren wollen, sie sind dabei! Und das Beste: **Kein Eigenkapital nötig!**  
+Bingo! Die Antwort kam schnell, und sie ist genau das, was man von einem **erstklassigen Fake-Investor** erwarten würde. **10 Millionen Dollar Mindestkredit? Kein Problem!** Branche? Egal, ob wir eine **Goldmine, ein KI-Startup oder eine Pinguin-Farm** finanzieren wollen, sie sind dabei! Und das Beste: **Kein Eigenkapital nötig!**  
 
-Natürlich gibt es ein paar „Kleinigkeiten“ zu beachten. Erstmal müssen wir eine **Verschwiegenheitserklärung (NDA)** unterschreiben – weil man bei solch **hochseriösen Deals** nicht möchte, dass Außenstehende mitbekommen, wie großzügig hier Millionen verteilt werden. Danach sollen wir einen **Antrag ausfüllen und möglichst viele Dokumente schicken**, denn ihre **„vollständige Transparenz“** bedeutet offenbar, dass **wir erst alles preisgeben müssen, bevor sie irgendwas über sich verraten**.  
+Natürlich gibt es ein paar „Kleinigkeiten“ zu beachten. Erstmal müssen wir eine **Verschwiegenheitserklärung (NDA)** unterschreiben, weil man bei solch **hochseriösen Deals** nicht möchte, dass Außenstehende mitbekommen, wie großzügig hier Millionen verteilt werden. Danach sollen wir einen **Antrag ausfüllen und möglichst viele Dokumente schicken**, denn ihre **„vollständige Transparenz“** bedeutet offenbar, dass **wir erst alles preisgeben müssen, bevor sie irgendwas über sich verraten**.  
 
 Klingt fair, oder? 😏  
 
-Aber Moment mal… könnte es sein, dass am Ende doch noch **eine kleine Bearbeitungsgebühr** auf uns zukommt? Vielleicht nur ein winziger Betrag – sagen wir, **50.000 Dollar** – um „administrative Kosten“ zu decken? 
+Aber Moment mal… könnte es sein, dass am Ende doch noch **eine kleine Bearbeitungsgebühr** auf uns zukommt? Vielleicht nur ein winziger Betrag, sagen wir, **50.000 Dollar**, um „administrative Kosten“ zu decken? 
 
 > Dear, Mr.   
 > Please find below our funding criteria:  
@@ -119,15 +119,15 @@ Aber Moment mal… könnte es sein, dass am Ende doch noch **eine kleine Bearbei
 > Also, a funding application form is attached for you to fill out and return for processing.  
 > Thank you,  
 
-## Das ominöse „Finanzierungsformular“ – Ein Datensammler par excellence
+## Das ominöse „Finanzierungsformular“, Ein Datensammler par excellence
 
-Und da war es: das **offizielle Finanzierungsformular**! Ein Dokument von beeindruckender **Seriosität** – oder zumindest ein Sammelsurium an **persönlichen Daten, die ein Betrügerherz höherschlagen lassen**.  
+Und da war es: das **offizielle Finanzierungsformular**! Ein Dokument von beeindruckender **Seriosität**, oder zumindest ein Sammelsurium an **persönlichen Daten, die ein Betrügerherz höherschlagen lassen**.  
 
 Wir sollen also brav unsere **Passnummer, Adresse, Telefonnummer, Firmeninfos und sogar einen „Verwandten, der nicht mit uns zusammenwohnt“** angeben. Warum? **Vermutlich, weil Steven Robert sichergehen will, dass auch Tante Erna aus Buxtehude von diesem tollen Deal erfährt.**  
 
-Noch besser: **Rechtsanwalt-Daten** werden ebenfalls abgefragt – vermutlich für spätere „Bearbeitungsgebühren“ oder einen hochseriösen **„notariellen Stempel“ für nur 50.000 Dollar**.  
+Noch besser: **Rechtsanwalt-Daten** werden ebenfalls abgefragt, vermutlich für spätere „Bearbeitungsgebühren“ oder einen hochseriösen **„notariellen Stempel“ für nur 50.000 Dollar**.  
 
-Ach ja, die **finanziellen Details**? Die scheinen nicht so wichtig zu sein. Keine Fragen zu **Sicherheiten, Unternehmenszahlen oder wirtschaftlicher Tragfähigkeit** – nur eine **Zahl für den Kreditbetrag und die gewünschte Währung**.  
+Ach ja, die **finanziellen Details**? Die scheinen nicht so wichtig zu sein. Keine Fragen zu **Sicherheiten, Unternehmenszahlen oder wirtschaftlicher Tragfähigkeit**, nur eine **Zahl für den Kreditbetrag und die gewünschte Währung**.  
 
 ![](/posts/2025-02-11_norton-finance-ltd/formular.webp)
 
@@ -149,4 +149,4 @@ Da uns das ganze etwas viel Arbeit ist, lassen wir die Arbeit durch ChatGPT erst
 >   
 > Best regards,    
 > Ahmet Kuran    
-> Founder & CEO – JetRide Mobility    
+> Founder & CEO, JetRide Mobility    

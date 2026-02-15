@@ -36,9 +36,9 @@ Auf den ersten Blick wirkt die E-Mail wie das Drehbuch eines schlechten Ganovenf
 
 ### Fazit für die Leser
 
-Das Einzige, was an dieser Geschichte „echt“ ist, ist der Versuch, an Ihre Daten oder Ihr Geld zu kommen. Wer auf die Nachricht antwortet, wird schnell zur Kasse gebeten – etwa für angebliche „Aktivierungsgebühren“ oder „Zollkosten“.
+Das Einzige, was an dieser Geschichte „echt“ ist, ist der Versuch, an Ihre Daten oder Ihr Geld zu kommen. Wer auf die Nachricht antwortet, wird schnell zur Kasse gebeten, etwa für angebliche „Aktivierungsgebühren“ oder „Zollkosten“.
 
-**Unser Rat:** Solche E-Mails gehören ungelesen in den digitalen Schredder. Es gibt keine Blanko-Karten, die gratis Geld ausspucken – außer vielleicht in Monopoly. 🎲🏦
+**Unser Rat:** Solche E-Mails gehören ungelesen in den digitalen Schredder. Es gibt keine Blanko-Karten, die gratis Geld ausspucken, außer vielleicht in Monopoly. 🎲🏦
 
 ---
 
@@ -72,7 +72,7 @@ Die Antwort aus der Spam-Zentrale ist da, und man muss sagen: Die Herrschaften h
 * **Unsichtbar für Kameras:** Die Karte ist so krass programmiert, dass sie angeblich von Überwachungskameras nicht erfasst werden kann. Basti fragt sich, ob man dann beim Geldabheben auch automatisch einen Tarnumhang trägt oder ob einfach die Linse am Bankomaten vor Ehrfurcht erblindet. 👻📸
 * **Der Express-Service:** In den USA dauert die Lieferung zwei Tage, im Rest der Welt zwei bis drei. Dass die Post in Wien manchmal schon für einen Brief aus dem Nachbarbezirk länger braucht, scheint den „Ingenieuren“ nicht bekannt zu sein. 🚀📬
 * **Die magische Software:** Nur sechs Stunden dauert die „spurenlose Softwareinstallation“. Das ist beeindruckend, wenn man bedenkt, dass die Karte angeblich einen „unentdeckbaren Chip“ hat, der weltweit jeden Geldautomaten austrickst. 🤖✨
-* **Logik-Loch:** Besonders schön ist die Frage im FAQ: „Wie haben Sie meine Post gefunden?“ – die Antwort darauf bleiben sie uns schuldig. Wahrscheinlich ist die Antwort darauf auch „unentdeckbar“. 🤷‍♂️❓
+* **Logik-Loch:** Besonders schön ist die Frage im FAQ: „Wie haben Sie meine Post gefunden?“, die Antwort darauf bleiben sie uns schuldig. Wahrscheinlich ist die Antwort darauf auch „unentdeckbar“. 🤷‍♂️❓
 
 > Sehr geehrter Antragsteller,  
 >   
@@ -120,13 +120,13 @@ Die Antwort der Betrüger ist da und liest sich wie ein schlechter Science-Ficti
 
 * **Die Technik:** Unsichtbare Chips, die angeblich an jedem Geldautomaten weltweit funktionieren.
 * **Der Clou:** Die Karte soll für Überwachungskameras völlig „unfassbar“ sein. Basti fragt sich, ob er beim Abheben dann auch für die Polizei unsichtbar wird. 👻
-* **Das Versprechen:** 5.000 € täglich – einfach so, ohne Spuren.
+* **Das Versprechen:** 5.000 € täglich, einfach so, ohne Spuren.
 
 **Bastis nächster Schritt:** Er hat die „Preisfrage“ gestellt. Denn eines ist sicher: Umsonst gibt es bei diesen Cyber-Wohltätern höchstens die Rechtschreibfehler in der E-Mail. 💸
 
 > Hallo zusammen,  
 >   
-> das klingt ja wirklich nach echter Raumfahrt-Technik! Dass die Karte vor Kameras unsichtbar ist, finde ich besonders praktisch – dann muss ich mir beim Abheben wenigstens keine Sorgen um mein Outfit machen. Und wenn die Lieferung nach Wien wirklich nur drei Tage dauert, wäre das ja schneller als jede Paketlieferung, die ich bisher im Lager erlebt habe.  
+> das klingt ja wirklich nach echter Raumfahrt-Technik! Dass die Karte vor Kameras unsichtbar ist, finde ich besonders praktisch, dann muss ich mir beim Abheben wenigstens keine Sorgen um mein Outfit machen. Und wenn die Lieferung nach Wien wirklich nur drei Tage dauert, wäre das ja schneller als jede Paketlieferung, die ich bisher im Lager erlebt habe.  
 >   
 > Aber jetzt mal im Ernst: Umsonst macht der Herr Ingenieur die ganze Arbeit sicher nicht, oder? Wenn da täglich 5.000 Euro aus dem Automaten purzeln, hat das Ganze sicher seinen Preis.  
 >   
@@ -142,7 +142,7 @@ Die „Ingenieure“ haben die Katze aus dem Sack gelassen. Wer dachte, die Hilf
 
 * **Das „Einsteiger-Paket“:** 50.000 € Guthaben für **699 €** Vorkasse.
 * **Die Luxus-Variante:** 1 Million € für schlappe **10.900 €**.
-* **Lustiges Detail:** Die 3-Millionen-Karte ist „derzeit nicht verfügbar“ – wahrscheinlich ist das magische Plastik gerade ausverkauft. 📉
+* **Lustiges Detail:** Die 3-Millionen-Karte ist „derzeit nicht verfügbar“, wahrscheinlich ist das magische Plastik gerade ausverkauft. 📉
 
 > Guten Tag,  
 >   
@@ -230,7 +230,7 @@ Anscheinend hat „Godstime“ vergeblich auf den Geldeingang gewartet. Trotz un
 
 > Okay. Schicken Sie uns Ihre WhatsApp-Nummer, damit wir Ihnen schnellstmöglich antworten können.
 
-**Bastis Fazit:** „Meine Nummer? Sicher nicht! Sonst rufen die mich noch im Lager an, während ich gerade Brotzeit mache. Dass das Geld nicht ankommt, liegt wohl an der ‚unentdeckbaren Software‘ – oder einfach daran, dass wir sie an der Nase herumführen.“ 🐩🚫
+**Bastis Fazit:** „Meine Nummer? Sicher nicht! Sonst rufen die mich noch im Lager an, während ich gerade Brotzeit mache. Dass das Geld nicht ankommt, liegt wohl an der ‚unentdeckbaren Software‘, oder einfach daran, dass wir sie an der Nase herumführen.“ 🐩🚫
 
 ---
 
@@ -238,11 +238,11 @@ Anscheinend hat „Godstime“ vergeblich auf den Geldeingang gewartet. Trotz un
 
 Da die Scammer unbedingt auf WhatsApp wechseln wollen (mehr Druck, weniger Filter), zieht Basti die Notbremse. Er serviert ihnen die klassische Ausrede vom strengen Chef im Lager, der private Handys sofort mit einer Abmahnung bestraft.
 
-Gleichzeitig spielt er den unschuldigen Kunden: „Das Geld ist doch laut Beleg raus – warum hakt es denn bei euch?“
+Gleichzeitig spielt er den unschuldigen Kunden: „Das Geld ist doch laut Beleg raus, warum hakt es denn bei euch?“
 
 > Hallo,  
 >   
-> mit WhatsApp ist das bei mir im Lager leider ganz schwierig. Mein Chef ist da extrem streng und passt auf wie ein Schießhund – wenn er mich mit dem Privathandy in der Hand sieht, habe ich sofort eine Abmahnung am Hals. Wir müssen also bitte hier per E-Mail schreiben, das kann ich zwischendurch am Computer im Büro erledigen.  
+> mit WhatsApp ist das bei mir im Lager leider ganz schwierig. Mein Chef ist da extrem streng und passt auf wie ein Schießhund, wenn er mich mit dem Privathandy in der Hand sieht, habe ich sofort eine Abmahnung am Hals. Wir müssen also bitte hier per E-Mail schreiben, das kann ich zwischendurch am Computer im Büro erledigen.  
 >   
 > Aber sagen Sie mal: Wo genau liegt denn jetzt das Problem? Ich habe Ihnen den Beleg von der Bank doch geschickt. Das Geld müsste doch schon längst bei Herrn Godstime auf dem Konto in Irland angekommen sein, oder etwa nicht?  
 >   
@@ -256,7 +256,7 @@ Das Spiel ist aus! Die Scammer haben unseren Braten gerochen, und die Stimmung k
 
 ### Phase 1: Die höfliche Ungeduld ⏳
 
-In der ersten Mail versuchen sie es noch mit professioneller Zurückhaltung. „Das Geld ist noch nicht da“, schreiben sie – wahrscheinlich während sie alle fünf Minuten die Seite ihres irischen Prepaid-Kontos aktualisieren. Dass Basti kein WhatsApp hat, finden sie zwar schade, aber die Gier nach den 699 Euro lässt sie noch freundlich bleiben.
+In der ersten Mail versuchen sie es noch mit professioneller Zurückhaltung. „Das Geld ist noch nicht da“, schreiben sie, wahrscheinlich während sie alle fünf Minuten die Seite ihres irischen Prepaid-Kontos aktualisieren. Dass Basti kein WhatsApp hat, finden sie zwar schade, aber die Gier nach den 699 Euro lässt sie noch freundlich bleiben.
 
 > ich habe gerade Ihre E-Mail erhalten.   
 >   
@@ -278,9 +278,9 @@ Plötzlich schaltet sich der mysteriöse „Zustelldienst“ ein. Das ist ein kl
 >   
 > Ich hoffe, bald von Ihnen zu hören.  
 
-### Phase 3: Die Maske fällt – „Halten Sie mich für dumm?“ 👺
+### Phase 3: Die Maske fällt, „Halten Sie mich für dumm?“ 👺
 
-Jetzt wird es lustig! In der dritten Mail platzt dem „Ingenieur“ der Kragen. Die Erkenntnis, dass sie von einem Lagerarbeiter aus Wien an der Nase herumgeführt wurden, schmerzt offenbar. Die Frage „Halten Sie mich für dumm?“ ist die Krönung der Ironie – wer versucht, „unsichtbare Bankkarten“ zu verkaufen, sollte mit solchen Fragen vorsichtig sein. Basti hat das Duell gewonnen: Die Scammer sind entlarvt und stinksauer.
+Jetzt wird es lustig! In der dritten Mail platzt dem „Ingenieur“ der Kragen. Die Erkenntnis, dass sie von einem Lagerarbeiter aus Wien an der Nase herumgeführt wurden, schmerzt offenbar. Die Frage „Halten Sie mich für dumm?“ ist die Krönung der Ironie, wer versucht, „unsichtbare Bankkarten“ zu verkaufen, sollte mit solchen Fragen vorsichtig sein. Basti hat das Duell gewonnen: Die Scammer sind entlarvt und stinksauer.
 
 > Guten Tag.  
 > Ich warte noch immer auf Ihre Antwort bezüglich der von Ihnen überwiesenen Kosten. Halten Sie mich für dumm???   
@@ -353,13 +353,13 @@ Nach der rührenden Entschuldigung der Scammer lässt Basti sich (scheinbar) bre
 >   
 > na gut, Entschuldigung angenommen. Ich war schon kurz davor, die Sache abzublasen, aber ich verstehe ja, dass wir alle nur Menschen sind und man mal gestresst ist.  
 >   
-> Dass es am Verwendungszweck lag, ergibt natürlich Sinn – mein Bankberater ist da manchmal echt pingelig. Ich werde morgen früh direkt noch mal zur Bank gehen und die Überweisung mit 'Freunde und Familie' neu anstoßen. Dann sollte das Geld ja fix bei Herrn Godstime sein.  
+> Dass es am Verwendungszweck lag, ergibt natürlich Sinn, mein Bankberater ist da manchmal echt pingelig. Ich werde morgen früh direkt noch mal zur Bank gehen und die Überweisung mit 'Freunde und Familie' neu anstoßen. Dann sollte das Geld ja fix bei Herrn Godstime sein.  
 >   
 > Ich melde mich, sobald ich vom Schalter zurück bin!  
 >   
 > Beste Grüße, Basti  
 
-Wir lassen die „Ingenieure“ in dem Glauben, dass der große Zahltag kurz bevorsteht – ein klassisches Beispiel dafür, wie man Scammer so lange wie möglich hinhält, damit sie in dieser Zeit keine echten Opfer abkassieren können. 🕵️‍♂️⏳
+Wir lassen die „Ingenieure“ in dem Glauben, dass der große Zahltag kurz bevorsteht, ein klassisches Beispiel dafür, wie man Scammer so lange wie möglich hinhält, damit sie in dieser Zeit keine echten Opfer abkassieren können. 🕵️‍♂️⏳
 
 Bis dahin hoffen wir, dass der E-Mail-Anbieter den Account sperrt!
 
@@ -369,7 +369,7 @@ Das ist das perfekte Ende für unseren Krimi! Hier ist der passende Text für de
 
 ## Aus die Maus, die E-Mail-Adresse der Scammer wird gesperrt!
 
-Manchmal gewinnt eben doch die Gerechtigkeit – oder in diesem Fall: die Security-Abteilung. Nachdem Basti die „Ingenieure“ lange genug hingehalten hat, kam die erlösende Nachricht von Proton.
+Manchmal gewinnt eben doch die Gerechtigkeit, oder in diesem Fall: die Security-Abteilung. Nachdem Basti die „Ingenieure“ lange genug hingehalten hat, kam die erlösende Nachricht von Proton.
 
 Ein großes Lob geht an das Team von **Proton Mail**. Auf unsere Abuse-Meldung wurde blitzschnell reagiert. Das Unternehmen zeigt damit Kante gegen Cyberkriminalität und beweist, dass verschlüsselte Kommunikation kein Freifahrtschein für Betrüger ist. Die Antwort war kurz und schmerzlos:
 

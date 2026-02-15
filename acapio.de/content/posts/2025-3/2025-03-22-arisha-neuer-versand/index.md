@@ -14,19 +14,19 @@ url: "posts/2025-03-22_arisha-schuch-asucargo"
 summary: "Neues von Arisha, die alte Fake-Webseite von Fexpresscargo wurde geschlossen, die neue geht online: asucargo.com."
 ---
 
-## Mission: Geldkoffer – oder wie Arisha Hwee Schuch mich fast zum Millionär machte
+## Mission: Geldkoffer, oder wie Arisha Hwee Schuch mich fast zum Millionär machte
 
-Es gibt Scams – und es gibt *Premium*-Scams. Und ganz ehrlich: Der hier hat fast Hollywood-Format. Hauptrolle: **Arisha Hwee Schuch**, angeblich tapfere US-Soldatin, derzeit "streng geheim" in Syrien stationiert. 
+Es gibt Scams, und es gibt *Premium*-Scams. Und ganz ehrlich: Der hier hat fast Hollywood-Format. Hauptrolle: **Arisha Hwee Schuch**, angeblich tapfere US-Soldatin, derzeit "streng geheim" in Syrien stationiert. 
 
-Arisha hat genug vom Kriegsalltag. Was sie will? Raus aus dem Schlamassel. Was sie hat? Einen Koffer voll Geld. Und was sie braucht? Na klar – *mich*! Oder dich. Oder irgendwen mit einer funktionierenden E-Mail-Adresse und einem Hang zur Leichtgläubigkeit.
+Arisha hat genug vom Kriegsalltag. Was sie will? Raus aus dem Schlamassel. Was sie hat? Einen Koffer voll Geld. Und was sie braucht? Na klar, *mich*! Oder dich. Oder irgendwen mit einer funktionierenden E-Mail-Adresse und einem Hang zur Leichtgläubigkeit.
 
-Der Plan: Ich soll den Geldkoffer in Empfang nehmen. Einfach so. Kein Haken. Naja, fast. Denn der Koffer fliegt natürlich nicht gratis um die Welt – da gibt’s noch "ein paar kleine Gebühren". Aber keine Sorge: Es gibt sogar eine eigens gebastelte Versand-Webseite mit Sendungsverfolgung! Seriöser geht’s ja wohl kaum.
+Der Plan: Ich soll den Geldkoffer in Empfang nehmen. Einfach so. Kein Haken. Naja, fast. Denn der Koffer fliegt natürlich nicht gratis um die Welt, da gibt’s noch "ein paar kleine Gebühren". Aber keine Sorge: Es gibt sogar eine eigens gebastelte Versand-Webseite mit Sendungsverfolgung! Seriöser geht’s ja wohl kaum.
 
 Wenn man schon übers Ohr gehauen wird, dann bitte *mit Stil*, oder?
 
 ## Bisherige Abenteuer mit Arisha
 
-Wer glaubt, das war schon alles – weit gefehlt! Unsere Heldin mit dem Herz aus Gold (und dem Koffer voller Cash) hat bereits mehrfach ihren Auftritt auf unserer Bühne gehabt. Hier die bisherigen Kapitel aus der *Scam-Saga Arisha*:
+Wer glaubt, das war schon alles, weit gefehlt! Unsere Heldin mit dem Herz aus Gold (und dem Koffer voller Cash) hat bereits mehrfach ihren Auftritt auf unserer Bühne gehabt. Hier die bisherigen Kapitel aus der *Scam-Saga Arisha*:
 
 - 🕵️‍♂️ [Investigativ: Der Scam der Arisha Schuch und Fexpresscargo](https://acapio.de/posts/2025-02-21_arisha-schuch-hintergruende/)  
   Hintergründe zum Scam.
@@ -35,7 +35,7 @@ Wer glaubt, das war schon alles – weit gefehlt! Unsere Heldin mit dem Herz aus
   Unser Lokalheld Hugo trifft auf Diplomatengepäck und ganz viel Scam-Energie. Ein Duell für die Ewigkeit.
 
 - 💸 [Millionen aus Syrien? Das Märchen der Arisha Hwee Schuch mit dem großen Herz und den großen Koffern](https://acapio.de/posts/2024-12-31-millions-from-syria/)  
-  Die romantische Variante: Liebe, Krieg, Geld – und alles komplett erfunden.
+  Die romantische Variante: Liebe, Krieg, Geld, und alles komplett erfunden.
  
 
 ## Die neue Webseite: asucargo.com
@@ -71,16 +71,16 @@ Natürlich ließ unsere liebe Arisha den Webseitenwechsel nicht unkommentiert. S
 >   
 > Ich freue mich auf Ihre Antwort.  
 
-Wer da nicht dahinschmilzt, hat kein Herz! Danach folgt der Hinweis, dass alle Sendungen (a.k.a. Fantasie-Geldkoffer) nun bei der *ASU-Frachtgesellschaft* in den *Vereinigten Arabischen Emiraten* liegen. Dort kümmert sich ein gewisser **Herr Abdul Mohammed**, der offenbar nicht nur Betriebsleiter ist, sondern auch mehrere E-Mail-Adressen gleichzeitig verwaltet – von seriös bis *@gmail.com*. Klingt total glaubwürdig.
+Wer da nicht dahinschmilzt, hat kein Herz! Danach folgt der Hinweis, dass alle Sendungen (a.k.a. Fantasie-Geldkoffer) nun bei der *ASU-Frachtgesellschaft* in den *Vereinigten Arabischen Emiraten* liegen. Dort kümmert sich ein gewisser **Herr Abdul Mohammed**, der offenbar nicht nur Betriebsleiter ist, sondern auch mehrere E-Mail-Adressen gleichzeitig verwaltet, von seriös bis *@gmail.com*. Klingt total glaubwürdig.
 
-Kurz gesagt: Neuer Name, gleiche Masche. Aber mit ganz viel Gefühl. Arisha bleibt eben professionell – in allen Bereichen.
+Kurz gesagt: Neuer Name, gleiche Masche. Aber mit ganz viel Gefühl. Arisha bleibt eben professionell, in allen Bereichen.
 
 
 ## Fazit: Neues Spiel, altes Scam
 
-Ob *fexpresscargo.com*, *asucargo.com* oder morgen vielleicht *superseriousmilitaryshipment.org* – der Kern bleibt derselbe: Eine rührselige Geschichte, ein imaginärer Geldkoffer und Gebühren, die angeblich alles regeln, außer dein Bankkonto.
+Ob *fexpresscargo.com*, *asucargo.com* oder morgen vielleicht *superseriousmilitaryshipment.org*, der Kern bleibt derselbe: Eine rührselige Geschichte, ein imaginärer Geldkoffer und Gebühren, die angeblich alles regeln, außer dein Bankkonto.
 
-Die Masche ist nicht neu, aber sie wird mit viel Liebe zum Detail neu verpackt. Mit Webseiten, Versandnummern, „Betriebsleitern“ und emotionaler Ansprache – da wird selbst ein DHL-Zusteller neidisch.
+Die Masche ist nicht neu, aber sie wird mit viel Liebe zum Detail neu verpackt. Mit Webseiten, Versandnummern, „Betriebsleitern“ und emotionaler Ansprache, da wird selbst ein DHL-Zusteller neidisch.
 
-Also: Augen auf im E-Mail-Verkehr. Wenn dir eine US-Soldatin schreibt, die zwischen zwei Bombenangriffen mal eben Millionen verschicken will, dann klick nicht auf „Antworten“, sondern lieber auf „Weiterleiten“ – an uns. Hugo freut sich schon.
+Also: Augen auf im E-Mail-Verkehr. Wenn dir eine US-Soldatin schreibt, die zwischen zwei Bombenangriffen mal eben Millionen verschicken will, dann klick nicht auf „Antworten“, sondern lieber auf „Weiterleiten“, an uns. Hugo freut sich schon.
 

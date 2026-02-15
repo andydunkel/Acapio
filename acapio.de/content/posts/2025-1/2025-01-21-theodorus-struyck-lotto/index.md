@@ -11,16 +11,16 @@ categories:
     - "Scam"
 thumbnail: "business_scam.webp"
 url: "posts/2025-01-21_theodorus-struyck-lotto"
-summary: "Ein Lotto-Millionär, der sein Glück teilt? Theodorus Struyck verspricht uns eine großzügige Spende von 1,5 Millionen Euro – doch ist das wirklich zu schön, um wahr zu sein?"
+summary: "Ein Lotto-Millionär, der sein Glück teilt? Theodorus Struyck verspricht uns eine großzügige Spende von 1,5 Millionen Euro, doch ist das wirklich zu schön, um wahr zu sein?"
 ---
 
-Ein Lotto-Millionär, der sein Glück teilt? Theodorus Struyck verspricht uns eine großzügige Spende von 1,5 Millionen Euro – doch ist das wirklich zu schön, um wahr zu sein?
+Ein Lotto-Millionär, der sein Glück teilt? Theodorus Struyck verspricht uns eine großzügige Spende von 1,5 Millionen Euro, doch ist das wirklich zu schön, um wahr zu sein?
 
 Fun-Fact, der Name ist der Name eines [echten Gewinners](https://www.focus.de/panorama/welt/zwischen-reichtum-und-angst-nachbarn-eines-lottomilliardaers-fuerchten-entfuehrungsgefahr_id_259796551.html).
 
 ## Wenn der Lotto-Millionär plötzlich dein bester Freund wird
 
-Ach ja, wer kennt das nicht? Du checkst morgens deine E-Mails und – Überraschung! – ein großzügiger Lotto-Millionär will dir 1,5 Millionen Euro schenken. Einfach so, weil er dich mag. Klar, Theodorus Struyck und seine ominöse Gmail-Adresse klingen total vertrauenswürdig. Warum auch nicht? Schließlich regelt ein echter Milliardär seine Wohltätigkeit über eine Freemail-Adresse, oder?  
+Ach ja, wer kennt das nicht? Du checkst morgens deine E-Mails und, Überraschung!, ein großzügiger Lotto-Millionär will dir 1,5 Millionen Euro schenken. Einfach so, weil er dich mag. Klar, Theodorus Struyck und seine ominöse Gmail-Adresse klingen total vertrauenswürdig. Warum auch nicht? Schließlich regelt ein echter Milliardär seine Wohltätigkeit über eine Freemail-Adresse, oder?  
 
 > Wir freuen uns, Ihnen mitteilen zu können, dass Theodorus Struyck, 65, und Gruppen Ihnen und Ihrer Familie eine Spende in Höhe von €1,500,000.00. schenken. 
 > 
@@ -31,11 +31,11 @@ Ach ja, wer kennt das nicht? Du checkst morgens deine E-Mails und – Überrasch
 
 ## Hugo aus Wanne-Eickel: Immer bereit für den großen Coup
 
-Natürlich hat Hugo, unser Mann aus dem Pott, direkt auf die E-Mail reagiert – schließlich lässt man sich so ein Angebot nicht entgehen! Mit seiner ehrlichen Art und einem guten Schuss Ruhrpott-Charme bedankt er sich höflich beim „großzügigen“ Spender. Dabei lässt Hugo keinen Zweifel daran, dass er die 1,5 Millionen Euro gut gebrauchen könnte – nicht nur für sich und seine Familie, sondern auch für „wat Gutes“ in der Nachbarschaft.  
+Natürlich hat Hugo, unser Mann aus dem Pott, direkt auf die E-Mail reagiert, schließlich lässt man sich so ein Angebot nicht entgehen! Mit seiner ehrlichen Art und einem guten Schuss Ruhrpott-Charme bedankt er sich höflich beim „großzügigen“ Spender. Dabei lässt Hugo keinen Zweifel daran, dass er die 1,5 Millionen Euro gut gebrauchen könnte, nicht nur für sich und seine Familie, sondern auch für „wat Gutes“ in der Nachbarschaft.  
 
 > Hallo Herr Struyck,    
 >   
-> erstmal Respekt zu Ihrem Gewinn, dat is ja mal ne Nummer! So’n Jackpot, da träumt ja jeder von, ne? Und jetzt wollen Sie so großzügig wat abgeben – dat find ich stark, echt jetzt. Hier bei uns in Wanne-Eickel gibt's genug Leute, die sowas gut gebrauchen können.    
+> erstmal Respekt zu Ihrem Gewinn, dat is ja mal ne Nummer! So’n Jackpot, da träumt ja jeder von, ne? Und jetzt wollen Sie so großzügig wat abgeben, dat find ich stark, echt jetzt. Hier bei uns in Wanne-Eickel gibt's genug Leute, die sowas gut gebrauchen können.    
 >   
 > Ich bin natürlich interessiert, klar! Dat wäre ja ne Riesensache für mich und meine Familie. Und wenn dat auch noch hilft, hier wat Gutes zu tun, dann bin ich voll dabei. Sagen Sie mal, wie läuft dat denn jetzt ab? Was brauchen Sie von mir?    
 >   

@@ -1,5 +1,5 @@
 ---
-title: "Achtung, Unternehmer! EUTRADEREGISTER.EU will nur deine Unterschrift – und dein Geld"
+title: "Achtung, Unternehmer! EUTRADEREGISTER.EU will nur deine Unterschrift, und dein Geld"
 params:
   author: Andy
 date: "2025-10-15"
@@ -11,10 +11,10 @@ categories:
   - "Scam"
 thumbnail: "vertrag.webp"
 url: "posts/2025-10-15_trade-register"
-summary: "Wenn du dachtest, Bürokratie sei schon schlimm genug, dann kennst du *EUTRADEREGISTER.EU* noch nicht. Ein harmlos wirkendes Formular, ein freundliches „Updating is free of charge“ – und *zack!* bist du stolzer Besitzer eines dreijährigen Premium-Abos für nur 1.495 € im Jahr.🦡💸"
+summary: "Wenn du dachtest, Bürokratie sei schon schlimm genug, dann kennst du *EUTRADEREGISTER.EU* noch nicht. Ein harmlos wirkendes Formular, ein freundliches „Updating is free of charge“, und *zack!* bist du stolzer Besitzer eines dreijährigen Premium-Abos für nur 1.495 € im Jahr.🦡💸"
 ---
 
-Wenn du dachtest, Bürokratie sei schon schlimm genug, dann kennst du *EUTRADEREGISTER.EU* noch nicht. Ein harmlos wirkendes Formular, ein freundliches „Updating is free of charge“ – und *zack!* bist du stolzer Besitzer eines dreijährigen Premium-Abos für nur 1.495 € im Jahr. 
+Wenn du dachtest, Bürokratie sei schon schlimm genug, dann kennst du *EUTRADEREGISTER.EU* noch nicht. Ein harmlos wirkendes Formular, ein freundliches „Updating is free of charge“, und *zack!* bist du stolzer Besitzer eines dreijährigen Premium-Abos für nur 1.495 € im Jahr. 
 
 ## Die E-Mail von contact@traderegister.info
 
@@ -60,17 +60,17 @@ Perfekt — hier ist der passende, sarkastisch-humorvolle **Abschnitt zur E-Mail
 
 ### 🕵️‍♂️ Analyse mit Augenzwinkern
 
-Klingt erstmal harmlos, oder? Eine nette, englisch formulierte E-Mail mit der freundlichen Einladung, die Firmendaten „kostenlos“ zu aktualisieren. Schließlich will man ja im *global directory of trusted business contacts* stehen – wer könnte da widerstehen?
+Klingt erstmal harmlos, oder? Eine nette, englisch formulierte E-Mail mit der freundlichen Einladung, die Firmendaten „kostenlos“ zu aktualisieren. Schließlich will man ja im *global directory of trusted business contacts* stehen, wer könnte da widerstehen?
 
 Aber schon beim zweiten Lesen merkt man:
 
-* Kein offizielles EU-Logo, dafür jede Menge **„Global“, „Register“ und „Trusted“** – klingt wichtig, ist aber so verbindlich wie eine Currywurstbude in Castrop-Rauxel.
-* Die Absenderadresse: *@traderegister.info* – weil „.eu“ oder „.europa.eu“ wahrscheinlich zu seriös gewesen wäre.
-* Und natürlich das Zauberwort: **„free of charge“** – das ist der Köder, mit dem schon viele Hamster ins Netz gegangen sind. 🐹💸
+* Kein offizielles EU-Logo, dafür jede Menge **„Global“, „Register“ und „Trusted“**, klingt wichtig, ist aber so verbindlich wie eine Currywurstbude in Castrop-Rauxel.
+* Die Absenderadresse: *@traderegister.info*, weil „.eu“ oder „.europa.eu“ wahrscheinlich zu seriös gewesen wäre.
+* Und natürlich das Zauberwort: **„free of charge“**, das ist der Köder, mit dem schon viele Hamster ins Netz gegangen sind. 🐹💸
 
 ## Das Formular
 
-Wer das Formular von **EUTRADEREGISTER.EU** öffnet, sieht auf den ersten Blick nur harmlose Felder: Firmenname, Adresse, Telefonnummer – alles ganz brav.
+Wer das Formular von **EUTRADEREGISTER.EU** öffnet, sieht auf den ersten Blick nur harmlose Felder: Firmenname, Adresse, Telefonnummer, alles ganz brav.
 Man denkt sich: *„Na klar, trage ich ein, kostet ja nix.“*
 
 ![PDF zum Ausfüllen des Vertrages](/posts/2025-10-15_trade-register/pdf.webp)
@@ -89,14 +89,14 @@ Im Formular steht das Ganze natürlich so charmant formuliert, dass man’s leic
 > *“The subscription will be automatically renewed unless cancelled in writing three months before the expiry date.”*
 
 Mit anderen Worten:
-Wer einmal unterschreibt, darf jedes Jahr wieder blechen – es sei denn, man schickt rechtzeitig einen **schriftlichen Widerruf nach Nirgendwo**.
+Wer einmal unterschreibt, darf jedes Jahr wieder blechen, es sei denn, man schickt rechtzeitig einen **schriftlichen Widerruf nach Nirgendwo**.
 
 ## Fazit: Wenn der Dachs lacht, sollte man misstrauisch werden 🦡
 
-Man könnte fast sagen: Hut ab, liebe Abzocker von **EUTRADEREGISTER.EU** – so elegant schafft es nicht jeder, aus einem langweiligen Formular einen 4.500-Euro-Zaubertrick zu machen.
+Man könnte fast sagen: Hut ab, liebe Abzocker von **EUTRADEREGISTER.EU**, so elegant schafft es nicht jeder, aus einem langweiligen Formular einen 4.500-Euro-Zaubertrick zu machen.
 Ein bisschen Englisch, ein bisschen Bürokratie-Flair, und schon flattert der Vertrag ins Postfach.
 
 Aber: Wer hinschaut, gewinnt. 👀
 Die E-Mail ist kein offizielles Schreiben der EU, sondern schlicht und einfach **eine perfide Geschäftemacherei**.
 
-Also: Finger weg vom PDF, Kaffee trinken, einmal laut lachen – und dann ab damit in den Papierkorb!
+Also: Finger weg vom PDF, Kaffee trinken, einmal laut lachen, und dann ab damit in den Papierkorb!

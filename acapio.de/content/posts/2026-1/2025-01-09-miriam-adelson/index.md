@@ -19,7 +19,7 @@ Wat is denn hier los? Da guckt man einmal ins Postfach und plötzlich will einem
 
 ## Die E-Mail von foundationmiriamadelson@gmail.com 🎰
 
-Da guckste dumm aus der Wäsche, oder? 😳 Da schreibt dir die echte **Miriam Adelson** – die Frau, der halb Las Vegas gehört – und will dir mal eben **3 Millionen Euro** rüberschieben. Einfach so! Weil Hugo in Wanne-Eickel so’n netter Kerl ist. 🎩✨
+Da guckste dumm aus der Wäsche, oder? 😳 Da schreibt dir die echte **Miriam Adelson**, die Frau, der halb Las Vegas gehört, und will dir mal eben **3 Millionen Euro** rüberschieben. Einfach so! Weil Hugo in Wanne-Eickel so’n netter Kerl ist. 🎩✨
 
 > Hallo,  
 >   
@@ -39,14 +39,14 @@ Da guckste dumm aus der Wäsche, oder? 😳 Da schreibt dir die echte **Miriam A
 **Aber Vorsicht: Hier wird geblufft!** 🃏
 
 * **Gmail-Adresse?** Ernsthaft? 😂 Eine Milliardärin nutzt kein kostenloses Google-Konto. Das ist, als würde der König von England seine Briefe auf Klopapier schreiben. 🧻
-* **Logik-Fehler:** Die gute Frau faselt was von ihren Plänen für **2025** – dabei haben wir schon **2026**! 📅 Da hat wohl jemand beim Kopieren der Scam-Vorlage gepennt. 😴
+* **Logik-Fehler:** Die gute Frau faselt was von ihren Plänen für **2025**, dabei haben wir schon **2026**! 📅 Da hat wohl jemand beim Kopieren der Scam-Vorlage gepennt. 😴
 * **Der Wiki-Trick:** Nur weil ein Link zu Wikipedia dabei ist, ist die Mail noch lange nicht echt. 🖱️ Jedes Kind kann einen Link kopieren, das macht den Absender nicht zum Millionär.
-* **Der Haken:** Wer antwortet, zahlt am Ende drauf. „Bearbeitungsgebühren“ hier, „Notarkosten“ da – am Ende ist deine Kohle weg und Miriam lacht sich ins Fäustchen (oder der Betrüger im Internetcafé). 💸🚫
+* **Der Haken:** Wer antwortet, zahlt am Ende drauf. „Bearbeitungsgebühren“ hier, „Notarkosten“ da, am Ende ist deine Kohle weg und Miriam lacht sich ins Fäustchen (oder der Betrüger im Internetcafé). 💸🚫
 
 
 ## Wer ist Miriam Adelson? 🎰👩‍ö💼
 
-Miriam Adelson ist im echten Leben keine Unbekannte: Sie ist eine milliardenschwere Ärztin, Witwe des Casino-Tycoons Sheldon Adelson und hält die Zügel beim Glücksspiel-Riesen **Las Vegas Sands** in der Hand. Wenn die Dame Geld verteilt, dann meistens im großen Stil für medizinische Forschung oder Politik – und garantiert nicht per Massen-Mail an Hugo nach Wanne-Eickel. 🏰💸
+Miriam Adelson ist im echten Leben keine Unbekannte: Sie ist eine milliardenschwere Ärztin, Witwe des Casino-Tycoons Sheldon Adelson und hält die Zügel beim Glücksspiel-Riesen **Las Vegas Sands** in der Hand. Wenn die Dame Geld verteilt, dann meistens im großen Stil für medizinische Forschung oder Politik, und garantiert nicht per Massen-Mail an Hugo nach Wanne-Eickel. 🏰💸
 
 **Warum schmücken sich die Scammer mit ihren Federn?** Ganz einfach:
 
@@ -72,7 +72,7 @@ Ich konnt’s mir nicht verkneifen! Hab der „Miriam“ direkt vom Tresen aus g
 Da haben wir’s! Der Klassiker: Erst auf „Gottes Werk“ machen und dann im nächsten Satz das monatliche Einkommen und die Religion abfragen. 😂 Dass eine Multimilliardärin keine „komplizierten Formalitäten“ will, aber dafür wissen möchte, ob du ledig bist, ist natürlich ganz großes Kino.
 
 
-## Teil 2: Miriam wird religiös – Hugo soll die Hosen ausziehen! 💸🙏
+## Teil 2: Miriam wird religiös, Hugo soll die Hosen ausziehen! 💸🙏
 
 Leute, es wird immer doller! „Miriam“ hat geantwortet. Jetzt kommt die Nummer mit dem „gutherzigen Menschen“ und dass sie nach Gebeten ausgerechnet auf mich, Hugo aus Wanne, gekommen ist. Is klar! 😇
 
@@ -86,7 +86,7 @@ Aber jetzt will sie’s wissen: Name, Adresse, Beruf und sogar mein **monatliche
 
 > Hallo,  
 >   
-> vielen Dank für Ihre Nachricht. Machen Sie sich keine Gedanken darüber, warum ich Sie wegen dieser Spende kontaktiert habe – ich habe es aus reiner Überzeugung getan. Es war mir ein Anliegen, Ihnen zu schreiben, da Sie mich kontaktiert haben. Ich bin Miriam Adelson, amerikanische Geschäftsfrau, Investorin und Vorsitzende der Casino-Gruppe Las Vegas Sands. Ich habe mich entschieden, Ihnen 3.000.000,00 Euro zu spenden. Das Geld hat mein Leben und das meiner Familie verändert, aber nicht mein Herz. Meine Familie ist sehr bescheiden und wir unterstützen uns gegenseitig. Nach langen Gesprächen mit Geistlichen und Gebeten haben wir uns entschieden, Gottes Werk zu tun, indem wir einigen gutherzigen Menschen auf der Welt helfen. Ich möchte Ihnen nicht viel über mich erzählen, bin aber überglücklich. Ich wünsche Ihnen und Ihrer Familie, dass Sie genauso glücklich sind wie wir. Deshalb haben wir uns entschieden, Ihnen und Ihrer Familie 3.000.000,00 Euro zu spenden, um auch Menschen in Ihrer Umgebung zu unterstützen.  
+> vielen Dank für Ihre Nachricht. Machen Sie sich keine Gedanken darüber, warum ich Sie wegen dieser Spende kontaktiert habe, ich habe es aus reiner Überzeugung getan. Es war mir ein Anliegen, Ihnen zu schreiben, da Sie mich kontaktiert haben. Ich bin Miriam Adelson, amerikanische Geschäftsfrau, Investorin und Vorsitzende der Casino-Gruppe Las Vegas Sands. Ich habe mich entschieden, Ihnen 3.000.000,00 Euro zu spenden. Das Geld hat mein Leben und das meiner Familie verändert, aber nicht mein Herz. Meine Familie ist sehr bescheiden und wir unterstützen uns gegenseitig. Nach langen Gesprächen mit Geistlichen und Gebeten haben wir uns entschieden, Gottes Werk zu tun, indem wir einigen gutherzigen Menschen auf der Welt helfen. Ich möchte Ihnen nicht viel über mich erzählen, bin aber überglücklich. Ich wünsche Ihnen und Ihrer Familie, dass Sie genauso glücklich sind wie wir. Deshalb haben wir uns entschieden, Ihnen und Ihrer Familie 3.000.000,00 Euro zu spenden, um auch Menschen in Ihrer Umgebung zu unterstützen.  
 >   
 > Hier können Sie mehr erfahren: https://en.wikipedia.org/wiki/Miriam_Adelson  
 >   
@@ -118,11 +118,11 @@ Aber jetzt will sie’s wissen: Name, Adresse, Beruf und sogar mein **monatliche
 > Miriam Adelson  
 
 
-## Hugo geht aufs Ganze – Daten gegen Beweise! 📋🕵️‍♂️
+## Hugo geht aufs Ganze, Daten gegen Beweise! 📋🕵️‍♂️
 
-So Leute, Butter bei die Fische! Hugo hat der „Milliardärin“ jetzt mal das Futter hingeworfen, nach dem sie so gierig gegeiert hat. Name, Alter, der Job als Fahrer und seine Adresse in Hamburg – alles raus. 🚛💨
+So Leute, Butter bei die Fische! Hugo hat der „Milliardärin“ jetzt mal das Futter hingeworfen, nach dem sie so gierig gegeiert hat. Name, Alter, der Job als Fahrer und seine Adresse in Hamburg, alles raus. 🚛💨
 
-Aber wer glaubt, dass unser Hugo blauäugig ist, der kennt ihn schlecht! Er hat ihr direkt die Pistole auf die Brust gesetzt: **Ohne offizielles Dokument und Identitätsnachweis läuft hier gar nix.** Er hat sogar dezent seinen „Schwager beim Zoll“ erwähnt – ein Detail, das so ein Scammer wahrscheinlich so gerne liest wie eine Mängelkarte beim TÜV. 🧄🚫
+Aber wer glaubt, dass unser Hugo blauäugig ist, der kennt ihn schlecht! Er hat ihr direkt die Pistole auf die Brust gesetzt: **Ohne offizielles Dokument und Identitätsnachweis läuft hier gar nix.** Er hat sogar dezent seinen „Schwager beim Zoll“ erwähnt, ein Detail, das so ein Scammer wahrscheinlich so gerne liest wie eine Mängelkarte beim TÜV. 🧄🚫
 
 > Hallo Frau Adelson,  
 >   
@@ -150,7 +150,7 @@ Die Geschichte mit dem „Herrn Ralf Wohlgemuth“ ist ein uralter Trick. Das ne
 Hier ist die Analyse für deinen Blog:
 
 
-## Ralf Wohlgemuth und die „Trident Capital Bank“ – Jetzt wird’s wild! 🏦🕵️‍♂️
+## Ralf Wohlgemuth und die „Trident Capital Bank“, Jetzt wird’s wild! 🏦🕵️‍♂️
 
 Leute, haltet euch fest! „Miriam“ hat wieder geschrieben und zieht alle Register. Jetzt wird’s richtig emotional:
 
@@ -184,7 +184,7 @@ Leute, haltet euch fest! „Miriam“ hat wieder geschrieben und zieht alle Regi
 
 Hugo hat sich die Bank-Webseite mal genauer angeschaut. Ergebnis: Das Ding ist ein schlechter Witz! Es gibt offensichtlich ein **„Bank-Webseiten-Kit“ für Scammer**. Wir haben exakt dieses Design schon unter zig Namen wie „Centurion“ oder „Global Trust“ im Netz gesehen.
 
-Einfach den Namen oben links austauschen, ein paar Stockfotos von grinsenden Beratern dazu – fertig ist die Fake-Bank. Klickt man tiefer in die Menüs, landet man im Nichts. Wer hier seine Daten eingibt, glaubt auch, dass ein Manta mit Spoilern fliegen kann. 🏎️💨
+Einfach den Namen oben links austauschen, ein paar Stockfotos von grinsenden Beratern dazu, fertig ist die Fake-Bank. Klickt man tiefer in die Menüs, landet man im Nichts. Wer hier seine Daten eingibt, glaubt auch, dass ein Manta mit Spoilern fliegen kann. 🏎️💨
 
 ![](/posts/2025-01-09-miram-adelson/bank.webp)
 
@@ -194,11 +194,11 @@ Genug mit den Spielchen! Wir haben den Hoster der Fake-Bank kontaktiert und eine
 
 Mit dem Link zu unserem Blog als Beweis steht die „Trident Capital Bank“ jetzt hoffentlich kurz vor dem digitalen Aus. Mal sehen, wie schnell die IT-Abteilung reagiert und den Scammern den Saft abdreht! 🏎️💨
 
-Das ist ein Volltreffer, Hugo! 12 Stunden sind eine Ansage – da hat der Hoster nicht lange gefackelt. Hier ist der Absatz für deinen Blog, schön knackig und mit dem typischen Hugo-Unterton:
+Das ist ein Volltreffer, Hugo! 12 Stunden sind eine Ansage, da hat der Hoster nicht lange gefackelt. Hier ist der Absatz für deinen Blog, schön knackig und mit dem typischen Hugo-Unterton:
 
-## Update: Stecker gezogen – Hugo schickt die Bank in die Wüste! 🔌🌵
+## Update: Stecker gezogen, Hugo schickt die Bank in die Wüste! 🔌🌵
 
-Leute, das ging fix! Der Hoster hat innerhalb von 12 Stunden reagiert und die Webseite der „Trident Capital Bank“ komplett dichtgemacht. Wer die Seite jetzt aufruft, landet im digitalen Nichts. Ein fetter Sieg für die Gerechtigkeit – und für Hugos Seelenfrieden! 🏆
+Leute, das ging fix! Der Hoster hat innerhalb von 12 Stunden reagiert und die Webseite der „Trident Capital Bank“ komplett dichtgemacht. Wer die Seite jetzt aufruft, landet im digitalen Nichts. Ein fetter Sieg für die Gerechtigkeit, und für Hugos Seelenfrieden! 🏆
 
 Blöd gelaufen für die Scammer: Damit geht natürlich auch unsere E-Mail an die „Bank“ ins Leere. Aber keine Sorge, Hugo wäre nicht Hugo, wenn er das der guten Miriam nicht brühwarm unter die Nase reiben würde. „Hömma Miriam, deine Bank hat wohl die Stromrechnung nicht bezahlt...“ 😂
 
@@ -215,4 +215,4 @@ Tja, Leute, was soll ich sagen? Kaum war die Bank-Webseite offline, ist bei „M
 2. **Druck ist immer ein Warnsignal:** Wer dich drängt, schnell zu handeln, damit der „vierte Begünstigte“ dran kommt, will nur, dass du dein Hirn ausschaltest. 🏃‍♂️💨
 3. **Gegenwehr wirkt:** Wenn man den Hoster informiert, bricht das Kartenhaus schneller zusammen, als man „Pommes Schranke“ sagen kann. 🔌🔥
 
-Hugo bleibt also bei seinem ehrlichen Manta und der Currywurst – die 3 Millionen wären eh nur schlecht für den Charakter gewesen. Aber der Sieg gegen die Scammer? Der schmeckt besser als jedes Freibier! 🏆🌭
+Hugo bleibt also bei seinem ehrlichen Manta und der Currywurst, die 3 Millionen wären eh nur schlecht für den Charakter gewesen. Aber der Sieg gegen die Scammer? Der schmeckt besser als jedes Freibier! 🏆🌭

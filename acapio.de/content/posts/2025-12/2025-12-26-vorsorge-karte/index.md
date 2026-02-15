@@ -17,13 +17,13 @@ Wir dokumentieren unsere Erfahrung mit **vorsorge-karte.com** und erklären Schr
 ---
 
 Es beginnt mit einem kurzen Blick aufs Konto.
-Eine Abbuchung ist da – kein großer Betrag, aber groß genug, um stutzig zu machen. Der Name sagt einem nichts, ein Vertragsabschluss erst recht nicht. Trotzdem wurde Geld eingezogen.
+Eine Abbuchung ist da, kein großer Betrag, aber groß genug, um stutzig zu machen. Der Name sagt einem nichts, ein Vertragsabschluss erst recht nicht. Trotzdem wurde Geld eingezogen.
 
 Genau das ist uns passiert.
 
 Auf dem Kontoauszug taucht eine Zahlung mit Bezug zu **vorsorge-karte.com** auf. Weder erinnern wir uns an eine Bestellung, noch an eine bewusste Zustimmung zu einem kostenpflichtigen Vertrag. Keine Rechnung, keine klare Bestätigung, kein „Danke für Ihre Bestellung“.
 
-In diesem Artikel dokumentieren wir Schritt für Schritt, was bei uns passiert ist, wie wir reagiert haben und warum solche Abbuchungen kein Einzelfall sind. Ziel ist keine Panikmache, sondern Aufklärung – damit andere schneller erkennen, wann sie handeln sollten und welche Schritte sinnvoll sind.
+In diesem Artikel dokumentieren wir Schritt für Schritt, was bei uns passiert ist, wie wir reagiert haben und warum solche Abbuchungen kein Einzelfall sind. Ziel ist keine Panikmache, sondern Aufklärung, damit andere schneller erkennen, wann sie handeln sollten und welche Schritte sinnvoll sind.
 
 ---
 
@@ -31,7 +31,7 @@ In diesem Artikel dokumentieren wir Schritt für Schritt, was bei uns passiert i
 
 Auf dem Kontoauszug wirkt zunächst alles unspektakulär. Erst beim genaueren Hinsehen fallen die Details auf, die Fragen aufwerfen.
 
-Gebucht wurde der Betrag am **26.11.2025**, Wertstellung ebenfalls am selben Tag. Als Verwendungszweck erscheint unter anderem eine **KDNR/VK-Nummer** sowie die Angabe **vorsorge-karte.com**. Zusätzlich wird eine E-Mail-Adresse und eine Telefonnummer genannt – allerdings ohne jede vorherige Kommunikation oder Ankündigung.
+Gebucht wurde der Betrag am **26.11.2025**, Wertstellung ebenfalls am selben Tag. Als Verwendungszweck erscheint unter anderem eine **KDNR/VK-Nummer** sowie die Angabe **vorsorge-karte.com**. Zusätzlich wird eine E-Mail-Adresse und eine Telefonnummer genannt, allerdings ohne jede vorherige Kommunikation oder Ankündigung.
 
 Auffällig ist vor allem:
 Es gibt **keine Rechnung**, **keine Vertragsbestätigung** und **keinen klaren Hinweis**, wann und wie dieser angebliche Vertrag zustande gekommen sein soll. 
@@ -63,7 +63,7 @@ Hinter der Website **vorsorge-karte.com** steht ein kommerzielles Unternehmen mi
 
 Auffällig ist vor allem die komplexe Firmenkonstruktion mit mehreren Bezeichnungen, internationalen Verbindungen und formalen Angaben, die zwar Seriosität vermitteln sollen, für Verbraucher aber kaum einzuordnen sind. Wer genau Vertragspartner ist, welches Recht Anwendung findet und wie Ansprüche im Streitfall durchgesetzt werden können, erschließt sich nicht ohne weiteres.
 
-Gerade bei Angeboten rund um Vorsorge, Notfälle oder persönliche Daten ist eine solche Intransparenz aus unserer Sicht kritisch. Nutzer sollten in diesen Fällen besonders genau hinschauen, bevor sie einem kostenpflichtigen Angebot zustimmen – bewusst oder unbewusst.
+Gerade bei Angeboten rund um Vorsorge, Notfälle oder persönliche Daten ist eine solche Intransparenz aus unserer Sicht kritisch. Nutzer sollten in diesen Fällen besonders genau hinschauen, bevor sie einem kostenpflichtigen Angebot zustimmen, bewusst oder unbewusst.
 
 ---
 
@@ -75,4 +75,4 @@ Auch wenn die Website auf den ersten Blick formal wirkt und ein Impressum vorhan
 
 Unser wichtigster Rat lautet daher: **Kontoauszüge regelmäßig prüfen, unbekannte Abbuchungen nicht ignorieren und konsequent reagieren.** Eine Rückbuchung ist kein Schuldeingeständnis, sondern ein legitimes Mittel, wenn kein klarer Vertrag vorliegt.
 
-Dieser Artikel soll keine Panik verbreiten, sondern sensibilisieren. Wer informiert ist, kann schneller handeln – und genau das ist bei solchen Fällen entscheidend.
+Dieser Artikel soll keine Panik verbreiten, sondern sensibilisieren. Wer informiert ist, kann schneller handeln, und genau das ist bei solchen Fällen entscheidend.

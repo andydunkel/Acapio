@@ -1,5 +1,5 @@
 ---
-title: "Victor Chen und das Phantom-Erbe – Ein Privatdetektiv auf Abzocke"
+title: "Victor Chen und das Phantom-Erbe, Ein Privatdetektiv auf Abzocke"
 params:
   author: Andy
 date: "2025-02-24"
@@ -14,7 +14,7 @@ url: "posts/2025-02-24_victor-chen"
 summary: "Erbschaften sind eine heikle Sache. Wer würde nicht gerne plötzlich zu Reichtum kommen, dank eines entfernten Verwandten, von dem man noch nie gehört hat?"
 ---
 
-Erbschaften sind eine heikle Sache. Wer würde nicht gerne plötzlich zu Reichtum kommen, dank eines entfernten Verwandten, von dem man noch nie gehört hat? Genau auf diese Hoffnung setzen Betrüger – so wie in diesem Fall, in dem sich ein gewisser "Victor Chen" als Privatdetektiv ausgibt und mit einer angeblichen Erbschaft lockt.
+Erbschaften sind eine heikle Sache. Wer würde nicht gerne plötzlich zu Reichtum kommen, dank eines entfernten Verwandten, von dem man noch nie gehört hat? Genau auf diese Hoffnung setzen Betrüger, so wie in diesem Fall, in dem sich ein gewisser "Victor Chen" als Privatdetektiv ausgibt und mit einer angeblichen Erbschaft lockt.
 
 ## Die E-Mail von mail@hdxworkbench.com
 
@@ -35,7 +35,7 @@ Klingt spannend, oder? Ein unbekannter Verstorbener hinterlässt ein Vermögen, 
 
 ## Der klassische Erbschaftsbetrug
 
-Diese Art von Scam ist altbekannt: Betrüger geben vor, dass ein reicher Verwandter oder Bekannter gestorben sei und eine beachtliche Summe hinterlassen habe. Um das Geld zu "beanspruchen", soll man sich zurückmelden – und dann geht das Spiel los. Mal werden "Verwaltungsgebühren" verlangt, mal persönliche Daten erfragt, die für Identitätsdiebstahl genutzt werden könnten. Am Ende gibt es natürlich keine Erbschaft, sondern nur finanzielle Verluste für das Opfer.
+Diese Art von Scam ist altbekannt: Betrüger geben vor, dass ein reicher Verwandter oder Bekannter gestorben sei und eine beachtliche Summe hinterlassen habe. Um das Geld zu "beanspruchen", soll man sich zurückmelden, und dann geht das Spiel los. Mal werden "Verwaltungsgebühren" verlangt, mal persönliche Daten erfragt, die für Identitätsdiebstahl genutzt werden könnten. Am Ende gibt es natürlich keine Erbschaft, sondern nur finanzielle Verluste für das Opfer.
 
 ## hdxworkbench.com???
 
@@ -63,6 +63,6 @@ Anstatt die E-Mail direkt zu löschen, wollte ich herausfinden, wie weit der Bet
 
 ## Fazit: Vorsicht vor solchen Mails
 
-Noch ist unklar, wie die Betrugsmasche weitergeht, aber eines steht fest: Niemand erbt plötzlich ein Vermögen von einem unbekannten Verwandten. Wer eine solche Nachricht erhält, sollte skeptisch sein und keinesfalls persönliche Daten weitergeben oder Geld überweisen. Am besten: Ignorieren oder – wenn man Lust auf ein kleines Spiel hat – die Betrüger hinters Licht führen.
+Noch ist unklar, wie die Betrugsmasche weitergeht, aber eines steht fest: Niemand erbt plötzlich ein Vermögen von einem unbekannten Verwandten. Wer eine solche Nachricht erhält, sollte skeptisch sein und keinesfalls persönliche Daten weitergeben oder Geld überweisen. Am besten: Ignorieren oder, wenn man Lust auf ein kleines Spiel hat, die Betrüger hinters Licht führen.
 
 Ich halte euch auf dem Laufenden, wie es mit "Victor Chen" weitergeht!

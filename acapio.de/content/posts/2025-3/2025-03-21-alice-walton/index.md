@@ -25,7 +25,7 @@ Für alle, die gerade kurz googeln: Ja, Alice Walton gibt’s wirklich. Sie ist 
 
 Die E-Mail selbst ist ein Meisterwerk der internationalen Unterhaltungsliteratur. Schon der Satz „Ich möchte Ihnen 2 Millionen Euro schenken für die gute Arbeit des Herrn“ klingt wie ein schlecht synchronisierter Bibelfilm auf Tele5. M
 
-an kann förmlich sehen, wie der Übersetzungsroboter ins Schwitzen kam. Wer der ominöse „Herr“ ist, bleibt offen – vielleicht Gott, vielleicht der Paketbote, vielleicht auch einfach Horst aus der Buchhaltung. 
+an kann förmlich sehen, wie der Übersetzungsroboter ins Schwitzen kam. Wer der ominöse „Herr“ ist, bleibt offen, vielleicht Gott, vielleicht der Paketbote, vielleicht auch einfach Horst aus der Buchhaltung. 
 
 Und dann der Klassiker: Als Beweis ihrer Großzügigkeit schickt „Alice“ einen Link zu ihrem eigenen Wikipedia-Eintrag. Weil das macht man ja so, wenn man Geld verschenkt: erstmal kurz den Lebenslauf mitschicken.
 
@@ -43,44 +43,44 @@ Und dann der Klassiker: Als Beweis ihrer Großzügigkeit schickt „Alice“ ein
 
 ### 🎣 Die Masche dahinter
 
-Die Betrüger nutzen den Namen einer bekannten Persönlichkeit, um Vertrauen aufzubauen. Meistens folgt nach der ersten E-Mail ein langer Austausch mit angeblichen Treuhändern, Notaren oder Banken. Und dann – Überraschung – soll man erstmal eine **„Gebühr“, „Transaktionskosten“ oder „Zertifikatsausstellung“** bezahlen, bevor das Geld angeblich kommt.
+Die Betrüger nutzen den Namen einer bekannten Persönlichkeit, um Vertrauen aufzubauen. Meistens folgt nach der ersten E-Mail ein langer Austausch mit angeblichen Treuhändern, Notaren oder Banken. Und dann, Überraschung, soll man erstmal eine **„Gebühr“, „Transaktionskosten“ oder „Zertifikatsausstellung“** bezahlen, bevor das Geld angeblich kommt.
 
 Natürlich kommt es **nie**.
 
 ## Hugo antwortet!
 
-Weil wir natürlich wissen wollten, wie ernst es Alice meint, hat sich unser Mann fürs Grobe – **Hugo aus Wanne-Eickel** – der Sache angenommen. Direkt, ehrlich und mit einer Vision:
+Weil wir natürlich wissen wollten, wie ernst es Alice meint, hat sich unser Mann fürs Grobe, **Hugo aus Wanne-Eickel**, der Sache angenommen. Direkt, ehrlich und mit einer Vision:
 
 > Hallo Alice,  
 >   
-> erstmal Respekt, dass du mir einfach so 2 Millionen schenken willst. Ich mein, sowas passiert mir sonst nur beim Rubbellos an der Tanke – und da hab ich zuletzt ’nen halben Euro gewonnen und ’ne Blase am Daumen.  
+> erstmal Respekt, dass du mir einfach so 2 Millionen schenken willst. Ich mein, sowas passiert mir sonst nur beim Rubbellos an der Tanke, und da hab ich zuletzt ’nen halben Euro gewonnen und ’ne Blase am Daumen.  
 >   
-> Also: Ich bin Hugo, aus’m schönen Wanne-Eickel. Beruflich vielschichtig unterwegs – tagsüber Staplerfahrer, abends Grillmeister, nachts Träumer mit Ambitionen.  
+> Also: Ich bin Hugo, aus’m schönen Wanne-Eickel. Beruflich vielschichtig unterwegs, tagsüber Staplerfahrer, abends Grillmeister, nachts Träumer mit Ambitionen.  
 >   
-> Falls du’s ernst meinst mit der Kohle: Ich hab da schon paar Ideen. Erstmal neues Fahrwerk für meinen BMW E36, dann ’ne Pommesbude aufmachen („Alices heiße Fritte“ – zu deinen Ehren!) und vielleicht noch ’n Musikvideo mit Helene Fischer drehen, wenn’s Budget reicht.  
+> Falls du’s ernst meinst mit der Kohle: Ich hab da schon paar Ideen. Erstmal neues Fahrwerk für meinen BMW E36, dann ’ne Pommesbude aufmachen („Alices heiße Fritte“, zu deinen Ehren!) und vielleicht noch ’n Musikvideo mit Helene Fischer drehen, wenn’s Budget reicht.  
 >   
 > Aber sag mal: Wie läuft das jetzt konkret? Schickst du das Geld per DHL, Banküberweisung oder kommt da jemand mit’m Koffer?  
 >   
-> Freu mich auf deine Antwort. Und sag dem Herrn danke – für die gute Arbeit.  
+> Freu mich auf deine Antwort. Und sag dem Herrn danke, für die gute Arbeit.  
 >   
 > Mit solidarischen Grüßen aus’m Pott,    
 > Hugo (Millionär in Vorbereitung)  
 
 ## Die heilige Dreifaltigkeit des Scams: Alice, Gott und die Nationwide Bank
 
-Kaum hatte Hugo geantwortet, meldete sich Alice wieder – und diesmal so richtig dramatisch. Zwischen Pathos, Predigt und Überweisungstango wird schnell klar: Jetzt wird’s ernst. Denn Alice hat große Pläne – und **wenig Zeit**:
+Kaum hatte Hugo geantwortet, meldete sich Alice wieder, und diesmal so richtig dramatisch. Zwischen Pathos, Predigt und Überweisungstango wird schnell klar: Jetzt wird’s ernst. Denn Alice hat große Pläne, und **wenig Zeit**:
 
 > *„Ich möchte meine Wünsche erfüllen, bevor ich in einigen Monaten sterbe.“*
 
 Na dann, frohes Countdown-Zählen!
 
-Die gute Alice hat nämlich schon gehandelt: Ganze **3.800.000,00 €** (komisch, vorher waren’s noch 2 Mio?) hat sie auf ein Konto bei der **„Nationwide Bank“** gelegt – was verdächtig klingt wie ein erfundener Filialname aus einem B-Movie. Hugo soll sich jetzt direkt bei der Bank melden, und zwar mit allem Drum und Dran:
+Die gute Alice hat nämlich schon gehandelt: Ganze **3.800.000,00 €** (komisch, vorher waren’s noch 2 Mio?) hat sie auf ein Konto bei der **„Nationwide Bank“** gelegt, was verdächtig klingt wie ein erfundener Filialname aus einem B-Movie. Hugo soll sich jetzt direkt bei der Bank melden, und zwar mit allem Drum und Dran:
 
 - Vollständiger Name  
 - Adresse  
 - Kontodaten  
 - Und natürlich: **„ein funktionierender WhatsApp-Kontakt“**  
-  (Weil alle großen Finanzgeschäfte natürlich per WhatsApp laufen – eh klar!)
+  (Weil alle großen Finanzgeschäfte natürlich per WhatsApp laufen, eh klar!)
 
 Zwischendrin wird’s nochmal spirituell:
 
@@ -88,26 +88,26 @@ Zwischendrin wird’s nochmal spirituell:
 
 Gute Frage, Alice. Vielleicht erstmal mit Rechtschreibung anfangen, dann über Weltgewinne reden.
 
-Natürlich bittet sie Hugo ganz sanft, doch bitte sofort an die Bank zu schreiben – und **ihr parallel auch nochmal zu mailen, sobald er das getan hat**. Wahrscheinlich, damit sie im Hintergrund schnell ihre nächste Rolle vorbereitet – als „Bankmitarbeiter“, „Notar“, „Rechtsanwalt Dr. Bongo aus Zürich“ oder was auch immer gerade im Spam-Drehbuch steht.
+Natürlich bittet sie Hugo ganz sanft, doch bitte sofort an die Bank zu schreiben, und **ihr parallel auch nochmal zu mailen, sobald er das getan hat**. Wahrscheinlich, damit sie im Hintergrund schnell ihre nächste Rolle vorbereitet, als „Bankmitarbeiter“, „Notar“, „Rechtsanwalt Dr. Bongo aus Zürich“ oder was auch immer gerade im Spam-Drehbuch steht.
 
 ![Lange E-Mail](/posts/2025-03-21_alice-walton/mail.webp)
 
 Nagut, dann schreiben wir mal der Bank mit ein paar Fake-Daten und warten ab! 🫠
 
-## Die Bank meldet sich – mit Konto, Gebühren und Premium-Käse
+## Die Bank meldet sich, mit Konto, Gebühren und Premium-Käse
 
-Jetzt wird’s offiziell: Die **Nationwide Bank** hat sich gemeldet. Und sie ist voller Tatendrang – natürlich nur, wenn Hugo vorher ordentlich **Eintrittsgeld** bezahlt.
+Jetzt wird’s offiziell: Die **Nationwide Bank** hat sich gemeldet. Und sie ist voller Tatendrang, natürlich nur, wenn Hugo vorher ordentlich **Eintrittsgeld** bezahlt.
 
-Denn bevor die Millionen fließen, soll Hugo erstmal **ein Konto eröffnen**. Klar – was sind schon 1.000 bis 2.500 €, wenn man danach über Nacht Millionär wird, oder?
+Denn bevor die Millionen fließen, soll Hugo erstmal **ein Konto eröffnen**. Klar, was sind schon 1.000 bis 2.500 €, wenn man danach über Nacht Millionär wird, oder?
 
 Zur Auswahl stehen vier wunderschön erfundene Kontomodelle:
 
-- 🐌 **Sparkonto** – 1.000 €  
-- 🐢 **Girokonto** – 1.400 €  
-- 🏎️ **Premiumkonto** – 2.500 €  
-- 🧙 **Direktüberweisung auf dein Konto** – nur 1.300 € (Sonderangebot?)
+- 🐌 **Sparkonto**, 1.000 €  
+- 🐢 **Girokonto**, 1.400 €  
+- 🏎️ **Premiumkonto**, 2.500 €  
+- 🧙 **Direktüberweisung auf dein Konto**, nur 1.300 € (Sonderangebot?)
 
-Natürlich kann Hugo ganz bequem **per Banküberweisung oder Bitcoin** zahlen – weil, wie wir alle wissen, **seriöse Banken** IMMER gerne Bitcoin annehmen 🙃
+Natürlich kann Hugo ganz bequem **per Banküberweisung oder Bitcoin** zahlen, weil, wie wir alle wissen, **seriöse Banken** IMMER gerne Bitcoin annehmen 🙃
 
 Und dann noch dieser herrliche Satz:
 
@@ -118,7 +118,7 @@ Und dann noch dieser herrliche Satz:
 Aber damit’s richtig professionell wirkt, gibt’s natürlich auch noch:
 
 - Die Pflicht zur **Ausweiskopie** (damit später vielleicht noch Identitätsdiebstahl möglich ist)  
-- Einen freundlichen Hinweis, dass das Geld **nicht von der Spende abgezogen** werden kann, weil… *„versichert durch eine renommierte Versicherungsgesellschaft in den Vereinigten Staaten“* – natürlich. Mit Glitzer.
+- Einen freundlichen Hinweis, dass das Geld **nicht von der Spende abgezogen** werden kann, weil… *„versichert durch eine renommierte Versicherungsgesellschaft in den Vereinigten Staaten“*, natürlich. Mit Glitzer.
 
 > Grüße von der Bank.  
 >    
@@ -159,15 +159,15 @@ Damit wir auch gleich vertrauensseliger sind, gibt es noch ein hochwertiges PDF-
 
 ![Alles echt!](/posts/2025-03-21_alice-walton/certificate.webp)
 
-## Hugo bleibt bescheiden – Sparkonto muss reichen
+## Hugo bleibt bescheiden, Sparkonto muss reichen
 
 Der Premiumluxus mag verlockend sein, aber Hugo bleibt realistisch. Denn wer weiß besser als ein Mann aus Wanne-Eickel: Auch mit einem Sparkonto kann man glücklich werden. Und so schrieb er ganz pragmatisch zurück:
 
-> „Leider hab ich im Moment nicht so viel Geld auf der hohen Kante – das Premiumkonto ist für mich nicht drin. Ich nehm deshalb das Sparkonto für 1.000 €, das passt besser zu meinem Budget.“  
+> „Leider hab ich im Moment nicht so viel Geld auf der hohen Kante, das Premiumkonto ist für mich nicht drin. Ich nehm deshalb das Sparkonto für 1.000 €, das passt besser zu meinem Budget.“  
 >  
-> „Wenn’s möglich ist, würd ich den Betrag gerne in zwei Raten zahlen – 500 jetzt, 500 später. Geht das?“    
+> „Wenn’s möglich ist, würd ich den Betrag gerne in zwei Raten zahlen, 500 jetzt, 500 später. Geht das?“    
 
-Ein Mann mit Prinzipien. Statt in Bitcoin zu zahlen oder gleich das Premiumkonto zu buchen, bleibt Hugo bodenständig – und hofft, dass auch die **Nationwide Bank Zurück** sowas wie Menschlichkeit kennt.
+Ein Mann mit Prinzipien. Statt in Bitcoin zu zahlen oder gleich das Premiumkonto zu buchen, bleibt Hugo bodenständig, und hofft, dass auch die **Nationwide Bank Zurück** sowas wie Menschlichkeit kennt.
 
 Wir sind gespannt, ob die Bank auf Hugos Ratenzahlung eingeht.
 

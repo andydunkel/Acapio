@@ -11,10 +11,10 @@ categories:
     - "Scam"
 thumbnail: "iltis.webp"
 url: "posts/2025-01-26-barrister-clifford-jose"
-summary: "Ein vermeintlicher Anwalt behauptet, eine riesige Erbschaft in Höhe von 21 Millionen Dollar zu verwalten – doch dahinter steckt ein raffinierter Betrugsversuch."
+summary: "Ein vermeintlicher Anwalt behauptet, eine riesige Erbschaft in Höhe von 21 Millionen Dollar zu verwalten, doch dahinter steckt ein raffinierter Betrugsversuch."
 ---
 
-Ein vermeintlicher Anwalt behauptet, eine riesige Erbschaft in Höhe von 21 Millionen Dollar zu verwalten – doch dahinter steckt ein raffinierter Betrugsversuch. 
+Ein vermeintlicher Anwalt behauptet, eine riesige Erbschaft in Höhe von 21 Millionen Dollar zu verwalten, doch dahinter steckt ein raffinierter Betrugsversuch. 
 
 ## Wir erhalten eine E-Mail
 
@@ -27,7 +27,7 @@ Clifford Jose (mailsystemn@gmail.com) meldet sich und hat ein Investment mit uns
 
 Nach einem Virencheck öffneten wir das Dokument und fanden ein vermeintlich seriöses Schreiben eines "Barrister Clifford Jose". Er behauptet, ein unbeanspruchtes Vermögen von **21 Millionen Dollar** zu verwalten, dessen Besitzer bei einem Flugzeugabsturz starb. 
 
-Der Empfänger soll als Erbe auftreten und 40 % des Vermögens erhalten – ein klassischer Erbschaftsbetrug. Das Schreiben wirkt professionell, doch die Geschichte ist voller typischer Scam-Merkmale: emotionale Tragik, unrealistische Summen und ein verlockender Deal.
+Der Empfänger soll als Erbe auftreten und 40 % des Vermögens erhalten, ein klassischer Erbschaftsbetrug. Das Schreiben wirkt professionell, doch die Geschichte ist voller typischer Scam-Merkmale: emotionale Tragik, unrealistische Summen und ein verlockender Deal.
 
 ![Ein schickes Dokument](/posts/2025-01-26-barrister-clifford-jose/document.webp)
 
@@ -48,9 +48,9 @@ Hugo aus Wanne-Eickel, unser bodenständiger Profi, kann natürlich nicht widers
 
 ## Der gute Cliffor meldet sich
 
-Kaum hat Hugo aus Wanne-Eickel geantwortet, meldet sich unser angeblicher Anwalt Clifford Jose prompt zurück – höflich, detailliert und mit einem Hauch von Verbindlichkeit. 
+Kaum hat Hugo aus Wanne-Eickel geantwortet, meldet sich unser angeblicher Anwalt Clifford Jose prompt zurück, höflich, detailliert und mit einem Hauch von Verbindlichkeit. 
 
-In seinem Schreiben lobt er Hugos Interesse und betont, wie „legal“ und „unproblematisch“ die ganze Sache sei. Natürlich möchte er jetzt Hugos persönliche Daten – inklusive Passkopie. Ein klassischer Scam-Schachzug: Erst Vertrauen aufbauen, dann sensible Informationen abgreifen.  
+In seinem Schreiben lobt er Hugos Interesse und betont, wie „legal“ und „unproblematisch“ die ganze Sache sei. Natürlich möchte er jetzt Hugos persönliche Daten, inklusive Passkopie. Ein klassischer Scam-Schachzug: Erst Vertrauen aufbauen, dann sensible Informationen abgreifen.  
 
 
 > Clifford Jose Chamber   

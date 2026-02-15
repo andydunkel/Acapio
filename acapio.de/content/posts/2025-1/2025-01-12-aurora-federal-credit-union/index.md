@@ -1,5 +1,5 @@
 ---
-title: "Aurora Federal Credit Union Scam – 10 Millionen Gründe, warum ich plötzlich reich bin (und keiner davon stimmt!)"
+title: "Aurora Federal Credit Union Scam, 10 Millionen Gründe, warum ich plötzlich reich bin (und keiner davon stimmt!)"
 params:
   author: Andy
 date: "2025-01-11"
@@ -18,7 +18,7 @@ Es ist doch immer wieder erstaunlich, wie großzügig Banken, Regierungen und in
 
 Dieses Mal kommt die großzügige Geste angeblich von der „Aurora Federal Credit Union“, unterstützt von niemand Geringerem als der Weltbank und den Vereinten Nationen. 
 
-Natürlich will man nur Gutes tun, ein bisschen Korruption bekämpfen und nebenbei Ihre kompletten persönlichen Daten abgreifen. Aber keine Sorge – Sie müssen nur schnell reagieren, am besten über eine Gmail-Adresse oder WhatsApp. 
+Natürlich will man nur Gutes tun, ein bisschen Korruption bekämpfen und nebenbei Ihre kompletten persönlichen Daten abgreifen. Aber keine Sorge, Sie müssen nur schnell reagieren, am besten über eine Gmail-Adresse oder WhatsApp. 
 
 ## Die E-Mail
 
@@ -71,22 +71,22 @@ Natürlich will man nur Gutes tun, ein bisschen Korruption bekämpfen und nebenb
 
 ### Wir antworten
 
-Die Antwort geht natürlich an "fundreleaseapproval@gmail.com". Und weil wir uns als Hugo aus Wanne-Eickel ausgeben, darf der Tonfall nicht fehlen – schließlich kommt man mit einem lockeren Spruch immer weiter. Oder?  
+Die Antwort geht natürlich an "fundreleaseapproval@gmail.com". Und weil wir uns als Hugo aus Wanne-Eickel ausgeben, darf der Tonfall nicht fehlen, schließlich kommt man mit einem lockeren Spruch immer weiter. Oder?  
 
 > Hallo Frau Myers,  
 >   
-> 10 Millionen? Das klingt ja wie Weihnachten und Schalker Aufstieg zusammen! Aber pass auf, dicke, Englisch können wir hier im Pott nicht so richtig – schreib mal auf Deutsch, sonst versteh ich nur die Hälfte.  
+> 10 Millionen? Das klingt ja wie Weihnachten und Schalker Aufstieg zusammen! Aber pass auf, dicke, Englisch können wir hier im Pott nicht so richtig, schreib mal auf Deutsch, sonst versteh ich nur die Hälfte.  
 >   
 > Schick mir schon mal die ersten 1.000 Euro rüber, dann check ich, ob das klappt. Danach machen wir den Rest klar, okay? Nee im Ernst, wie geht es weiter?  
 >   
 > Grüße aus’m Ruhrpott,  
 > Hugo  
 
-Wenn das keine überzeugende Geschäftsanfrage ist, dann wissen wir auch nicht. Mal schauen, ob Frau Myers den Witz versteht – oder ob wir direkt ihre „Bearbeitungsgebühr“ von den angeblichen 10 Millionen verlangen sollen. Schließlich sind wir im Pott ja keine Anfänger, wenn’s ums Feilschen geht! 😄
+Wenn das keine überzeugende Geschäftsanfrage ist, dann wissen wir auch nicht. Mal schauen, ob Frau Myers den Witz versteht, oder ob wir direkt ihre „Bearbeitungsgebühr“ von den angeblichen 10 Millionen verlangen sollen. Schließlich sind wir im Pott ja keine Anfänger, wenn’s ums Feilschen geht! 😄
 
 ### Der nächste Schritt im Scam  
 
-Die Antwort der „Aurora Federal Credit Union“ war – wie erwartet – ein Versuch, möglichst viele persönliche Daten abzugreifen. Und natürlich mit dem obligatorischen Hinweis, dass alles „echt“ sei und man sich keine Sorgen machen müsse. Die Liste der verlangten Informationen liest sich wie der Traum eines jeden Identitätsdiebs: Vollständiger Name, Adresse, Bankdaten, Ausweiskopie – fehlt eigentlich nur noch die PIN der EC-Karte und die Lieblingspizza. 
+Die Antwort der „Aurora Federal Credit Union“ war, wie erwartet, ein Versuch, möglichst viele persönliche Daten abzugreifen. Und natürlich mit dem obligatorischen Hinweis, dass alles „echt“ sei und man sich keine Sorgen machen müsse. Die Liste der verlangten Informationen liest sich wie der Traum eines jeden Identitätsdiebs: Vollständiger Name, Adresse, Bankdaten, Ausweiskopie, fehlt eigentlich nur noch die PIN der EC-Karte und die Lieblingspizza. 
 
 Besonders charmant: Die nette „Buchhaltungsleiterin“ Beth Myers betont, dass man sie dringend über WhatsApp kontaktieren könne, falls Hilfe benötigt wird. Wenn das mal nicht seriös klingt... 😏  
 
@@ -128,7 +128,7 @@ E-Mail kommt von "fundreleaseapproval@gmail.com".
 
 ### Wir antworten erneut
 
-Die Antwort der „Aurora Federal Credit Union“ lässt keine Zweifel daran, dass wir es hier mit Profis zu tun haben – zumindest wenn es um die Sammlung von persönlichen Daten geht. Zeit, dass Hugo aus dem Pott noch eine Schippe drauflegt:
+Die Antwort der „Aurora Federal Credit Union“ lässt keine Zweifel daran, dass wir es hier mit Profis zu tun haben, zumindest wenn es um die Sammlung von persönlichen Daten geht. Zeit, dass Hugo aus dem Pott noch eine Schippe drauflegt:
 
 > Hallo Frau Myers,  
 >   
@@ -150,7 +150,7 @@ Die Antwort der „Aurora Federal Credit Union“ lässt keine Zweifel daran, da
 
 ## Kommt nicht so gut an!
 
-Beth Myers versteht offenbar keinen Spaß – oder unser guter Hugo ist ihr noch nicht suspekt genug. 
+Beth Myers versteht offenbar keinen Spaß, oder unser guter Hugo ist ihr noch nicht suspekt genug. 
 
 > ATTENTION:  
 >    
@@ -189,7 +189,7 @@ Hier ist der überarbeitete Text:
 
 ---
 
-## Das Dokument wird geliefert – direkt von der „US-Zentralbank“
+## Das Dokument wird geliefert, direkt von der „US-Zentralbank“
 
 Frau Myers schlägt plötzlich sanftere Töne an und legt ein offizielles Dokument vor, natürlich perfekt auf unseren Namen und das aktuelle Datum zugeschnitten. Janet Yellen persönlich, ihres Zeichens angeblich Leiterin des US-Treasury, bestätigt uns feierlich, dass die Kohle wirklich bereitsteht. Donnerwetter, wer könnte da noch zweifeln?
 
@@ -203,11 +203,11 @@ Selbstverständlich folgt direkt im Anschluss die erneute Forderung nach unseren
 
 ## Uwe hat immer recht!
 
-Die Spannung steigt, doch Hugo bleibt skeptisch – schließlich hat er Uwe an seiner Seite, und der ist bekanntlich der beste Berater in Sachen Geld und Verstand. Also antworten wir weiterhin mit der nötigen Mischung aus Ruhrpott-Charme und gezielter Verwirrung:  
+Die Spannung steigt, doch Hugo bleibt skeptisch, schließlich hat er Uwe an seiner Seite, und der ist bekanntlich der beste Berater in Sachen Geld und Verstand. Also antworten wir weiterhin mit der nötigen Mischung aus Ruhrpott-Charme und gezielter Verwirrung:  
 
 > **Hallo Frau Myers,**  
 >   
-> ich hab mir das Dokument genau angeschaut – Donnerwetter, sieht ja wirklich wichtig aus! Aber jetzt mal Butter bei die Fische: Warum braucht ihr so viele Daten? Mein Nachbar Uwe meinte, für eine Überweisung reichen doch Name und Kontonummer. Der hat nämlich neulich auch mal 10 Euro an seine Tante in Bottrop geschickt, und das ging ohne so viel Tamtam.  
+> ich hab mir das Dokument genau angeschaut, Donnerwetter, sieht ja wirklich wichtig aus! Aber jetzt mal Butter bei die Fische: Warum braucht ihr so viele Daten? Mein Nachbar Uwe meinte, für eine Überweisung reichen doch Name und Kontonummer. Der hat nämlich neulich auch mal 10 Euro an seine Tante in Bottrop geschickt, und das ging ohne so viel Tamtam.  
 >   
 > Außerdem hab ich noch eine Frage: Kann Janet Yellen mir vielleicht mal direkt schreiben? Ich meine, wenn sie das Dokument unterschrieben hat, kennt sie mich ja jetzt auch, oder? Ich würd sie gern mal fragen, wie lange so eine Überweisung dauert. Bei uns in Wanne-Eickel ist die Sparkasse manchmal echt lahm, wissen Sie?  
 >   
@@ -218,4 +218,4 @@ Die Spannung steigt, doch Hugo bleibt skeptisch – schließlich hat er Uwe an s
 >   
 > **P.S.:** Der Uwe sagt, er glaubt das erst, wenn das Geld wirklich da ist. Und Uwe hat immer recht!  
 
-Hugo weiß: Mit Uwe auf seiner Seite kann eigentlich nichts schiefgehen – außer vielleicht, dass Frau Myers langsam die Geduld verliert. Mal sehen, ob sie sich auf die 500-Euro-Testüberweisung einlässt. Schließlich ist Vertrauen ja wichtig... 😏  
+Hugo weiß: Mit Uwe auf seiner Seite kann eigentlich nichts schiefgehen, außer vielleicht, dass Frau Myers langsam die Geduld verliert. Mal sehen, ob sie sich auf die 500-Euro-Testüberweisung einlässt. Schließlich ist Vertrauen ja wichtig... 😏  

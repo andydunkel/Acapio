@@ -11,10 +11,10 @@ categories:
   - "Scam"
 thumbnail: "evil_badger.webp"
 url: "posts/2025-06-08_dieter-schwarz"
-summary: "Dieter Schwarz“ will uns 4 Millionen Euro spenden – natürlich ganz uneigennützig und nicht betrügerisch. Ehrenwort. Wir schauen genauer hin."
+summary: "Dieter Schwarz“ will uns 4 Millionen Euro spenden, natürlich ganz uneigennützig und nicht betrügerisch. Ehrenwort. Wir schauen genauer hin."
 ---
 
-Wir haben eine besonders dreiste E-Mail erhalten, angeblich vom „Dieter Schwarz“ – ja genau, der von Lidl und Kaufland. Angeblich will er uns **4.000.000 Euro spenden**. Die Mail kommt aber nicht von einer Stiftung oder Konzern-Adresse, sondern von `martinpagano@fibertel.com.ar`, einer argentinischen E-Mail – mit Antwortadresse `mr.dieter.schwarz.002@gmail.com`. Seriös wie ein Bitcoin-Investment bei Telegram.
+Wir haben eine besonders dreiste E-Mail erhalten, angeblich vom „Dieter Schwarz“, ja genau, der von Lidl und Kaufland. Angeblich will er uns **4.000.000 Euro spenden**. Die Mail kommt aber nicht von einer Stiftung oder Konzern-Adresse, sondern von `martinpagano@fibertel.com.ar`, einer argentinischen E-Mail, mit Antwortadresse `mr.dieter.schwarz.002@gmail.com`. Seriös wie ein Bitcoin-Investment bei Telegram.
 
 Besonders charmant ist dieser Satz:
 
@@ -49,4 +49,4 @@ Hugo war natürlich sofort Feuer und Flamme. Immerhin bekommt man nicht alle Tag
 > WhatsApp: Leider verloren, seit ich mein Nokia 3310 im Schwimmbad versenkt hab  
 >    
 > Mit karitativen Grüßen,  
-> Hugo S. – Retter der Armen, Hüter der Currywurst  
+> Hugo S., Retter der Armen, Hüter der Currywurst  

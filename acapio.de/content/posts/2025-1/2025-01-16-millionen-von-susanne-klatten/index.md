@@ -33,7 +33,7 @@ Hugo aus Wanne-Eickel, selbsternannter Hobby-Milliardär und BMW-Fahrer, nahm di
 >   
 > Die Idee, einfach aus dem Nichts so großzügig zu sein, finde ich übrigens bewundernswert. Das erinnert mich daran, wie ich neulich an der Ampel einem anderen BMW-Fahrer die Vorfahrt „geschenkt“ habe. So etwas verbindet, finden Sie nicht auch?  
 >   
-> Ich schlage vor, dass wir die Abwicklung möglichst elegant gestalten. Vielleicht könnten Sie mir die Summe in 10-Euro-Scheinen überweisen? Es würde sich einfach besser anfühlen, als so schnöde Zahlen auf einem Bankkonto. Natürlich können wir auch über einen Tausch gegen Sachwerte reden – mein BMW könnte schließlich noch eine Yacht als Beiboot gebrauchen.  
+> Ich schlage vor, dass wir die Abwicklung möglichst elegant gestalten. Vielleicht könnten Sie mir die Summe in 10-Euro-Scheinen überweisen? Es würde sich einfach besser anfühlen, als so schnöde Zahlen auf einem Bankkonto. Natürlich können wir auch über einen Tausch gegen Sachwerte reden, mein BMW könnte schließlich noch eine Yacht als Beiboot gebrauchen.  
 >   
 > Lassen Sie mich wissen, wie wir weiter vorgehen. Ich bin offen für kreative Vorschläge. Vielleicht treffen wir uns ja sogar in der BMW Lounge? Mein Stammtisch ist immer donnerstags dort.  
 >   
@@ -60,9 +60,9 @@ Der sieht nichmal schlecht aus, die Details lassen aber mal wieder die Sorgfalt 
 
 ## Kontaktdaten zur Bank  
 
-Die „Rabobank“ soll laut E-Mail die großzügige Spende abwickeln. Natürlich über eine hochprofessionelle Adresse: **kontakt.rabobank.nl@gmail.com**. Offenbar hat die Bank der Niederlande ihre prestigeträchtigen Firmen-Server gegen Gmail eingetauscht – vermutlich aus Kostengründen. Schließlich weiß man ja, wie knapp es Banken heutzutage haben. 😏 
+Die „Rabobank“ soll laut E-Mail die großzügige Spende abwickeln. Natürlich über eine hochprofessionelle Adresse: **kontakt.rabobank.nl@gmail.com**. Offenbar hat die Bank der Niederlande ihre prestigeträchtigen Firmen-Server gegen Gmail eingetauscht, vermutlich aus Kostengründen. Schließlich weiß man ja, wie knapp es Banken heutzutage haben. 😏 
 
-Dass die Kontaktaufnahme „unbedingt über beide E-Mail-Adressen“ erfolgen soll, zeigt nur, wie akribisch diese „Bank“ arbeitet – doppelt hält eben besser!
+Dass die Kontaktaufnahme „unbedingt über beide E-Mail-Adressen“ erfolgen soll, zeigt nur, wie akribisch diese „Bank“ arbeitet, doppelt hält eben besser!
 
 > Die Kontaktdaten und die E-Mail-Adresse meines Account Managers finden Sie unten. Sie können ihn per E-Mail kontaktieren. Ich möchte jedoch, dass Sie meinen Account Manager direkt über beide E-Mail-Adressen kontaktieren. Aufgrund dieser Erfahrung sollten Sie ihn per E-Mail kontaktieren ( kontakt.rabobank.nl@gmail.com ). Die Kontaktdaten der Bank finden Sie unten:  
 >   
@@ -73,15 +73,15 @@ Dass die Kontaktaufnahme „unbedingt über beide E-Mail-Adressen“ erfolgen so
 
 ## Wir schreiben der Bank  
 
-Da lässt sich Hugo nicht lange bitten! Mit seiner Anfrage an die „Rabobank“ zeigt er sich höflich und interessiert – schließlich will man die 2,5 Millionen ja nicht durch einen Formfehler verlieren. 
+Da lässt sich Hugo nicht lange bitten! Mit seiner Anfrage an die „Rabobank“ zeigt er sich höflich und interessiert, schließlich will man die 2,5 Millionen ja nicht durch einen Formfehler verlieren. 
 
-Mit einem Augenzwinkern erkundigt er sich nach den nächsten Schritten – ob IBAN oder Reisetasche, Hugo ist bereit! 😄  
+Mit einem Augenzwinkern erkundigt er sich nach den nächsten Schritten, ob IBAN oder Reisetasche, Hugo ist bereit! 😄  
 
 > Sehr geehrte Damen und Herren,  
 >   
 > ich wurde von Frau Susanne Klatten informiert, dass ich als dritter Begünstigter ihrer großzügigen Spende in Höhe von 2.500.000,00 € ausgewählt wurde. Sie hat mir Ihre Kontaktdaten und insbesondere die E-Mail-Adresse kontakt.rabobank.nl@gmail.com als offiziellen Ansprechpartner für die Abwicklung genannt.  
 >   
-> Ich bin beeindruckt von Ihrer modernen Infrastruktur und der Nutzung von Gmail als Kommunikationsweg – das zeigt wahre Innovationskraft! Da ich sicherstellen möchte, dass alles korrekt abläuft, möchte ich höflich fragen: Welche Schritte sind erforderlich, um die Spende zu empfangen? Soll ich meine IBAN direkt senden, oder bevorzugen Sie vielleicht eine Übergabe in bar (ich könnte eine Reisetasche bereitstellen)?  
+> Ich bin beeindruckt von Ihrer modernen Infrastruktur und der Nutzung von Gmail als Kommunikationsweg, das zeigt wahre Innovationskraft! Da ich sicherstellen möchte, dass alles korrekt abläuft, möchte ich höflich fragen: Welche Schritte sind erforderlich, um die Spende zu empfangen? Soll ich meine IBAN direkt senden, oder bevorzugen Sie vielleicht eine Übergabe in bar (ich könnte eine Reisetasche bereitstellen)?  
 >   
 > Falls Sie zusätzliche Informationen oder Unterlagen benötigen, lassen Sie es mich bitte wissen. Ich bin gespannt auf Ihre Antwort und freue mich auf die Zusammenarbeit mit einer so renommierten Institution wie der Rabobank!  
 >   
@@ -91,7 +91,7 @@ Mit einem Augenzwinkern erkundigt er sich nach den nächsten Schritten – ob IB
 
 ## Die Bank antwortet  
 
-Die „Rabobank“ meldet sich prompt – natürlich wieder über Gmail, das Nonplusultra moderner Bankkommunikation. Frau Brigitte Nehls, offenbar die Leiterin der „Transferabteilung“, braucht nun persönliche Daten, um den „Finanzierungsprozess“ zu starten. Vollständiger Name, Adresse, Geburtsdatum – klar, warum auch nicht gleich noch die Schuhgröße? 
+Die „Rabobank“ meldet sich prompt, natürlich wieder über Gmail, das Nonplusultra moderner Bankkommunikation. Frau Brigitte Nehls, offenbar die Leiterin der „Transferabteilung“, braucht nun persönliche Daten, um den „Finanzierungsprozess“ zu starten. Vollständiger Name, Adresse, Geburtsdatum, klar, warum auch nicht gleich noch die Schuhgröße? 
 
 > Wir haben Ihre E-Mail erhalten und bereits eine Nachricht von Ihrem Spender erhalten, in der er uns anweist, Sie zu finanzieren. Dies sind die Informationen, die wir benötigen, um den Finanzierungsprozess durchzuführen.  
 >   
@@ -116,7 +116,7 @@ Die „Rabobank“ meldet sich prompt – natürlich wieder über Gmail, das Non
 
 ### Hugo liefert ab  
 
-Hugo lässt sich auf das Spiel ein und liefert brav alle gewünschten Daten – natürlich perfekt gefälscht. Mit seiner Adresse am „Fährweg 12b“ und seinem Beruf als „Fahrer“ dürfte die „Rabobank“ jetzt bestens ausgestattet sein, um die Millionen zu überweisen. 
+Hugo lässt sich auf das Spiel ein und liefert brav alle gewünschten Daten, natürlich perfekt gefälscht. Mit seiner Adresse am „Fährweg 12b“ und seinem Beruf als „Fahrer“ dürfte die „Rabobank“ jetzt bestens ausgestattet sein, um die Millionen zu überweisen. 
 
 > Sehr geehrte Frau Nehls,    
 >   
@@ -142,7 +142,7 @@ Hugo ist begeistert: Die Mastercard klingt wie gemacht für ihn. Eine Karte mit 
 
 > Sehr geehrte Frau Nehls,    
 >   
-> vielen Dank für die Information! Ich würde gerne die Mastercard wählen, auch wenn sie etwas mehr kostet – die Karte klingt perfekt für mich.    
+> vielen Dank für die Information! Ich würde gerne die Mastercard wählen, auch wenn sie etwas mehr kostet, die Karte klingt perfekt für mich.    
 >   
 > Könnten Sie mir bitte mitteilen, wie ich die 558 € bezahlen soll? Akzeptieren Sie Banküberweisung oder andere Zahlungsmethoden?    
 >   
@@ -153,7 +153,7 @@ Hugo ist begeistert: Die Mastercard klingt wie gemacht für ihn. Eine Karte mit 
 
 ## Die Bank wird konkret  
 
-Jetzt wird’s ernst: Die „Rabobank“ liefert uns die Zahlungsdetails – inklusive einer IBAN bei der Frankfurter Sparkasse. Für 558 € soll das Offshore-Konto aktiviert werden, und als Empfänger wird eine gewisse Ursula Maria Reichel genannt. Der Zahlungszweck „Offs-Class 84“ klingt beeindruckend, lässt Hugo aber stutzen: Klingt das nicht eher nach einem neuen BMW-Modell?  
+Jetzt wird’s ernst: Die „Rabobank“ liefert uns die Zahlungsdetails, inklusive einer IBAN bei der Frankfurter Sparkasse. Für 558 € soll das Offshore-Konto aktiviert werden, und als Empfänger wird eine gewisse Ursula Maria Reichel genannt. Der Zahlungszweck „Offs-Class 84“ klingt beeindruckend, lässt Hugo aber stutzen: Klingt das nicht eher nach einem neuen BMW-Modell?  
 
 > Hallo,
 > 
@@ -169,9 +169,9 @@ Jetzt wird’s ernst: Die „Rabobank“ liefert uns die Zahlungsdetails – ink
 > Zahlungszweck: Offs-Class 84  
 > Erwarteter Betrag: 558 €  
 
-## Hugo zahlt – oder doch nicht?  
+## Hugo zahlt, oder doch nicht?  
 
-Hugo lässt sich nicht lumpen und bestätigt der „Rabobank“ freudig, dass er die 558 € überwiesen hat. Natürlich nicht ohne einen „Zahlungsbeleg“, der so überzeugend aussieht, dass man ihn glatt neben einen echten drucken könnte – auf dem Nadeldrucker aus der E-Mail von Frau Nehls.
+Hugo lässt sich nicht lumpen und bestätigt der „Rabobank“ freudig, dass er die 558 € überwiesen hat. Natürlich nicht ohne einen „Zahlungsbeleg“, der so überzeugend aussieht, dass man ihn glatt neben einen echten drucken könnte, auf dem Nadeldrucker aus der E-Mail von Frau Nehls.
 
 ![Wir haben, hust, gezahlt](/posts/2025-01-16_susanne-klatten-schenkt-millionen/zahlung.webp)
 
@@ -213,13 +213,13 @@ Wirklich zufrieden sind wir mit der Antwort nicht, zwar liegt der Fehler auf ihr
 
 ### Hugo verlangt Klarheit  
 
-Hugo lässt sich nicht hetzen. Nach dem vermeintlichen Missverständnis wünscht er sich nun endlich ein vernünftiges Schreiben – mit Firmenbriefkopf und Logo, versteht sich. Schließlich will man bei solch einer Millionenüberweisung keine Fehler machen. Hugo bleibt höflich, aber bestimmt, und wartet auf eine ordentliche Bestätigung. 
+Hugo lässt sich nicht hetzen. Nach dem vermeintlichen Missverständnis wünscht er sich nun endlich ein vernünftiges Schreiben, mit Firmenbriefkopf und Logo, versteht sich. Schließlich will man bei solch einer Millionenüberweisung keine Fehler machen. Hugo bleibt höflich, aber bestimmt, und wartet auf eine ordentliche Bestätigung. 
 
 Ob die „Rabobank“ wohl einen Laserdrucker auftreiben kann? 😏
 
 > Sehr geehrte Frau Nehls,  
 >   
-> vielen Dank für die schnelle Rückmeldung und die Klärung des Missverständnisses. Ich bin erleichtert, dass es nicht an mir lag – solche Situationen können ja wirklich stressig sein, besonders wenn es um Millionen geht.  
+> vielen Dank für die schnelle Rückmeldung und die Klärung des Missverständnisses. Ich bin erleichtert, dass es nicht an mir lag, solche Situationen können ja wirklich stressig sein, besonders wenn es um Millionen geht.  
 >   
 > Bevor ich die Überweisung erneut tätige, habe ich allerdings noch eine Frage: Könnten Sie mir bitte eine schriftliche Bestätigung mit Ihrem offiziellen Firmenbriefkopf und Logo zusenden, dass alles korrekt ist? Ich möchte sicherstellen, dass alles rechtlich einwandfrei ist.  
 >   
@@ -230,7 +230,7 @@ Ob die „Rabobank“ wohl einen Laserdrucker auftreiben kann? 😏
 
 ## Wir bekommen ein Schreiben!
 
-Die „Rabobank“ gibt sich jetzt richtig großzügig: 558 € sind kein Verlust, sondern eine Investition in die „finanzielle Freiheit für den Rest des Lebens“. Und weil das alles aus reiner Liebe zur Menschheit geschieht, sollten wir uns keine Sorgen machen – sagt die Bank. 
+Die „Rabobank“ gibt sich jetzt richtig großzügig: 558 € sind kein Verlust, sondern eine Investition in die „finanzielle Freiheit für den Rest des Lebens“. Und weil das alles aus reiner Liebe zur Menschheit geschieht, sollten wir uns keine Sorgen machen, sagt die Bank. 
 
 > Guten Abend..  
 > Ich weiß, dass 558 € für Sie ziemlich viel sind, aber Sie sollten dies auch als Preis für finanzielle Freiheit für den Rest Ihres Lebens betrachten.  
@@ -265,7 +265,7 @@ Wir geben uns überzeugter, aber es ist Freitag, die Bank hat bereits zu. Also v
 
 ## Die Scammer werden nervös  
 
-Die Geduld der „Rabobank“ scheint langsam am Ende zu sein: Keine Anrede, keine Floskeln – nur noch Dringlichkeit. Sie wollen den Zahlungsbeleg und Hugos Wohnadresse sofort haben. 
+Die Geduld der „Rabobank“ scheint langsam am Ende zu sein: Keine Anrede, keine Floskeln, nur noch Dringlichkeit. Sie wollen den Zahlungsbeleg und Hugos Wohnadresse sofort haben. 
 
 Man könnte fast meinen, sie brauchen die 558 € dringender als Hugo seine „Spendenkarte“! 
 

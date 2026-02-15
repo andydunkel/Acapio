@@ -11,23 +11,23 @@ categories:
   - "Scam"
 thumbnail: "criminal.webp"
 url: "posts/2025-07-27_darkweb-acid-attack"
-summary: "Eine Drohung per E-Mail: Entweder zahlen wir 2000 Dollar in Litecoin – oder jemand kippt uns Säure ins Gesicht. Klingt wie ein schlechter Mafia-Film, ist aber leider echt passiert (also die Mail, nicht die Säure)."
+summary: "Eine Drohung per E-Mail: Entweder zahlen wir 2000 Dollar in Litecoin, oder jemand kippt uns Säure ins Gesicht. Klingt wie ein schlechter Mafia-Film, ist aber leider echt passiert (also die Mail, nicht die Säure)."
 ---
 
-Eine Drohung per E-Mail: Entweder zahlen wir 2000 Dollar in Litecoin – oder jemand kippt uns Säure ins Gesicht. Klingt wie ein schlechter Mafia-Film, ist aber leider echt passiert (also die Mail, nicht die Säure).
+Eine Drohung per E-Mail: Entweder zahlen wir 2000 Dollar in Litecoin, oder jemand kippt uns Säure ins Gesicht. Klingt wie ein schlechter Mafia-Film, ist aber leider echt passiert (also die Mail, nicht die Säure).
 
 
 **Was steckt dahinter? Wie ernst muss man sowas nehmen?**
 
 ## 💌 Die dunkle Seite der Spam-Mails
 
-Und da war sie wieder – die altbekannte Massenmail aus der Abteilung „organisierte Kriminalität für Anfänger“:
+Und da war sie wieder, die altbekannte Massenmail aus der Abteilung „organisierte Kriminalität für Anfänger“:
 
 Ein ominöser Typ vom Darknet meldet sich, bietet "alle Dienstleistungen außer Schusswaffen" an 🔪💣 und behauptet, jemand hätte ihn beauftragt, uns mit Säure zu bewerfen. 🧪😱
 
-Aber hey – für *nur* 2000 Dollar in Litecoin 💸🥲 bleibt er „inaktiv“ und verrät uns sogar, wer angeblich hinter dem Anschlag steckt. Wie großzügig!
+Aber hey, für *nur* 2000 Dollar in Litecoin 💸🥲 bleibt er „inaktiv“ und verrät uns sogar, wer angeblich hinter dem Anschlag steckt. Wie großzügig!
 
-Natürlich ist das Ganze kompletter Unsinn – diese E-Mail wurde massenhaft verschickt, in der Hoffnung, dass irgendjemand aus Angst zahlt.
+Natürlich ist das Ganze kompletter Unsinn, diese E-Mail wurde massenhaft verschickt, in der Hoffnung, dass irgendjemand aus Angst zahlt.
 
 > Good day  
 >    
@@ -52,7 +52,7 @@ Natürlich ist das Ganze kompletter Unsinn – diese E-Mail wurde massenhaft ver
 
 ## 🧾 Fazit
 
-Die E-Mail kommt – wenig überraschend – ohne echten Absender, eine Antwort ist gar nicht möglich. Also: **keine Panik, nicht drauf reagieren, einfach löschen.**
+Die E-Mail kommt, wenig überraschend, ohne echten Absender, eine Antwort ist gar nicht möglich. Also: **keine Panik, nicht drauf reagieren, einfach löschen.**
 Wir haben übrigens mal einen Blick auf die angegebene Litecoin-Adresse geworfen: **bisher keine Zahlungseingänge.** Offenbar ist das Geschäftsmodell „Säure gegen Krypto“ noch nicht so richtig durchgestartet. 🙄
 
-Wenn du möchtest, kannst (und solltest) du solche Mails **bei der Polizei oder dem Bundesamt für Sicherheit in der Informationstechnik (BSI)** melden. Auch wenn daraus keine direkte Verfolgung resultiert, hilft es, solche Betrugsmaschen statistisch zu erfassen – und es zeigt, dass man sich von diesen Einschüchterungsversuchen **nicht einschüchtern lässt**. 💪
+Wenn du möchtest, kannst (und solltest) du solche Mails **bei der Polizei oder dem Bundesamt für Sicherheit in der Informationstechnik (BSI)** melden. Auch wenn daraus keine direkte Verfolgung resultiert, hilft es, solche Betrugsmaschen statistisch zu erfassen, und es zeigt, dass man sich von diesen Einschüchterungsversuchen **nicht einschüchtern lässt**. 💪

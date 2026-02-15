@@ -11,7 +11,7 @@ categories:
   - "Scam"
 thumbnail: "money.webp"
 url: "posts/2025-01-19-springfieldlaws"
-summary: "Was passiert, wenn einer der reichsten Männer der Welt ausgerechnet Hugo – Kassenwart des Dackel-Clubs und unangefochtene BMW-Legende von Wanne-Eickel – per E-Mail reich machen will?"
+summary: "Was passiert, wenn einer der reichsten Männer der Welt ausgerechnet Hugo, Kassenwart des Dackel-Clubs und unangefochtene BMW-Legende von Wanne-Eickel, per E-Mail reich machen will?"
 
 ---
 
@@ -33,7 +33,7 @@ Jeder normale Mensch löscht sowas sofort. Aber Hugo nicht. Hugo wittert Morgenl
 
 ## Der Köder ist ausgeworfen 🎣
 
-Die Strategie ist simpel: Wir geben dem Betrüger genau das Opfer, das er sich wünscht – leichtgläubig, gierig und intellektuell eher im Leerlauf unterwegs. 🧠🚫
+Die Strategie ist simpel: Wir geben dem Betrüger genau das Opfer, das er sich wünscht, leichtgläubig, gierig und intellektuell eher im Leerlauf unterwegs. 🧠🚫
 
 > Moin Michael keule!! 🍺  
 >   
@@ -54,7 +54,7 @@ Hugo hinterfragt nicht, warum ein US-Milliardär ihm schreibt. Nein, Hugo sieht 
 
 Wir haben gewartet. Wir haben F5 gedrückt, bis die Taste glühte. Wir haben sogar kurz überlegt, ob die E-Mail im Spam-Ordner bei den Angeboten für Potenzmittel gelandet ist. Aber nichts. Totale Funkstille. 📉
 
-Offenbar war unser "Keule Michael" von Hugos direkter Art und dem dringenden Bedürfnis nach neuen Reifen doch etwas überfordert. Oder – und das ist unsere finstere Vermutung – **Hugo ist bereits verbrannt!** 🔥
+Offenbar war unser "Keule Michael" von Hugos direkter Art und dem dringenden Bedürfnis nach neuen Reifen doch etwas überfordert. Oder, und das ist unsere finstere Vermutung, **Hugo ist bereits verbrannt!** 🔥
 
 Womöglich gibt es im Darknet eine schwarze Liste für "besonders anstrengende Opfer", und der Kassenwart des Dackel-Clubs Wanne-Eickel steht dort ganz oben. Vermerk: *"Achtung: Fragt zu viel nach Felgen, hat kein Geld, nervt tierisch."* 😂
 

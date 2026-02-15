@@ -18,7 +18,7 @@ Kaum zu glauben, aber mein Glückstag ist gekommen! Eine unbekannte, todkranke D
 
 ## Die E-Mail von mrsjoeline@yahoo.com / charity@mrsjoeline.org
 
-Na, wenn das mal nicht nach einem einmaligen Angebot klingt! Mrs. Joeline – anscheinend schwer krank und voller Wohltätigkeit – hat ausgerechnet mich auserwählt, um 75,6 Millionen Dollar für humanitäre Zwecke zu verwalten. 
+Na, wenn das mal nicht nach einem einmaligen Angebot klingt! Mrs. Joeline, anscheinend schwer krank und voller Wohltätigkeit, hat ausgerechnet mich auserwählt, um 75,6 Millionen Dollar für humanitäre Zwecke zu verwalten. 
 
 **Wieso sie mich kennt? Keine Ahnung. Wieso sie mir vertraut? Ebenfalls unklar. **
 
@@ -41,7 +41,7 @@ Wer sich fragt, was der Satz am Ende bedeutet, dieser ist Tschechich:
 
 ## Hugo will Beweise!
 
-Hugo ist kein Dummkopf – er hat schon genug von diesen dubiosen Geschichten gehört. Klar, 75,6 Millionen Dollar wären nicht schlecht, aber er weiß auch, dass das Internet voll von Betrügern ist. Also bleibt er skeptisch und stellt die einzig logische Frage: **Warum ausgerechnet ich?**  
+Hugo ist kein Dummkopf, er hat schon genug von diesen dubiosen Geschichten gehört. Klar, 75,6 Millionen Dollar wären nicht schlecht, aber er weiß auch, dass das Internet voll von Betrügern ist. Also bleibt er skeptisch und stellt die einzig logische Frage: **Warum ausgerechnet ich?**  
 
 Aber Hugo wäre nicht Hugo, wenn er nicht ein kleines Experiment wagen würde. Wenn Mrs. Joeline wirklich existiert, dann kann sie doch sicher einen Beweis liefern. 
 
@@ -69,9 +69,9 @@ Da wir eine E-Mail-Adresse haben mit eigener Domain (charity@mrsjoeline.org), ru
 
 ## Wir bekommen eine Ausweis
 
-Na, wer hätte das gedacht – Mrs. Joeline liefert tatsächlich einen **Ausweis**! Ein klares Zeichen dafür, dass hier alles mit rechten Dingen zugeht… oder? 😆  
+Na, wer hätte das gedacht, Mrs. Joeline liefert tatsächlich einen **Ausweis**! Ein klares Zeichen dafür, dass hier alles mit rechten Dingen zugeht… oder? 😆  
 
-Beim genaueren Hinsehen wird es dann doch ziemlich skurril: Der **Name auf dem Ausweis** wurde einfach mit **„Hugo“ ergänzt** – als wäre er gerade frisch in Photoshop dazugeklebt worden. 
+Beim genaueren Hinsehen wird es dann doch ziemlich skurril: Der **Name auf dem Ausweis** wurde einfach mit **„Hugo“ ergänzt**, als wäre er gerade frisch in Photoshop dazugeklebt worden. 
 
 Ein Blick in die Meta-Daten zeigt, dass eine gewisse "okolo nkechi" das Dokument erstellt hat.
 
@@ -99,7 +99,7 @@ Ein Blick in die Meta-Daten zeigt, dass eine gewisse "okolo nkechi" das Dokument
 
 ### Hugo fordert den ultimativen Beweis! 
 
-Jetzt wird’s spannend! Mrs. Joeline hat viel erzählt – von göttlichen Eingebungen, von ihrer schweren Krankheit und natürlich von den Millionen, die Hugo verwalten soll. Doch eines hat sie noch nicht geliefert: **Einen echten Beweis.**  
+Jetzt wird’s spannend! Mrs. Joeline hat viel erzählt, von göttlichen Eingebungen, von ihrer schweren Krankheit und natürlich von den Millionen, die Hugo verwalten soll. Doch eines hat sie noch nicht geliefert: **Einen echten Beweis.**  
 
 Hugo bleibt vorsichtig. Bevor er ihr einfach seine Daten schickt, verlangt er eine kleine Geste des Vertrauens: **Ein Foto mit einem Zettel, auf dem sein Name steht.** Denn wenn Mrs. Joeline wirklich im Krankenhaus liegt und ihn persönlich für diese große Aufgabe ausgewählt hat, sollte das doch kein Problem sein, oder?  
 
@@ -115,7 +115,7 @@ Zusätzlich will er wissen, wo genau sie ihn im **"Business Directory"** gefunde
 >   
 > Außerdem frage ich mich, wie genau Sie meinen Namen in diesem "Business Directory" gefunden haben. Ich bin ja kein großer Geschäftsmann. Können Sie mir sagen, wo genau Sie meine Daten gesehen haben?    
 >   
-> Ich hoffe auf Ihr Verständnis – es geht ja um viel Geld und eine große Verantwortung. Ich freue mich auf Ihre Antwort und auf unser gemeinsames Projekt!    
+> Ich hoffe auf Ihr Verständnis, es geht ja um viel Geld und eine große Verantwortung. Ich freue mich auf Ihre Antwort und auf unser gemeinsames Projekt!    
 >   
 > Mit besten Grüßen    
 > Hugo aus Wanne-Eickel  
@@ -126,10 +126,10 @@ Leider erreicht die letzte E-Mail die gute Frau Joeline nicht mehr. Anscheinend 
 
 ![Fehlermeldung E-Mail](/posts/2025-02-06_mrsjoeline/ende.webp)
 
-## Fazit: Eine göttliche Eingebung – oder doch nur ein lausiger Scam? 
+## Fazit: Eine göttliche Eingebung, oder doch nur ein lausiger Scam? 
 
-Und so endet die Geschichte von **Mrs. Joeline und ihren 75,6 Millionen Dollar** – mit einer gesperrten E-Mail-Adresse und einer großen Portion Fremdscham. Am Ende konnte sie keine echten Beweise liefern, kein glaubwürdiges Dokument vorlegen und ihre Geschichte brach in sich zusammen wie ein schlecht gebautes Kartenhaus.  
+Und so endet die Geschichte von **Mrs. Joeline und ihren 75,6 Millionen Dollar**, mit einer gesperrten E-Mail-Adresse und einer großen Portion Fremdscham. Am Ende konnte sie keine echten Beweise liefern, kein glaubwürdiges Dokument vorlegen und ihre Geschichte brach in sich zusammen wie ein schlecht gebautes Kartenhaus.  
 
 Was lernen wir daraus? **Scammer setzen auf Emotionen, Dringlichkeit und große Geldversprechen, um ihre Opfer in eine Falle zu locken.** Doch wer sich nicht blenden lässt und gezielt Beweise fordert, bringt sie schnell in die Bredouille.  
 
-Hugo aus Wanne-Eickel hat sich nicht täuschen lassen – und hoffentlich sorgt dieser kleine Einblick in die Welt der Internetbetrüger dafür, dass es anderen genauso geht. Also, Augen auf im digitalen Dschungel und immer skeptisch bleiben, wenn es plötzlich **Millionen von völlig Fremden gibt!** 💸😆
+Hugo aus Wanne-Eickel hat sich nicht täuschen lassen, und hoffentlich sorgt dieser kleine Einblick in die Welt der Internetbetrüger dafür, dass es anderen genauso geht. Also, Augen auf im digitalen Dschungel und immer skeptisch bleiben, wenn es plötzlich **Millionen von völlig Fremden gibt!** 💸😆

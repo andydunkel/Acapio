@@ -30,7 +30,7 @@ Natürlich lassen wir uns nicht lumpen und schreiben an "francesandpatrickconnol
 
 > Liebe Frau Nadine,
 > 
-> zuerst einmal vielen Dank für diese überraschende Nachricht! Natürlich bin ich begeistert und fühle mich geehrt, als einer der zehn Empfänger von 400.000 € ausgewählt worden zu sein. Gleichzeitig gebe ich zu, dass mich die Höhe der Summe etwas skeptisch macht – so etwas hört man ja nicht alle Tage!
+> zuerst einmal vielen Dank für diese überraschende Nachricht! Natürlich bin ich begeistert und fühle mich geehrt, als einer der zehn Empfänger von 400.000 € ausgewählt worden zu sein. Gleichzeitig gebe ich zu, dass mich die Höhe der Summe etwas skeptisch macht, so etwas hört man ja nicht alle Tage!
 > 
 > Dennoch bin ich offen für weitere Informationen und würde mich freuen, wenn Sie mir erklären könnten, wie der genaue Ablauf ist. Ich bin gespannt, mehr über „Support Life“ und das großzügige Engagement von Frances und Patrick Connolly zu erfahren.
 > 
@@ -39,7 +39,7 @@ Natürlich lassen wir uns nicht lumpen und schreiben an "francesandpatrickconnol
 
 ## Wir bekommen eine Antwort
 
-Nach kurzer Zeit kommt die Antwort, und sie enttäuscht nicht: "Frau Nadine", ihres Zeichens Projektmanagerin des angeblichen Wohltätigkeitsprojekts "Support Life", versichert uns erneut, dass Frances und Patrick Connolly, die sagenumwobenen EuroMillions-Gewinner, nichts Geringeres im Sinn haben, als die Welt per E-Mail zu retten. Dabei dürfen wir uns zu den auserwählten Glücklichen zählen, die 400.000 Euro erhalten sollen – allerdings erst, nachdem wir brav all unsere persönlichen Daten preisgegeben haben, von Adresse über Telefonnummer bis hin zur Religion. 
+Nach kurzer Zeit kommt die Antwort, und sie enttäuscht nicht: "Frau Nadine", ihres Zeichens Projektmanagerin des angeblichen Wohltätigkeitsprojekts "Support Life", versichert uns erneut, dass Frances und Patrick Connolly, die sagenumwobenen EuroMillions-Gewinner, nichts Geringeres im Sinn haben, als die Welt per E-Mail zu retten. Dabei dürfen wir uns zu den auserwählten Glücklichen zählen, die 400.000 Euro erhalten sollen, allerdings erst, nachdem wir brav all unsere persönlichen Daten preisgegeben haben, von Adresse über Telefonnummer bis hin zur Religion. 
 
 
 > Hallo, meine Damen und Herren,

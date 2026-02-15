@@ -21,9 +21,9 @@ Sogenannte Sextortion-Scams kursieren schon seit Jahren und setzen gezielt auf A
 
 ## Eine typische E-Mail
 
-Eine typische E-Mail aus dem Reich der Cybergauner: Im vermeintlichen "Hackerstil" prangen wilde Sonderzeichen, deren Zweck es wahlweise ist, mehr Hacker-Credibility zu erzeugen oder Spamfilter auszutricksen – vermutlich eine Mischung aus beidem. Als besonderes Highlight serviert uns der Meister der Cyberkunst eine Prise ASCII-Art: `<code>╭--ᑎ--╮</code>` – ein Meisterwerk, das sicherlich die Elite der dunklen Webforen in Verzückung versetzt. 
+Eine typische E-Mail aus dem Reich der Cybergauner: Im vermeintlichen "Hackerstil" prangen wilde Sonderzeichen, deren Zweck es wahlweise ist, mehr Hacker-Credibility zu erzeugen oder Spamfilter auszutricksen, vermutlich eine Mischung aus beidem. Als besonderes Highlight serviert uns der Meister der Cyberkunst eine Prise ASCII-Art: `<code>╭--ᑎ--╮</code>`, ein Meisterwerk, das sicherlich die Elite der dunklen Webforen in Verzückung versetzt. 
 
-Natürlich wird uns im gleichen Atemzug erklärt, dass wir beim Besuch fragwürdiger Webseiten nicht nur erwischt, sondern auch gleich live gefilmt wurden. Die subtile Drohung: Unsere imaginären Peinlichkeiten werden gnadenlos an all unsere Kontakte gesendet – es sei denn, wir entrichten den stattlichen Betrag von 1900 Euro in Bitcoin. Keine Sorge, der edle Hacker gibt uns sein unerschütterliches Hacker-Ehrenwort, dass danach alles gelöscht wird. Ein Mann (oder Fuchs?) seines Wortes, versteht sich! Ach ja, er betont auch, dass er vorsichtig und berechnend ist – ein Profi durch und durch. Humor? Fehlanzeige. Ein Spaßvogel ist er sicher nicht.
+Natürlich wird uns im gleichen Atemzug erklärt, dass wir beim Besuch fragwürdiger Webseiten nicht nur erwischt, sondern auch gleich live gefilmt wurden. Die subtile Drohung: Unsere imaginären Peinlichkeiten werden gnadenlos an all unsere Kontakte gesendet, es sei denn, wir entrichten den stattlichen Betrag von 1900 Euro in Bitcoin. Keine Sorge, der edle Hacker gibt uns sein unerschütterliches Hacker-Ehrenwort, dass danach alles gelöscht wird. Ein Mann (oder Fuchs?) seines Wortes, versteht sich! Ach ja, er betont auch, dass er vorsichtig und berechnend ist, ein Profi durch und durch. Humor? Fehlanzeige. Ein Spaßvogel ist er sicher nicht.
 
 > Gŗüße Sie!  
 >   
@@ -82,7 +82,7 @@ Bisher wars wohl nicht so erfolgreich.
 
 Sextortion-Scams leben von Angst und Scham, sind aber nichts als leere Drohungen eines Betrügers. 
 
-**Ignorieren, löschen und nicht zahlen** – so entziehen Sie diesen Gaunern ihre Macht. Bleiben Sie ruhig und wachsam!
+**Ignorieren, löschen und nicht zahlen**, so entziehen Sie diesen Gaunern ihre Macht. Bleiben Sie ruhig und wachsam!
 
 ## Weitere Varianten
 

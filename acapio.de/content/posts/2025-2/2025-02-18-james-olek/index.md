@@ -1,5 +1,5 @@
 ---
-title: "Totgesagte erben länger – der Millionen-Scam der Metropolitan Police"
+title: "Totgesagte erben länger, der Millionen-Scam der Metropolitan Police"
 params:
   author: Andy
 date: "2025-02-18"
@@ -11,12 +11,12 @@ categories:
   - "Scam"
 thumbnail: "police.webp"
 url: "posts/2025-02-18_james-olek"
-summary: "Stell dir vor, du trinkst morgens deinen Kaffee, checkst deine Mails – und erfährst plötzlich, dass du tot bist. Noch besser: Jemand versucht, dein Millionen-Erbe einzukassieren!"
+summary: "Stell dir vor, du trinkst morgens deinen Kaffee, checkst deine Mails, und erfährst plötzlich, dass du tot bist. Noch besser: Jemand versucht, dein Millionen-Erbe einzukassieren!"
 ---
 
 Es gibt gute und schlechte Nachrichten. Die schlechte: Du bist tot. Die gute: Du hast 10,6 Millionen Dollar geerbt! Zumindest, wenn man einer E-Mail der „Metropolitan Police UK“ glaubt, die uns vor kurzem erreicht hat.
 
-Ein gewisser John Lewis – nein, nicht die britische Kaufhauskette – behauptet, du hättest ihm vor deinem tragischen Autounfall am 13. Februar dein gesamtes Vermögen überschrieben. Natürlich weißt du von nichts. Aber keine Sorge, die freundlichen Beamten aus London sind da, um das zu klären! Sie brauchen nur ganz schnell deine persönlichen Daten, dann gehört das Geld wieder dir. Klingt verlockend?
+Ein gewisser John Lewis, nein, nicht die britische Kaufhauskette, behauptet, du hättest ihm vor deinem tragischen Autounfall am 13. Februar dein gesamtes Vermögen überschrieben. Natürlich weißt du von nichts. Aber keine Sorge, die freundlichen Beamten aus London sind da, um das zu klären! Sie brauchen nur ganz schnell deine persönlichen Daten, dann gehört das Geld wieder dir. Klingt verlockend?
 
 ## Die Köder-Mail (met@teemanjay.net)
 
@@ -59,15 +59,15 @@ Ein gewisser John Lewis – nein, nicht die britische Kaufhauskette – behaupte
 
 ## Wir senden ein paar Fake-Daten!
 
-Natürlich konnten wir es uns nicht nehmen lassen, den Scammer ein bisschen an der Nase herumzuführen. Also haben wir ihm eine waschechte Ruhrpott-Antwort geschickt – natürlich inklusive einer ordentlichen Portion Skepsis und einem Schuss gesunder Prolligkeit.  
+Natürlich konnten wir es uns nicht nehmen lassen, den Scammer ein bisschen an der Nase herumzuführen. Also haben wir ihm eine waschechte Ruhrpott-Antwort geschickt, natürlich inklusive einer ordentlichen Portion Skepsis und einem Schuss gesunder Prolligkeit.  
 
 Mit Hugos legendärem „Ich bin nicht tot, ich fahr noch BMW“-Charme haben wir ihm ein paar **Fake-Daten** untergejubelt. Mal sehen, wie „Inspector James Olek“ darauf reagiert. 😁
 
-Wir warten gespannt auf eine Antwort – und halten euch natürlich auf dem Laufenden!
+Wir warten gespannt auf eine Antwort, und halten euch natürlich auf dem Laufenden!
 
 > Hello Inspector James Olek,    
 >   
-> What the hell is going on? I just read your email and, surprise surprise, I am not dead! Still breathing, still drinking beer, still driving my BMW. But one thing is strange – who made up this crazy story?    
+> What the hell is going on? I just read your email and, surprise surprise, I am not dead! Still breathing, still drinking beer, still driving my BMW. But one thing is strange, who made up this crazy story?    
 >   
 > I don’t know this John Lewis guy, but I can tell you one thing: He is full of bullshit. If he wants something from me, he better explain himself. I have no idea where this came from.    
 >   
@@ -81,17 +81,17 @@ Wir warten gespannt auf eine Antwort – und halten euch natürlich auf dem Lauf
 > Hugo (not dead)    
 
 
-### **Die Antwort der „Polizei“ – Jetzt wird’s wild!**  
+### **Die Antwort der „Polizei“, Jetzt wird’s wild!**  
 
-Unsere Freunde von der selbsternannten *Metropolitan Police UK* haben sich gemeldet – und was für eine Show sie da abziehen! 🎭  
+Unsere Freunde von der selbsternannten *Metropolitan Police UK* haben sich gemeldet, und was für eine Show sie da abziehen! 🎭  
 
 Zunächst einmal sind sie **total überrascht**, dass Hugo noch lebt. Unglaublich, dass man einfach eine E-Mail schreibt und *schwupps*, man ist offiziell wieder am Leben! 🎉  
 
-Aber keine Sorge, die „Polizei“ hat jetzt **alles in die Wege geleitet**, damit das „Erbe“ (das plötzlich auf **16,6 Millionen Dollar** angewachsen ist – inflationsbedingt?) doch an Hugo ausgezahlt wird. Der angebliche Gangster **John Lewis wurde gestoppt**, und alles ist nun „re-approved“. Klingt super offiziell, oder? 😆  
+Aber keine Sorge, die „Polizei“ hat jetzt **alles in die Wege geleitet**, damit das „Erbe“ (das plötzlich auf **16,6 Millionen Dollar** angewachsen ist, inflationsbedingt?) doch an Hugo ausgezahlt wird. Der angebliche Gangster **John Lewis wurde gestoppt**, und alles ist nun „re-approved“. Klingt super offiziell, oder? 😆  
 
-Natürlich gibt’s einen **„wichtigen“ Kontakt**, an den Hugo sich wenden soll – einen gewissen *Dr. Mark Peterson* von der *First International Bank*. Der Name klingt seriös, die E-Mail-Adresse wie ein billiger Fake, und die Telefonnummer… na ja, rufen wir lieber nicht an. 📞💀  
+Natürlich gibt’s einen **„wichtigen“ Kontakt**, an den Hugo sich wenden soll, einen gewissen *Dr. Mark Peterson* von der *First International Bank*. Der Name klingt seriös, die E-Mail-Adresse wie ein billiger Fake, und die Telefonnummer… na ja, rufen wir lieber nicht an. 📞💀  
 
-Und das Beste zum Schluss: **„Folgen Sie meinen Anweisungen religiös, und bald werden Sie lächeln!“** – Klingt fast wie ein Sektenversprechen. 😆  
+Und das Beste zum Schluss: **„Folgen Sie meinen Anweisungen religiös, und bald werden Sie lächeln!“**, Klingt fast wie ein Sektenversprechen. 😆  
 
 > Greetings to you from Metropolitan Police UK. We would like to assure you of our protection from any criminals. Good day to you, we just spoke to the bank now for them to stop every communication with Mr. John Lewis and proceed with the transfer of the Fund to you.  
 >   
@@ -120,9 +120,9 @@ Zuerst schauen wir mal auf die Bankwebseite. Zu sehen gibt es hier nichts, eine 
 
 ![Hier gibt es nichts zu sehen!](/posts/2025-02-18_james-olek/webseite.webp)
 
-## **Hugo schreibt der Bank – Zeit für die Millionen!**  
+## **Hugo schreibt der Bank, Zeit für die Millionen!**  
 
-Nach dem Schock über seinen angeblichen Tod und der wundersamen Wiederauferstehung meldet sich Hugo nun also bei der **First International Bank**. Immerhin warten dort **16,6 Millionen Dollar** auf ihn – und die können ja nicht einfach so rumliegen, oder? 😆  
+Nach dem Schock über seinen angeblichen Tod und der wundersamen Wiederauferstehung meldet sich Hugo nun also bei der **First International Bank**. Immerhin warten dort **16,6 Millionen Dollar** auf ihn, und die können ja nicht einfach so rumliegen, oder? 😆  
 
 In seiner gewohnt bescheidenen Art fragt Hugo höflich nach dem Geld. Aber mal ehrlich, **so ein plötzlicher Reichtum wirft Fragen auf**:  
 - Sollte er sich jetzt einen **zweiten BMW** kaufen? 🤔  
@@ -133,7 +133,7 @@ In seiner gewohnt bescheidenen Art fragt Hugo höflich nach dem Geld. Aber mal e
 >   
 > This is Scholz. I just received a message from the Metropolitan Police UK, and they told me that you are the guy I need to talk to about my 16.6 million dollars. First of all, let me say: WOW! That’s a lot of money. I had no idea I was this rich! Maybe I should buy another BMW now. 🚗💨    
 >   
-> Anyway, the police said everything is re-approved, so we can move forward now. Tell me, what do I need to do to get my money? I hope you don’t need any more proof that I’m alive – I’m still drinking beer and working every day, so I think that’s enough.    
+> Anyway, the police said everything is re-approved, so we can move forward now. Tell me, what do I need to do to get my money? I hope you don’t need any more proof that I’m alive, I’m still drinking beer and working every day, so I think that’s enough.    
 >   
 > Looking forward to your instructions. Please let me know if I need to send anything else.    
 >   

@@ -13,7 +13,7 @@ categories:
   - "Phishing"
 thumbnail: "fake.webp"
 url: "posts/2025-02-28_ing-phishing"
-summary: "Phishing-Versuch im Namen der ING – So erkennen Sie die Betrugsmasche."
+summary: "Phishing-Versuch im Namen der ING, So erkennen Sie die Betrugsmasche."
 ---
 
 Immer wieder versuchen Betrüger, mit gefälschten E-Mails an die sensiblen Daten von Bankkunden zu gelangen. Eine aktuelle Phishing-Welle nutzt den Namen der ING-DiBa, um ahnungslose Kunden dazu zu bringen, ihre Zugangsdaten preiszugeben.
@@ -26,7 +26,7 @@ Die betrügerische Nachricht kommt auf den ersten Blick seriös daher und enthä
 
 ![Die vermeintliche E-Mail der Ing](/posts/2025-02-28_ing-phishing/email.webp)
 
-> Betreff: Ihre Kundeninformationen – Telefonnummer fehlt  
+> Betreff: Ihre Kundeninformationen, Telefonnummer fehlt  
 >   
 > Text:„Sehr geehrter Kunde,  
 >   
@@ -36,7 +36,7 @@ Die betrügerische Nachricht kommt auf den ersten Blick seriös daher und enthä
 >   
 > [Mein Login]  
 >   
-> Vielen Dank für Ihr Interesse – und noch einen schönen Tag!Ihre ІNG-DIBA  
+> Vielen Dank für Ihr Interesse, und noch einen schönen Tag!Ihre ІNG-DIBA  
 
 ### Woran erkennt man den Betrug?
 
@@ -66,13 +66,13 @@ Die betrügerische Nachricht kommt auf den ersten Blick seriös daher und enthä
 
 Das bloße Anklicken des Links ist in der Regel noch nicht gefährlich, solange keine persönlichen Daten eingegeben oder schädliche Dateien heruntergeladen und ausgeführt werden. Dennoch sollte man vorsichtig sein.
 
-Nach dem Klick öffnet sich eine täuschend echt aussehende Login-Seite, die der offiziellen ING-Seite stark ähnelt. Doch der Teufel steckt im Detail: Ein QR-Code-Login ist nicht möglich, und die Links auf der Seite sind nicht anklickbar – ein klares Zeichen für eine Fälschung.
+Nach dem Klick öffnet sich eine täuschend echt aussehende Login-Seite, die der offiziellen ING-Seite stark ähnelt. Doch der Teufel steckt im Detail: Ein QR-Code-Login ist nicht möglich, und die Links auf der Seite sind nicht anklickbar, ein klares Zeichen für eine Fälschung.
 
 Stattdessen werden wir aufgefordert, unsere regulären Zugangsdaten einzugeben. Auch auf der echten ING-Seite ist dies möglich, jedoch erhalten wir dort in der App eine zusätzliche Sicherheitswarnung zur Freigabe. Jetzt wird klar, warum: Die Bank schützt uns vor genau solchen Betrugsversuchen!
 
 ![Schritt 1 des Phishings](/posts/2025-02-28_ing-phishing/phishing_1.webp)
 
-Weiter kommen wir jedoch nicht, wenn wir falsche Daten eingeben – wir erhalten eine Fehlermeldung. Dies deutet darauf hin, dass im Hintergrund versucht wird, mit den eingegebenen Daten auf das echte Konto zuzugreifen. Bestätigen wir dann noch die Freigabe auf dem Smartphone, haben die Phisher vollen Zugriff auf unser Konto – **mit potenziell fatalen Folgen**.
+Weiter kommen wir jedoch nicht, wenn wir falsche Daten eingeben, wir erhalten eine Fehlermeldung. Dies deutet darauf hin, dass im Hintergrund versucht wird, mit den eingegebenen Daten auf das echte Konto zuzugreifen. Bestätigen wir dann noch die Freigabe auf dem Smartphone, haben die Phisher vollen Zugriff auf unser Konto, **mit potenziell fatalen Folgen**.
 
 ![Zugangsdaten sind falsch](/posts/2025-02-28_ing-phishing/phishing_2.webp)
 

@@ -43,7 +43,7 @@ Wir wollen uns die Chance nicht entgehen lassen und schreiben mal zurück. Natü
 
 > Hallo Donald,    
 >   
-> dat is ja mal 'ne Überraschung! Einfach so ausgewählt für 'ne Spende? Da habt ihr euch aber den Richtigen ausgesucht! Kann ich das Geld direkt in bar abholen, oder gibt’s dat per Überweisung auf mein Konto? Ich bin übrigens Hugo ausm BMW-Club Wanne-Eickel, und ich schwör euch, dat Geld kommt bei mir gut an – ich bau dann ’ne neue Theke im Clubhaus.    
+> dat is ja mal 'ne Überraschung! Einfach so ausgewählt für 'ne Spende? Da habt ihr euch aber den Richtigen ausgesucht! Kann ich das Geld direkt in bar abholen, oder gibt’s dat per Überweisung auf mein Konto? Ich bin übrigens Hugo ausm BMW-Club Wanne-Eickel, und ich schwör euch, dat Geld kommt bei mir gut an, ich bau dann ’ne neue Theke im Clubhaus.    
 >   
 > Meldet euch mal, bin gespannt, wat ihr noch so an Dokumenten braucht.    
 >   
@@ -96,13 +96,13 @@ Nachdem Hugo aus Wanne-Eickel seine „offiziellen“ Daten samt hochwertigem Fa
 
 > Hallo Donald,    
 >   
-> Dat nenn ich mal 'nen glücklichen Tag! 2,5 Millionen Dollar – meine Kumpels ausm BMW-Club Wanne-Eickel werden vor Neid erblassen! Ich freu mich schon, mit dem Geld ’ne neue Vereinsbude zu bauen, mit vergoldeten Zapfhähnen und ‘nem All-you-can-drink-Automaten!    
+> Dat nenn ich mal 'nen glücklichen Tag! 2,5 Millionen Dollar, meine Kumpels ausm BMW-Club Wanne-Eickel werden vor Neid erblassen! Ich freu mich schon, mit dem Geld ’ne neue Vereinsbude zu bauen, mit vergoldeten Zapfhähnen und ‘nem All-you-can-drink-Automaten!    
 >   
 > Hier sind meine Daten:   
 >   
 > FAKE DATEN  
 >   
-> Lass mich wissen, wie’s weitergeht – ich bin heiß auf die Kohle!    
+> Lass mich wissen, wie’s weitergeht, ich bin heiß auf die Kohle!    
 >   
 > Mit feuchtfröhlichen Grüßen,    
 > Hugo aus Wanne-Eickel    
@@ -114,7 +114,7 @@ Nachdem Hugo aus Wanne-Eickel seine „offiziellen“ Daten samt hochwertigem Fa
 
 Die Betrüger haben Hugos Fake-Daten offenbar ohne Verdacht geschluckt und steigern das Ganze mit noch mehr pseudorechtlichem Blabla. 
 
-Typisch: Jetzt wird ein „Vermittler“ ins Spiel gebracht – ein gewisser Barr. George Southgate, angeblich ein Anwalt, der sich um die Auszahlung kümmern soll. Dazu soll Hugo weitere persönliche Daten, insbesondere Bankverbindungen und einen Scan des Ausweises, einreichen.
+Typisch: Jetzt wird ein „Vermittler“ ins Spiel gebracht, ein gewisser Barr. George Southgate, angeblich ein Anwalt, der sich um die Auszahlung kümmern soll. Dazu soll Hugo weitere persönliche Daten, insbesondere Bankverbindungen und einen Scan des Ausweises, einreichen.
 
 > Sehr geehrte  Hugo  ,  
 >   
@@ -147,7 +147,7 @@ Typisch: Jetzt wird ein „Vermittler“ ins Spiel gebracht – ein gewisser Bar
 
 Nachdem Donald William die großzügige Spende angekündigt hatte, mussten wir natürlich dem „offiziellen Anwalt“ schreiben. Der edle **Barr. George Southgate** von der Kanzlei *Shepherd Light & Co Solicitors* soll nun die Auszahlung unserer 2,5 Millionen Euro regeln. 
 
-Unsere bisherigen Erfahrungen mit Scammern zeigen: Spätestens jetzt kommt die **Vorschussbetrugs-Falle**. Also irgendein „Gebühren“-Betrag, der für „Dokumente“, „Bankverifizierung“ oder „Anwaltskosten“ überwiesen werden muss – natürlich an irgendeine dubiose Zahlungsmethode, die nicht zurückverfolgbar ist.
+Unsere bisherigen Erfahrungen mit Scammern zeigen: Spätestens jetzt kommt die **Vorschussbetrugs-Falle**. Also irgendein „Gebühren“-Betrag, der für „Dokumente“, „Bankverifizierung“ oder „Anwaltskosten“ überwiesen werden muss, natürlich an irgendeine dubiose Zahlungsmethode, die nicht zurückverfolgbar ist.
 
 > Sehr geehrter Herr Southgate,    
 >   
@@ -174,9 +174,9 @@ Unsere bisherigen Erfahrungen mit Scammern zeigen: Spätestens jetzt kommt die *
 
 ## Der vermeintliche Anwalt meldet sich!
 
-Jetzt wird’s spannend – die wollen die Bankdaten! 😆
+Jetzt wird’s spannend, die wollen die Bankdaten! 😆
 
-Natürlich ist das der nächste Schritt in der klassischen Vorschussbetrugsmasche. Statt sofort nach Geld zu fragen, bauen sie weiter Vertrauen auf und tun so, als ob die Überweisung gleich erfolgen könnte – wenn sie nur die vollständigen Bankdaten hätten. 
+Natürlich ist das der nächste Schritt in der klassischen Vorschussbetrugsmasche. Statt sofort nach Geld zu fragen, bauen sie weiter Vertrauen auf und tun so, als ob die Überweisung gleich erfolgen könnte, wenn sie nur die vollständigen Bankdaten hätten. 
 
 In der Realität gibt es natürlich keine Millionen, aber wenn jemand naiv genug ist, seine echten Daten zu schicken, könnten die Scammer damit entweder Betrug begehen oder ihn in eine weitere Falle locken („Die Bank verlangt noch eine kleine Bearbeitungsgebühr“).
 
@@ -209,13 +209,13 @@ In der Realität gibt es natürlich keine Millionen, aber wenn jemand naiv genug
 > SHEPHERD LIGHT & CO SOLICITORS  
 > Tel.: +1-350-204-4106  
 
-### Wir sind erstmal besorgt – Betrug gibt’s ja überall!  
+### Wir sind erstmal besorgt, Betrug gibt’s ja überall!  
 
-Natürlich freut sich Hugo über seine Millionen – aber Moment mal! Man hört ja so viel über **Internetbetrug**, Fake-Gewinne und windige Anwälte, die sich nach ein paar E-Mails in Luft auflösen. Und weil Hugo ein cleverer Kerl ist (also zumindest meistens), will er erstmal sichergehen, dass er hier nicht auf einen Trick reinfällt.  
+Natürlich freut sich Hugo über seine Millionen, aber Moment mal! Man hört ja so viel über **Internetbetrug**, Fake-Gewinne und windige Anwälte, die sich nach ein paar E-Mails in Luft auflösen. Und weil Hugo ein cleverer Kerl ist (also zumindest meistens), will er erstmal sichergehen, dass er hier nicht auf einen Trick reinfällt.  
 
 Also, was tun? Ganz einfach: **Beweis anfordern!**  
 
-Hugo schreibt also an den ehrenwerten **Barr. George Southgate**, dass er natürlich nichts gegen eine Spende hat, aber vorher gerne ein kleines Zeichen des Vertrauens hätte. Ein offizielles Schreiben mit Stempel, ein Anwaltspass – oder einfach ein Selfie von George mit einem Zettel, auf dem „Scholz“ und die **legendäre Referenznummer FPC/HBW/25/EU** stehen.  
+Hugo schreibt also an den ehrenwerten **Barr. George Southgate**, dass er natürlich nichts gegen eine Spende hat, aber vorher gerne ein kleines Zeichen des Vertrauens hätte. Ein offizielles Schreiben mit Stempel, ein Anwaltspass, oder einfach ein Selfie von George mit einem Zettel, auf dem „Scholz“ und die **legendäre Referenznummer FPC/HBW/25/EU** stehen.  
 
 Denn hey, ein echter Anwalt sollte doch kein Problem damit haben, sich kurz auszuweisen, oder? 😉 
 
@@ -226,7 +226,7 @@ Denn hey, ein echter Anwalt sollte doch kein Problem damit haben, sich kurz ausz
 >   
 > Also, könnt ihr mir mal ‘n offizielles Schreiben von eurer Kanzlei schicken, wo das mit der Spende bestätigt wird? Am besten mit Stempel und Unterschrift, damit ich das auch meinem Bankberater zeigen kann. Oder vielleicht einfach ‘n Foto von eurem Anwaltspass oder euch selbst mit ‘nem Zettel, auf dem mein Name und die Referenznummer steht? Dann bin ich sofort beruhigt und die Sache kann losgehen.    
 >   
-> Ich denke, das ist fair – 2,5 Millionen sind ja kein Pappenstiel, und da will man halt sicher sein, dass das kein fauler Zauber ist. Also, schickt mir kurz was rüber, dann kriegt ihr meine Bankdaten.    
+> Ich denke, das ist fair, 2,5 Millionen sind ja kein Pappenstiel, und da will man halt sicher sein, dass das kein fauler Zauber ist. Also, schickt mir kurz was rüber, dann kriegt ihr meine Bankdaten.    
 >   
 > Freu mich auf eure Antwort!    
 >   

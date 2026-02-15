@@ -12,10 +12,10 @@ categories:
     - "Scam"
 thumbnail: "opossum.webp"
 url: "posts/2024-12-31-millions-from-syria"
-summary: "Ein Klassiker der modernen Märchenwelt: Eine 31-jährige UN-Mitarbeiterin aus Texas (oder war es die Tschechische Republik?) schreibt über ihren heldenhaften Einsatz in Syrien – und ihre plötzliche Leidenschaft für die Gastronomie. "
+summary: "Ein Klassiker der modernen Märchenwelt: Eine 31-jährige UN-Mitarbeiterin aus Texas (oder war es die Tschechische Republik?) schreibt über ihren heldenhaften Einsatz in Syrien, und ihre plötzliche Leidenschaft für die Gastronomie. "
 ---
 
-Ein Klassiker der modernen Märchenwelt: Eine 31-jährige UN-Mitarbeiterin aus Texas (oder war es die Tschechische Republik?) schreibt über ihren heldenhaften Einsatz in Syrien – und ihre plötzliche Leidenschaft für die Gastronomie. Mit 2,2 Millionen Dollar im Gepäck und einem Diplomatenkoffer als Zauberstab verspricht sie Ihnen 30 % Beteiligung. Alles, was Sie dafür tun müssen? Na klar, nur schnell helfen. Ironisch gesprochen: Wer könnte bei so viel Herz, Drama und „diplomatischem“ Aufwand widerstehen? 🧳✨
+Ein Klassiker der modernen Märchenwelt: Eine 31-jährige UN-Mitarbeiterin aus Texas (oder war es die Tschechische Republik?) schreibt über ihren heldenhaften Einsatz in Syrien, und ihre plötzliche Leidenschaft für die Gastronomie. Mit 2,2 Millionen Dollar im Gepäck und einem Diplomatenkoffer als Zauberstab verspricht sie Ihnen 30 % Beteiligung. Alles, was Sie dafür tun müssen? Na klar, nur schnell helfen. Ironisch gesprochen: Wer könnte bei so viel Herz, Drama und „diplomatischem“ Aufwand widerstehen? 🧳✨
 
 ## Die erste E-Mail 
 
@@ -278,7 +278,7 @@ Da müssen wir wohl in Vorkasse gehen! Fragen wir mal nach, wie das bezahlt werd
 
 ## Arisha ist fertig mit der Welt
 
-Nun drückt Arisha auf die Tränendrüse: Tränen fließen, das Herz ist schwer, und die dramatische Bitte, sie als "Schwester" zu sehen, darf natürlich nicht fehlen. Mit viel Pathos wird uns erklärt, dass ohne die ominöse „Diplomatic Insurance Tag Fee“ der Koffer im türkischen Flughafen verloren geht – ein Schicksal schlimmer als jede Soap-Opera!
+Nun drückt Arisha auf die Tränendrüse: Tränen fließen, das Herz ist schwer, und die dramatische Bitte, sie als "Schwester" zu sehen, darf natürlich nicht fehlen. Mit viel Pathos wird uns erklärt, dass ohne die ominöse „Diplomatic Insurance Tag Fee“ der Koffer im türkischen Flughafen verloren geht, ein Schicksal schlimmer als jede Soap-Opera!
 
 >  Good evening, How are you today?   
 > Please, I have read your message carefully, and I understand your situation. That is why I pleaded with you yesterday, because I don't know what to tell you other than to beg you because I don't want to lose the luggage at the Turkish airport. According to the shipping company, the airport authority will be confiscating the shipment if we fail to pay the insurance certificate fee, and I have been crying since yesterday evening because I am in a very bad situation here in Syria, which I can't even help myself with, so please I want you to see me as your sister and save my life, and I will forever be grateful.  
@@ -383,7 +383,7 @@ Gut, wenn Vivid nicht zuständig ist, suchen wir weiter. Die Recherche ergibt, d
 
 ### Antwort
 
-Der Verweis auf Artikel 27 der Wiener Konvention? Klingt beeindruckend, aber auch verdächtig nach einem Griff ins Regal für „klingt offiziell, aber bitte nicht nachfragen“. Das lassen wir uns natürlich nicht zweimal sagen und ziehen unser Ass aus dem Ärmel: ChatGPT. Wenn Diplomatie auf Scam trifft, wird’s erst richtig interessant – also fragen wir mal nach, ob dieser Artikel wirklich die geheime Grundlage für Kofferreisen nach Hamburg ist.
+Der Verweis auf Artikel 27 der Wiener Konvention? Klingt beeindruckend, aber auch verdächtig nach einem Griff ins Regal für „klingt offiziell, aber bitte nicht nachfragen“. Das lassen wir uns natürlich nicht zweimal sagen und ziehen unser Ass aus dem Ärmel: ChatGPT. Wenn Diplomatie auf Scam trifft, wird’s erst richtig interessant, also fragen wir mal nach, ob dieser Artikel wirklich die geheime Grundlage für Kofferreisen nach Hamburg ist.
 
 > Dear Fexpress,  
 >   
@@ -406,7 +406,7 @@ Der Verweis auf Artikel 27 der Wiener Konvention? Klingt beeindruckend, aber auc
 
 Die Antwort gibt uns ein bisschen mehr Stoff, aber nicht unbedingt mehr Klarheit. Hier eine kurze Zusammenfassung für den Blog:
 
-Und wieder eine kreative Runde im "Diplomatic Luggage Adventure"! Jetzt wird erklärt, dass Artikel 27 der Wiener Konvention natürlich Immunität gewährt, aber diese angeblich Grenzen hat – insbesondere bei "diplomatischen Versicherungen". Ohne die obligatorischen Papiere, so heißt es, bleibt unser Koffer in der Türkei stecken, oder schlimmer noch, er wird beschlagnahmt! Doch keine Sorge, wir könnten die Dokumente selbst beschaffen, wenn wir zufällig einen diplomatischen Pass in der Schublade hätten. Praktischerweise bietet die Firma diesen Service aber gleich mit an. Klingt nach einem fairen Deal, oder? 😉
+Und wieder eine kreative Runde im "Diplomatic Luggage Adventure"! Jetzt wird erklärt, dass Artikel 27 der Wiener Konvention natürlich Immunität gewährt, aber diese angeblich Grenzen hat, insbesondere bei "diplomatischen Versicherungen". Ohne die obligatorischen Papiere, so heißt es, bleibt unser Koffer in der Türkei stecken, oder schlimmer noch, er wird beschlagnahmt! Doch keine Sorge, wir könnten die Dokumente selbst beschaffen, wenn wir zufällig einen diplomatischen Pass in der Schublade hätten. Praktischerweise bietet die Firma diesen Service aber gleich mit an. Klingt nach einem fairen Deal, oder? 😉
 
 > We at Fexpress Diplomatic Security Delivery Company have received your message, and we will explain everything for you so that you will know how diplomatic delivery works, and as we explained to your partner before, under the provisions of Article 27 of the Vienna Convention on diplomatic relations, in all world diplomatic logistics companies, the diplomatic insurance will be requested in the German airport as usual and as governed by all companies in diplomatic countries because we must provide the insurance for the consignment to Turkish airport authority before we can depart to Hamburg, Deutschland, and without it, the consignment would be detained by Turkish airport authorities.  
 >   
@@ -430,7 +430,7 @@ Idee: wir haben doch [bereits einen Anwalt](https://acapio.de/posts/2024-12-25_t
 
 ### Scammer lassen sich darauf nicht ein
 
-Man will uns nicht auf dumme Gedanken bringen und pocht lieber auf die Dringlichkeit: Hohe Lagergebühren drohen, und Dritte einzuschalten sei natürlich streng verboten – schließlich soll der Betrug nicht komplizierter werden als nötig.
+Man will uns nicht auf dumme Gedanken bringen und pocht lieber auf die Dringlichkeit: Hohe Lagergebühren drohen, und Dritte einzuschalten sei natürlich streng verboten, schließlich soll der Betrug nicht komplizierter werden als nötig.
 
 > Please understand that this is a diplomatic matter, and involving a third party without a diplomatic license will implicate this matter.  
 >   
@@ -444,7 +444,7 @@ Man will uns nicht auf dumme Gedanken bringen und pocht lieber auf die Dringlich
 
 ## Wir wollen jetzt eine Rechnung
 
-Rechtsanwälte? Nein, danke. Aber ein bisschen Bürokratie muss sein – schließlich leben wir in Deutschland. Eine Zahlung ohne ordentliche Rechnung? Undenkbar! Wir haben deshalb höflich nach einem Beleg gefragt. Mal sehen, ob unser guter Freund Musa Ali den Anforderungen der deutschen Buchhaltungskunst gewachsen ist.
+Rechtsanwälte? Nein, danke. Aber ein bisschen Bürokratie muss sein, schließlich leben wir in Deutschland. Eine Zahlung ohne ordentliche Rechnung? Undenkbar! Wir haben deshalb höflich nach einem Beleg gefragt. Mal sehen, ob unser guter Freund Musa Ali den Anforderungen der deutschen Buchhaltungskunst gewachsen ist.
 
 > Dear Mrr. Musa Ali,  
 >   
@@ -466,4 +466,4 @@ Rechtsanwälte? Nein, danke. Aber ein bisschen Bürokratie muss sein – schlie�
 
 Das Abenteuer mit Arisha und ihrer mysteriösen Millionenfracht endet leider ohne Happy End. Seitdem unsere kleine investigative Recherche samt Screenshot-Dokumentation auf Google Platz eins kletterte, herrscht Funkstille in der Diplomaten-Lounge. Ob sich Arisha jetzt mit ihren Koffern in die nächstbeste Scam-Wüste verabschiedet hat oder still ein neues Opfer sucht? Man weiß es nicht.
 
-Was bleibt, ist die Erkenntnis: Mit ein bisschen Geduld und Humor können selbst die absurdesten Betrugsmaschen entzaubert werden. Und wer weiß – vielleicht ist irgendwo in den unendlichen Weiten des Internets gerade eine „Fexpress“-Belegschaft am Grübeln, warum ihre charmante Masche diesmal nicht so recht zünden wollte. 🧳✨
+Was bleibt, ist die Erkenntnis: Mit ein bisschen Geduld und Humor können selbst die absurdesten Betrugsmaschen entzaubert werden. Und wer weiß, vielleicht ist irgendwo in den unendlichen Weiten des Internets gerade eine „Fexpress“-Belegschaft am Grübeln, warum ihre charmante Masche diesmal nicht so recht zünden wollte. 🧳✨

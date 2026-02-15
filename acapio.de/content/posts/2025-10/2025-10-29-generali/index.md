@@ -1,5 +1,5 @@
 ---
-title: "💸 Die 992.335-Euro-Spende von Generali – Hugo wartet immer noch auf sein Geld!"
+title: "💸 Die 992.335-Euro-Spende von Generali, Hugo wartet immer noch auf sein Geld!"
 params:
   author: Andy
 date: "2025-10-29"
@@ -11,10 +11,10 @@ categories:
   - "Scam"
 thumbnail: "lotto.webp"
 url: "posts/2025-10-29_generali"
-summary: "Wieder einmal flattert eine großzügige Spende ins Postfach – diesmal angeblich von *Generali S.p.A.*, und zwar in Höhe von exakt **992.335 Euro**. Hugo aus Wanne-Eickel soll das Geld nur noch „abholen“. Leider hat der Bankmanager wohl vergessen, dass Hugo kein Lotto gespielt hat. Ein neuer Klassiker aus der Abteilung „Geldregen per E-Mail“."
+summary: "Wieder einmal flattert eine großzügige Spende ins Postfach, diesmal angeblich von *Generali S.p.A.*, und zwar in Höhe von exakt **992.335 Euro**. Hugo aus Wanne-Eickel soll das Geld nur noch „abholen“. Leider hat der Bankmanager wohl vergessen, dass Hugo kein Lotto gespielt hat. Ein neuer Klassiker aus der Abteilung „Geldregen per E-Mail“."
 ---
 
-Es ist schon erstaunlich, wie oft das Schicksal versucht, Hugo  reich zu machen. Kaum hat er sich von der letzten Erbschaft des nigerianischen Prinzen erholt, da flattert schon die nächste Überraschung ins Postfach: eine **Spende von exakt 992.335,00 Euro**! Und das nicht von irgendwem – nein, von der ehrwürdigen *Generali Versicherung*.
+Es ist schon erstaunlich, wie oft das Schicksal versucht, Hugo  reich zu machen. Kaum hat er sich von der letzten Erbschaft des nigerianischen Prinzen erholt, da flattert schon die nächste Überraschung ins Postfach: eine **Spende von exakt 992.335,00 Euro**! Und das nicht von irgendwem, nein, von der ehrwürdigen *Generali Versicherung*.
 
 Ein gewisser „Bankmanager“ sei ganz aufgeregt, weil Hugo das Geld bisher nicht abgeholt habe. Offenbar wartet das Vermögen schon ungeduldig auf einem Konto irgendwo im Nirgendwo. 
 
@@ -28,19 +28,19 @@ Alles, was Hugo tun muss: ganz schnell eine E-Mail an **generali_s@aol.com** sch
 >   
 > Für weitere Informationen zum Erhalt Ihrer Gelder kontaktieren Sie bitte unser Team so schnell wie möglich per E-Mail: generali_s@aol.com  
 
-Doch bevor Hugo seinen alten BMW Richtung Bank startet, schauen wir uns diese Spende mal genauer an – und warum sie eher nach Spam riecht als nach Sponsoring.
+Doch bevor Hugo seinen alten BMW Richtung Bank startet, schauen wir uns diese Spende mal genauer an, und warum sie eher nach Spam riecht als nach Sponsoring.
 
 ## Hugos vorsichtige Neugier 🕵️‍♂️
 
-Hugo wäre ja nicht Hugo, wenn er sich nicht wenigstens kurz Hoffnung machen würde. 992.335 Euro – da kann man schon mal einen neuen Grill und ein paar Kisten Bier einplanen. Trotzdem ist er misstrauisch, schließlich warnt der Dackelclub Wanne-Eickel regelmäßig vor Internetbetrügern, die angeblich Spenden oder Erbschaften verteilen.
+Hugo wäre ja nicht Hugo, wenn er sich nicht wenigstens kurz Hoffnung machen würde. 992.335 Euro, da kann man schon mal einen neuen Grill und ein paar Kisten Bier einplanen. Trotzdem ist er misstrauisch, schließlich warnt der Dackelclub Wanne-Eickel regelmäßig vor Internetbetrügern, die angeblich Spenden oder Erbschaften verteilen.
 
-Also schreibt Hugo höflich, aber mit gesundem Ruhrpott-Realismus: Er habe noch nie von dieser Spende gehört, wolle aber gern Beweise sehen – am besten mit Briefkopf, Stempel oder einer richtigen Generali-E-Mail-Adresse, nicht irgendwas von *aol.com*.
+Also schreibt Hugo höflich, aber mit gesundem Ruhrpott-Realismus: Er habe noch nie von dieser Spende gehört, wolle aber gern Beweise sehen, am besten mit Briefkopf, Stempel oder einer richtigen Generali-E-Mail-Adresse, nicht irgendwas von *aol.com*.
 
-Man spürt: Hugo will ja niemandem was Böses unterstellen. Aber selbst zwischen Currywurst und Clubabend gilt die alte Regel – **wer Geld verschenkt, schreibt keine Mails mit Rechtschreibfehlern und AOL-Adresse**.
+Man spürt: Hugo will ja niemandem was Böses unterstellen. Aber selbst zwischen Currywurst und Clubabend gilt die alte Regel, **wer Geld verschenkt, schreibt keine Mails mit Rechtschreibfehlern und AOL-Adresse**.
 
 > Hallo liebes Generali-Team,  
 >   
-> ich hab heute Ihre E-Mail bekommen, wegen der Spende über 992.335 Euro. Da bin ich erstmal fast vom Stuhl gefallen, weil ich davon ehrlich gesagt zum ersten Mal höre. Ich wüsste jetzt auch gar nicht, warum mir jemand so viel Geld schenken sollte – ich bin ja kein Verein oder so, sondern einfach nur der Hugo aus Wanne-Eickel, Fahrer im BMW-Club.  
+> ich hab heute Ihre E-Mail bekommen, wegen der Spende über 992.335 Euro. Da bin ich erstmal fast vom Stuhl gefallen, weil ich davon ehrlich gesagt zum ersten Mal höre. Ich wüsste jetzt auch gar nicht, warum mir jemand so viel Geld schenken sollte, ich bin ja kein Verein oder so, sondern einfach nur der Hugo aus Wanne-Eickel, Fahrer im BMW-Club.  
 >   
 > Ich will jetzt auch nix Falsches sagen, aber im Internet liest man ja dauernd was von Betrug, falschen Banken und so Spenden, die gar keine sind. Da bin ich lieber erstmal vorsichtig, bevor ich irgendwo meine Daten hinschicke.  
 >   
@@ -48,14 +48,14 @@ Man spürt: Hugo will ja niemandem was Böses unterstellen. Aber selbst zwischen
 >   
 > Beste Grüße aus Wanne-Eickel  
 > Hugo  
-> BMW-Club Wanne-Eickel – Abt. Sponsoring und Grillfest  
+> BMW-Club Wanne-Eickel, Abt. Sponsoring und Grillfest  
 
 
 ## Das Wikipedia-Kompendium des Betrugs 📚
 
-Hugo staunte nicht schlecht: Noch bevor er „Guten Tag“ sagen konnte, flatterte ihm eine halbe Geschichtsvorlesung ins Postfach. Ganze Absätze über die **Firmengeschichte von Generali**, garniert mit Jahreszahlen, Rankings und CEOs – so viel Mühe gibt sich nicht mal die echte Versicherung, wenn man einen Schaden meldet.
+Hugo staunte nicht schlecht: Noch bevor er „Guten Tag“ sagen konnte, flatterte ihm eine halbe Geschichtsvorlesung ins Postfach. Ganze Absätze über die **Firmengeschichte von Generali**, garniert mit Jahreszahlen, Rankings und CEOs, so viel Mühe gibt sich nicht mal die echte Versicherung, wenn man einen Schaden meldet.
 
-Doch zwischen all den wohlklingenden Fakten versteckt sich die eigentliche Absicht: **Name, Adresse, Telefonnummer, Bankverbindung, IBAN und BIC** – alles bitte *sofort* übermitteln. Und natürlich „niemandem etwas erzählen“, sonst werde man „disqualifiziert“. Das klingt weniger nach seriöser Spendenplattform als nach einem schlechten „Mission Impossible“-Drehbuch.
+Doch zwischen all den wohlklingenden Fakten versteckt sich die eigentliche Absicht: **Name, Adresse, Telefonnummer, Bankverbindung, IBAN und BIC**, alles bitte *sofort* übermitteln. Und natürlich „niemandem etwas erzählen“, sonst werde man „disqualifiziert“. Das klingt weniger nach seriöser Spendenplattform als nach einem schlechten „Mission Impossible“-Drehbuch.
 
 > Assicurazioni Generali S.p.A.  
 > Ihr Generali Sponsor Code: {SpA09/666/08GS}.  
@@ -98,32 +98,32 @@ Doch zwischen all den wohlklingenden Fakten versteckt sich die eigentliche Absic
 
 ### Hugo plant die Bildungsreise nach Triest 🚗🇮🇹
 
-Da staunen selbst die Betrüger: Hugo lässt sich von keiner AOL-Adresse einschüchtern – aber auch nicht übers Ohr hauen. Statt seine IBAN rauszurücken, bietet er kurzerhand an, **die 992.335 Euro persönlich in Triest abzuholen**. Schließlich soll man bei so großen Summen ja lieber „mal vorbeischauen“.
+Da staunen selbst die Betrüger: Hugo lässt sich von keiner AOL-Adresse einschüchtern, aber auch nicht übers Ohr hauen. Statt seine IBAN rauszurücken, bietet er kurzerhand an, **die 992.335 Euro persönlich in Triest abzuholen**. Schließlich soll man bei so großen Summen ja lieber „mal vorbeischauen“.
 
 Der Plan steht: Mit dem **BMW** und einem Kumpel aus dem Dackelclub, der „ein bisschen Italienisch kann“, will Hugo notfalls selbst anrücken, um das Bargeld zu sichern. Kofferraum leer, Navi programmiert, Reisesnack eingepackt.
 
-Dass der vermeintliche Vorstand von Generali eine **AOL-Adresse** nutzt, findet Hugo übrigens gar nicht so schlimm – „Vielleicht sparen die halt am IT-Budget, damit mehr für die Spenden übrig bleibt.“
+Dass der vermeintliche Vorstand von Generali eine **AOL-Adresse** nutzt, findet Hugo übrigens gar nicht so schlimm, „Vielleicht sparen die halt am IT-Budget, damit mehr für die Spenden übrig bleibt.“
 
 > Hallo Herr Sironi,  
 >   
-> vielen Dank erstmal für Ihre lange Nachricht, hab ich mit Interesse gelesen. Sie wissen aber auch wirklich viel über Ihre Firma – das war ja fast wie ein Geschichtsunterricht! Ich musste zwischendurch erstmal einen Kaffee holen.  
+> vielen Dank erstmal für Ihre lange Nachricht, hab ich mit Interesse gelesen. Sie wissen aber auch wirklich viel über Ihre Firma, das war ja fast wie ein Geschichtsunterricht! Ich musste zwischendurch erstmal einen Kaffee holen.  
 >   
-> Ich freu mich natürlich über die Spende, aber Sie müssen wissen: Ich bin mit Computern nicht so bewandert und hab schon oft gehört, dass es im Internet viel Betrug gibt. Deshalb geb ich meine Bankdaten eigentlich ungern raus, vor allem nicht an eine AOL-Adresse. Ich wusste gar nicht, dass es das überhaupt noch gibt – Respekt, dass Sie das noch benutzen!  
+> Ich freu mich natürlich über die Spende, aber Sie müssen wissen: Ich bin mit Computern nicht so bewandert und hab schon oft gehört, dass es im Internet viel Betrug gibt. Deshalb geb ich meine Bankdaten eigentlich ungern raus, vor allem nicht an eine AOL-Adresse. Ich wusste gar nicht, dass es das überhaupt noch gibt, Respekt, dass Sie das noch benutzen!  
 >   
 > Könnte man das Geld vielleicht bar abholen? Ich komm notfalls mit dem BMW runter nach Triest, das sind laut Navi so 1.050 Kilometer. Ich nehm den Vereinskameraden vom Dackelclub mit, der spricht ein bisschen Italienisch, falls es an der Grenze Fragen gibt.  
 > Oder Sie schicken mir einfach ein offizielles Schreiben mit Stempel, damit ich das der Sparkasse hier in Wanne-Eickel zeigen kann.  
 >   
 > Beste Grüße und Buona Sera ausm Ruhrpott  
 > Hugo  
-> BMW-Club Wanne-Eickel – Abt. Sponsoring & Grillfest  
+> BMW-Club Wanne-Eickel, Abt. Sponsoring & Grillfest  
 
 ## Fazit: Hugo wartet, Generali schweigt 🕵️‍♂️💶
 
-Und so endet auch diese Episode aus der unendlichen Reihe „Wie das Internet Hugo reich machen wollte“. Seit Hugos letztem Schreiben herrscht Funkstille. Weder aus Triest noch aus der AOL-Zentrale kam eine Antwort – vielleicht hat der angebliche Vorstand von Generali gerade seinen Posteingang gelöscht oder die Geschichte war einfach zu heiß.
+Und so endet auch diese Episode aus der unendlichen Reihe „Wie das Internet Hugo reich machen wollte“. Seit Hugos letztem Schreiben herrscht Funkstille. Weder aus Triest noch aus der AOL-Zentrale kam eine Antwort, vielleicht hat der angebliche Vorstand von Generali gerade seinen Posteingang gelöscht oder die Geschichte war einfach zu heiß.
 
 Hugo nimmt’s gelassen. Statt Millionenregen gab’s immerhin wieder was zu erzählen beim Grillabend des BMW-Clubs. Die Moral der Geschichte: **Wer 992.335 Euro per E-Mail verspricht, hat meist nicht mal 9,92 Euro Porto übrig.**
 
-Und während die Betrüger wohl schon den nächsten „Begünstigten“ anschreiben, bleibt Hugo wachsam – mit einem klaren Leitsatz:
+Und während die Betrüger wohl schon den nächsten „Begünstigten“ anschreiben, bleibt Hugo wachsam, mit einem klaren Leitsatz:
 
 > „Wenn Generali mir wirklich was schenken will, dann schicken die mir nen Brief. Und keinen Roman mit AOL-Adresse.“
 

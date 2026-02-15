@@ -1,5 +1,5 @@
 --- 
-title: "✈️ Ethiopian Airlines Flight 302 – Wie Betrüger eine Tragödie für Abzocke nutzen"
+title: "✈️ Ethiopian Airlines Flight 302, Wie Betrüger eine Tragödie für Abzocke nutzen"
 params:
   author: Andy
 date: "2025-01-31"
@@ -20,7 +20,7 @@ Ein Millionen-Erbe von einem unbekannten Verstorbenen? Betrüger missbrauchen tr
 ## Die E-Mail von mrbrightmp@gmail.com
 
 
-Ein angeblicher Bankdirektor aus Südafrika behauptet, ein ausländischer Kunde namens Mathy Reinhold sei beim Absturz von Ethiopian Airlines Flug 302 ums Leben gekommen. Da es keinen Erben gebe, solle der Empfänger als „nächster Verwandter“ auftreten und 15 Millionen Dollar erben – natürlich gegen eine Gewinnbeteiligung für den Absender. 
+Ein angeblicher Bankdirektor aus Südafrika behauptet, ein ausländischer Kunde namens Mathy Reinhold sei beim Absturz von Ethiopian Airlines Flug 302 ums Leben gekommen. Da es keinen Erben gebe, solle der Empfänger als „nächster Verwandter“ auftreten und 15 Millionen Dollar erben, natürlich gegen eine Gewinnbeteiligung für den Absender. 
 
 Alles sei legal und sicher, man müsse nur vertrauensvoll mitmachen!
 
@@ -64,7 +64,7 @@ Natürlich lassen wir uns eine solche Change nicht entgehen und antworten, auch 
 
 ## Die Masche: Ein Millionen-Erbe aus dem Nichts  
 
-Die Betrüger-E-Mails folgen immer demselben Muster: Ein angeblicher Bankdirektor aus Südafrika schreibt, dass ein reicher Kunde, **Mr. Mathy Reinhold**, beim Absturz von Ethiopian Airlines Flug 302 ums Leben gekommen sei – natürlich **ohne Erben**. Wie praktisch!  
+Die Betrüger-E-Mails folgen immer demselben Muster: Ein angeblicher Bankdirektor aus Südafrika schreibt, dass ein reicher Kunde, **Mr. Mathy Reinhold**, beim Absturz von Ethiopian Airlines Flug 302 ums Leben gekommen sei, natürlich **ohne Erben**. Wie praktisch!  
 
 Da das Geld sonst verfallen würde, bietet der „seriöse Banker“ nun an, dass man sich einfach als **verlorener Verwandter** ausgibt und **15 Millionen Dollar** kassiert. Alles sei **100 % legal** (klar doch!), man müsse nur ein paar Formulare ausfüllen und sich **vertrauenswürdig** verhalten. Natürlich gibt es 40 % für den Glücklichen, der die E-Mail bekommt, und 60 % für den Banker, weil Betrügen ja auch fair sein muss.  
 
@@ -100,7 +100,7 @@ Die längliche E-Mail:
 
 ### Wir antworten  
 
-Natürlich konnten wir uns diese Gelegenheit nicht entgehen lassen und haben **Hugo aus Wanne-Eickel** ins Rennen geschickt. Schließlich ist es nicht jeden Tag, dass einem **15 Millionen Dollar** auf dem Silbertablett serviert werden – von einem völlig unbekannten Banker mit einer **Gmail-Adresse**. 🤔  
+Natürlich konnten wir uns diese Gelegenheit nicht entgehen lassen und haben **Hugo aus Wanne-Eickel** ins Rennen geschickt. Schließlich ist es nicht jeden Tag, dass einem **15 Millionen Dollar** auf dem Silbertablett serviert werden, von einem völlig unbekannten Banker mit einer **Gmail-Adresse**. 🤔  
 
 Hugo zeigt sich begeistert und stellt die wirklich wichtigen Fragen: **Kann er das Geld in bar bekommen?** Schließlich traut er Banken nicht mehr, seit sie seine 50 Euro „verloren“ haben. Ein **geheimer Koffer-Deal in seiner Garage** wäre ihm da lieber. Außerdem muss natürlich geklärt werden, **wie man beweist, dass man der verschollene Erbe** ist. Vielleicht reicht es, sich als **„Mathys Cousin aus Wanne-Eickel“** auszugeben?  
 
@@ -108,7 +108,7 @@ Mit einer Mischung aus Naivität, dreistem Humor und ein paar Bier intus bringt 
 
 > Dear Mr. Brighton Maphosa,    
 >   
-> Wow, I really like your enthusiasm! You are so confident – that makes me feel safe. I totally understand the need for secrecy. I won’t tell anyone, not even my friend Kevin from the BMW Club (and he is very trustworthy).    
+> Wow, I really like your enthusiasm! You are so confident, that makes me feel safe. I totally understand the need for secrecy. I won’t tell anyone, not even my friend Kevin from the BMW Club (and he is very trustworthy).    
 >   
 > Before we proceed, I have an important question: Can we make the transfer in cash? I don’t trust banks, you know. Too many fees, and last time they lost my 50 Euro deposit. Maybe we can arrange a secret suitcase exchange in my garage? I can even clean up a bit to make space.    
 >   

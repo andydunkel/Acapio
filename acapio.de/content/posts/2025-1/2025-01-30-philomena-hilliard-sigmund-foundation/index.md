@@ -14,7 +14,7 @@ url: "posts/2025-01-30-anthonycharities"
 summary: "Philomena Hilliard verspricht eine Mega-Spende! Hugo schreitet zur Tat!"
 ---
 
-Herzlichen Glückwunsch! Sie wurden per streng wissenschaftlicher *Spinball*-Methode auserwählt, fast 900.000 Dollar geschenkt zu bekommen – einfach so! 
+Herzlichen Glückwunsch! Sie wurden per streng wissenschaftlicher *Spinball*-Methode auserwählt, fast 900.000 Dollar geschenkt zu bekommen, einfach so! 
 
 ## Die E-Mail von "philomenahilliard@gmail.com"
 
@@ -27,7 +27,7 @@ Wir antworten kurz und knapp und warten auf eine Reaktion!
 
 ### Die lange Antwort!!!!!
 
-Wow! Was für eine epische Geschichte! Philomena, die wohltätige Millionärin, hat uns nicht nur zufällig, sondern auch *göttlich* auserwählt, fast **900.000 Dollar** zu bekommen. Und das völlig ohne Gegenleistung – na gut, außer vielleicht einer kleinen „Legitimationsprüfung“ mit unseren persönlichen Daten. 🤡  
+Wow! Was für eine epische Geschichte! Philomena, die wohltätige Millionärin, hat uns nicht nur zufällig, sondern auch *göttlich* auserwählt, fast **900.000 Dollar** zu bekommen. Und das völlig ohne Gegenleistung, na gut, außer vielleicht einer kleinen „Legitimationsprüfung“ mit unseren persönlichen Daten. 🤡  
 
 Aber keine Sorge! Ihr ehrwürdiger Anwalt **Barr. Marcus Sherman Owens** kümmert sich rührend darum.
 
@@ -67,11 +67,11 @@ Natürlich schauen wir auch mal auf die Webseite des Anwaltes, welche aber nur d
 
 ### Wir schreiben dem Anwalt: shermanlawfirm@owens-marcus.com
 
-Auch wenn es diesmal *nur* 890.000 Dollar sind und wir knapp an der Millionenmarke vorbeischrammen, wollen wir uns die Gelegenheit natürlich nicht entgehen lassen – schließlich geht es um **Wohltätigkeit!** 💸✨  
+Auch wenn es diesmal *nur* 890.000 Dollar sind und wir knapp an der Millionenmarke vorbeischrammen, wollen wir uns die Gelegenheit natürlich nicht entgehen lassen, schließlich geht es um **Wohltätigkeit!** 💸✨  
 
 > Sehr geehrter Barr. Marcus Sherman Owens,    
 >   
-> vielen Dank für die unglaubliche Möglichkeit, stolze $890.000,00 zu erhalten! Ich muss zugeben, dass ich zunächst dachte, solche Dinge passieren nur anderen – aber dann habe ich mich an meine Glückszahl erinnert: PHS7579392BS. Das kann kein Zufall sein!    
+> vielen Dank für die unglaubliche Möglichkeit, stolze $890.000,00 zu erhalten! Ich muss zugeben, dass ich zunächst dachte, solche Dinge passieren nur anderen, aber dann habe ich mich an meine Glückszahl erinnert: PHS7579392BS. Das kann kein Zufall sein!    
 >   
 > Wie gewünscht, hier meine Daten für die Bearbeitung:    
 >   
@@ -82,11 +82,11 @@ Auch wenn es diesmal *nur* 890.000 Dollar sind und wir knapp an der Millionenmar
 > Postleitzahl: 22305    
 > Stadt: Hamburg    
 > Land: Deutschland    
-> Beruf: Fahrer – aber vielleicht nicht mehr lange, wenn das Geld bald da ist 😉    
+> Beruf: Fahrer, aber vielleicht nicht mehr lange, wenn das Geld bald da ist 😉    
 >   
 > Ich bin mir sicher, dass Ihre renommierte Kanzlei den Prozess schnell und professionell abwickelt. Schließlich geht es hier um eine große, völlig uneigennützige Spende einer großzügigen Wohltäterin, die zufällig mein bescheidenes E-Mail-Postfach getroffen hat.    
 >   
-> Falls noch weitere Informationen benötigt werden (z. B. meine Lieblingsfarbe oder der Name meines ersten Haustiers – rein aus Sicherheitsgründen natürlich), lassen Sie es mich wissen. Ich bin gespannt, wie es weitergeht und freue mich schon darauf, das Geld für *absolut ehrliche und gemeinnützige Zwecke* einzusetzen.    
+> Falls noch weitere Informationen benötigt werden (z. B. meine Lieblingsfarbe oder der Name meines ersten Haustiers, rein aus Sicherheitsgründen natürlich), lassen Sie es mich wissen. Ich bin gespannt, wie es weitergeht und freue mich schon darauf, das Geld für *absolut ehrliche und gemeinnützige Zwecke* einzusetzen.    
 >   
 > Mit vorfreudigen Grüßen,    
 > Scholz    
@@ -95,9 +95,9 @@ Auch wenn es diesmal *nur* 890.000 Dollar sind und wir knapp an der Millionenmar
 
 ### Jetzt wird’s offiziell: Der Anwalt braucht meinen Ausweis!
 
-Kaum haben wir zugesagt, ändert sich plötzlich die Spendenquelle – aus **Philomena Hilliard** wird **Charlotte Grace**, aus der **Philomena-Stiftung** die **Phoenix Foundation**, kennt noch jemand MacGyver?. Aber hey, wer achtet schon auf Details, wenn fast eine Million Dollar winken? 😆  
+Kaum haben wir zugesagt, ändert sich plötzlich die Spendenquelle, aus **Philomena Hilliard** wird **Charlotte Grace**, aus der **Philomena-Stiftung** die **Phoenix Foundation**, kennt noch jemand MacGyver?. Aber hey, wer achtet schon auf Details, wenn fast eine Million Dollar winken? 😆  
 
-Jetzt wird’s spannend: Damit die Auszahlung stattfinden kann, **braucht der Anwalt dringend eine Kopie unseres Personalausweises**. Ist ja logisch – *Betrüger brauchen auch mal was Handfestes*! 
+Jetzt wird’s spannend: Damit die Auszahlung stattfinden kann, **braucht der Anwalt dringend eine Kopie unseres Personalausweises**. Ist ja logisch, *Betrüger brauchen auch mal was Handfestes*! 
 
 > Ich möchte mich als Rechtsanwalt von Marcus Owens und als  
 > persönlicher/finanzieller Anwalt von Frau Grace Charlotte vorstellen.  
@@ -147,7 +147,7 @@ Jetzt wird’s spannend: Damit die Auszahlung stattfinden kann, **braucht der An
 
 ### Wir sind verwirrt!  
 
-Also Moment mal – war das nicht **Philomena Hilliard**, die uns großzügig fast **900.000 Dollar** schenken wollte? Und jetzt kommt plötzlich ein gewisser **Barr. Marcus Sherman Owens** um die Ecke und erzählt uns, dass das Geld eigentlich von **Charlotte Grace** und ihrer **Phoenix Foundation** stammt? 🤔  
+Also Moment mal, war das nicht **Philomena Hilliard**, die uns großzügig fast **900.000 Dollar** schenken wollte? Und jetzt kommt plötzlich ein gewisser **Barr. Marcus Sherman Owens** um die Ecke und erzählt uns, dass das Geld eigentlich von **Charlotte Grace** und ihrer **Phoenix Foundation** stammt? 🤔  
 Auf jeden Fall wollten wir das natürlich genau wissen und haben höflich nachgefragt. 🎭💸
 
 > Sehr geehrter Barr. Marcus Sherman Owens,    
@@ -165,7 +165,7 @@ Auf jeden Fall wollten wir das natürlich genau wissen und haben höflich nachge
 
 ## Oops, ein „Tippfehler“!
 
-Gut, dass wir nachgefragt haben! Denn unser lieber **Barr. Marcus Sherman Owens** hatte sich schlicht vertippt – statt **Philomena Hilliard** hat er aus Versehen **Charlotte Grace** geschrieben. Kann ja mal passieren, wenn man täglich hunderte Mails an ahnungslose Opfer schickt. 😆  
+Gut, dass wir nachgefragt haben! Denn unser lieber **Barr. Marcus Sherman Owens** hatte sich schlicht vertippt, statt **Philomena Hilliard** hat er aus Versehen **Charlotte Grace** geschrieben. Kann ja mal passieren, wenn man täglich hunderte Mails an ahnungslose Opfer schickt. 😆  
 
 Aber kein Problem, denn das Wichtigste ist: **Wir sollen einfach nur unseren Personalausweis schicken, dann wird alles gut!** Na, wenn das mal keine wasserdichte Garantie ist.
 
@@ -186,7 +186,7 @@ Er bekommt in jedem Fall unseren Standard-Hugo-Ausweis!
 
 Wir haben es schwarz auf weiß: **Wir sind die rechtmäßigen Gewinner von 890.000 Dollar!** 🎉 Das bestätigt uns zumindest ein *hochseriöses* „Legalitätszertifikat“, das unser Freund, der WhatsApp-Anwalt, nach gründlicher Prüfung ausgestellt hat.  
 
-Nun sollen wir uns an die **Enterprise Holdings Peoples Bank™** wenden – eine Bank, die sicher so **real ist wie ein dreiköpfiges Einhorn mit Steuerberaterzulassung**. Aber hey, was soll da schon schiefgehen?  
+Nun sollen wir uns an die **Enterprise Holdings Peoples Bank™** wenden, eine Bank, die sicher so **real ist wie ein dreiköpfiges Einhorn mit Steuerberaterzulassung**. Aber hey, was soll da schon schiefgehen?  
 
 Wir freuen uns schon darauf, was uns „**Carbert George**“, der „**Verantwortliche für Auslandsüberweisungen**“, erzählen wird. Vermutlich irgendwas mit **Gebühren, Verzögerungen und ganz viel Vertrauensaufbau**. 😆🎭💸
 
@@ -274,7 +274,7 @@ Und schreiben eine freudige E-Mail!
 
 ## Willkommen bei der Bank unseres Vertrauens!
 
-Na endlich, unser Geld ist zum Greifen nah! 🎉 Aber vorher gibt es noch einen kleinen Umweg: Wir müssen bei der **Enterprise Holdings Peoples Bank™** ein Konto eröffnen. Denn **eine echte Bank kann natürlich keine normale Überweisung machen – nein, wir brauchen ein ganz spezielles Spendenkonto!**  
+Na endlich, unser Geld ist zum Greifen nah! 🎉 Aber vorher gibt es noch einen kleinen Umweg: Wir müssen bei der **Enterprise Holdings Peoples Bank™** ein Konto eröffnen. Denn **eine echte Bank kann natürlich keine normale Überweisung machen, nein, wir brauchen ein ganz spezielles Spendenkonto!**  
 
 Neu ist hier, dass wir die Registrierung selbst vornehmen müssen!
 
@@ -364,17 +364,17 @@ Insgesamt kommen 5 oder 6 Mails und wir haben immer mehr Geld auf dem Konto! Abw
 
 Oh nein! 😱 Hugo hat sich einen Moment nicht gemeldet, und schon droht unser lieber **Carbert George** damit, die **890.000 Dollar** einfach an jemand anderen zu verschenken! Das können wir doch nicht zulassen! 😆  
 
-Während wir uns entspannt zurücklehnen und überlegen, welche *exotische Luxusinsel wir uns mit dem geschenkten Geld kaufen*, werden die Scammer immer nervöser. Schließlich haben sie uns schon den „Login-Zugang“ zu unserem Fake-Konto geschickt – und *niemand* ignoriert ungestraft die Enterprise Holdings Peoples Bank™!  
+Während wir uns entspannt zurücklehnen und überlegen, welche *exotische Luxusinsel wir uns mit dem geschenkten Geld kaufen*, werden die Scammer immer nervöser. Schließlich haben sie uns schon den „Login-Zugang“ zu unserem Fake-Konto geschickt, und *niemand* ignoriert ungestraft die Enterprise Holdings Peoples Bank™!  
 
 > Hallo, was ist los? Ich habe Ihnen den Login-Zugang zu Ihrem Konto  
 > geschickt, aber Sie weigern sich, mir zu antworten. Soll ich diese  
 > Spende stornieren und sie einer anderen Person geben?  
 
-### **Malle statt Millionen – Hugo eskaliert auf der Insel!**  
+### **Malle statt Millionen, Hugo eskaliert auf der Insel!**  
 
-Tja, die Scammer dachten wohl, Hugo sitzt brav zu Hause und wartet gespannt auf seine 890.000 Dollar. **Falsch gedacht!** Stattdessen ging’s mit den Jungs vom **BMW-Club nach Malle** – und zwar richtig! 🍻🔥  
+Tja, die Scammer dachten wohl, Hugo sitzt brav zu Hause und wartet gespannt auf seine 890.000 Dollar. **Falsch gedacht!** Stattdessen ging’s mit den Jungs vom **BMW-Club nach Malle**, und zwar richtig! 🍻🔥  
 
-**Eimersaufen, Sangria, Sonnenbrand – das volle Programm!** Wer erinnert sich? Keiner! Handys weg, Geld weg, Würde weg. Nur eins blieb: Ein dumpfes Gefühl, dass irgendwo eine „wichtige Spende“ auf uns wartet. Also schnell zurück ins echte Leben und Carbert gefragt: **„Ey, was geht? Wo ist meine Kohle?“**  
+**Eimersaufen, Sangria, Sonnenbrand, das volle Programm!** Wer erinnert sich? Keiner! Handys weg, Geld weg, Würde weg. Nur eins blieb: Ein dumpfes Gefühl, dass irgendwo eine „wichtige Spende“ auf uns wartet. Also schnell zurück ins echte Leben und Carbert gefragt: **„Ey, was geht? Wo ist meine Kohle?“**  
 
 ![Besoffen am Strand](/posts/2025-01-30-anthonycharities/malle.webp)
 
@@ -399,16 +399,16 @@ Da haken wir doch gleich nochmal frech nach!
 >   
 > Ich sag mal so: Nach Malle ist Ebbe in der Kasse. Ich könnte dir vielleicht ein paar Kronkorken schicken oder meinen letzten Sangria-Becher aus dem Megapark… Reicht das als Anzahlung? 🤡    
 >   
-> Lass mal hören, ob du da ’ne andere Lösung hast – sonst muss ich wohl doch bei Elon Musk anklopfen, der wollte mir letztens eh ein paar Millionen rüberschieben. 💸    
+> Lass mal hören, ob du da ’ne andere Lösung hast, sonst muss ich wohl doch bei Elon Musk anklopfen, der wollte mir letztens eh ein paar Millionen rüberschieben. 💸    
 >   
 > Hau rein,    
 > Hugo aus Wanne-Eickel    
 > (immer noch pleite, aber hoffnungsvoll 🍻)    
 
 
-## Carbert will uns helfen – wie großzügig! 
+## Carbert will uns helfen, wie großzügig! 
 
-Jetzt wird’s rührend! 🥹 Unser Scam-Banker **Carbert George** will uns bei der **1500-Euro-Gebühr** unterstützen – aber zahlen müssen wir trotzdem. Logisch, ohne diese magische Zahlung kann die **Enterprise Holdings Peoples Bank™** unsere Millionen ja *nicht schützen*! 😂  
+Jetzt wird’s rührend! 🥹 Unser Scam-Banker **Carbert George** will uns bei der **1500-Euro-Gebühr** unterstützen, aber zahlen müssen wir trotzdem. Logisch, ohne diese magische Zahlung kann die **Enterprise Holdings Peoples Bank™** unsere Millionen ja *nicht schützen*! 😂  
 
 > Ich kann Sie mit einem Teil der Zahlung unterstützen. Ohne die  
 > erforderliche Gebühr können wir Ihre Spende nicht weiterverarbeiten.  
@@ -433,11 +433,11 @@ Natürlich lässt sich Hugo nicht lange bitten!
 > Hugo aus Wanne-Eickel    
 > (Baldiger Millionär, aber aktuell noch klamm 💸🍻)  
 
-### **Wir bekommen zwei Bankverbindungen – Carbert wird kreativ!**  
+### **Wir bekommen zwei Bankverbindungen, Carbert wird kreativ!**  
 
-Ein paar Tage nicht ins Postfach geschaut – und zack! **Carbert**, aka unser treuer Spendenanwalt **Marcus Owens**, ist in der Zwischenzeit richtig aktiv geworden. Offenbar will er unser Geld *unbedingt*, denn er schickt uns im Abstand von zwei Tagen **zwei völlig verschiedene Bankverbindungen**. Der Mann ist engagiert! 😂  
+Ein paar Tage nicht ins Postfach geschaut, und zack! **Carbert**, aka unser treuer Spendenanwalt **Marcus Owens**, ist in der Zwischenzeit richtig aktiv geworden. Offenbar will er unser Geld *unbedingt*, denn er schickt uns im Abstand von zwei Tagen **zwei völlig verschiedene Bankverbindungen**. Der Mann ist engagiert! 😂  
 
-Zuerst sollen wir unsere großzügige „Bearbeitungsgebühr“ an eine gewisse **PhDr. Liščák, Vladimír DSc** in Tschechien überweisen – wohlgemerkt mit dem Verwendungszweck: **„Gift“**. Ja, *Geschenk*, damit’s beim Zoll auch richtig eindeutig ist. 🎁  
+Zuerst sollen wir unsere großzügige „Bearbeitungsgebühr“ an eine gewisse **PhDr. Liščák, Vladimír DSc** in Tschechien überweisen, wohlgemerkt mit dem Verwendungszweck: **„Gift“**. Ja, *Geschenk*, damit’s beim Zoll auch richtig eindeutig ist. 🎁  
 
 > **Bank name:** Fio Bank  
 > **IBAN:** CZ76 2010 0000 0020 0254 5679  
@@ -446,7 +446,7 @@ Zuerst sollen wir unsere großzügige „Bearbeitungsgebühr“ an eine gewisse 
 > **Country:** Czech Republic  
 > **Purpose of transfer:** Gift  
 
-Und dann, ganz plötzlich, ein **zweites Angebot** – diesmal geht’s nach **Deutschland**, an eine Dame mit dem charmanten Namen **Ophélie Ouedraogo**, bei der wir den Betrag bitte *per Express* überweisen sollen. Ist ja klar – **der Countdown zum Spendenwunder läuft!** ⏱️  
+Und dann, ganz plötzlich, ein **zweites Angebot**, diesmal geht’s nach **Deutschland**, an eine Dame mit dem charmanten Namen **Ophélie Ouedraogo**, bei der wir den Betrag bitte *per Express* überweisen sollen. Ist ja klar, **der Countdown zum Spendenwunder läuft!** ⏱️  
 
 > **Account name:** Ophélie Ouedraogo  
 > **IBAN:** DE38 3701 9000 1011 1127 75  
@@ -455,22 +455,22 @@ Und dann, ganz plötzlich, ein **zweites Angebot** – diesmal geht’s nach **D
 
 Man merkt: **Die Nerven liegen blank.** Vielleicht gibt’s eine interne Carbert-Deadline für erfolgreich abgezockte Opfer? Oder er hat schon Angst, Hugo könnte wieder nach Malle verschwinden… 😆  
 
-### **Zurück auf Malle – und Carbert wartet… wieder!**  
+### **Zurück auf Malle, und Carbert wartet… wieder!**  
 
-Kaum zu glauben, aber **Hugo ist wieder auf Malle!** 🍻☀️ BMW-Club, Pool voll Bier, Sangria intravenös – das volle Programm. Währenddessen sitzt unser Lieblings-Scammer **Carbert** in irgendeiner windigen Fake-Bank und wartet sehnsüchtig auf seine 1500 Euro.  
+Kaum zu glauben, aber **Hugo ist wieder auf Malle!** 🍻☀️ BMW-Club, Pool voll Bier, Sangria intravenös, das volle Programm. Währenddessen sitzt unser Lieblings-Scammer **Carbert** in irgendeiner windigen Fake-Bank und wartet sehnsüchtig auf seine 1500 Euro.  
 
-Dumm nur: **Er hat uns zwei verschiedene Bankverbindungen geschickt** – einmal nach Tschechien, einmal nach Deutschland. Also haben wir ihm geschrieben, dass wir **uns Montag melden**, wenn wir (hoffentlich) wieder nüchtern sind. 
+Dumm nur: **Er hat uns zwei verschiedene Bankverbindungen geschickt**, einmal nach Tschechien, einmal nach Deutschland. Also haben wir ihm geschrieben, dass wir **uns Montag melden**, wenn wir (hoffentlich) wieder nüchtern sind. 
 
-Und ganz wichtig: **Bitte nur eine IBAN, Carbert – sonst wird das nix mit dem Reichtum!** 😆  
+Und ganz wichtig: **Bitte nur eine IBAN, Carbert, sonst wird das nix mit dem Reichtum!** 😆  
 
 > Hey Carbert,    
 >   
-> sorry für die Funkstille, aber ich bin wieder auf Malle mit den Jungs vom BMW-Club – und was soll ich sagen: Die Sause ist real! 🍹🎉 Dieses Mal haben wir sogar nen Pool mit Bier gefüllt. Also alles wie immer – nur schlimmer.    
+> sorry für die Funkstille, aber ich bin wieder auf Malle mit den Jungs vom BMW-Club, und was soll ich sagen: Die Sause ist real! 🍹🎉 Dieses Mal haben wir sogar nen Pool mit Bier gefüllt. Also alles wie immer, nur schlimmer.    
 >   
 > Ich bin Montag wieder zurück (hoffentlich mit Erinnerung), dann kümmer ich mich um die Überweisung.    
 >   
 > Kurze Frage noch:    
-> Du hast mir zwei verschiedene Bankverbindungen geschickt – welche ist denn jetzt die richtige?    
+> Du hast mir zwei verschiedene Bankverbindungen geschickt, welche ist denn jetzt die richtige?    
 > - Die in Tschechien mit dem Doktortitel?    
 > - Oder die in Deutschland mit der schnellen Express-Option?    
 >   
@@ -480,16 +480,16 @@ Und ganz wichtig: **Bitte nur eine IBAN, Carbert – sonst wird das nix mit dem 
 > Hugo aus Wanne-Eickel    
 > (Momentan eher Hugo aus Palma de Mallorca 🍻🇪🇸)  
 
-## Auf einen Rotwein mit Marcus Owens 🍷 – wie romantisch!
+## Auf einen Rotwein mit Marcus Owens 🍷, wie romantisch!
 
-Natürlich hat sich **Hugo nicht gemeldet** – nach dem zweiten **Malle-Marathon mit dem BMW-Club** war erst mal **Regeneration ab 40** angesagt. Kreditkarte leer, Erinnerung lückenhaft, Leber leicht beleidigt. Da müssen Millionendeals eben warten. 😎  
+Natürlich hat sich **Hugo nicht gemeldet**, nach dem zweiten **Malle-Marathon mit dem BMW-Club** war erst mal **Regeneration ab 40** angesagt. Kreditkarte leer, Erinnerung lückenhaft, Leber leicht beleidigt. Da müssen Millionendeals eben warten. 😎  
 
-Unser treuer **Marcus Owens** – der wahrscheinlich einzige Anwalt mit zu viel Freizeit – meldet sich trotzdem regelmäßig. Und jetzt wird’s richtig charmant:  
+Unser treuer **Marcus Owens**, der wahrscheinlich einzige Anwalt mit zu viel Freizeit, meldet sich trotzdem regelmäßig. Und jetzt wird’s richtig charmant:  
 **Er will mit uns Rotwein trinken!** 🥹🍷  
 
 > *„Ich freue mich, Sie einen Tag nach dieser Transaktion auf ein Glas Rotwein zu treffen.“*
 
-**Hach, Marcus!** Erst Betrug, dann Bordeaux – das klingt nach einem Netflix-Originalfilm. 😆  
+**Hach, Marcus!** Erst Betrug, dann Bordeaux, das klingt nach einem Netflix-Originalfilm. 😆  
 
 > Ich war besorgt, als ich nichts von Ihnen hörte. Ich freue mich, dass es  
 > Ihnen gut geht. Ich würde mich freuen, Sie einen Tag nach dieser  
@@ -499,26 +499,26 @@ Unser treuer **Marcus Owens** – der wahrscheinlich einzige Anwalt mit zu viel 
 > angekündigt haben.  
 
 
-### Marcus will Rotwein – Hugo hat noch Sangria im Blut 🍷😵  
+### Marcus will Rotwein, Hugo hat noch Sangria im Blut 🍷😵  
 
-Unser Lieblings-Anwalt **Marcus Owens** wird langsam richtig anhänglich – nach Tagen der Funkstille schreibt er uns ganz besorgt und lädt uns sogar **auf ein Glas Rotwein** ein, *nach der Transaktion natürlich*. Wie romantisch! 🥹🍷  
+Unser Lieblings-Anwalt **Marcus Owens** wird langsam richtig anhänglich, nach Tagen der Funkstille schreibt er uns ganz besorgt und lädt uns sogar **auf ein Glas Rotwein** ein, *nach der Transaktion natürlich*. Wie romantisch! 🥹🍷  
 
 Doch Hugo, frisch zurück von **Malle, Runde 2**, hat gerade ganz andere Sorgen:  
 💥 Kopf wie ein Presslufthammer  
 💳 EC-Karte verschollen  
 🍹 Erinnerungen nur bruchstückhaft  
 
-Aber keine Sorge, Marcus – **Hugo kümmert sich**, sobald er wieder geradeaus denken kann. Schließlich lässt man so ein **Rotwein-Date mit einem Scammer** nicht einfach platzen.
+Aber keine Sorge, Marcus, **Hugo kümmert sich**, sobald er wieder geradeaus denken kann. Schließlich lässt man so ein **Rotwein-Date mit einem Scammer** nicht einfach platzen.
 
 > Ey Marcus,    
 >   
-> sorry, dass ich mich nicht gemeldet hab – Malle hat wieder komplett rasiert! Ich bin erst gestern zurückgekommen und hab ehrlich gesagt noch ’nen halben Sangria im Blut. 😅 Aber hey, freut mich zu hören, dass du dir Sorgen gemacht hast – du bist echt ein Kumpel!    
+> sorry, dass ich mich nicht gemeldet hab, Malle hat wieder komplett rasiert! Ich bin erst gestern zurückgekommen und hab ehrlich gesagt noch ’nen halben Sangria im Blut. 😅 Aber hey, freut mich zu hören, dass du dir Sorgen gemacht hast, du bist echt ein Kumpel!    
 >   
-> Und das mit dem Rotwein nach der Transaktion… Bruder, das ist Romantik auf Niveau! 😍 Da sag ich nicht nein – aber nur, wenn’s Rioja ist, nix aus’m Tetra-Pak!    
+> Und das mit dem Rotwein nach der Transaktion… Bruder, das ist Romantik auf Niveau! 😍 Da sag ich nicht nein, aber nur, wenn’s Rioja ist, nix aus’m Tetra-Pak!    
 >   
-> Wegen der Überweisung: Ich such grad meine EC-Karte… die liegt irgendwo zwischen dem Eimerhut und der Mallorca-Flagge. Ich meld mich, sobald ich wieder gerade gucken kann – und dann klären wir das.    
+> Wegen der Überweisung: Ich such grad meine EC-Karte… die liegt irgendwo zwischen dem Eimerhut und der Mallorca-Flagge. Ich meld mich, sobald ich wieder gerade gucken kann, und dann klären wir das.    
 >   
-> Also bleib locker, Marcus – der Rubel rollt bald. Vielleicht. Wahrscheinlich. Oder auch nicht.    
+> Also bleib locker, Marcus, der Rubel rollt bald. Vielleicht. Wahrscheinlich. Oder auch nicht.    
 >   
 > Bis denne,    
 > Hugo aus Wanne-Eickel    

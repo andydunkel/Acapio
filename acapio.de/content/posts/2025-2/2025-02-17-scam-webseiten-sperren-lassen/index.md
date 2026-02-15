@@ -1,5 +1,5 @@
 ---
-title: "Webseiten von Scammern melden – bringt das überhaupt etwas?"
+title: "Webseiten von Scammern melden, bringt das überhaupt etwas?"
 params:
   author: Andy
 date: "2025-02-17"
@@ -13,14 +13,14 @@ categories:
   - "Investigativ"
 thumbnail: "investigativ.webp"
 url: "posts/2025-02-17_scam-webseiten-sperren-lassen"
-summary: "Phishing-Seiten, Fake-Banken, Betrugsmaschen – das Internet ist voller Scams. Aber was passiert, wenn man solche Webseiten meldet? Werden sie wirklich gesperrt oder bleibt alles beim Alten? Ich habe es ausprobiert und teile meine Erfahrungen."
+summary: "Phishing-Seiten, Fake-Banken, Betrugsmaschen, das Internet ist voller Scams. Aber was passiert, wenn man solche Webseiten meldet? Werden sie wirklich gesperrt oder bleibt alles beim Alten? Ich habe es ausprobiert und teile meine Erfahrungen."
 ---
 
-Das Netz ist voller Betrüger. Ob Fake-Banken, Phishing-Seiten oder dubiose Online-Shops – täglich tauchen neue betrügerische Webseiten auf. Viele Plattformen und Behörden bieten die Möglichkeit, solche Seiten zu melden. Aber bringt das wirklich etwas? 
+Das Netz ist voller Betrüger. Ob Fake-Banken, Phishing-Seiten oder dubiose Online-Shops, täglich tauchen neue betrügerische Webseiten auf. Viele Plattformen und Behörden bieten die Möglichkeit, solche Seiten zu melden. Aber bringt das wirklich etwas? 
 
 ## Scammer und eigene Domains und Webseiten
 
-Betrüger, die es ernst meinen, setzen nicht einfach nur auf gefälschte E-Mails, sondern betreiben oft ganze Fake-Webseiten. Besonders im Bereich von **Fake-Banken und Finanzbetrug** registrieren sie eigene Domains, die täuschend echt wirken. Statt einer auffälligen **@gmail.com**-Adresse nutzen sie firmeneigene E-Mail-Domains, was die Betrugsmasche seriöser erscheinen lässt. Eine gut gemachte Fake-Seite mit eigenem Branding und professionellem Design erhöht die Glaubwürdigkeit enorm – und viele Opfer fallen genau deshalb darauf herein.  
+Betrüger, die es ernst meinen, setzen nicht einfach nur auf gefälschte E-Mails, sondern betreiben oft ganze Fake-Webseiten. Besonders im Bereich von **Fake-Banken und Finanzbetrug** registrieren sie eigene Domains, die täuschend echt wirken. Statt einer auffälligen **@gmail.com**-Adresse nutzen sie firmeneigene E-Mail-Domains, was die Betrugsmasche seriöser erscheinen lässt. Eine gut gemachte Fake-Seite mit eigenem Branding und professionellem Design erhöht die Glaubwürdigkeit enorm, und viele Opfer fallen genau deshalb darauf herein.  
 
 ![Eine typische Fake-Bank, mit kleinen Fehlern](/posts/2025-02-12_silvana-tenreyro-teil-2/bank.webp)
 
@@ -32,7 +32,7 @@ Während professionellere Betrüger in eigene Domains investieren, nutzen viele 
 
 ## Werden die Seiten tatsächlich offline genommen?
 
-Die kurze Antwort lautet: **Ja, das Melden von Scammer-Webseiten kann tatsächlich etwas bewirken.** Viele Provider reagieren überraschend schnell und nehmen betrügerische Seiten offline – teils innerhalb weniger Stunden. Besonders **kostenlose Hosting-Anbieter** handeln oft direkt und sperren die gemeldeten Seiten sogar über den **Live-Chat**, ohne langwierige Prüfungen.
+Die kurze Antwort lautet: **Ja, das Melden von Scammer-Webseiten kann tatsächlich etwas bewirken.** Viele Provider reagieren überraschend schnell und nehmen betrügerische Seiten offline, teils innerhalb weniger Stunden. Besonders **kostenlose Hosting-Anbieter** handeln oft direkt und sperren die gemeldeten Seiten sogar über den **Live-Chat**, ohne langwierige Prüfungen.
 
 ![Webseite wurde vom Support stillgelegt](/posts/2025-02-17_scam-webseiten-sperren-lassen/offline_1.png)
 
@@ -69,7 +69,7 @@ Besonders bei **weniger offensichtlichen Betrugsseiten** sind **detaillierte Nac
 
 ## Erfolgsrate?
 
-Die **Erfolgsrate ist insgesamt positiv**, auch wenn sie schwankt. Viele Anbieter reagieren innerhalb kurzer Zeit und sperren die gemeldeten Seiten – manche sogar **sofort über den Kundenchat**, andere benötigen **einige Tage** für die Prüfung.  
+Die **Erfolgsrate ist insgesamt positiv**, auch wenn sie schwankt. Viele Anbieter reagieren innerhalb kurzer Zeit und sperren die gemeldeten Seiten, manche sogar **sofort über den Kundenchat**, andere benötigen **einige Tage** für die Prüfung.  
 
 Natürlich gibt es auch **weniger kooperative Provider**, die **gar nicht oder nur sehr zögerlich** auf Meldungen reagieren. In solchen Fällen kann es helfen, die Seite bei mehreren Stellen zu melden, etwa bei **Suchmaschinen, Browser-Sicherheitsdiensten oder Anti-Phishing-Initiativen**, um die Reichweite der Betrüger einzuschränken.
 
@@ -91,7 +91,7 @@ Ein **direkter Abuse-Kontakt per E-Mail** wäre eine deutlich einfachere Lösung
 
 ## Fazit
 
-Das Melden von Scammer-Webseiten **bringt tatsächlich etwas** – auch wenn die Erfolgsrate je nach Anbieter variiert. Während **kostenlose Hosting-Dienste oft sofort reagieren**, dauert es bei **bezahlten Webspaces mit eigener Domain** in der Regel etwas länger. Doch auch hier führen Meldungen häufig zur Sperrung der Seiten, was für Betrüger besonders schmerzhaft ist, da sie nicht nur ihre Webseite, sondern auch **ihre E-Mail-Adressen und gespeicherten Kontakte** verlieren.  
+Das Melden von Scammer-Webseiten **bringt tatsächlich etwas**, auch wenn die Erfolgsrate je nach Anbieter variiert. Während **kostenlose Hosting-Dienste oft sofort reagieren**, dauert es bei **bezahlten Webspaces mit eigener Domain** in der Regel etwas länger. Doch auch hier führen Meldungen häufig zur Sperrung der Seiten, was für Betrüger besonders schmerzhaft ist, da sie nicht nur ihre Webseite, sondern auch **ihre E-Mail-Adressen und gespeicherten Kontakte** verlieren.  
 
 Allerdings gibt es noch **Verbesserungspotenzial**: Viele Provider könnten den Meldeprozess vereinfachen, indem sie statt umständlicher Formulare einen **einfachen, direkten E-Mail-Kontakt** anbieten. 
 

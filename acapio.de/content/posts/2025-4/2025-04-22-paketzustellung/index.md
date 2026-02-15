@@ -14,11 +14,11 @@ url: "posts/2025-04-22_paketzustellung"
 summary: "Eine E-Mail flattert ins Postfach und suggeriert, dass ein Paket auf dem Weg zu uns ist. Ein klassischer Phishing-Versuch..."
 ---
 
-**Mal wieder der Klassiker:** Eine E-Mail flattert ins Postfach und suggeriert, dass ein Paket auf dem Weg zu uns ist. Doch halt – ein paar Angaben fehlen noch, und angeblich ist eine kleine Gebühr fällig. Der Trick ist klar: Neugier wecken. Und hey, was sind schon 2 Euro, wenn vielleicht etwas Wertvolles im Paket steckt? Spoiler: Nichts ist drin – außer der Falle.
+**Mal wieder der Klassiker:** Eine E-Mail flattert ins Postfach und suggeriert, dass ein Paket auf dem Weg zu uns ist. Doch halt, ein paar Angaben fehlen noch, und angeblich ist eine kleine Gebühr fällig. Der Trick ist klar: Neugier wecken. Und hey, was sind schon 2 Euro, wenn vielleicht etwas Wertvolles im Paket steckt? Spoiler: Nichts ist drin, außer der Falle.
 
 ![Die E-Mail, sieht aus wie Hermes?!](/posts/2025-04-22_paketzustellung/paket_1.webp)
 
-Klicken wir neugierig auf den Link, landen wir auf einer täuschend echten Webseite. Dort sehen wir unser angebliches Paket – hübsch inszeniert mit einem Bild und einer gefälschten Sendungsverfolgung. Natürlich fehlen noch ein paar persönliche Daten, damit die Lieferung abgeschlossen werden kann. 
+Klicken wir neugierig auf den Link, landen wir auf einer täuschend echten Webseite. Dort sehen wir unser angebliches Paket, hübsch inszeniert mit einem Bild und einer gefälschten Sendungsverfolgung. Natürlich fehlen noch ein paar persönliche Daten, damit die Lieferung abgeschlossen werden kann. 
 
 ![Fake-Sendungsverfolgung](/posts/2025-04-22_paketzustellung/paket_2.webp)
 

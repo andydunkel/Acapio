@@ -34,13 +34,13 @@ Mit geschulten Blick erkennen wir, dass geschludert wurde. So ist das Logo nicht
 
 ## Die Umleitung, für Linux und Windows Nutzer unterschiedlich
 
-Natürlich wollen wir herausfinden, was hinter der vermeintlichen Phishing-Mail steckt. Mit einer Portion Neugier öffnen wir den angegebenen Link – selbstverständlich in einer isolierten Linux-VM – und staunen nicht schlecht: Statt auf einer Phishing-Seite landen wir direkt auf der offiziellen Login-Seite von Miles & More! 
+Natürlich wollen wir herausfinden, was hinter der vermeintlichen Phishing-Mail steckt. Mit einer Portion Neugier öffnen wir den angegebenen Link, selbstverständlich in einer isolierten Linux-VM, und staunen nicht schlecht: Statt auf einer Phishing-Seite landen wir direkt auf der offiziellen Login-Seite von Miles & More! 
 
 Die offizielle URL: [https://miles-and-more.kartenabrechnung.de](https://miles-and-more.kartenabrechnung.de)
 
 Doch die Überraschung bleibt nicht lange aus. Als wir denselben Link auf einem Windows-System öffnen, zeigt sich ein völlig anderes Bild: Dieses Mal landen wir auf einer verdächtigen Seite mit der URL: https://miles-and-more-kundenservice-de.com.
 
-Die Betrüger sind offenbar clever genug, das verwendete Betriebssystem zu erkennen. Linux-Nutzer werden auf die echte Seite umgeleitet – vermutlich, weil sie oft als technisch versierter gelten und den Link möglicherweise nur zur Analyse anklicken. Windows-Anwender hingegen, die als primäre Zielgruppe für solche Angriffe gelten, landen direkt in der Falle. Ein weiterer Trick, der zeigt, wie ausgeklügelt Phishing-Angriffe inzwischen sein können.
+Die Betrüger sind offenbar clever genug, das verwendete Betriebssystem zu erkennen. Linux-Nutzer werden auf die echte Seite umgeleitet, vermutlich, weil sie oft als technisch versierter gelten und den Link möglicherweise nur zur Analyse anklicken. Windows-Anwender hingegen, die als primäre Zielgruppe für solche Angriffe gelten, landen direkt in der Falle. Ein weiterer Trick, der zeigt, wie ausgeklügelt Phishing-Angriffe inzwischen sein können.
 
 ## Meldung an den Provider
 

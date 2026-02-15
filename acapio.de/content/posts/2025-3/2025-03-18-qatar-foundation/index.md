@@ -11,20 +11,20 @@ categories:
   - "Scam"
 thumbnail: "badger_phone.webp"
 url: "posts/2025-03-18_qatar-foundation"
-summary: "995.000 Euro einfach so? Klingt zu schön, um wahr zu sein – und genau das ist es auch! Betrüger versuchen mit gefälschten Spenden-Mails ahnungslose Opfer in die Falle zu locken. Aber nicht mit Hugo aus Wanne-Eickel! Wie er den Spieß umdreht und den Scammern das Leben schwer macht, lest ihr hier.
+summary: "995.000 Euro einfach so? Klingt zu schön, um wahr zu sein, und genau das ist es auch! Betrüger versuchen mit gefälschten Spenden-Mails ahnungslose Opfer in die Falle zu locken. Aber nicht mit Hugo aus Wanne-Eickel! Wie er den Spieß umdreht und den Scammern das Leben schwer macht, lest ihr hier.
 "
 ---
 
-995.000 Euro einfach so? Klingt zu schön, um wahr zu sein – und genau das ist es auch! Betrüger versuchen mit gefälschten Spenden-Mails ahnungslose Opfer in die Falle zu locken. Aber nicht mit Hugo aus Wanne-Eickel! Wie er den Spieß umdreht und den Scammern das Leben schwer macht, lest ihr hier.
+995.000 Euro einfach so? Klingt zu schön, um wahr zu sein, und genau das ist es auch! Betrüger versuchen mit gefälschten Spenden-Mails ahnungslose Opfer in die Falle zu locken. Aber nicht mit Hugo aus Wanne-Eickel! Wie er den Spieß umdreht und den Scammern das Leben schwer macht, lest ihr hier.
 
 
 ## Die E-Mail von qf.qatarorg@gmail.com
 
 Ach, was für ein Glück! Ohne jemals in Katar gewesen zu sein oder auch nur eine Bewerbung für den „Wir-verschenken-fast-eine-Million-Euro“-Club abgeschickt zu haben, flattert plötzlich eine Spende ins Postfach. Ganze **995.000 Euro**! 
 
-Und das von einer „offiziellen“ Gmail-Adresse – weil ja jede seriöse Stiftung lieber kostenlose Maildienste nutzt als eine eigene Domain. 
+Und das von einer „offiziellen“ Gmail-Adresse, weil ja jede seriöse Stiftung lieber kostenlose Maildienste nutzt als eine eigene Domain. 
 
-Natürlich ist auch „Herr Rashid Al-Naimi®“ persönlich am Start, mit Markenrechts-Symbol und allem Drum und Dran – da weiß man doch sofort, dass das absolut *echt* ist. Und als Sahnehäubchen wurde die Mail sogar von Avast geprüft! Wenn das kein Qualitätssiegel ist! 🚀😆
+Natürlich ist auch „Herr Rashid Al-Naimi®“ persönlich am Start, mit Markenrechts-Symbol und allem Drum und Dran, da weiß man doch sofort, dass das absolut *echt* ist. Und als Sahnehäubchen wurde die Mail sogar von Avast geprüft! Wenn das kein Qualitätssiegel ist! 🚀😆
 
 > Dear Beneficiary,  
 >   
@@ -50,7 +50,7 @@ Natürlich lässt sich unser Hugo so eine Gelegenheit nicht entgehen. Wer würde
 >   
 > Ich bin natürlich schwer interessiert. Wo kann ich die Kohle abholen? Reicht mein Sparkassen-Konto, oder muss ich extra nach Katar jetten? Ich hab eh noch ein paar Urlaubstage, aber mit Ryanair wird dat ja auch nix, oder?    
 >   
-> Lassen Sie mich mal wissen, wie wir das abwickeln. Falls Gebühren anfallen, sagense Bescheid – hab noch ein paar Moneten vom letzten Schrottplatz-Deal übrig.    
+> Lassen Sie mich mal wissen, wie wir das abwickeln. Falls Gebühren anfallen, sagense Bescheid, hab noch ein paar Moneten vom letzten Schrottplatz-Deal übrig.    
 >   
 > Beste Grüße aus Wanne-Eickel,    
 > Hugo "T" Scholz  
@@ -59,9 +59,9 @@ Natürlich lässt sich unser Hugo so eine Gelegenheit nicht entgehen. Wer würde
 
 ## Die Antwort aus dem Märchenland
 
-Kaum hat Hugo angebissen, kommt auch schon die Antwort vom Scheich persönlich – oder zumindest von seinem PowerPoint-begeisterten Praktikanten. Es wird dick aufgetragen: Ein bisschen Al-Thani hier, ein bisschen "menschliches Potenzial freisetzen" da, garniert mit den üblichen Stichworten wie *Innovation*, *Forschung*, *Gemeindeentwicklung* und natürlich der legendären *Kultur des lebenslangen Lernens* (aka: wie man täglich besser betrügt).  
+Kaum hat Hugo angebissen, kommt auch schon die Antwort vom Scheich persönlich, oder zumindest von seinem PowerPoint-begeisterten Praktikanten. Es wird dick aufgetragen: Ein bisschen Al-Thani hier, ein bisschen "menschliches Potenzial freisetzen" da, garniert mit den üblichen Stichworten wie *Innovation*, *Forschung*, *Gemeindeentwicklung* und natürlich der legendären *Kultur des lebenslangen Lernens* (aka: wie man täglich besser betrügt).  
 
-Der *"CEO der Qatar Foundation Endowment"* will jetzt alles wissen: Name, Adresse, Handynummer, Alter, Beruf, Lieblingsfarbe – fehlt nur noch die IBAN und die Schuhgröße. Und für welches noble Ziel möchte man das Geld denn einsetzen? Bildung? Wissenschaft? Persönliche Investitionen? Klingt fast wie ein Wahlzettel zur Miss-Stiftung 2024.  
+Der *"CEO der Qatar Foundation Endowment"* will jetzt alles wissen: Name, Adresse, Handynummer, Alter, Beruf, Lieblingsfarbe, fehlt nur noch die IBAN und die Schuhgröße. Und für welches noble Ziel möchte man das Geld denn einsetzen? Bildung? Wissenschaft? Persönliche Investitionen? Klingt fast wie ein Wahlzettel zur Miss-Stiftung 2024.  
 
 Hugo schnappt sich natürlich den Stift. Denn jetzt wird’s richtig lustig. 😎  
 
@@ -97,14 +97,14 @@ Hugo schnappt sich natürlich den Stift. Denn jetzt wird’s richtig lustig. �
 
 ### Hugo sendet seine Daten
 
-Na klar, Hugo lässt sich nicht lumpen. Wer fast eine Million Euro versprochen bekommt, der fackelt nicht lange. Höflich wie eh und je bedankt er sich artig beim Herrn „CEO“ und liefert brav die gewünschten Daten – natürlich **alles frei erfunden**, versteht sich. Schließlich will Hugo niemandem schaden, außer vielleicht dem Ego eines windigen Scammers.
+Na klar, Hugo lässt sich nicht lumpen. Wer fast eine Million Euro versprochen bekommt, der fackelt nicht lange. Höflich wie eh und je bedankt er sich artig beim Herrn „CEO“ und liefert brav die gewünschten Daten, natürlich **alles frei erfunden**, versteht sich. Schließlich will Hugo niemandem schaden, außer vielleicht dem Ego eines windigen Scammers.
 
-Und um die Sache offiziell wirken zu lassen, gibt Hugo als Verwendungszweck ganz bescheiden „Persönliche Investitionen“ an – vielleicht ein Dönerstand in Wanne-Eickel oder eine Beteiligung an der Entwicklung des BMW 3er Turbo Deluxe.
+Und um die Sache offiziell wirken zu lassen, gibt Hugo als Verwendungszweck ganz bescheiden „Persönliche Investitionen“ an, vielleicht ein Dönerstand in Wanne-Eickel oder eine Beteiligung an der Entwicklung des BMW 3er Turbo Deluxe.
 
 
 > Sehr geehrter Herr Rashid Al-Naimi,    
 >   
-> vielen Dank für Ihre ausführliche Rückmeldung und die Glückwünsche – das ist ja wirklich eine große Ehre! Ich freue mich sehr, zu den vierzehn Auserwählten zu gehören, die diese großzügige Unterstützung erhalten sollen.    
+> vielen Dank für Ihre ausführliche Rückmeldung und die Glückwünsche, das ist ja wirklich eine große Ehre! Ich freue mich sehr, zu den vierzehn Auserwählten zu gehören, die diese großzügige Unterstützung erhalten sollen.    
 >   
 > Wie gewünscht sende ich Ihnen meine Daten zur weiteren Bearbeitung:    
 >   
@@ -117,13 +117,13 @@ Und um die Sache offiziell wirken zu lassen, gibt Hugo als Verwendungszweck ganz
 > Hugo  
 
 
-### **Jetzt wird’s offiziell – Hugo soll nach Madrid**
+### **Jetzt wird’s offiziell, Hugo soll nach Madrid**
 
-Hurra! Hugo ist jetzt nicht nur auserwählt, sondern auch offiziell „extrem lucky“, wie Herr Al-Naimi es formuliert. Die knappe Million wird allerdings nicht einfach überwiesen – das wäre ja zu einfach. Stattdessen liegt Hugos *"Payment File"* jetzt im „**European Claims Office**“ in Madrid. Klingt wichtig, existiert aber vermutlich nur in der Fantasie des Betrügers (und vielleicht auf einem USB-Stick neben der Mikrowelle).
+Hurra! Hugo ist jetzt nicht nur auserwählt, sondern auch offiziell „extrem lucky“, wie Herr Al-Naimi es formuliert. Die knappe Million wird allerdings nicht einfach überwiesen, das wäre ja zu einfach. Stattdessen liegt Hugos *"Payment File"* jetzt im „**European Claims Office**“ in Madrid. Klingt wichtig, existiert aber vermutlich nur in der Fantasie des Betrügers (und vielleicht auf einem USB-Stick neben der Mikrowelle).
 
-Der gute **Dr. Antonio Triguero Sanchez** soll nun die Übergabe organisieren. Natürlich mit eigener **@europe.com**-Adresse, weil echte Finanztransaktionen immer über Gratis-Mailanbieter laufen – Logo! Hugo bekommt sogar eine **PIN (QF-999-2025)**, damit’s schön offiziell wirkt.  
+Der gute **Dr. Antonio Triguero Sanchez** soll nun die Übergabe organisieren. Natürlich mit eigener **@europe.com**-Adresse, weil echte Finanztransaktionen immer über Gratis-Mailanbieter laufen, Logo! Hugo bekommt sogar eine **PIN (QF-999-2025)**, damit’s schön offiziell wirkt.  
 
-Mal sehen, ob Dr. Antonio demnächst „Bearbeitungsgebühren“, „Steuern“ oder „internationale Transferzertifikate“ verlangt. Hugo ist bereit – vielleicht investiert er die 995.000 Euro ja in einen mobilen Currywurst-Imbiss mit Goldrand. 🥇🌭
+Mal sehen, ob Dr. Antonio demnächst „Bearbeitungsgebühren“, „Steuern“ oder „internationale Transferzertifikate“ verlangt. Hugo ist bereit, vielleicht investiert er die 995.000 Euro ja in einen mobilen Currywurst-Imbiss mit Goldrand. 🥇🌭
 
 > This is to recognize the receipt of the requested data and the endorsement of your reliability in this universal program, I must state that you are extremely lucky to have your email emerged as one of the recipients in this universal donation of (€ 995,000.00 EUROs). The idea of this donation is to maintain standard of living with notable progress among most communities around the world within the next couple of years.  
 >   
@@ -147,11 +147,11 @@ Mal sehen, ob Dr. Antonio demnächst „Bearbeitungsgebühren“, „Steuern“ 
 > Mr. Rashid Al-Naimi.  
 
 
-### **Unsere E-Mail an Dr. Antonio Triguero Sanchez – mapfreseguroses@europe.com**
+### **Unsere E-Mail an Dr. Antonio Triguero Sanchez, mapfreseguroses@europe.com**
 
-Wie bei den meisten gut abgehangenen Scams üblich, folgt jetzt der Klassiker: Man wird freundlich, aber bestimmt von A nach B geschickt – angeblich zur *zuständigen Stelle*, damit das Ganze irgendwie offiziell und seriös wirkt. 
+Wie bei den meisten gut abgehangenen Scams üblich, folgt jetzt der Klassiker: Man wird freundlich, aber bestimmt von A nach B geschickt, angeblich zur *zuständigen Stelle*, damit das Ganze irgendwie offiziell und seriös wirkt. 
 
-In unserem Fall heißt die nächste Station „**Dr. Antonio Triguero Sanchez**“ vom *European Claims Office* in Madrid. Klingt nach Marmorboden, Aktenschränken und dicken Siegeln – ist in Wirklichkeit wahrscheinlich nur ein freier E-Mail-Account bei europe.com.
+In unserem Fall heißt die nächste Station „**Dr. Antonio Triguero Sanchez**“ vom *European Claims Office* in Madrid. Klingt nach Marmorboden, Aktenschränken und dicken Siegeln, ist in Wirklichkeit wahrscheinlich nur ein freier E-Mail-Account bei europe.com.
 
 Also schreibt Hugo ganz brav und vertrauensvoll seine erste Nachricht an den *Disbursing Officer*:
 
@@ -170,17 +170,17 @@ Also schreibt Hugo ganz brav und vertrauensvoll seine erste Nachricht an den *Di
 
 Jetzt heißt es zurücklehnen und abwarten, ob Dr. Antonio vielleicht bald ein **„internationales Überweisungszertifikat“**, **„notarielle Bestätigung“** oder die berüchtigte **Bearbeitungsgebühr in Höhe von 950 Euro in Amazon-Gutscheinen** verlangt. 
 
-Hugo ist bereit – mit Mantaplatte in der einen, Maus in der anderen Hand. 😎
+Hugo ist bereit, mit Mantaplatte in der einen, Maus in der anderen Hand. 😎
 
 ## Antonio Triguero Sanchez schreibt uns - mapfreseguroses@europe.com
 
-Die Antwort von Dr. Antonio kommt schnell und freundlich – schließlich wittert man leichte Beute. Natürlich ist alles hochseriös: Man arbeite mit internationalen Organisationen zusammen, will die Lebensqualität weltweit steigern und wirtschaftliche Stabilität fördern. Blöd nur, dass die Absenderadresse immer noch *@europe.com* ist und das "Zahlungsfreigabeformular" vermutlich mit Paint zusammengeschustert wurde.
+Die Antwort von Dr. Antonio kommt schnell und freundlich, schließlich wittert man leichte Beute. Natürlich ist alles hochseriös: Man arbeite mit internationalen Organisationen zusammen, will die Lebensqualität weltweit steigern und wirtschaftliche Stabilität fördern. Blöd nur, dass die Absenderadresse immer noch *@europe.com* ist und das "Zahlungsfreigabeformular" vermutlich mit Paint zusammengeschustert wurde.
 
 Hugo darf nun wählen:  
 🔘 **Banküberweisung** oder  
 🔘 **Zertifizierter Scheck per Kurierdienst**  
 
-Klingt edel, doch am Ende geht’s nur darum, Hugo möglichst elegant zur nächsten Falle zu lotsen – vermutlich in Form einer Bearbeitungsgebühr, Zollkosten oder einem „internationalen Sicherheitszertifikat“, das man bequem vorab bezahlen darf.
+Klingt edel, doch am Ende geht’s nur darum, Hugo möglichst elegant zur nächsten Falle zu lotsen, vermutlich in Form einer Bearbeitungsgebühr, Zollkosten oder einem „internationalen Sicherheitszertifikat“, das man bequem vorab bezahlen darf.
 
 Im Anhang wartet ein Formular auf Hugo. 😏
 
@@ -201,21 +201,21 @@ Im Anhang wartet ein Formular auf Hugo. 😏
 
 ### Das Foto
 
-Um den Eindruck maximaler Seriosität zu erwecken, haben sich die Betrüger nicht lumpen lassen – ein schickes Porträt des angeblichen Dr. Antonio Triguero Sanchez ziert die E-Mail. Wie so oft bei solchen Maschen stammt das Foto von einer **realen Person**, die von ihrer neuen Karriere als Scammer-„Zahlungsoffizier“ garantiert nichts weiß. Eine kurze Google-Bildersuche führt direkt zum [eigentlichen Ursprung](https://www.upo.es/diario/institucional/2015/03/juan-pablo-olmo-impartira-dos-sesiones-del-master-universitario-en-finanzas-y-banca-de-la-upo/): Ein Finanzdozent der Universität Pablo de Olavide in Spanien – mit Spendenabwicklung für Fake-Stiftungen hat er vermutlich eher wenig am Hut.  
+Um den Eindruck maximaler Seriosität zu erwecken, haben sich die Betrüger nicht lumpen lassen, ein schickes Porträt des angeblichen Dr. Antonio Triguero Sanchez ziert die E-Mail. Wie so oft bei solchen Maschen stammt das Foto von einer **realen Person**, die von ihrer neuen Karriere als Scammer-„Zahlungsoffizier“ garantiert nichts weiß. Eine kurze Google-Bildersuche führt direkt zum [eigentlichen Ursprung](https://www.upo.es/diario/institucional/2015/03/juan-pablo-olmo-impartira-dos-sesiones-del-master-universitario-en-finanzas-y-banca-de-la-upo/): Ein Finanzdozent der Universität Pablo de Olavide in Spanien, mit Spendenabwicklung für Fake-Stiftungen hat er vermutlich eher wenig am Hut.  
 
 ![Ein echtes Foto geklaut im Netz](/posts/2025-03-18_qatar-foundation/foto.webp)
 
 
 ### Das Formular
 
-Im Anhang der E-Mail wartet – wie zu erwarten – ein herrlich unprofessionelles PDF, liebevoll gebastelt in **Microsoft Word 2007**. Wahrscheinlich schon seit Jahren im Umlauf, vermutlich mit mehr Rechtschreibfehlern als ein WhatsApp-Chat zwischen Teenagern. Das Ganze soll den Eindruck erwecken, man sei bei einer hochoffiziellen Geldübertragung auf UN-Niveau – in Wahrheit ist es einfach nur ein schlecht designter Datenabgriff.
+Im Anhang der E-Mail wartet, wie zu erwarten, ein herrlich unprofessionelles PDF, liebevoll gebastelt in **Microsoft Word 2007**. Wahrscheinlich schon seit Jahren im Umlauf, vermutlich mit mehr Rechtschreibfehlern als ein WhatsApp-Chat zwischen Teenagern. Das Ganze soll den Eindruck erwecken, man sei bei einer hochoffiziellen Geldübertragung auf UN-Niveau, in Wahrheit ist es einfach nur ein schlecht designter Datenabgriff.
 
 Das Formular fragt wirklich alles ab, was das Scam-Herz begehrt:  
 📝 Name, Adresse, Telefonnummer, Beruf, Geburtsdatum  
 🏦 Bankverbindung inklusive Kontonummer und SWIFT-Code  
-👨‍👩‍👧‍👦 Sogar eine *„Next of Kin“-Angabe* – falls Hugo bei der Millionenüberweisung spontan vom Glauben abfällt?  
+👨‍👩‍👧‍👦 Sogar eine *„Next of Kin“-Angabe*, falls Hugo bei der Millionenüberweisung spontan vom Glauben abfällt?  
 
-Krönung des Ganzen ist eine herrlich sinnfreie „Deklaration“ am Ende, in der Hugo bestätigen soll, dass niemand anders jemals für ihn Geld beansprucht hat – und MAPFRE SEGUROS EU ihn offiziell vertreten darf. Mit rotem *„CONFIDENTIAL & APPROVED*“-Stempel versteht sich – damit’s so richtig wichtig aussieht.
+Krönung des Ganzen ist eine herrlich sinnfreie „Deklaration“ am Ende, in der Hugo bestätigen soll, dass niemand anders jemals für ihn Geld beansprucht hat, und MAPFRE SEGUROS EU ihn offiziell vertreten darf. Mit rotem *„CONFIDENTIAL & APPROVED*“-Stempel versteht sich, damit’s so richtig wichtig aussieht.
 
 ![Das Formular im Anhang](/posts/2025-03-18_qatar-foundation/formular.webp)
 
@@ -224,9 +224,9 @@ Seriös ist hier nur eins: der Versuch, so viele persönliche Daten wie möglich
 
 ## Wir haben keine Lust auf das Formular
 
-Das Formular ist nicht nur unnötig lang, sondern fragt auch jede Menge Daten ab, die ein Scammerherz höherschlagen lassen – von der kompletten Bankverbindung bis zur Kontaktperson im Todesfall. **Darauf haben wir ehrlich gesagt keinen Bock.**  
+Das Formular ist nicht nur unnötig lang, sondern fragt auch jede Menge Daten ab, die ein Scammerherz höherschlagen lassen, von der kompletten Bankverbindung bis zur Kontaktperson im Todesfall. **Darauf haben wir ehrlich gesagt keinen Bock.**  
 
-Statt unsere Zeit mit dem Ausfüllen eines Word-Dokuments von 2007 zu verschwenden, machen wir das, was Hugo am besten kann: *Einfach mal dumm stellen.* Natürlich höflich und mit einer ordentlichen Portion Alltagschaos – zum Beispiel dem Klassiker: „Ich hab nur mein Handy.“
+Statt unsere Zeit mit dem Ausfüllen eines Word-Dokuments von 2007 zu verschwenden, machen wir das, was Hugo am besten kann: *Einfach mal dumm stellen.* Natürlich höflich und mit einer ordentlichen Portion Alltagschaos, zum Beispiel dem Klassiker: „Ich hab nur mein Handy.“
 
 **Hugos Antwort:**  
 
@@ -234,7 +234,7 @@ Statt unsere Zeit mit dem Ausfüllen eines Word-Dokuments von 2007 zu verschwend
 >   
 > vielen Dank für die Unterlagen. Leider bin ich aktuell nur mit meinem Smartphone unterwegs und kann das Formular darauf nicht öffnen oder ausfüllen. Ich bin ehrlich gesagt technisch nicht so fit, was sowas angeht. Gibt es vielleicht eine Möglichkeit, die Daten direkt per E-Mail zu übermitteln?  
 >   
-> Alternativ könnte ich versuchen, das Formular auszudrucken, aber mein Drucker zu Hause funktioniert seit Wochen nicht mehr – und mein Neffe, der mir sonst bei sowas hilft, ist gerade im Urlaub.  
+> Alternativ könnte ich versuchen, das Formular auszudrucken, aber mein Drucker zu Hause funktioniert seit Wochen nicht mehr, und mein Neffe, der mir sonst bei sowas hilft, ist gerade im Urlaub.  
 >   
 > Ich hoffe, das ist kein Problem. Ich freue mich auf Ihre Rückmeldung!  
 >   
@@ -242,9 +242,9 @@ Statt unsere Zeit mit dem Ausfüllen eines Word-Dokuments von 2007 zu verschwend
 > Hugo
 
 
-## Ohne Formular keine Million – Bürokratie muss sein
+## Ohne Formular keine Million, Bürokratie muss sein
 
-Wie bei jeder guten Behörde heißt es auch bei den Scammern: **„Formularpflicht!“** Dr. Antonio zeigt sich zwar verständnisvoll – aber letztlich kompromisslos. Kein Word-Dokument, keine 995.000 Euro. Also soll Hugo jetzt extra in den Copyshop dackeln, das Dokument ausdrucken, ausfüllen, einscannen oder fotografieren und dann zurückmailen.  
+Wie bei jeder guten Behörde heißt es auch bei den Scammern: **„Formularpflicht!“** Dr. Antonio zeigt sich zwar verständnisvoll, aber letztlich kompromisslos. Kein Word-Dokument, keine 995.000 Euro. Also soll Hugo jetzt extra in den Copyshop dackeln, das Dokument ausdrucken, ausfüllen, einscannen oder fotografieren und dann zurückmailen.  
 
 > Sehr geehrter Herr Scholz,  
 >   
@@ -260,15 +260,15 @@ Wie bei jeder guten Behörde heißt es auch bei den Scammern: **„Formularpflic
 
 ### Uns sind die Hände gebunden!
 
-Copyshop, Bibliothek, Scanner, E-Mail – klingt mehr nach *Steuererklärung mit Windows XP*, als nach einer simplen Spendenabwicklung. Hugo soll also für ein nicht existierendes Geschenk erstmal auf Schatzsuche nach Büromaterial gehen. Fehlt nur noch die Bitte, das Formular zusätzlich in dreifacher Ausfertigung auf Pergamentpapier einzureichen – mit Wachssiegel vom Bürgermeister von Wanne-Eickel. 🕵️‍♂️📜
+Copyshop, Bibliothek, Scanner, E-Mail, klingt mehr nach *Steuererklärung mit Windows XP*, als nach einer simplen Spendenabwicklung. Hugo soll also für ein nicht existierendes Geschenk erstmal auf Schatzsuche nach Büromaterial gehen. Fehlt nur noch die Bitte, das Formular zusätzlich in dreifacher Ausfertigung auf Pergamentpapier einzureichen, mit Wachssiegel vom Bürgermeister von Wanne-Eickel. 🕵️‍♂️📜
 
 > Sehr geehrter Herr Dr. Sanchez,  
 >   
-> vielen Dank für Ihre Rückmeldung. Ich verstehe, dass das Formular wichtig ist – aber ehrlich gesagt bin ich damit gerade überfordert. Ich habe weder einen Drucker noch einen Scanner, und in meiner Nähe gibt's auch keinen Copyshop mehr.  
+> vielen Dank für Ihre Rückmeldung. Ich verstehe, dass das Formular wichtig ist, aber ehrlich gesagt bin ich damit gerade überfordert. Ich habe weder einen Drucker noch einen Scanner, und in meiner Nähe gibt's auch keinen Copyshop mehr.  
 >   
-> Die Bibliothek hier hat Montags zu und mein Knie macht auch nicht mehr mit, um da hinzulaufen. Ich wollte eigentlich heute noch Winterreifen wechseln – wird langsam Zeit.  
+> Die Bibliothek hier hat Montags zu und mein Knie macht auch nicht mehr mit, um da hinzulaufen. Ich wollte eigentlich heute noch Winterreifen wechseln, wird langsam Zeit.  
 >   
-> Wäre es nicht möglich, dass ich Ihnen die nötigen Daten einfach direkt per E-Mail schreibe? Ich kann die Sachen auch nummerieren, damit es übersichtlich ist. Ich will das wirklich nicht versäumen – das Geld würde mir sehr helfen.  
+> Wäre es nicht möglich, dass ich Ihnen die nötigen Daten einfach direkt per E-Mail schreibe? Ich kann die Sachen auch nummerieren, damit es übersichtlich ist. Ich will das wirklich nicht versäumen, das Geld würde mir sehr helfen.  
 >   
 > Ich hoffe, Sie haben Verständnis.  
 >   

@@ -12,18 +12,18 @@ categories:
 thumbnail: "badger_surprise.webp"
 url: "posts/2025-11-06_mal-wieder-gehackt"
 summary: "Wieder einmal versuchen Betrüger, mit Scham und Druck Geld zu machen.
-Sie behaupten, sie hätten heimlich über die Webcam gefilmt – in Wahrheit ist es nur eine Textvorlage, die millionenfach verschickt wird."
+Sie behaupten, sie hätten heimlich über die Webcam gefilmt, in Wahrheit ist es nur eine Textvorlage, die millionenfach verschickt wird."
 ---
 
 Wieder einmal versuchen Betrüger, mit Scham und Druck Geld zu machen.
-Sie behaupten, sie hätten heimlich über die Webcam gefilmt – in Wahrheit ist es nur eine Textvorlage, die millionenfach verschickt wird.
+Sie behaupten, sie hätten heimlich über die Webcam gefilmt, in Wahrheit ist es nur eine Textvorlage, die millionenfach verschickt wird.
 
 
 ## Die E-Mail
 
 Wer so eine Mail bekommt, sollte vor allem eines tun: ruhig bleiben, nichts bezahlen und den Papierkorb benutzen.
 
-Der einzige „Virus“ steckt in der E-Mail selbst – und zwar in Form von Panikmache.
+Der einzige „Virus“ steckt in der E-Mail selbst, und zwar in Form von Panikmache.
 
 Die Hoffnung ist, dass bei 100.000 Mails wenigstens einer das Geld an die Bitcoin-Adresse schickt.
 
@@ -97,7 +97,7 @@ Hier die wichtigsten Punkte und was du tun solltest 👇
 ### 🔍 Was wirklich passiert ist
 
 Diese E-Mails werden massenhaft automatisch verschickt.
-Die Betrüger behaupten, sie hätten dein Konto oder deine Kamera gehackt – **in Wahrheit ist das frei erfunden.**
+Die Betrüger behaupten, sie hätten dein Konto oder deine Kamera gehackt, **in Wahrheit ist das frei erfunden.**
 Oft stammen sie von Botnetzen oder Spamservern mit gefälschten Absendern. Die genannte Bitcoin-Adresse ist zufällig generiert, damit sie anonym Geld kassieren können.
 
 ---

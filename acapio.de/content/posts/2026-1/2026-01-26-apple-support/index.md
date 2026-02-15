@@ -1,5 +1,5 @@
 ---
-title: "Betreff: „Wichtige Mitteilung zu Ihrem Apple Konto“ – Spoiler: Es ist weder wichtig, noch von Apple"
+title: "Betreff: „Wichtige Mitteilung zu Ihrem Apple Konto“, Spoiler: Es ist weder wichtig, noch von Apple"
 params:
   author: Andy
 date: "2026-01-26"
@@ -26,7 +26,7 @@ Es ist immer wieder faszinierend, mit welcher technischen Präzision Phishing-Ka
 >   
 > Der letzte Versuch, den Betrag von 0,99 € von dem mit Ihrer Apple ID verknüpften Konto abzubuchen, war nicht erfolgreich. Diese Transaktion wurde vorübergehend im System gespeichert. Um Ihre Apple-Dienste weiterhin ohne Unterbrechung nutzen zu können, schließen Sie bitte die Zahlungsbestätigung spätestens bis zum 2026-01-25 18:20:55 ab.  
 >   
-> Falls Sie keine Maßnahmen ergreifen, könnte der Zugang zu Ihrem Konto andrea.dunkel@web.de eingeschränkt werden – einschließlich Downloads aus dem App Store, Abonnements und Zahlungsfunktionen.  
+> Falls Sie keine Maßnahmen ergreifen, könnte der Zugang zu Ihrem Konto andrea.dunkel@web.de eingeschränkt werden, einschließlich Downloads aus dem App Store, Abonnements und Zahlungsfunktionen.  
 >   
 > Rechnungsnummer: DE-APPLE-997432  
 >   
@@ -34,7 +34,7 @@ Es ist immer wieder faszinierend, mit welcher technischen Präzision Phishing-Ka
 >   
 > Wenn die Zahlung nicht bis zum 2026-01-25 18:20:55 abgeschlossen wird, wird die Transaktion für ungültig erklärt und die Kontofunktionen werden eingeschränkt.   
 
-Hier offenbart sich sofort die mechanische Natur des Betrugs. Apple – ein Unternehmen, das Milliarden in Kundenbindung und personalisierte Ansprache investiert – würde einen Nutzer niemals mit seiner technischen ID begrüßen. 
+Hier offenbart sich sofort die mechanische Natur des Betrugs. Apple, ein Unternehmen, das Milliarden in Kundenbindung und personalisierte Ansprache investiert, würde einen Nutzer niemals mit seiner technischen ID begrüßen. 
 
 Statt den in der Apple-ID hinterlegten Vornamen zu nutzen (was einen Zugriff auf die Datenbank voraussetzen würde), füllen die Skripte der Angreifer den Platzhalter einfach mit dem einzigen Datum, das sie haben: der Empfänger-Adresse.
 
@@ -60,6 +60,6 @@ Wer hier seine Kreditkartendaten eingibt, spendet nicht an Apple, sondern finanz
 
 ## Fazit: Setzen, sechs!
 
-Falsche Anrede, panische Deadline und ein Link, der aussieht wie ein Unfall – das war wohl nichts.
+Falsche Anrede, panische Deadline und ein Link, der aussieht wie ein Unfall, das war wohl nichts.
 
 **Die einzige Regel:** Echte Apple-Probleme klärt man immer direkt in den iPhone-Einstellungen, nie über Links in E-Mails. Diese Nachricht landet im Müll, und die gesparten 99 Cent bekommt der Wellensittich. Der freut sich wenigstens ehrlich über einen echten Apfel.

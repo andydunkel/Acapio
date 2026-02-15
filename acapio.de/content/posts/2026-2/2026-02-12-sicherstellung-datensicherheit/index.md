@@ -1,5 +1,5 @@
 ---
-title: "„Sicherstellung der Datenrichtigkeit“ – Transparenzregister-Mail ist ein Betrugsversuch"
+title: "„Sicherstellung der Datenrichtigkeit“, Transparenzregister-Mail ist ein Betrugsversuch"
 params:
   author: Andy
 date: "2026-02-12"
@@ -11,14 +11,14 @@ categories:
   - "Scam"
 thumbnail: "evil_badger.webp"
 url: "posts/2026-02-12-sicherstellung-datensicherheit"
-summary: "Mit dem Betreff **„Sicherstellung der Datenrichtigkeit“** werden aktuell Unternehmen unter Druck gesetzt. Die angebliche Transparenzregister-Mail droht mit Bußgeldern und kurzen Fristen – ist jedoch ein Betrugsversuch. Wir zeigen die Warnsignale und erklären, was dahintersteckt."
+summary: "Mit dem Betreff **„Sicherstellung der Datenrichtigkeit“** werden aktuell Unternehmen unter Druck gesetzt. Die angebliche Transparenzregister-Mail droht mit Bußgeldern und kurzen Fristen, ist jedoch ein Betrugsversuch. Wir zeigen die Warnsignale und erklären, was dahintersteckt."
 ---
 
-Eine offiziell klingende E-Mail mit dem Betreff **„Sicherstellung der Datenrichtigkeit“** sorgt aktuell bei Unternehmen für Verunsicherung. Unter Verweis auf das Geldwäschegesetz wird eine angeblich dringende Überprüfung im Transparenzregister gefordert – inklusive kurzer Frist und deutlicher Drohkulisse. 
+Eine offiziell klingende E-Mail mit dem Betreff **„Sicherstellung der Datenrichtigkeit“** sorgt aktuell bei Unternehmen für Verunsicherung. Unter Verweis auf das Geldwäschegesetz wird eine angeblich dringende Überprüfung im Transparenzregister gefordert, inklusive kurzer Frist und deutlicher Drohkulisse. 
 
 Wir zeigen, warum es sich dabei um einen Betrugsversuch handelt, welche typischen Warnsignale die Mail enthält und was nach einem Klick auf den Link tatsächlich passiert.
 
-## „Sicherstellung der Datenrichtigkeit“ – oder: Wenn Alfred Tetzlaff plötzlich fürs Transparenzregister arbeitet
+## „Sicherstellung der Datenrichtigkeit“, oder: Wenn Alfred Tetzlaff plötzlich fürs Transparenzregister arbeitet
 
 Da flattert sie ins Postfach: eine streng formulierte E-Mail mit dem verheißungsvollen Betreff **„Sicherstellung der Datenrichtigkeit“**. Klingt nach Behörde. Klingt nach Paragrafen. Klingt nach: „Das könnte teuer werden.“
 
@@ -81,7 +81,7 @@ Was fehlt?
 
 Stattdessen schreibt ein gewisser **Michael Tetzlaff, Team Registeraktualisierung**.
 
-Nun, wer bei „Tetzlaff“ spontan an **Alfred Tetzlaff** denkt – auch bekannt als „Ekel Alfred“ – liegt zumindest beim Unterhaltungswert nicht ganz falsch. Ob Herr Tetzlaff tatsächlich die Geldwäsche in Deutschland bekämpft oder eher die Klickzahlen seiner Kampagne steigern möchte, bleibt offen.
+Nun, wer bei „Tetzlaff“ spontan an **Alfred Tetzlaff** denkt, auch bekannt als „Ekel Alfred“, liegt zumindest beim Unterhaltungswert nicht ganz falsch. Ob Herr Tetzlaff tatsächlich die Geldwäsche in Deutschland bekämpft oder eher die Klickzahlen seiner Kampagne steigern möchte, bleibt offen.
 
 ---
 
@@ -125,14 +125,14 @@ Tatsächlich handelt es sich um eine klassische Phishing-Struktur:
 * künstlicher Zeitdruck
 * Link zur „Datenbestätigung“
 
-Die Kombination aus Gesetzesbezug und Existenzangst macht solche Mails besonders perfide – gerade für Selbstständige und kleine Unternehmen.
+Die Kombination aus Gesetzesbezug und Existenzangst macht solche Mails besonders perfide, gerade für Selbstständige und kleine Unternehmen.
 
 ---
 
 
 ## Wir klicken den Link an!
 
-Rein aus dokumentarischen Gründen – versteht sich.
+Rein aus dokumentarischen Gründen, versteht sich.
 
 Nach dem Klick landet man auf einer Seite, die optisch stark an das echte Transparenzregister angelehnt ist: blaues Layout, Bundesadler, sachliche Überschriften. Auf den ersten Blick wirkt alles erstaunlich offiziell.
 
@@ -141,17 +141,17 @@ Zunächst soll man den Unternehmensnamen eingeben. Kurz darauf erscheint die Mel
 ![](/posts/2026-02-12-sicherstellung-datensicherheit/sec_1.webp)
 
 
-Im nächsten Schritt werden dann fleißig persönliche Informationen abgefragt – Name, Geburtsdatum, Adresse, Telefonnummer. Ein sauber strukturierter Datensatz, bequem vom Betroffenen selbst geliefert. Spätestens hier wird klar: Es geht nicht um eine gesetzliche Pflicht, sondern um Datensammlung.
+Im nächsten Schritt werden dann fleißig persönliche Informationen abgefragt, Name, Geburtsdatum, Adresse, Telefonnummer. Ein sauber strukturierter Datensatz, bequem vom Betroffenen selbst geliefert. Spätestens hier wird klar: Es geht nicht um eine gesetzliche Pflicht, sondern um Datensammlung.
 
 ![](/posts/2026-02-12-sicherstellung-datensicherheit/sec_2.webp)
 
 
-Der eigentliche Zweck folgt zum Schluss. Zur „Identitätsprüfung“ soll die IBAN angegeben werden. Angeblich werde überprüft, ob diese mit dem hinterlegten Bankkonto übereinstimmt. Eine Behörde, die bereits ein Konto hinterlegt hat, müsste dieses allerdings nicht per Webformular erneut abfragen – schon gar nicht nach einer Droh-Mail mit Drei-Tage-Frist.
+Der eigentliche Zweck folgt zum Schluss. Zur „Identitätsprüfung“ soll die IBAN angegeben werden. Angeblich werde überprüft, ob diese mit dem hinterlegten Bankkonto übereinstimmt. Eine Behörde, die bereits ein Konto hinterlegt hat, müsste dieses allerdings nicht per Webformular erneut abfragen, schon gar nicht nach einer Droh-Mail mit Drei-Tage-Frist.
 
 ![](/posts/2026-02-12-sicherstellung-datensicherheit/sec_3.webp)
 
 
-Das Ganze ist ein klassischer Phishing-Funnel: erst Druck aufbauen, dann Vertrauen simulieren, schließlich sensible Daten und Bankverbindung abgreifen. Mit Transparenz hat das wenig zu tun – außer vielleicht der Transparenz, wie solche Betrugsmaschen inzwischen aufgebaut sind.
+Das Ganze ist ein klassischer Phishing-Funnel: erst Druck aufbauen, dann Vertrauen simulieren, schließlich sensible Daten und Bankverbindung abgreifen. Mit Transparenz hat das wenig zu tun, außer vielleicht der Transparenz, wie solche Betrugsmaschen inzwischen aufgebaut sind.
 
 ![](/posts/2026-02-12-sicherstellung-datensicherheit/sec_4.webp)
 
@@ -162,7 +162,7 @@ Das Ganze ist ein klassischer Phishing-Funnel: erst Druck aufbauen, dann Vertrau
 
 Die Mail mit dem Betreff **„Sicherstellung der Datenrichtigkeit“** ist kein behördlicher Hinweis, sondern ein sauber inszenierter Betrugsversuch. Mit Paragraphen, Fristen und drastischen Konsequenzen wird gezielt Druck aufgebaut, um Unternehmen zu unüberlegten Klicks zu bewegen.
 
-Die nachgelagerte Webseite zeigt deutlich, worum es wirklich geht: persönliche Daten und am Ende die IBAN. Schritt für Schritt wird ein vollständiger Unternehmens- und Identitätsdatensatz abgefragt – freiwillig eingegeben vom Betroffenen selbst.
+Die nachgelagerte Webseite zeigt deutlich, worum es wirklich geht: persönliche Daten und am Ende die IBAN. Schritt für Schritt wird ein vollständiger Unternehmens- und Identitätsdatensatz abgefragt, freiwillig eingegeben vom Betroffenen selbst.
 
 Wichtig ist:
 Das echte Transparenzregister fordert keine Datenbestätigung über eine Droh-Mail mit Drei-Tage-Frist und schon gar nicht über ein externes Formular zur IBAN-Eingabe.
@@ -176,4 +176,4 @@ Wer eine solche Nachricht erhält, sollte:
 
 Die Masche funktioniert nicht wegen technischer Raffinesse, sondern wegen psychologischem Druck. Je offizieller der Ton, desto kritischer sollte man werden.
 
-Transparenz ist wichtig – aber nicht gegenüber Kriminellen.
+Transparenz ist wichtig, aber nicht gegenüber Kriminellen.

@@ -1,5 +1,5 @@
 ---
-title: "Hugo, Kristalina Georgieva und Jerome Powell – die verrückteste Erbschafts-Story aller Zeiten"
+title: "Hugo, Kristalina Georgieva und Jerome Powell, die verrückteste Erbschafts-Story aller Zeiten"
 params:
   author: Andy
 date: "2025-02-13"
@@ -11,18 +11,18 @@ categories:
     - "Scam"
 thumbnail: "money.webp"
 url: "posts/2025-02-13_jerome-powell"
-summary: "Hugo aus Wanne-Eickel hatte einen guten Tag – bis plötzlich eine E-Mail in seinem Postfach landete, die sein Leben für immer verändern könnte. Oder doch nicht? Angeblich steht ihm eine gigantische Entschädigungssumme von 10,5 Millionen Dollar zu. Absender: Ein gewisser Mr. Allen Goldberg."
+summary: "Hugo aus Wanne-Eickel hatte einen guten Tag, bis plötzlich eine E-Mail in seinem Postfach landete, die sein Leben für immer verändern könnte. Oder doch nicht? Angeblich steht ihm eine gigantische Entschädigungssumme von 10,5 Millionen Dollar zu. Absender: Ein gewisser Mr. Allen Goldberg."
 ---
 
-Hugo aus Wanne-Eickel hatte einen guten Tag – bis plötzlich eine E-Mail in seinem Postfach landete, die sein Leben für immer verändern könnte. Oder doch nicht? Angeblich steht ihm eine gigantische Entschädigungssumme von 10,5 Millionen Dollar zu. Absender: Ein gewisser Mr. Allen Goldberg.
+Hugo aus Wanne-Eickel hatte einen guten Tag, bis plötzlich eine E-Mail in seinem Postfach landete, die sein Leben für immer verändern könnte. Oder doch nicht? Angeblich steht ihm eine gigantische Entschädigungssumme von 10,5 Millionen Dollar zu. Absender: Ein gewisser Mr. Allen Goldberg.
 
-Die Geschichte klingt schon fast zu gut, um wahr zu sein (Spoiler: Ist sie auch nicht). Doch anstatt die E-Mail zu ignorieren, tat Hugo das, was er am besten kann – er spielte mit.
+Die Geschichte klingt schon fast zu gut, um wahr zu sein (Spoiler: Ist sie auch nicht). Doch anstatt die E-Mail zu ignorieren, tat Hugo das, was er am besten kann, er spielte mit.
 
 ## Die Lock-E-Mail: Millionen für Hugo! (mrs.kristalinageorgieva.003@gmail.com)
 
 Hugo aus Wanne-Eickel bekommt **10,5 Millionen Dollar!** Zumindest laut einer E-Mail von **Mr. Allen Goldberg**, einem angeblich steinreichen US-Rentner, der nach Afrika gereist ist, um sein Erbe einzufordern.  
 
-Goldberg behauptet, dass **Kristalina Georgieva**, die Chefin des Internationalen Währungsfonds (IMF), höchstpersönlich Hugo auf einer geheimen Liste entdeckt hat. Das Geld liege angeblich bereit – er müsse sich nur melden und ein paar Daten schicken.  
+Goldberg behauptet, dass **Kristalina Georgieva**, die Chefin des Internationalen Währungsfonds (IMF), höchstpersönlich Hugo auf einer geheimen Liste entdeckt hat. Das Geld liege angeblich bereit, er müsse sich nur melden und ein paar Daten schicken.  
 
 Doch Achtung! Die einzigen, die hier reich werden, sind die Betrüger. Denn bevor Hugo sein Geld bekommt (Spoiler: niemals), soll er erst eine „kleine Gebühr“ zahlen. Ein **typischer Vorschussbetrug**, aber Hugo spielt mit! 😆
 
@@ -52,7 +52,7 @@ Doch Achtung! Die einzigen, die hier reich werden, sind die Betrüger. Denn bevo
 
 ### Wir machen mit!
 
-Hugo ist skeptisch – aber **10,5 Millionen Dollar?** Das klingt nach vielen Bierkästen und BMW-Tuning! 😎  
+Hugo ist skeptisch, aber **10,5 Millionen Dollar?** Das klingt nach vielen Bierkästen und BMW-Tuning! 😎  
 
 Also schreibt er zurück, auf bestem Ruhrpott-Englisch: **„My English not so good, but I understand money very good!“** Mit einem feinen Hauch von Begeisterung fragt er, wie er an das Geld kommt.  
 
@@ -64,13 +64,13 @@ Also schreibt er zurück, auf bestem Ruhrpott-Englisch: **„My English not so g
 > Hugo aus Wanne-Eickel    
 > (President of BMW Club Wanne-Eickel)   
 
-## Die Antwort von „Kristalina Georgieva“ – oder doch nicht?
+## Die Antwort von „Kristalina Georgieva“, oder doch nicht?
 
 Kristalina Georgieva, **Chefin des Internationalen Währungsfonds, Menschenrechtsaktivistin, Anwältin und jetzt auch noch private Geldverteilerin**, hat sich höchstpersönlich bei Hugo gemeldet! 🎉  
 
 In einer fehlerhaften, aber sehr wichtigen E-Mail erklärt sie ihm: **Ja, das Geld gibt es wirklich!** Aber bevor Hugo die Millionen auf sein Konto bekommt, muss er natürlich erst ein *kleines* „rechtliches eidesstattliches Dokument“ besorgen. Und wie das bei Banküberweisungen nun mal so ist, geht nichts ohne einen ominösen **Anwalt**, der gegen eine kleine Gebühr alles regelt.  
 
-Zur Sicherheit gibt sie Hugo auch die Kontaktadresse der **Federal Reserve Bank New York**. Denn dort sitzt niemand Geringeres als **Jerome Powell**, Chef der US-Notenbank! 🎩 Der hat in seinem stressigen Job als oberster Währungshüter natürlich **immer genug Zeit**, um sich um Hugos Millionenüberweisung zu kümmern – per **Gmail-Adresse.** 🧐  
+Zur Sicherheit gibt sie Hugo auch die Kontaktadresse der **Federal Reserve Bank New York**. Denn dort sitzt niemand Geringeres als **Jerome Powell**, Chef der US-Notenbank! 🎩 Der hat in seinem stressigen Job als oberster Währungshüter natürlich **immer genug Zeit**, um sich um Hugos Millionenüberweisung zu kümmern, per **Gmail-Adresse.** 🧐  
 
 Besonders seriös: Als Beweis ihrer Echtheit fügt „Kristalina“ einen Wikipedia-Link zu sich selbst ein. Und wir alle wissen: **Wer einen Wikipedia-Artikel hat, kann gar kein Betrüger sein!** 🤡
 
@@ -121,11 +121,11 @@ Vorsicht, die E-Mail ist lang:
 
 ## Wir kontaktieren die Bank! (jeromehaydenjpowell@gmail.com) 
 
-Endlich ist es soweit – Hugo tritt in die höchsten Finanzkreise ein! 💰💼 Denn wer braucht schon eine seriöse Bank-Domain, wenn **der Chef der Federal Reserve** locker über **Gmail** erreichbar ist?  
+Endlich ist es soweit, Hugo tritt in die höchsten Finanzkreise ein! 💰💼 Denn wer braucht schon eine seriöse Bank-Domain, wenn **der Chef der Federal Reserve** locker über **Gmail** erreichbar ist?  
 
 Da Hugo keine Ahnung hat, was jetzt passiert (und ehrlich gesagt auch nicht weiß, was ein „Affidavit“ ist), fragt er lieber mal ganz naiv nach. **Muss er zur Bank? Kommt das Geld per DHL? Oder bringt Jerome es persönlich nach Wanne-Eickel?**  
 
-Hoffentlich nimmt sich der vielbeschäftigte Notenbank-Chef Zeit für Hugos Fragen – **denn 10,5 Millionen wollen schließlich ordentlich verwaltet werden!** 😆
+Hoffentlich nimmt sich der vielbeschäftigte Notenbank-Chef Zeit für Hugos Fragen, **denn 10,5 Millionen wollen schließlich ordentlich verwaltet werden!** 😆
 > Dear Mr. Jerome Powell,    
 >   
 > this is Hugo from Wanne-Eickel, Germany. Mrs. Kristalina say you send me **10,5 million dollar**, but now I little bit confused. 😕 She talk about affidavit and lawyer and many things… I don’t understand.    
@@ -138,11 +138,11 @@ Hoffentlich nimmt sich der vielbeschäftigte Notenbank-Chef Zeit für Hugos Frag
 > Hugo aus Wanne-Eickel    
 > (President of BMW Club Wanne-Eickel)  
 
-## Jerome Powell meldet sich – und will es eilig!  
+## Jerome Powell meldet sich, und will es eilig!  
 
-Jetzt wird’s offiziell: **Jerome Powell**, Chef der **Federal Reserve Bank**, meldet sich persönlich! 🎩 Die **10,5 Millionen Dollar** seien bereit, aber Hugo muss sich sputen – er hat nur 48 Stunden Zeit!  
+Jetzt wird’s offiziell: **Jerome Powell**, Chef der **Federal Reserve Bank**, meldet sich persönlich! 🎩 Die **10,5 Millionen Dollar** seien bereit, aber Hugo muss sich sputen, er hat nur 48 Stunden Zeit!  
 
-Dafür braucht er ein „Genehmigungsdokument“, das er bei **Anwalt Damian Williams** beantragen soll. **Kontakt per Yahoo-Mail** – ganz wie es sich für eine seriöse US-Behörde gehört. 🧐  
+Dafür braucht er ein „Genehmigungsdokument“, das er bei **Anwalt Damian Williams** beantragen soll. **Kontakt per Yahoo-Mail**, ganz wie es sich für eine seriöse US-Behörde gehört. 🧐  
 
 Außerdem will Powell gleich noch **Hugos Bankdaten und eine Ausweiskopie**. Klingt super sicher! 🤡 Hugo fragt sich: **Kommt das Geld per DHL oder bringt Powell es persönlich vorbei?** 😆
 
@@ -205,7 +205,7 @@ Egal, dann schreiben wir halt, schick mit Fake-Daten und unserem Ausweis der Bun
 
 Wochen gehen ins Land nichts passiert, wir haken nach und bekommen eine Antwort!
 
-Natürlich lässt sich „Barrister“ Damian Williams nicht lumpen und kommt gleich mit einem Schnäppchen-Angebot: **Für nur 1.080 Dollar Gebühren gibt’s 10,5 Millionen aufs Konto** – wie bei „Kaufe 1, bekomme 10 gratis“.
+Natürlich lässt sich „Barrister“ Damian Williams nicht lumpen und kommt gleich mit einem Schnäppchen-Angebot: **Für nur 1.080 Dollar Gebühren gibt’s 10,5 Millionen aufs Konto**, wie bei „Kaufe 1, bekomme 10 gratis“.
 Kleiner Haken: Die Adresse klingt wie ein Postfach im Lottozentrum und das einzige Gericht, das hier eine Rolle spielt, ist wohl der Nachtisch. 🍮
 
 
@@ -225,14 +225,14 @@ Hugo antwortet brav:
 
 > Sehr geehrter Herr „Barrister“ Damian Williams,  
 >   
-> hui, gleich 10.500.000,00 USD – und das für läppische 1.080,00 USD Gebühren. Klingt wie ein Sonderangebot aus dem Baumarkt: „Nimm die Millionen, zahl die Kleinteile an der Kasse.“ 😉  
+> hui, gleich 10.500.000,00 USD, und das für läppische 1.080,00 USD Gebühren. Klingt wie ein Sonderangebot aus dem Baumarkt: „Nimm die Millionen, zahl die Kleinteile an der Kasse.“ 😉  
 >   
-> Können wir das bitte einfach direkt vom zu überweisenden Betrag abziehen? Also 10.500.000,00 minus 1.080,00 – dann spart sich Ihre Buchhaltung sogar einen extra Beleg. Win-win!  
+> Können wir das bitte einfach direkt vom zu überweisenden Betrag abziehen? Also 10.500.000,00 minus 1.080,00, dann spart sich Ihre Buchhaltung sogar einen extra Beleg. Win-win!  
 >   
 > Außerdem bräuchte ich kurz zur Ordnung:  
 >   
 > 1. Aktenzeichen/Docket Number des Falls  
-> 2. Korrekte Anschrift Ihres Gerichts (inkl. ZIP – 15607 klingt mehr nach Lotto als nach Manhattan)  
+> 2. Korrekte Anschrift Ihres Gerichts (inkl. ZIP, 15607 klingt mehr nach Lotto als nach Manhattan)  
 > 3. Ein offizielles Schreiben mit Siegel/Briefkopf als PDF  
 > 4. Den rechtlichen Grund für diese „zwei Dokumente“ (genaue Bezeichnung & zuständige Stelle)  
 > 5. Und weil’s Spaß macht: ein Selfie vor dem Gerichtsgebäude mit heutiger Tageszeitung. 😇  
@@ -244,9 +244,9 @@ Hugo antwortet brav:
 > Wanne-Eickel, Amt für Gesunden Menschenverstand 🦡  
 
 
-## Millionen aus New York – aber zahlen nach New Mexico
+## Millionen aus New York, aber zahlen nach New Mexico
 
-Und zack – da ist sie, die „offizielle“ Kontoverbindung. Statt Staatskasse oder Treuhandkonto gibt’s eine **Privatperson namens Dwayna Garcia in New Mexico**. Klar, so laufen also seriöse US-Gerichtstransaktionen ab: Richter, Robe, Hammer – und am Ende geht das Geld an Tante Dwayna im Wüstenstaat. Man möchte fast fragen, ob es beim Überweisungsbeleg auch noch einen Gutschein für Margaritas dazu gibt. 🍹
+Und zack, da ist sie, die „offizielle“ Kontoverbindung. Statt Staatskasse oder Treuhandkonto gibt’s eine **Privatperson namens Dwayna Garcia in New Mexico**. Klar, so laufen also seriöse US-Gerichtstransaktionen ab: Richter, Robe, Hammer, und am Ende geht das Geld an Tante Dwayna im Wüstenstaat. Man möchte fast fragen, ob es beim Überweisungsbeleg auch noch einen Gutschein für Margaritas dazu gibt. 🍹
 
 > Dear Sir/Madam, Hugo,  
 >   
@@ -264,7 +264,7 @@ Und zack – da ist sie, die „offizielle“ Kontoverbindung. Statt Staatskasse
 
 ### Millionen futsch wegen fehlender IBAN
 
-Und wieder zeigt sich: Die Betrüger haben ein Problem mit der Realität. Während Hugo in Deutschland brav bei der Sparkasse sitzt und eine **IBAN** eintippen will, werfen die „Juristen“ mit **Routing Numbers, Wire Codes und Swift-Salat** um sich. Ergebnis: Hugo versteht nur Bahnhof – oder besser gesagt nur „IBAN“. Wer hätte gedacht, dass 10,5 Millionen Dollar an so einer Kleinigkeit wie einem deutschen Überweisungsformular scheitern? 💸
+Und wieder zeigt sich: Die Betrüger haben ein Problem mit der Realität. Während Hugo in Deutschland brav bei der Sparkasse sitzt und eine **IBAN** eintippen will, werfen die „Juristen“ mit **Routing Numbers, Wire Codes und Swift-Salat** um sich. Ergebnis: Hugo versteht nur Bahnhof, oder besser gesagt nur „IBAN“. Wer hätte gedacht, dass 10,5 Millionen Dollar an so einer Kleinigkeit wie einem deutschen Überweisungsformular scheitern? 💸
 
 > Dear Sir Barrister,  
 >   
@@ -280,9 +280,9 @@ Und wieder zeigt sich: Die Betrüger haben ein Problem mit der Realität. Währe
 
 ## Monate später! Damian Williams meldet sich wieder!
 
-Und siehe da: Nach monatelanger Funkstille kommt der große Auftritt – plötzlich gibt es eine **deutsche IBAN**! Angeblich gehört das Konto einem gewissen **Lucky Ebuka Anikpe** (ja, Lucky, welch Zufall 🤡) bei einer Bank namens „Banking Circle“ in München. 
+Und siehe da: Nach monatelanger Funkstille kommt der große Auftritt, plötzlich gibt es eine **deutsche IBAN**! Angeblich gehört das Konto einem gewissen **Lucky Ebuka Anikpe** (ja, Lucky, welch Zufall 🤡) bei einer Bank namens „Banking Circle“ in München. 
 
-Überweisungszweck: **Family Support**. Klar doch – 1.080 Dollar Familienhilfe, und schwupps gibt’s 10,5 Millionen vom US-Gericht. Wer braucht schon Lotto, wenn man „Lucky“ auf dem Überweisungsträger stehen hat? 🍀💸
+Überweisungszweck: **Family Support**. Klar doch, 1.080 Dollar Familienhilfe, und schwupps gibt’s 10,5 Millionen vom US-Gericht. Wer braucht schon Lotto, wenn man „Lucky“ auf dem Überweisungsträger stehen hat? 🍀💸
 
 > Dear Sir/Madam, Hugo   
 >   
@@ -301,7 +301,7 @@ Und siehe da: Nach monatelanger Funkstille kommt der große Auftritt – plötzl
 
 ### Sparkasse riecht den Braten
 
-Bei der Sparkasse am Schalter war sofort Schluss mit lustig. Statt Millionenregen gab’s die klare Ansage: **„Das sieht nach Betrug aus.“** Tja, ohne offizielles Dokument mit Stempel und Siegel läuft hierzulande eben nichts – schon gar keine 1.080 Dollar an einen gewissen *Lucky*. Damian muss also erst einmal seine **Behörden-Fantasie-Abteilung** anschmeißen und ein schönes PDF basteln, bevor Hugo weiter überweist. 🏦📄
+Bei der Sparkasse am Schalter war sofort Schluss mit lustig. Statt Millionenregen gab’s die klare Ansage: **„Das sieht nach Betrug aus.“** Tja, ohne offizielles Dokument mit Stempel und Siegel läuft hierzulande eben nichts, schon gar keine 1.080 Dollar an einen gewissen *Lucky*. Damian muss also erst einmal seine **Behörden-Fantasie-Abteilung** anschmeißen und ein schönes PDF basteln, bevor Hugo weiter überweist. 🏦📄
 
 > Dear Sir Barrister Damian,  
 >   

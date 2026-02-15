@@ -60,7 +60,7 @@ Die gleiche Vorgehensweise, die gleiche Webseite mit anderen Fragen und Bildern.
 
 ![](/posts/2025-01-15_phishing-mit-kostenlosen-umfragen-und-artikeln/obi_2.webp)
 
-## Beispiel: Medicare Kit jetzt sichern – "exklusiv bei Techniker Krankenkasse"
+## Beispiel: Medicare Kit jetzt sichern, "exklusiv bei Techniker Krankenkasse"
 
 ![](/posts/2025-01-15_phishing-mit-kostenlosen-umfragen-und-artikeln/medi.webp)
 

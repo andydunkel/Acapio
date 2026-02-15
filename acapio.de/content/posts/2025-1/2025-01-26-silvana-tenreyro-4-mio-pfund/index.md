@@ -11,10 +11,10 @@ categories:
     - "Scam"
 thumbnail: "fox.webp"
 url: "posts/2025-01-26-silvana-tenreyro-4-mio-pfund"
-summary: "Wer träumt nicht davon, über Nacht Millionär zu werden? Genau diesen Traum will uns „Silvana Tenreyro“ erfüllen – per E-Mail und ganz ohne große Umstände. "
+summary: "Wer träumt nicht davon, über Nacht Millionär zu werden? Genau diesen Traum will uns „Silvana Tenreyro“ erfüllen, per E-Mail und ganz ohne große Umstände. "
 ---
 
-Wer träumt nicht davon, über Nacht Millionär zu werden? Genau diesen Traum will uns „Silvana Tenreyro“ erfüllen – per E-Mail und ganz ohne große Umstände. 
+Wer träumt nicht davon, über Nacht Millionär zu werden? Genau diesen Traum will uns „Silvana Tenreyro“ erfüllen, per E-Mail und ganz ohne große Umstände. 
 
 4 Millionen britische Pfund, angeblich mit unserem Namen verknüpft, warteten nur darauf, eingefordert zu werden. Klingt fantastisch, oder? 
 
@@ -34,7 +34,7 @@ Die Antwort geht an **silvanatenreyro030@gmail.com**.
 
 > Liebe Frau Tenreyro,  
 >   
-> herzlichen Dank für Ihre Nachricht! So etwas hört man ja nicht alle Tage – 4 Millionen Pfund, die mit meinem Namen verknüpft sind! Das klingt fast zu schön, um wahr zu sein, aber wenn es wirklich so ist, kann ich das Geld natürlich sehr gut gebrauchen. Mein Mann Peter würde sich bestimmt über eine neue Gartenlaube freuen, und die Kinder brauchen dringend ein Trampolin.  
+> herzlichen Dank für Ihre Nachricht! So etwas hört man ja nicht alle Tage, 4 Millionen Pfund, die mit meinem Namen verknüpft sind! Das klingt fast zu schön, um wahr zu sein, aber wenn es wirklich so ist, kann ich das Geld natürlich sehr gut gebrauchen. Mein Mann Peter würde sich bestimmt über eine neue Gartenlaube freuen, und die Kinder brauchen dringend ein Trampolin.  
 >   
 > Hier meine vollständigen Namen, wie Sie es gewünscht haben:  
 > Anne  
@@ -64,30 +64,30 @@ Am besten gefällt uns jedoch der folgende Absatz. Das schafft gleich Vertrauen.
 
 Kurz gesagt: Silvana Tenreyro, angeblich hochrangiges Mitglied der Bank of England, hat einen Plan, der vor Kreativität nur so sprüht. Sie behauptet, ein gewisser Dr. Thomas J. Tojas habe vor Jahren 4 Millionen Pfund in ihrer Bank deponiert, dann plötzlich das Zeitliche gesegnet und dabei vergessen, jemanden als Erben anzugeben.  
 
-Aber keine Sorge, Silvana hat die Lösung: Sie hat uns „zufällig“ als entfernte Verwandte entdeckt – wegen unseres gemeinsamen Nachnamens. Der Vorschlag? Wir sollen uns als Erben ausgeben, das Geld abholen und mit ihr 50/50 teilen. Klingt doch fair, oder?  
+Aber keine Sorge, Silvana hat die Lösung: Sie hat uns „zufällig“ als entfernte Verwandte entdeckt, wegen unseres gemeinsamen Nachnamens. Der Vorschlag? Wir sollen uns als Erben ausgeben, das Geld abholen und mit ihr 50/50 teilen. Klingt doch fair, oder?  
 
 Fun-Fact: Die Frau [gibt es wirklich](https://de.wikipedia.org/wiki/Silvana_Tenreyro)! Mal wieder wird ein Name missbräuchlich verwendet.
 
 ## Kekse für Anne!
 
-Anne aus Hamburg, unsere Heldin des Alltags, hätte mit den 4 Millionen Pfund so einiges anstellen können. Ein Vorrat an Keksen für die Ewigkeit? Check. Ein privater Kaffeelieferant? Klar. Oder vielleicht eine goldene Keksdose mit integriertem WLAN – warum nicht!  
+Anne aus Hamburg, unsere Heldin des Alltags, hätte mit den 4 Millionen Pfund so einiges anstellen können. Ein Vorrat an Keksen für die Ewigkeit? Check. Ein privater Kaffeelieferant? Klar. Oder vielleicht eine goldene Keksdose mit integriertem WLAN, warum nicht!  
 
 Egal, wir antworten!
 
 > Liebe Frau Tenreyro,  
 >   
-> vielen Dank für Ihre großzügige Nachricht! 4 Millionen Pfund – das würde mein Wochenbudget für Kaffee und Kekse enorm erweitern. Allerdings bin ich etwas skeptisch: Wie genau bin ich denn plötzlich mit Dr. Tojas verwandt? Ich dachte bisher, ich sei eher mit dem Hamburger Hafen als mit britischen Neurologen verbunden.  
+> vielen Dank für Ihre großzügige Nachricht! 4 Millionen Pfund, das würde mein Wochenbudget für Kaffee und Kekse enorm erweitern. Allerdings bin ich etwas skeptisch: Wie genau bin ich denn plötzlich mit Dr. Tojas verwandt? Ich dachte bisher, ich sei eher mit dem Hamburger Hafen als mit britischen Neurologen verbunden.  
 >   
-> Auch der Link zu Ihrer Bank wirkt ein wenig… eigenwillig. Vielleicht können Sie mir den nochmal bestätigen? Ich will ja sicher sein, dass alles korrekt abläuft – schließlich will ich keinen Skandal im Familiennamen riskieren!  
+> Auch der Link zu Ihrer Bank wirkt ein wenig… eigenwillig. Vielleicht können Sie mir den nochmal bestätigen? Ich will ja sicher sein, dass alles korrekt abläuft, schließlich will ich keinen Skandal im Familiennamen riskieren!  
 >   
 > Mit freundlichen Grüßen,  
 > Anne, besorgte zukünftige Millionärin (vielleicht) aus Hamburg 😊  
 
 ## Wir bekommen einen Ausweis
 
-Und plötzlich wird es offiziell: Eine längliche E-Mail flattert herein, gespickt mit den Themen „Ehrlichkeit“ und „Vertrauen“. Natürlich dürfen wir uns keine Sorgen machen – immerhin gibt Silvana uns ihr Ehrenwort!
+Und plötzlich wird es offiziell: Eine längliche E-Mail flattert herein, gespickt mit den Themen „Ehrlichkeit“ und „Vertrauen“. Natürlich dürfen wir uns keine Sorgen machen, immerhin gibt Silvana uns ihr Ehrenwort!
 
-Dazu bekommen wir ihre komplette Biografie inklusive Adresse und Religion – damit wir wissen, dass sie eine „Familienfrau“ ist und auf keinen Fall irgendetwas Unredliches im Sinn hat.  
+Dazu bekommen wir ihre komplette Biografie inklusive Adresse und Religion, damit wir wissen, dass sie eine „Familienfrau“ ist und auf keinen Fall irgendetwas Unredliches im Sinn hat.  
 
 > Guten Tag,  
 >   
@@ -138,7 +138,7 @@ Aber damit nicht genug: Silvana legt noch eine Schippe drauf und sendet uns ihre
 
 Natürlich lassen wir uns die Gelegenheit nicht entgehen, an einem internationalen Millionen-Deal teilzunehmen! Mit der gebotenen Ernsthaftigkeit und Präzision hat Anne die geforderten Daten bereitgestellt.  
 
-Ein kurzer Blick auf die Fakten: Anne ist eine stolze Anhängerin des Fliegenden Spaghetti Monsters (schließlich braucht jeder seriöse Deal ein göttliches Fundament), wohnt in der idyllischen Bachstraße in Hamburg und hat einen Geburtsmonat, der ihren Humor beweist – der 1. April.  
+Ein kurzer Blick auf die Fakten: Anne ist eine stolze Anhängerin des Fliegenden Spaghetti Monsters (schließlich braucht jeder seriöse Deal ein göttliches Fundament), wohnt in der idyllischen Bachstraße in Hamburg und hat einen Geburtsmonat, der ihren Humor beweist, der 1. April.  
 
 > Liebe Frau Tenreyro,    
 >   
@@ -184,11 +184,11 @@ Den senden wir zu und schauen was passiert!
 Silvana hat sich mächtig ins Zeug gelegt. Nicht nur sind jetzt plötzlich alle „offiziellen Dokumente“ fertig, nein, unser Erbe wurde auch direkt an eine ominöse Bank namens **Northline Trust Banking Limited** weitergeleitet. Klingt beeindruckend, oder?  
 
 Hier die Highlights:  
-✅ Die Bank weiß schon Bescheid – ein gewisser „Herr Daniel Wang“ wartet nur darauf, unser Millionen-Konto freizuschalten.  
+✅ Die Bank weiß schon Bescheid, ein gewisser „Herr Daniel Wang“ wartet nur darauf, unser Millionen-Konto freizuschalten.  
 ✅ Ein „Online-Banking-System“ ist auch verfügbar, und wir können unser Geld bequem weltweit verwalten.  
-✅ Wir müssen uns nur schnell melden und ein Konto eröffnen – na wenn das mal nicht nach einer absoluten Top-Gelegenheit klingt!  
+✅ Wir müssen uns nur schnell melden und ein Konto eröffnen, na wenn das mal nicht nach einer absoluten Top-Gelegenheit klingt!  
 
-Was hier wirklich passiert: Die Betrüger hoffen darauf, dass wir brav mitspielen und bald die ersten „Bearbeitungsgebühren“ überweisen – denn selbstverständlich kostet so ein Online-Konto bei einer dubiosen Bank Geld. Und wenn man erst mal gezahlt hat, kommen garantiert noch weitere „unerwartete Kosten“ hinzu. 
+Was hier wirklich passiert: Die Betrüger hoffen darauf, dass wir brav mitspielen und bald die ersten „Bearbeitungsgebühren“ überweisen, denn selbstverständlich kostet so ein Online-Konto bei einer dubiosen Bank Geld. Und wenn man erst mal gezahlt hat, kommen garantiert noch weitere „unerwartete Kosten“ hinzu. 
 
 > Liebe Anne,
 >   
@@ -246,16 +246,16 @@ Wir leiten die E-Mail weiter an die vermeintliche Bank!
 ![](/posts/2025-01-26-silvana-tenreyro-4-mio-pfund/mail_an_bank.png)
 
 
-## Jetzt wird’s teuer – für uns!  
+## Jetzt wird’s teuer, für uns!  
 
 Na endlich! Nach all der Bürokratie, den feierlichen Erklärungen und der tränenreichen Familienzusammenführung mit unserem fernen Verwandten kommen wir zum eigentlichen Kern der Sache: **Wir sollen erstmal zahlen!** 🎉  
 
 Doch keine Sorge, es gibt flexible Optionen:  
-- **850 Pfund** für das Sparkonto – für geduldige Millionäre.
-- **1.500 Pfund** für das Girokonto – weil Zeit Geld ist.
-- **2.700 Pfund** für das Premiumkonto – für den VIP-Betrugsservice mit Sofortüberweisung!
+- **850 Pfund** für das Sparkonto, für geduldige Millionäre.
+- **1.500 Pfund** für das Girokonto, weil Zeit Geld ist.
+- **2.700 Pfund** für das Premiumkonto, für den VIP-Betrugsservice mit Sofortüberweisung!
 
-Natürlich kann diese „kleine“ Gebühr **nicht** von unseren 4 Millionen Pfund abgezogen werden. Das wäre ja unseriös! Stattdessen sollen wir brav im Voraus bezahlen – schließlich muss die Fake-Bank auch von etwas leben.  
+Natürlich kann diese „kleine“ Gebühr **nicht** von unseren 4 Millionen Pfund abgezogen werden. Das wäre ja unseriös! Stattdessen sollen wir brav im Voraus bezahlen, schließlich muss die Fake-Bank auch von etwas leben.  
 
 In jedem Fall sehr fein, dass wir selbst entscheiden können um wieviel Geld wir beschissen werden wollen!
 
@@ -352,13 +352,13 @@ Wir haben nicht soviel Geld und melde uns mit der Info zurück, das uns das klei
 > Anne    
 
 
-## Der große Moment – die Bankverbindung!  
+## Der große Moment, die Bankverbindung!  
 
 Und da ist sie! Nach wochenlanger E-Mail-Korrespondenz, Vertrauensbeteuerungen und einer packenden Erbschaftsgeschichte kommt nun endlich das, worauf wir alle gewartet haben: **die Kontodaten!** 🎉  
 
-Doch Moment mal – unser britisches Millionen-Erbe muss auf ein Konto in **Litauen** überwiesen werden? Und dann auch noch an eine **Privatperson** namens *Agnė Valeškevičiūtė*? Vielleicht ist das eine verschollene Halbschwester, die zufällig Buchhalterin in einer fragwürdigen Offshore-Firma ist?  
+Doch Moment mal, unser britisches Millionen-Erbe muss auf ein Konto in **Litauen** überwiesen werden? Und dann auch noch an eine **Privatperson** namens *Agnė Valeškevičiūtė*? Vielleicht ist das eine verschollene Halbschwester, die zufällig Buchhalterin in einer fragwürdigen Offshore-Firma ist?  
 
-Egal, die Betrüger sind sich sicher: **Wir sollen endlich zahlen!** Und zwar stolze **1.021,42 €** für unser Online-Millionärskonto. Natürlich geht das Geld nicht verloren – nein, nein! Es landet ja auf unserem neuen Konto. Dass wir darauf nie zugreifen können, ist nur ein kleines technisches Detail…  
+Egal, die Betrüger sind sich sicher: **Wir sollen endlich zahlen!** Und zwar stolze **1.021,42 €** für unser Online-Millionärskonto. Natürlich geht das Geld nicht verloren, nein, nein! Es landet ja auf unserem neuen Konto. Dass wir darauf nie zugreifen können, ist nur ein kleines technisches Detail…  
 
 > Guten Tag, Anne,  
 >   
@@ -398,9 +398,9 @@ Damit haben sie zumindest kurzfristig Freude. Natürlich machen wir einen kleine
 
 ![](/posts/2025-01-26-silvana-tenreyro-4-mio-pfund/gezahlt.webp)
 
-## **Die Bank wird gesperrt – northlinetrust.uk ist offline**  
+## **Die Bank wird gesperrt, northlinetrust.uk ist offline**  
 
-Da wir gerade wenig Zeit haben, lassen wir die Scammer eine Weile zappeln und antworten nicht. Prompt werden sie nervös und melden sich regelmäßig – natürlich mit der dringenden Beschwerde, dass **noch kein Geld eingegangen** sei.  
+Da wir gerade wenig Zeit haben, lassen wir die Scammer eine Weile zappeln und antworten nicht. Prompt werden sie nervös und melden sich regelmäßig, natürlich mit der dringenden Beschwerde, dass **noch kein Geld eingegangen** sei.  
 
 ![](/posts/2025-01-26-silvana-tenreyro-4-mio-pfund/offline_1.png)  
 
@@ -410,7 +410,7 @@ Währenddessen nehmen wir uns die Domain **northlinetrust.uk** genauer vor. Wir 
 > **Best regards,**  
 > **Realtime Register Intelligence.**  
 
-Damit haben die Scammer ein echtes Problem. Denn nicht nur die Website ist verschwunden – auch ihre **E-Mail-Kommunikation** lief über diese Domain. Mit einem Schlag sind alle Kontakte weg.
+Damit haben die Scammer ein echtes Problem. Denn nicht nur die Website ist verschwunden, auch ihre **E-Mail-Kommunikation** lief über diese Domain. Mit einem Schlag sind alle Kontakte weg.
 
 Natürlich lassen wir es uns nicht nehmen, **Silvana** direkt über ihren neuesten Rückschlag zu informieren. Zum Glück hat sie noch eine **Gmail-Adresse**, über die sie erreichbar ist. 😏  
 
@@ -420,13 +420,13 @@ Was sie nicht weiß: **Wir haben mittlerweile schon die dritte Webseite ihres �
 
 Immerhin gibt es eine neue E-Mail-Adresse, dieses Mal "**@accountant.com**", die Nummer 1 Adresse für Betrug im Internet!
 
-## Silvana meldet sich wieder – diesmal aus Südafrika
+## Silvana meldet sich wieder, diesmal aus Südafrika
 
-Nach einer kurzen Funkstille tauchen die Scammer wieder auf. Vermutlich brauchten sie Zeit, um sich neu zu sortieren – schließlich haben wir sie parallel angeschrieben und in beiden Fällen [mehrere Domains sperren lassen](/posts/2025-02-12_silvana-tenreyro-teil-2/).  
+Nach einer kurzen Funkstille tauchen die Scammer wieder auf. Vermutlich brauchten sie Zeit, um sich neu zu sortieren, schließlich haben wir sie parallel angeschrieben und in beiden Fällen [mehrere Domains sperren lassen](/posts/2025-02-12_silvana-tenreyro-teil-2/).  
 
 Interessanterweise geht Silvana auf die Webseite überhaupt nicht mehr ein. Stattdessen haben wir über unseren Tracking-Link herausgefunden, dass sie eine **IP-Adresse aus Johannesburg** verwendet.  
 
-Das angebliche Erbe ist natürlich immer noch nicht angekommen – und laut Silvana kann das **nur an uns liegen**. Wir spielen mit und erklären, dass wir das mit der Bank klären werden. Als die Scammer weiter auf die Zahlung drängen, setzen wir noch einen drauf: Wir fingieren ein Schreiben, das bestätigt, dass unsere Bank die Überweisung wegen **Betrugsverdachts** gesperrt hat. 
+Das angebliche Erbe ist natürlich immer noch nicht angekommen, und laut Silvana kann das **nur an uns liegen**. Wir spielen mit und erklären, dass wir das mit der Bank klären werden. Als die Scammer weiter auf die Zahlung drängen, setzen wir noch einen drauf: Wir fingieren ein Schreiben, das bestätigt, dass unsere Bank die Überweisung wegen **Betrugsverdachts** gesperrt hat. 
 
 ![](/posts/2025-01-26-silvana-tenreyro-4-mio-pfund/sperre_bank.webp)  
 
@@ -457,7 +457,7 @@ Natürlich sind wir an der Wallet-Adresse interessiert und schreiben zurück, wi
 > Anne    
 
 
-## Von Banken zu Bitcoin – der nächste Versuch  
+## Von Banken zu Bitcoin, der nächste Versuch  
 
 Nachdem unsere lieben Scammer ihre **Fake-Banken** nicht mehr online halten konnten, müssen sie improvisieren. Ihre Lösung? **Bitcoin!**  
 
@@ -465,11 +465,11 @@ Doch anstatt uns direkt eine Wallet-Adresse zu geben, haben sie einen neuen Plan
 
 > **„Bevor Sie Bitcoin kaufen können, müssen Sie lediglich ein Konto bei https://crypto.com registrieren.“**  
 
-Offensichtlich wollen sie uns erst dazu bringen, Bitcoin auf einer **seriösen Handelsplattform** zu kaufen – und uns dann ihre Wallet-Adresse für die „Überweisung“ geben. Damit entgehen sie gesperrten Bankkonten und machen es uns schwerer, das Geld zurückzubekommen.  
+Offensichtlich wollen sie uns erst dazu bringen, Bitcoin auf einer **seriösen Handelsplattform** zu kaufen, und uns dann ihre Wallet-Adresse für die „Überweisung“ geben. Damit entgehen sie gesperrten Bankkonten und machen es uns schwerer, das Geld zurückzubekommen.  
 
-Doch wir bleiben dran! Natürlich spielen wir weiter mit und tun so, als hätten wir uns registriert. Mal sehen, wann sie uns endlich ihre **Bitcoin-Adresse** verraten – dann haben wir die nächste Spur. 😏
+Doch wir bleiben dran! Natürlich spielen wir weiter mit und tun so, als hätten wir uns registriert. Mal sehen, wann sie uns endlich ihre **Bitcoin-Adresse** verraten, dann haben wir die nächste Spur. 😏
 
-## Wir tun ahnungslos – und warten auf die Bitcoin-Adresse
+## Wir tun ahnungslos, und warten auf die Bitcoin-Adresse
 
 Natürlich lassen wir uns nicht einfach auf Crypto.com locken, ohne direkt die wichtigsten Informationen einzufordern. Also tun wir das, was ein völliger Bitcoin-Neuling tun würde: **Wir stellen uns dumm und bitten um eine genaue Anleitung.**  
 
@@ -492,7 +492,7 @@ Unser Ziel ist klar: **Wir wollen die Wallet-Adresse der Scammer herausfinden**.
 
 ## Wir bekommen die Bitcoin-Adresse  
 
-Endlich ist es soweit – die Scammer rücken mit ihrer **Bitcoin-Wallet** raus! Nachdem wir uns ahnungslos gestellt haben, schicken sie uns die Adresse, an die wir die Bitcoins überweisen sollen:  
+Endlich ist es soweit, die Scammer rücken mit ihrer **Bitcoin-Wallet** raus! Nachdem wir uns ahnungslos gestellt haben, schicken sie uns die Adresse, an die wir die Bitcoins überweisen sollen:  
 
 > **Bitcoin-Wallet:** [bc1q2d9k26rqflwa66gxpzxxxgdg9per7er4gq9kyj](https://www.blockchain.com/explorer/addresses/btc/bc1q2d9k26rqflwa66gxpzxxxgdg9per7er4gq9kyj)  
 

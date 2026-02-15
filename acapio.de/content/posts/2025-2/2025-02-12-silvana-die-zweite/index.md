@@ -14,15 +14,15 @@ url: "posts/2025-02-12_silvana-tenreyro-teil-2"
 summary: "Fortsetzung des Scams mit Silvana Tenreyro... "
 ---
 
-Mit der guten **Silvana Tenreyro** haben wir [bereits unsere Erfahrungen gemacht](/posts/2025-01-26-silvana-tenreyro-4-mio-pfund) – oder besser gesagt, unser wackerer **Hugo**. Doch wir wollten es noch einmal wissen und haben sie diesmal mit einer anderen E-Mail-Adresse kontaktiert. Schließlich interessiert uns, wie Scammer reagieren, wenn man nicht ganz so gutgläubig an die Sache herangeht.  
+Mit der guten **Silvana Tenreyro** haben wir [bereits unsere Erfahrungen gemacht](/posts/2025-01-26-silvana-tenreyro-4-mio-pfund), oder besser gesagt, unser wackerer **Hugo**. Doch wir wollten es noch einmal wissen und haben sie diesmal mit einer anderen E-Mail-Adresse kontaktiert. Schließlich interessiert uns, wie Scammer reagieren, wenn man nicht ganz so gutgläubig an die Sache herangeht.  
 
-Die Antwort? **Gar nicht gut!** Scammer mögen es überhaupt nicht, wenn ihr potenzielles Opfer anfängt, Fragen zu stellen. In vielen Fällen bleibt die Kommunikation dann schnell aus – kein Wunder, denn Zeit ist auch für Betrüger ein wichtiger Faktor. Wer von Anfang an kritisch nachhakt, wird sich später kaum überreden lassen, persönliche Daten oder Geld herauszugeben.  
+Die Antwort? **Gar nicht gut!** Scammer mögen es überhaupt nicht, wenn ihr potenzielles Opfer anfängt, Fragen zu stellen. In vielen Fällen bleibt die Kommunikation dann schnell aus, kein Wunder, denn Zeit ist auch für Betrüger ein wichtiger Faktor. Wer von Anfang an kritisch nachhakt, wird sich später kaum überreden lassen, persönliche Daten oder Geld herauszugeben.  
 
 Doch diesmal sind wir einen Schritt weiter gegangen: **Als „Ahmet“ aus gutem Hause haben wir den Kontakt zu Silvana gesucht.** Wie sich das entwickelt hat? Lest selbst!  
 
 ## Der E-Mail-Verkehr und Skeptis auf beiden Seiten
 
-Bereits in der ersten E-Mail fordern wir Beweise und Unterlagen an – doch darauf wird natürlich nicht eingegangen. Stattdessen folgt das übliche Schema F: Die Mails, die wir erhalten, entsprechen exakt denen, die wir bereits zuvor bekommen haben. Keine neuen Belege, keine zusätzlichen Informationen – nur das gleiche, altbekannte Betrugsmuster.
+Bereits in der ersten E-Mail fordern wir Beweise und Unterlagen an, doch darauf wird natürlich nicht eingegangen. Stattdessen folgt das übliche Schema F: Die Mails, die wir erhalten, entsprechen exakt denen, die wir bereits zuvor bekommen haben. Keine neuen Belege, keine zusätzlichen Informationen, nur das gleiche, altbekannte Betrugsmuster.
 
 ![Wir fragen nach Details](/posts/2025-02-12_silvana-tenreyro-teil-2/mail.webp)
 
@@ -39,11 +39,11 @@ Dieses Mal bleiben wir jedoch hart. Zumindest etwas.
 
 ## Wir bekommen einen Ausweis
 
-Obwohl uns weiterhin weder echte Dokumente noch ein Herkunftsnachweis vorgelegt werden, kommt langsam Bewegung in die Sache. Nach einigen Ausreden – die Bank habe die Unterlagen, und wir könnten derzeit nichts weiter tun – legen die Scammer nach und schicken uns einen weiteren „Ausweis“.
+Obwohl uns weiterhin weder echte Dokumente noch ein Herkunftsnachweis vorgelegt werden, kommt langsam Bewegung in die Sache. Nach einigen Ausreden, die Bank habe die Unterlagen, und wir könnten derzeit nichts weiter tun, legen die Scammer nach und schicken uns einen weiteren „Ausweis“.
 
 ![Ausweis](/posts/2025-02-12_silvana-tenreyro-teil-2/mail_1.webp)
 
-Die Dateinamen lassen vermuten, dass hier hastig mit dem Handy ein Foto gemacht wurde. Leider waren die Scammer schlau genug, die Metadaten zu entfernen – dadurch erfahren wir darüber nichts Neues.
+Die Dateinamen lassen vermuten, dass hier hastig mit dem Handy ein Foto gemacht wurde. Leider waren die Scammer schlau genug, die Metadaten zu entfernen, dadurch erfahren wir darüber nichts Neues.
 
 > Vielen Dank für Ihre E-Mail, die ich erhalten und zur Kenntnis genommen habe. Sie müssen verstehen, dass wir beide von diesem Projekt profitieren und es zu je 50 % aufteilen werden. Sie wissen, was dieser Betrag für Sie bedeutet. Ich werde die Anwaltskosten übernehmen, die ich benötige, um ein Konto bei der Gold Crest Bank zu eröffnen und die Überweisung der Erbschaftsgelder abzuschließen.  
 >   
@@ -83,7 +83,7 @@ Wie auch beim letzten Mal bekommen wir die Dokumente in PDF-Form. Angepasst auf 
 
 ### Die Meta-Daten: SKY LIGHT und „madam onyeka“
 
-Da es sich um PDF-Dateien handelt, werfen wir einen genaueren Blick in die Meta-Daten – und siehe da: Die Dokumente wurden frisch für uns erstellt. Als Software kommt **Word 2016** zum Einsatz, und als Autoren tauchen die Namen **„madam onyeka“** und **„SKY LIGHT“** auf.  
+Da es sich um PDF-Dateien handelt, werfen wir einen genaueren Blick in die Meta-Daten, und siehe da: Die Dokumente wurden frisch für uns erstellt. Als Software kommt **Word 2016** zum Einsatz, und als Autoren tauchen die Namen **„madam onyeka“** und **„SKY LIGHT“** auf.  
 
 Besonders interessant ist „madam onyeka“, denn dieser Name weist erneut in Richtung [Westafrika/Nigeria](/posts/2025-02-09_feyza-olcay-ybrahim-wer-steckt-hinter-dem-Scam/). Ein weiteres Puzzleteil in unserem kleinen Betrugs-Krimi!
 
@@ -94,7 +94,7 @@ Genauer wird es leider nicht, da die Google Suche hier nichts wirklich verwertba
 
 ### Die Fake-Bank: Gold Crest Bank - goldcrestfn.com
 
-Nun sollen wir uns also an die **Gold Crest Bank** wenden – angeblich eine seriöse Institution in London. Doch ein kurzer Check zeigt: Diese Bank existiert in dieser Form gar nicht!  
+Nun sollen wir uns also an die **Gold Crest Bank** wenden, angeblich eine seriöse Institution in London. Doch ein kurzer Check zeigt: Diese Bank existiert in dieser Form gar nicht!  
 
 Die britische Finanzaufsichtsbehörde (FCA) kennt keine **Gold Crest Bank**, warnt aber ausdrücklich vor [Betrugsbanken mit ähnlichen Namen](https://www.fca.org.uk/news/warnings/goldcrest-international-ltd-t-goldcrest-holdings-ltd).  
 
@@ -163,12 +163,12 @@ Wir erhalten keine Antwort, sperren aber über unsere ersten Kontakt noch eine w
 
 ![Die Scammer sind sichtlich geknittert](/posts/2025-02-17_scam-webseiten-sperren-lassen/offline_2.png)
 
-## Die Scammer sind zurück – ohne Bank, aber nicht ohne Hoffnung
+## Die Scammer sind zurück, ohne Bank, aber nicht ohne Hoffnung
 
-Obwohl wir bereits mehrere ihrer „Banken“ aus dem Verkehr gezogen haben, lassen sich die Betrüger nicht so leicht abschütteln. Dieses Mal versuchen sie es auf die **direkte Tour**: Keine Fake-Webseite mehr, keine angebliche Online-Bank – nur noch ein paar vage E-Mails und der Versuch, uns zur Zahlung zu drängen.  
+Obwohl wir bereits mehrere ihrer „Banken“ aus dem Verkehr gezogen haben, lassen sich die Betrüger nicht so leicht abschütteln. Dieses Mal versuchen sie es auf die **direkte Tour**: Keine Fake-Webseite mehr, keine angebliche Online-Bank, nur noch ein paar vage E-Mails und der Versuch, uns zur Zahlung zu drängen.  
 
 > **„Bitte beachten Sie, dass Ihre Zahlung von unserer Buchhaltungsabteilung bestätigt werden muss, bevor ein Konto auf Ihren Namen eingerichtet werden kann.“**  
-> – Daniel Wang, Gold Crest  
+>, Daniel Wang, Gold Crest  
 
 Gold Crest? Ohne Bank? Ohne Webseite? Es scheint, als seien sie in Schwierigkeiten. Doch anstatt aufzugeben, schreiben sie weiter fleißig E-Mails und hoffen, dass wir **doch noch bezahlen**.  
 
@@ -179,9 +179,9 @@ Doch wir haben eine bessere Idee: **Wir lassen sie weiter zappeln.** 😏 Vielle
 Natürlich lassen wir uns nicht einfach in ein **bankloses Nichts** schicken und haken freundlich nach. Immerhin erwarten wir ja eine seriöse Abwicklung unseres Millionen-Erbes!  
 
 Jetzt bleibt abzuwarten, wie **Daniel Wang** sich aus der Affäre zieht:  
-- **Option 1:** Die klassische Ausrede – „technische Wartung“, „Sicherheitsupdate“ oder „Bankfusion“.  
+- **Option 1:** Die klassische Ausrede, „technische Wartung“, „Sicherheitsupdate“ oder „Bankfusion“.  
 - **Option 2:** Ein neuer Name, eine neue Fake-Bank, die uns noch überzeugender um unser Geld erleichtern soll.  
-- **Option 3:** Panik, Verwirrung und Stille – weil ihnen langsam die Möglichkeiten ausgehen.  
+- **Option 3:** Panik, Verwirrung und Stille, weil ihnen langsam die Möglichkeiten ausgehen.  
 
 > Sehr geehrter Herr Wang,    
 >   
@@ -197,9 +197,9 @@ Jetzt bleibt abzuwarten, wie **Daniel Wang** sich aus der Affäre zieht:
 
 ## **Eine neue Webseite geht online: goldcrestint.com**  
 
-Nach ein paar Tagen Funkstille tut sich wieder etwas – die Scammer waren offenbar fleißig und haben eine neue Webseite aufgesetzt. Ohne Fake-Bank funktioniert ihr Betrug schließlich nicht. Dann endlich die „erlösende“ Nachricht: **Die neue Internet-Adresse lautet goldcrestint.com.**  
+Nach ein paar Tagen Funkstille tut sich wieder etwas, die Scammer waren offenbar fleißig und haben eine neue Webseite aufgesetzt. Ohne Fake-Bank funktioniert ihr Betrug schließlich nicht. Dann endlich die „erlösende“ Nachricht: **Die neue Internet-Adresse lautet goldcrestint.com.**  
 
-Neues Design, gleicher Scam – und wir sind natürlich gespannt, wie lange diese Seite diesmal online bleibt. 😏
+Neues Design, gleicher Scam, und wir sind natürlich gespannt, wie lange diese Seite diesmal online bleibt. 😏
 
 > Bezüglich Ihrer E-Mail hatten wir ein kleines Problem mit unserem Netzwerk, an dessen Wiederherstellung wir mit Hochdruck arbeiten. Weitere Informationen erhalten Sie unter https://goldcrestint.com. Bitte wählen Sie die aufgeführte Option aus, damit wir mit dem Anspruch auf Erbschaftsgelder fortfahren können.  
 >   
@@ -208,9 +208,9 @@ Neues Design, gleicher Scam – und wir sind natürlich gespannt, wie lange dies
 
 Wir schicken eine Abuse-Nachricht an den Webhoster und schauen was passiert.
 
-## Die Webseite goldcrestint.com ist offline – und jetzt soll es per WhatsApp weitergehen! 
+## Die Webseite goldcrestint.com ist offline, und jetzt soll es per WhatsApp weitergehen! 
 
-Wieder einmal ist eine ihrer Fake-Banken Geschichte! **Goldcrestint.com wurde vom Netz genommen**, und damit steht der Betrug erneut ohne digitale Heimat da. Doch die Scammer lassen sich nicht so leicht entmutigen – sie haben bereits eine neue „sichere“ Kommunikationsmethode für uns vorbereitet:  
+Wieder einmal ist eine ihrer Fake-Banken Geschichte! **Goldcrestint.com wurde vom Netz genommen**, und damit steht der Betrug erneut ohne digitale Heimat da. Doch die Scammer lassen sich nicht so leicht entmutigen, sie haben bereits eine neue „sichere“ Kommunikationsmethode für uns vorbereitet:  
 
 > **„Bitte nehmen Sie Kontakt mit der Bank über WhatsApp auf, Sie erhalten eine dringende Antwort.“**  
 > 📞 **+44 7402678864**  
@@ -221,9 +221,9 @@ Da die Webseiten immer wieder abgeschaltet werden, setzen sie nun auf **direkte 
 
 Bevor wir auf ihr Angebot eingehen, direkt per **WhatsApp** zu kommunizieren, schreiben wir erst einmal per **E-Mail** zurück. Schließlich ist es doch etwas **ungewöhnlich**, dass eine „seriöse Bank“ plötzlich nur noch über einen Messenger erreichbar ist.  
 
-Mal sehen, welche kreative Erklärung sie uns diesmal liefern – vielleicht ist ihr „Online-Banking-System“ gerade in der Wartung, oder sie haben eine neue „sichere“ Methode gefunden, um Millionen zu transferieren. Wir sind gespannt! 😏
+Mal sehen, welche kreative Erklärung sie uns diesmal liefern, vielleicht ist ihr „Online-Banking-System“ gerade in der Wartung, oder sie haben eine neue „sichere“ Methode gefunden, um Millionen zu transferieren. Wir sind gespannt! 😏
 
-## Silvana antwortet – oder auch nicht!  
+## Silvana antwortet, oder auch nicht!  
 
 Nachdem wir nach der Seriosität der Bank gefragt haben, kommt eine Antwort von **Silvana Tenreyro**. Oder besser gesagt: **eine Nicht-Antwort**. Auf unsere Bedenken geht sie nämlich überhaupt nicht ein. Stattdessen gibt es nur vage Erklärungen und eine erneute Aufforderung, das Konto zu eröffnen.  
 

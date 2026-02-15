@@ -14,29 +14,29 @@ url: "posts/2025-01-28-charles-jackson"
 summary: "Charles Jackson um Spenden anpumpen"
 ---
 
-Stellen Sie sich vor: Charles Jackson, ein schwerreicher Lottogewinner mit einer Vorliebe für E-Mail-Adressen à la "charlesjacksonnn10@gmail.com," schreibt aus heiterem Himmel, um sein Vermögen zu verschenken. Der Grund? Er ist krank, will sein Geld unter die Leute bringen und hat – rein zufällig – genau SIE ausgewählt!
+Stellen Sie sich vor: Charles Jackson, ein schwerreicher Lottogewinner mit einer Vorliebe für E-Mail-Adressen à la "charlesjacksonnn10@gmail.com," schreibt aus heiterem Himmel, um sein Vermögen zu verschenken. Der Grund? Er ist krank, will sein Geld unter die Leute bringen und hat, rein zufällig, genau SIE ausgewählt!
 
 ## E-Mail von: charlesjacksonnn10@gmail.com
 
 > Ich möchte meine Zeugenaussage darüber teilen, wie ich eine Spende von Charles Jackson bekommen habe. Ich konnte es nicht glauben. Sie haben mir eine E-Mail geschickt, ich dachte, es sei ein Betrug, und ich sagte, lass es mich versuchen, und siehe da, ich habe meine Spende bekommen. Ich teile diese Zeugenaussage mit allen und sage Ihnen, dass das echt ist. Er gibt die meisten seiner Lottogewinne aus, weil er krank ist. Bitte antworten Sie, um den Anspruch geltend zu machen  
 
 
-### Hugo antwortet – mit Stil und Pils 🍺  
+### Hugo antwortet, mit Stil und Pils 🍺  
 
-Natürlich kann Hugo nicht widerstehen, auf eine solche E-Mail zu reagieren – schließlich lässt man sich eine Gelegenheit wie diese nicht entgehen! Mit seinem typischen Ruhrpott-Charme und einer gesunden Portion Skepsis stellt er die entscheidenden Fragen: Wer ist dieser Charles Jackson? Wie hat er Wanne-Eickel auf der Landkarte gefunden? 
+Natürlich kann Hugo nicht widerstehen, auf eine solche E-Mail zu reagieren, schließlich lässt man sich eine Gelegenheit wie diese nicht entgehen! Mit seinem typischen Ruhrpott-Charme und einer gesunden Portion Skepsis stellt er die entscheidenden Fragen: Wer ist dieser Charles Jackson? Wie hat er Wanne-Eickel auf der Landkarte gefunden? 
 
 **Und, viel wichtiger, wieviel Geld ist für den neuen 3er-BMW drin?**
 
 > Hallo Herr Jackson,    
 >   
-> ich bin Hugo aus Wanne-Eickel, stolzes Mitglied des BMW-Clubs und weltberühmt in unserer Nachbarschaft. Ihre E-Mail hat mich tief berührt – was für ein großzügiger Mensch Sie doch sind! Ich habe mir extra eine Flasche Pils aufgemacht, um auf Ihre Großzügigkeit anzustoßen.    
+> ich bin Hugo aus Wanne-Eickel, stolzes Mitglied des BMW-Clubs und weltberühmt in unserer Nachbarschaft. Ihre E-Mail hat mich tief berührt, was für ein großzügiger Mensch Sie doch sind! Ich habe mir extra eine Flasche Pils aufgemacht, um auf Ihre Großzügigkeit anzustoßen.    
 >   
 > Allerdings habe ich da ein paar Fragen, bevor ich meine Kontodaten rüberschicke:    
 > 1. Wie haben Sie mich gefunden? Wanne-Eickel ist zwar schön, aber nicht gerade weltbekannt.    
-> 2. Was für eine Krankheit haben Sie? Vielleicht kann ich Ihnen ja mit einem Spezialrezept vom Stammtisch helfen – bei uns kurieren wir alles mit ordentlich Grünkohl und Mettwurst.    
+> 2. Was für eine Krankheit haben Sie? Vielleicht kann ich Ihnen ja mit einem Spezialrezept vom Stammtisch helfen, bei uns kurieren wir alles mit ordentlich Grünkohl und Mettwurst.    
 > 3. Wieviel genau möchten Sie mir spenden? Ich muss schließlich wissen, ob ich meinen 3er-BMW in die Werkstatt bringen oder gleich ein neues Modell bestellen soll.    
 >   
-> Antworten Sie mir doch schnell – ich habe schon die Nachbarn eingeladen, um die Neuigkeiten zu feiern. Aber Vorsicht: Wenn das hier ein Scherz ist, dann kommt das nicht gut an. Der Dieter von nebenan versteht bei solchen Sachen keinen Spaß, und der hat ein Megafon!    
+> Antworten Sie mir doch schnell, ich habe schon die Nachbarn eingeladen, um die Neuigkeiten zu feiern. Aber Vorsicht: Wenn das hier ein Scherz ist, dann kommt das nicht gut an. Der Dieter von nebenan versteht bei solchen Sachen keinen Spaß, und der hat ein Megafon!    
 >   
 > Beste Grüße,    
 > Hugo aus Wanne-Eickel  
@@ -88,7 +88,7 @@ Hugo aus Wanne-Eickel reagiert mit einer Mischung aus Höflichkeit und Skepsis. 
 
 > Hallo Herr Jackson,  
 >   
-> vielen Dank für Ihre ausführliche Antwort und den beigelegten Ausweis. Es ist immer beruhigend, wenn jemand so viel Mühe investiert, um Vertrauen aufzubauen. Der Link zur CNBC-Seite war ebenfalls eine nette Geste – es ist schön zu sehen, dass es in der Welt auch echte Gewinner gibt.  
+> vielen Dank für Ihre ausführliche Antwort und den beigelegten Ausweis. Es ist immer beruhigend, wenn jemand so viel Mühe investiert, um Vertrauen aufzubauen. Der Link zur CNBC-Seite war ebenfalls eine nette Geste, es ist schön zu sehen, dass es in der Welt auch echte Gewinner gibt.  
 >   
 > Allerdings muss ich gestehen, dass ich trotz Ihrer Beteuerungen noch ein wenig skeptisch bin. Sie können sicher nachvollziehen, dass solche großzügigen Angebote selten ohne Hintergedanken kommen. Gerade in Zeiten, in denen Betrügereien so weit verbreitet sind, ist Vorsicht geboten.  
 >   
@@ -104,9 +104,9 @@ Hugo aus Wanne-Eickel reagiert mit einer Mischung aus Höflichkeit und Skepsis. 
 > Beste Grüße,  
 > Hugo aus Wanne-Eickel  
 
-## Charles antwortet spät – und bleibt vage  
+## Charles antwortet spät, und bleibt vage  
 
-Nach einer längeren Pause meldet sich Charles zurück, entschuldigt sich und erklärt, warum er uns angeblich ausgewählt hat: Wir sollen helfen, sein Geld in Deutschland an Bedürftige zu verteilen. Nebenbei bleibt natürlich auch etwas für uns selbst übrig – wie großzügig!  
+Nach einer längeren Pause meldet sich Charles zurück, entschuldigt sich und erklärt, warum er uns angeblich ausgewählt hat: Wir sollen helfen, sein Geld in Deutschland an Bedürftige zu verteilen. Nebenbei bleibt natürlich auch etwas für uns selbst übrig, wie großzügig!  
 
 Und wie soll das Ganze ablaufen? Über ein mysteriöses „Treuhandkonto“. Genauer wird Charles leider nicht, was unsere Zweifel eher verstärkt als ausräumt.  
 
@@ -138,11 +138,11 @@ Und wie soll das Ganze ablaufen? Über ein mysteriöses „Treuhandkonto“. Gen
 
 ## Es geht zur Bank: FIN-WORLD BANK (finworlldbank@accountant.com)  
 
-Herr Jackson meldet sich erneut – allerdings ohne wirklich auf unsere letzte E-Mail einzugehen. Statt Antworten zu liefern, verweist er uns direkt an die Bank. Und siehe da, kurze Zeit später meldet sich die **FIN-World Bank** bei uns.  
+Herr Jackson meldet sich erneut, allerdings ohne wirklich auf unsere letzte E-Mail einzugehen. Statt Antworten zu liefern, verweist er uns direkt an die Bank. Und siehe da, kurze Zeit später meldet sich die **FIN-World Bank** bei uns.  
 
-Ein kurzer Blick auf die Absenderadresse verrät: Die Bank kommuniziert über **@accountant.com**. Das kommt uns verdächtig bekannt vor – und tatsächlich! Wir hatten bereits das Vergnügen mit der **[FIN-HUBB Bank](/posts/2025-01-22-britton-lotto/#der-n%C3%A4chste-schritt-eine-bank-namens-fin-hubb-bank)**, die sich ebenfalls als wenig vertrauenswürdig herausstellte.  
+Ein kurzer Blick auf die Absenderadresse verrät: Die Bank kommuniziert über **@accountant.com**. Das kommt uns verdächtig bekannt vor, und tatsächlich! Wir hatten bereits das Vergnügen mit der **[FIN-HUBB Bank](/posts/2025-01-22-britton-lotto/#der-n%C3%A4chste-schritt-eine-bank-namens-fin-hubb-bank)**, die sich ebenfalls als wenig vertrauenswürdig herausstellte.  
 
-Eine offizielle Webseite? Fehlanzeige. Die Domain scheint ausschließlich für E-Mails genutzt zu werden. Doch laut der freundlichen Nachricht der Bank liegt das Geld angeblich schon bereit – wie praktisch! 😏
+Eine offizielle Webseite? Fehlanzeige. Die Domain scheint ausschließlich für E-Mails genutzt zu werden. Doch laut der freundlichen Nachricht der Bank liegt das Geld angeblich schon bereit, wie praktisch! 😏
 
 > Wir haben Ihre E-Mail bezüglich der Spende von Charles Jackson erhalten. Außerdem haben wir von Ihrem Wohltäter Mrs Lerynne West ein Bestätigungsschreiben und Ihre Informationen erhalten.  
 >   
@@ -154,17 +154,17 @@ Eine offizielle Webseite? Fehlanzeige. Die Domain scheint ausschließlich für E
 Kaum überrascht es uns, dass die FIN-World Bank bei der Auszahlung auf altbewährte Methoden setzt. Zur Auswahl stehen:  
 
 1. **Eine Online-Kontoeröffnung**, natürlich nur gegen eine kleine Gebühr von **700 Euro**.  
-2. **Eine ATM-Karte**, mit der das Geld abgehoben werden kann – ebenfalls für **700 Euro**.  
+2. **Eine ATM-Karte**, mit der das Geld abgehoben werden kann, ebenfalls für **700 Euro**.  
 
 Die Logik dahinter? Bevor wir unser vermeintliches Millionen-Erbe erhalten, sollen wir erst einmal selbst Geld überweisen. Eine klassische Betrugsmasche, die darauf abzielt, Opfer in Vorleistung zu bringen, nur um dann nie wieder etwas von der „Bank“ zu hören.  
 
-Hugo aus Wanne-Eickel bleibt jedoch skeptisch – und sein Portemonnaie bleibt geschlossen. Denn wenn jemand Millionen verschenken will, sollte er die 700 Euro doch locker selbst übernehmen können, oder? 😉
+Hugo aus Wanne-Eickel bleibt jedoch skeptisch, und sein Portemonnaie bleibt geschlossen. Denn wenn jemand Millionen verschenken will, sollte er die 700 Euro doch locker selbst übernehmen können, oder? 😉
 
 ![](/posts/2025-01-28-charles-jackson/finbank.webp)
 
 ### Hugo nimmt die ATM-Karte!  
 
-Natürlich entscheidet sich Hugo für die bequemste Option: die ATM-Karte. Kein Papierkram, keine komplizierte Kontoeröffnung – einfach die Karte in den Automaten stecken und los geht’s! Doch ganz so einfach möchte er es der **FIN-World Bank** nicht machen.  
+Natürlich entscheidet sich Hugo für die bequemste Option: die ATM-Karte. Kein Papierkram, keine komplizierte Kontoeröffnung, einfach die Karte in den Automaten stecken und los geht’s! Doch ganz so einfach möchte er es der **FIN-World Bank** nicht machen.  
 
 Mit einer cleveren Rückfrage testet Hugo, wie flexibel diese „Bank“ wirklich ist: **Warum nicht die 700 Euro einfach vom Guthaben abziehen?** Schließlich wäre das nur logisch, wenn das Geld bereits auf dem Konto liegt.  
 
@@ -200,13 +200,13 @@ Den Scammern schicken wir natürlich erstmal nur die Info, dass der Name nicht p
 
 ### Jetzt wird’s kreativ: Apple Card statt Banküberweisung
 
-Die Antwort der "Bank" lässt tief blicken – anstatt professionell auf Hugos Rückfrage einzugehen, heißt es plötzlich:
+Die Antwort der "Bank" lässt tief blicken, anstatt professionell auf Hugos Rückfrage einzugehen, heißt es plötzlich:
 
 > *„Mit dem Konto stimmt nichts, okay? Kauf dir eine Apple Card und schick sie ab. Das ist viel einfacher.“*
 
-Aha! Das "seriöse" Finanzinstitut mit der @accountant.com-Adresse möchte also keine Banküberweisung mehr – jetzt soll Hugo stattdessen eine **Apple-Guthabenkarte** kaufen und den Code übermitteln.
+Aha! Das "seriöse" Finanzinstitut mit der @accountant.com-Adresse möchte also keine Banküberweisung mehr, jetzt soll Hugo stattdessen eine **Apple-Guthabenkarte** kaufen und den Code übermitteln.
 
-Klassischer kann eine Betrugsmasche kaum sein: Wenn der vermeintliche Millionensegen nur noch per iTunes-Gutschein aktiviert werden kann, ist endgültig klar – **hier geht’s nicht ums Schenken, sondern ums Abzocken.**
+Klassischer kann eine Betrugsmasche kaum sein: Wenn der vermeintliche Millionensegen nur noch per iTunes-Gutschein aktiviert werden kann, ist endgültig klar, **hier geht’s nicht ums Schenken, sondern ums Abzocken.**
 
 Das kann Hugo natürlich so nicht nachvollziehen:
 
@@ -214,11 +214,11 @@ Das kann Hugo natürlich so nicht nachvollziehen:
 >   
 > vielen Dank für Ihre Rückmeldung. Also wenn mit dem Konto *„nichts stimmt“*, dann macht mir das als zukünftiger ATM-Kartenbesitzer natürlich schon ein bisschen Sorgen.  
 >   
-> Und eine Apple Card? Wirklich jetzt? Ich dachte, wir reden hier von einer Bank – nicht von einem Geschenkeladen. Ich wüsste nicht, dass Sparkasse oder Deutsche Bank ihre Kunden bitten, iTunes-Karten mitzubringen, um ein Konto zu eröffnen.  
+> Und eine Apple Card? Wirklich jetzt? Ich dachte, wir reden hier von einer Bank, nicht von einem Geschenkeladen. Ich wüsste nicht, dass Sparkasse oder Deutsche Bank ihre Kunden bitten, iTunes-Karten mitzubringen, um ein Konto zu eröffnen.  
 >   
 > Ich kann gern mit meiner Bank über eine reguläre Überweisung sprechen oder, wie vorgeschlagen, die Gebühr von der Karte abziehen lassen. Aber Apple Cards kauft bei uns höchstens der Kevin für Clash of Clans.  
 >   
-> Ich warte auf eine seriösere Lösung – ansonsten werde ich wohl doch die Volksbank Wanne-Eickel beauftragen, das Ganze zu prüfen.  
+> Ich warte auf eine seriösere Lösung, ansonsten werde ich wohl doch die Volksbank Wanne-Eickel beauftragen, das Ganze zu prüfen.  
 >   
 > Beste Grüße,  
 > Hugo aus Wanne-Eickel  

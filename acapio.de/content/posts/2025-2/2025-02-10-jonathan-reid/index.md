@@ -1,5 +1,5 @@
 ---
-title: "Mr. Reid aus Stockwell: Wie man 12,7 Millionen erbt – oder eben nicht"
+title: "Mr. Reid aus Stockwell: Wie man 12,7 Millionen erbt, oder eben nicht"
 params:
   author: Andy
 date: "2025-02-10"
@@ -11,14 +11,14 @@ categories:
   - "Scam"
 thumbnail: "fraud.webp"
 url: "posts/2025-02-10_jonathan-reid"
-summary: "Plötzlich Millionenerbin? Anne soll 12,7 Millionen von einem unbekannten Namensvetter erben – ein Klassiker unter den Betrugsmaschen. Wir haben geantwortet!"
+summary: "Plötzlich Millionenerbin? Anne soll 12,7 Millionen von einem unbekannten Namensvetter erben, ein Klassiker unter den Betrugsmaschen. Wir haben geantwortet!"
 ---
 
-Plötzlich Millionenerbin? Anne soll 12,7 Millionen von einem unbekannten Namensvetter erben – ein Klassiker unter den Betrugsmaschen. Wir haben geantwortet!
+Plötzlich Millionenerbin? Anne soll 12,7 Millionen von einem unbekannten Namensvetter erben, ein Klassiker unter den Betrugsmaschen. Wir haben geantwortet!
 
 ## Die E-Mail, Jonathan Reid schreibt uns (info@ugb-test.com, ext.jnreid@gmail.com)
 
-Jonathan Reid, seines Zeichens "Legal Practitioner, Legal Counsel und Private Attorney", braucht dringend unsere Hilfe! Ein unbekannter Namensvetter hat 12,7 Millionen Dollar hinterlassen – leider ohne Testament, ohne Erben, aber mit einem gnadenlosen Countdown der britischen Finanzreform. 
+Jonathan Reid, seines Zeichens "Legal Practitioner, Legal Counsel und Private Attorney", braucht dringend unsere Hilfe! Ein unbekannter Namensvetter hat 12,7 Millionen Dollar hinterlassen, leider ohne Testament, ohne Erben, aber mit einem gnadenlosen Countdown der britischen Finanzreform. 
 
 Die Lösung? Ganz klar: Wir, Anne, sollen das Geld erben! Natürlich unter strenger Geheimhaltung, einem völlig legitimen Deal und einem großzügigen Anteil für ihn selbst. Klingt seriös? Absolut nicht! Aber wir spielen natürlich mit … 😏
 
@@ -41,9 +41,9 @@ Die Lösung? Ganz klar: Wir, Anne, sollen das Geld erben! Natürlich unter stren
 > Regards  
 > Jonathan Reid (Mr.)  
 
-## Haken ausgeworfen – mal sehen, ob der Fisch anbeißt!
+## Haken ausgeworfen, mal sehen, ob der Fisch anbeißt!
 
-Natürlich sind wir völlig *überrumpelt* – 12,7 Millionen einfach so? Da muss man doch nachhaken! Höflich, interessiert und ein klein wenig naiv fragen wir nach den nächsten Schritten. Schließlich wollen wir wissen, wie man als wildfremde Person plötzlich zur rechtmäßigen Erbin eines mysteriösen Millionenvermögens wird.
+Natürlich sind wir völlig *überrumpelt*, 12,7 Millionen einfach so? Da muss man doch nachhaken! Höflich, interessiert und ein klein wenig naiv fragen wir nach den nächsten Schritten. Schließlich wollen wir wissen, wie man als wildfremde Person plötzlich zur rechtmäßigen Erbin eines mysteriösen Millionenvermögens wird.
 
 > Dear Mr. Reid,  
 >   
@@ -66,7 +66,7 @@ Jonathan hat viel zu tun, erst meldet er sich nur kurz, dann erstmal gar nicht u
 > Jonathan  
 
 
-Jonathan hat wirklich alles gegeben: Fünf "wichtige" Dokumente, inklusive Todesurkunde und angeblichem Nachweis, dass Anne zur persönlichen Nachlassverwalterin ernannt wurde. Mit diesem Papierkram sollen wir den Eindruck bekommen, dass der Scam kurz vor dem Ziel ist. Natürlich wird der nächste Schritt eine Kontaktaufnahme mit der ominösen Bank sein – und wahrscheinlich eine kleine Vorauszahlung "für Gebühren".
+Jonathan hat wirklich alles gegeben: Fünf "wichtige" Dokumente, inklusive Todesurkunde und angeblichem Nachweis, dass Anne zur persönlichen Nachlassverwalterin ernannt wurde. Mit diesem Papierkram sollen wir den Eindruck bekommen, dass der Scam kurz vor dem Ziel ist. Natürlich wird der nächste Schritt eine Kontaktaufnahme mit der ominösen Bank sein, und wahrscheinlich eine kleine Vorauszahlung "für Gebühren".
 
 ### Dann schauen wir mal die Dokumente an!
 
@@ -92,7 +92,7 @@ Und natürlich noch ein Testament:
 
 Anne ist beeindruckt von den offiziell wirkenden Dokumenten, aber wie es jetzt weitergeht, ist ihr ein Rätsel. Schließlich ist sie keine Expertin für internationale Erbschaftsangelegenheiten (wer ist das schon?). Also wendet sie sich vertrauensvoll an ihren "hilfsbereiten" Anwalt Mr. Reid.
 
-Anne tut genau das, was Scammer lieben – sie bleibt freundlich, interessiert und lässt ihnen das Gefühl, die Situation komplett unter Kontrolle zu haben. 😉
+Anne tut genau das, was Scammer lieben, sie bleibt freundlich, interessiert und lässt ihnen das Gefühl, die Situation komplett unter Kontrolle zu haben. 😉
 
 > Dear Mr. Reid,  
 >   
@@ -100,7 +100,7 @@ Anne tut genau das, was Scammer lieben – sie bleibt freundlich, interessiert u
 >   
 > Could you kindly guide me on the next steps? Do I need to contact the bank myself, or will you do that for me? And is there anything specific I should prepare or provide at this stage?  
 >   
-> I really appreciate your help in making this process so smooth – I’d be lost without your expertise!  
+> I really appreciate your help in making this process so smooth, I’d be lost without your expertise!  
 >   
 > Looking forward to hearing from you soon.  
 >   
@@ -111,7 +111,7 @@ Anne tut genau das, was Scammer lieben – sie bleibt freundlich, interessiert u
 
 **Der große Moment: Anne "beantragt" ihre Millionen!**  
 
-Jetzt wird’s offiziell – zumindest aus Sicht der Scammer. Jonathan hat uns eine schön formulierte **Antragsvorlage** geschickt, die Anne an die angebliche "Yorkshire Bank" schicken soll. Darin erklärt sie höflich, dass sie als rechtmäßige Erbin die **freigegebenen 12,7 Millionen Dollar** beantragen möchte. Sie entschuldigt sich sogar für die späte Meldung – sehr rücksichtsvoll für jemanden, der nichts von seinem Erbe wusste! 😅  
+Jetzt wird’s offiziell, zumindest aus Sicht der Scammer. Jonathan hat uns eine schön formulierte **Antragsvorlage** geschickt, die Anne an die angebliche "Yorkshire Bank" schicken soll. Darin erklärt sie höflich, dass sie als rechtmäßige Erbin die **freigegebenen 12,7 Millionen Dollar** beantragen möchte. Sie entschuldigt sich sogar für die späte Meldung, sehr rücksichtsvoll für jemanden, der nichts von seinem Erbe wusste! 😅  
 
 **Auffälligkeiten:**  
 📌 Die Yorkshire Bank existiert zwar, aber ihre echte Domain hat nichts mit *uk-ybonline.net* zu tun. Ein klarer Hinweis auf eine Fake-Adresse!  
@@ -128,7 +128,7 @@ Jetzt wird’s offiziell – zumindest aus Sicht der Scammer. Jonathan hat uns e
 >   
 > Jonathan  
 
-Wir tun zunächst so, als wären wir im Urlaub und hätten keinen Drucker dabei, um das Dokument wie gefordert zu unterschreiben. Doch plötzlich wird es ganz unkompliziert – auf einmal geht es auch ohne, damit es bloß keine Verzögerungen gibt.  
+Wir tun zunächst so, als wären wir im Urlaub und hätten keinen Drucker dabei, um das Dokument wie gefordert zu unterschreiben. Doch plötzlich wird es ganz unkompliziert, auf einmal geht es auch ohne, damit es bloß keine Verzögerungen gibt.  
 
 Aber natürlich lassen wir uns nicht lumpen und setzen trotzdem eine digitale Unterschrift darunter. Schließlich soll alles *offiziell* aussehen! 😏
 

@@ -14,7 +14,7 @@ url: "posts/2025-01-19-flora-ai"
 summary: "1500 Dollar für 10 Sekunden? Warum bei solchen Anfragen Vorsicht geboten ist. Trojaner lauern!"
 ---
 
-Vor kurzem erreichte uns eine Kooperationsanfrage von einem angeblichen KI-Projekt namens "Flora AI". $1500 für einen 10-sekündigen Pre-Roll auf YouTube klangen verlockend – doch bei genauerem Hinsehen zeigte das Angebot einige verdächtige Details. 
+Vor kurzem erreichte uns eine Kooperationsanfrage von einem angeblichen KI-Projekt namens "Flora AI". $1500 für einen 10-sekündigen Pre-Roll auf YouTube klangen verlockend, doch bei genauerem Hinsehen zeigte das Angebot einige verdächtige Details. 
 
 ## Flora AI schreibt
 
@@ -51,9 +51,9 @@ Daher schreiben wir zurück, um was es genau geht.
 
 ### Das Angebot im Detail
 
-$1500 für 10 Sekunden? Klingt nach einem Traumjob, oder? Dazu noch Zugang zu einer magischen KI-Plattform namens „Flora AI“, die alles kann: Übersetzen, Fotos aufpolieren, 3D-Texturen erstellen – wahrscheinlich kann sie auch Kaffee kochen. E-Mail kam von "partners@flora-ai.org".
+$1500 für 10 Sekunden? Klingt nach einem Traumjob, oder? Dazu noch Zugang zu einer magischen KI-Plattform namens „Flora AI“, die alles kann: Übersetzen, Fotos aufpolieren, 3D-Texturen erstellen, wahrscheinlich kann sie auch Kaffee kochen. E-Mail kam von "partners@flora-ai.org".
 
-Der Haken? Der Vertrag soll auf einer ominösen Website abgeschlossen werden, und bezahlt wird, wie wir wollen – sogar in Goldmünzen, wenn nötig. Klingt fast zu gut, um wahr zu sein. Spoiler: War es auch.
+Der Haken? Der Vertrag soll auf einer ominösen Website abgeschlossen werden, und bezahlt wird, wie wir wollen, sogar in Goldmünzen, wenn nötig. Klingt fast zu gut, um wahr zu sein. Spoiler: War es auch.
 
 > Greetings, thank you for your interest in cooperation.   
 > We offer $1500 for a 10-second pre-roll on YouTube channel.   
@@ -91,7 +91,7 @@ Der Haken? Der Vertrag soll auf einer ominösen Website abgeschlossen werden, un
 
 ## Wir wollen mehr wissen
 
-Natürlich wollten wir genauer wissen, mit wem wir es zu tun haben – und was uns wirklich erwartet. Unsere höfliche Antwort ließ keine Zweifel offen: Wir waren interessiert, aber brauchten mehr Details. Wer ist Flora AI? Was genau steckt hinter der Plattform? Und wie sieht der sogenannte „Partnership Agreement“ aus? Schließlich wollten wir sicherstellen, dass unser Wellensittich (und wir) nicht in die Falle tappen. Bis dahin war alles offen – zumindest für uns.
+Natürlich wollten wir genauer wissen, mit wem wir es zu tun haben, und was uns wirklich erwartet. Unsere höfliche Antwort ließ keine Zweifel offen: Wir waren interessiert, aber brauchten mehr Details. Wer ist Flora AI? Was genau steckt hinter der Plattform? Und wie sieht der sogenannte „Partnership Agreement“ aus? Schließlich wollten wir sicherstellen, dass unser Wellensittich (und wir) nicht in die Falle tappen. Bis dahin war alles offen, zumindest für uns.
 
 > Dear Flora,  
 >   
@@ -183,7 +183,7 @@ Auch eine [Überprüfung mit VirusTotal](https://ekiwi-blog.de/22006/dateien-onl
 
 Die Webseite von „Flora AI“ ist auf den ersten Blick hervorragend gestaltet und vermittelt einen professionellen Eindruck, der Vertrauen wecken soll. Doch genau darin liegt die Gefahr: Eine ansprechende Optik und überzeugende Inhalte können schnell darüber hinwegtäuschen, dass es sich um einen raffinierten Betrugsversuch handelt. 
 
-Der Angriff zeigt, wie ausgeklügelt solche Maschen mittlerweile sind – von dynamisch generierten Schadskripten bis hin zu scheinbar seriösen Angeboten. Unser Tipp: Niemals blind vertrauen, auch wenn die Webseite professionell wirkt. Ein kritischer Blick und Vorsicht bei unerwarteten Anfragen können viel Ärger ersparen.
+Der Angriff zeigt, wie ausgeklügelt solche Maschen mittlerweile sind, von dynamisch generierten Schadskripten bis hin zu scheinbar seriösen Angeboten. Unser Tipp: Niemals blind vertrauen, auch wenn die Webseite professionell wirkt. Ein kritischer Blick und Vorsicht bei unerwarteten Anfragen können viel Ärger ersparen.
 
 ## Video
 

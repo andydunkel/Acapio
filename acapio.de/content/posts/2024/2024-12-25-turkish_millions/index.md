@@ -14,7 +14,7 @@ url: "posts/2024-12-25_turkish_sick_woman"
 summary: "10,5 Millionen Dollar, 60% für uns 40% für Charity, wer kann da nein sagen? Die herergreifende Geschichte der Frau Feyza Olcay Ýbrahim."
 ---
 
-Manchmal sind Betrugsmails so kreativ, dass man fast applaudieren möchte – oder lachen muss. Eine Millionärin mit letzter Mission, Erdbeben und Charity-Projekten: Willkommen in der Welt von Frau Feyza Olcay Ýbrahim, wo das absurde Angebot von Millionen nur eine Antwort verdient!
+Manchmal sind Betrugsmails so kreativ, dass man fast applaudieren möchte, oder lachen muss. Eine Millionärin mit letzter Mission, Erdbeben und Charity-Projekten: Willkommen in der Welt von Frau Feyza Olcay Ýbrahim, wo das absurde Angebot von Millionen nur eine Antwort verdient!
 
 ## Betrügerische E-Mail im Wortlaut
 
@@ -39,15 +39,15 @@ Wir schreiben mal süffisant zurück und schauen, was passiert. Die E-Mail-Adres
 
 > Liebe Frau Feyza Olcay Ýbrahim,
 >
-> vielen Dank für Ihre rührende Nachricht, die mich zutiefst berührt und mir Tränen in die Augen getrieben hat – vor Rührung und, ehrlich gesagt, vor Staunen. Es ist nicht alltäglich, dass man von solch einem großzügigen Angebot überrascht wird. Es scheint, als hätte das Schicksal – oder vielleicht auch Allah persönlich – entschieden, dass ich genau die richtige Person für diese außergewöhnliche Mission bin.
+> vielen Dank für Ihre rührende Nachricht, die mich zutiefst berührt und mir Tränen in die Augen getrieben hat, vor Rührung und, ehrlich gesagt, vor Staunen. Es ist nicht alltäglich, dass man von solch einem großzügigen Angebot überrascht wird. Es scheint, als hätte das Schicksal, oder vielleicht auch Allah persönlich, entschieden, dass ich genau die richtige Person für diese außergewöhnliche Mission bin.
 >
-> Natürlich verstehe ich die Dringlichkeit dieser Angelegenheit vollkommen. Schließlich ist es ja ganz normal, wildfremde Menschen mit Millionenbeträgen und der Verantwortung für wohltätige Projekte zu betrauen, ohne sie jemals getroffen zu haben. So macht man das eben heutzutage – Vertrauen ist alles, nicht wahr?
+> Natürlich verstehe ich die Dringlichkeit dieser Angelegenheit vollkommen. Schließlich ist es ja ganz normal, wildfremde Menschen mit Millionenbeträgen und der Verantwortung für wohltätige Projekte zu betrauen, ohne sie jemals getroffen zu haben. So macht man das eben heutzutage, Vertrauen ist alles, nicht wahr?
 >
 > Ich bin auch beeindruckt von der sorgfältigen Recherche, die Sie offensichtlich betrieben haben, um meine Kontaktinformationen zu finden. Es ist wirklich beruhigend zu wissen, dass mein Name und meine E-Mail-Adresse in einem solch exklusiven Zusammenhang auftauchen. Das ist eine Ehre, die ich niemals erwartet hätte.
 >
-> Ihre detaillierten Anweisungen, wie das Geld verwendet werden soll, sind vorbildlich. Es ist wirklich eine erfrischende Abwechslung, so klare Vorgaben zu bekommen. Besonders die Aufteilung – 60 Prozent für mich, 40 Prozent für die Wohltätigkeit – finde ich absolut angemessen. Es ist offensichtlich, dass Sie den wahren Wert meiner zukünftigen Bemühungen bereits zu schätzen wissen.
+> Ihre detaillierten Anweisungen, wie das Geld verwendet werden soll, sind vorbildlich. Es ist wirklich eine erfrischende Abwechslung, so klare Vorgaben zu bekommen. Besonders die Aufteilung, 60 Prozent für mich, 40 Prozent für die Wohltätigkeit, finde ich absolut angemessen. Es ist offensichtlich, dass Sie den wahren Wert meiner zukünftigen Bemühungen bereits zu schätzen wissen.
 >
-> Ich kann Ihnen versichern, dass ich absolut bereit bin, mich dieser großartigen Aufgabe mit vollem Einsatz zu widmen – sofern es mir gelingt, meinen Lachanfall über die Ironie dieser Situation zu überwinden. Es ist einfach faszinierend, wie Sie sich die Zeit nehmen konnten, mir so eine persönliche und herzerwärmende Nachricht zu senden, während die Welt vor potenziellen Empfängern Ihres Vertrauens nur so überquillt.
+> Ich kann Ihnen versichern, dass ich absolut bereit bin, mich dieser großartigen Aufgabe mit vollem Einsatz zu widmen, sofern es mir gelingt, meinen Lachanfall über die Ironie dieser Situation zu überwinden. Es ist einfach faszinierend, wie Sie sich die Zeit nehmen konnten, mir so eine persönliche und herzerwärmende Nachricht zu senden, während die Welt vor potenziellen Empfängern Ihres Vertrauens nur so überquillt.
 >
 > Falls Sie weitere Details benötigen, um mich zu „identifizieren“ oder mich auf diese abenteuerliche Reise der Großzügigkeit zu schicken, lassen Sie es mich wissen. Aber nur, wenn Sie mir versichern können, dass ich dabei nicht in einem nigerianischen Prinzessinnen-Club lande.
 >
@@ -390,7 +390,7 @@ Eine Suche zum Herren Ahmet Kuran fördert eine Webseite zu Tage. Diese wirkt im
 
 Klar, hier ist die Passage etwas humorvoller gestaltet:  
 
-Natürlich, das muss echt sein – schließlich hat uns *der Anwalt persönlich* kontaktiert! Aber hey, wir sind in Deutschland, und hier läuft nichts ohne Bürokratie. Einfach Geld annehmen? Nicht mit uns – Schenkungssteuer! Also basteln wir eine Vorlage, packen die nötigen Formulare dazu und schicken das Ganze mit bestem Beamtendeutsch zurück an den Scammer.  
+Natürlich, das muss echt sein, schließlich hat uns *der Anwalt persönlich* kontaktiert! Aber hey, wir sind in Deutschland, und hier läuft nichts ohne Bürokratie. Einfach Geld annehmen? Nicht mit uns, Schenkungssteuer! Also basteln wir eine Vorlage, packen die nötigen Formulare dazu und schicken das Ganze mit bestem Beamtendeutsch zurück an den Scammer.  
 
 Wenn du noch weitere Ideen oder Details brauchst, lass es mich wissen! 😊
 
@@ -415,28 +415,28 @@ Wenn du noch weitere Ideen oder Details brauchst, lass es mich wissen! 😊
 
 ### Update aus Istanbul: Bürokratie, Schenkungssteuer und ein Countdown
 
-Kaum hatten wir unser wunderbar deutsches Schenkungssteuerformular an den Anwalt geschickt, kam die Antwort prompt. Überraschung: In der Türkei ist das Formular natürlich „nicht wichtig“. Aber hey, unser Anwalt war so nett, trotzdem seine „privaten Informationen“ einzutragen – für den Fall, dass wir mal nachschlagen wollen. Wie fürsorglich!  
+Kaum hatten wir unser wunderbar deutsches Schenkungssteuerformular an den Anwalt geschickt, kam die Antwort prompt. Überraschung: In der Türkei ist das Formular natürlich „nicht wichtig“. Aber hey, unser Anwalt war so nett, trotzdem seine „privaten Informationen“ einzutragen, für den Fall, dass wir mal nachschlagen wollen. Wie fürsorglich!  
 
-Der eigentliche Kern der Nachricht? Unsere 48-Stunden-Deadline. Entweder wir zahlen 1620 Euro Bearbeitungsgebühr an „Rosi Johnson“ (klingt vertrauenswürdig, oder?) oder – haltet euch fest – unser Erbschaftsgeld wird „storniert“. Ja, richtig gelesen, storniert. Klingt fast so, als würden wir einen Gutschein verfallen lassen.  
+Der eigentliche Kern der Nachricht? Unsere 48-Stunden-Deadline. Entweder wir zahlen 1620 Euro Bearbeitungsgebühr an „Rosi Johnson“ (klingt vertrauenswürdig, oder?) oder, haltet euch fest, unser Erbschaftsgeld wird „storniert“. Ja, richtig gelesen, storniert. Klingt fast so, als würden wir einen Gutschein verfallen lassen.  
 
-Aber keine Sorge, die drei magischen Dokumente (eidesstattliche Erklärung, Begünstigtenbescheinigung und Eidesdokument) sichern alles ab – zumindest in der Fantasy-Welt des Anwalts. Wir überlegen jetzt, ob wir einen Countdown-Timer starten oder einfach noch ein paar Formulare zurückschicken. Man weiß ja nie, was der nächste Bürokratie-Move bringt.  
+Aber keine Sorge, die drei magischen Dokumente (eidesstattliche Erklärung, Begünstigtenbescheinigung und Eidesdokument) sichern alles ab, zumindest in der Fantasy-Welt des Anwalts. Wir überlegen jetzt, ob wir einen Countdown-Timer starten oder einfach noch ein paar Formulare zurückschicken. Man weiß ja nie, was der nächste Bürokratie-Move bringt.  
 
 ![Formular für Schenkungssteuer ausgefüllt](/posts/2024-12-25_turkish_sick_woman/schenkungssteuer_1.webp)
 
 
 ## Die drei heiligen Dokumente und das Abenteuer der Bürokratie
 
-Drei wichtige Dokumente, die unser Erbe sichern – klingt eher nach einer Fantasy-Quest als nach Bürokratie. Aber hey, bevor wir unsere „Schatzkarte“ mit der Bearbeitungsgebühr bezahlen, wollen wir die magischen Schriftrollen natürlich erstmal sehen. Sicher ist sicher, oder? 😉  
+Drei wichtige Dokumente, die unser Erbe sichern, klingt eher nach einer Fantasy-Quest als nach Bürokratie. Aber hey, bevor wir unsere „Schatzkarte“ mit der Bearbeitungsgebühr bezahlen, wollen wir die magischen Schriftrollen natürlich erstmal sehen. Sicher ist sicher, oder? 😉  
 
 Wir schreiben zurück:
 
 > Sehr geehrter Herr Kuran,  
 >   
-> vielen Dank für Ihre schnelle Rückmeldung und Ihre Mühe, das Schenkungssteuerdokument auszufüllen. Dass Sie sogar Ihre privaten Informationen beigefügt haben, zeigt wirklich großes Vertrauen – das schätze ich sehr!  
+> vielen Dank für Ihre schnelle Rückmeldung und Ihre Mühe, das Schenkungssteuerdokument auszufüllen. Dass Sie sogar Ihre privaten Informationen beigefügt haben, zeigt wirklich großes Vertrauen, das schätze ich sehr!  
 >   
 > Ich verstehe natürlich, dass in der Türkei andere Regelungen gelten und das Formular dort nicht erforderlich ist. Allerdings muss ich hier weiterhin alle rechtlichen Anforderungen einhalten, damit alles reibungslos abläuft.  
 >   
-> Daher bitte ich Sie, mir vorab Kopien der drei entscheidenden Dokumente – der eidesstattlichen Erklärung, der Begünstigtenbescheinigung und des Eidesdokuments – zukommen zu lassen. Sobald ich diese geprüft habe, werde ich die Bearbeitungsgebühr überweisen.  
+> Daher bitte ich Sie, mir vorab Kopien der drei entscheidenden Dokumente, der eidesstattlichen Erklärung, der Begünstigtenbescheinigung und des Eidesdokuments, zukommen zu lassen. Sobald ich diese geprüft habe, werde ich die Bearbeitungsgebühr überweisen.  
 >   
 > Vielen Dank für Ihre Unterstützung. Ich freue mich auf Ihre Rückmeldung!  
 
@@ -462,7 +462,7 @@ Wenig später und nach ein paar Kaffee, will man sich doch nicht die Blöße geb
 
 ## Wir fordern eine Treuhandauskunft an
 
-In der Welt der Erbschafts-Scammer ist Geduld bekanntlich keine Tugend – aber warum es ihnen leicht machen? Nach ihrer höflich formulierten Aufforderung, uns umgehend von 1.620 Euro zu trennen, hatten wir natürlich ein paar Rückfragen. Schließlich möchte man sicher sein, dass das Ganze auch "rechtlich abgesichert" ist. Unsere Antwort:
+In der Welt der Erbschafts-Scammer ist Geduld bekanntlich keine Tugend, aber warum es ihnen leicht machen? Nach ihrer höflich formulierten Aufforderung, uns umgehend von 1.620 Euro zu trennen, hatten wir natürlich ein paar Rückfragen. Schließlich möchte man sicher sein, dass das Ganze auch "rechtlich abgesichert" ist. Unsere Antwort:
 
 > Hallo,  
 >   
@@ -497,7 +497,7 @@ Es ist fast wie im besten Comedy-Sketch: Nachdem unsere gute Protagonisting auf 
 
 Bitcoin-Geldautomaten, RIA-Transfers und sogar Apple-Geschenkkarten stehen zur Auswahl. Letzteres ist wohl die bevorzugte Methode der Internet-Betrüger, denn was könnte seriöser wirken als eine Transaktion in Form von 1620 Euro auf einer Geschenkkarte? 
 
-Der Gipfel des Ganzen: „Ich werde es Ihnen sorgfältig beibringen.“ – Da hat jemand offenbar nicht nur finanzielle, sondern auch pädagogische Ambitionen!
+Der Gipfel des Ganzen: „Ich werde es Ihnen sorgfältig beibringen.“, Da hat jemand offenbar nicht nur finanzielle, sondern auch pädagogische Ambitionen!
 
 > Hallo liebe XXXX,  
 >   
@@ -516,7 +516,7 @@ Der Gipfel des Ganzen: „Ich werde es Ihnen sorgfältig beibringen.“ – Da h
 
 Unbeirrt vom absurden Vorschlag des Scammers tritt unsere Protagonistiun souverän in die nächste Runde ein. Klar, wenn man schon eine Bitcoin-Anleitung und eine Apple-Geschenkkarten-Einweisung erwartet, warum nicht gleich die WhatsApp-Nummer raushauen? Denn wer wüsste besser, wie man solche hochseriösen Transaktionen durchführt, als ein selbsternannter Scam-Experte?
 
-Mit einem Hauch von Verzweiflung – „Nervig!!!!!“ – und scheinbar endlosem Vertrauen in die didaktischen Fähigkeiten des Gegenübers wird die Brücke zur nächsten Kommunikationsplattform gebaut. 
+Mit einem Hauch von Verzweiflung, „Nervig!!!!!“, und scheinbar endlosem Vertrauen in die didaktischen Fähigkeiten des Gegenübers wird die Brücke zur nächsten Kommunikationsplattform gebaut. 
 
 > Hallo Herr Kuran,  
 >   

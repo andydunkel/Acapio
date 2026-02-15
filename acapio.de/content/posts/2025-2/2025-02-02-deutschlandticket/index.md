@@ -48,7 +48,7 @@ Am Ende sind die Daten ungültig und wir sollen diese nochmal eingeben. Gut mög
 
 Die betrügerische E-Mail zur angeblichen Rückerstattung des Deutschlandtickets folgt einem bekannten Muster: Sie erzeugt künstlichen Zeitdruck und lockt mit einer vermeintlichen Erstattung, um die Opfer zur unüberlegten Eingabe sensibler Daten zu verleiten. Die dahinterstehende Phishing-Seite ist professionell gestaltet und erfasst nicht nur persönliche Daten, sondern vor allem Kreditkarteninformationen.  
 
-Auffällig ist, dass eine erste Überprüfung der eingegebenen Daten durchgeführt wird, um ungültige oder fehlerhafte Eingaben abzufangen – ein Hinweis darauf, dass die Betrüger ihre Methoden zunehmend verfeinern.  
+Auffällig ist, dass eine erste Überprüfung der eingegebenen Daten durchgeführt wird, um ungültige oder fehlerhafte Eingaben abzufangen, ein Hinweis darauf, dass die Betrüger ihre Methoden zunehmend verfeinern.  
 
 Grundsätzlich gilt: Offizielle Stellen wie die Deutsche Bahn oder der Deutschlandticket-Anbieter fordern niemals per E-Mail zur Eingabe sensibler Zahlungsinformationen auf. Wer eine solche Nachricht erhält, sollte sie ignorieren, nicht auf Links klicken und die Mail direkt löschen. Im Zweifel hilft ein Blick auf die offizielle Website des Anbieters oder ein Anruf bei der Kundenhotline.
 

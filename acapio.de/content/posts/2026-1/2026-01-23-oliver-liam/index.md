@@ -52,7 +52,7 @@ Fixer Betrug (Scam). Nicht antworten, sondern **löschen**! 🚮
 
 So, liebe Leut’, ich hab mir gedacht: "Warum ned?" 🤔 Ich spiel jetzt mal das naive Opferlamm. Hab dem Hawara ganz kurz und brav zurückgeschrieben.
 
-Der Plan: Ich tu so, als wüsst ich von nix, bin aber gierig auf die Kohle. 🤑 Mal schauen, was der "Staranwalt" jetzt aus dem Hut zaubert und welchen Märchen-Onkel er mir vorspielt. Das Bier steht kalt, der Rudi (unser Pudel) ist gefüttert – die Show kann beginnen! Popcorn rausholen! 🍿🐩
+Der Plan: Ich tu so, als wüsst ich von nix, bin aber gierig auf die Kohle. 🤑 Mal schauen, was der "Staranwalt" jetzt aus dem Hut zaubert und welchen Märchen-Onkel er mir vorspielt. Das Bier steht kalt, der Rudi (unser Pudel) ist gefüttert, die Show kann beginnen! Popcorn rausholen! 🍿🐩
 
 > Sehr geehrter Herr Liam,  
 >   
@@ -81,10 +81,10 @@ Oida! Rechnet das mal in Kisten Bier um! 🍻 Mein Pudel Rudi hat schon ganz gro
 Der "Herr Oliver Robert Liam" behauptet, er sitzt in **Kanada** (Ontario). Seine WhatsApp-Nummer fängt aber mit `+1 610` an. Das ist Pennsylvania, USA. 🇺🇸🇨🇦 Vielleicht ist er ja ein sehr sportlicher Pendler? Oder er hat in Erdkunde genauso oft gefehlt wie ich.
 
 **4. Die Falle: Er will ALLES 🎣**
-Bevor der Rubel rollt, will er meine kompletten Daten: Name, Alter, Beruf und – ganz wichtig – **eine KOPIE MEINES AUSWEISES!** 💳
+Bevor der Rubel rollt, will er meine kompletten Daten: Name, Alter, Beruf und, ganz wichtig, **eine KOPIE MEINES AUSWEISES!** 💳
 Darum geht es ihm nämlich wirklich: Identitätsdiebstahl.
 
-**Fazit:** Meinen echten Ausweis kriegt der Hawara fix ned. Aber 18 Millionen klingen zu gut, um jetzt aufzuhören. Wir spielen weiter – und drehen den Spieß einfach um! 😈👇
+**Fazit:** Meinen echten Ausweis kriegt der Hawara fix ned. Aber 18 Millionen klingen zu gut, um jetzt aufzuhören. Wir spielen weiter, und drehen den Spieß einfach um! 😈👇
 
 > Lieber Freund,  
 >    
@@ -148,7 +148,7 @@ Oida, der Olli! Nicht nur Anwalt, sondern auch ein biologisches Wunder und ein G
 
 So, Freunde des gepflegten Blödsinns. Jetzt wird’s taktisch.
 
-Was macht man, wenn ein Scammer gierig auf Daten ist? Man gibt ihm ein Häppchen (meinen Namen und dass ich ledig bin – sorry Ladies!), aber man nimmt ihm den Hauptgang direkt wieder weg.
+Was macht man, wenn ein Scammer gierig auf Daten ist? Man gibt ihm ein Häppchen (meinen Namen und dass ich ledig bin, sorry Ladies!), aber man nimmt ihm den Hauptgang direkt wieder weg.
 
 Ich habe dem "Riesen-Olli" jetzt geschrieben, dass ich heiß auf die 18 Millionen bin (wer wäre das nicht?), aber leider, leider ein kleines Malheur passiert ist. Mein Ausweis liegt angeblich in meiner fiktiven Lieblingskneipe, dem "Schiefen Zapfhahn".
 
@@ -188,4 +188,4 @@ Tja, liebe Leut’, es ist vorbei. Aus der Traum vom goldenen Hundenapf. 🐩�
 Seit meiner Nachricht mit dem "Schiefen Zapfhahn" herrscht Funkstille. Der Olli meldet sich nimmer. Keine 18 Millionen, kein Privatjet, und mein Ausweis bleibt wohl virtuell beim Wirt.
 
 **Warum hat er aufgegeben?**
-Ganz einfach: Scammer sind wie Fließbandarbeiter. Die wollen schnelle Kohle und keine komplizierten Geschichten von besoffenen Lageristen, die ihre Geldbörse verlieren. Sobald es "mühsam" wird, brechen die Profis oft ab. Die riechen den Braten – oder sie haben gemerkt, dass bei mir außer dummen Sprüchen und Leergut nix zu holen ist.
+Ganz einfach: Scammer sind wie Fließbandarbeiter. Die wollen schnelle Kohle und keine komplizierten Geschichten von besoffenen Lageristen, die ihre Geldbörse verlieren. Sobald es "mühsam" wird, brechen die Profis oft ab. Die riechen den Braten, oder sie haben gemerkt, dass bei mir außer dummen Sprüchen und Leergut nix zu holen ist.

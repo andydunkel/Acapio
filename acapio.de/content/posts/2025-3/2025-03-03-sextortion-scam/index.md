@@ -1,5 +1,5 @@
 ---
-title: "Sextortion-Scam: Erpressung per E-Mail – Was steckt dahinter?"
+title: "Sextortion-Scam: Erpressung per E-Mail, Was steckt dahinter?"
 params:
   author: Andy
 date: "2025-03-03"
@@ -69,12 +69,12 @@ Es gibt mehrere klare Hinweise darauf, dass diese E-Mails reine Panikmache sind:
 
 ### Wie kann man sich schützen?
 
-✅ **Nicht antworten, nicht zahlen!** – Das ist der wichtigste Punkt. Auf keinen Fall den Betrügern nachgeben.  
-✅ **Passwort überprüfen** – Falls du unsicher bist, ob deine Zugangsdaten geleakt wurden, prüfe es auf [https://haveibeenpwned.com](https://haveibeenpwned.com). Falls ja, ändere dein Passwort sofort.  
-✅ **Keine Anhänge oder Links öffnen** – Diese Mails enthalten manchmal Malware oder Links zu Phishing-Seiten.  
-✅ **E-Mail als Spam melden** – So hilfst du, diese Betrugsmasche zu bekämpfen.  
-✅ **Zwei-Faktor-Authentifizierung (2FA) aktivieren** – Dadurch wird es schwerer, dass Hacker in deine Konten eindringen.  
-✅ **Sicherheitsupdates durchführen** – Halte Betriebssysteme, Programme und Antivirensoftware aktuell.  
+✅ **Nicht antworten, nicht zahlen!**, Das ist der wichtigste Punkt. Auf keinen Fall den Betrügern nachgeben.  
+✅ **Passwort überprüfen**, Falls du unsicher bist, ob deine Zugangsdaten geleakt wurden, prüfe es auf [https://haveibeenpwned.com](https://haveibeenpwned.com). Falls ja, ändere dein Passwort sofort.  
+✅ **Keine Anhänge oder Links öffnen**, Diese Mails enthalten manchmal Malware oder Links zu Phishing-Seiten.  
+✅ **E-Mail als Spam melden**, So hilfst du, diese Betrugsmasche zu bekämpfen.  
+✅ **Zwei-Faktor-Authentifizierung (2FA) aktivieren**, Dadurch wird es schwerer, dass Hacker in deine Konten eindringen.  
+✅ **Sicherheitsupdates durchführen**, Halte Betriebssysteme, Programme und Antivirensoftware aktuell.  
 
 ## Fazit
 

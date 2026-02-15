@@ -11,10 +11,10 @@ categories:
     - "Scam"
 thumbnail: "lottery.webp"
 url: "posts/2025-01-01_charity_fund"
-summary: "Manchmal bringt das Leben überraschende Wendungen – wie eine E-Mail, die Ihnen mal eben 4,2 Millionen Euro verspricht. Klingt verlockend, oder? "
+summary: "Manchmal bringt das Leben überraschende Wendungen, wie eine E-Mail, die Ihnen mal eben 4,2 Millionen Euro verspricht. Klingt verlockend, oder? "
 ---
 
-Manchmal bringt das Leben überraschende Wendungen – wie eine E-Mail, die Ihnen mal eben 4,2 Millionen Euro verspricht. Klingt verlockend, oder? 
+Manchmal bringt das Leben überraschende Wendungen, wie eine E-Mail, die Ihnen mal eben 4,2 Millionen Euro verspricht. Klingt verlockend, oder? 
 
 Leider steckt dahinter kein großzügiger Wohltäter, sondern eine Bande kreativer Scammer, die versuchen, mit rührseligen Geschichten ans Geld (oder die Daten) ihrer Opfer zu kommen.
 
@@ -50,7 +50,7 @@ Wir weisen ChatGPT an, skeptisch zu antworten mit etwas Hoffnung und am Ende sol
 
 ## Steven Oscar, Antwalt, meldet sich
 
-Ein gewisser Herr Steven Oscar, angeblich Anwalt aus Madrid, teilt uns mit, dass wir die unverschämte Summe von 4,2 Millionen Euro gewonnen haben. Natürlich nur, wenn wir brav zwischen zwei hochprofessionellen Optionen wählen: einer mysteriösen ATM-Karte, die per DHL ankommt, oder einer Blitzüberweisung auf unser Konto. Doch keine Sorge, alles ist legal und wasserdicht – zumindest laut Herrn Oscar, der sich selbst vorab von jeglicher Verantwortung lossagt.
+Ein gewisser Herr Steven Oscar, angeblich Anwalt aus Madrid, teilt uns mit, dass wir die unverschämte Summe von 4,2 Millionen Euro gewonnen haben. Natürlich nur, wenn wir brav zwischen zwei hochprofessionellen Optionen wählen: einer mysteriösen ATM-Karte, die per DHL ankommt, oder einer Blitzüberweisung auf unser Konto. Doch keine Sorge, alles ist legal und wasserdicht, zumindest laut Herrn Oscar, der sich selbst vorab von jeglicher Verantwortung lossagt.
 
 
 > Schönen Tag ,
@@ -79,7 +79,7 @@ Natürlich schreiben wir zurück! E-Mail-Adresse: "stevenoscarcham@gmail.com". 4
 
 > Lieber Herr Steven Oscar,  
 > 
-> vielen Dank für die tolle Nachricht – ich freue mich riesig! Ich entscheide mich für die Kontoeinzahlung, das klingt am einfachsten. Bitte lassen Sie mich wissen, was Sie von mir benötigen.  
+> vielen Dank für die tolle Nachricht, ich freue mich riesig! Ich entscheide mich für die Kontoeinzahlung, das klingt am einfachsten. Bitte lassen Sie mich wissen, was Sie von mir benötigen.  
 > 
 > Vielen Dank für Ihre Hilfe!
 
@@ -88,7 +88,7 @@ Natürlich schreiben wir zurück! E-Mail-Adresse: "stevenoscarcham@gmail.com". 4
 
 Die Antwort lässt nicht lange auf sich warten und verdient unser uneingeschränktes Vertrauen! Deshalb ist es nur logisch, dass wir nicht nur Name, Adresse und sämtliche Kontaktdaten preisgeben, sondern auch gleich die Hosen runterlassen und eine Kopie unseres Ausweises mitsenden. 
 
-Vielleicht sollten wir zur Sicherheit auch noch unsere Steuer-ID, Lieblingsfarbe und den Namen unseres ersten Haustiers hinzufügen – man will ja schließlich kooperativ sein.
+Vielleicht sollten wir zur Sicherheit auch noch unsere Steuer-ID, Lieblingsfarbe und den Namen unseres ersten Haustiers hinzufügen, man will ja schließlich kooperativ sein.
 
 > ACHTUNG:  
 > Vielen Dank, dass Sie den für Sie geeigneten Weg gewählt haben, um Ihr Geld zu erhalten.
@@ -133,7 +133,7 @@ Natürlich kommen wir der bitte nach, auf eine Ausweiskopie verzichten wir aber.
 
 ## Gebühren werden fällig
 
-Wie zu erwarten, bleibt der vermeintliche Geldsegen nicht kostenlos: Eine Gebühr von 780 Euro wird verlangt. Damit bewegen sich die Betrüger im soliden Mittelfeld ihrer üblichen Forderungen – nicht zu hoch, um abschreckend zu wirken, aber auch nicht so niedrig, dass es verdächtig wäre. Ein klassischer psychologischer Trick, um Glaubwürdigkeit zu suggerieren.
+Wie zu erwarten, bleibt der vermeintliche Geldsegen nicht kostenlos: Eine Gebühr von 780 Euro wird verlangt. Damit bewegen sich die Betrüger im soliden Mittelfeld ihrer üblichen Forderungen, nicht zu hoch, um abschreckend zu wirken, aber auch nicht so niedrig, dass es verdächtig wäre. Ein klassischer psychologischer Trick, um Glaubwürdigkeit zu suggerieren.
 
 > Guten Tag,  
 >   
@@ -162,7 +162,7 @@ Natürlich fragen wir höflich nach, wie und wohin die Zahlung erfolgen soll, un
 
 ## Antwort mit Bankverbindung
 
-Die Antwort liest sich wie der Anfang eines schlechten Filmskrimis: „Überweisen Sie bitte Geld auf dieses mysteriöse spanische Konto, und zwar für... *Familienbeförderung*?“ Ernsthaft? Der Kontoinhaber „GODDAY OGADU“ klingt dabei eher wie ein DJ-Name als ein vertrauenswürdiger Geschäftspartner. Und natürlich darf der Klassiker nicht fehlen: „Senden Sie uns bitte den Transaktionsbeleg“ – klar, damit sie sicher sein können, dass Sie wirklich auf den Betrug reingefallen sind. Unser Rat: Finger weg von solchen E-Mails und behalten Sie Ihr Geld lieber für den nächsten Urlaub in Spanien – das ist sicher besser angelegt!
+Die Antwort liest sich wie der Anfang eines schlechten Filmskrimis: „Überweisen Sie bitte Geld auf dieses mysteriöse spanische Konto, und zwar für... *Familienbeförderung*?“ Ernsthaft? Der Kontoinhaber „GODDAY OGADU“ klingt dabei eher wie ein DJ-Name als ein vertrauenswürdiger Geschäftspartner. Und natürlich darf der Klassiker nicht fehlen: „Senden Sie uns bitte den Transaktionsbeleg“, klar, damit sie sicher sein können, dass Sie wirklich auf den Betrug reingefallen sind. Unser Rat: Finger weg von solchen E-Mails und behalten Sie Ihr Geld lieber für den nächsten Urlaub in Spanien, das ist sicher besser angelegt!
 
 > Hallo  
 > Vielen Dank für Ihre E-Mail und Ihr Verständnis. Bitte senden Sie eine SEPA-Überweisung unter Angabe der IBAN-Nummer an das folgende Konto.  
@@ -181,7 +181,7 @@ Wir melden den Vorfall der spanischen Bank.
 
 ### Wir brauchen eine Rechnung
 
-Natürlich können wir nicht einfach das Geld auf gut Glück überweisen – schließlich soll alles seine Ordnung haben. Also schreiben wir zurück und bitten höflich um eine offizielle Rechnung. Dabei berufen wir uns auf die angeblichen Anforderungen der Sparkasse für internationale Überweisungen. Schließlich wollen wir ja sicherstellen, dass der Zahlungszweck „Familienbeförderung“ auch korrekt dokumentiert ist. 
+Natürlich können wir nicht einfach das Geld auf gut Glück überweisen, schließlich soll alles seine Ordnung haben. Also schreiben wir zurück und bitten höflich um eine offizielle Rechnung. Dabei berufen wir uns auf die angeblichen Anforderungen der Sparkasse für internationale Überweisungen. Schließlich wollen wir ja sicherstellen, dass der Zahlungszweck „Familienbeförderung“ auch korrekt dokumentiert ist. 
 
 > Sehr geehrter Steven,  
 >   
@@ -195,7 +195,7 @@ Natürlich können wir nicht einfach das Geld auf gut Glück überweisen – sch
 
 ## Die Rechnung trudelt ein
 
-Es scheint, als würden sich die Scammer nun richtig ins Zeug legen: Eine hastig zusammengebastelte Rechnung flattert in unser Postfach. Der Versuch, seriös zu wirken, ist offensichtlich – doch das Ergebnis bleibt wenig beeindruckend.
+Es scheint, als würden sich die Scammer nun richtig ins Zeug legen: Eine hastig zusammengebastelte Rechnung flattert in unser Postfach. Der Versuch, seriös zu wirken, ist offensichtlich, doch das Ergebnis bleibt wenig beeindruckend.
 
 ![](/posts/2025-01-01_charity_fund/rechnung.webp)
 
@@ -222,7 +222,7 @@ Die spanische Bank hat sich gemeldet und gibt die Sache an ihre Abteilung dafür
 
 ### Die Antwort der Scammer: Der Anwalt wird böse
 
-Nachdem wir höflich auf die fehlende Steuernummer hingewiesen hatten, erhielten wir eine erstaunliche Antwort zurück – voller Dramatik und einem Hauch von Entrüstung. Der angebliche "Anwalt" erklärt uns, warum eine Rechnung in diesem Fall überhaupt nicht nötig sei. Schließlich ginge es hier nicht um einen Kauf, sondern um eine mysteriöse „Genehmigungsgebühr“. 
+Nachdem wir höflich auf die fehlende Steuernummer hingewiesen hatten, erhielten wir eine erstaunliche Antwort zurück, voller Dramatik und einem Hauch von Entrüstung. Der angebliche "Anwalt" erklärt uns, warum eine Rechnung in diesem Fall überhaupt nicht nötig sei. Schließlich ginge es hier nicht um einen Kauf, sondern um eine mysteriöse „Genehmigungsgebühr“. 
 
 Besonders bemerkenswert: 
 
@@ -234,7 +234,7 @@ Ach so, wir Dummen! Ein bisschen Vertrauen soll genügen, und wer es wagt, Frage
 
 Aber das Beste kommt zum Schluss: Falls die Bank uns bei der Zahlung "Probleme" bereitet, gibt es natürlich alternative Methoden. Von **Crypto** über **MoneyGram** bis hin zur klassischen **iTunes-Karte** ist für jeden Geschmack etwas dabei.  
 
-Wir haben herzlich gelacht – und sind uns sicher: Diese Antwort ist ein Paradebeispiel dafür, wie kreativ Scammer werden, wenn man ihnen nicht blind vertraut. 😄
+Wir haben herzlich gelacht, und sind uns sicher: Diese Antwort ist ein Paradebeispiel dafür, wie kreativ Scammer werden, wenn man ihnen nicht blind vertraut. 😄
 
 > Hallo    
 > Sie wurden nicht aufgefordert, Steuern zu zahlen, daher kann eine Rechnung, die keine Steuerrechnung ist, keine Steuernummer enthalten. Ich bin Anwalt und kenne meinen Job sehr gut.  
@@ -267,7 +267,7 @@ Es wird immer kreativer! Der vermeintliche Anwalt zeigt sich erfreut über unser
 
 > „Gehen Sie einfach in einen Telefonladen, Supermarkt oder ins Einkaufszentrum, sagen Sie, dass Sie eine Apple iTunes-Karte im Wert des Betrags kaufen möchten, den Sie bezahlen sollen, kratzen Sie die Rückseite der Karte frei, um die Kartennummer zu sehen, machen Sie nacheinander Fotos von allen Karten, geben Sie den Betrag auf jeder Karte an und senden Sie sie mir über WhatsApp. So einfach ist das.“  
 
-Einfacher geht’s tatsächlich kaum – zumindest für den Scammer. Während wir uns köstlich über diese dreiste Anleitung amüsieren, bleibt eine Frage offen: Wer fällt auf so etwas eigentlich noch rein? 😅  
+Einfacher geht’s tatsächlich kaum, zumindest für den Scammer. Während wir uns köstlich über diese dreiste Anleitung amüsieren, bleibt eine Frage offen: Wer fällt auf so etwas eigentlich noch rein? 😅  
 
 ### Unsere (absichtlich) verwirrende Antwort
 
@@ -285,7 +285,7 @@ Wir entscheiden uns, den Scammer mit einer absurd verworrenen Geschichte über u
 >   
 > Also haben wir versucht, zwei Karten zu je 500 Euro zu kaufen, aber der Kassierer meinte, dass pro Person nur eine Karte verkauft werden darf. Also habe ich meinen Nachbarn gefragt, ob er mitkommen und für uns die zweite Karte kaufen könnte, aber sein Hund musste plötzlich zum Tierarzt.    
 >   
-> Als letzte Lösung sind wir dann in den Telefonladen gegangen, aber dort verlangten sie für jede Karte 10 Euro Gebühr extra. Wir wollten das erst akzeptieren, doch dann hat die Kassiererin gesagt, sie brauche eine Kopie meines Ausweises, weil iTunes-Karten oft bei Betrugsfällen verwendet werden – das hat mich dann doch stutzig gemacht.    
+> Als letzte Lösung sind wir dann in den Telefonladen gegangen, aber dort verlangten sie für jede Karte 10 Euro Gebühr extra. Wir wollten das erst akzeptieren, doch dann hat die Kassiererin gesagt, sie brauche eine Kopie meines Ausweises, weil iTunes-Karten oft bei Betrugsfällen verwendet werden, das hat mich dann doch stutzig gemacht.    
 >   
 > Können wir die Zahlung vielleicht aufteilen? Vielleicht könnten wir Ihnen heute eine Karte über 500 Euro schicken und den Rest morgen? Bitte lassen Sie uns wissen, wie wir am besten vorgehen sollen.    
 >   

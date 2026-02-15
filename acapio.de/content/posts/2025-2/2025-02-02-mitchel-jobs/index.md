@@ -11,16 +11,16 @@ categories:
     - "Scam"
 thumbnail: "shark.webp"
 url: "posts/2025-02-02_mitchel-jobs"
-summary: "💸 Federal Reserve zahlt mir Millionen? – Klingt zu schön, um wahr zu sein? Ist es auch!"
+summary: "💸 Federal Reserve zahlt mir Millionen?, Klingt zu schön, um wahr zu sein? Ist es auch!"
 ---
 
-💸 Federal Reserve zahlt mir Millionen? – Klingt zu schön, um wahr zu sein? Ist es auch!
+💸 Federal Reserve zahlt mir Millionen?, Klingt zu schön, um wahr zu sein? Ist es auch!
 
 ## Die E-Mail von Mitchel Jobs (sd1581407@gmail.com)
 
 🚨 **Achtung, Geldregen!** 🚨  
 
-Anne bekommt Post von einem gewissen *Mitchell Jobs* (nein, nicht verwandt mit Steve) – dem angeblichen Finanzguru von *RP Financials LLC*. Die Botschaft: Die **Federal Reserve** hat **Millionen für sie** zurückgelegt, aber „bürokratische Hindernisse“ haben die Auszahlung verhindert. Glücklicherweise ist unser freundlicher Finanzhai zur Stelle, um diese lästigen Formalitäten zu umgehen!  
+Anne bekommt Post von einem gewissen *Mitchell Jobs* (nein, nicht verwandt mit Steve), dem angeblichen Finanzguru von *RP Financials LLC*. Die Botschaft: Die **Federal Reserve** hat **Millionen für sie** zurückgelegt, aber „bürokratische Hindernisse“ haben die Auszahlung verhindert. Glücklicherweise ist unser freundlicher Finanzhai zur Stelle, um diese lästigen Formalitäten zu umgehen!  
 
 > Firstly I apologize for encroaching into your privacy in this manner as it may seem unethical though it is a matter of great importance; I am Mitchell Jobs, the M.D of RP Financials LLC a Public and Private Financial Consultants specialists. We handled financial consultancy for government, financial institutions, companies and high net individuals. As one of the financial consultants to the Federal Reserve System, we were informed of some funds belonging to beneficiaries being holed up in suspense accounts with the Federal Reserve System. These funds are as a result of inheritance/lottery/contract sum owed to beneficiaries all over the world but have not been able to be released to them due to bottlenecks caused by the remitting officers from the foreign country where the transactions originated from.  RP Financials LLC has been contracted by the Federal Reserve System's Board of Directors in conjunction with the United States Government to resolve with immediate effect all payments  
 > to beneficiaries whose fu  
@@ -39,11 +39,11 @@ Wir schicken unsere Anne ins Rennen und antworten!
 
 > Sehr geehrter Herr Jobs,    
 >   
-> vielen Dank für Ihre überraschende Nachricht. Es freut mich außerordentlich zu hören, dass die Federal Reserve mein Vermögen so fürsorglich verwaltet hat – ich hatte die Millionen schon fast vergessen! Natürlich bin ich erleichtert, dass endlich ein Experte wie Sie eingeschaltet wurde, um diese „bürokratischen Hindernisse“ zu überwinden.    
+> vielen Dank für Ihre überraschende Nachricht. Es freut mich außerordentlich zu hören, dass die Federal Reserve mein Vermögen so fürsorglich verwaltet hat, ich hatte die Millionen schon fast vergessen! Natürlich bin ich erleichtert, dass endlich ein Experte wie Sie eingeschaltet wurde, um diese „bürokratischen Hindernisse“ zu überwinden.    
 >   
-> Da es sich um eine beträchtliche Summe handelt, möchte ich sicherstellen, dass alles korrekt abläuft. Könnten Sie mir bitte einige offizielle Dokumente zusenden, die Ihre Beauftragung durch die US-Regierung bestätigen? Zudem würde mich interessieren, über welchen genauen Betrag wir sprechen – ich verliere leicht den Überblick über meine vielen internationalen Erbschaften, Lottogewinne und geheimen Trust-Fonds.    
+> Da es sich um eine beträchtliche Summe handelt, möchte ich sicherstellen, dass alles korrekt abläuft. Könnten Sie mir bitte einige offizielle Dokumente zusenden, die Ihre Beauftragung durch die US-Regierung bestätigen? Zudem würde mich interessieren, über welchen genauen Betrag wir sprechen, ich verliere leicht den Überblick über meine vielen internationalen Erbschaften, Lottogewinne und geheimen Trust-Fonds.    
 >   
-> Ich danke Ihnen im Voraus für Ihre professionelle Unterstützung und freue mich auf Ihre rasche Antwort – schließlich wartet mein neues Luxusleben auf mich.    
+> Ich danke Ihnen im Voraus für Ihre professionelle Unterstützung und freue mich auf Ihre rasche Antwort, schließlich wartet mein neues Luxusleben auf mich.    
 >   
 > Mit erwartungsvollen Grüßen,    
 > Anne  
@@ -51,7 +51,7 @@ Wir schicken unsere Anne ins Rennen und antworten!
 
 ## Millionen von der Federal Reserve? Jetzt wird’s amtlich!
 
-Nachdem „Finanzexperte“ Mitchell Jobs Anne bereits in seiner ersten E-Mail Millionen in Aussicht gestellt hatte, legt er jetzt richtig los: Er bestätigt, dass ganze **10.782.000 Dollar** für sie bereitstehen – sie müsse nur schnell ihre Daten übermitteln.  
+Nachdem „Finanzexperte“ Mitchell Jobs Anne bereits in seiner ersten E-Mail Millionen in Aussicht gestellt hatte, legt er jetzt richtig los: Er bestätigt, dass ganze **10.782.000 Dollar** für sie bereitstehen, sie müsse nur schnell ihre Daten übermitteln.  
 
 Damit alles offiziell wirkt, schickt er ein angebliches **Ernennungsschreiben der Federal Reserve** und seinen **persönlichen Ausweis** mit. Na, dann muss es ja echt sein! Schließlich fälschen Betrüger niemals Dokumente … oder? 😏  
 
@@ -108,7 +108,7 @@ Natürlich sind wir jetzt überzeugt. Wir schicken unsere Fake-Adresse, nebst Fa
 
 Nachdem unser guter Freund *Mitchell Jobs* bereits die Existenz von Annes Millionen bestätigt hat, geht es nun ans Eingemachte: Der **Federal Reserve hat sich nach intensiven Meetings** entschieden, dass Anne ihr Geld über eine **akkreditierte Privatbank** in den USA erhält.  
 
-Aber Moment mal – das klingt doch nach einem völlig normalen Prozess, oder? 😏 Natürlich gibt es einen „kleinen“ Umweg: **Anne braucht erst ein spezielles Transitkonto für Nichtansässige**, das **extra für sie eröffnet wird**. Erst dann kann das **Federal Reserve System** die Millionen dorthin überweisen, und Anne kann das Geld bequem per Online-Banking nach Hause schicken. Klingt super praktisch – nur, dass solche „Transitkonten“ in der realen Welt meist mit hohen „Bearbeitungsgebühren“ verbunden sind, die das eigentliche Ziel des Betrugs sind. 💸  
+Aber Moment mal, das klingt doch nach einem völlig normalen Prozess, oder? 😏 Natürlich gibt es einen „kleinen“ Umweg: **Anne braucht erst ein spezielles Transitkonto für Nichtansässige**, das **extra für sie eröffnet wird**. Erst dann kann das **Federal Reserve System** die Millionen dorthin überweisen, und Anne kann das Geld bequem per Online-Banking nach Hause schicken. Klingt super praktisch, nur, dass solche „Transitkonten“ in der realen Welt meist mit hohen „Bearbeitungsgebühren“ verbunden sind, die das eigentliche Ziel des Betrugs sind. 💸  
 
 Mitchell gibt sich aber weiterhin seriös: Anne kann ihn jederzeit **auf WhatsApp kontaktieren**, um letzte Fragen zu klären. Vielleicht sollte sie direkt nachfragen, ob das Konto auch eine **kostenlose Kreditkarte mit Hochglanz-Goldrand** beinhaltet? 😆  
 
@@ -131,7 +131,7 @@ Mitchell gibt sich aber weiterhin seriös: Anne kann ihn jederzeit **auf WhatsAp
 
 ### Ein Konto für meine Millionen? Na klar!
 
-Nachdem die Federal Reserve angeblich beschlossen hat, dass Anne ihr Geld über eine Privatbank bekommt, wird es nun spannend. Doch natürlich gibt es einen kleinen Umweg: **Bevor das Geld fließen kann, muss Anne ein spezielles Konto eröffnen** – natürlich extra für „Nichtansässige“. Praktischerweise wird die Bank sie dann direkt mit den Zugangsdaten versorgen. Klingt fast zu einfach, um wahr zu sein … und das ist es auch.  
+Nachdem die Federal Reserve angeblich beschlossen hat, dass Anne ihr Geld über eine Privatbank bekommt, wird es nun spannend. Doch natürlich gibt es einen kleinen Umweg: **Bevor das Geld fließen kann, muss Anne ein spezielles Konto eröffnen**, natürlich extra für „Nichtansässige“. Praktischerweise wird die Bank sie dann direkt mit den Zugangsdaten versorgen. Klingt fast zu einfach, um wahr zu sein … und das ist es auch.  
 
 > Sehr geehrter Herr Jobs,    
 >   
@@ -146,11 +146,11 @@ Nachdem die Federal Reserve angeblich beschlossen hat, dass Anne ihr Geld über 
 > Mit freundlichen Grüßen,    
 > Anne  
 
-## Die Bank aus dem Nichts – Willkommen bei der „Herstal Trust Bank“
+## Die Bank aus dem Nichts, Willkommen bei der „Herstal Trust Bank“
 
 Unser Freund *Mitchell Jobs* meldet sich nach einem „Kurztrip nach Alaska“ zurück und bringt Neuigkeiten mit: **Annes Millionen sollen über die „Herstal Trust Bank“ ausgezahlt werden**. Klingt doch seriös, oder? Schließlich gibt es sogar eine Website!  
 
-Aber Moment mal … **hat schon mal jemand von dieser Bank gehört?** Eine kurze Suche zeigt schnell, dass diese „Bank“ **nicht existiert** – sie wurde offenbar extra für den Betrug erstellt. Die Taktik ist klar: Sobald Anne sich darauf einlässt, wird sie vermutlich doch noch „eine kleine Aktivierungsgebühr“ zahlen müssen, um an ihr Geld zu kommen.  
+Aber Moment mal … **hat schon mal jemand von dieser Bank gehört?** Eine kurze Suche zeigt schnell, dass diese „Bank“ **nicht existiert**, sie wurde offenbar extra für den Betrug erstellt. Die Taktik ist klar: Sobald Anne sich darauf einlässt, wird sie vermutlich doch noch „eine kleine Aktivierungsgebühr“ zahlen müssen, um an ihr Geld zu kommen.  
 
 Mitchell versucht diesmal, Vertrauen zu wecken. Die angebliche „Bank“ verlangt *keine Gebühren* (noch nicht …), und Anne müsse auch nicht extra in die USA reisen. Klingt fast zu nett, um wahr zu sein. Und genau das ist der Trick: Betrüger arbeiten oft mit **einer Mischung aus Druck und falscher Sicherheit**, um Opfer in die Falle zu locken.  
 
@@ -180,9 +180,9 @@ Die Domain **herstal-trst.com** wurde erst vor kurzem registriert und taucht in 
 
 Wer sich selbst überzeugen will, findet hier eine Liste mit bekannten Fake-Banken, in der auch die „Herstal Trust Bank“ auftaucht:  
 
-🔗 [Liste gefälschter Banken – The Daily Scam](https://www.thedailyscam.com/fake-banks-2/)  
+🔗 [Liste gefälschter Banken, The Daily Scam](https://www.thedailyscam.com/fake-banks-2/)  
 
-**Die Betrüger haben sich immerhin Mühe gegeben – die Website sieht auf den ersten Blick professionell aus.** 
+**Die Betrüger haben sich immerhin Mühe gegeben, die Website sieht auf den ersten Blick professionell aus.** 
 
 Allerdings gibt es einige verräterische Details: Sie läuft auf **WordPress**, ein System, das echte Banken in der Regel nicht für ihre Webseiten verwenden. Das allein ist natürlich kein Beweis, aber kombiniert mit der fehlenden Regulierung und dem verdächtigen Hintergrund der Domain wird schnell klar: **Hier versucht jemand, Seriosität nur vorzutäuschen.**
 
@@ -194,17 +194,17 @@ Die Adresse bei [Google-Maps](https://www.google.com/maps/@44.2703492,-121.18647
 
 ## Jetzt wird’s spannend: Anne ist dabei!
 
-Natürlich machen wir weiter – schließlich wollen wir sehen, wie weit unser Finanzhai noch geht. **Anne gibt sich interessiert, aber ein bisschen überfordert**, denn wer hat schon Erfahrung mit **geheimen Transitkonten und mysteriösen Privatbanken**?  
+Natürlich machen wir weiter, schließlich wollen wir sehen, wie weit unser Finanzhai noch geht. **Anne gibt sich interessiert, aber ein bisschen überfordert**, denn wer hat schon Erfahrung mit **geheimen Transitkonten und mysteriösen Privatbanken**?  
 
 Also stellt sie ein paar harmlose, aber durchaus sinnvolle Fragen. **Wer ist eigentlich unser Ansprechpartner bei der Herstal Trust Bank?** Schließlich wäre es doch hilfreich, direkt mit der Bank zu sprechen, oder?  
 
-Mit dieser Antwort bleibt Anne weiter **freundlich, aber naiv** – genau die Mischung, die Betrüger lieben. 
+Mit dieser Antwort bleibt Anne weiter **freundlich, aber naiv**, genau die Mischung, die Betrüger lieben. 
 
 > Lieber Herr Jobs,    
 >   
 > vielen Dank für Ihre Rückmeldung. Ich hoffe, Sie hatten eine schöne Zeit in Alaska! Ich freue mich, dass der Prozess nun weitergeht, denn natürlich möchte ich meine Mittel so bald wie möglich erhalten.    
 >   
-> Allerdings muss ich zugeben, dass das Ganze doch etwas kompliziert klingt. Ein Transitkonto, eine akkreditierte Bank, Online-Zugang – das ist alles Neuland für mich, und ich hoffe, dass ich bei Fragen auf Ihre Unterstützung zählen kann. Ich möchte ja nichts falsch machen, damit es keine unnötigen Verzögerungen gibt.    
+> Allerdings muss ich zugeben, dass das Ganze doch etwas kompliziert klingt. Ein Transitkonto, eine akkreditierte Bank, Online-Zugang, das ist alles Neuland für mich, und ich hoffe, dass ich bei Fragen auf Ihre Unterstützung zählen kann. Ich möchte ja nichts falsch machen, damit es keine unnötigen Verzögerungen gibt.    
 >   
 > Gibt es vielleicht eine Ansprechperson bei der **Herstal Trust Bank**, mit der ich mich in Verbindung setzen kann, falls ich Unterstützung brauche? Ich möchte sichergehen, dass ich alle Schritte richtig mache.    
 >   
@@ -215,9 +215,9 @@ Mit dieser Antwort bleibt Anne weiter **freundlich, aber naiv** – genau die Mi
 
 ### Die Fake-Bank schlägt zu: Anne hat jetzt ein „Konto“! 🎭
 
-Na, das ging aber fix! **Die Herstal Trust Bank hat Annes Konto eröffnet – samt Zugangsdaten und Passwort direkt per E-Mail.** Weil Banken das ja immer so machen. 😆  
+Na, das ging aber fix! **Die Herstal Trust Bank hat Annes Konto eröffnet, samt Zugangsdaten und Passwort direkt per E-Mail.** Weil Banken das ja immer so machen. 😆  
 
-Natürlich ist das Ganze ein **kompletter Schwindel**. Das angebliche Konto mit der Nummer **1274089902** ist nur eine Fassade, um das Ganze glaubwürdiger wirken zu lassen. Die Fake-Bank macht klar: **„Normale“ Transaktionen sind nicht erlaubt, sondern nur die Auszahlung der Millionen** – na sowas! Noch verdächtiger: **Das Konto läuft nur 21 Tage**, also keine Zeit zu verlieren!  
+Natürlich ist das Ganze ein **kompletter Schwindel**. Das angebliche Konto mit der Nummer **1274089902** ist nur eine Fassade, um das Ganze glaubwürdiger wirken zu lassen. Die Fake-Bank macht klar: **„Normale“ Transaktionen sind nicht erlaubt, sondern nur die Auszahlung der Millionen**, na sowas! Noch verdächtiger: **Das Konto läuft nur 21 Tage**, also keine Zeit zu verlieren!  
 
 Der Trick ist simpel: Sobald Anne sich einloggt, wird sie vermutlich dazu aufgefordert, eine „kleine Gebühr“ für die finale Transaktion zu zahlen. Ob „COT Code 3690HTB“ oder „RedGold79“ wirklich die magische Tür zu Millionen öffnet? **Spoiler: Nein.**  
 
@@ -271,13 +271,13 @@ Wir loggen uns ein uns sind begeistert. Nicht nur sieht das Ding wirklich schick
 Wir wenden uns nun wieder an Mitchel Jobs und fragen, wie es weiter geht.
 
 
-## Die Millionen sind da – oder doch nicht?
+## Die Millionen sind da, oder doch nicht?
 
-Endlich! **10.782.000 Dollar** wurden auf Annes neues **Transitkonto** überwiesen. 🎉 Jetzt nur noch eine Überweisung – und das Geld gehört ihr. Klingt einfach, oder?  
+Endlich! **10.782.000 Dollar** wurden auf Annes neues **Transitkonto** überwiesen. 🎉 Jetzt nur noch eine Überweisung, und das Geld gehört ihr. Klingt einfach, oder?  
 
 Doch da sind ein paar Haken: **Das Konto erlaubt nur eine einzige Auszahlung**, ein ominöser **COT-Code „3690HTB“** wird benötigt, und natürlich bleibt nur **21 Tage Zeit**, bevor das Geld „verschwindet“. 😏  
 
-Anne könnte jetzt versuchen, den Betrag zu überweisen – oder vielleicht mal nachfragen, ob sie das Geld lieber **bar abholen** kann. Mal sehen, wie unser Scammer darauf reagiert! 😆
+Anne könnte jetzt versuchen, den Betrag zu überweisen, oder vielleicht mal nachfragen, ob sie das Geld lieber **bar abholen** kann. Mal sehen, wie unser Scammer darauf reagiert! 😆
 
 > We are pleased to inform you that the Federal Reserve System has successfully credited your nonresident transit account with your payment fund amounting to $10,782,000.00 (Ten Million, Seven Hundred and Eighty-Two Thousand United States Dollars). You may now proceed with transferring the funds to your designated account in your country.  
 
@@ -301,30 +301,30 @@ Umgehend meldet sich der Support. Wir schreiben zurück...
 
 ## Plot Twist: Der IRS will jetzt auch mitverdienen!
 
-Kaum will Anne ihr frisch „gutgeschriebenes“ Millionenvermögen überweisen, taucht – *Überraschung!* – ein neues Hindernis auf. Angeblich benötigt sie nun einen speziellen **IRS-Steuercode**, um an ihr Geld zu kommen. Und dieser Code kommt natürlich nicht umsonst.  
+Kaum will Anne ihr frisch „gutgeschriebenes“ Millionenvermögen überweisen, taucht, *Überraschung!*, ein neues Hindernis auf. Angeblich benötigt sie nun einen speziellen **IRS-Steuercode**, um an ihr Geld zu kommen. Und dieser Code kommt natürlich nicht umsonst.  
 
-Aber unser **Mitchell Jobs** wäre nicht unser Lieblings-Finanzhai, wenn er nicht einen „Freund“ hätte, der ihr helfen kann. Also hat er sich **persönlich mit IRS-Kommissar Daniel Werfel getroffen** – klingt doch glaubwürdig, oder? Der Kommissar erklärt ihm, dass **Präsident Biden höchstpersönlich eine neue Steuer eingeführt hat**, die **ausländische Begünstigte verpflichtet, 0,5 % ihres Betrags vorab zu zahlen**. Das macht bei Annes Millionen exakt **53.910 Dollar**.  
+Aber unser **Mitchell Jobs** wäre nicht unser Lieblings-Finanzhai, wenn er nicht einen „Freund“ hätte, der ihr helfen kann. Also hat er sich **persönlich mit IRS-Kommissar Daniel Werfel getroffen**, klingt doch glaubwürdig, oder? Der Kommissar erklärt ihm, dass **Präsident Biden höchstpersönlich eine neue Steuer eingeführt hat**, die **ausländische Begünstigte verpflichtet, 0,5 % ihres Betrags vorab zu zahlen**. Das macht bei Annes Millionen exakt **53.910 Dollar**.  
 
 Doch halt! Mitchell ist ein **wahrer Menschenfreund**. Weil seine Frau an Krebs leidet (*danke, Ex-Präsident Trump, dass du die Krankenversicherung ruiniert hast!*), hat er zwar nicht die ganze Summe, aber immerhin **52.000 Dollar**, die er großzügig vorstrecken würde. **Anne muss also nur noch die letzten 1.910 Dollar aufbringen.** Ein echtes Schnäppchen für 10,7 Millionen, oder? 😏  
 
-Natürlich ist das alles Quatsch. Das ist der Moment, in dem Scammer versuchen, echtes Geld zu kassieren – **die berühmte „letzte Gebühr“, bevor der große Reichtum kommt.** 
+Natürlich ist das alles Quatsch. Das ist der Moment, in dem Scammer versuchen, echtes Geld zu kassieren, **die berühmte „letzte Gebühr“, bevor der große Reichtum kommt.** 
 
 ![Too long, did not read!](/posts/2025-02-02_mitchel-jobs/long_mail.png)
 
 
-### Anne gibt sich ahnungslos – und wartet auf die nächste Falle 🎣
+### Anne gibt sich ahnungslos, und wartet auf die nächste Falle 🎣
 
-Natürlich spielen wir weiter mit! **Anne zeigt sich tief beeindruckt von Mitchells Einsatz.** Schließlich trifft man nicht jeden Tag einen **IRS-Kommissar**, der sich persönlich um eine Steuerzahlung kümmert – und das auf Anweisung von **Präsident Biden höchstpersönlich!** 😆  
+Natürlich spielen wir weiter mit! **Anne zeigt sich tief beeindruckt von Mitchells Einsatz.** Schließlich trifft man nicht jeden Tag einen **IRS-Kommissar**, der sich persönlich um eine Steuerzahlung kümmert, und das auf Anweisung von **Präsident Biden höchstpersönlich!** 😆  
 
 Besonders rührend: **Mitchells selbstloses Angebot**, ihr mit 52.000 Dollar auszuhelfen. So viel Vertrauen, obwohl sie sich kaum kennen! Wer könnte da noch an einen Betrug glauben? 🦈💸
 
 > Lieber Herr Jobs,    
 >   
-> vielen Dank für Ihre Nachricht und dass Sie sich so sehr für meine Auszahlung einsetzen! Es tut mir leid zu hören, dass Sie mit familiären Problemen zu kämpfen haben – und dann auch noch die Schwierigkeiten mit der Krankenversicherung. Ich hoffe, dass sich die Lage für Sie bald bessert!    
+> vielen Dank für Ihre Nachricht und dass Sie sich so sehr für meine Auszahlung einsetzen! Es tut mir leid zu hören, dass Sie mit familiären Problemen zu kämpfen haben, und dann auch noch die Schwierigkeiten mit der Krankenversicherung. Ich hoffe, dass sich die Lage für Sie bald bessert!    
 >   
-> Ich verstehe, dass ich den IRS-Steuercode brauche, um mein Geld zu erhalten. Dass sogar Präsident Biden persönlich so eine Regel eingeführt hat, zeigt ja, wie ernst das alles ist! Es beruhigt mich, dass Sie sich sogar mit dem IRS-Kommissar getroffen haben – das klingt alles sehr offiziell.    
+> Ich verstehe, dass ich den IRS-Steuercode brauche, um mein Geld zu erhalten. Dass sogar Präsident Biden persönlich so eine Regel eingeführt hat, zeigt ja, wie ernst das alles ist! Es beruhigt mich, dass Sie sich sogar mit dem IRS-Kommissar getroffen haben, das klingt alles sehr offiziell.    
 >   
-> Ich bin Ihnen so dankbar, dass Sie mir mit 52.000 Dollar aushelfen möchten. Dass Sie mir so sehr vertrauen, bedeutet mir wirklich viel! Ich muss nur noch klären, wie ich die 1.910 Dollar aufbringen kann. Wie genau soll ich das Geld denn überweisen? Ich habe bisher noch nie eine Steuer an die US-Regierung gezahlt – gibt es da ein spezielles Konto oder eine sichere Methode? Vielleicht kann ich das auch direkt bei meiner Bank machen lassen?    
+> Ich bin Ihnen so dankbar, dass Sie mir mit 52.000 Dollar aushelfen möchten. Dass Sie mir so sehr vertrauen, bedeutet mir wirklich viel! Ich muss nur noch klären, wie ich die 1.910 Dollar aufbringen kann. Wie genau soll ich das Geld denn überweisen? Ich habe bisher noch nie eine Steuer an die US-Regierung gezahlt, gibt es da ein spezielles Konto oder eine sichere Methode? Vielleicht kann ich das auch direkt bei meiner Bank machen lassen?    
 >   
 > Ich will nichts falsch machen, damit das mit dem Code schnell klappt. Lassen Sie mich wissen, wie ich die Zahlung am besten vornehme!    
 >   
@@ -333,11 +333,11 @@ Besonders rührend: **Mitchells selbstloses Angebot**, ihr mit 52.000 Dollar aus
 
 ## Jetzt wird’s ernst: Die Bankverbindung ist da! 
 
-Endlich ist es soweit – **die Betrüger legen ihre Karten auf den Tisch.** Jetzt heißt es nicht mehr „bald“, „bald“, „bald“, sondern **„Hier ist die Bankverbindung, bitte überweisen!“**.  
+Endlich ist es soweit, **die Betrüger legen ihre Karten auf den Tisch.** Jetzt heißt es nicht mehr „bald“, „bald“, „bald“, sondern **„Hier ist die Bankverbindung, bitte überweisen!“**.  
 
 Der großzügige **Mitchell Jobs** will also seinen Beitrag von 52.000 Dollar mit Annes bescheidenen 1.910 Dollar kombinieren, um den **magischen IRS-Steuercode** zu kaufen. Und wohin soll das Geld? Natürlich nicht an das IRS oder die Federal Reserve, sondern an **einen gewissen „Juan Rivera“ bei der NAVY Federal Credit Union in New York.** 🌎💸  
 
-Was lernen wir daraus? **Selbst der kreativste Scam führt irgendwann zu einer ganz normalen Banküberweisung – direkt auf das Konto der Betrüger.**  
+Was lernen wir daraus? **Selbst der kreativste Scam führt irgendwann zu einer ganz normalen Banküberweisung, direkt auf das Konto der Betrüger.**  
 
 > Vielen Dank für Ihre freundlichen Worte und Ihr Verständnis. Ihr Mitgefühl bedeutet mir in dieser schwierigen Zeit wirklich viel und ich weiß Ihre Geduld und Ihr Vertrauen während des gesamten Prozesses zu schätzen.  
 >   
@@ -366,19 +366,19 @@ Was lernen wir daraus? **Selbst der kreativste Scam führt irgendwann zu einer g
 > +1 (458) 899-5669 (Anruf & SMS)  
 
 
-## **Wir „überweisen“ – aber mit Stil! 😏**
+## **Wir „überweisen“, aber mit Stil! 😏**
 
-Es ist soweit: **Anne hat ihre Zahlung angewiesen!** Natürlich nicht direkt, sondern als **sorgfältig gefälschten Zahlungsbeleg** – und weil wir es extra spannend machen, schicken wir den Betrügern den Beleg nicht einfach so, sondern **als Tracking-Link**. 😆  
+Es ist soweit: **Anne hat ihre Zahlung angewiesen!** Natürlich nicht direkt, sondern als **sorgfältig gefälschten Zahlungsbeleg**, und weil wir es extra spannend machen, schicken wir den Betrügern den Beleg nicht einfach so, sondern **als Tracking-Link**. 😆  
 
 Jetzt warten wir gespannt: **Wird unser Finanzhai misstrauisch?** Wird er versuchen, uns zu hetzen, weil das Geld „noch nicht eingegangen“ ist? Oder klickt er brav auf den Link und hinterlässt uns ganz nebenbei **seine IP-Adresse und Standortdaten?**  
 
 ![Unsere Überweisung](/posts/2025-02-02_mitchel-jobs/transaction.webp)
 
-### Die Nerven liegen blank – und die Sprache auch!
+### Die Nerven liegen blank, und die Sprache auch!
 
 Unsere Scammer sind langsam **richtig genervt**! 🫣 Statt sich brav über ihren vermeintlichen Geldsegen zu freuen, **klicken sie den Tracking-Link nicht direkt an**, sondern nutzen eine **Vorschau-Funktion**, um ihre echte IP-Adresse zu verschleiern. **Gut zu wissen: Sie sind vorsichtiger, als sie tun!**  
 
-Aber unsere Fake-Überweisung fehlt – und das gefällt ihnen gar nicht! Es hagelt E-Mails und sogar **WhatsApp-Nachrichten**, in denen unser lieber **Mitchell Jobs** langsam die Fassung verliert. Der Frust ist so groß, dass er **mitten im Satz die Sprache wechselt** – die Nachricht kommt in einem wilden Mix aus **schlechtem Deutsch, Spanisch und purer Verzweiflung** bei uns an. 😆  
+Aber unsere Fake-Überweisung fehlt, und das gefällt ihnen gar nicht! Es hagelt E-Mails und sogar **WhatsApp-Nachrichten**, in denen unser lieber **Mitchell Jobs** langsam die Fassung verliert. Der Frust ist so groß, dass er **mitten im Satz die Sprache wechselt**, die Nachricht kommt in einem wilden Mix aus **schlechtem Deutsch, Spanisch und purer Verzweiflung** bei uns an. 😆  
 
 Und weil das noch nicht reicht, versuchen sie sogar einen **WhatsApp-Anruf**! **Na klar, wenn die E-Mail nicht zieht, wird halt persönlich nachgehakt.**  
 
@@ -402,7 +402,7 @@ Jetzt wissen wir: **Sie sind nervös.** Und das bedeutet, dass es Zeit ist, sie 
 > Correo electrónico: [Seine Richtung des Correo electrónico]  
 
 
-### Oops – die Bank blockiert die Überweisung!  
+### Oops, die Bank blockiert die Überweisung!  
 
 Heute kam ein Schreiben von unserer Bank: **Die Überweisung wurde gesperrt!** 😱 Offenbar gab es **Verdachtsmomente**, weshalb das Geld nicht ankommen konnte. Was für ein Pech!  
 
@@ -417,9 +417,9 @@ Unser Scammer lässt sich nicht so leicht abschütteln! 😆 Da die Bank **unser
 
 1️⃣ **Ein deutscher Kontaktmann!** Plötzlich sollen wir das Geld an **„Herrn Arno Erich Kursawe“ bei der Kreissparkasse Waiblingen** überweisen. Dass wir dabei den **Verwendungszweck „Familie“** angeben sollen, ist ein typischer Trick, um Nachfragen der Bank zu vermeiden. Kursawe klingt nigerianisch, aber wer weiß!
 
-2️⃣ **Bitcoin als Notlösung!** Falls die Überweisung nicht klappt, gibt’s eine **Bitcoin-Wallet**, weil Kryptozahlungen **schwer zurückzuverfolgen sind** – ein klarer Hinweis auf kriminelle Absichten.  
+2️⃣ **Bitcoin als Notlösung!** Falls die Überweisung nicht klappt, gibt’s eine **Bitcoin-Wallet**, weil Kryptozahlungen **schwer zurückzuverfolgen sind**, ein klarer Hinweis auf kriminelle Absichten.  
 
-Jetzt wissen wir: **Dieser Scam ist größer, als es anfangs schien.** Mit Kursawe gibt es einen **Mitspieler in Deutschland**, der das Geld vermutlich **weiterleiten** soll. Eine heiße Spur – und ein Zeichen, dass wir den Druck noch ein bisschen erhöhen können! 😏💸
+Jetzt wissen wir: **Dieser Scam ist größer, als es anfangs schien.** Mit Kursawe gibt es einen **Mitspieler in Deutschland**, der das Geld vermutlich **weiterleiten** soll. Eine heiße Spur, und ein Zeichen, dass wir den Druck noch ein bisschen erhöhen können! 😏💸
 
 > Vielen Dank für Ihre Kontaktaufnahme. Es ist ziemlich überraschend, dass die Bank Ihre Überweisung von 1.910 Euro blockiert hat, da es dafür eigentlich keinen triftigen Grund geben sollte. Dies könnte daran liegen, dass ein übereifriger Bankangestellter die Transaktion überprüft hat.  
 >   
@@ -461,7 +461,7 @@ Anne behauptet, dass sie den Fall offiziell bei der Bundesanstalt für Finanzdie
 > Beste Grüße,  
 > Anne  
 
-## Jetzt wird’s offiziell – oder doch nur peinlich?
+## Jetzt wird’s offiziell, oder doch nur peinlich?
 
 Unsere lieben Scammer legen nach: **Zwei "offizielle" IRS-Dokumente** als PDF sollen nun beweisen, dass die Steuerzahlung wirklich nötig ist. Natürlich **muss es schnell gehen**, denn Annes **Transitkonto läuft bald ab**, und das Geld könnte an den Staat „verfallen“.  
 
@@ -471,25 +471,25 @@ Aber keine Sorge, die Lösung ist einfach: **Anne muss nur sofort zahlen**, und 
 
 ![Lange Erklärungen](/posts/2025-02-02_mitchel-jobs/mail_mit_dokumenten.png)
 
-### **Die PDF-Dokumente – ein echtes Kunstwerk der Scammer-Kreativität**  
+### **Die PDF-Dokumente, ein echtes Kunstwerk der Scammer-Kreativität**  
 
-Natürlich schauen wir uns die PDFs genauer an – ob wir hier ein offizielles IRS-Dokument vor uns haben oder eher eine **Google-Docs-Bastelarbeit mit Word-Art-Finesse**? 😆  
+Natürlich schauen wir uns die PDFs genauer an, ob wir hier ein offizielles IRS-Dokument vor uns haben oder eher eine **Google-Docs-Bastelarbeit mit Word-Art-Finesse**? 😆  
 
-Die Betrüger haben sich sichtlich Mühe gegeben: Ein **schön verpixeltes Banklogo**, eine „offizielle“ Bestätigung der 0,5 % Steuern – und natürlich darf unser Name auch nicht fehlen. Immerhin, **die Scammer hatten ein bisschen Arbeit damit**, das freut uns!  
+Die Betrüger haben sich sichtlich Mühe gegeben: Ein **schön verpixeltes Banklogo**, eine „offizielle“ Bestätigung der 0,5 % Steuern, und natürlich darf unser Name auch nicht fehlen. Immerhin, **die Scammer hatten ein bisschen Arbeit damit**, das freut uns!  
 
 ![](/posts/2025-02-02_mitchel-jobs/pdf_1.webp)  
 
-Aber es kommt noch besser: **Das zweite PDF schlägt alles.** Ein völlig verpixeltes IRS-Logo, kreative **Word-Art-Spielereien**, die an die Anfänge von Microsoft Office erinnern – hier wurde wirklich **alles ausgereizt, was Word 2016 zu bieten hat.** Ein wahres Meisterwerk der Trash-Ästhetik! 😆  
+Aber es kommt noch besser: **Das zweite PDF schlägt alles.** Ein völlig verpixeltes IRS-Logo, kreative **Word-Art-Spielereien**, die an die Anfänge von Microsoft Office erinnern, hier wurde wirklich **alles ausgereizt, was Word 2016 zu bieten hat.** Ein wahres Meisterwerk der Trash-Ästhetik! 😆  
 
 ![](/posts/2025-02-02_mitchel-jobs/pdf_2.webp)  
 
-Man merkt: **Unsere Scammer geben sich Mühe – aber an den Details hapert’s noch ein bisschen.** Vielleicht sollten sie für die nächste Fälschung doch mal in eine bessere Bildqualität investieren? 😏
+Man merkt: **Unsere Scammer geben sich Mühe, aber an den Details hapert’s noch ein bisschen.** Vielleicht sollten sie für die nächste Fälschung doch mal in eine bessere Bildqualität investieren? 😏
 
 ### Meta-Daten in den Dokumenten: Wer ist Akpan Brown?  
 
-Natürlich werfen wir auch einen Blick in die **Meta-Daten** der PDFs – schließlich hinterlassen Betrüger oft unfreiwillig Spuren. Beim Standard-Export aus Word werden **Autor, Titel und weitere Informationen** gespeichert. Und was sollen wir sagen? **Wir werden nicht enttäuscht.**  
+Natürlich werfen wir auch einen Blick in die **Meta-Daten** der PDFs, schließlich hinterlassen Betrüger oft unfreiwillig Spuren. Beim Standard-Export aus Word werden **Autor, Titel und weitere Informationen** gespeichert. Und was sollen wir sagen? **Wir werden nicht enttäuscht.**  
 
-Plötzlich taucht der Name **Akpan Brown** auf – ein bisher unbekannter Mitspieler in diesem dubiosen Spiel. Doch damit nicht genug: **Als Organisation ist die „NIGERIAN NATIONAL PETROLEUM CORPORATION“ eingetragen.**  
+Plötzlich taucht der Name **Akpan Brown** auf, ein bisher unbekannter Mitspieler in diesem dubiosen Spiel. Doch damit nicht genug: **Als Organisation ist die „NIGERIAN NATIONAL PETROLEUM CORPORATION“ eingetragen.**  
 
 ![](/posts/2025-02-02_mitchel-jobs/metadaten.webp)  
 
@@ -503,7 +503,7 @@ Ob Herr Brown nebenher Millionen ausgibt oder einfach nur **vergessen hat, sein 
 
 Wir fragen mal nach, ob der Herr Mitchel den Herren kennt!
 
-### **Akpan Brown? Nur der Assistent vom IRS-Chef – na klar!** 😅  
+### **Akpan Brown? Nur der Assistent vom IRS-Chef, na klar!** 😅  
 
 Der gute Mitchel streitet erstmal alles ab! Er kennt den guten **Akpan Brown** nicht.
 
@@ -511,9 +511,9 @@ Der gute Mitchel streitet erstmal alles ab! Er kennt den guten **Akpan Brown** n
 
 Also haben wir nochmal höflich nachgefragt, wer denn bitte **Akpan Brown** ist, der in den Meta-Daten als Autor der „offiziellen IRS-Dokumente“ auftaucht. Und siehe da: **Die Antwort ist ebenso kreativ wie dreist.**  
 
-Mitchell erklärt ganz locker, **Akpan Brown sei der persönliche Assistent des IRS-Kommissars** – legitim, autorisiert und natürlich absolut vertrauenswürdig. Dass sein Name in einem Word-Dokument auftaucht, das angeblich vom IRS stammt, sei kein Problem – schließlich habe **die Herstal Trust Bank nur als Vermittler gehandelt.** Klingt doch vollkommen logisch … in der Scam-Welt. 😏  
+Mitchell erklärt ganz locker, **Akpan Brown sei der persönliche Assistent des IRS-Kommissars**, legitim, autorisiert und natürlich absolut vertrauenswürdig. Dass sein Name in einem Word-Dokument auftaucht, das angeblich vom IRS stammt, sei kein Problem, schließlich habe **die Herstal Trust Bank nur als Vermittler gehandelt.** Klingt doch vollkommen logisch … in der Scam-Welt. 😏  
 
-Und jetzt wird wieder auf die Tränendrüse gedrückt: **Mitchell war immer für Anne da**, will nur helfen, ist ganz traurig wegen der Verzögerung – **und bittet jetzt ganz dringend darum, endlich zu zahlen.**  
+Und jetzt wird wieder auf die Tränendrüse gedrückt: **Mitchell war immer für Anne da**, will nur helfen, ist ganz traurig wegen der Verzögerung, **und bittet jetzt ganz dringend darum, endlich zu zahlen.**  
 
 Tja, Mitchell. Wir prüfen weiter … und lassen dich noch ein wenig zappeln. 🦈💸
 
@@ -539,7 +539,7 @@ Tja, Mitchell. Wir prüfen weiter … und lassen dich noch ein wenig zappeln. �
 
 ### Akpan Brown, Nigeria und unsere Skepsis wächst
 
-Nach unserem Fund in den Meta-Daten – **Name: Akpan Brown, Organisation: Nigerian National Petroleum Corporation** – wollten wir es natürlich genau wissen. Also haben wir höflich bei Mitchell nachgefragt, wer dieser ominöse Herr Brown eigentlich ist.  
+Nach unserem Fund in den Meta-Daten, **Name: Akpan Brown, Organisation: Nigerian National Petroleum Corporation**, wollten wir es natürlich genau wissen. Also haben wir höflich bei Mitchell nachgefragt, wer dieser ominöse Herr Brown eigentlich ist.  
 
 Die Antwort: **Natürlich ist Akpan Brown der persönliche Assistent des IRS-Kommissars.** Ganz normal, dass der in offiziellen US-Steuerdokumenten auftaucht. Und das mit Nigeria? Ach, nur ein Missverständnis. Die Dokumente wurden ja „nur über die Bank vermittelt“. 😅  
 
@@ -549,25 +549,25 @@ Wir bleiben freundlich, aber lassen durchblicken, dass wir **Nigeria und Interne
 >   
 > vielen Dank für Ihre ausführliche Antwort und Ihre Mühe. Ich verstehe, dass Sie mir helfen möchten, und ich weiß das wirklich zu schätzen.    
 >   
-> Allerdings bin ich weiterhin etwas verunsichert. Beim Öffnen der Dokumente sind mir die Meta-Daten aufgefallen – dort stand nicht nur der Name Akpan Brown, sondern auch der Vermerk „Nigerian National Petroleum Corporation“.    
+> Allerdings bin ich weiterhin etwas verunsichert. Beim Öffnen der Dokumente sind mir die Meta-Daten aufgefallen, dort stand nicht nur der Name Akpan Brown, sondern auch der Vermerk „Nigerian National Petroleum Corporation“.    
 >   
 > Bitte verstehen Sie mich nicht falsch, aber Nigeria ist weltweit leider als Ursprung vieler Internetbetrugsfälle bekannt, was auch in den Medien und bei Verbraucherschutzseiten oft thematisiert wird. Das hat mich ehrlich gesagt etwas stutzig gemacht.    
 >   
-> Vielleicht gibt es eine einfache Erklärung dafür – aber ich möchte auf Nummer sicher gehen, bevor ich einen so großen Betrag überweise. Können Sie mir das bitte genauer erklären?    
+> Vielleicht gibt es eine einfache Erklärung dafür, aber ich möchte auf Nummer sicher gehen, bevor ich einen so großen Betrag überweise. Können Sie mir das bitte genauer erklären?    
 >   
 > Vielen Dank für Ihr Verständnis,    
 > Anne  
 
 
-## Akpan Brown bleibt – jetzt offiziell! 😆  
+## Akpan Brown bleibt, jetzt offiziell! 😆  
 
-Nach unserer kritischen Nachfrage zu **Akpan Brown** und dem seltsamen Vermerk **„Nigerian National Petroleum Corporation“** in den Meta-Daten der angeblich offiziellen IRS-Dokumente, meldet sich unser Finanzhai **Mitchell Jobs** erneut – diesmal mit einer **wahren Meisterleistung bürokratischer Fantasie.**  
+Nach unserer kritischen Nachfrage zu **Akpan Brown** und dem seltsamen Vermerk **„Nigerian National Petroleum Corporation“** in den Meta-Daten der angeblich offiziellen IRS-Dokumente, meldet sich unser Finanzhai **Mitchell Jobs** erneut, diesmal mit einer **wahren Meisterleistung bürokratischer Fantasie.**  
 
 Die Auflösung:  
 - **Akpan Brown** ist (natürlich!) der **Privatsekretär des IRS-Chefs Daniel Werfel**.  
 - Die Nigeria-Erwähnung? Nur ein **technischer Formatierungsfehler**, weil Akpan wohl kürzlich auch an einem **nigerianischen Öl-Steuerfall** gearbeitet hat.  
-- Alles kein Problem – das **Dokument sei trotzdem vollkommen offiziell.**  
+- Alles kein Problem, das **Dokument sei trotzdem vollkommen offiziell.**  
 
-Mitchell beteuert erneut, dass alles absolut **seriös, sicher, vom IRS abgesegnet und natürlich ganz dringend** ist. Es fehle nur noch unsere „kleine“ Steuerzahlung – dann stünde der Auszahlung nichts mehr im Wege.  
+Mitchell beteuert erneut, dass alles absolut **seriös, sicher, vom IRS abgesegnet und natürlich ganz dringend** ist. Es fehle nur noch unsere „kleine“ Steuerzahlung, dann stünde der Auszahlung nichts mehr im Wege.  
 
 ![](/posts/2025-02-02_mitchel-jobs/akpan.webp)

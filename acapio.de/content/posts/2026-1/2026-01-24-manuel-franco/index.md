@@ -16,7 +16,7 @@ summary: "Oida, ich bin reich! (Scherzal) 💸 Ein gewisser „Manuel“ will mi
 ---
 
 **1,8 Millionen Euro Spende? Geh bitte! 😂**
-Da sitz ich gemütlich beim Bier und krieg Post von einem angeblichen Millionär. 🍻 Dieser Scam ist schlechter als warmes Dosenbier. Ich zerleg den Blödsinn mal für euch – bevor ihr drauf reinfallts!
+Da sitz ich gemütlich beim Bier und krieg Post von einem angeblichen Millionär. 🍻 Dieser Scam ist schlechter als warmes Dosenbier. Ich zerleg den Blödsinn mal für euch, bevor ihr drauf reinfallts!
 
 
 ## Die E-Mail von manuelfranco095@outlook.com
@@ -38,7 +38,7 @@ Natürlichh haken wir mal nach:
 
 ## Die Scammer schreiben zurück... (Na servas!) 📨🤡
 
-Ich hab’s ja fast provoziert, oder? Da schick ich dem „Manuel“ eine Antwort, nur um zu schauen, was passiert – und zack! Die Antwort ist da. Die lassen echt nicht locker, die Gfraster.
+Ich hab’s ja fast provoziert, oder? Da schick ich dem „Manuel“ eine Antwort, nur um zu schauen, was passiert, und zack! Die Antwort ist da. Die lassen echt nicht locker, die Gfraster.
 
 Hier ist die Kurzfassung von dem Topfen, den er mir diesmal geschickt hat:
 
@@ -79,7 +79,7 @@ Das ist der Trick: Sie leihen sich seine Glaubwürdigkeit. Aber glaubt mir: Der 
 
 ## Basti antwortet ✍️
 
-Na gut, ich konnt’s mir nicht verkneifen. Der Rudi hat zwar den Kopf geschüttelt, aber ich wollte dem „Lotto-König“ mal ein bisserl auf den Zahn fühlen. Ich hab ihm zurückgeschrieben – aber natürlich mit der gesunden Wiener Skepsis, die mir in die Wiege (und ins Bierglas) gelegt wurde.
+Na gut, ich konnt’s mir nicht verkneifen. Der Rudi hat zwar den Kopf geschüttelt, aber ich wollte dem „Lotto-König“ mal ein bisserl auf den Zahn fühlen. Ich hab ihm zurückgeschrieben, aber natürlich mit der gesunden Wiener Skepsis, die mir in die Wiege (und ins Bierglas) gelegt wurde.
 
 Hier ist meine Antwort an den Herrn Millionär:
 
@@ -89,7 +89,7 @@ Hier ist meine Antwort an den Herrn Millionär:
 >   
 > Aber ganz ehrlich, Manuel: Ich bin ein einfacher Lagerist, aber nicht auf der Nudelsuppn dahergschwommen. Bei uns in Wien gilt die eiserne Regel: Niemand hat was zu verschenken. Nicht mal der eigene Bruder, und schon gar kein Millionär aus Amerika.  
 >   
-> Umsonst ist nur der Tod, und der kostet das Leben – kennst du das Sprichwort?  
+> Umsonst ist nur der Tod, und der kostet das Leben, kennst du das Sprichwort?  
 >   
 > Bevor ich dir jetzt meine ganzen privaten Daten schicke (Telefonnummer und so weiter), bin ich lieber vorsichtig. Wo ist der Haken an der Gschicht? Musst du Geld waschen? Oder warum genau ich?  
 >   
