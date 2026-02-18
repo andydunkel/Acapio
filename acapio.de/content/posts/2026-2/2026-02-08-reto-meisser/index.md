@@ -292,3 +292,67 @@ Erfahrungsgemäß wird genau an diesem Punkt aus der „kostenlosen Abwicklung�
 >   
 > Viele Grüße  
 > Hugo  
+
+
+## Von null auf Blutsbruder in drei E-Mails: Willkommen im Telex-Zeitalter! 📠🩸
+
+Wer sagt, dass man im Internet keine tiefen Bindungen aufbauen kann? Für unseren angeblichen Top-Banker Reto ist Hugo nicht länger nur ein Werkzeug für dubiose Geldtransfers, sondern quasi schon Familie. Hier ist die kompakte Zusammenfassung dieses emotionalen und hochtechnologischen Meisterwerks:
+
+* **Familienzuwachs:** Hugo wurde befördert und ist jetzt offiziell der „Bruder“ des Hongkong-Bankers. Vertrauen auf Level 1000, möge Gott ihn segnen! 🙏
+* **Die Ziel-Bank:** Das Geld soll in die Türkei zur *ZIRAAT BANKASI BANK Inc.* fließen. Den Namen einer echten Bank zu klauen, ist ein beliebter Trick, aber...
+* **Die Kontaktadresse:** ...Millionen-Konten eröffnet man im Private Banking heutzutage scheinbar am besten über die absolut exklusive Freemail-Adresse `ziraatbankasireliance.e-bnk.online@accountant.com`. Wer kennt sie nicht, die hochsicheren Bank-Server des Gratis-Anbieters *accountant.com*? 🚩
+* **Der Filialleiter:** Geleitet wird das türkische Bankgeschäft passenderweise von einem echten Lokalmatador namens „Michael David“.
+* **High-Tech-Geldwäsche:** Um internationale Behörden auszutricksen, nutzt man modernste Technik: das „Telex-Verfahren“. Offenbar schickt man sich die 5 Millionen per ratterndem Fernschreiber direkt aus den 1980er Jahren hin und her. 📠
+
+👉 **Übersetzt:** Die Luftnummer wird weiter aufgeblasen. Der Scammer lenkt Hugo jetzt auf eine gefälschte Bank-E-Mail-Adresse um (die natürlich ebenfalls vom Scammer selbst gesteuert wird). Das Ziel ist klar: „Michael David“ wird sich gleich melden und die Gebühren für die Kontoeröffnung einfordern.
+
+**Die E-Mail ist wie üblich in epischer Länge:**
+
+> Hallo Hugo Scholz  
+>   
+> ich möchte Ihnen ganz herzlich für Ihre große Verantwortung und Ihr Vertrauen danken. Ihr Interesse hat sich als aufrichtig erwiesen, und nachdem ich Ihre Identität und Ihr ernsthaftes Engagement bestätigt habe, fühle ich mich viel wohler, dieses Geschäft mit Ihnen abzuwickeln, auch wenn wir noch nicht persönlich miteinander telefoniert haben. Mein lieber Freund, bitte enttäuschen Sie mich nicht bei dieser wichtigen Transaktion und dem Vertrauen, das ich Ihnen als ausländischem Partner, Freund und jemandem, den ich nun fast schon als Bruder betrachte, entgegenbringe. Ich würde mich sehr freuen, Sie persönlich kennenzulernen. Vielleicht ergeben sich neben dieser Transaktion noch viele weitere Möglichkeiten für eine Zusammenarbeit. Ich bin seit vielen Jahren im Finanzsektor tätig, bemühe mich aber stets, meine Interessen durch die Erschließung neuer Bereiche zu diversifizieren.  
+>   
+> Nachdem ich Ihre Informationen erhalten hatte, habe ich umgehend eine Kopie an den Anwalt/Rechtsanwalt weitergeleitet, der die Unterlagen für die Bank zusammenstellt, damit die Gelder umgehend freigegeben und an Sie überwiesen werden können. Dies sollte einige Tage dauern, je nachdem, wie schnell Sie das neue Online-Konto eröffnen können. Ich habe meine Anfragen bei einigen Banken abgeschlossen, die dasselbe Überweisungsverfahren wie meine Bank anbieten. Die Bank befindet sich in der Türkei und erfordert keine Reise Ihrerseits zur Kontoeröffnung. Ich habe den Namen meiner Bank verwendet, um Sie an die türkische Bank zu verweisen. Dort ist Ihr Name registriert und man erwartet Ihre Kontaktaufnahme.  
+> ... Ich sende Ihnen nun die Bankverbindung der türkischen Bank (Bank of Turkey), damit Sie sich bezüglich der Eröffnung eines Offshore-/Online-Kontos erkundigen können. Wie bereits erwähnt, empfehle ich Ihnen, ein neues Online-Konto bei dieser Bank in der Türkei zu eröffnen. Sobald die Gelder freigegeben sind, werden sie direkt auf Ihr neues Online-Konto überwiesen. Diese Überweisung wird als interne Transaktion (ähnlich wie bei meiner Bank) behandelt und hat keine Auswirkungen auf internationale Finanzinstitutionen. Wie ich Ihnen in meiner vorherigen E-Mail mitgeteilt habe, können Sie, sobald die Gelder auf Ihrem neuen Online-Konto eingegangen sind und Sie den Gutschriftseingang bestätigt haben, problemlos Auszahlungen auf andere Konten vornehmen.  
+>   
+> Ich habe bereits recherchiert, an wen Sie sich als internationaler Kunde direkt wenden können, um ein Konto zu eröffnen. Bitte kontaktieren Sie die Bank mit den unten stehenden Informationen, um Ihre Kontoeröffnung zu beschleunigen. Teilen Sie uns mit, dass Sie ein Online-Konto wünschen und keine Zeit haben, persönlich zur Kontoeröffnung zu reisen. Daher möchten wir die gesamte Abwicklung per E-Mail, Fax und Telefon. Geben Sie an, dass Sie diese Kontaktdaten von einer Bank in Hongkong erhalten haben.  
+>   
+> Bankname: ZIRAAT BANKASI BANK Inc  
+> E-Mail-Adresse der Bank: ziraatbankasireliance.e-bnk.online@accountant.com  
+> Bankmanager: Michael David  
+>   
+> Ansprechpartner: Herr Michael David  
+> (Leiter des operativen Geschäfts)  
+> Leiter Privat- und Geschäftskunden  
+>   
+> Bitte beachten Sie, dass die ZIRAAT BANKASI BANK Inc US keine reguläre Geschäftsbank, sondern eine Kreditvermittlungsbank ist. Sie betreibt ein Online-Banking-System in kleinem Umfang und bietet Bankdienstleistungen für Privatpersonen und Unternehmen mit internationaler Geschäftstätigkeit an. Die Bank arbeitet zudem mit Partnerbanken in Europa, Asien und Amerika zusammen. Einer der Hauptgründe, warum wir die ZIRAAT BANKASI BANK Inc. nutzen, ist, dass diese Bank denselben Telex-Typ wie meine Bank verwendet. Das bedeutet, dass jede Überweisung zwischen ihnen und meiner Bank als interne Überweisung gilt. Dadurch wird die Aufmerksamkeit bestimmter internationaler Finanzinstitutionen mit strengen Geldpolitiken vermieden. Die Behörden betrachten eine solche Überweisung einfach als Bankgeschäft, ohne Verdacht zu erregen oder Alarm auszulösen. Es war unbedingt notwendig, bei Transaktionen dieser Art bestimmte Vorsichtsmaßnahmen zu treffen, um unsere Interessen zu schützen. Als langjähriger Banker erwarte ich, dass Sie meinen Rat für den Erfolg dieser Transaktion und die anschließende Auszahlung der Gelder befolgen.  
+>   
+> Ich erwarte in Kürze eine Rückmeldung von Ihnen bezüglich der Eröffnung Ihres neuen Online-Kontos. Bitte kontaktieren Sie die ZIRAAT BANKASI BANK Inc. online und beantragen Sie das Konto, da ich eine schnelle Kontoeröffnung wünsche. Sie können die Bank über die E-Mail-Adresse ziraatbankasireliance.e-bnk.online@accountant.com erreichen.  
+>   
+> Ich weiß, dass diese Transaktion für uns beide und unsere Familien ein lebenslanges Vermögen bedeuten kann. Daher erwarte ich von Ihnen, dass Sie diese Transaktion mit höchster Priorität bearbeiten. Ich werde Sie ab sofort „mein Bruder“ nennen, um zu verdeutlichen, dass unser gegenseitiges Vertrauen dem von Blutsbrüdern und -schwestern entspricht. Möge Gott Sie für Ihre positive Entschlossenheit, unser Leben zu beeinflussen, segnen.  
+>   
+> Mit freundlichen Grüßen  
+>   
+> Herr Reto Meisser  
+
+
+### Schachmatt aus Wanne-Eickel: Die ultimative Logikfalle 🪤♟️
+
+Mit dieser kurzen E-Mail stellt Hugo die absolute Lieblingsfrage aller Scam-Jäger: **„Zieht die Gebühren doch einfach von meinen Millionen ab!“** Genau an diesem Punkt bricht die Illusion des Vorschussbetrugs nämlich wie ein Kartenhaus in sich zusammen. Wenn dort wirklich 5 Millionen Euro auf ihre Freigabe warten, warum sollte eine internationale Bank dann auf ein paar Hundert Euro Vorkasse aus Wanne-Eickel bestehen? Die Antwort ist so simpel wie bitter: Weil die Millionen schlichtweg nicht existieren. Das einzige echte Geld in dieser ganzen Geschichte ist das, was das Opfer aus der eigenen Tasche überweisen soll.
+
+Wir dürfen gespannt sein, wie „Filialleiter Michael David“ mit seinem ratternden Telex-Gerät und seiner Gratis-Mailadresse aus dieser Logikfalle wieder herauskommen will. Erfahrungsgemäß folgt auf diesen Vorschlag meist eine extrem kreative Ausrede über „strenge internationale Bankrichtlinien“, „Notar-Sperrfristen“ oder die strikte „buchhalterische Trennung von Einlagen und Gebühren“. Holen wir schon mal das Popcorn raus! 🍿
+
+> Sehr geehrter Herr David,  
+>   
+> mein neuer „Bruder“ Reto Meisser aus Hongkong hat mich an Sie verwiesen, um ein Offshore-Konto bei Ihrer Bank zu eröffnen.  
+>   
+> Bevor ich Ihnen meine Unterlagen schicke, habe ich als einfacher Mann aus Wanne-Eickel noch zwei kurze Fragen:  
+>   
+> Herr Meisser meinte, die Überweisung läuft über „Telex“. Das ist doch Technik aus den 70ern, brauche ich dafür jetzt ein Fernschreibgerät im Wohnzimmer?  
+>   
+> Ihre offizielle Bank-Adresse endet auf „@accountant.com“. Selbst unser kleiner BMW-Club hat eine eigene Internetadresse. Ist das wegen der internationalen Geheimhaltung so üblich?  
+>   
+> Bitte sagen Sie mir, was die Kontoeröffnung kostet. Mein ganz pragmatischer Vorschlag: Können Sie diese Gebühren nicht einfach direkt von den 5 Millionen Euro abziehen, die Herr Meisser in den nächsten Tagen überweist? Das wäre doch für alle am einfachsten und schnellsten!  
+>   
+> Viele Grüße  
+> Hugo   

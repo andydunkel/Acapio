@@ -263,3 +263,42 @@ Der nächste Akt verspricht also entweder juristische Präzision, oder besonders
 >   
 > Kind regards  
 > Hugo  
+
+### Der Anwalt, das Copy-Paste-Desaster und der Identitätsdiebstahl 🤡📝
+
+"Barrister John Edward" liefert ab, allerdings hat er in seiner AOL-Kanzlei offenbar die Akten vertauscht. Der verstorbene Ehemann heißt plötzlich nicht mehr *Dr. Deshmukh Krishna*, sondern *Dr. Davis Wakis Johnson*. Auch die Millionen sind wundersamerweise von der *Lloyds Bank* zur *HSBC Bank* gewandert. Copy-Paste ist eben kein leichtes Handwerk. 🤷‍♂️
+
+Auf Hugos konkrete Fragen nach Kanzleiadresse und Ablauf wird natürlich geschwiegen. Stattdessen zieht der "Managing Partner" den eigentlichen Hauptgewinn aus dem Ärmel: Er fordert eine **Ausweiskopie (ID Card)** und faselt von einem "Federal High Court", ein Gericht, das es in Großbritannien gar nicht gibt, im klassischen Scam-Zentrum Nigeria dafür umso präsenter ist.
+🎣💳
+> Sequel to your mail and conversation with my late client wife Mrs. Esther Johnson, she instructed me to proceed in getting the fund from her late husband Dr. Davis Wakis Johnson, deposit with the HSBC Bank, UK which is US$6.5 million Dollars into your nominated bank account without further delay.  
+>   
+> But before I can proceed I would like to have your necessary information to enable me secure an Affidavit and Change of Ownership Certificate, to enable the bank transfer the fund to your nominated bank account Okay.  
+>   
+> Meanwhile, you have to furnish me with the below information:-  
+>   
+> Your Full Name:...................  
+> Contact Address:..................  
+> Occupation:.......................  
+> A Scan Copy of ID Card:...........  
+> Your Age:.........................    
+> Marital Status:...................  
+> Phone Number......................  
+>   
+> Note, as soon as I receive the above listed information I shall get an Affidavit from the Federal High Court to back you up on the transfer Okay.  
+>   
+> I shall wait to hear from you soonest.  
+>   
+> Yours in service.  
+>   
+> Attorney J. Edward  
+> Managing Partner  
+> John Edward &Co. Chartered  
+
+
+### Das Bundes-Huhn schlägt zu 🐔🪪
+
+Hugo liefert brav, na ja, fast. Statt sensibler Realdaten servieren wir dem AOL-Anwalt ein paar frei erfundene Infos und ein echtes Meisterwerk der Dokumentenfälschung: den offiziellen Personalausweis von Hugo Tadeus Scholz, geboren natürlich am 1. April. Wer genau hinsieht, erkennt auch sofort das neue hoheitliche Wappentier im Hintergrund: Hier wacht nicht mehr der stolze deutsche Bundesadler, sondern ein prächtiges, grünes Huhn. 🐓
+
+![](/posts/2025-02-07-esther-johnson/hugo_ausweis.webp)
+
+Ob das dem "Federal High Court" auffällt? Wohl kaum. Für den Scam-Ordner reicht das allemal. Mal sehen, welche fantastischen "Gebühren" der Anwalt uns als Nächstes in Rechnung stellt! 💸
