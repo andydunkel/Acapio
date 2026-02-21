@@ -239,7 +239,7 @@ Die Frachtfirma verlangt 2940 Euro für eine angeblich obligatorische Versicheru
 > Please explain me, because I want box to come Germany, but this price is too big. Please help me understand!  
 >   
 > Thank you,  
-> Mr. Scholz  
+> Mr. S cholz  
 
 ### Arisha fleht: Die 2940-Euro-Frage wird emotional
 
@@ -648,7 +648,7 @@ Jetzt liegt der Ball  wieder bei Fexpress. 💼😂
 > Because of this, the money did not leave my account. This makes me uneasy, that this is not legit transaction!?!   
 >   
 > Concerned,  
-> Scholz    
+> S cholz    
 
 Dazu gibt es einen "Beweis" in Form eines Schreibens.
 

@@ -37,14 +37,14 @@ Natürlich gibt es auch einen Wikipedia-Link, damit man sich vergewissern kann, 
 
 ## Unsere Antwort, natürlich von Hugo persönlich
 
-Als ernstzunehmender Bürger aus dem Herzen des Ruhrgebiets lässt man sich so eine Gelegenheit natürlich nicht entgehen. Also hat **Scholz**, BMW-Enthusiast und Grillmeister vom Dienst, sofort in die Tasten gehauen.
+Als ernstzunehmender Bürger aus dem Herzen des Ruhrgebiets lässt man sich so eine Gelegenheit natürlich nicht entgehen. Also hat **S cholz**, BMW-Enthusiast und Grillmeister vom Dienst, sofort in die Tasten gehauen.
 
 Jetzt warten wir gespannt, ob Frau Faulkner antwortet. Vielleicht kommt ja demnächst die Kontoabfrage. Oder ein nigerianischer Anwalt. Oder beides.  
 **Hugo ist bereit.**
 
 > Hallo Frau Faulkner,  
 >   
-> mein Name ist Scholz aus Wanne-Eickel. Ich bin ganz gerührt von Ihrer E-Mail. So viel Geld, einfach so! Da wird einem ja ganz warm ums Herz, ehrlich!  
+> mein Name ist S cholz aus Wanne-Eickel. Ich bin ganz gerührt von Ihrer E-Mail. So viel Geld, einfach so! Da wird einem ja ganz warm ums Herz, ehrlich!  
 >   
 > Ich hab erst gedacht, das ist wieder so’n Schmu aus dem Internet, aber dann hab ich Sie mal gegoogelt, und tatsächlich: Sie gibt's ja wirklich! Wikipedia lügt ja nicht, oder?  
 >   
@@ -97,12 +97,12 @@ Er schickt brav die Einzahlungsnummer, seine (natürlich "echte") Adresse und l�
 
 > Sehr geehrter Herr Kontomanager,  
 >   
-> mein Name ist Scholz aus Wanne-Eickel. Ich wurde von Frau Dr. Judith R. Faulkner informiert, dass ich zu den glücklichen Empfängern ihrer großzügigen Spende gehöre (3.500.000 €, ich kann’s immer noch kaum glauben!). Sie hat mir Ihre Kontaktdaten weitergeleitet und mich gebeten, mich direkt bei Ihnen zu melden.  
+> mein Name ist S cholz aus Wanne-Eickel. Ich wurde von Frau Dr. Judith R. Faulkner informiert, dass ich zu den glücklichen Empfängern ihrer großzügigen Spende gehöre (3.500.000 €, ich kann’s immer noch kaum glauben!). Sie hat mir Ihre Kontaktdaten weitergeleitet und mich gebeten, mich direkt bei Ihnen zu melden.  
 >   
 > Hier die benötigten Informationen zur Bearbeitung der Auszahlung:  
 >   
 > Einzahlungsnummer: BAYIV / AHY5353 / 373462 / ESPANA /    
-> Vollständiger Name: Scholz    
+> Vollständiger Name: S cholz    
 > Postanschrift: Am Stadion 12, 44649 Herne    
 >   
 > Ich freue mich schon riesig auf die Auszahlung, meine Frau Uschi hat schon angefangen, im ALDI-Katalog nach Whirlpools zu suchen.    

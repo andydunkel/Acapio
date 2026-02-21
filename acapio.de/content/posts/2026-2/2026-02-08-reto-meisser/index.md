@@ -76,7 +76,6 @@ Nach der knappen Nachfrage folgt das übliche Eskalationslevel: viel Text, drama
 >   
 > Herr Reto Meisser   
 
-
 ### Hugo aus Wanne-Eickel stellt eine ganz einfache Frage 🤔💸
 
 Hugo bleibt erst einmal Hugo: einfacher Mann, BMW-Club, keine Erfahrung mit internationalen Millionenüberweisungen. Statt reflexartig „Ja, nehme ich“ zu sagen, fragt er vorsichtig nach, wie man als völlig Fremder plötzlich Erbe wird, und ob das Ganze wirklich legal ist oder eher nach kreativem Finanzmärchen klingt. 
@@ -308,7 +307,7 @@ Wer sagt, dass man im Internet keine tiefen Bindungen aufbauen kann? Für unsere
 
 **Die E-Mail ist wie üblich in epischer Länge:**
 
-> Hallo Hugo Scholz  
+> Hallo Hugo  
 >   
 > ich möchte Ihnen ganz herzlich für Ihre große Verantwortung und Ihr Vertrauen danken. Ihr Interesse hat sich als aufrichtig erwiesen, und nachdem ich Ihre Identität und Ihr ernsthaftes Engagement bestätigt habe, fühle ich mich viel wohler, dieses Geschäft mit Ihnen abzuwickeln, auch wenn wir noch nicht persönlich miteinander telefoniert haben. Mein lieber Freund, bitte enttäuschen Sie mich nicht bei dieser wichtigen Transaktion und dem Vertrauen, das ich Ihnen als ausländischem Partner, Freund und jemandem, den ich nun fast schon als Bruder betrachte, entgegenbringe. Ich würde mich sehr freuen, Sie persönlich kennenzulernen. Vielleicht ergeben sich neben dieser Transaktion noch viele weitere Möglichkeiten für eine Zusammenarbeit. Ich bin seit vielen Jahren im Finanzsektor tätig, bemühe mich aber stets, meine Interessen durch die Erschließung neuer Bereiche zu diversifizieren.  
 >   
@@ -356,3 +355,48 @@ Wir dürfen gespannt sein, wie „Filialleiter Michael David“ mit seinem ratte
 >   
 > Viele Grüße  
 > Hugo   
+
+---
+
+## Die Speisekarte der Betrüger: Darf es das Diamond-Konto für 4.200 € sein? 💎🏦
+
+Wie wir bereits vermutet haben, geht der angebliche „Filialleiter Michael David“ mit keinem einzigen Wort auf Hugos Logikfalle ein. Die Frage, ob man die Gebühren nicht einfach von den Millionen abziehen könnte, wird elegant ignoriert. Auch auf das Telex-Gerät und die peinliche Gratis-Mailadresse gibt es keine Antwort.
+
+Stattdessen bekommen wir genau das, worauf der ganze Scam von Anfang an abzielte: **Die Preisliste.** Die angebliche türkische Bank präsentiert uns ein Menü an Kontomodellen, das eher an die In-App-Käufe eines schlechten Handyspiels erinnert als an seriöses Private Banking. Wer mehr Millionen im Monat bewegen will, muss eben vorher tiefer in die Tasche greifen:
+
+> **(1) Plus-Reserve-Sparkonto:** > Einzahlung von 420 €. *Maximale Auszahlung ist auf 1.000.000,00 EURO pro Monat begrenzt.*
+> **(2) Current Plus Reservekonto:** > Einzahlung von 1.200,00 €. *Maximale Überweisung ist auf 2.000.000,00 € pro Monat begrenzt.*
+> **(3) Advantage Gold Reserve Accounting:** > Einzahlung von 2.400,00 €. *Keine Mindestabhebungskosten, Transaktionen in mehreren Währungen.*
+> **(4) Diamond Reserve Accounting:** > Einzahlung von 4.200 €. *Keine maximalen Überweisungslimits. (Das bedeutet, dass Sie jeden beliebigen Betrag auf einmal überweisen können).*
+
+Dazu gibt es ein Formular, welches wir ausfüllen müssen, handschriftlich. So wollen die Scammer sicher stellen, dass sie nicht mit KI abgespeist werden.
+
+![](/posts/2025-02-08-reto-meisser/bank.webp)
+
+### Die absurdesten Highlights der Mail 🚩🤖
+
+Neben den unverschämten Vorabgebühren glänzt die E-Mail durch feinste, vollautomatische Übersetzungsfehler und kriminelle Logiklücken:
+
+* **Das Geld-Paradoxon:** Wir sollen das Geld überweisen, **bevor** wir überhaupt unsere eigene Kontonummer erfahren (*„Diese Kontonummer kann Ihnen nicht mitgeteilt werden, da die zur Aktivierung [...] erforderliche Mindestrückzahlung eingegangen ist“*).
+* **Ausweis-Phishing:** Ganz nebenbei sollen wir natürlich wieder eine Kopie unseres Personalausweises mitschicken.
+* **Poetische Google-Übersetzungen:** Die Mail endet mit dem philosophischen Meisterwerk: *„Lassen Sie uns mit dem Wunderbaren gesegnet sein.“* Und falls wir das Konto schließen wollen, wird uns versichert: *„Ihre physische Anwesenheit [wird] nicht eingefroren“*. Da sind wir aber beruhigt! 🥶
+
+**Fazit:** Der Vorschussbetrug hat sein Ziel erreicht. Das angebliche Millionen-Erbe ist nur der Köder, um das Opfer dazu zu bringen, zwischen 420 € und 4.200 € für eine wertlose „Kontoaktivierung“ ins Ausland zu überweisen. 💸
+
+
+## Die Taktik: Raus aus dem Skript!
+
+Hugo spielt die Naivitäts-Karte jetzt voll aus. Durch die simple Forderung nach "PayPal" oder "Sparkasse" zwingt er die Betrüger, ihr starres Copy-Paste-Skript zu verlassen. 
+
+Obendrauf nutzt er die emotionale "Bruder"-Masche des Scammers gnadenlos gegen ihn selbst aus: Wenn wir Familie sind, zahl du doch! Das führt bei Scammern erfahrungsgemäß zu extremer Verzweiflung oder wüsten Ausreden.
+
+> Hallo Herr David, hallo Bruder Reto,  
+>   
+> Ihre Preisliste überfordert mich völlig. Ich bin ein einfacher Lagerist und Staplerfahrer in Wanne-Eickel, von internationalen "Diamond Accounts" und Telex-Geräten verstehe ich absolut nichts.  
+>   
+> Warum muss das so kompliziert sein? Ich habe mein ganz normales Girokonto bei der Sparkasse, reicht das nicht? Alternativ kann Bruder Reto mir meinen Anteil auch einfach per PayPal schicken oder in einen Koffer packen.  
+>   
+> Und ganz ehrlich: Ich habe keine 4.200 € oder 420 € für irgendwelche Gebühren herumliegen. Da wir ja nun "Brüder" sind: Reto, kannst du das als Banker nicht einfach kurz für mich vorstrecken oder direkt von den Millionen abziehen? Unter Familie macht man das doch so!  
+>   
+> Glück auf!  
+> Hugo  

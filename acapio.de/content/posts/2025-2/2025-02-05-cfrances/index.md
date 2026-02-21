@@ -112,7 +112,7 @@ Es war ja nur eine Frage der Zeit: Nachdem uns der selbsternannte „Anwalt“ M
 
 Das Dokument ist länglich, daher verzichten wir auf den kompletten Text.
 
->  DIESES DOKUMENT STELLT EINE VEREINBARUNG FÜR DIE ÜBERWEISUNG VON SPENDENMITTELN IN HÖHE VON 5.000.000,00 € DER CONNOLLY'S CHARITY FOUNDATION AN HERRN Scholz DAR.  
+>  DIESES DOKUMENT STELLT EINE VEREINBARUNG FÜR DIE ÜBERWEISUNG VON SPENDENMITTELN IN HÖHE VON 5.000.000,00 € DER CONNOLLY'S CHARITY FOUNDATION AN HERRN S cholz DAR.  
 >   
 > Sehr geehrter Herr,  
 >   
@@ -271,7 +271,7 @@ Wir sind gespannt, ob Michael Bradley darauf eingeht. Vielleicht möchte er ja d
 > Ich möchte das Spendenprojekt natürlich nicht gefährden, melden Sie sich bitte, wie wir das jetzt am besten regeln.    
 >   
 > Mit freundlichen Grüßen    
-> Scholz    
+> S cholz    
 > (Steam-Nutzername: BMW_Hugo_87)    
 
 
@@ -289,7 +289,7 @@ Jetzt wird’s richtig professionell: Hugo soll **Steam-Karten im Wert von 500�
 Tja, lieber Michael, Hugo hat vielleicht nicht das Geld, aber ganz sicher **eine Antwort mit Stil**.  
 Jetzt überlegen wir, ob wir ihm schreiben, dass die Tankstelle keine Steam-Karten mehr hatte, aber **Itunes-Karten** im Angebot waren. Oder vielleicht Amazon-Gutscheine, aber **leicht angeknabbert**, weil sie der Hund gefressen hat. 🐶💳
 
-> Sehr geehrter Herr Scholz,  
+> Sehr geehrter Herr S cholz,  
 >   
 > Ich habe Ihre E-Mail erhalten und den Inhalt zur Kenntnis genommen. Es handelt sich um ein großes Finanzierungsprojekt der Connolly's Foundation, das wir professionell bearbeiten. Daher muss ich Sie beruhigen: Eine Anzahlung von nur 20 € kann nicht akzeptiert werden, das ist zu wenig. Wir benötigen die vollständige Zahlung von 500 € so schnell wie möglich.  
 >   
@@ -329,7 +329,7 @@ Jetzt sind wir gespannt, ob Michael Bradley auch mit leicht benagten Gutscheinka
 > Bitte lassen Sie mich wissen, was für Sie am besten passt. Ich will die Auszahlung der 5 Millionen ja nicht gefährden!  
 >   
 > Mit freundlichen Grüßen  
-> Scholz  
+> S cholz  
 > (und Horst 🐾)  
 
 Perfekt, der Scam-Anwalt wird langsam richtig nervös 😄  
@@ -357,7 +357,7 @@ Hugo ficht das alles nicht an, er hat andere Sorgen:
 > Könnten Sie mir bitte noch 2–3 Tage Zeit geben? Ich will wirklich, dass das mit der Spende klappt, meine Mutter erzählt schon überall, dass ich bald Millionär bin.    
 >   
 > Mit freundlichen Grüßen    
-> Scholz    
+> S cholz    
 > (nächstes Mal mit Geld im Brustbeutel)  
 
 Wunderbar! Jetzt setzt unser „Anwalt“ alles auf eine Karte, wortwörtlich. Hier kommt der passende Blog-Absatz:

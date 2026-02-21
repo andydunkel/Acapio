@@ -212,7 +212,7 @@ Nebenbei bittet er die Bank darum, ihm die richtige Losnummer nochmal zu schicke
 > hallo bank-leute,  
 >   
 > der paul vom euro millions hat gesagt, ich soll mich bei euch melden wegen meiner auszahlung von den 2.000.000 euro.  
-> ich bin der Scholz aus wanne-eickel, vielleicht hat er euch schon bescheid gesagt.  
+> ich bin der S cholz aus wanne-eickel, vielleicht hat er euch schon bescheid gesagt.  
 >   
 > ich weiß noch nicht genau, wie das läuft. überweist ihr mir das einfach so? oder muss ich da irgendwie was unterschreiben? ich war heute eh schon fast bei der sparkasse, aber da war die schlange zu lang, deswegen dachte ich, ich schreib euch erstmal.  
 >   

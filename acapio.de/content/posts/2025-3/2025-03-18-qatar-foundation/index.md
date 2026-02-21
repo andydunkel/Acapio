@@ -53,7 +53,7 @@ Natürlich lässt sich unser Hugo so eine Gelegenheit nicht entgehen. Wer würde
 > Lassen Sie mich mal wissen, wie wir das abwickeln. Falls Gebühren anfallen, sagense Bescheid, hab noch ein paar Moneten vom letzten Schrottplatz-Deal übrig.    
 >   
 > Beste Grüße aus Wanne-Eickel,    
-> Hugo "T" Scholz  
+> Hugo "T" S cholz  
 > BMW-Club Wanne-Eickel e.V.    
 
 
@@ -157,7 +157,7 @@ Also schreibt Hugo ganz brav und vertrauensvoll seine erste Nachricht an den *Di
 
 > Sehr geehrter Herr Dr. Triguero Sanchez,  
 >   
-> mein Name ist Scholz, und ich wurde von Herrn Rashid Al-Naimi von der Qatar Foundation an Sie verwiesen.  
+> mein Name ist S cholz, und ich wurde von Herrn Rashid Al-Naimi von der Qatar Foundation an Sie verwiesen.  
 >   
 > Ich freue mich sehr über die großzügige Spende in Höhe von €995.000,00, die mir im Rahmen des Universalprogramms zugesprochen wurde. Wie gewünscht, möchte ich mich bei Ihnen mit der PIN: QF-999-2025 melden, um den weiteren Ablauf der Auszahlung zu besprechen.  
 >   
@@ -184,7 +184,7 @@ Klingt edel, doch am Ende geht’s nur darum, Hugo möglichst elegant zur nächs
 
 Im Anhang wartet ein Formular auf Hugo. 😏
 
-> Sehr geehrter Herr Scholz,  
+> Sehr geehrter Herr S cholz,  
 >   
 > Willkommen bei Mapfre Seguros EU Claims Services. Wir sind eine etablierte Nichtregierungsorganisation, die stolz mit der Qatar Foundation und verschiedenen internationalen Organisationen zusammenarbeitet. Unsere Mission ist es, sicherzustellen, dass Spenden sicher und garantiert an berechtigt Empfänger weltweit übermittelt werden. Unser übergeordnetes Ziel ist es, die Lebensqualität der Menschen weltweit zu verbessern, wirtschaftliche Stabilität zu fördern und zur Entwicklung über Kontinente hinweg beizutragen.  
 > Wir freuen uns, Ihnen mitzuteilen, dass der Verifizierungsprozess für Ihre Spendenzuteilung „QF-999-2025“ in Kürze eingeleitet wird. Unser engagiertes Team wird Ihnen die erforderlichen Details zur Verfügung stellen, um den Erhalt Ihrer großzügigen Spende in Höhe von €995.000,00 zu erleichtern.  
@@ -246,7 +246,7 @@ Statt unsere Zeit mit dem Ausfüllen eines Word-Dokuments von 2007 zu verschwend
 
 Wie bei jeder guten Behörde heißt es auch bei den Scammern: **„Formularpflicht!“** Dr. Antonio zeigt sich zwar verständnisvoll, aber letztlich kompromisslos. Kein Word-Dokument, keine 995.000 Euro. Also soll Hugo jetzt extra in den Copyshop dackeln, das Dokument ausdrucken, ausfüllen, einscannen oder fotografieren und dann zurückmailen.  
 
-> Sehr geehrter Herr Scholz,  
+> Sehr geehrter Herr S cholz,  
 >   
 > vielen Dank für Ihre Nachricht. Ich verstehe Ihre Situation und die momentanen Umstände vollkommen.  
 >   

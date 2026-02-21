@@ -61,7 +61,7 @@ Gesagt, getan. Hugo schrieb höflich zurück an **Prof. Dr. Karla Barros**, die 
 > Und bevor ich irgendwas ausfülle, würde ich gern sicher sein, dass das hier wirklich von der Europäischen Union kommt.  
 >   
 > Mit freundlichen Grüßen  
-> Scholz  
+> S cholz  
 > Wanne-Eickel  
 > BMW-Club Abteilung „Recht & Rostschutz“  
 

@@ -187,7 +187,7 @@ Während Hugo also überlegt, wie er mit diesem „Geheimprojekt“ umgehen soll
 
 > Hallo Hugo,  
 >   
->  Ich habe Ihre Informationen an den Anwalt weitergeleitet, der die rechtlichen Dokumente vorbereiten wird, die Ihr Recht als nächster Verwandter meines verstorbenen Mandanten Dr. Thomas J. Scholz bestätigen. Bitte beachten Sie, dass diese Transaktion gemäß den Gesetzen sowohl des lokalen als auch des internationalen Rechts durchgeführt wird. Der Anwalt hat versprochen, die Vorbereitung der Dokumente bald abzuschließen.  
+>  Ich habe Ihre Informationen an den Anwalt weitergeleitet, der die rechtlichen Dokumente vorbereiten wird, die Ihr Recht als nächster Verwandter meines verstorbenen Mandanten Dr. Thomas J. S cholz bestätigen. Bitte beachten Sie, dass diese Transaktion gemäß den Gesetzen sowohl des lokalen als auch des internationalen Rechts durchgeführt wird. Der Anwalt hat versprochen, die Vorbereitung der Dokumente bald abzuschließen.  
 >   
 > Der Anwalt berechnet £18.300,00, die ich selbst übernehmen werde. Ich werde ihn sofort kontaktieren und ihm eine Anzahlung von £10.000,00 überweisen. Den Rest werde ich bezahlen, wenn er die Dokumente fertiggestellt hat. Sobald er die Dokumente abgeschlossen hat, werde ich Ihnen eine Kopie davon sowie an die Courtage Trust Bank senden, um Sie als den letzten überlebenden Verwandten und nächsten Angehörigen unseres verstorbenen Mandanten zu präsentieren.  
 >    
@@ -238,7 +238,7 @@ Er hat damit seine Schuldigkeit getan und er verweist uns an die Bank und hat so
 
 > Hallo Hugo,  
 >   
-> ich hoffe, alles ist gut. Der Anwalt hat die Vorbereitung der Dokumente abgeschlossen, und ich habe eine Kopie der Dokumente an die COURTAGE TRUST BANK weitergeleitet, die Sie als den einzigen überlebenden Verwandten meines verstorbenen Mandanten Dr. Thomas .J. Scholz. Ich habe auch eine Kopie dieser Dokumente an Sie angehängt, zur Ansicht. Die Bank könnte Sie bitten, eine Kopie zur Bestätigung zu senden, ob Sie der rechtmäßige Begünstigte sind.  
+> ich hoffe, alles ist gut. Der Anwalt hat die Vorbereitung der Dokumente abgeschlossen, und ich habe eine Kopie der Dokumente an die COURTAGE TRUST BANK weitergeleitet, die Sie als den einzigen überlebenden Verwandten meines verstorbenen Mandanten Dr. Thomas .J. S cholz. Ich habe auch eine Kopie dieser Dokumente an Sie angehängt, zur Ansicht. Die Bank könnte Sie bitten, eine Kopie zur Bestätigung zu senden, ob Sie der rechtmäßige Begünstigte sind.  
 >   
 > Ich habe den Anwalt auch gebeten, die COURTAGE TRUST BANK anzurufen, nachdem ich die Dokumente an sie geschickt habe, um zu erklären, dass Sie der einzige überlebende Verwandte meines verstorbenen Mandanten sind. Er hat ihnen mitgeteilt, dass Sie aufgrund Ihrer Krankheit nicht nach England reisen können, um Ansprüche auf das Gut zu erheben. Sie wissen bereits, dass sich Geld in der Sendung befindet, da ich das Geld als Sendung in einem Sicherheitsschließfach bei der COURTAGE TRUST BANK hinterlegt habe.  
 >   
@@ -262,7 +262,7 @@ Er hat damit seine Schuldigkeit getan und er verweist uns an die Bank und hat so
 >   
 > Kontaktperson: Herr MacQuoid Taylor  
 >   
-> Wenn Sie die Bank per E-Mail kontaktieren möchten, schlage ich vor, dass Sie die Bank wie folgt per E-Mail kontaktieren. COURTAGE TRUST BANK (SWINDON, ENGLAND, VEREINIGTES KÖNIGREICH), Mein Name ist Scholz, ich schreibe diese E-Mail im Zusammenhang mit den Geldern meines verstorbenen Verwandten, mit dem Namen Dr. Thomas .J. Scholz, die sich bei Ihrer Bank THE COURTAGE TRUST BANK befinden. Ich möchte ein Online-Konto bei Ihrer Bank eröffnen, um Zugang zu den Geldern meines verstorbenen Verwandten als seinem einzigen überlebenden Verwandten und nächsten Angehörigen zu haben. Ich würde mich sehr freuen, wenn meine E-Mail eine Antwort im Hinblick auf meine Anfrage erhalten würde  
+> Wenn Sie die Bank per E-Mail kontaktieren möchten, schlage ich vor, dass Sie die Bank wie folgt per E-Mail kontaktieren. COURTAGE TRUST BANK (SWINDON, ENGLAND, VEREINIGTES KÖNIGREICH), Mein Name ist S cholz, ich schreibe diese E-Mail im Zusammenhang mit den Geldern meines verstorbenen Verwandten, mit dem Namen Dr. Thomas .J. S cholz, die sich bei Ihrer Bank THE COURTAGE TRUST BANK befinden. Ich möchte ein Online-Konto bei Ihrer Bank eröffnen, um Zugang zu den Geldern meines verstorbenen Verwandten als seinem einzigen überlebenden Verwandten und nächsten Angehörigen zu haben. Ich würde mich sehr freuen, wenn meine E-Mail eine Antwort im Hinblick auf meine Anfrage erhalten würde  
 
 #### Unser Dank an Haskel
 
@@ -337,7 +337,7 @@ Liefern wir!
 > Sollte es noch irgendwelche Fragen geben, lassen Sie es mich bitte wissen. Ich stehe bereit!  
 >   
 > Beste Grüße,  
-> Scholz  
+> S cholz  
 >   
 > P.S.: Ich hoffe, es macht Ihnen nichts aus, dass ich noch keine schicke Krawatte für den Anlass trage, ich bin mehr der Typ für T-Shirts. 😉  
 
@@ -377,7 +377,7 @@ Auch unseren Haskel antworten wir!
 > Sie sind echt die beste Unterstützung, die man haben kann, tausend Dank dafür!    
 >   
 > Grüße aus’m Pott,    
-> Scholz    
+> S cholz    
 >   
 > P.S.: Bier und Currywurst geht auf mich, wenn das Ding durch ist. Ohne Witz, Sie haben’s sich verdient! 😉  
 

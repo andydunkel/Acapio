@@ -57,15 +57,15 @@ Natürlich antworten wir uns fragen mal genauer nach, was es mit der Sache auf s
 > BMW-Club Wanne-Eickel  
 
 
-## 🕵️‍♂️📜 Der „Anwalt“ legt nach: Ein verstorbener Super-Scholz aus Barcelona
+## 🕵️‍♂️📜 Der „Anwalt“ legt nach: Ein verstorbener Super-S cholz aus Barcelona
 
-Und jetzt wird’s richtig cineastisch: Herr „Nicolas“ schickt Hugo eine komplette Lebensgeschichte eines gewissen **David M. Scholz**, angeblich Immobilienmakler in Barcelona, Doppelstaatler, Millionär und, offenbar, ein völlig unbekannter Cousin fünften Grades. Laut Nicolas reicht schon der gleiche Nachname, um eine „gemeinsame Abstammung“ zu konstruieren. Klar, denn *Scholz* ist ja ein absolut seltener Name, fast so selten wie „Müller“ oder „Brötchen“.
+Und jetzt wird’s richtig cineastisch: Herr „Nicolas“ schickt Hugo eine komplette Lebensgeschichte eines gewissen **David M. S cholz**, angeblich Immobilienmakler in Barcelona, Doppelstaatler, Millionär und, offenbar, ein völlig unbekannter Cousin fünften Grades. Laut Nicolas reicht schon der gleiche Nachname, um eine „gemeinsame Abstammung“ zu konstruieren. Klar, denn *S cholz* ist ja ein absolut seltener Name, fast so selten wie „Müller“ oder „Brötchen“.
 
 Besonders schön: Die Einlage soll **10,2 Millionen Euro** wert sein. Keine Ahnung, warum diese ganzen Super-Millionäre immer allein sterben und ausgerechnet Hugo aus Wanne-Eickel als Erben auserkoren haben. Vielleicht, weil er so vertrauenswürdig wirkt, wenn er im BMW-Club sein Stauder hält.
 
-Natürlich möchte der „Anwalt“ jetzt wieder persönliche Daten: Name, Adresse, Telefonnummer, Geburtstag, Familienstand, Beruf… also alles, was ein Scam-Formular so braucht. Hugo bleibt skeptisch, denn der einzige Scholz, den er aus Spanien kennt, ist der Olaf, und der kommt höchstens zum EU-Gipfel rüber.
+Natürlich möchte der „Anwalt“ jetzt wieder persönliche Daten: Name, Adresse, Telefonnummer, Geburtstag, Familienstand, Beruf… also alles, was ein Scam-Formular so braucht. Hugo bleibt skeptisch, denn der einzige S cholz, den er aus Spanien kennt, ist der Olaf, und der kommt höchstens zum EU-Gipfel rüber.
 
-> Sehr geehrter Herr Scholz,  
+> Sehr geehrter Herr S cholz,  
 >   
 > vielen Dank für Ihre Antwort auf meine E-Mail. Nach meinen Recherchen  
 > bin ich zuversichtlich, dass Sie die richtige Person sind, um eine  
@@ -77,7 +77,7 @@ Natürlich möchte der „Anwalt“ jetzt wieder persönliche Daten: Name, Adres
 > weder gegen geltendes Recht noch gegen die Bestimmungen des  
 > Einlageninstituts verstoßen.  
 >   
-> 1. Name des Verstorbenen (Einleger): David M. Scholz  
+> 1. Name des Verstorbenen (Einleger): David M. S cholz  
 > 2. Geschlecht: Männlich  
 > 3. Geburtsdatum: 11. November 1942  
 > 4. Wohnanschrift: Carrer del Bruc, 28, 08010 Barcelona, ​​Spanien  
@@ -129,7 +129,7 @@ Natürlich möchte Nicolas jetzt die komplette Datenladung: Name, Adresse, Gebur
 > vielen Dank für Ihre ausführliche Nachricht.  
 >   
 > Bevor ich jedoch irgendwelche persönlichen Daten herausgebe, benötige ich bitte einen konkreten Nachweis, dass diese Angelegenheit tatsächlich echt ist.  
-> Gibt es irgendein offizielles Dokument, eine Vollmacht, eine Bestätigung der Versicherung oder einen Nachweis über diesen angeblichen „David M. Scholz“, aus dem hervorgeht, warum ausgerechnet ich kontaktiert werde?  
+> Gibt es irgendein offizielles Dokument, eine Vollmacht, eine Bestätigung der Versicherung oder einen Nachweis über diesen angeblichen „David M. S cholz“, aus dem hervorgeht, warum ausgerechnet ich kontaktiert werde?  
 >   
 > Ohne einen solchen Nachweis kann und werde ich keine persönlichen Informationen übermitteln.  
 > Ich bitte um Verständnis.  
@@ -141,15 +141,15 @@ Natürlich möchte Nicolas jetzt die komplette Datenladung: Name, Adresse, Gebur
 
 Nicolas legt los, und liefert jetzt sogar *Dokumente*. Ein Todeszertifikat aus **China**, eine Einlagerungsurkunde aus **Barcelona** und ein mysteriöses „Deposit Certificate“, das aussieht, als hätte jemand bei Windows 95 die Cliparts neu entdeckt. 
 
-Besonders spannend: Der angeblich verstorbene Spanier **David M. Scholz** ist laut Urkunde im Jahr 2008 bei einem Erdbeben in Sichuan, China gestorben, während er gleichzeitig als spanischer Immobilienmakler firmierte.
+Besonders spannend: Der angeblich verstorbene Spanier **David M. S cholz** ist laut Urkunde im Jahr 2008 bei einem Erdbeben in Sichuan, China gestorben, während er gleichzeitig als spanischer Immobilienmakler firmierte.
 
-Wenn das kein globetrottender Vielseitigkeits-Scholz war.
+Wenn das kein globetrottender Vielseitigkeits-S cholz war.
 
 Natürlich sind die PDFs voller Schreibfehler, Fantasie-Adressen, wild zusammenkopierter Stempel und Unterschriften, die aussehen wie vom Praktikanten auf dem ersten Wacom-Tablet-Kurs. Kurz gesagt: Wer diese Dokumente ernst nimmt, glaubt wahrscheinlich auch, dass Waldi der Dackel mit Bitcoins handelt.
 
 Die Scammer versuchen damit aber nur eines: Seriös wirken. Spoiler: Tun sie nicht.
 
-> Guten Morgen Scholz  
+> Guten Morgen S cholz  
 >   
 > Ich war heute Morgen beim Gericht, um einige der erforderlichen  
 > Dokumente zur Einsichtnahme abzuholen.  
@@ -200,7 +200,7 @@ Nachdem Nicolas ihm die hochseriösen Weltklasse-Dokumente geschickt hat, Todesu
 >   
 > Darum hab ich jetzt ’ne ganz einfache Frage:  
 > Darf ich so was überhaupt?  
-> Also… kann so ein normaler Typ wie ich einfach so eine große Einlage oder Versicherung aus dem Ausland annehmen? Ich will da nix falsch machen und nachher Ärger kriegen, nur weil irgendein Scholz in Spanien oder China gestorben ist.  
+> Also… kann so ein normaler Typ wie ich einfach so eine große Einlage oder Versicherung aus dem Ausland annehmen? Ich will da nix falsch machen und nachher Ärger kriegen, nur weil irgendein S cholz in Spanien oder China gestorben ist.  
 >   
 > Und wie läuft das genau?  
 > Ist das kompliziert?  
@@ -227,7 +227,7 @@ Und dann legt Nicolas richtig los. In einer Mail, die länger ist als mancher Mi
 
 Das Highlight: Er suche „**ausschließlich nach einer Person mit Reife und der Bereitschaft zur Zusammenarbeit**“. Ein Satz, der bei Hugo ungefähr so viel Sinn ergibt wie ein Regenschirm in der Badewanne.
 
-Und weil’s noch nicht kurios genug ist, fordert Nicolas absolute Stille: Hugo solle „**diese Angelegenheit streng vertraulich behandeln**“, denn wenn irgendjemand anderes den Namen Scholz trägt (Spoiler: viele), könnte das die „**reibungslosen Abläufe der Transaktion gefährden**“.
+Und weil’s noch nicht kurios genug ist, fordert Nicolas absolute Stille: Hugo solle „**diese Angelegenheit streng vertraulich behandeln**“, denn wenn irgendjemand anderes den Namen S cholz trägt (Spoiler: viele), könnte das die „**reibungslosen Abläufe der Transaktion gefährden**“.
 
 Zum Abschluss kommt die obligatorische Daten-Abfrage, *VOLLSTÄNDIGER NAME, STAATSBÜRGERSCHAFT, ADRESSE, TELEFONNUMMERN, GEBURTSDATUM, BERUF*, also genau die Art Informationen, die man einem wildfremden Mann mit Gmail-Adresse natürlich sofort zuschicken sollte. Hugo bleibt skeptisch. Wir auch.
 
@@ -240,7 +240,7 @@ Gerne! Hier ist ein sarkastischer Blog-Absatz zur neuen Wendung, inklusive dem a
 
 Und dann kommt endlich das, worauf jeder gute Scam wartet: **ein offiziös aussehendes PDF**, das Hugo ausdrucken, unterschreiben und nach Barcelona faxen soll. Man könnte fast glauben, es stammt aus einer Behörde, wenn man nicht lesen könnte. In dem Schreiben erklärt Rechtsanwalt Nicolas C. Ortells, er habe „**meine Recherchen und Untersuchungen abgeschlossen**“ und präsentiere nun Hugo als Erben der sagenhaften 10-Millionen-Euro-Einlage. Natürlich sei dies alles nur Formsache, denn die Einzelfirma „Gtrust Seguridad“ brenne nur darauf, endlich Hugos Daten zu bekommen.
 
-Besonders charmant: Hugo wird belehrt, dass alles „**streng vertraulich**“ zu behandeln sei, weil ja sonst plötzlich ein anderer Scholz, und davon gibt es nun wirklich ein paar, ebenfalls Erbschaftsansprüche geltend machen könnte. Und natürlich soll Hugo sofort das beigefügte Formular unterschreiben und zurückschicken. Was fehlt? Richtig: Nur noch die Blutgruppe und die Kontonummer von Waldi, dem Dackel.
+Besonders charmant: Hugo wird belehrt, dass alles „**streng vertraulich**“ zu behandeln sei, weil ja sonst plötzlich ein anderer S cholz, und davon gibt es nun wirklich ein paar, ebenfalls Erbschaftsansprüche geltend machen könnte. Und natürlich soll Hugo sofort das beigefügte Formular unterschreiben und zurückschicken. Was fehlt? Richtig: Nur noch die Blutgruppe und die Kontonummer von Waldi, dem Dackel.
 
 ![](/posts/2025-11-13_nicolas-ortels/formular.webp)
 
@@ -303,11 +303,11 @@ Besonders charmant: Hugo wird belehrt, dass alles „**streng vertraulich**“ z
 
 Nachdem Nicolas nun unbedingt wollte, dass Hugo sein „amtliches“ Freigabeformular nach Barcelona schickt, entscheidet sich Hugo erst mal für die **vernünftige Ruhrpott-Variante**: *nachfragen*. Denn bevor der gute Mann aus Wanne-Eickel irgendwas unterschreibt, druckt oder faxed, will er sicher sein, dass er nicht am Ende den falschen Knopf drückt und plötzlich für irgendeinen spanischen Tresor Mietgebühren zahlt.
 
-Also schreibt Hugo ganz höflich an *info@gtseguridad.com* und fragt nach, ob das Formular dort wirklich hinterlegt ist, ob er noch irgendwas braucht, und ob das Ganze überhaupt stimmt, schließlich kennt er weder den verstorbenen David M. Scholz noch hat er jemals etwas mit Spanien zu tun gehabt, außer dass er einmal Sangria bestellt hat.
+Also schreibt Hugo ganz höflich an *info@gtseguridad.com* und fragt nach, ob das Formular dort wirklich hinterlegt ist, ob er noch irgendwas braucht, und ob das Ganze überhaupt stimmt, schließlich kennt er weder den verstorbenen David M. S cholz noch hat er jemals etwas mit Spanien zu tun gehabt, außer dass er einmal Sangria bestellt hat.
 
 > Sehr geehrte Damen und Herren,  
 >   
-> ich habe von Herrn Nicolás C. Ortells ein Schreiben bekommen, in dem steht, dass ich als Erbe von Herrn David M. Scholz eingetragen werden soll. Er meinte, ich solle das Formular unterschrieben an Sie senden.  
+> ich habe von Herrn Nicolás C. Ortells ein Schreiben bekommen, in dem steht, dass ich als Erbe von Herrn David M. S cholz eingetragen werden soll. Er meinte, ich solle das Formular unterschrieben an Sie senden.  
 >   
 > Bevor ich das mache, wollte ich nur kurz etwas klären, weil ich sowas noch nie gemacht habe:  
 >   
@@ -338,7 +338,7 @@ Besonders bemerkenswert: Oscar gibt eine neue E-Mail an,
 >   
 > Wir haben Ihre E-Mail erhalten und können sie bestätigen. Herr Nicolás  
 > C. Ortells ist der eingetragene Bevollmächtigte unseres verstorbenen  
-> Mandanten (David M. Scholz). Wir verwalten dessen Erbschaft und haben  
+> Mandanten (David M. S cholz). Wir verwalten dessen Erbschaft und haben  
 > Herrn Nicolás C. Ortells persönlich beauftragt, den Begünstigten dem  
 > Treuhänder vorzustellen, damit dieser die Gelder beanspruchen kann.  
 > Andernfalls fallen sie an den Staat. Daher ist schnelles Handeln  
@@ -353,7 +353,7 @@ Besonders bemerkenswert: Oscar gibt eine neue E-Mail an,
 > Bestätigung/Freigabe  
 > Operations (HOP)  
 
-Perfekt, dann gibt’s jetzt den passenden Blog-Absatz zur *Hugo-Scholz-Kringel-Signatur*, der den Moment herrlich einfängt:
+Perfekt, dann gibt’s jetzt den passenden Blog-Absatz zur *Hugo-S cholz-Kringel-Signatur*, der den Moment herrlich einfängt:
 
 ---
 
@@ -398,7 +398,7 @@ Wir leiten die Formulare an Herrn Ortels weiter und sehen dann weiter.
 Und als die Scammer merken, dass Hugo immer noch fröhlich mitspielt, zünden sie die nächste Stufe: ein angebliches Formular des **„Ministerio de Justicia“**, das aussieht, als wäre es von einem gelangweilten Schüler in der Computer-AG zusammengeklöppelt worden. Links ein Clown-Notar-Stempel, rechts eine pixelige Spanienflagge, oben drüber ein Titel in einer Schriftart, die sogar WordArt peinlich wäre.
 
 Nicolas verlangt nun, Hugo solle dieses Meisterwerk ausfüllen, unterschreiben und zurückschicken, Zweck der Erklärung:
-**„Freigabe des Depots des verstorbenen David M. Scholz an Scholz.“**
+**„Freigabe des Depots des verstorbenen David M. S cholz an S cholz.“**
 
 > Gemäß den Vorgaben der Depotbank finden Sie im Anhang das Formular zur  
 > Beantragung der eidesstattlichen Erklärung. Bitte füllen Sie es aus und  
@@ -406,7 +406,7 @@ Nicolas verlangt nun, Hugo solle dieses Meisterwerk ausfüllen, unterschreiben u
 > kann.  
 >   
 > Als Zweck der Erklärung geben Sie bitte Folgendes an: Freigabe des  
-> Depots des verstorbenen David M. Scholz an Scholz.  
+> Depots des verstorbenen David M. S cholz an S cholz.  
 >   
 > Vielen Dank.  
 > Nicolas.  

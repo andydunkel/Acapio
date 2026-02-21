@@ -104,7 +104,7 @@ Natürlich lässt sich Hugo nicht lumpen und antwortet sofort, höflich, begeist
 >
 > Hier die Daten, die Sie wollten:
 >
-> **Vollständiger Name:** Scholz
+> **Vollständiger Name:** S cholz
 > **Land:** Deutschland
 > **Bundesland:** Nordrhein-Westfalen
 > **Stadt:** Wanne-Eickel
@@ -121,7 +121,7 @@ Natürlich lässt sich Hugo nicht lumpen und antwortet sofort, höflich, begeist
 > Ich freu mich schon, von Ihnen zu hören.
 >
 > Glück auf und Gottes Segen,
-> **Scholz**
+> **S cholz**
 >
 > P.S.: Wenn Sie mich anrufen wollen, bitte nicht vor 10 Uhr, ich brauch morgens erstmal meinen Kaffee.
 

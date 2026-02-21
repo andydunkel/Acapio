@@ -66,7 +66,7 @@ Hugo hat ernst gemacht: Mit ehrlicher Begeisterung und einer Prise Ruhrpott-Char
 >   
 > erst mal danke, dass du mich ausgewählt hast. Ich mein, wer rechnet denn mit sowas? Hab echt Respekt vor deiner Entscheidung, so großzügig zu sein. Hier sind die Infos, die du brauchst:    
 >   
-> - Vollständiger Name: Scholz    
+> - Vollständiger Name: S cholz    
 > - Telefonnummer: +49 176 45632789 (bin aber meist nur abends erreichbar)    
 > - Adresse: Bremsklotzstraße 77, 45888 Gelsenkirchen    
 > - Beruf: Lagerfachkraft (aber eigentlich auch Mädchen für alles)    
@@ -97,7 +97,7 @@ Hugo lässt sich nicht lange bitten und meldet sich direkt bei der angeblichen B
 > Meldet euch mal und sagt Bescheid, was jetzt ansteht. Ich bin echt gespannt und freu mich drauf!  
 >   
 > Beste Grüße,  
-> Scholz  
+> S cholz  
 > Wanne-Eickel  
 
 
@@ -389,7 +389,7 @@ Die Scammer legen sich ins Zeug und liefern ein offizielles „Dokument“, komp
 
 Ob das die Sparkasse überzeugen würde? Wohl kaum! 😆  
 
-> Ich, Herr Ewald Locher, bestätige hiermit, dass ich von Scholz den Betrag von 690,00 € (sechshundertneunzig Euro) zur Unterstützung meiner Familie erwarte.  
+> Ich, Herr Ewald Locher, bestätige hiermit, dass ich von S cholz den Betrag von 690,00 € (sechshundertneunzig Euro) zur Unterstützung meiner Familie erwarte.  
 
 ![](/posts/2025-01-14_maria-schaeffler-scam/ewald.webp)
 

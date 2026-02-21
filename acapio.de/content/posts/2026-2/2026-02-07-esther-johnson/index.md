@@ -123,7 +123,7 @@ Auf die harmlose Frage nach der Herkunft der E-Mail folgt eine Erklärung, die i
 
 Begleitet wird das Ganze von der üblichen Versicherung absoluter Wahrhaftigkeit, einer ominösen Vorgängerin mit „bösen Absichten“ und dem Hinweis, dass persönliche Daten nur dazu dienen, sicherzustellen, dass Hugo kein Roboter ist. Die Millionen bleiben weiter im Nebel, aber immerhin ist jetzt klar: **Der liebe Gott arbeitet offenbar mit Tabellenkalkulation.** 🤡📧
 
-> Dear Friend in Christ Jesus,  Hugo Scholz.   
+> Dear Friend in Christ Jesus,  Hugo S..   
 >   
 > Thanks once again for giving me the opportunity to interact with you in this regard and also for your expedite response.   
 >   
@@ -297,8 +297,51 @@ Auf Hugos konkrete Fragen nach Kanzleiadresse und Ablauf wird natürlich geschwi
 
 ### Das Bundes-Huhn schlägt zu 🐔🪪
 
-Hugo liefert brav, na ja, fast. Statt sensibler Realdaten servieren wir dem AOL-Anwalt ein paar frei erfundene Infos und ein echtes Meisterwerk der Dokumentenfälschung: den offiziellen Personalausweis von Hugo Tadeus Scholz, geboren natürlich am 1. April. Wer genau hinsieht, erkennt auch sofort das neue hoheitliche Wappentier im Hintergrund: Hier wacht nicht mehr der stolze deutsche Bundesadler, sondern ein prächtiges, grünes Huhn. 🐓
+Hugo liefert brav, na ja, fast. Statt sensibler Realdaten servieren wir dem AOL-Anwalt ein paar frei erfundene Infos und ein echtes Meisterwerk der Dokumentenfälschung: den offiziellen Personalausweis von Hugo Tadeus S cholz, geboren natürlich am 1. April. Wer genau hinsieht, erkennt auch sofort das neue hoheitliche Wappentier im Hintergrund: Hier wacht nicht mehr der stolze deutsche Bundesadler, sondern ein prächtiges, grünes Huhn. 🐓
 
 ![](/posts/2025-02-07-esther-johnson/hugo_ausweis.webp)
 
 Ob das dem "Federal High Court" auffällt? Wohl kaum. Für den Scam-Ordner reicht das allemal. Mal sehen, welche fantastischen "Gebühren" der Anwalt uns als Nächstes in Rechnung stellt! 💸
+
+---
+
+## Das Bundes-Huhn ist genehmigt – und die Kasse klingelt 💸🐓
+
+Es ist offiziell: „Barrister John Edward“ hat sich unseren Ausweis mit dem majestätischen Bundes-Huhn und dem Ausstellungsdatum 1. April ganz genau angesehen – und für absolut legitim befunden. Ein echtes Adlerauge, dieser Spitzenanwalt! 🦅🤡
+
+Und nun, meine Damen und Herren, fällt endlich der Vorhang für den eigentlichen Akt dieses Dramas: **Die Vorabgebühr**. Nach angeblich „intensiven Recherchen“ beim „High Court of London“ kosten uns die beiden magischen Fantasie-Dokumente läppische **1.500 Euro**. 
+
+> Attention:  
+>   
+> The required information is hereby confirmed.  
+>   
+> Sequel to  my findings from the High Court of London/UK this afternoon, the said Affidavit and Change of Ownership Certificate is going to cost you (€1,500) to enable me secure those two documents for immediate release of the said US$6.5million Dollars in to your nominated bank account without further delay .  
+>   
+> I shall wait to hear from you soonest.  
+>   
+> Yours in service.  
+> Attorney J. Edward  
+>   
+> Managing Partner  
+>   
+> John Edward &Co. Chartered.  
+
+Merke: Man zahlt in Euro an ein britisches Gericht, um US-Dollar auszulösen. Ergibt im Scammer-Universum natürlich völlig Sinn! Die 6,5 Millionen sind angeblich greifbar nah, Hugo muss nur mal eben kurz das Sparschwein schlachten. Das Betrugs-Bingo hat offiziell die Gewinnzone der Betrüger erreicht. 🎯💳
+
+---
+
+### Keine Papiere, keine Kohle 🛑📜
+
+Hugo ist zwar ein hilfsbereiter Dackelfreund, aber ganz sicher nicht auf den Kopf gefallen. Einfach mal so 1.500 Euro an eine AOL-Adresse überweisen, nur weil jemand „High Court“ in die Tastatur tippt? Nicht mit Hugo. Er drückt gepflegt auf die Bremse und verlangt das, was jeder hart arbeitende Mensch verlangen würde: **Zeig mir die Papiere und schick mir eine ordentliche Rechnung!**
+
+> Dear Mr. Edward,  
+>   
+> thank you for the email.  
+>   
+> I am very surprised about the 1,500 Euro. Mrs. Johnson did not tell me that I have to pay my own money first. I am just a normal worker and this is a lot of money for me.  
+>   
+> I cannot just send 1,500 Euro without seeing any official papers. Can you please send me a copy of the documents first? I want to see what I am paying for.  
+>   
+> Also, I need an official bill from your office or the court. I hope you understand this.  
+>   
+> Regards, Hugo  

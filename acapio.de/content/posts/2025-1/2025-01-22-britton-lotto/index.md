@@ -149,7 +149,7 @@ Aber Hugo wäre nicht Hugo, wenn er sich nicht für die praktischere Variante en
 > Wat muss ich jetzt machen? Soll ich euch die 410 Euro schicken oder wie läuft dat ab? Macht dat ma einfach, ich will nich noch mehr Papierkram. Hauptsache, die Kohle kommt bald!  
 > 
 > Grüße ausm Pott,  
-> Scholz  
+> S cholz  
 
 
 ## Wir bekommen eine Antwort
@@ -458,7 +458,7 @@ Plötzlich mischt sich unser alter Bekannter Michael Britton wieder ein, anschei
 **2) Apple-Geschenkkarten**, Klassische Masche, weil die Karten leicht weiterverkauft werden können. 🍏  
 **3) Bitcoin**, Komplett irreversibel, Geld futsch, Scammer happy. 💸  
 
-> Sehr geehrter Scholz,  
+> Sehr geehrter S cholz,  
 >   
 > Die Bank hat mich heute Morgen kontaktiert und Sie wissen, dass sie Ihre Daten bereits hat. Was Sie jetzt tun müssen, ist, eine andere Option zu finden, mit der Sie die 950 Euro jetzt senden können, damit Ihnen die Bank Ihre Spende zustellt. Sie können versuchen, eine dieser Optionen zum Senden zu verwenden, und ich werde Ihnen helfen, die Gebühr anzunehmen und sie an die Bank zu senden.  
 >   

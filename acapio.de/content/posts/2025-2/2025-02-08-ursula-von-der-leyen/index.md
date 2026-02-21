@@ -11,12 +11,12 @@ categories:
   - "Scam"
 thumbnail: "animals.webp"
 url: "posts/2025-02-08_ursula-von-der-leyen"
-summary: "Millionen von Ursula von der Leyen? Klingt verdächtig! Unser Ruhrpott-Original Scholz nimmt den neusten Scam unter die Lupe, mit Charme, Witz und ’ner ordentlichen Portion Skepsis! 😆💸"
+summary: "Millionen von Ursula von der Leyen? Klingt verdächtig! Unser Ruhrpott-Original S cholz nimmt den neusten Scam unter die Lupe, mit Charme, Witz und ’ner ordentlichen Portion Skepsis! 😆💸"
 ---
 
 Stell dir vor, du sitzt gemütlich mit 'nem Pilsken vor’m Rechner, und plötzlich ploppt ’ne E-Mail auf: **„Herzlichen Glückwunsch! Sie haben 3 Millionen Euro gewonnen!“**, und das angeblich direkt von Ursula von der Leyen! Klingt zu schön, um wahr zu sein, oder? 
 
-Genau das hat sich auch **Scholz aus Wanne-Eickel** gedacht. Mit seinem unnachahmlichen Ruhrpott-Charme geht er der Sache auf den Grund. Was dahinter steckt und ob Hugo am Ende wirklich reich wird, das erfährst du hier! 🚀😆
+Genau das hat sich auch **S cholz aus Wanne-Eickel** gedacht. Mit seinem unnachahmlichen Ruhrpott-Charme geht er der Sache auf den Grund. Was dahinter steckt und ob Hugo am Ende wirklich reich wird, das erfährst du hier! 🚀😆
 
 
 ## Die E-Mail von Ursel (ursulaleyen@rediffmail.com)

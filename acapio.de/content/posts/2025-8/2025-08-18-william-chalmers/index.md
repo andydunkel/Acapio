@@ -18,7 +18,7 @@ Stellen Sie sich vor: Sie bekommen eine E-Mail vom Finanzchef der Lloyds Bank. G
 
 ## Die E-Mail
 
-Die erste E-Mail war mal wieder ein echter Roman. 📚 Ganze Absätze voller tragischer Details über einen gewissen „Garry Scholz“, der angeblich Millionen bei der Bank gebunkert hat, dann gestorben ist und, welch Zufall, keinen Erben hinterlassen hat. Aber hey, kein Problem, da kommt der gute William Chalmers von der Lloyds Bank ins Spiel: Ich solle mich einfach als Verwandter ausgeben, das Geld einstreichen und wir teilen dann brüderlich 50/50.
+Die erste E-Mail war mal wieder ein echter Roman. 📚 Ganze Absätze voller tragischer Details über einen gewissen „Garry S cholz“, der angeblich Millionen bei der Bank gebunkert hat, dann gestorben ist und, welch Zufall, keinen Erben hinterlassen hat. Aber hey, kein Problem, da kommt der gute William Chalmers von der Lloyds Bank ins Spiel: Ich solle mich einfach als Verwandter ausgeben, das Geld einstreichen und wir teilen dann brüderlich 50/50.
 
 Kurz gesagt: Viel Text, wenig Inhalt. Hätte er auch in einem Satz schreiben können:
 **„Hallo, ich habe 4 Millionen, willst du die Hälfte?“**
@@ -56,7 +56,7 @@ Perfekt 👍 Hier ein Vorschlag, wie wir Hugos Antwortmail als Zitat in den Blog
 
 ### Hugo wittert das Schnäppchen
 
-Als Hugo die Erklärung las, konnte er nur den Kopf schütteln. Ein Millionen-Erbe nur wegen des gleichen Nachnamens? Das klingt eher nach einer Payback-Aktion im Supermarkt: „Kauf dir ’nen Scholz und nimm vier Millionen gratis dazu!“ Hugo war jedenfalls baff, er hatte ja schon einiges erlebt, aber dass sein Familienname plötzlich zur Gelddruckmaschine wird, das war auch für ihn neu.
+Als Hugo die Erklärung las, konnte er nur den Kopf schütteln. Ein Millionen-Erbe nur wegen des gleichen Nachnamens? Das klingt eher nach einer Payback-Aktion im Supermarkt: „Kauf dir ’nen S cholz und nimm vier Millionen gratis dazu!“ Hugo war jedenfalls baff, er hatte ja schon einiges erlebt, aber dass sein Familienname plötzlich zur Gelddruckmaschine wird, das war auch für ihn neu.
 
 Zur Sicherheit schrieb er William nochmal zurück, diesmal ganz direkt:
 

@@ -139,7 +139,7 @@ Hugo zeigt sich kooperativ, aber nicht naiv. Ein paar harmlose Basisdaten gibt e
 > hier die infos, die ich im moment geben kann:  
 >   
 > vollständiger name:  
-> Scholz  
+> S cholz  
 >   
 > beruf:  
 > lagerarbeiter / fahrer  

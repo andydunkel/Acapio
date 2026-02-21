@@ -138,7 +138,7 @@ Natürlich wird streng gewarnt: „Fordern Sie nicht, dass die Gebühren vom Gew
 > 24 hours support.  
 >    
 >    
-> Freundliche Aufmerksamkeit: Herr. Scholz,  
+> Freundliche Aufmerksamkeit: Herr. S cholz,  
 >    
 >   
 > Willkommen bei der CAIXA BANK SA. CaixaBank wird von der spanischen Abteilung für Banken und Versicherungen (DOBI) reguliert und geregelt. Dies sind die Finanzinstitute, die alle finanziellen Aktivitäten regeln. Was auch immer Sie für Ihre Überweisung benötigen, wir haben eine passende Lösung, von international über Privatbanken bis hin zu Hypotheken transfer von gewinnmitteln per google award.  
@@ -312,7 +312,7 @@ Jetzt wird’s ernst: Herr Riera vom „internationalen Überweisungsmanagement�
 Natürlich geht es wieder um die **495 Euro**, die angeblich den Weg nach Spanien (oder Italien, man weiß es nicht mehr so genau) finden sollten. Und weil das Ganze „dringend“ ist, will man Hugo nun sogar **neue Bankdaten** geben, schließlich läuft ein globaler Konzern wie Google nicht mit einem einzigen Konto.
 
 > Guten Tag,   
-> Herr Scholz,  
+> Herr S cholz,  
 >   
 > wir haben noch keine Rückmeldung von Ihnen erhalten und möchten gerne wissen, ob Sie bereits mit Ihrer Bank gesprochen haben und ob die 495 Euro bereits auf Ihrem Konto eingegangen sind.  
 >   
@@ -331,7 +331,7 @@ Natürlich geht es wieder um die **495 Euro**, die angeblich den Weg nach Spanie
 
 ## Die Sparkasse hat Fragen, und Hugo auch 🏦🐶
 
-Jetzt mischt sich auch noch die Sparkasse ein! Das Geld ist plötzlich wieder da, und Hugo steht ratlos am Schalter. Die freundliche Dame hinterm Tresen hat gleich gewarnt: *„Da stimmt was nicht, Herr Scholz!“*, und verlangt eine schriftliche Bestätigung der angeblichen „CaixaBank“.
+Jetzt mischt sich auch noch die Sparkasse ein! Das Geld ist plötzlich wieder da, und Hugo steht ratlos am Schalter. Die freundliche Dame hinterm Tresen hat gleich gewarnt: *„Da stimmt was nicht, Herr S cholz!“*, und verlangt eine schriftliche Bestätigung der angeblichen „CaixaBank“.
 
 > Sehr geehrter Herr Riera,  
 >   
