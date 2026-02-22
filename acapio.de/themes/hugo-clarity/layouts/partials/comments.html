@@ -1,208 +1,130 @@
-{{ $showComments := true }}
-{{ if .Params.comments }}
-  {{ $showComments = .Params.comments }}
-{{ end }}
+<!--BEGIN COMMENTS-->
+<div class="comment-section"
+    id="comment-section"
+    data-api-url="{{ .Site.Params.comments_api_url }}"
+    data-api-key="{{ .Site.Params.comments_api_key }}">
 
-<div class="post_comments">
-  {{ if $showComments }}
-    {{ if .Site.Config.Services.Disqus.Shortname }}
-      {{ template "_internal/disqus.html" . }}
-    {{ end }}
-    {{ if .Site.Params.utterances }}
-      {{ template "partials/utterances.html" . }}
-    {{ end }}
-    {{ if .Site.Params.giscus }}
-      {{ template "partials/giscus.html" . }}
-    {{ end }}
-    <!-- add custom comments markup here -->
+    <h2 class="comment-title">Kommentare</h2>
 
-      <!--BEGIN COMMENTS-->      
-      <hr/>
-      <div class="comment-section">
-        <h2 class="comment-title">Hinterlasse einen Kommentar</h2>
-        <form id="comment-form" class="comment-form">
-            <input type="hidden" name="post_id" value="{{ .RelPermalink }}">
-            
-            <div class="comment-form-group">
-                <label for="name" class="comment-label">Name:</label>
-                <input type="text" id="name" name="name" class="comment-input" required>
-            </div>
-    
-            <div class="comment-form-group">
-                <label for="email" class="comment-label">E-Mail:</label>
-                <input type="email" id="email" name="email" class="comment-input" required>
-            </div>
-    
-            <div class="comment-form-group">
-                <label for="comment" class="comment-label">Kommentar:</label>
-                <textarea id="comment" name="comment" class="comment-textarea" required></textarea>
-            </div>
-    
-            <button type="submit" class="comment-btn">Absenden</button>
-        </form>
-    
-        <h2 class="comment-title">Kommentare</h2>
-        <div id="comments" class="comment-list"></div>
+    <div id="comments-list" class="comment-list">
+        <p class="loading">Kommentare werden geladen&#8230;</p>
     </div>
-    
-    <style>
-        /* Scoped styles to avoid affecting other parts of the page */
-        .comment-section {
-            max-width: 600px;
-            margin: 20px auto;
-            padding: 20px;
-            background: #f9f9f9;
-            border-radius: 8px;
-            box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
-            font-family: Arial, sans-serif;
-        }
-    
-        .comment-title {
-            font-size: 20px;
-            margin-bottom: 15px;
-            color: #333;
-        }
-    
-        .comment-form-group {
-            display: flex;
-            flex-direction: column;
-            margin-bottom: 12px;
-        }
-    
-        .comment-label {
-            font-weight: bold;
-            margin-bottom: 5px;
-            font-size: 14px;
-        }
-    
-        .comment-input,
-        .comment-textarea {
-            width: 100%;
-            padding: 10px;
-            border: 1px solid #ccc;
-            border-radius: 5px;
-            font-size: 16px;
-            box-sizing: border-box;
-        }
-    
-        .comment-textarea {
-            min-height: 100px;
-            resize: vertical;
-        }
-    
-        .comment-btn {
-            width: 100%;
-            padding: 10px;
-            background-color: #007BFF;
-            color: white;
-            font-size: 16px;
-            border: none;
-            border-radius: 5px;
-            cursor: pointer;
-            transition: background 0.3s;
-        }
-    
-        .comment-btn:hover {
-            background-color: #0056b3;
-        }
-    
-        .comment-list {
-            margin-top: 20px;
-        }
-    
-        .comment-item {
-            padding: 10px;
-            margin-bottom: 10px;
-            background: #ffffff;
-            border-left: 4px solid #007BFF;
-            border-radius: 5px;
-            box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);
-        }
-    
-        .comment-header {
-            font-weight: bold;
-            color: #007BFF;
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-        }
-    
-        .comment-date {
-            font-size: 12px;
-            color: #666;
-        }
-    
-        @media (max-width: 600px) {
-            .comment-section {
-                padding: 15px;
-            }
-            .comment-header {
-                flex-direction: column;
-                align-items: flex-start;
-            }
-            .comment-date {
-                margin-top: 3px;
-            }
-        }
-    </style>
-    
-    <script>
-      function loadComments() {
-          let postId = "{{ .RelPermalink }}";
-          fetch(`{{ .Site.BaseURL }}comments.php?post_id=${encodeURIComponent(postId)}`)
-              .then(response => response.json())
-              .then(data => {
-                  let commentsHtml = "";
-                  data.forEach(comment => {
-                      let date = new Date(comment.created_at);
-                      let formattedDate = date.toLocaleDateString('de-DE', {
-                          day: '2-digit',
-                          month: '2-digit',
-                          year: 'numeric'
-                      }) + " " + date.toLocaleTimeString('de-DE', {
-                          hour: '2-digit',
-                          minute: '2-digit'
-                      });
-                      commentsHtml += `
-                          <div class="comment-item">
-                              <div class="comment-header">
-                                  <span>${comment.name}</span>
-                                  <span class="comment-date">${formattedDate}</span>
-                              </div>
-                              <p>${comment.comment}</p>
-                          </div>
-                      `;
-                  });
-                  document.getElementById('comments').innerHTML = commentsHtml;
-              })
-              .catch(error => console.error('Fehler:', error));
-      }
-      
-      document.getElementById('comment-form').addEventListener('submit', function(e) {
-          e.preventDefault();
-          let formData = new FormData(this);
-      
-          fetch('{{ .Site.BaseURL }}comments.php', {
-              method: 'POST',
-              body: formData
-          })
-          .then(response => response.json())
-          .then(data => {
-              if (data.success) {
-                  loadComments();
-                  this.reset();
-              } else {
-                  alert("Fehler beim Absenden des Kommentars. Bitte versuche es erneut.");
-              }
-          })
-          .catch(error => console.error('Fehler:', error));
-      });
-      
-      document.addEventListener("DOMContentLoaded", function() {
-          loadComments();
-      });
-      </script>
-    <!--END COMMENTS-->
 
-    {{ end }}
+    <h3 class="comment-form-title">Kommentar schreiben</h3>
+    <form id="comment-form" class="comment-form">
+        <input type="hidden" name="post_id" id="post_id" value="{{ .RelPermalink }}">
+        <input type="hidden" name="parent_id" id="parent_id" value="">
+
+        <div id="reply-indicator" class="reply-indicator" style="display:none;">
+            <span>Antwort auf: <strong id="reply-to-name"></strong></span>
+            <button type="button" onclick="cancelReply()" class="cancel-reply">&#x2715; Abbrechen</button>
+        </div>
+
+        <div class="comment-form-group">
+            <label for="name" class="comment-label">Name <span class="required">*</span></label>
+            <input type="text" id="name" name="name" class="comment-input" required>
+        </div>
+
+        <div class="comment-form-group">
+            <label for="email" class="comment-label">E-Mail <span class="optional">(optional, wird nicht ver&#246;ffentlicht)</span></label>
+            <input type="email" id="email" name="email" class="comment-input">
+        </div>
+
+        <div class="comment-form-group">
+            <label for="homepage" class="comment-label">Website <span class="optional">(optional)</span></label>
+            <input type="url" id="homepage" name="homepage" class="comment-input" placeholder="https://...">
+        </div>
+
+        <div class="comment-form-group">
+            <label for="comment" class="comment-label">Kommentar <span class="required">*</span></label>
+            <textarea id="comment" name="comment" class="comment-textarea" required></textarea>
+        </div>
+
+        <button type="submit" class="comment-btn" id="submit-btn">Absenden</button>
+        <p id="form-message" class="form-message"></p>
+    </form>
 </div>
+
+<style>
+    .comment-section {
+        max-width: 700px;
+        margin: 30px auto;
+        padding: 0;
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, sans-serif;
+        font-size: 15px;
+    }
+    .comment-title, .comment-form-title {
+        font-size: 18px;
+        margin: 0 0 12px 0;
+        color: #333;
+        border-bottom: 1px solid #e5e7eb;
+        padding-bottom: 8px;
+    }
+    .comment-form-title { margin-top: 30px; }
+    .comment-list { margin-bottom: 20px; }
+    .loading { color: #888; font-style: italic; font-size: 14px; }
+    .no-comments { color: #888; padding: 15px 0; font-size: 14px; }
+
+    /* Comment items */
+    .comment-item {
+        padding: 12px 15px;
+        margin-bottom: 10px;
+        background: #fff;
+        border-left: 3px solid #667eea;
+        border-radius: 0 6px 6px 0;
+        box-shadow: 0 1px 4px rgba(0,0,0,0.06);
+    }
+    .comment-item.admin-reply { border-left-color: #10b981; background: #f0fdf4; }
+    .comment-header {
+        display: flex; justify-content: space-between; align-items: baseline;
+        margin-bottom: 6px; gap: 8px;
+    }
+    .comment-author { font-weight: 600; color: #333; font-size: 14px; }
+    .comment-author a { color: #667eea; text-decoration: none; }
+    .comment-date { font-size: 12px; color: #aaa; white-space: nowrap; }
+    .comment-text { color: #444; line-height: 1.6; margin-bottom: 6px; white-space: pre-wrap; font-size: 14px; }
+    .reply-btn { background: none; border: none; color: #667eea; cursor: pointer; font-size: 12px; padding: 0; }
+    .comment-replies {
+        margin-left: 20px; margin-top: 10px;
+        padding-left: 15px; border-left: 2px solid #e5e7eb;
+    }
+    .comment-replies .comment-item { margin-bottom: 8px; }
+
+    /* Form */
+    .comment-form { background: #f9fafb; padding: 18px; border-radius: 8px; }
+    .comment-form-group { margin-bottom: 12px; }
+    .comment-label { display: block; font-weight: 600; margin-bottom: 4px; font-size: 13px; color: #444; }
+    .required { color: #dc2626; }
+    .optional { font-weight: normal; font-size: 11px; color: #999; }
+    .comment-input, .comment-textarea {
+        width: 100%; padding: 9px 11px;
+        border: 1px solid #d1d5db;
+        border-radius: 6px; font-size: 14px;
+        box-sizing: border-box; outline: none; background: #fff;
+    }
+    .comment-input:focus, .comment-textarea:focus {
+        border-color: #667eea;
+        box-shadow: 0 0 0 2px rgba(102, 126, 234, 0.15);
+    }
+    .comment-textarea { min-height: 100px; resize: vertical; font-family: inherit; }
+    .comment-btn {
+        width: 100%; padding: 10px; background: #667eea; color: white;
+        font-size: 14px; font-weight: 600; border: none; border-radius: 6px; cursor: pointer;
+    }
+    .comment-btn:disabled { opacity: 0.6; cursor: not-allowed; }
+    .form-message { margin-top: 10px; padding: 10px; border-radius: 6px; font-size: 13px; display: none; }
+    .form-message.success { display: block; background: #d1fae5; color: #059669; }
+    .form-message.error   { display: block; background: #fee2e2; color: #dc2626; }
+    .reply-indicator {
+        background: #e0e7ff; padding: 8px 12px; border-radius: 6px;
+        margin-bottom: 12px; display: flex; justify-content: space-between; align-items: center;
+        font-size: 13px;
+    }
+    .cancel-reply { background: none; border: none; color: #dc2626; cursor: pointer; font-size: 12px; }
+    @media (max-width: 600px) {
+        .comment-replies { margin-left: 12px; padding-left: 10px; }
+    }
+</style>
+
+<script src="{{ "js/comments.js" | absURL }}"></script>
+<!--END COMMENTS-->

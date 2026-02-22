@@ -22,6 +22,10 @@ usePageBundles = false
 description = 'Datenschutz, Datensicherheit, Schutz vor Scam, Phishing mit einer Prise Humor'
 keywords = ["security", "spam protection", "datensicherheit", "phishing", "scam"] # Set your site's meta tag (SEO) keywords here. Alternatively set these in your home page content file e.g. content/_index.md. Whatever is set in the latter will take precedence.
 enforceLightMode = true
+comments = true #allow comments
+comments_api_url = "https://comments.acapio.de/api/comments.php"
+comments_api_key  = "bfa56e74fbb9d5fc6e9ab20ed3f25407e2a9d763d2e51bfdfb71a53df635077a"
+
 
 [outputs]
 home = ["HTML", "RSS", "JSON"]
