@@ -345,3 +345,49 @@ Hugo ist zwar ein hilfsbereiter Dackelfreund, aber ganz sicher nicht auf den Kop
 > Also, I need an official bill from your office or the court. I hope you understand this.  
 >   
 > Regards, Hugo  
+
+## Das Meisterwerk aus der Microsoft-Word-Hölle 📜🔥
+
+Der Anwalt hat geliefert! Und was für ein Fest für die Augen. Unser majestätisches Bundes-Huhn auf dem Ausweis hat er nicht nur völlig ignoriert, sondern offenbar als hochoffizielles deutsches Hoheitszeichen akzeptiert. Stattdessen präsentiert uns „Barrister John Edward“ stolz sein selbstgebasteltes "Change of Ownership Certificate", frisch exportiert aus dem Word-Art-Baukasten der 90er Jahre.
+
+> Your email is well noted. I received massage from Mrs Esther Johnson and I have responded accordingly.  
+>   
+> Well, the change of ownership certificate has been preperd by me through the instructions I received from my client.   
+> Secondly, the certificate change of ownership will not be valid until affidavit change of ownership is obtained from UK high Court.  
+>   
+> Upon the receive of €1,500 I will proceed to the high Court and obtain the affidavit documents and forward a copy to you, then you will be able to contact the bank for immediate transfer of  the fund into your own bank account.   
+>   
+> Check attachment file.  
+>   
+> I shall wait to hear from you soonest.  
+>   
+> Yours in service.  
+> Attorney J. Edward  
+>   
+> Managing Partner  
+> John Edward &Co. Chartered  
+
+Nehmen wir dieses Dokument der absoluten juristischen Seriosität mal genauer unter die Lupe:
+
+* **Die schrumpfenden Millionen:** Waren es in der letzten Mail nicht noch 6,5 Millionen Dollar? Auf der Urkunde sind wir plötzlich wieder bei den ursprünglichen 5,6 Millionen. Im Scammer-Universum gibt es offenbar Negativzinsen.
+* **Die wandernde Bank:** Das Geld lag anfangs bei der Lloyds Bank UK, zog dann zur HSBC UK weiter und liegt laut Urkunde nun plötzlich bei der „Lloyd's Bank Switzerland“. Das Geld hat in drei Tagen mehr von der Welt gesehen als Hugo in seinem ganzen Leben.
+* **Das absolute Highlight – der Stempel:** Unten rechts prangen wunderschöne, bunte Wachssiegel. Dumm nur, dass darauf nicht der Name unseres Anwalts „John Edward“ steht, sondern in fetten Lettern **„JEFFERY LIVN ESQ“**. Da hat wohl jemand im Scammer-Großraumbüro den falschen Stempel aus der Copy-Paste-Kiste geklaut! 😂
+
+Zusammenfassend: Das Dokument ist laut Anwalt exzellent „preperd“ (sic!), aber leider völlig wertlos, solange wir nicht die 1.500 Euro für das rettende Affidavit überweisen.
+
+![](/posts/2025-02-07-esther-johnson/urkunde.webp)
+
+
+### Die defekte Plömmelwelle und die Frage nach dem "Wie" 🚗💸
+
+Hugo zeigt sich natürlich zutiefst beeindruckt von dem bunten Word-Dokument mit dem falschen Stempel, hat aber leider ein akutes Liquiditätsproblem. Das Leben als Wanne-Eickeler BMW-Schrauber ist schließlich teuer, besonders wenn die berüchtigte „Plömmelwelle“ am Auto kaputtgeht und mal eben 2.000 Euro Werkstattkosten verschlingt. (Spoiler: Eine Plömmelwelle existiert im Autobau natürlich genauso wenig wie ein „Federal High Court“ in Großbritannien, aber für 1.500 Euro glaubt unser AOL-Anwalt vermutlich auch an einen defekten Fluxkompensator).
+
+> Dear Mr. Edward,
+> thank you for the certificate. I see you have done a lot of work.
+> But I have a big problem right now. I am very short on money. My BMW was in the workshop last week because the "Plömmelwelle" was broken. The repair was very expensive and cost me 2,000 Euro.
+> I have to ask my friends at the club if they can lend me the 1,500 Euro. It might take a few days.
+> If I can get the money from my friends, how do I have to pay it to the court? How does the payment work?
+> Best regards,
+> Hugo
+
+Hugo muss nun also beim nächsten Stammtisch bei seinen Kumpels betteln gehen. Gleichzeitig stellt er ganz unschuldig die wichtigste Frage, um die Falle weiter zuschnappen zu lassen: **Wie genau soll das Geld eigentlich fließen?** Ein britisches Gericht, das per Western Union, Bitcoin oder auf das Konto eines Mittelsmanns auf Zypern bezahlt wird? Es wird garantiert wild! 🍿
