@@ -305,9 +305,9 @@ Ob das dem "Federal High Court" auffällt? Wohl kaum. Für den Scam-Ordner reich
 
 ---
 
-## Das Bundes-Huhn ist genehmigt – und die Kasse klingelt 💸🐓
+## Das Bundes-Huhn ist genehmigt, und die Kasse klingelt 💸🐓
 
-Es ist offiziell: „Barrister John Edward“ hat sich unseren Ausweis mit dem majestätischen Bundes-Huhn und dem Ausstellungsdatum 1. April ganz genau angesehen – und für absolut legitim befunden. Ein echtes Adlerauge, dieser Spitzenanwalt! 🦅🤡
+Es ist offiziell: „Barrister John Edward“ hat sich unseren Ausweis mit dem majestätischen Bundes-Huhn und dem Ausstellungsdatum 1. April ganz genau angesehen, und für absolut legitim befunden. Ein echtes Adlerauge, dieser Spitzenanwalt! 🦅🤡
 
 Und nun, meine Damen und Herren, fällt endlich der Vorhang für den eigentlichen Akt dieses Dramas: **Die Vorabgebühr**. Nach angeblich „intensiven Recherchen“ beim „High Court of London“ kosten uns die beiden magischen Fantasie-Dokumente läppische **1.500 Euro**. 
 
@@ -371,7 +371,7 @@ Nehmen wir dieses Dokument der absoluten juristischen Seriosität mal genauer un
 
 * **Die schrumpfenden Millionen:** Waren es in der letzten Mail nicht noch 6,5 Millionen Dollar? Auf der Urkunde sind wir plötzlich wieder bei den ursprünglichen 5,6 Millionen. Im Scammer-Universum gibt es offenbar Negativzinsen.
 * **Die wandernde Bank:** Das Geld lag anfangs bei der Lloyds Bank UK, zog dann zur HSBC UK weiter und liegt laut Urkunde nun plötzlich bei der „Lloyd's Bank Switzerland“. Das Geld hat in drei Tagen mehr von der Welt gesehen als Hugo in seinem ganzen Leben.
-* **Das absolute Highlight – der Stempel:** Unten rechts prangen wunderschöne, bunte Wachssiegel. Dumm nur, dass darauf nicht der Name unseres Anwalts „John Edward“ steht, sondern in fetten Lettern **„JEFFERY LIVN ESQ“**. Da hat wohl jemand im Scammer-Großraumbüro den falschen Stempel aus der Copy-Paste-Kiste geklaut! 😂
+* **Das absolute Highlight, der Stempel:** Unten rechts prangen wunderschöne, bunte Wachssiegel. Dumm nur, dass darauf nicht der Name unseres Anwalts „John Edward“ steht, sondern in fetten Lettern **„JEFFERY LIVN ESQ“**. Da hat wohl jemand im Scammer-Großraumbüro den falschen Stempel aus der Copy-Paste-Kiste geklaut! 😂
 
 Zusammenfassend: Das Dokument ist laut Anwalt exzellent „preperd“ (sic!), aber leider völlig wertlos, solange wir nicht die 1.500 Euro für das rettende Affidavit überweisen.
 
@@ -391,3 +391,44 @@ Hugo zeigt sich natürlich zutiefst beeindruckt von dem bunten Word-Dokument mit
 > Hugo
 
 Hugo muss nun also beim nächsten Stammtisch bei seinen Kumpels betteln gehen. Gleichzeitig stellt er ganz unschuldig die wichtigste Frage, um die Falle weiter zuschnappen zu lassen: **Wie genau soll das Geld eigentlich fließen?** Ein britisches Gericht, das per Western Union, Bitcoin oder auf das Konto eines Mittelsmanns auf Zypern bezahlt wird? Es wird garantiert wild! 🍿
+
+---
+
+## Barzahlung am High Court und "böse" Freunde 💸🤫
+
+Die kaputte Plömmelwelle wird von unserem Star-Anwalt eiskalt ignoriert, Hauptsache, die Kasse klingelt. Für die 1.500 Euro bietet er zwei absolut "gerichtsfeste" Zahlungsmethoden: Entweder an einen ominösen "Agenten" oder, noch besser, direkt in bar an seine Sekretärin. Offizielle Gerichtskonten mit IBAN sind im Scammer-Universum schließlich völlig überbewertet!
+
+Das absolute Highlight ist aber sein psychologischer Lebensratschlag: Hugo soll seinen Kumpels beim Geldleihen bloß nichts von den Millionen erzählen, denn **"Freunde sind böse"** (*friends are evil*). Auf gut Deutsch: *Lass dir bloß von niemandem am Stammtisch ausreden, 1.500 Euro an einen nigerianischen Word-Art-Künstler zu überweisen.* Die klassische Isolation des Opfers, Scam-Bingo Volltreffer! 🎯🤡
+
+> Email well acknowledge. Well, like you said it will take few days but I don't know how long.   
+>   
+> In other wards if the money is available write back to me for payment information to send it.   
+>   
+> Secondly, we have two options (1) neither you send it to the court through their certified agent (2) or you send it through the name of my secretary so that I will get the money in cash then proceed to the court for the affidavit.   
+>   
+> I prefer the second option because it will not prolong the matter. But the first option we will have to wait for court process and protocol for confirmation of the money you sent.   
+>   
+> Anyways make your decision and get back to me once you're ready to send the money.   
+>   
+> Lastly, if you're about getting the needed money from your friends kindly keep everything about the donation confidential because friends are evil.  
+>   
+> I shall wait to hear from you soonest.  
+>   
+> Yours in service.  
+> Attorney J. Edward  
+> Managing Partner  
+> John Edward &Co. Chartered  
+
+
+### Sicherheit geht vor: Hugo wählt den Dienstweg 🛡️🏛️
+
+Hugo mag zwar eine kaputte **Plömmelwelle** haben, aber er ist schließlich Deutscher, und wir lieben unseren geregelten Dienstweg! Einfach 1.500 Euro bar an eine wildfremde Sekretärin schicken? Das ist ihm dann doch eine Spur zu abenteuerlich. 
+
+> Dear Mr. Edward,  
+> thank you for the advice. My friends from the club agreed to help me and lend me the money.  
+> But because 1,500 Euro is a lot of money for us, Option 1 sounds much safer to me. I prefer to send it to the official and certified agent of the court. That is more correct and secure.  
+> Please let me know how I can send the money to this court agent.  
+> Best regards,  
+> Hugo  
+
+Er entscheidet sich ganz brav für Option 1: den „zertifizierten Agenten“ des High Courts. Das klingt schließlich nach offiziellen Stempeln, Sicherheit und ordentlichem Papierkram.

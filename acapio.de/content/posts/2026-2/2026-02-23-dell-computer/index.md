@@ -56,3 +56,32 @@ Hugos Bullshit-Detektor schlägt bei folgenden Punkten sofort an:
 Gesagt, getan! Hugo tippt seine erste Antwort. Die Taktik: Wir spielen den naiven, aber leicht misstrauischen Ruhrpottler. Wir füttern die Betrüger mit erfundenen Daten, aber bei der Handynummer ziehen wir die Bremse. Wesly soll sich gefälligst ein bisschen anstrengen!
 
 ![](/posts/2026-02-23-dell-computer/mail.webp)
+
+---
+
+## Wesly dreht den Spieß um: Ausweis, bitte!
+
+Das ging schnell! Aber Moment mal, hat Wesly unsere Frage nach einem Beweis gerade elegant ignoriert? Ganz genau. Anstatt zu beweisen, dass *er* bei Dell arbeitet, fordert er jetzt plötzlich Dokumente von Hugo.
+
+> **Von:** weslymooreservice@yahoo.ca  
+> **Betreff:** Re: DELL-SPENDE  
+> Guten Abend von Dell!  
+> Sie haben das Glück, der glückliche Gewinner der Dell-Spende 2026 in Höhe von 650.000,00 EUR zu sein.  
+> Wie Sie bereits gelesen haben, erfolgt die Lieferung per DHL an Ihre Adresse.  
+> Sollten Sie die DHL-Gebühr, die in der Ihnen zugesandten E-Mail angegeben ist, bezahlen können, senden Sie uns bitte eine Kopie Ihres Personalausweises, damit wir diese an die Dell-Geschäftsleitung weiterleiten können.  
+> Nochmals herzlichen Glückwunsch!  
+> DELL  
+
+**Scam-Fakt:** Alarmstufe Rot! Das ist der klassische Versuch von **Identitätsdiebstahl**. Wer den Betrügern hier seinen echten Ausweis schickt, liefert ihnen die perfekte Vorlage, um künftig im eigenen Namen Konten zu eröffnen oder andere Menschen im Netz abzuzocken.
+
+---
+
+## Bierchen, BMWs und nackte Tatsachen
+
+Hugo sitzt gerade im Clubhaus seines BMW-Clubs, ein kühles Pilsken in der Hand, und bequatscht die Sache mit den Jungs. 650 Riesen? Wäre natürlich ein Träumchen, da wäre direkt ein neuer M3 für die Garage drin! Aber die Kumpels sind skeptisch. Ohne echten Beweis gibt's vom Hugo gar nix – und schon gar keine Kopie vom Personalausweis. Also zückt er am Stammtisch das Handy und haut direkt die nächste Mail in die Tasten:
+
+> Tach Herr Dell,  
+> hömma, ich sitz hier grad mit de Jungs vom BMW-Club bei nem Pilsken und wir fragen uns: Ist dat euer Ernst? 650 Riesen wären natürlich top für nen neuen 7er, aber meine Jungs sagen, dat is Mumpitz.  
+> Bevor ich euch meinen Perso rüberwachsen lasse, will ich erstmal wat Handfestes sehen. Schickt mir mal euren Mitarbeiterausweis oder so ne offizielle Urkunde. Ohne Beweis gibt's keinen Ausweis!  
+> Glück auf,  
+> Hugo  
