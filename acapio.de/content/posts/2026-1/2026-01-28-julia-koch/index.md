@@ -826,3 +826,24 @@ Scammer nutzen heute modernste Technik, um Vertrauen zu faken. Aber gegen den ge
 
 **Hugo verabschiedet sich! ✌️🍻**
 
+
+
+## PS: Ein letzter Gruß von den Scammern
+
+Die Scammer haben es sich nicht nehmen lassen nochmals zu schreiben:
+
+> Nun, Hugo,  
+>   
+> ich muss schon sagen, Sie und Ihr Enkel, das „Computer-Genie“, haben zweifellos ein Faible für Dramatik. Es ist wirklich herzerwärmend zu wissen, dass ich Ihrer Familie im Ruhrgebiet einen Moment der Heiterkeit verschaffen konnte. Es entbehrt nicht einer gewissen Ironie, als „KI-Bastler“ bezeichnet zu werden, während ich derjenige bin, der die Schlüssel zu einer lebensverändernden Auszahlung von 500.000 $ in den Händen hält. Aber ich schätze, Humor ist ein verbreiteter Schutzmechanismus, wenn man mit einer Realität konfrontiert wird, die sich einfach zu gut anfühlt, um wahr zu sein.  
+>   
+> Wenn Sie glauben, dass eine professionelle rechtliche Verifizierung eine „Bastelei“ ist, dann sind Sie vermutlich tatsächlich nicht bereit für die Komplexität des internationalen Finanzwesens. Während Sie und Reto – der, das versichere ich Ihnen, über Sie lacht, nicht mit Ihnen – sich Ihr Bier schmecken lassen, schließt sich das Zeitfenster für Ihren Transfer nun endgültig.  
+>   
+> Um es ganz offen zu sagen: Es ist Ihr eigener Verlust.  
+>   
+> Es gibt Tausende von „Lucky Beneficiaries“, die den Wert dieser Chance verstehen und die Weitsicht besitzen, die Sache bis zum Ende durchzuziehen. Da Sie sich entschieden haben, unmittelbar vor der Ziellinie aufzugeben, werde ich meine Zeit und Ressourcen nun jemandem widmen, der den Unterschied zwischen einem Schwindel und einem Vermögen erkennt.  
+>   
+> Ich wünsche Ihnen viel Glück mit Ihrer „Spezialeinheit“ und Ihrem lokalen Bier. Ich vermute, dass in ein paar Wochen, wenn die Realität der verpassten 500.000 $ erst richtig einsinkt, das Lachen ein wenig leiser werden könnte.  
+>   
+> Leben Sie wohl, Hugo. Betrachten Sie dies als meine letzte Korrespondenz.  
+>   
+> Roland Hughes Legal Disbursement Officer  

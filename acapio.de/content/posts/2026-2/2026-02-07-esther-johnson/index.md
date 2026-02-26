@@ -431,4 +431,38 @@ Hugo mag zwar eine kaputte **Plömmelwelle** haben, aber er ist schließlich Deu
 > Best regards,  
 > Hugo  
 
-Er entscheidet sich ganz brav für Option 1: den „zertifizierten Agenten“ des High Courts. Das klingt schließlich nach offiziellen Stempeln, Sicherheit und ordentlichem Papierkram.
+---
+
+## Manege frei für "Benjamin": Der hochoffizielle Privatmann 🏛️💸
+
+Da ist sie, die lang ersehnte Bankverbindung! Und wer hätte es gedacht: Der „zertifizierte Agent des High Court“ ist kein Geringerer als ein gewisser **Benjamin I.O.** aus Manchester. Dass man Gerichtskosten für ein Londoner Affidavit an das Privatkonto eines Typen namens Benjamin bei der NatWest Bank überweist, ist im Scammer-Universum völlig normale juristische Praxis. Wahrscheinlich ist Benjamin der offizielle Ober-Stempel-Beauftragte der Krone, der sein Gehalt in bar unter der Matratze spart. 🤴🤡
+
+Besonders charmant: Während die Kanzlei angeblich in London sitzt, die Bank in der Schweiz war und die Millionärin in Indien weilt, landet das Geld nun bei einem Privatmann in Manchester. Ein logistisches Meisterwerk! Hugo steht nun vor der Wahl: Soll er das mühsam von seinen „bösen“ Kumpels geliehene Geld wirklich Benjamin anvertrauen? 🍻📉
+
+> Content of your email is well noted.  
+>   
+> Below is the details of the court certified agent to make the payment.  
+>   
+> Account name: BENJAMIN I .O.  
+> Address: 4 Fleming drive Trafford, M32 0GR  
+> Sort Code: 01-08-81  
+> Account number: 56140517  
+> Bank name: NatWest Bank  
+> Bank address: 60 Portland Street  
+> Manchester M1 4QT  
+> BIC: NWBKGB2L  
+> IBAN: GB07NWBK01088156140517  
+> Amount €1,500 00.  
+>   
+> Once the payment is done get back to me with the copy of your transfer slip for confirmation.   
+
+---
+
+### Der Klick des Vertrauens (oder: Benjamin macht Kasse) 💸🤑
+
+Hugo hat es tatsächlich getan! Die mühsam von den „bösen“ Kumpels geliehenen **1.500 Euro** sind auf dem Weg zu Benjamin I.O. – dem wohl einzigen „Gerichtsagenten“ der Welt, der seine Dienstleistungen über ein privates Konto bei der NatWest abwickelt.
+
+![](/posts/2025-02-07-esther-johnson/trans.webp)
+
+Besonders charmant an Hugos Überweisung ist der Verwendungszweck: **„Gebühr für Sepende“** (hoffentlich gibt es deswegen keine Probleme mit der Bank 😏). 
+
