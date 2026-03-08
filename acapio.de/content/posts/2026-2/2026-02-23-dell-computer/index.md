@@ -85,3 +85,16 @@ Hugo sitzt gerade im Clubhaus seines BMW-Clubs, ein kühles Pilsken in der Hand,
 > Bevor ich euch meinen Perso rüberwachsen lasse, will ich erstmal wat Handfestes sehen. Schickt mir mal euren Mitarbeiterausweis oder so ne offizielle Urkunde. Ohne Beweis gibt's keinen Ausweis!  
 > Glück auf,  
 > Hugo  
+
+---
+
+## Fazit: Wenn der Gewinn erst Geld kostet, ist es keiner
+
+Die Geschichte zeigt einmal mehr, wie simpel viele Betrugsmaschen im Internet funktionieren. Ein großer Name, eine hohe Gewinnsumme und ein bisschen künstlicher Zeitdruck – schon hoffen die Täter, dass jemand vor lauter Vorfreude nicht mehr genau hinschaut.
+
+Doch sobald man die E-Mail mit gesundem Menschenverstand liest, fällt das Kartenhaus schnell zusammen: ein Weltkonzern mit Yahoo-Adresse, absurde Regeln zum Geldabheben und eine angebliche Spende, bei der der Empfänger erst einmal selbst zahlen soll.
+
+Die wichtigste Regel bleibt deshalb zeitlos: **Wenn ein Gewinn zuerst Gebühren kostet oder persönliche Dokumente verlangt werden, ist es kein Gewinn – sondern Betrug.**
+
+Hugo hat genau richtig reagiert: skeptisch bleiben, keine sensiblen Daten verschicken und im Zweifel lieber die Betrüger ein bisschen beschäftigen. Denn jede Minute, die sie mit Hugo verbringen, haben sie weniger Zeit, echte Opfer zu finden.
+

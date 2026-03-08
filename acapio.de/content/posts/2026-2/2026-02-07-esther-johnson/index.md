@@ -460,9 +460,30 @@ Besonders charmant: Während die Kanzlei angeblich in London sitzt, die Bank in 
 
 ### Der Klick des Vertrauens (oder: Benjamin macht Kasse) 💸🤑
 
-Hugo hat es tatsächlich getan! Die mühsam von den „bösen“ Kumpels geliehenen **1.500 Euro** sind auf dem Weg zu Benjamin I.O. – dem wohl einzigen „Gerichtsagenten“ der Welt, der seine Dienstleistungen über ein privates Konto bei der NatWest abwickelt.
+Hugo hat es tatsächlich getan! Die mühsam von den „bösen“ Kumpels geliehenen **1.500 Euro** sind auf dem Weg zu Benjamin I.O., dem wohl einzigen „Gerichtsagenten“ der Welt, der seine Dienstleistungen über ein privates Konto bei der NatWest abwickelt.
 
 ![](/posts/2025-02-07-esther-johnson/trans.webp)
 
 Besonders charmant an Hugos Überweisung ist der Verwendungszweck: **„Gebühr für Sepende“** (hoffentlich gibt es deswegen keine Probleme mit der Bank 😏). 
+
+
+## Panik in der AOL-Zentrale: Wo bleibt die Kohle? 📉😱
+
+Der Ton wird rauer! Barrister John Edward hat gemerkt, dass sein Konto bei der NatWest immer noch gähnende Leere aufweist. Jetzt verlangt er die „Originalkopie“ des Belegs zur Bestätigung. Ein herrlicher Begriff, was genau ist bitteschön die „Originalkopie“ eines digitalen Screenshots? Hugo soll jetzt wohl beweisen, dass er nicht nur mit Photoshop, sondern auch mit echtem Geld umgehen kann. Während die Scammer nervös werden, schaltet Hugo einen Gang zurück in Richtung „Technik-Verwirrung“.
+
+> What's going on with the payment you made? Can you send the original copy of the transfer slip?  For confirmation.   
+> I shall wait to hear from you soonest.  
+
+---
+
+### Hugos Antwort: „Was meinst du mit Original?“ 🤔📱
+
+Hugo gibt sich gewohnt begriffsstutzig. Für einen Mann, der seine Bankgeschäfte am Röhrenmonitor erledigt, ist „Originalkopie“ ein Fremdwort.
+
+> Dear Mr. Edward,
+> I don't understand what you mean with "original copy". I made the transfer on my computer and then I took a photo of the screen with my mobile phone. That is the photo I sent you.
+> I don't have a paper from the bank because I do everything online. My bank said the money is gone from my account. It is not there anymore!
+> Please check with Mr. Benjamin again. Maybe he must wait a little bit? International money is sometimes slow, no? My friends are already asking if the 5.6 million are coming today. They want their money back.
+> Best regards,
+> Hugo
 

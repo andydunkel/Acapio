@@ -45,4 +45,20 @@ Unser Sebbe hat es natürlich nicht lassen können. Nach der Schicht im Lager, d
 
 Wir sind gespannt, ob die „gute“ Frau Berg jetzt mit einem total echten, hochoffiziellen Word-Dokument um die Ecke kommt, um unseren Basti doch noch zu überzeugen. Der Rudi hat jedenfalls schon mal vorsichtshalber die Zähne gefletscht. 🐩❌
 
-...
+
+## Fazit: Wenn dir fremde Leute Millionen schenken wollen, ist meist nur dein Geld gemeint 💸😏
+
+Auch dieser Fall zeigt wieder das Grundprinzip vieler Internet-Scams: **Große Summe versprechen, möglichst wenig erklären und hoffen, dass jemand aus Neugier oder Gier zurückschreibt.** Zwei Sätze, eine Gmail-Adresse und plötzlich soll ein Lagerarbeiter aus Wien 2,8 Millionen Dollar kassieren. Klingt nach Märchen? Ist es auch. 📧💰
+
+Typisch für solche Mails:  
+* kein nachvollziehbarer Hintergrund  
+* keine echte Firma oder Organisation  
+* eine kostenlose Mailadresse  
+* und die Aussicht auf absurd viel Geld für praktisch nichts
+
+Der Ablauf ist fast immer derselbe: Erst wird ein Kontakt aufgebaut, dann folgt eine dramatische Geschichte – und irgendwann kommen plötzlich **Gebühren, Dokumente oder persönliche Daten** ins Spiel. Die Millionen sind dabei nur der Köder. 🎣
+
+Sebbe hat genau richtig reagiert: skeptisch bleiben, nichts zahlen und den Schmäh lieber mit Humor nehmen. Denn wenn eine völlig unbekannte Yolanda aus dem Internet plötzlich Millionen verteilen will, dann ist das selten ein Glücksfall – sondern meistens nur der nächste **klassische Vorschussbetrug mit internationalem Unterhaltungswert.** 👑📩🐩
+
+Oder wie man in Wien sagen würde:  
+**Wenn dir jemand aus dem Nichts Millionen verspricht, dann will er meistens nur schauen, ob du deppert genug bist, ihm vorher ein paar Hundert Euro zu überweisen.** 🍺😄

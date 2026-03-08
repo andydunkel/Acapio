@@ -827,7 +827,6 @@ Scammer nutzen heute modernste Technik, um Vertrauen zu faken. Aber gegen den ge
 **Hugo verabschiedet sich! ✌️🍻**
 
 
-
 ## PS: Ein letzter Gruß von den Scammern
 
 Die Scammer haben es sich nicht nehmen lassen nochmals zu schreiben:
