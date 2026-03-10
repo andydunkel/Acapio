@@ -487,3 +487,37 @@ Hugo gibt sich gewohnt begriffsstutzig. Für einen Mann, der seine Bankgeschäft
 > Best regards,
 > Hugo
 
+---
+
+## Benjamin wartet, und Benjamin wird ungeduldig 🕵️‍♂️💸
+
+Nachdem die „Sepende“ auch nach fast zwei Wochen nicht auf dem Privatkonto des „Gerichtsagenten“ Benjamin in Manchester aufgetaucht ist, platzt dem ehrwürdigen Barrister langsam der Kragen. Er spielt jetzt den großen Bank-Detektiv: Der High Court habe angeblich höchstpersönlich bei der Bank nachgefragt (was juristisch gesehen absoluter Humbug ist, aber im Scam-Script steht das nun mal so).
+
+Jetzt wird scharf geschossen: Hugo soll seinen **Kontoauszug (Bank Statement)** vorlegen. Klar, warum auch nur 1.500 Euro klauen, wenn man direkt Hugos ganze Finanzhistorie mit abgreifen kann? Für unseren BMW-Schrauber aus Wanne-Eickel wird es Zeit, die gefürchtetste Waffe des deutschen Bankwesens auszupacken: **Die aufgebrachte Bankberaterin Frau Müller!** 🏦😤
+
+> It was a surprise to me reading your message. Well, I have contacted the court agent through the court for confirmation of the money you sent and the made to understand that you did not send any money to them because they have not received anything from you nor your bank.   
+>   
+> Also they confirmed from their bank that no money was sent out from you, reasons international transfer takes only but 48/72hours to reflect in the bank account but your own case has taken 12  days and nothing has been received.  
+>   
+> However, if actually you made the payment contact your bank and ask them why the money you sent out did not deliver to the account, also print your bank statement to prove that the money was sent successfully.  
+
+--
+
+## Bier, Bellos und bürokratische Blockaden 🍻🐕
+
+Während „Attorney J. Edward“ in seiner AOL-Zentrale vermutlich kurz vorm Nervenzusammenbruch steht, hat Hugo ganz andere Prioritäten. Es ist Dienstabend in Wanne-Eickel, und das bedeutet: **Jahreshauptversammlung im Dackelclub!** 
+
+Anstatt sich um internationale Banklaufzeiten oder Benjamins leeres Konto zu scheren, widmet sich Hugo lieber dem Kaltgetränk-Sortiment des Vereinsheims. Die Stimmung ist prächtig, die Plömmelwelle vergessen und der Dackel wackelt im Takt der Schlagermusik mit. Dass Hugo in diesem Zustand keine hochkomplexen Bankbelege scannt, sollte sogar einem „Chartered Lawyer“ einleuchten. Der Scammer kriegt jetzt also keine Fakten, sondern eine ordentliche Portion westfälische Feierlaune serviert. Prosit, Benjamin! 🍻🤡
+
+### Hugos Antwort: Die „Dackel-Sitzung-Party“-Mail 📧🥳
+
+> **Subject: SORRY PARTY!!! DACKEL CLUB MEETING!!**
+> Hello Mr. John Barister Edward!!
+> Sory for not writing but today is big day! We are in the Vereinsheim from the Dackel-Club Wanne-Eickel. We have big party and meeting. 50 years club!
+> I had 4... no 5 beers now and a small Schnaps with my friend Kalle. Everyone is happy! My dog Waldemar is also here and he is dancing, he wackels with the tail very much.
+> Don't worry about the money and the man Benjamin. I go to the bank tomorrow morning very early. Frau Müller is a good woman, she will help me with the paper for you. But now I must sing a song with the boys.
+> "In München steht ein Hofbräuhaus..." do you know this song? Very good!
+> I write you tomorrow when my head is not so "Aua" anymore.
+> Cheers and Prosit!!
+> Hugo 🍻🐕‍🦺
+
