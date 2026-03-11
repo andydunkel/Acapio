@@ -521,3 +521,12 @@ Anstatt sich um internationale Banklaufzeiten oder Benjamins leeres Konto zu sch
 > Cheers and Prosit!!
 > Hugo 🍻🐕‍🦺
 
+---
+
+## BaFin-Alarm & Benjamins Pech 🚨🏦
+
+Während der „Managing Partner“ ungeduldig wird, serviert Hugo ihm den ultimativen Endgegner: die deutsche Finanzaufsicht. Laut einem (hübschen, selbstgebastelten) Schreiben vom Kontenservice wurde die Überweisung an Benjamin gestoppt, da dessen Konto von der BaFin als „betrügerisch eingestuft“ wurde. 
+
+![Wir schalten einen Gang hoch](/posts/2025-02-07-esther-johnson/bank.webp)
+
+Hugo gibt sich am Boden zerstört und schreibt panisch, dass er „keinen Ärger“ will. Dass die Bank hier aus Versehen die absolute Wahrheit über Benjamin I.O. ausspricht, dürfte in der AOL-Zentrale für Schnappatmung sorgen.

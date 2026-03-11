@@ -54,3 +54,61 @@ Hugo hat auf die Nachricht natürlich kurz geantwortet. Ganz überzeugt ist er a
 > Hugo  
 
 Außerdem blieb nicht viel Zeit für lange Diskussionen: Beim Dackel-Club stand schließlich die Vereinsparty an. Prioritäten müssen gesetzt werden. Sollte der mysteriöse Spender tatsächlich existieren, wird er wohl warten müssen, bis Hugo und die Jungs wieder vom Vereinsheim zurück sind. 🐕🍻💰
+
+---
+
+### Der Millionär braucht erstmal unsere Daten 🙃💰
+
+Die Antwort folgt brav nach Lehrbuch. „Abbas Shafii“ erklärt noch einmal seinen Powerball-Gewinn, seine göttlich inspirierte Großzügigkeit und dass wir angeblich **7 Millionen Dollar** bekommen sollen. Vier andere hätten ihr Geld natürlich schon erhalten. Klar.
+
+Bevor das Geld fließen kann, sollen wir allerdings erstmal eine ganze Liste **persönlicher Daten** schicken. Name, Adresse, Telefonnummer, WhatsApp, einmal das komplette Profil bitte.
+
+> Hallo,  
+>   
+> ich bin Abbas Shafii aus Beaverton, Oregon, und habe den ersten Powerball-Jackpot des Jahres in Oregon gewonnen. Ich habe am 17. Januar 2025 im Beaverton Fred Meyer an der SW Walker Road ein Los gekauft. Mein Jackpot war ein Geschenk Gottes, und im Namen meiner Familie und mir habe ich beschlossen, Gottes Willen zu tun und mit dieser Spende Einzelpersonen, Wohltätigkeitseinrichtungen und Organisationen zu unterstützen. Über meinen Gewinn können Sie unter den folgenden Links mehr erfahren.:  
+>   
+> https://www.youtube.com/watch?v=fOf87_u1DJM  
+> https://www.powerball.com/beaverton-man-claims-328.5-million-powerball-jackpot  
+>   
+> Ich habe mich entschieden, etwas zurückzugeben und lokale und globale Initiativen zu unterstützen. Mein Team unterstützt Sie dabei, diese Ziele zu erreichen. Die wahre Wirkung meines Lebenswerks beginnt jetzt. Deshalb verteile ich jeweils 7.000.000,00 $ an fünf Personen. Vier Personen haben bereits ihre Spenden erhalten. Um die Auszahlung dieser 7.000.000,00 $ zu erleichtern, füllen Sie bitte Ihre Daten aus, damit wir weitermachen können.  
+>   
+> Benötigte Informationen:  
+>   
+> Vollständiger Name:  
+> Alter:  
+> Wohnadresse:  
+> Bundesland/Stadt:  
+> Land:  
+> Geschlecht:  
+> Beruf:  
+> Telefon:  
+> WhatsApp-Nummer:  
+>   
+> Weitere wichtige Informationen erhalten Sie, sobald Sie die oben genannten Informationen ausgefüllt und zurückgesendet haben. Aus Sicherheitsgründen wird allen Begünstigten empfohlen, ihre Gewinninformationen vertraulich zu behandeln. Dies ist Teil unserer Sicherheitsmaßnahmen, um doppelte Ansprüche oder Identitätsbetrug zu vermeiden.  
+>   
+> Mit freundlichen Grüßen  
+> Mr Abbas Shafii  
+
+Damit läuft der Scam exakt nach **Schema F**: Erst Millionen versprechen, dann persönliche Daten einsammeln. Alles natürlich streng vertraulich. Nicht dass noch jemand merkt, dass hier gerade ein ziemlich alter Internet-Trick recycelt wird. 📧💸
+
+---
+
+## Hugo spielt mit 🎣
+
+Hugo hat sich natürlich höflich bedankt. Wenn schon jemand sieben Millionen Dollar verschenken will, kann man ja zumindest kurz antworten. Also freundlich überrascht getan und die gewünschten Daten geschickt, selbstverständlich mit **ausgewählten Testdaten**. 😉
+
+> Hallo Herr Shafii,
+>
+> vielen Dank für Ihre Nachricht. Ich war ehrlich gesagt ziemlich überrascht, von dieser Spende zu erfahren, und danke Ihnen für die freundliche Berücksichtigung.
+>
+> Wie gewünscht sende ich Ihnen meine Daten:
+>
+> FAKE DATEN
+>
+> Ich bin gespannt, wie es nun weitergeht und welche Schritte als Nächstes erforderlich sind.
+>
+> Viele Grüße
+> Hugo
+
+Jetzt warten wir mal ab, welcher **nächste Baustein aus dem Scam-Baukasten** folgt. Erfahrungsgemäß dauert es nicht lange, bis irgendwo plötzlich „Gebühren“, „Dokumentenkosten“ oder ein sehr hilfsbereiter „Anwalt“ auftaucht. 💸📧
+
