@@ -112,3 +112,31 @@ Hugo hat sich natürlich höflich bedankt. Wenn schon jemand sieben Millionen Do
 
 Jetzt warten wir mal ab, welcher **nächste Baustein aus dem Scam-Baukasten** folgt. Erfahrungsgemäß dauert es nicht lange, bis irgendwo plötzlich „Gebühren“, „Dokumentenkosten“ oder ein sehr hilfsbereiter „Anwalt“ auftaucht. 💸📧
 
+
+## Überraschung: Erstmal 980 Euro bitte 💸😉
+
+Und da ist er auch schon, der nächste Schritt aus dem **Scam-Handbuch, Kapitel 1**.
+
+Kaum sind die „Daten“ raus, folgt die erwartbare Wendung. Bevor wir die versprochenen **7 Millionen Dollar** bekommen können, sollen wir erstmal **980 Euro überweisen**.
+
+> Sie müssen den Betrag von 980 Euro überweisen, bevor Sie Ihr Geld erhalten können.
+
+Wir müssen zugeben: Ein wenig mehr **Rhetorik** hätten wir schon erwartet. Normalerweise kommen an dieser Stelle lange Erklärungen über „Transfergebühren“, „internationale Bankkosten“ oder „amtliche Dokumente“. Stattdessen diesmal einfach nur die kurze Ansage: **980 Euro bitte.**
+
+Immerhin effizient. Am Prinzip des **klassischen Vorschussbetrugs** ändert das natürlich nichts. 😁💸
+
+### Hugo stellt eine einfache Frage 🤔💸
+
+Die Sache mit den **980 Euro „Gebühr“** kam Hugo dann doch etwas merkwürdig vor. Immerhin hat der gute Mann angeblich **über 300 Millionen Dollar gewonnen**. Da sollte es doch möglich sein, diese Kleinigkeit einfach direkt von den versprochenen 7 Millionen abzuziehen.
+
+> Hallo Herr Shafii,  
+>   
+> nur damit ich das richtig verstehe:  
+> Ich bekomme 7.000.000 Dollar, muss aber vorher 980 Euro bezahlen?  
+>   
+> Das klingt für mich etwas ungewöhnlich. Wenn Sie doch mehrere hundert Millionen gewonnen haben, könnten Sie die 980 Euro doch einfach von den 7 Millionen abziehen und mir den Rest überweisen.  
+>   
+> Oder läuft das bei amerikanischen Spenden anders?  
+>   
+> Viele Grüße  
+> Hugo  

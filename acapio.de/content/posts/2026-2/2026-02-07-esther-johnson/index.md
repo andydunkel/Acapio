@@ -530,3 +530,60 @@ Während der „Managing Partner“ ungeduldig wird, serviert Hugo ihm den ultim
 ![Wir schalten einen Gang hoch](/posts/2025-02-07-esther-johnson/bank.webp)
 
 Hugo gibt sich am Boden zerstört und schreibt panisch, dass er „keinen Ärger“ will. Dass die Bank hier aus Versehen die absolute Wahrheit über Benjamin I.O. ausspricht, dürfte in der AOL-Zentrale für Schnappatmung sorgen.
+
+---
+
+## Benjamin ist raus, Josue ist drin: Der Frankfurt-Connection-Trick 🇩🇪💸
+
+Nachdem die BaFin den armen Benjamin I.O. quasi als kriminell gebrandmarkt hat, rudert unser „Managing Partner“ hektisch zurück. In einer schauspielerischen Glanzleistung erklärt er, dass Benjamin lediglich **„interne Probleme“** mit seiner Bank habe. Klar, wer kennt es nicht? Man ist ein offizieller Gerichtsagent und plötzlich vergisst die Bank einfach, wie man Geld empfängt. Aber keine Sorge: Die Millionen-Sepende ist absolut **„risky free“** – versprochen! 🤡
+
+> After my consultation and investigation I contacted the Clark of the court and Mr. Benjamin over the letter you sent to me which they confirmed to me that Mr Benjamin account has internal issues with his bank that was why the money couldn't get to his account earlier expected ,and that was why your bank suspected it and suspended the transfer.   
+>   
+> However, no need to panic the donation from Mrs Esther Johnson is risky free don't be discouraged and I will not mislead you.  
+>   
+> Finally, the court promises to provide account in your country in other for you  to resend the money there in your state without any issues.  
+
+### Lokaler Scam für lokale Leute 🏦🥨
+
+Plötzlich müssen wir das Geld nicht mehr mühsam nach Manchester schicken. Der neue „Gerichtsagent“ (oder wohl eher der nächste arme Teufel, der seinen Kopf als Finanzagent hinhält) heißt **Josue Ikechi** und residiert laut IBAN direkt in Frankfurt am Main.
+
+Besonders auffällig ist der neue Verwendungszweck: **„Health Care support“**.
+Offenbar hat der Anwalt gelernt, dass Begriffe wie „Erbschaft“, „Gebühr“ oder Hugos kreative „Sepende“ bei den Banken zu Schnappatmung führen. Mit „Unterstützung für die Gesundheitsversorgung“ hofft man nun, unter dem Radar der Geldwäsche-Algorithmen durchzufliegen.
+
+> Name : Josue Ikechi   
+> Bank Name:  BBVA  
+> IBAN: DE98500319000016954543  
+> BIC: BBVADEFFXXX  
+> Address: 60311 Frankfurt am Main Deutschland  
+> Amount €1,500  
+> Popuse of payment Health Care support  
+
+Der Screenshot der Testüberweisung beweist: Das Konto ist (leider) echt. Der Scammer hat also einen Muli in Deutschland aktiviert, um die lästigen internationalen Sicherheitshürden zu umgehen. Für Hugo bedeutet das: Der Druck steigt wieder, denn jetzt gibt es keine Ausrede mehr mit „komischen Auslandsüberweisungen“. 🎣📉
+
+![Name der Bankverbindung passt](/posts/2025-02-07-esther-johnson/bank.webp)
+
+--
+
+## Blaulicht in Wanne-Eickel: Die Polizei steht vor der Tür 🚨🚔
+
+Jetzt ist endgültig Schluss mit lustig (zumindest für den Anwalt). Während Josue in Frankfurt vermutlich schon die virtuellen Taschen aufhält, bekommt Hugo Besuch von der echten Staatsmacht. Die BaFin-Warnung war anscheinend kein Scherz: Die Polizei ermittelt wegen Geldwäsche und Beihilfe zu kriminellen Machenschaften.
+
+Hugo ist völlig aufgelöst. Sein Ruf im Dackelclub steht auf dem Spiel und er muss am Montag zur Vernehmung aufs Revier. 
+
+Für den „Barrister“ in seiner AOL-Kanzlei bedeutet das: Der Fisch zappelt nicht nur, er droht samt Angel in den Abgrund der Justiz zu springen. Hugos Panik ist jetzt unsere beste Waffe. 🍿🔥
+
+### Hugos Antwort: „I have big problem with Police!!!“ 📧😱
+
+> **Subject: HELP!!! THE POLICE WAS AT MY HOUSE!!!**
+> Dear Mr. Edward,
+> I am shaking and I cannot sleep. Today two police men were at my house! Here in Wanne-Eickel everyone saw the police car!
+> They say the account of Benjamin I.O. is a "Kriminelles Konto" (criminal account). They ask me many questions: "Mr. Scholz, why do you send money to criminals in England?" They think I am a bad person now!
+> They say they have an "Ermittlungsverfahren" (investigation) against me. I must go to the police station on Monday morning at 09:00 to talk to the "Kommissar". I must prove that I am not a criminal.
+> What is going on??? You said "risky free"! My wife is crying all the time and the neighbors are talking. I am very afraid that I go to prison. I cannot send any more money to Josue or anyone now because the police is watching my computer!
+> Please tell me what I should tell the police on Monday! I am just a worker, I don't want to go to jail!
+> Best regards,
+> Hugo
+
+**Wie wird der Anwalt reagieren?** Wahrscheinlich wird er versuchen, Hugo zu beruhigen und ihm einzureden, dass die Polizei „bestochen“ ist oder er einfach lügen soll. 
+
+Oder er behauptet, dass nur die 1.500 Euro an Josue beweisen können, dass er unschuldig ist. 🤡🎩
