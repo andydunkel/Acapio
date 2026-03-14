@@ -587,3 +587,24 @@ Für den „Barrister“ in seiner AOL-Kanzlei bedeutet das: Der Fisch zappelt n
 **Wie wird der Anwalt reagieren?** Wahrscheinlich wird er versuchen, Hugo zu beruhigen und ihm einzureden, dass die Polizei „bestochen“ ist oder er einfach lügen soll. 
 
 Oder er behauptet, dass nur die 1.500 Euro an Josue beweisen können, dass er unschuldig ist. 🤡🎩
+
+
+## Anwalts-Tipp des Tages: Lügen für Fortgeschrittene ⚖️🤥
+
+„Barrister John Edward“ hat die Lösung für Hugos Polizeiproblem: **Einfach die Beamten anlügen.** Das ist natürlich genau der Rat, den man von einem „Chartered Lawyer“ erwartet. Hugo soll behaupten, er habe Esther und Benjamin 2024 persönlich bei einer Missionsreise in Deutschland getroffen. Dass Benjamin eigentlich ein kriminelles Konto in Manchester führt und Hugo ihn nie gesehen hat? Nebensache!
+
+Besonders dreist ist der Hinweis, Hugo solle bloß nichts von den Millionen erzählen, weil die Polizei sich sonst „von hinten einmischen“ wolle. Übersetzt aus dem Scammer-Handbuch: *„Wenn die Bullen mitkriegen, worum es wirklich geht, lachen sie dich aus und sperren uns den Geldhahn zu.“* Und weil Hugo ja so „überwacht“ wird, soll er doch bitteschön seine Telefonnummer rausrücken und – der absolute Gipfel – seine Frau oder einen Freund bitten, die **1.500 Euro** klammheimlich an Josue in Frankfurt zu schicken. Die Gier kennt wirklich keine Schamgrenze. 🤡🚔
+
+> Your email has been received. Meanwhile, when you get to the police station on Monday the only answer you will give to them is this.  That you sent money through Mr Benjamin to support a church project in England and also to support healthcare of Mrs Esther A Johnson a missionary nothing more.   
+>   
+> If they ask you if you have meat Mr Benjamin in person tell them yes with Mrs Esther A Johnson.  If they ask were and your answer should be in Germany during the time they came for missionary work in 2024.   
+>   
+> Do not give any other answers than what I told you above and do not disclose anything about the donation to them because they will like to be involve from behind.   
+>   
+> Since you're been investigated drop your phone for me to call you for more information and guidance.   
+>   
+> Lastly, you can give your wife or friend the money to send on your behalf while we obtain the affidavit documents for us to proceed.   
+
+Wir schreiben den Scammern zurück, dass wir erstmal auf den Montag warten, inzwischen wird Druck gemacht und es gibt erneut die Bankverbindung:
+
+> Give your wife or friend the money to send on your behalf on Monday so that the document will be available on Tuesday while the fund will be transferred to your account on Thursday.   

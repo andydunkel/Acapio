@@ -140,3 +140,37 @@ Die Sache mit den **980 Euro „Gebühr“** kam Hugo dann doch etwas merkwürdi
 >   
 > Viele Grüße  
 > Hugo  
+
+## Die Gebühr bleibt – Details eher optional 🤷‍♂️💸
+
+Die Antwort kam schnell. Unsere einfache Frage nach der Logik wurde allerdings eher… kreativ beantwortet. Laut „Abbas“ haben **alle anderen Empfänger die gleiche Gebühr bezahlt** und anschließend selbstverständlich ihr Geld erhalten. Das sei also ganz normal.
+
+> Es tut mir leid, Ihnen mitteilen zu müssen, dass alle anderen Personen die gleiche Gebühr bezahlt und ihr Geld erhalten haben. Wenn Sie das Geld also wirklich benötigen, überweisen Sie bitte die Gebühr, und Sie erhalten Ihr Geld.
+>
+> Bitte beachten Sie, dass die Gebühr nicht von Ihrem Geld abgezogen werden kann. Überweisen Sie die Gebühr daher bitte an die Bank, und Sie erhalten Ihr Geld.
+>
+> Vielen Dank.
+
+Interessant ist dabei ein kleines Detail: **Es gibt noch gar keine Bankverbindung.**
+Wir sollen also 980 Euro überweisen – nur wohin genau, das erfahren wir vermutlich im nächsten Kapitel.
+
+Die Argumentation bleibt jedenfalls stabil auf Scam-Niveau:
+Alle anderen haben angeblich schon bezahlt, also bitte nicht so viele Fragen stellen und einfach überweisen. Immerhin konsequent. 😄
+
+### Hugo will jetzt Fakten 🍻💸
+
+Hugo ist heute allerdings nur bedingt in Diskussionslaune. Der Abend im Vereinsheim war wohl etwas länger, mehrere **Herrengedecke** mussten fachgerecht entsorgt werden, und entsprechend ist die Geduld für Scam-Rhetorik gerade eher überschaubar.
+
+Also hat er beschlossen, die Sache abzukürzen: Wenn die **980 Euro** wirklich der Schlüssel zu den sieben Millionen sein sollen, dann bitte einfach **Bankverbindung her und gut ist**. Mal sehen, wohin das Geld diesmal angeblich überwiesen werden soll. Erfahrungsgemäß wird es jetzt erst richtig interessant. 😁
+
+> Hallo Herr Shafii,  
+>   
+> alles klar, wenn die Gebühr eben vorher bezahlt werden muss, dann ist das wohl so.  
+>   
+> Ich muss aber ehrlich sagen: Ich bin heute noch etwas verkatert vom gestrigen Abend im Vereinsheim. Da sind wieder ein paar Herrengedecke über den Tresen gegangen, und ehrlich gesagt habe ich gerade nicht die Nerven für lange Hin-und-her-Mails.  
+>   
+> Also mal Butter bei die Fische: Wohin genau soll ich die 980 Euro denn überweisen?  
+> Schicken Sie mir bitte einfach die Bankverbindung oder die Zahlungsdaten.  
+>   
+> Viele Grüße  
+> Hugo  
