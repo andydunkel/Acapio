@@ -6,8 +6,9 @@ title = 'Acapio.de'
 theme = "hugo-clarity"
 DefaultContentLanguage = "de"
 
-[taxonomy]
+[params.author]
 name = "Andy"
+email = "andy.dunkel@ekiwi.de"
 
 
 [params]
