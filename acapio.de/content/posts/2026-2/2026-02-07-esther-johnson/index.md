@@ -608,3 +608,4 @@ Besonders dreist ist der Hinweis, Hugo solle bloß nichts von den Millionen erz�
 Wir schreiben den Scammern zurück, dass wir erstmal auf den Montag warten, inzwischen wird Druck gemacht und es gibt erneut die Bankverbindung:
 
 > Give your wife or friend the money to send on your behalf on Monday so that the document will be available on Tuesday while the fund will be transferred to your account on Thursday.   
+

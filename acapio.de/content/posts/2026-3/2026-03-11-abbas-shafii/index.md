@@ -174,3 +174,29 @@ Also hat er beschlossen, die Sache abzukürzen: Wenn die **980 Euro** wirklich d
 >   
 > Viele Grüße  
 > Hugo  
+
+---
+
+## Jetzt fehlt nur noch der Ausweis 🪪💸
+
+Der nächste Schritt im Scam-Lehrbuch lässt natürlich nicht lange auf sich warten. Bevor irgendetwas passieren kann, braucht unser großzügiger Millionär plötzlich noch eine Kleinigkeit: **eine Kopie des Ausweises**.
+
+> Before anything can be done kindly send down a copy of your identification card to enable us to proceed further
+
+Das Muster bleibt also stabil. Erst persönliche Daten, dann Gebühren – und zwischendurch sammelt man noch ein paar **Identitätsdokumente** ein. Für Betrüger sind solche Informationen natürlich Gold wert: Damit lassen sich weitere Betrugsversuche starten oder sogar echte Identitätsdiebstähle vorbereiten.
+
+Kurz gesagt: Die versprochenen **7 Millionen Dollar** sind weiterhin in weiter Ferne, aber die Datensammlung läuft nach Plan. 📧💰🪪
+
+---
+
+## Hugo legt nach – mit Ausweis 🪪🐔
+
+Nachdem nun unbedingt ein **Ausweis** benötigt wird, hat Hugo natürlich geliefert. Wenn schon Identitätsnachweis verlangt wird, dann auch ordentlich.
+
+Also ging ein frisch eingescanntes Dokument raus – inklusive **Bundeshuhn**, amtlicher Optik und den wichtigsten Daten unseres Mannes aus Wanne-Eickel.
+
+![](/posts/2026-03-11-abbas-shafii/ausweis.webp)
+
+Man will ja schließlich kooperativ sein, wenn jemand versucht, einem **7 Millionen Dollar zu schenken**. 😁💸
+
+Jetzt bleibt abzuwarten, ob der internationale Spendenprozess mit diesem hoch offiziellen Dokument endlich Fahrt aufnimmt. Erfahrungsgemäß findet sich im Scam-Drehbuch aber meist noch irgendwo eine weitere „kleine Formalität“.

@@ -7,8 +7,11 @@ featured: true
 toc: true
 tags:
   -  "scam"
+  -  "malware"
+  -  "Virus"
 categories:
   - "Scam"
+  - "Malware"
 thumbnail: "finanzamt.webp"
 url: "posts/2026-03-10-finanzamt"
 summary: "**Mahnung wegen rückständiger Steuern**: Eine E-Mail mit dem Betreff „Finanzamt Offizielle Mitteilung: Umsatzsteuer 2024“ sorgt aktuell für Verunsicherung. In der Nachricht wird eine angeblich überfällige Steuerzahlung angemahnt und ein Download-Link zu den „Unterlagen“ bereitgestellt. ⚠️📧"

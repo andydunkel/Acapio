@@ -7,8 +7,9 @@ featured: true
 toc: true
 tags:
   -  "scam"
+  -  "phishing"
 categories:
-  - "Scam"
+  - "Phishing"
 thumbnail: "hacker.webp"
 url: "posts/2026-03-13-norton-lifelock"
 summary: "Eine E-Mail verkündet dramatisch, dass sich heute ein **Norton Life-Lock Abo für 349,80 Dollar verlängert**. Wer die Zahlung stoppen will, soll „dringend“ eine Hotline anrufen.
