@@ -609,3 +609,27 @@ Wir schreiben den Scammern zurück, dass wir erstmal auf den Montag warten, inzw
 
 > Give your wife or friend the money to send on your behalf on Monday so that the document will be available on Tuesday while the fund will be transferred to your account on Thursday.   
 
+
+## Erst zahlen, dann verhört werden – Die Edward-Logik ⚖️💸
+
+Der „Managing Partner“ hat den ultimativen juristischen Kniff parat: Hugo soll die **1.500 Euro** an Josue in Frankfurt schicken, **bevor** er zur Polizei geht. Ein Geniestreich! Nichts entkräftet den Vorwurf der Geldwäsche schließlich überzeugender, als pünktlich zum Verhör noch schnell eine weitere verdächtige Transaktion durchzuziehen.
+
+> Thanks for your message. Go ahead and make the payment tomorrow before going to the police station, they're only inviting you for questioning nothing more don't be afraid of anything and you're not going to jail for no reason. Did you commit any crime? Did you defrauded any person? Relax your.  Don't forget about what I told you previously and don't mixed words, tell them exactly what I told you.  
+
+
+### **24 Stunden bis zum Knast: Hugo beim Verhör 🚔⏳**
+
+Hugo ist zurück vom Revier – und die Nerven liegen blank. Kommissar Krüger hat ihn drei Stunden lang „gegrillt“. Dass er nicht direkt in Handschellen abgeführt wurde, liegt nur an seinem ehrlichen Wanne-Eickeler Gesicht. Doch der Kommissar hat ein Ultimatum gestellt: Innerhalb von 24 Stunden muss ein offizielles, beglaubigtes Dokument her, das die Existenz der Millionen zweifelsfrei beweist. Wenn nicht, wird Hugos Konto eingefroren und die Zellen-Tür geölt. Jetzt muss der „Chartered Lawyer“ zeigen, ob sein Word-Art-Baukasten auch „polizeifeste“ Zertifikate ausspucken kann. 🍿📉
+
+> Dear Mr. Edward,  
+>   
+> I am at home now, but I am shaking. I was at the police for 3 hours. Kommissar Krüger was very strict and looked at me like a criminal. I told him exactly what you said about the Church and the Missionaries in 2024.  
+>   
+> But he said: "Mr. Scholz, I don't believe stories. I need facts." He gave me an ultimatum: I have 24 hours. I must show him a real, certified document from the High Court that proves the 5.6 million are real.  
+>   
+> If I don't have this paper tomorrow, he will freeze my bank account and I must go to jail. He said I am a "Verdächtiger" (suspect).  
+>   
+> Please, send me a real paper that the police will accept! I cannot send money to Josue if I am in prison. My life is in your hands now!  
+>   
+> Best regards,  
+> Hugo  

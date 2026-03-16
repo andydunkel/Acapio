@@ -195,8 +195,64 @@ Nachdem nun unbedingt ein **Ausweis** benötigt wird, hat Hugo natürlich gelief
 
 Also ging ein frisch eingescanntes Dokument raus – inklusive **Bundeshuhn**, amtlicher Optik und den wichtigsten Daten unseres Mannes aus Wanne-Eickel.
 
-![](/posts/2026-03-11-abbas-shafii/ausweis.webp)
+![Generierter Ausweis mit Bundeshuhn](/posts/2026-03-11-abbas-shafii/ausweis.webp)
 
 Man will ja schließlich kooperativ sein, wenn jemand versucht, einem **7 Millionen Dollar zu schenken**. 😁💸
 
 Jetzt bleibt abzuwarten, ob der internationale Spendenprozess mit diesem hoch offiziellen Dokument endlich Fahrt aufnimmt. Erfahrungsgemäß findet sich im Scam-Drehbuch aber meist noch irgendwo eine weitere „kleine Formalität“.
+
+
+## Endlich eine Bankverbindung 💸🏦
+
+Der internationale Spendenprozess nimmt Fahrt auf. Nachdem Hugos hochamtlicher Ausweis offenbar akzeptiert wurde, folgt nun der nächste Schritt: **die Überweisung der 980 Euro**.
+
+> Bitte überweisen Sie den Betrag mit den unten stehenden Kontodaten, damit die Bank Ihre Überweisung bearbeiten kann.
+>
+> Bankverbindung
+>
+> Beneficiary: Liberty Ojemolon
+> IBAN: IT19F0357601601010003375980
+> Bic: BBVAITMM
+> Bank Name: BANCO BILBAO VIZCAYA ARGENTARIA S.A. (BBVA)
+> Bank address: CORSO GIACOMO MATTEOTTI, 10
+> MILANO 20121
+>
+> Casual: Purpse of payment: ZIPM207
+
+Interessant ist dabei ein kleines Detail: Der angebliche **Lottogewinner aus Oregon** lässt die Gebühr nicht etwa in den USA einsammeln – sondern auf ein Konto in **Italien**, auf den Namen **Liberty Ojemolon**.
+
+Das wirkt natürlich absolut vertrauenswürdig. Schließlich weiß jeder: Wenn ein amerikanischer Millionär Geld verschenkt, läuft das am besten über ein italienisches Konto einer völlig anderen Person. 🤷‍♂️💰
+
+![Die Bankverbindung inklusive Name stimmt](/posts/2026-03-11-abbas-shafii/konto.webp)
+
+### Die Bank existiert tatsächlich – der Rest wird kreativer 🏦💸
+
+Auf den ersten Blick wirkt die Bankverbindung erstaunlich seriös. **BBVA (Banco Bilbao Vizcaya Argentaria)** ist eine große spanische Bank mit Niederlassungen in mehreren Ländern, darunter auch **Italien**. Der BIC passt zu Mailand, ebenso die angegebene Adresse. Formal sieht das also erstmal korrekt aus.
+
+Beim zweiten Blick wird es dann interessanter: Der angebliche **Lottogewinner aus Oregon** möchte die Gebühr nicht etwa auf sein eigenes Konto – sondern auf ein Konto in Italien überweisen lassen. Empfänger ist **Liberty Ojemolon**, eine Person, die bisher in der Geschichte überhaupt nicht vorkam.
+
+Das ist ein klassisches Muster solcher Betrugsmaschen. Statt direkt bei den Betrügern landet das Geld meist auf sogenannten **Mule-Konten** – also Konten von Strohleuten, über die die Gebühren eingesammelt und anschließend weitergeleitet werden.
+
+Kurz gesagt:
+Die Bank ist echt. Die Geschichte dahinter eher weniger. 😁💰
+
+
+### Hugo hat überwiesen… ungefähr 💸😇
+
+Hugo hat beschlossen, die Sache nicht weiter zu verzögern. Wenn die **980 Euro** der Schlüssel zu sieben Millionen Dollar sind, dann sollte man das Geschäft schließlich nicht unnötig aufhalten.
+
+Also wurde „überwiesen“.
+
+Allerdings lief dabei nicht alles ganz nach Lehrbuch. Statt der geforderten **980 Euro** gingen nur **98 Euro** raus. Außerdem wurde der Verwendungszweck kreativ interpretiert und nicht der gewünschte Code verwendet, sondern einfach:
+
+> **Abbas Shafii Spende**
+
+Kurz gesagt: **zu wenig Geld, falscher Verwendungszweck und vermutlich auch nicht ganz das erwartete Vorgehen**.
+
+![Wir machen alles falsch](/posts/2026-03-11-abbas-shafii/ueberweisung.webp)
+
+Jetzt sind wir gespannt, wie die internationale Finanzabwicklung darauf reagiert. Vielleicht müssen die sieben Millionen Dollar nun neu berechnet werden. 🤷‍♂️💰😄
+
+
+
+
