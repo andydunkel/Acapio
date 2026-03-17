@@ -253,6 +253,33 @@ Kurz gesagt: **zu wenig Geld, falscher Verwendungszweck und vermutlich auch nich
 
 Jetzt sind wir gespannt, wie die internationale Finanzabwicklung darauf reagiert. Vielleicht müssen die sieben Millionen Dollar nun neu berechnet werden. 🤷‍♂️💰😄
 
+---
 
+## Mathe ist wichtig 📊💸
 
+Unsere kreative Teilüberweisung kam leider nicht ganz so gut an. Offenbar legt man im internationalen Spendenwesen großen Wert auf **exakte Beträge**.
 
+> Sie müssen 980 Euro und nicht 98 Euro senden.
+
+Schade eigentlich. Wir hatten gehofft, man könnte sich bei 7 Millionen Dollar vielleicht auf einen kleinen Mengenrabatt einigen. Stattdessen wird streng darauf bestanden, dass die **980 Euro vollständig und bitte nochmal** überwiesen werden.
+
+Flexibilität scheint hier nicht Teil des Geschäftsmodells zu sein. 😄
+
+### Hugo versucht zu verhandeln 💸🚗
+
+Die klare Ansage „980 Euro, nicht 98“ hat Hugo natürlich zur Kenntnis genommen – Begeisterung sieht allerdings anders aus.
+
+Statt direkt erneut zu zahlen, hat er erstmal die Lage geschildert: **Der 3er BMW war gerade in der Werkstatt**, und wie man weiß, sind das selten Schnäppchenpreise. Entsprechend sitzt das Geld aktuell nicht ganz so locker.
+
+Also wird kurzerhand versucht, beim internationalen Spendenprozess noch ein bisschen zu handeln. Vielleicht geht ja noch was am Preis. Immerhin reden wir hier von **7 Millionen Dollar Gegenwert** – da sollte doch ein kleiner Rabatt drin sein. 😄💰
+
+> Hallo,  
+>   
+> ich glaub da haben wir aneinander vorbeigeredet. Ich bin von 98 Euro ausgegangen, nicht von 980 Euro.  
+>   
+> 980 Euro sind schon ne Ansage. So locker sitzt das Geld bei mir nicht, mein 3er BMW war gerade erst in der Werkstatt und hat gut reingehauen.  
+>   
+> Gibt’s da vielleicht ne andere Lösung oder geht da noch was am Preis?  
+>   
+> Gruß  
+> Hugo  

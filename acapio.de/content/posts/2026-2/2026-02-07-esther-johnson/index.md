@@ -633,3 +633,63 @@ Hugo ist zurück vom Revier – und die Nerven liegen blank. Kommissar Krüger h
 >   
 > Best regards,  
 > Hugo  
+
+
+---
+
+## Die wundersame Auferstehung aus der Intensivstation 🏥✨
+
+Esther Johnson zieht das ganz große Drama-Register: Nur eine Stunde nach Verlassen der Intensivstation (ICU) greift sie zum Laptop, um Hugo ins Gewissen zu reden. Dass sie in diesem Zustand überhaupt einen klaren Satz formulieren kann (na ja, fast), grenzt an ein medizinisches Wunder. 
+
+Besonders dreist ist das **Gaslighting**: Sie wirft Hugo vor, er habe sie und den Anwalt bei der Polizei „verpfiffen“. Sie stellt die Autorität der deutschen Behörden infrage („Welches Gericht hat denen das Recht gegeben?“) und behauptet, die Polizei wolle ihn nur einschüchtern, damit er die Millionen aufgibt. Ihr Rat: Ignorier die Handschellen, hör auf den Anwalt! Dass „nichts dergleichen in ihrer Blutlinie fließt“, ist ihr einziges juristisches Argument gegen eine BaFin-Ermittlung. Ein echtes Best-of der emotionalen Erpressung. 🎭💊
+
+> Dear friend Hugo Scholz   
+>   
+> I came out of the ICU unit 1hr ago and received a message from my lawyer and I was very surprised what's going on?   
+>   
+> Please I want to know did you made any official reports to the police against me or the lawyer over the donation?   
+>   
+> While will they interfering? And demanding for peper work over what?   
+>   
+> Kindly overlook them and adheres to the lawyer instructions they don't have the right to jail you for no reason which court of compitentnt jurisdiction gave them such order or power to do so?  They're just trying to intimidate you so that you will abandon the donation .   
+>   
+> I am under medication I can't go against doctors instructions now bear with me.   
+>   
+> Mrs Esther Johnson   
+> From my sick bedroom.  
+
+---
+
+## Hugos Antwort: „Ich bin kein Verräter!“ 📧🙏
+
+Hugo muss jetzt den Spagat schaffen zwischen „Ich bete für dich“ und „Ich hab Angst vor dem Knast“. Er schreibt beiden zurück und fragtr nach einem Foto.
+
+> Dear Mrs. Esther, dear Mr John,  
+>   
+> I am so happy you are out of the ICU! God is good!  
+>   
+> But please, you must not be angry with me. I did NOT go to the police. The bank (Frau Müller) and the "BaFin" sent the police to my house because of the money for Benjamin. I told the police you are a good woman and a missionary!  
+>   
+> But Kommissar Krüger said: "Mr. Scholz, everyone says they are a missionary. Show me a photo of Mrs. Esther in the hospital or a paper from the doctor!"  
+>   
+> Can you please send me a photo from your "sick bedroom" or a paper from the hospital? If I show the police that you are really sick in the hospital, maybe they leave me alone.  
+>   
+> I don't want to ignore the lawyer, but the police has guns and a big car. I am very small man in Wanne-Eickel.  
+>   
+> Please help me to prove you are real!  
+>   
+> Your friend, Hugo  
+
+
+
+## Der Papier-Beweis: Jetzt wird’s amtlich! 📄⚖️
+
+Gerade als Hugo dachte, der Kommissar würde ihn einkassieren, wedelt der Anwalt mit dem nächsten „Beweis“: Einem **"Sworn Affidavit of Change of Ownership"**. Besonders beruhigend für die Polizei: Esther Johnson ist darin offiziell mit der Religion „Christianity“ gelistet – weil der Glaube in internationalen Besitzurkunden natürlich das wichtigste rechtliche Kriterium ist. ⛪️
+
+Trotz Hugos angeblichem „Konto-Problem“ bei der BaFin und dem massiven Druck durch den „Polizeibesuch“, präsentiert uns dieses Werk vom **16. März 2026** eine abenteuerliche Mischung aus Schweizer Wohnsitz und englischem Gerichtssiegel. Gekrönt wird das Ganze von einem Stempel eines gewissen „Mr. Mark Wasserman“, der anscheinend der „Chairman“ des High Court ist. Bei so vielen bunten Stempeln und Unterschriften kann das ja eigentlich nur echt sein, oder? 🍿🤡
+
+> Attached is the Affidavit change of ownership certificate and it will only be valid once the payment is been made and received by the court then they will give authorization notice to us before the document can be effective.   
+>   
+> Get back to me for reconfirmations of the payment details.   
+
+![Name der Bankverbindung passt](/posts/2025-02-07-esther-johnson/dokument.webp)

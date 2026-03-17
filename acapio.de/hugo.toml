@@ -41,13 +41,6 @@ home = ["HTML", "RSS", "JSON"]
   url = "/"
   weight = -200
 
-
-[[menus.main]]
-  name = "Links"
-  url = "/links/"
-  weight = -100 
-
-
 [[menus.main]]
   name = "Hintergründe"
   identifier = "background"
