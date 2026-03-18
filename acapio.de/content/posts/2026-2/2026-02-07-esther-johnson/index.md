@@ -693,3 +693,43 @@ Trotz Hugos angeblichem „Konto-Problem“ bei der BaFin und dem massiven Druck
 > Get back to me for reconfirmations of the payment details.   
 
 ![Name der Bankverbindung passt](/posts/2025-02-07-esther-johnson/dokument.webp)
+
+## Das Stockfoto-Drama: Wenn die Bildersuche zum Endgegner wird 📸🏥
+
+Esther legt nach! Um ihre „Bloodline“ und ihre schwere Krankheit zu beweisen, schickt sie ein ganzes Fotoalbum aus dem „Krankenbett“. Doch statt Mitleid ernten die Scammer hier nur schallendes Gelächter. 
+
+Die Bildergalerie ist ein Best-of der Stockfoto-Portale: 
+* Wir sehen eine Patientin mit Sauerstoffschläuchen, die so professionell ausgeleuchtet ist, dass man fast das Wasserzeichen sucht.
+* Ein medizinisches Dokument einer Klinik namens „ANSH MEDICARE“ aus Indien (Haryana) – mutig für eine Frau, die angeblich in der Schweiz lebt und einen britischen Anwalt hat. 🇮🇳🌍
+* Der absolute Höhepunkt: In die Collage wurde das Gesicht einer **weinenden jungen Frau** montiert. Kenner wissen: Das ist ein bekanntes Meme/Pressefoto der Schauspielerin Lili Reinhart. Dass ein Hollywood-Star an Esthers Bett in Wanne-Eickel-Süd um sie weint, wertet die Geschichte natürlich massiv auf. 🎭😭
+
+![Unser Favorit ist ganz rechts](/posts/2025-02-07-esther-johnson/krankenhaus.webp)
+
+Die Bilder kommen uns auch verdächtig bekannt aus einem [anderen Scam vor](/posts/2024-12-25_turkish_sick_woman/#stockfotos).
+
+Die Verzweiflung der Scammer ist jetzt bildlich greifbar. Wer solche „Beweise“ schickt, muss wirklich darauf hoffen, dass Hugo seine Brille im Dackelclub vergessen hat. 🍿🤡
+
+Gleichzeitig schreibt uns der Anwalt, dass er nun alles menschenmögliche getan hat um uns zu überzeugen:
+
+> Well I have done my part and my professional best in this whole matter and I have produces the document you needed the rest left for you. You have only two options niether to carry out Mrs Esther Johnson wishes or you discontinued.  
+>   
+> I promise to give you any legal backing you needed to make sure you received the donation from Mrs Esther Johnson without any hindrance.  
+>   
+> Go ahead and make the payment for authorization of the documents I sent to you yesterday to enable the bank transfer to the into your own bank account.  
+
+### Die Indien-Schweiz-Connection 🇮🇳🇨🇭
+
+Hugo ist verwirrt: Esther schickt Fotos aus dem „Krankenbett“, doch das Briefpapier kommt aus einer Klinik in Indien, während sie angeblich in der Schweiz wohnt. Dazu ein weinendes Mädchen, das Hugo irgendwie aus dem Fernsehen bekannt vorkommt. Er spielt den Unwissenden und schiebt erneut die Polizei vor – der ultimative Zeitgewinn. 🍿📈
+
+> Dear Mr. Edward and Mrs. Esther,  
+>   
+> I see pictures. Esther, you look like movie star! But why paper say "India"? My friend Kalle say India is very far from Switzerland. Is you in India now?  
+>   
+> I go to police tomorrow morning 08:00. I show Kommissar Krüger the "Affidavit" and pictures.  
+>   
+> He say: "Hugo, no pay money before I check if papers real."  
+>   
+> If I pay now and paper is "Fälschung" (fake), I go to jail immediately. I don't want jail! I wait what police say tomorrow and then I write you.  
+>   
+> Pray for me!  
+> Hugo  

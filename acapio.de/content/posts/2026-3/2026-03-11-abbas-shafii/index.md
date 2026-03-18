@@ -283,3 +283,33 @@ Also wird kurzerhand versucht, beim internationalen Spendenprozess noch ein biss
 >   
 > Gruß  
 > Hugo  
+
+## Preisverhandlung leider gescheitert 💸🙃
+
+Hugos Versuch, beim Preis noch etwas rauszuholen, war… sagen wir mal: ambitioniert. Leider ohne Erfolg.
+
+> Es tut mir leid, Ihnen mitteilen zu müssen, dass die 980 Euro bezahlt werden müssen, bevor Sie Ihr Geld erhalten können.
+
+Die internationale Spendenabwicklung zeigt sich also **preislich erstaunlich unflexibel**. Weder Werkstattkosten noch gute Argumente konnten den Betrag drücken.
+
+Bleibt festzuhalten:
+Bei 7 Millionen Dollar hört der Spaß offenbar bei **980 Euro Verhandlungsbasis** schon auf. 😄💰
+
+### Hugo geht in die Ratenzahlung 💸📉
+
+Da sich der Preis leider nicht drücken ließ, versucht Hugo es jetzt mit einer anderen Strategie: **Teilzahlung**.
+
+Mehr als 400 Euro sind aktuell nicht drin, also wird vorgeschlagen, erstmal **300 Euro nachzuschieben** und den Rest… naja, vielleicht später. Man kennt das ja – große Summen kommen schließlich auch nicht jeden Tag rein. 😉
+
+> Hallo,  
+>   
+> mehr ist aktuell wirklich nicht drin bei mir. Ich könnte maximal 400 Euro zusammenkratzen.  
+>   
+> Ich würde dann jetzt nochmal 300 Euro überweisen, dann wären wir insgesamt bei 398 Euro. Mehr geht im Moment einfach nicht.  
+>   
+> Würde das so auch funktionieren?  
+>   
+> Gruß  
+> Hugo  
+
+Ob der internationale Millionen-Transfer auch **Ratenzahlung akzeptiert**, bleibt spannend. Aber vielleicht lässt sich bei 7 Millionen Dollar ja doch noch ein bisschen Flexibilität raushandeln. 😄

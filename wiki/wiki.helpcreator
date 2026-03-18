@@ -1,0 +1,178 @@
+<xml>
+  <info>
+    <version>DA-HelpCreator;1</version>
+  </info>
+  <content>
+    <generalsettings>
+      <projecturl>http://</projecturl>
+      <autoexport>False</autoexport>
+      <OptimizeFileNames>True</OptimizeFileNames>
+      <sitemap>False</sitemap>
+      <imagesitemap>False</imagesitemap>
+      <StandardEditorType>Markdown</StandardEditorType>
+      <AutoSave>False</AutoSave>
+      <webpimage>False</webpimage>
+      <AddHtmlSearch>True</AddHtmlSearch>
+    </generalsettings>
+    <design>
+      <TemplateName>3</TemplateName>
+      <Breadcrump>True</Breadcrump>
+      <Menubar>False</Menubar>
+      <placeholders>
+        <placeholder id="title">
+          <name>Title</name>
+          <description>Title of the web site - used for the title tag and top bar.</description>
+          <content>Scam Wiki</content>
+        </placeholder>
+        <placeholder id="author">
+          <name>Author meta tag</name>
+          <description>Will be outputted in the meta tag "author" of the website.</description>
+          <content>Andy Dunkel</content>
+        </placeholder>
+        <placeholder id="description">
+          <name>Description meta tag</name>
+          <description>Will be outputted in the meta tag "author" of the website.</description>
+          <content>
+          </content>
+        </placeholder>
+        <placeholder id="footer">
+          <name>Footer</name>
+          <description>Footer is shown at the end of the web page. Not available for all templates.</description>
+          <content>
+          </content>
+        </placeholder>
+      </placeholders>
+    </design>
+    <ftpsettings Id="c18b7aca-5357-405c-8eb7-e922dcdf1e81">
+      <profilname>
+      </profilname>
+      <servername>
+      </servername>
+      <username>
+      </username>
+      <password>
+      </password>
+      <hidePasswort>False</hidePasswort>
+      <autoDelete>False</autoDelete>
+      <synchronize>False</synchronize>
+      <openWebsite>False</openWebsite>
+      <ssltlsencryption>False</ssltlsencryption>
+      <sFTP>False</sFTP>
+      <directories>
+      </directories>
+      <numthreads>1</numthreads>
+    </ftpsettings>
+    <metatagsettings>
+      <title>
+      </title>
+      <author>
+      </author>
+      <description>
+      </description>
+      <keywords>
+      </keywords>
+      <robotsnoindex>False</robotsnoindex>
+      <robotsnofollow>False</robotsnofollow>
+      <isdate>False</isdate>
+      <istime>False</istime>
+      <date>1/1/0001 12:00:00 AM</date>
+      <time>1/1/0001 12:00:00 AM</time>
+      <istelephone>False</istelephone>
+      <recognizetelephone>False</recognizetelephone>
+      <isdateexpires>False</isdateexpires>
+      <istimeexpires>False</istimeexpires>
+      <dateexpires>1/1/0001 12:00:00 AM</dateexpires>
+      <timeexpires>1/1/0001 12:00:00 AM</timeexpires>
+      <secondsexpires>-1</secondsexpires>
+      <cachecontrol>0</cachecontrol>
+      <ispragmacachecontrol>False</ispragmacachecontrol>
+    </metatagsettings>
+    <DADocument>
+      <borderleft>25</borderleft>
+      <borderright>20</borderright>
+      <bordertop>20</bordertop>
+      <borderbottom>20</borderbottom>
+      <pagesize>5</pagesize>
+      <pageorientation>0</pageorientation>
+      <DocInfo>
+        <title>
+        </title>
+        <author>
+        </author>
+        <creator>
+        </creator>
+        <subject>
+        </subject>
+        <keywords>
+        </keywords>
+      </DocInfo>
+      <header>
+        <textleft>
+        </textleft>
+        <textmiddle>
+        </textmiddle>
+        <textright>
+        </textright>
+      </header>
+      <footer>
+        <textleft>
+        </textleft>
+        <textmiddle>
+        </textmiddle>
+        <textright>
+        </textright>
+      </footer>
+      <LeftBoderOptions>
+        <text>
+        </text>
+        <printpunchermark>False</printpunchermark>
+        <foldmarks>0</foldmarks>
+      </LeftBoderOptions>
+    </DADocument>
+    <helpExplorerData>
+      <Title>Help Explorer</Title>
+      <ShowToolbar>True</ShowToolbar>
+      <StartMaximized>False</StartMaximized>
+      <WindowCenter>True</WindowCenter>
+      <WindowLeft>200</WindowLeft>
+      <WindowHeight>800</WindowHeight>
+      <WindowTop>300</WindowTop>
+      <WindowWidth>1024</WindowWidth>
+      <ExportDir>
+      </ExportDir>
+      <title>Help Explorer</title>
+    </helpExplorerData>
+    <CHMExport>
+      <Title>Help</Title>
+      <Language>91</Language>
+      <ExportFileName>help.chm</ExportFileName>
+      <ThemeName>
+      </ThemeName>
+      <StartPage>index.html</StartPage>
+      <WindowWidth>1024</WindowWidth>
+      <WindowHeight>800</WindowHeight>
+      <WindowLeft>200</WindowLeft>
+      <WindowTop>300</WindowTop>
+      <AddFullTextSearch>False</AddFullTextSearch>
+      <ButtonHideShow>False</ButtonHideShow>
+      <ButtonBack>True</ButtonBack>
+      <ButtonForward>True</ButtonForward>
+      <ButtonStop>False</ButtonStop>
+      <ButtonRefresh>False</ButtonRefresh>
+      <ButtonHome>True</ButtonHome>
+      <ButtonOptions>False</ButtonOptions>
+      <ButtonPrint>False</ButtonPrint>
+      <AddRoot>True</AddRoot>
+      <ThemeName>
+      </ThemeName>
+    </CHMExport>
+    <treeContent>
+      <DirectoryNode Path="" Expanded="True" Id="36021a42-e913-4b2a-83ac-e663976205a6">
+        <DirectoryNode Path="Fake-Banken" Expanded="False" Id="bfc7c907-977e-422e-9a05-a9dfadecbfcd" />
+        <DirectoryNode Path="Impressum" Expanded="False" Id="fcf965d8-6f8d-4670-8130-ee4c504ef87d" />
+      </DirectoryNode>
+    </treeContent>
+    <exportPath>
+    </exportPath>
+  </content>
+</xml>

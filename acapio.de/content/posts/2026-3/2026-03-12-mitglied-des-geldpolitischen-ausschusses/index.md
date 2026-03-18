@@ -109,3 +109,80 @@ Hugo zeigt sich beeindruckt von den Millionen, bleibt aber vorsichtig, zumindest
 
 Mal sehen, ob Norbert jetzt plötzlich offizielle Dokumente aus dem Hut zaubert – oder ob die nächste Mail wieder nur aus großen Versprechen besteht. 😏💰
 
+## Jetzt wird Vertrauen aufgebaut – mit Passfoto
+
+Norbert legt nach und fährt jetzt die ganz große Vertrauensnummer auf: **7 Millionen Pfund, alles legal, alles sicher, nur 7 Tage** – und als Beweis gibt’s direkt eine Passkopie dazu. 📄😄
+
+Im Gegenzug sollen wir ihm nur „kurz“ unsere kompletten persönlichen Daten schicken, inklusive Ausweis. Klar, was sind schon ein paar sensible Infos unter zukünftigen Geschäftspartnern?
+
+Kurz gesagt: Die Story wird immer detaillierter – und gleichzeitig immer klassischer. Erst Millionen versprechen, dann Vertrauen aufbauen und am Ende **möglichst viele persönliche Daten abgreifen**. Fehlt eigentlich nur noch die erste „Bearbeitungsgebühr“. 💰😏
+
+### Der Ausweis
+
+Natürlich liefert Norbert direkt den „ultimativen Beweis“: einen Reisepass. Sieht offiziell aus, wirkt vertrauenswürdig – genau so soll es sein. 📄😄 In solchen Scams stammen solche Bilder aber oft aus dubiosen Quellen, sind gestohlen oder schlicht bearbeitet. Der Trick ist simpel: **Vertrauen aufbauen, damit wir im Gegenzug unsere eigenen Daten rausrücken**. 
+
+![](/posts/2026-03-12-mitglied-des-geldpolitischen-ausschusses/ausweis.webp)
+
+### Die lange E-Mail
+
+> Vielen Dank für Ihre Antwort auf meine E-Mail und Ihre Bereitschaft zur Zusammenarbeit. Angesichts der Höhe des Geldbetrags und der Art der Transaktion ist mir absolute Ehrlichkeit wichtig, damit wir unser Ziel erreichen. Ich möchte sichergehen, dass Sie diese Transaktion mit mir durchführen möchten, und erwarte von Ihnen Vertrauen und Zuverlässigkeit. Ich möchte diesen hohen Geldbetrag mit Ihrer Hilfe überweisen, und Sie brauchen sich keine Sorgen um die Rechtmäßigkeit zu machen, denn Ihre Bedenken sind auch meine. Daher versichere ich Ihnen, dass Sie sich keine Sorgen machen müssen. Ich werde alle rechtlich notwendigen Schritte unternehmen, um einen reibungslosen Ablauf zu gewährleisten. Die Transaktion wird allen internationalen Bankvorschriften entsprechen. Ich bin überzeugt, dass sie bei sorgfältiger Durchführung innerhalb von sieben Werktagen abgeschlossen sein wird.  
+>   
+> Sie fragen sich vielleicht, woher ich Ihre E-Mail-Adresse habe. Ehrlich gesagt habe ich sie diskret online gefunden, als ich nach einem zuverlässigen Partner für die Geldüberweisung suchte. In meinen vorherigen E-Mails habe ich Ihnen bereits erklärt, warum ich Ihre Hilfe benötige.  
+>   
+> Ich werde mir so schnell wie möglich eine neue Telefonnummer besorgen, damit wir besser kommunizieren können.  
+> Hier sind meine vollständigen Kontaktdaten, falls Sie diese benötigen:  
+>   
+> 1. Name: Norbert Seifried Anton  
+> 2. Beruf: Britischer Wirtschaftswissenschaftler/Professor  
+> 3. Religion: Christlich / Menschlichkeit vor Religion  
+> 4. Familienstand: Verheiratet  
+> 5. Geschlecht: Männlich  
+> 6. Geburtsdatum: 4. April 1953  
+> 7. Wohnadresse: 7 Hamilton Avenue, London N9 7PP, Vereinigtes Königreich  
+>   
+> Meine Passnummer finden Sie im Anhang.  
+>   
+> Nachdem ich Ihnen dies mitgeteilt habe, hoffe ich sehr, dass Sie mir bei der Erreichung dieses Ziels vertrauen können. Ich bitte Sie daher, mir die folgenden Informationen umgehend zukommen zu lassen.  
+>   
+> ABSCHNITT I  
+>   
+> 1. Ihr vollständiger Name  
+> 2. Ihre Adresse  
+> 3. Aktueller Beruf und Position  
+> 4. Familienstand  
+> 5. Geburtsdatum  
+> 6. Religion  
+> 7. Telefonnummer (Mobil und Festnetz)  
+>   
+> Zunächst werde ich einen Anwalt kontaktieren, der die notwendigen eidesstattlichen Erklärungen erstellt, in denen Sie als Begünstigter benannt werden. Anschließend werden Sie gebeten, eine Kopie Ihres Personalausweises einzureichen. Der Anwalt benötigt diese Kopie und die darauf enthaltenen Informationen, um alle notwendigen Unterlagen vorzubereiten und eine vertrauensvolle Beziehung zwischen uns aufzubauen.  
+>   
+> Der Anwalt wird alle Nachlassangelegenheiten in Ihrem Namen regeln. Er wird alle von der Metro Bank PLC benötigten Dokumente unterzeichnen lassen. Mit diesen Dokumenten werden Sie die Bank anschreiben und die sofortige Freigabe und Überweisung der Erbschaft an Ihre gewählte Bank beantragen. Ich bin seit vielen Jahren im Bankwesen tätig und kenne die Abläufe genau.  
+>   
+> Sobald ich Ihre Dokumente/Angaben erhalten habe, werde ich die notwendigen Formalitäten kostenlos für Sie erledigen.  
+>   
+> Ich freue mich auf Ihre zeitnahe Antwort auf diese Anfrage.  
+>   
+> Mit freundlichen Grüßen,  
+> Norbert Seifried Anton  
+
+### Hugo wird skeptisch
+
+Der Ausweis beeindruckt Hugo zwar kurz – aber genau das macht ihn stutzig. 🤔 Zwischen Bier und BMW-Club setzt dann doch der gesunde Menschenverstand ein: Warum sollte ein angeblicher Banker einfach so Millionen verteilen und dafür nur unseren Nachnamen brauchen?
+
+Statt blind seine Daten rauszugeben, fordert Hugo erstmal **nachprüfbare Belege** von Bank oder Anwalt. Ein kleiner Realitätscheck für Norbert – mal sehen, ob jetzt echte Dokumente kommen oder wieder nur heiße Luft. 😏💰
+
+> Hallo Herr Anton,  
+>   
+> vielen Dank für die ausführlichen Infos und auch für den Ausweis.  
+>   
+> Ich sag’s ehrlich, das wirkt alles schon ziemlich professionell – aber genau deswegen bin ich jetzt auch etwas vorsichtig geworden 😅  
+> Bei uns im Verein haben ein paar Jungs direkt gesagt, ich soll aufpassen, bevor ich hier meine ganzen persönlichen Daten rausgebe.  
+>   
+> Bevor ich Ihnen da irgendwas schicke: Können Sie mir vielleicht einen offiziellen Nachweis von der Bank oder dem Anwalt zukommen lassen? Also irgendwas, was man unabhängig prüfen kann.  
+>   
+> Und vielleicht auch kurz erklären, warum ausgerechnet ich jetzt als Angehöriger in Frage komme – nur wegen dem Nachnamen kommt mir das etwas komisch vor.  
+>   
+> Nicht falsch verstehen, die 7 Millionen klingen natürlich gut 😄, aber ich will da nichts überstürzen.  
+>   
+> Viele Grüße  
+> Hugo  
