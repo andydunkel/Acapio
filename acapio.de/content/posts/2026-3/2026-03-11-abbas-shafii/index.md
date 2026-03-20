@@ -313,3 +313,37 @@ Mehr als 400 Euro sind aktuell nicht drin, also wird vorgeschlagen, erstmal **30
 > Hugo  
 
 Ob der internationale Millionen-Transfer auch **Ratenzahlung akzeptiert**, bleibt spannend. Aber vielleicht lässt sich bei 7 Millionen Dollar ja doch noch ein bisschen Flexibilität raushandeln. 😄
+
+
+## Ratenzahlung plötzlich möglich 😄💸
+
+Und siehe da: Was eben noch völlig unmöglich war, geht auf einmal doch.
+
+> Okay, Sie können die 400 Euro senden und den Restbetrag überweisen, nachdem Sie Ihr Geld erhalten haben.
+
+Die zuvor in Stein gemeißelten **980 Euro** sind plötzlich flexibel geworden. Erst „keine Ausnahme möglich“, jetzt auf einmal **Ratenzahlung mit Vertrauensvorschuss**. Man muss nur ein bisschen verhandeln.
+
+Das zeigt ziemlich schön, wie belastbar die angeblichen „fixen Gebühren“ wirklich sind. Sobald Widerstand kommt, wird das Modell einfach angepasst – Hauptsache, **irgendetwas wird überwiesen**.
+
+Kurz gesagt:
+Aus 980 Euro Pflicht werden plötzlich 400 Euro Verhandlungsbasis.
+Fast schon ein Sonderangebot. 😁💰
+
+### Jetzt kommt Rudi ins Spiel 🐕💸
+
+Nachdem der Scam plötzlich erstaunlich flexibel geworden ist, musste Hugo leider erneut bremsen. Der Grund: **Dackel Rudi**.
+
+Der gute Rudi wurde krank und ein spontaner Tierarztbesuch hat direkt mal **200 Euro** gekostet. Damit ist die große internationale Spendenabwicklung kurzfristig an der **Realität des Alltags** gescheitert.
+
+Also wird jetzt weiter verhandelt: **250 Euro am Montag**, der Rest vielleicht nächsten Monat – je nach Gehaltseingang.
+
+> Hallo,  
+>   
+> bei mir ist heute leider noch etwas dazwischengekommen. Mein Dackel Rudi ist krank geworden und musste kurzfristig zum Tierarzt. Das hat mich jetzt nochmal rund 200 Euro gekostet.  
+>   
+> Daher kann ich aktuell nicht die vollen 400 Euro überweisen. Ich könnte am Montag 250 Euro schicken. Mehr wäre dann erst wieder nächsten Monat möglich, wenn das Gehalt kommt.  
+>   
+> Würde das für Sie auch passen?  
+>   
+> Gruß  
+> Hugo  
