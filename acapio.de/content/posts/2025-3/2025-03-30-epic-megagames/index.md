@@ -184,3 +184,12 @@ Also will Hugo erstmal die Internetseite sehen, bevor er sich für ein Sparkonto
 > Hugo    
 > BMW-Club Wanne-Eickel    
 > Grillmeister seit 2003  
+
+## Fazit: Wenn’s zu schön ist, um wahr zu sein...
+
+Kurz und knapp: Judith Faulkner wird Hugo nie die 3,5 Millionen schicken. Warum? Weil es den **Vorschussbetrug** (*Advance Fee Fraud*) schon länger gibt als Hugos BMW. 
+
+**Die goldenen Regeln gegen Scam:**
+* **Zahlen für den Gewinn?** Wenn du erst Geld überweisen sollst, um Geld zu erhalten (Gebühren, Steuern, Notar), ist es zu **100 % Betrug**.
+* **Gratis gibt’s nix:** Niemand verschenkt Millionen per E-Mail an Fremde in Wanne-Eickel – auch keine Philanthropen.
+* **Rote Flaggen:** Dubiose Mail-Adressen (`@accountant.com`), fehlende Webseiten und schlechtes Deutsch/Englisch sind klare Warnzeichen.
