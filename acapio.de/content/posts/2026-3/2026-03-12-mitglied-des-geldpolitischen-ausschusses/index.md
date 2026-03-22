@@ -186,3 +186,12 @@ Statt blind seine Daten rauszugeben, fordert Hugo erstmal **nachprüfbare Belege
 >   
 > Viele Grüße  
 > Hugo  
+
+
+## Fazit: Millionen geplatzt – schade aber auch 😄
+
+Nach der Nachfrage nach echten Nachweisen wird es plötzlich still. Kein Anwalt, keine Bank, keine 7 Millionen Pfund mehr – nur noch Funkstille. 📭
+
+Ein klassischer Verlauf: Solange wir brav mitspielen und Daten liefern sollen, ist der Kontakt intensiv. Sobald es um **prüfbare Beweise** geht, verlieren die Scammer schnell das Interesse.
+
+Am Ende bleibt festzuhalten: Die Millionen waren nie real – der Versuch, an persönliche Daten zu kommen, dagegen schon. Immerhin haben wir Norbert ein bisschen beschäftigt. Prost darauf. 🍺😏
