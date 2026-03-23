@@ -97,3 +97,14 @@ Ist das die einmalige Chance des Lebens oder doch nur der nächste Griff ins Sca
 >   
 > Viele Grüße  
 > Hugo aus Wanne-Eickel  
+
+
+## Fazit
+
+Und dann… nichts mehr. Funkstille. 📭
+
+Offenbar war Hugo im Vereinsheim nicht die erhoffte Zielgruppe für eine spontane 150-Millionen-Überweisung. Vielleicht lag es am Kater, vielleicht an den kritischen Nachfragen – oder daran, dass Scammer erfahrungsgemäß schnell das Interesse verlieren, wenn ihr Gegenüber nicht sofort mitspielt.
+
+Das Muster ist immer gleich: Große Summen, viel Drama, maximaler Zeitdruck. Doch sobald man nicht direkt „Ja“ sagt oder beginnt, unbequeme Fragen zu stellen, wird es plötzlich ganz ruhig.
+
+Am Ende bleibt: Keine Millionen, kein Anwalt, kein letzter Wunsch – nur ein weiterer Scam, der im Nirvana des Posteingangs verschwunden ist. 💸

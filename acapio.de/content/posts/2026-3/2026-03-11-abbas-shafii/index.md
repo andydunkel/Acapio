@@ -347,3 +347,47 @@ Also wird jetzt weiter verhandelt: **250 Euro am Montag**, der Rest vielleicht n
 >   
 > Gruß  
 > Hugo  
+
+
+## Jetzt wird’s hektisch – und kreativ 🎁💸
+
+Kaum wird das Geld knapp, zieht das Scam-Drehbuch nochmal richtig an. Plötzlich reicht eine normale Überweisung nicht mehr – jetzt sollen wir zusätzlich noch eine **Apple-Geschenkkarte über 350 Euro** besorgen.
+
+> Leider müssen wir Ihnen mitteilen, dass wir Ihre Zahlung noch nicht erhalten haben. Bitte senden Sie uns daher den Betrag jetzt zusammen mit einer Apple-Geschenkkarte.  
+>   
+> Bitte senden Sie uns eine Apple-Geschenkkarte im Wert von 350 Euro und eine Kopie davon. 
+
+Klar. Klassischer nächster Schritt: **Geschenkkarten**. Die lassen sich schnell einlösen, sind schwer zurückzuverfolgen und gehören zum Standardrepertoire solcher Betrugsmaschen.
+
+Und weil das noch nicht genug Druck ist, wird direkt die nächste Karte gezogen: **Zeitdruck**.
+
+> Hiermit teile ich Ihnen mit, dass die von mir gespendete Summe von 7.000.000,00 USD noch aussteht. Sie haben 48 Stunden Zeit, die Bearbeitung abzuschließen. Andernfalls wird die Spende storniert.  
+>   
+> Ich freue mich auf Ihre baldige Rückmeldung.  
+
+Plötzlich droht also der Verlust der sagenhaften **7 Millionen Dollar**, wenn wir nicht schnell genug reagieren. Ein altbekannter Trick: Stress erzeugen, damit man weniger nachdenkt.
+
+Kurz gesagt:
+Jetzt sind wir endgültig im **Endgame des Scam-Baukastens** angekommen –
+Gebühren, Geschenkkarten und künstlicher Zeitdruck. Fehlt eigentlich nur noch ein „letzte Chance“-Countdown. 😄💰
+
+### Wenn’s ernst wird: Tante Erna muss helfen 👵💸
+
+Hugo bleibt davon erstmal unbeeindruckt. Das Problem ist ohnehin ein ganz anderes: **Die Kasse ist leer**. Tierarzt, Vereinsheim, Werkstatt – das Leben funkt dazwischen.
+
+Also wird jetzt die letzte Instanz aktiviert: **Tante Erna**. Wenn jemand kurzfristig Geld locker machen kann, dann sie.
+
+Bis dahin muss der internationale Millionen-Transfer leider kurz warten. Vielleicht lässt sich der 48-Stunden-Countdown ja mit einem guten Stück Kuchen bei Erna noch etwas strecken. 😄🐕💰
+
+> Hallo,  
+>   
+> ich muss da ehrlich sagen, aktuell bin ich komplett blank. Durch die Geschichte mit meinem Hund und der Tierarztrechnung ist das Geld erstmal weg.  
+>   
+> Ich muss jetzt erstmal bei meiner Tante Erna nachfragen, ob sie mir etwas leihen kann. Ohne das wird das im Moment nichts.  
+>   
+> Ich melde mich, sobald ich da etwas klären konnte.  
+>   
+> Gruß  
+> Hugo  
+
+
