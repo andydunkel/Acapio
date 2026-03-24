@@ -391,3 +391,29 @@ Bis dahin muss der internationale Millionen-Transfer leider kurz warten. Viellei
 > Hugo  
 
 
+## Sonderangebot im Scam-Shop 🎁💸
+
+Und plötzlich geht wieder was beim Preis.
+
+Aus **350 Euro Apple-Geschenkkarte** werden jetzt ganz entspannt **150 Euro**. Offenbar ist der internationale Millionen-Transfer doch deutlich flexibler, als zunächst angenommen.
+
+> Sie können eine Apple-Karte im Wert von 150 Euro versenden.
+
+Man muss es den Scammern lassen: **Preisgestaltung nach Bedarf**. Erst starre Vorgaben, dann Verhandlung, jetzt Rabatt. Fehlt eigentlich nur noch ein „Nur heute!“ im Betreff.
+
+Das Muster bleibt gleich: Hauptsache, es fließt **irgendein Geld**. Ob 980 Euro, 400 Euro oder jetzt eben 150 Euro – die sieben Millionen bleiben weiterhin zuverlässig in der Zukunft. 😄💰
+
+### Der Tabakladen als Finanzzentrum 🚬💸
+
+Der internationale Millionentransfer hängt jetzt offenbar davon ab, ob der **Tabakladen um die Ecke Apple-Geschenkkarten hat**.
+
+> Hallo,  
+>   
+> alles klar, ich schaue morgen mal bei unserem Tabakladen, die müssten eigentlich Apple-Karten haben.  
+>   
+> Ich melde mich dann, sobald ich etwas bekommen habe.  
+>   
+> Gruß  
+> Hugo  
+
+Hoffentlich wird Hugo keine Probleme beim Kauf haben! 😏
