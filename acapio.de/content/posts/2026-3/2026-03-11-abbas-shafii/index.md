@@ -417,3 +417,30 @@ Der internationale Millionentransfer hängt jetzt offenbar davon ab, ob der **Ta
 > Hugo  
 
 Hoffentlich wird Hugo keine Probleme beim Kauf haben! 😏
+
+
+## Prioritäten im Vereinsheim 🐕🍻💸
+
+Die Scammer bleiben dran und drängen auf Tempo:
+
+> Bitte versuchen Sie, die Apple-Geschenkkarte baldmöglichst zu versenden.
+
+Hugo hingegen setzt andere Prioritäten. Die Karte ist zwar besorgt, aber die Umstände sind… sagen wir mal suboptimal:
+
+> Hallo,
+>
+> alles gut, hab heute im Tabakladen ne Apple Karte bekommen.
+>
+> Sind grad im Vereinsheim, is laut, dunkel und hier geht gut was 😄 paar Bier sind auch schon weg… ich seh den Code grad kaum und will da nix falsch abtippen.
+>
+> Selbst Dackel Waldi wippt hier schon im Takt 🐕😂
+>
+> schick ich dir morgen in Ruhe, wenn ich wieder klar im Kopf bin.
+>
+> Gruß
+> Hugo
+
+Während also im Hintergrund der nächste **Herrengedeck-Abend eskaliert**, muss der internationale Millionen-Transfer kurz warten.
+
+Man will ja schließlich nichts überstürzen – besonders nicht bei so sensiblen Dingen wie einem Apple-Gutschein-Code. 😄💰
+ 
