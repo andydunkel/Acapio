@@ -41,9 +41,9 @@ Mit möglichst wenig Inhalt Neugier wecken und dich in den nächsten Schritt zie
 > Entschädigungskommission der Vereinten Nationen  
 
 
+## 📨 Hugo hat angebissen
 
-
-
+Hugo hat geantwortet – interessiert, aber leicht skeptisch. Genau das lieben Scammer. Jetzt folgt meist der nächste Schritt: angeblich offizielle Dokumente und irgendwann die unvermeidliche „kleine Gebühr“. Ab hier wird’s erst richtig spannend.
 
 > Hallo Herr Wenner,  
 >   
