@@ -141,7 +141,7 @@ Die Sache mit den **980 Euro „Gebühr“** kam Hugo dann doch etwas merkwürdi
 > Viele Grüße  
 > Hugo  
 
-## Die Gebühr bleibt – Details eher optional 🤷‍♂️💸
+## Die Gebühr bleibt - Details eher optional 🤷‍♂️💸
 
 Die Antwort kam schnell. Unsere einfache Frage nach der Logik wurde allerdings eher… kreativ beantwortet. Laut „Abbas“ haben **alle anderen Empfänger die gleiche Gebühr bezahlt** und anschließend selbstverständlich ihr Geld erhalten. Das sei also ganz normal.
 
@@ -152,7 +152,7 @@ Die Antwort kam schnell. Unsere einfache Frage nach der Logik wurde allerdings e
 > Vielen Dank.
 
 Interessant ist dabei ein kleines Detail: **Es gibt noch gar keine Bankverbindung.**
-Wir sollen also 980 Euro überweisen – nur wohin genau, das erfahren wir vermutlich im nächsten Kapitel.
+Wir sollen also 980 Euro überweisen - nur wohin genau, das erfahren wir vermutlich im nächsten Kapitel.
 
 Die Argumentation bleibt jedenfalls stabil auf Scam-Niveau:
 Alle anderen haben angeblich schon bezahlt, also bitte nicht so viele Fragen stellen und einfach überweisen. Immerhin konsequent. 😄
@@ -183,17 +183,17 @@ Der nächste Schritt im Scam-Lehrbuch lässt natürlich nicht lange auf sich war
 
 > Before anything can be done kindly send down a copy of your identification card to enable us to proceed further
 
-Das Muster bleibt also stabil. Erst persönliche Daten, dann Gebühren – und zwischendurch sammelt man noch ein paar **Identitätsdokumente** ein. Für Betrüger sind solche Informationen natürlich Gold wert: Damit lassen sich weitere Betrugsversuche starten oder sogar echte Identitätsdiebstähle vorbereiten.
+Das Muster bleibt also stabil. Erst persönliche Daten, dann Gebühren - und zwischendurch sammelt man noch ein paar **Identitätsdokumente** ein. Für Betrüger sind solche Informationen natürlich Gold wert: Damit lassen sich weitere Betrugsversuche starten oder sogar echte Identitätsdiebstähle vorbereiten.
 
 Kurz gesagt: Die versprochenen **7 Millionen Dollar** sind weiterhin in weiter Ferne, aber die Datensammlung läuft nach Plan. 📧💰🪪
 
 ---
 
-## Hugo legt nach – mit Ausweis 🪪🐔
+## Hugo legt nach - mit Ausweis 🪪🐔
 
 Nachdem nun unbedingt ein **Ausweis** benötigt wird, hat Hugo natürlich geliefert. Wenn schon Identitätsnachweis verlangt wird, dann auch ordentlich.
 
-Also ging ein frisch eingescanntes Dokument raus – inklusive **Bundeshuhn**, amtlicher Optik und den wichtigsten Daten unseres Mannes aus Wanne-Eickel.
+Also ging ein frisch eingescanntes Dokument raus - inklusive **Bundeshuhn**, amtlicher Optik und den wichtigsten Daten unseres Mannes aus Wanne-Eickel.
 
 ![Generierter Ausweis mit Bundeshuhn](/posts/2026-03-11-abbas-shafii/ausweis.webp)
 
@@ -219,19 +219,19 @@ Der internationale Spendenprozess nimmt Fahrt auf. Nachdem Hugos hochamtlicher A
 >
 > Casual: Purpse of payment: ZIPM207
 
-Interessant ist dabei ein kleines Detail: Der angebliche **Lottogewinner aus Oregon** lässt die Gebühr nicht etwa in den USA einsammeln – sondern auf ein Konto in **Italien**, auf den Namen **Liberty Ojemolon**.
+Interessant ist dabei ein kleines Detail: Der angebliche **Lottogewinner aus Oregon** lässt die Gebühr nicht etwa in den USA einsammeln - sondern auf ein Konto in **Italien**, auf den Namen **Liberty Ojemolon**.
 
 Das wirkt natürlich absolut vertrauenswürdig. Schließlich weiß jeder: Wenn ein amerikanischer Millionär Geld verschenkt, läuft das am besten über ein italienisches Konto einer völlig anderen Person. 🤷‍♂️💰
 
 ![Die Bankverbindung inklusive Name stimmt](/posts/2026-03-11-abbas-shafii/konto.webp)
 
-### Die Bank existiert tatsächlich – der Rest wird kreativer 🏦💸
+### Die Bank existiert tatsächlich - der Rest wird kreativer 🏦💸
 
 Auf den ersten Blick wirkt die Bankverbindung erstaunlich seriös. **BBVA (Banco Bilbao Vizcaya Argentaria)** ist eine große spanische Bank mit Niederlassungen in mehreren Ländern, darunter auch **Italien**. Der BIC passt zu Mailand, ebenso die angegebene Adresse. Formal sieht das also erstmal korrekt aus.
 
-Beim zweiten Blick wird es dann interessanter: Der angebliche **Lottogewinner aus Oregon** möchte die Gebühr nicht etwa auf sein eigenes Konto – sondern auf ein Konto in Italien überweisen lassen. Empfänger ist **Liberty Ojemolon**, eine Person, die bisher in der Geschichte überhaupt nicht vorkam.
+Beim zweiten Blick wird es dann interessanter: Der angebliche **Lottogewinner aus Oregon** möchte die Gebühr nicht etwa auf sein eigenes Konto - sondern auf ein Konto in Italien überweisen lassen. Empfänger ist **Liberty Ojemolon**, eine Person, die bisher in der Geschichte überhaupt nicht vorkam.
 
-Das ist ein klassisches Muster solcher Betrugsmaschen. Statt direkt bei den Betrügern landet das Geld meist auf sogenannten **Mule-Konten** – also Konten von Strohleuten, über die die Gebühren eingesammelt und anschließend weitergeleitet werden.
+Das ist ein klassisches Muster solcher Betrugsmaschen. Statt direkt bei den Betrügern landet das Geld meist auf sogenannten **Mule-Konten** - also Konten von Strohleuten, über die die Gebühren eingesammelt und anschließend weitergeleitet werden.
 
 Kurz gesagt:
 Die Bank ist echt. Die Geschichte dahinter eher weniger. 😁💰
@@ -267,11 +267,11 @@ Flexibilität scheint hier nicht Teil des Geschäftsmodells zu sein. 😄
 
 ### Hugo versucht zu verhandeln 💸🚗
 
-Die klare Ansage „980 Euro, nicht 98“ hat Hugo natürlich zur Kenntnis genommen – Begeisterung sieht allerdings anders aus.
+Die klare Ansage „980 Euro, nicht 98“ hat Hugo natürlich zur Kenntnis genommen - Begeisterung sieht allerdings anders aus.
 
 Statt direkt erneut zu zahlen, hat er erstmal die Lage geschildert: **Der 3er BMW war gerade in der Werkstatt**, und wie man weiß, sind das selten Schnäppchenpreise. Entsprechend sitzt das Geld aktuell nicht ganz so locker.
 
-Also wird kurzerhand versucht, beim internationalen Spendenprozess noch ein bisschen zu handeln. Vielleicht geht ja noch was am Preis. Immerhin reden wir hier von **7 Millionen Dollar Gegenwert** – da sollte doch ein kleiner Rabatt drin sein. 😄💰
+Also wird kurzerhand versucht, beim internationalen Spendenprozess noch ein bisschen zu handeln. Vielleicht geht ja noch was am Preis. Immerhin reden wir hier von **7 Millionen Dollar Gegenwert** - da sollte doch ein kleiner Rabatt drin sein. 😄💰
 
 > Hallo,  
 >   
@@ -299,7 +299,7 @@ Bei 7 Millionen Dollar hört der Spaß offenbar bei **980 Euro Verhandlungsbasis
 
 Da sich der Preis leider nicht drücken ließ, versucht Hugo es jetzt mit einer anderen Strategie: **Teilzahlung**.
 
-Mehr als 400 Euro sind aktuell nicht drin, also wird vorgeschlagen, erstmal **300 Euro nachzuschieben** und den Rest… naja, vielleicht später. Man kennt das ja – große Summen kommen schließlich auch nicht jeden Tag rein. 😉
+Mehr als 400 Euro sind aktuell nicht drin, also wird vorgeschlagen, erstmal **300 Euro nachzuschieben** und den Rest… naja, vielleicht später. Man kennt das ja - große Summen kommen schließlich auch nicht jeden Tag rein. 😉
 
 > Hallo,  
 >   
@@ -323,7 +323,7 @@ Und siehe da: Was eben noch völlig unmöglich war, geht auf einmal doch.
 
 Die zuvor in Stein gemeißelten **980 Euro** sind plötzlich flexibel geworden. Erst „keine Ausnahme möglich“, jetzt auf einmal **Ratenzahlung mit Vertrauensvorschuss**. Man muss nur ein bisschen verhandeln.
 
-Das zeigt ziemlich schön, wie belastbar die angeblichen „fixen Gebühren“ wirklich sind. Sobald Widerstand kommt, wird das Modell einfach angepasst – Hauptsache, **irgendetwas wird überwiesen**.
+Das zeigt ziemlich schön, wie belastbar die angeblichen „fixen Gebühren“ wirklich sind. Sobald Widerstand kommt, wird das Modell einfach angepasst - Hauptsache, **irgendetwas wird überwiesen**.
 
 Kurz gesagt:
 Aus 980 Euro Pflicht werden plötzlich 400 Euro Verhandlungsbasis.
@@ -335,7 +335,7 @@ Nachdem der Scam plötzlich erstaunlich flexibel geworden ist, musste Hugo leide
 
 Der gute Rudi wurde krank und ein spontaner Tierarztbesuch hat direkt mal **200 Euro** gekostet. Damit ist die große internationale Spendenabwicklung kurzfristig an der **Realität des Alltags** gescheitert.
 
-Also wird jetzt weiter verhandelt: **250 Euro am Montag**, der Rest vielleicht nächsten Monat – je nach Gehaltseingang.
+Also wird jetzt weiter verhandelt: **250 Euro am Montag**, der Rest vielleicht nächsten Monat - je nach Gehaltseingang.
 
 > Hallo,  
 >   
@@ -349,9 +349,9 @@ Also wird jetzt weiter verhandelt: **250 Euro am Montag**, der Rest vielleicht n
 > Hugo  
 
 
-## Jetzt wird’s hektisch – und kreativ 🎁💸
+## Jetzt wird’s hektisch - und kreativ 🎁💸
 
-Kaum wird das Geld knapp, zieht das Scam-Drehbuch nochmal richtig an. Plötzlich reicht eine normale Überweisung nicht mehr – jetzt sollen wir zusätzlich noch eine **Apple-Geschenkkarte über 350 Euro** besorgen.
+Kaum wird das Geld knapp, zieht das Scam-Drehbuch nochmal richtig an. Plötzlich reicht eine normale Überweisung nicht mehr - jetzt sollen wir zusätzlich noch eine **Apple-Geschenkkarte über 350 Euro** besorgen.
 
 > Leider müssen wir Ihnen mitteilen, dass wir Ihre Zahlung noch nicht erhalten haben. Bitte senden Sie uns daher den Betrag jetzt zusammen mit einer Apple-Geschenkkarte.  
 >   
@@ -368,12 +368,12 @@ Und weil das noch nicht genug Druck ist, wird direkt die nächste Karte gezogen:
 Plötzlich droht also der Verlust der sagenhaften **7 Millionen Dollar**, wenn wir nicht schnell genug reagieren. Ein altbekannter Trick: Stress erzeugen, damit man weniger nachdenkt.
 
 Kurz gesagt:
-Jetzt sind wir endgültig im **Endgame des Scam-Baukastens** angekommen –
+Jetzt sind wir endgültig im **Endgame des Scam-Baukastens** angekommen -
 Gebühren, Geschenkkarten und künstlicher Zeitdruck. Fehlt eigentlich nur noch ein „letzte Chance“-Countdown. 😄💰
 
 ### Wenn’s ernst wird: Tante Erna muss helfen 👵💸
 
-Hugo bleibt davon erstmal unbeeindruckt. Das Problem ist ohnehin ein ganz anderes: **Die Kasse ist leer**. Tierarzt, Vereinsheim, Werkstatt – das Leben funkt dazwischen.
+Hugo bleibt davon erstmal unbeeindruckt. Das Problem ist ohnehin ein ganz anderes: **Die Kasse ist leer**. Tierarzt, Vereinsheim, Werkstatt - das Leben funkt dazwischen.
 
 Also wird jetzt die letzte Instanz aktiviert: **Tante Erna**. Wenn jemand kurzfristig Geld locker machen kann, dann sie.
 
@@ -401,7 +401,7 @@ Aus **350 Euro Apple-Geschenkkarte** werden jetzt ganz entspannt **150 Euro**. O
 
 Man muss es den Scammern lassen: **Preisgestaltung nach Bedarf**. Erst starre Vorgaben, dann Verhandlung, jetzt Rabatt. Fehlt eigentlich nur noch ein „Nur heute!“ im Betreff.
 
-Das Muster bleibt gleich: Hauptsache, es fließt **irgendein Geld**. Ob 980 Euro, 400 Euro oder jetzt eben 150 Euro – die sieben Millionen bleiben weiterhin zuverlässig in der Zukunft. 😄💰
+Das Muster bleibt gleich: Hauptsache, es fließt **irgendein Geld**. Ob 980 Euro, 400 Euro oder jetzt eben 150 Euro - die sieben Millionen bleiben weiterhin zuverlässig in der Zukunft. 😄💰
 
 ### Der Tabakladen als Finanzzentrum 🚬💸
 
@@ -442,5 +442,23 @@ Hugo hingegen setzt andere Prioritäten. Die Karte ist zwar besorgt, aber die Um
 
 Während also im Hintergrund der nächste **Herrengedeck-Abend eskaliert**, muss der internationale Millionen-Transfer kurz warten.
 
-Man will ja schließlich nichts überstürzen – besonders nicht bei so sensiblen Dingen wie einem Apple-Gutschein-Code. 😄💰
+Man will ja schließlich nichts überstürzen - besonders nicht bei so sensiblen Dingen wie einem Apple-Gutschein-Code. 😄💰
  
+## Eskalationsstufe: Hund frisst Guthabenkarte 🐕💳💸
+
+Nachdem der Code eigentlich schon fast übermittelt werden sollte, kam es zu einem unerwarteten Zwischenfall: **Der Hund war schneller.**
+
+Die frisch besorgte Apple-Karte wurde kurzerhand Opfer von Zähnen und Tatendrang. Ergebnis: **Code kaum noch lesbar, Karte zerlegt**.
+
+Hugo bleibt trotzdem lösungsorientiert und fragt direkt beim „Spender“ nach, ob man die Nummer vielleicht irgendwie wiederherstellen kann. Immerhin handelt es sich hier ja um einen internationalen Millionen-Transfer - da wird es doch sicher eine Hotline geben. 😉
+
+> Hallo,  
+>   
+> mir ist leider was ziemlich Blödes passiert… der Hund hat die Apple-Karte erwischt und komplett zerbissen 😕 der Code ist jetzt kaum noch zu erkennen.  
+>   
+> Gibt es eine Möglichkeit, die Nummer irgendwie wieder zu bekommen oder die Karte neu ausstellen zu lassen?  
+>   
+> Ich weiß gerade nicht so recht, wie ich das jetzt lösen soll.  
+>   
+> Gruß  
+> Hugo  
