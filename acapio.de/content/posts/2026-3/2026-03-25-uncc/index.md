@@ -18,7 +18,7 @@ Man kennt es: Montagmorgen, Kaffee noch nicht mal leer - und zack, flattert eine
 
 ## Die E-Mail von uncc.eu99@gmail.com
 
-Die Vereinten Nationen schreiben dir - und zwar ganz standesgemäß über **Gmail** 😄
+Die Vereinten Nationen schreiben dir - und zwar ganz standesgemäß über **Gmail** 😄. [Erst die EU](/posts/2025-11-07_eu-entschaedigung/), jetzt die UNO.
 
 Die Mail bleibt extrem vage: keine persönliche Ansprache, kein Grund für die angebliche Entschädigung, kein Aktenzeichen. Dafür direkt die Aufforderung, sich bei einem „Direktor“ zu melden - natürlich unter derselben Gmail-Adresse.
 
@@ -235,29 +235,85 @@ Das ist ungefähr so, als würde dir jemand sagen:
 > Gruß  
 > Hugo  
 
+## 🤡 Jetzt wird’s juristisch… irgendwie
 
-## 🧾 Fazit: Wenn selbst der Scammer keine Lust mehr hat
+Der „Anwalt“ legt nach – und es wird nicht besser, sondern deutlich unterhaltsamer.
 
-Und zack – Funkstille.
+Die Erklärung zur Bitcoin-Wallet:
+👉 Viele Transaktionen sind völlig normal, schließlich nutzen „Behörden“ diese Wallet.
+Klar. Die UNO teilt sich also offenbar eine Bitcoin-Adresse mit halb Internet.
 
-Kaum stellt Hugo ein paar *unangenehme* Fragen (Blockchain, viele Transaktionen, warum Wyoming?), ist plötzlich niemand mehr erreichbar. Der sonst so redselige „Anwalt“ hat wohl dringend einen anderen Termin… vermutlich mit dem nächsten Opfer.
+Auch stark:
+Hugo ist laut Anwalt **noch gar nicht berechtigt**, Geld direkt an Gericht oder Bank zu zahlen.
+Warum? Weil er erst „anerkannt“ werden muss.
 
-Das zeigt ganz gut, wie diese Masche funktioniert:
-Solange man brav mitspielt, läuft alles wie geschmiert.
-Sobald man **ein bisschen genauer hinschaut**, bricht das Kartenhaus sofort zusammen.
+Und wie wird man anerkannt?
+Natürlich ganz offiziell durch…
+👉 **eine Zahlung von 400 $ an den Anwalt**
+
+Erst zahlen, dann existierst du. Logisch.
+
+> Achtung, Hugo. Achtung, Hugo. Ihre E-Mail ist zur Kenntnis genommen worden. Ja, die Bitcoin-Wallet mag mehrere Transaktionen durchlaufen haben, aber das macht sie nicht automatisch zu einer betrügerischen Wallet.  
+>   
+> Die Behörden können die Bitcoin-Wallet für ihre Transaktionen nutzen, aber das hat keinen Einfluss auf Ihre Transaktion. Entscheidend ist, dass Sie die 150.000.000,00 USD rechtmäßig erhalten. Deshalb zahlen Sie die 400 USD für die Gebühr des Dokuments.  
+>   
+> Zweitens: Sie sind nicht berechtigt, Geld direkt an das Gericht oder die Bank zu überweisen. Ich bin Ihr Vertreter und habe das Recht, Sie zu vertreten.  
+>   
+> Ich bin vom Gericht und der Bank anerkannt, nicht Sie. Sie werden erst von der Bank und dem Gericht anerkannt, wenn Sie die 400 USD für das Dokument bezahlen. Dann wird Ihr Name auf dem Dokument vermerkt, und erst dann sind Sie offiziell anerkannt.  
+>   
+> Zweifellos, da dies absolut rechtmäßig ist. Bitte zahlen Sie so schnell wie möglich, damit die Transaktion zu Ihren Gunsten abgeschlossen werden kann.  
+
+
+## 💸 Hugo hat bezahlt… (oder etwa doch nicht?)
+
+Hugo wäre nicht Hugo, wenn er nicht irgendwann Nägel mit Köpfen macht. Also:
+**387 € überwiesen** (sauber in Dollar umgerechnet, man ist ja ordentlich).
+
+Empfänger?
+👉 Ein gewisser *Jared Rex* in Wyoming – klingt absolut nach internationaler UN-Abwicklung.
+
+Verwendungszweck?
+👉 **„Zahlung UNO Spende“** – man will ja auch was Gutes tun 😄
+
+Der Beleg sieht auf den ersten Blick erstaunlich echt aus. Genau das ist der Punkt:
+Solche Screenshots sind schnell erstellt und perfekt geeignet, um den Spieß umzudrehen.
+
+Jetzt wird’s spannend:
+👉 Wie reagieren die Scammer, wenn sie glauben, das Geld ist unterwegs?
+
+![Unsere fingierte Zahlung](/posts/2026-03-25-uncc/zahlung.webp)
 
 ---
 
-## 😄 Endstand
+## 😏 Strategie dahinter
 
-* Versprochene Summe: **150.000.000 $**
-* Geforderte Gebühr: **400 $**
-* Tatsächlich überwiesen: **0 €**
-* Reaktion des Scammers: **abgetaucht**
+Mit der „Überweisung“ passiert Folgendes:
+
+* Die Scammer denken, sie sind kurz vor dem Ziel
+* Sie investieren weiter Zeit
+* Oft kommen jetzt neue Forderungen („Gebühr X fehlt noch…“)
+
+Oder sie behaupten einfach, das Geld sei **nicht angekommen**. Klassiker.
 
 ---
 
-👉 Fazit des Tages:
-Wenn ein angeblicher UN-Anwalt schneller verschwindet als dein Bier im Vereinsheim, sobald du Fragen stellst…
+## 📩 Hugos Antwort
 
-…dann war es nie ein Millionendeal – sondern einfach nur ein ziemlich schlechter Scam 😄
+> Hallo Herr Upright,  
+>   
+> alles klar, ich habe die 400 $ soeben überwiesen (in Euro umgerechnet, hoffe das passt so).  
+>   
+> Empfänger war wie angegeben Jared Rex in Wyoming.  
+> Verwendungszweck habe ich „UNO Spende“ angegeben, damit es eindeutig ist.  
+>   
+> Anbei auch der Beleg.  
+>   
+> Können Sie bitte prüfen, ob das Geld angekommen ist und wie es jetzt weitergeht?  
+>   
+> Freue mich auf die nächsten Schritte, bin schon gespannt 😄  
+>   
+> Gruß  
+> Hugo  
+
+
+
