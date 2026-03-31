@@ -6,7 +6,7 @@ date: "2024-12-25"
 featured: true
 toc: true
 tags: 
-  -  "scam"
+  -  "Scam"
 categories:
     - "Scam"
 thumbnail: "sick_budgie.webp"

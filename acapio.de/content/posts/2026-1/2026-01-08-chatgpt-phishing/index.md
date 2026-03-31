@@ -6,7 +6,7 @@ date: "2026-01-08"
 featured: true
 toc: true
 tags:
-  -  "phishing"
+  -  "Phishing"
 categories:
   - "Phishing"
 thumbnail: "creditcard.webp"

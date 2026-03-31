@@ -6,8 +6,8 @@ date: "2025-02-22"
 featured: true
 toc: true
 tags:
-  -  "phishing"
-  -  "hosting"
+  -  "Phishing"
+  -  "Hosting"
 categories:
   - "Phishing"
 thumbnail: "evil_badger.webp"

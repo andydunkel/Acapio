@@ -6,7 +6,7 @@ date: "2026-02-01"
 featured: true
 toc: true
 tags:
-  -  "scam"
+  -  "Scam"
 categories:
   - "Scam"
 thumbnail: "geldkarte.webp"

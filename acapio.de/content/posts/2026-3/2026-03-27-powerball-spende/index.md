@@ -6,7 +6,7 @@ date: "2026-03-27"
 featured: true
 toc: true
 tags:
-  -  "scam"
+  -  "Scam"
 categories:
   - "Scam"
 thumbnail: "powerball.webp"

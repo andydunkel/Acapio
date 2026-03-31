@@ -6,7 +6,7 @@ date: "2026-03-21"
 featured: true
 toc: true
 tags:
-  -  "phishing"
+  -  "Phishing"
 categories:
   - "Phishing"
 thumbnail: "paypal.webp"

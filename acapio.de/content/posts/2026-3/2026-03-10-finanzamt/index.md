@@ -6,8 +6,8 @@ date: "2026-03-10"
 featured: true
 toc: true
 tags:
-  -  "scam"
-  -  "malware"
+  -  "Scam"
+  -  "Malware"
   -  "Virus"
 categories:
   - "Scam"

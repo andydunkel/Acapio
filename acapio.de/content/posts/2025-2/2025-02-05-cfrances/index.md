@@ -6,7 +6,7 @@ date: "2025-02-05"
 featured: true
 toc: true
 tags: 
-  -  "scam"
+  -  "Scam"
 categories:
     - "Scam"
 thumbnail: "fawn.webp"

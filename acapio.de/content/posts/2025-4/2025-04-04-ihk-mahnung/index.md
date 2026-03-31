@@ -6,7 +6,7 @@ date: "2025-04-04"
 featured: true
 toc: true
 tags:
-  -  "scam"
+  -  "Scam"
 categories:
   - "Scam"
 thumbnail: "/posts/2025-04-04_ihk-mahnung/ihk_beitrag.webp"

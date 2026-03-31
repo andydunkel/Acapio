@@ -6,8 +6,8 @@ date: "2024-12-30"
 featured: true
 toc: true
 tags: 
-  -  "scam"
-  -  "phishing"
+  -  "Scam"
+  -  "Phishing"
 categories:
     - "Phishing"
 thumbnail: "fraud.webp"

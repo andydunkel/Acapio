@@ -6,8 +6,8 @@ date: "2026-01-30"
 featured: true
 toc: true
 tags:
-  -  "scam"
-  -  "lovescam"
+  -  "Scam"
+  -  "Lovescam"
 categories:
   - "Scam"
   - "Lovescam"

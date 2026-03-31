@@ -6,7 +6,7 @@ date: "2026-03-15"
 featured: true
 toc: true
 tags:
-  -  "pishing"
+  -  "Phishing"
 categories:
   - "Phishing"
 thumbnail: "invoice.webp"

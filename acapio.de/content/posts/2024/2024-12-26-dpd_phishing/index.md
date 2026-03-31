@@ -6,8 +6,8 @@ date: "2024-12-26"
 featured: true
 toc: false
 tags: 
-  -  "scam"
-  -  "phishing"
+  -  "Scam"
+  -  "Phishing"
 categories:
     - "Phishing"
 thumbnail: "paket_phishing.webp"

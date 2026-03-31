@@ -6,8 +6,8 @@ date: "2026-03-13"
 featured: true
 toc: true
 tags:
-  -  "scam"
-  -  "phishing"
+  -  "Scam"
+  -  "Phishing"
 categories:
   - "Phishing"
 thumbnail: "hacker.webp"

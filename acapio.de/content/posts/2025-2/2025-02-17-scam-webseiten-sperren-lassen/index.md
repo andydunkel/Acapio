@@ -6,8 +6,8 @@ date: "2025-02-17"
 featured: true
 toc: true
 tags:
-  -  "scam"
-  -  "investigativ"
+  -  "Scam"
+  -  "Investigativ"
 categories:
   - "Scam"
   - "Investigativ"

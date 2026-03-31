@@ -6,8 +6,8 @@ date: "2025-04-07"
 featured: true
 toc: true
 tags:
-  -  "phishing"
-  -  "crypto"
+  -  "Phishing"
+  -  "Krypto"
 categories:
   - "Phishing"  
 thumbnail: "bitcoin_panda.webp"

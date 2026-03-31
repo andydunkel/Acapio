@@ -6,7 +6,7 @@ date: "2025-04-03"
 featured: true
 toc: true
 tags:
-  -  "scam"
+  -  "Scam"
 categories:
   - "Scam"
 thumbnail: "lotto.webp"

@@ -6,7 +6,7 @@ date: "2025-12-12"
 featured: true
 toc: true
 tags:
-  -  "phishing"
+  -  "Phishing"
 categories:
   - "Phishing"
 thumbnail: "goldhamster.webp"

@@ -6,8 +6,8 @@ date: "2025-02-26"
 featured: true
 toc: false
 tags:
-  -  "investigativ"
-  -  "nigeria"
+  -  "Investigativ"
+  -  "Nigeria"
 categories:
   - "Investigativ"
 thumbnail: "nigeria.webp"

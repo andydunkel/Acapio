@@ -6,7 +6,7 @@ date: "2025-03-17"
 featured: true
 toc: true
 tags:
-  -  "phishing"
+  -  "Phishing"
 categories:
   - "Phishing"
 thumbnail: "fake.webp"

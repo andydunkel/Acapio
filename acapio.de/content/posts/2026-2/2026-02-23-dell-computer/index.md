@@ -6,7 +6,7 @@ date: "2026-02-23"
 featured: true
 toc: true
 tags:
-  -  "scam"
+  -  "Scam"
 categories:
   - "Scam"
 thumbnail: "money.webp"

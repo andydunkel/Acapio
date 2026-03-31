@@ -6,7 +6,7 @@ date: "2025-08-28"
 featured: true
 toc: true
 tags:
-  -  "scam"
+  -  "Scam"
 categories:
   - "Scam"
 thumbnail: "iltis.webp"

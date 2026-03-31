@@ -6,7 +6,7 @@ date: "2025-03-18"
 featured: true
 toc: true
 tags:
-  -  "scam"
+  -  "Scam"
 categories:
   - "Scam"
 thumbnail: "badger_phone.webp"

@@ -6,7 +6,7 @@ date: "2025-01-06"
 featured: true
 toc: true
 tags: 
-  -  "phishing"
+  -  "Phishing"
 categories:
     - "Phishing"
     - "Security"

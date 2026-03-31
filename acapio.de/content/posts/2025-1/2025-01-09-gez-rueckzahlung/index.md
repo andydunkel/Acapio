@@ -7,8 +7,8 @@ featured: true
 toc: true
 draft: false
 tags: 
-  -  "phishing"
-  -  "creditcard"
+  -  "Phishing"
+  -  "Kreditkarte"
 categories:
     - "Phishing"
 thumbnail: "badger_phone.webp"

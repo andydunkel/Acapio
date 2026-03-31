@@ -6,8 +6,8 @@ date: "2024-12-29"
 featured: true
 toc: true
 tags: 
-  -  "scam"
-  -  "phishing"
+  -  "Scam"
+  -  "Phishing"
 categories:
     - "Scam"
 thumbnail: "lottery.webp"

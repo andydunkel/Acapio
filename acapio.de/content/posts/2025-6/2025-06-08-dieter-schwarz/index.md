@@ -6,7 +6,7 @@ date: "2025-06-08"
 featured: true
 toc: true
 tags:
-  -  "scam"
+  -  "Scam"
 categories:
   - "Scam"
 thumbnail: "evil_badger.webp"

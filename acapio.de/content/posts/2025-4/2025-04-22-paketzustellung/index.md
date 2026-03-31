@@ -6,7 +6,7 @@ date: "2025-04-22"
 featured: true
 toc: false
 tags:
-  -  "phishing"
+  -  "Phishing"
 categories:
   - "Phishing"
 thumbnail: "paket_phishing.webp"

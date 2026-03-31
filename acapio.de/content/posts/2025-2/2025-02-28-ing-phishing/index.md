@@ -6,8 +6,8 @@ date: "2025-02-28"
 featured: true
 toc: true
 tags:
-  -  "phishing"
-  -  "Ing"
+  -  "Phishing"
+  -  "ING"
   -  "Bank"
 categories:
   - "Phishing"

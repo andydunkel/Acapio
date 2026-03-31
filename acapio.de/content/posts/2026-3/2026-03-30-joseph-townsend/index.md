@@ -6,7 +6,7 @@ date: "2026-03-30"
 featured: true
 toc: true
 tags:
-  -  "scam"
+  -  "Scam"
 categories:
   - "Scam"
 thumbnail: "bank.webp"

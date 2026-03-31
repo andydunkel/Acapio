@@ -6,7 +6,7 @@ date: "2025-05-19"
 featured: true
 toc: true
 tags:
-  -  "phishing"
+  -  "Phishing"
 categories:
   - "Phishing"
 thumbnail: "money.webp"

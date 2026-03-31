@@ -6,8 +6,8 @@ date: "2025-01-02"
 featured: true
 toc: true
 tags: 
-  -  "scam"
-  -  "shady business"
+  -  "Scam"
+  -  "Business"
 categories:
     - "Scam"
     - "Jobs"

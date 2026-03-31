@@ -6,7 +6,7 @@ date: "2025-01-20"
 featured: true
 toc: true
 tags: 
-  -  "werbung"
+  -  "Werbung"
 categories:
     - "Werbung"
     - "Datenschutz"

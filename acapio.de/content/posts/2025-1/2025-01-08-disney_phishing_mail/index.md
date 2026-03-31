@@ -7,8 +7,8 @@ featured: true
 toc: true
 draft: false
 tags: 
-  -  "kreditkarte"
-  -  "phishing"
+  -  "Kreditkarte"
+  -  "Phishing"
 categories:
     - "Phishing"
 thumbnail: "fake.webp"

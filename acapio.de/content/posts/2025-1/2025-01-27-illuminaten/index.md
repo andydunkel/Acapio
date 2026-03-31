@@ -7,7 +7,7 @@ featured: true
 toc: true
 draf: true
 tags: 
-  -  "scam"
+  -  "Scam"
 categories:
     - "Scam"
 thumbnail: "illuminaten.webp"

@@ -6,7 +6,7 @@ date: "2026-01-09"
 featured: true
 toc: true
 tags:
-  -  "scam"
+  -  "Scam"
 categories:
   - "Scam"
 thumbnail: "casino.webp"

@@ -6,7 +6,7 @@ date: "2025-02-11"
 featured: true
 toc: false
 tags:
-  -  "youtube"
+  -  "Youtube"
 categories:
   - "Youtube"
 thumbnail: "youtube1.webp"

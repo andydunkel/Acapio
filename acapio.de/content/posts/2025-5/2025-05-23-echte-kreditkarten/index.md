@@ -6,7 +6,7 @@ date: "2025-05-23"
 featured: true
 toc: true
 tags:
-  -  "scam"
+  -  "Scam"
 categories:
   - "Scam"
 thumbnail: "creditcard.webp"

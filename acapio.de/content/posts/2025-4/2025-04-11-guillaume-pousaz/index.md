@@ -6,7 +6,7 @@ date: "2025-04-11"
 featured: true
 toc: true
 tags:
-  -  "scam"
+  -  "Scam"
 categories:
   - "Scam"  
 thumbnail: "business_scam.webp"

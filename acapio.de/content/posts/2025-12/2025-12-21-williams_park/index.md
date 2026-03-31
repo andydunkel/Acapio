@@ -6,7 +6,7 @@ date: "2025-12-21"
 featured: true
 toc: true
 tags:
-  -  "scam"
+  -  "Scam"
 categories:
   - "Scam"
 thumbnail: "animals.webp"

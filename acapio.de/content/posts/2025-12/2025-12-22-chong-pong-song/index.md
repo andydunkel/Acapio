@@ -6,7 +6,7 @@ date: "2025-12-22"
 featured: true
 toc: true
 tags:
-  -  "scam"
+  -  "Scam"
 categories:
   - "Scam"
 thumbnail: "panda.webp"

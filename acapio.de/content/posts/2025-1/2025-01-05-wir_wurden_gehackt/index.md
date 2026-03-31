@@ -6,9 +6,9 @@ date: "2025-01-05"
 featured: true
 toc: true
 tags: 
-  -  "scam"
-  -  "hacking"
-  -  "bitcoin"
+  -  "Scam"
+  -  "Hacking"
+  -  "Bitcoin"
 categories:
     - "Scam"
     - "Hacking"

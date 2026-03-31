@@ -6,8 +6,8 @@ date: "2025-04-29"
 featured: true
 toc: true
 tags:
-  -  "credircard"
-  -  "phishing"
+  -  "Kreditkarte"
+  -  "Phishing"
 categories:
   - "Phishing"
 thumbnail: "creditcard.webp"

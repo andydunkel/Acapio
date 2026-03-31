@@ -7,7 +7,7 @@ featured: true
 toc: true
 draft: true
 tags: 
-  -  "aktien"
+  -  "Aktien"
 categories:
     - "Aktien"
 thumbnail: "stock_scam.webp"

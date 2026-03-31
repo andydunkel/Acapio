@@ -6,9 +6,9 @@ date: "2024-12-29"
 featured: true
 toc: true
 tags: 
-  -  "scam"
-  -  "phishing"
-  -  "malware"
+  -  "Scam"
+  -  "Phishing"
+  -  "Malware"
 categories:
     - "Phishing"
     - "Malware"

@@ -6,7 +6,7 @@ date: "2025-07-27"
 featured: true
 toc: true
 tags:
-  -  "scam"
+  -  "Scam"
 categories:
   - "Scam"
 thumbnail: "criminal.webp"
