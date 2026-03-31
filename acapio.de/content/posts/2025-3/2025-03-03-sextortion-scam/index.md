@@ -80,5 +80,10 @@ Es gibt mehrere klare Hinweise darauf, dass diese E-Mails reine Panikmache sind:
 
 Sextortion-Scams sind nichts weiter als ein dreister Betrugsversuch. Niemand hat dich über deine Webcam gefilmt, und die Betrüger haben keinen Zugriff auf deine Daten. Solche E-Mails kann man bedenkenlos löschen und als Spam melden. Wer sich an die oben genannten Sicherheitstipps hält, ist gut geschützt.
 
+---
+
+**Siehe auch:**
+- [Keine Panik: Diese Erpressungsmail ist ein Fake](/posts/2025-01-05_sie_wurden_gehackt/)
+
 
 

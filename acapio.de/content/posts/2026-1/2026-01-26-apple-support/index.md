@@ -63,3 +63,10 @@ Wer hier seine Kreditkartendaten eingibt, spendet nicht an Apple, sondern finanz
 Falsche Anrede, panische Deadline und ein Link, der aussieht wie ein Unfall, das war wohl nichts.
 
 **Die einzige Regel:** Echte Apple-Probleme klärt man immer direkt in den iPhone-Einstellungen, nie über Links in E-Mails. Diese Nachricht landet im Müll, und die gesparten 99 Cent bekommt der Wellensittich. Der freut sich wenigstens ehrlich über einen echten Apfel.
+
+---
+
+**Siehe auch:**
+- [400.000 Dollar von Microsoft? So funktioniert der Tech-Scam](/posts/2025-12-06-microsoft/)
+- [Sundar Pichai schreibt persönlich: Google-Scam entlarvt](/posts/2025-08-28_google-nutzung/)
+- [ChatGPT Plus Update – gefährliches Phishing im KI-Gewand](/posts/2026-01-08-chatgpt-phishing/)

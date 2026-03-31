@@ -466,4 +466,10 @@ Rechtsanwälte? Nein, danke. Aber ein bisschen Bürokratie muss sein, schließli
 
 Das Abenteuer mit Arisha und ihrer mysteriösen Millionenfracht endet leider ohne Happy End. Seitdem unsere kleine investigative Recherche samt Screenshot-Dokumentation auf Google Platz eins kletterte, herrscht Funkstille in der Diplomaten-Lounge. Ob sich Arisha jetzt mit ihren Koffern in die nächstbeste Scam-Wüste verabschiedet hat oder still ein neues Opfer sucht? Man weiß es nicht.
 
-Was bleibt, ist die Erkenntnis: Mit ein bisschen Geduld und Humor können selbst die absurdesten Betrugsmaschen entzaubert werden. Und wer weiß, vielleicht ist irgendwo in den unendlichen Weiten des Internets gerade eine „Fexpress“-Belegschaft am Grübeln, warum ihre charmante Masche diesmal nicht so recht zünden wollte. 🧳✨
+Was bleibt, ist die Erkenntnis: Mit ein bisschen Geduld und Humor können selbst die absurdesten Betrugsmaschen entzaubert werden. Und wer weiß, vielleicht ist irgendwo in den unendlichen Weiten des Internets gerade eine „Fexpress”-Belegschaft am Grübeln, warum ihre charmante Masche diesmal nicht so recht zünden wollte. 🧳✨
+
+---
+
+**Siehe auch:**
+- [Arisha Schuch zweiter Teil: Hugo aus Wanne-Eickel vs. den Diplomatenbetrug](/posts/2025-01-13_arisha-schuch-die-zweite/)
+- [Investigativ: Die Hintergründe des Arisha-Scams und Fexpresscargo](/posts/2025-02-21_arisha-schuch-hintergruende/)

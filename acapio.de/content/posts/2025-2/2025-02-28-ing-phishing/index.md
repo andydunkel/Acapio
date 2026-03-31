@@ -79,3 +79,10 @@ Weiter kommen wir jedoch nicht, wenn wir falsche Daten eingeben, wir erhalten ei
 ## Fazit
 
 Phishing-Angriffe sind mittlerweile sehr raffiniert, aber mit einem aufmerksamen Blick lassen sie sich erkennen. Offizielle Bankmitteilungen fordern niemals dazu auf, persönliche Daten über einen Link zu bestätigen. Bleiben Sie wachsam und informieren Sie sich regelmäßig über aktuelle Betrugsmaschen!
+
+---
+
+**Siehe auch:**
+- [Volksbank-Phishing: Mit Bitcoin bezahlt, mit Daten geklaut](/posts/2025-02-22_volksbank-phishing/)
+- [Trade Republic Phishing: Identitätsprüfung als Falle](/posts/2026-01-08-traderepublic/)
+- [Klarna Phishing: Der offene Betrag als Vorwand](/posts/2026-03-15-klarna/)

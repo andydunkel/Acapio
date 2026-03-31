@@ -255,3 +255,8 @@ Wir haken deswegen gleich nochmal nach. Schon doof, wenn jede Webseite von denen
 > Ahmet  
 
 
+
+---
+
+**Siehe auch:**
+- [Silvana Tenreyro Teil 1: 4 Millionen Pfund als Geschenk?](/posts/2025-01-26-silvana-tenreyro-4-mio-pfund/)

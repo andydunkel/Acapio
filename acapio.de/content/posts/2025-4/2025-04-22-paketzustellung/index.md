@@ -33,3 +33,10 @@ Des Pudels Kern ist am Ende die Eingabe der Kreditkarteninformationen. Dies ist 
 Geben wir ein paar Fake-Daten ein, landen wir erneut auf der Eingabeseite. Ziel, vielleicht gibt das Opfter ja noch eine zweite Kreditkarte ein, wenn die erste nicht funktioniert!
 
 **Fazit**: Wie immer gilt solche E-Mails direkt löschen!
+
+---
+
+**Siehe auch:**
+- [DPD-Phishing: Kreditkarteninfos per gefälschter Paket-Mail](/posts/2024-12-26_dpd_phishing/)
+- [DHL-Phishing: Wie Betrüger mit 2,99 € an Ihr Geld wollen](/posts/2025-01-10_dhl-paket-blockiert/)
+- [GLS-Phishing: Betrügerische E-Mails im Namen von GLS](/posts/2025-03-17_gls-phishing/)

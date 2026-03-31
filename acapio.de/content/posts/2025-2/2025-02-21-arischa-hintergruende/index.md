@@ -177,4 +177,12 @@ Am Ende bleibt **eine Erkenntnis**:
 
 Die Scammer arbeiten nach Schema F, aber wer ein bisschen **nachfragt, überprüft und sich nicht von emotionalen Mails einlullen lässt**, durchschaut den Betrug schnell.  
 
-Und Arisha? Die sucht sicher schon das nächste Opfer. Vielleicht mit **neuem Namen, neuer Geschichte, aber derselben alten Masche**. 🎭  
+Und Arisha? Die sucht sicher schon das nächste Opfer. Vielleicht mit **neuem Namen, neuer Geschichte, aber derselben alten Masche**. 🎭
+
+---
+
+**Siehe auch:**
+- [Der erste Kontakt: Millionen aus Syrien – das Märchen der Arisha Schuch](/posts/2024-12-31-millions-from-syria/)
+- [Hugo aus Wanne-Eickel vs. den Diplomatenbetrug – Teil 2](/posts/2025-01-13_arisha-schuch-die-zweite/)
+- [Neue Domain, gleiche Masche: Aus fexpresscargo wird asucargo](/posts/2025-03-22_arisha-schuch-asucargo/)
+- [Webseiten von Scammern melden – bringt das etwas?](/posts/2025-02-17_scam-webseiten-sperren-lassen/)  

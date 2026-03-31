@@ -424,4 +424,11 @@ Hugo hat alles versucht: Sparkasse, Dackelclub, sogar Waldi hat den Postboten an
 
 Immerhin bleibt eine wichtige Erkenntnis: Wer 195.000 € gewinnen will, sollte keine 495 € dafür bezahlen müssen, schon gar nicht an Liberty Ojemolon & Friends. 🏦🐕🍻
 
+---
+
+**Siehe auch:**
+- [Apple Support Phishing: Wichtige Mitteilung zu Ihrem Apple Konto](/posts/2025-01-26-apple-support/)
+- [400.000 Dollar von Microsoft? So funktioniert der Tech-Scam](/posts/2025-12-06-microsoft/)
+- [ChatGPT Plus Update – gefährliches Phishing im KI-Gewand](/posts/2026-01-08-chatgpt-phishing/)
+
 

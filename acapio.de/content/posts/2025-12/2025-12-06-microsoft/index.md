@@ -77,3 +77,10 @@ Aber immerhin bleibt die Erkenntnis:
 Wenn Microsoft wirklich Geld verschenken würde, würden sie vermutlich keine Zoho-Adresse und eine Tastatur voller Fremdwörter benutzen. Und bis der Dackel tatsächlich CEO wird, dauert’s wohl auch noch ein bisschen. 🐶💼
 
 Hugo bleibt also, was er ist, nicht reich, aber wachsam. Und der Spam-Ordner bekommt wieder einen neuen Fall für die Chronik.
+
+---
+
+**Siehe auch:**
+- [Apple Support Phishing: Wichtige Mitteilung zu Ihrem Apple Konto](/posts/2025-01-26-apple-support/)
+- [Sundar Pichai schreibt persönlich: Google-Scam entlarvt](/posts/2025-08-28_google-nutzung/)
+- [ChatGPT Plus Update – gefährliches Phishing im KI-Gewand](/posts/2026-01-08-chatgpt-phishing/)

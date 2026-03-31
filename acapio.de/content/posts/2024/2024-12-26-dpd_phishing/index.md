@@ -47,6 +47,13 @@ Was passiert mit den Daten. Rückmeldungen haben ergeben, dass kurzer Zeit, nach
 
 Was in dem Paket ist, werden wir wohl nie erfahren. 😁
 
+---
+
+**Siehe auch:**
+- [DHL-Phishing: Wie Betrüger mit 2,99 € an Ihr Geld wollen](/posts/2025-01-10_dhl-paket-blockiert/)
+- [GLS-Phishing: Betrügerische E-Mails im Namen von GLS](/posts/2025-03-17_gls-phishing/)
+- [Aktion erforderlich: Holen Sie Ihr Paket noch heute ab!](/posts/2025-04-22_paketzustellung/)
+
 
 
 

@@ -52,3 +52,9 @@ Fazit: Die Betrüger haben sich wirklich Mühe gegeben, uns mit PayPal-Design, U
 
 Am Ende bleibt uns nur eines klar: Der einzige "Gewinn" hier ist die Erkenntnis! Und vermutlich viele Werbeanrufe und Mails.
 
+---
+
+**Siehe auch:**
+- [Bitcoin-Kauf über PayPal – Phishing mit Krypto-Köder](/posts/2025-01-09_bitcoin_paypal/)
+- [PayPal-Phishing: Neue Anmeldung – der Klassiker](/posts/2026-03-21-paypal-login/)
+

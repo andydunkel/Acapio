@@ -121,3 +121,8 @@ Virenscanner bieten nur hier begrenzten Schutz, selbst nach einigen Tagen erkenn
 ## Video
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/z6206Ywe6vc?si=ocJKYU_zN3I7oagx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
+**Siehe auch:**
+- [Finanzamt-Mail mit Malware-Anhang: So schützen Sie sich](/posts/2026-03-10-finanzamt/)

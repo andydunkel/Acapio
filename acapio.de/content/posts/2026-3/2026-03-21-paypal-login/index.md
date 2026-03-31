@@ -108,6 +108,12 @@ Technisch nichts Besonderes - aber psychologisch ziemlich effektiv.
 Wer kurz innehält, die Absender-Mail prüft und vor allem einen Blick in die Adresszeile wirft, ist hier klar im Vorteil.
 
 Oder kurz gesagt:
-Nicht jeder „PayPal-Login“ kommt von PayPal - manche kommen direkt vom Scammer. 😏
+Nicht jeder „PayPal-Login” kommt von PayPal - manche kommen direkt vom Scammer. 😏
+
+---
+
+**Siehe auch:**
+- [Bitcoin-Kauf über PayPal – Phishing mit Krypto-Köder](/posts/2025-01-09_bitcoin_paypal/)
+- [PayPal-Gewinnspiel: Sie haben eine Geschenkkarte erhalten](/posts/2025-01-23_paypal-gewinnspiel/)
 
 

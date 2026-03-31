@@ -82,5 +82,12 @@ Ob *fexpresscargo.com*, *asucargo.com* oder morgen vielleicht *superseriousmilit
 
 Die Masche ist nicht neu, aber sie wird mit viel Liebe zum Detail neu verpackt. Mit Webseiten, Versandnummern, „Betriebsleitern“ und emotionaler Ansprache, da wird selbst ein DHL-Zusteller neidisch.
 
-Also: Augen auf im E-Mail-Verkehr. Wenn dir eine US-Soldatin schreibt, die zwischen zwei Bombenangriffen mal eben Millionen verschicken will, dann klick nicht auf „Antworten“, sondern lieber auf „Weiterleiten“, an uns. Hugo freut sich schon.
+Also: Augen auf im E-Mail-Verkehr. Wenn dir eine US-Soldatin schreibt, die zwischen zwei Bombenangriffen mal eben Millionen verschicken will, dann klick nicht auf „Antworten”, sondern lieber auf „Weiterleiten”, an uns. Hugo freut sich schon.
+
+---
+
+**Siehe auch:**
+- [Der erste Kontakt: Millionen aus Syrien – das Märchen der Arisha Schuch](/posts/2024-12-31-millions-from-syria/)
+- [Hugo aus Wanne-Eickel vs. den Diplomatenbetrug – Teil 2](/posts/2025-01-13_arisha-schuch-die-zweite/)
+- [Investigativ: Die Hintergründe des Arisha-Scams und Fexpresscargo](/posts/2025-02-21_arisha-schuch-hintergruende/)
 

@@ -51,3 +51,10 @@ Kaum haben wir unsere Daten brav eingetragen und abgesendet, passiert... nichts.
 Wir haben mit Betroffenen gesprochen, die uns erzählt haben, was wirklich passiert, wenn man den Betrügern ins Netz geht. Spoiler: Die 2,99 € werden gar nicht abgebucht. Stattdessen machen sich die Gauner auf Shopping-Tour, mit Ihrer Kreditkarte als VIP-Eintrittskarte. Plötzlich tauchen Abbuchungen für Luxusartikel oder dubiose Online-Käufe auf, bei denen selbst Jeff Bezos staunen würde. 
 
 Die Moral der Geschichte? Sobald Sie merken, dass Sie reingelegt wurden, heißt es: Karte sperren, schneller als ein Hamster auf Speed! Und keine Sorge, es ist keine Schande, reinzufallen, nur handeln sollten Sie fix, bevor Ihr Konto leergefegt ist.
+
+---
+
+**Siehe auch:**
+- [DPD-Phishing: Kreditkarteninfos per gefälschter Paket-Mail](/posts/2024-12-26_dpd_phishing/)
+- [GLS-Phishing: Betrügerische E-Mails im Namen von GLS](/posts/2025-03-17_gls-phishing/)
+- [Aktion erforderlich: Holen Sie Ihr Paket noch heute ab!](/posts/2025-04-22_paketzustellung/)

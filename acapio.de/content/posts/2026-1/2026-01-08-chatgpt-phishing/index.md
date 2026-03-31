@@ -67,3 +67,10 @@ Machen wir uns nichts vor: Den Betrügern geht es hier nicht um die 20 Dollar f�
 Was dann folgt, ist kein KI-generiertes Märchen, sondern purer Stress. Während du noch auf die Bestätigung deines ChatGPT-Updates wartest, buchen die Hintermänner bereits munter Beträge ab, oft in kleinen, unauffälligen Tranchen oder für teure Technik-Käufe am anderen Ende der Welt. Wer hier den „Complete Verification“-Button drückt, verifiziert am Ende nur eines: Dass das eigene Konto ab sofort für Fremde zur Selbstbedienung freigegeben ist. 
 
 **Kurztipp:** Wenn es passiert ist, hilft nur noch die sofortige Kartensperre und ein sehr langes Telefonat mit der Bank.
+
+---
+
+**Siehe auch:**
+- [Apple Support Phishing: Wichtige Mitteilung zu Ihrem Apple Konto](/posts/2025-01-26-apple-support/)
+- [400.000 Dollar von Microsoft? So funktioniert der Tech-Scam](/posts/2025-12-06-microsoft/)
+- [Sundar Pichai schreibt persönlich: Google-Scam entlarvt](/posts/2025-08-28_google-nutzung/)

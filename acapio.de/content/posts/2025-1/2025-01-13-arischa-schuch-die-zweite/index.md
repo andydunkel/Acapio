@@ -1055,3 +1055,10 @@ Doch das Beste: **Wir haben Arisha mit mehreren Accounts kontaktiert, und jedes 
 👉 [Die Millionen aus Syrien, Ein Klassiker der Scams](/posts/2024-12-31-millions-from-syria/?query=arisha)  
 
 Am Ende bleibt die Frage: **Haben sie es verdient, dass Hugo sie bis zum Wahnsinn hingehalten hat?** Wir sagen: **Ja!** Und wenn irgendwo auf der Welt jetzt eine Scammer-Zentrale verzweifelt überlegt, warum Hugo nicht zahlt, dann war’s das alles wert! 💼😂
+
+---
+
+**Siehe auch:**
+- [Der erste Kontakt: Millionen aus Syrien – das Märchen der Arisha Schuch](/posts/2024-12-31-millions-from-syria/)
+- [Investigativ: Die Hintergründe des Arisha-Scams und Fexpresscargo](/posts/2025-02-21_arisha-schuch-hintergruende/)
+- [Neue Domain, gleiche Masche: Aus fexpresscargo wird asucargo](/posts/2025-03-22_arisha-schuch-asucargo/)

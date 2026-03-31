@@ -52,3 +52,10 @@ Die Mail folgt einem bekannten Muster: **Zeitdruck, angeblich offene Rechnung un
 Die wichtigste Regel bei solchen Nachrichten: **Keine Links anklicken und keine Zahlungen durchführen.** Wer unsicher ist, sollte sich direkt über die offizielle Klarna-App oder die echte Webseite einloggen und dort prüfen, ob tatsächlich eine Rechnung offen ist.
 
 In den meisten Fällen lautet die Antwort: **Nein – nur wieder ein weiterer Phishing-Versuch.** 🎣
+
+---
+
+**Siehe auch:**
+- [ING-Phishing: Telefonnummer fehlt – Daten her!](/posts/2025-02-28_ing-phishing/)
+- [Volksbank-Phishing: Mit Bitcoin bezahlt, mit Daten geklaut](/posts/2025-02-22_volksbank-phishing/)
+- [Trade Republic Phishing: Identitätsprüfung als Falle](/posts/2026-01-08-traderepublic/)

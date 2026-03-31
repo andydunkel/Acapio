@@ -502,6 +502,11 @@ Viel gibt es nicht zu sehen, bisher wurde die Adresse nicht verwendet.
 
 > Wie geht es dir heute? Ich hoffe, du bist bei bester Gesundheit. Schön, dass du dein crypto.com-Konto einrichten konntest. Blow ist die Bitcoin-Wallet, an die du die Bitcoins sendest.  
 >   
-> Bitcoin-Wallet: bc1q2d9k26rqflwa66gxpzxxxgdg9per7er4gq9kyj  
->   
-> Schick mir einen Screenshot des Zahlungsbelegs, sobald du die BTC gesendet hast.  
+> Bitcoin-Wallet: bc1q2d9k26rqflwa66gxpzxxxgdg9per7er4gq9kyj
+>
+> Schick mir einen Screenshot des Zahlungsbelegs, sobald du die BTC gesendet hast.
+
+---
+
+**Siehe auch:**
+- [Silvana Tenreyro Teil 2: Die Fortsetzung des Scams](/posts/2025-02-12_silvana-tenreyro-teil-2/)

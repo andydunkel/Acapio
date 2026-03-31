@@ -71,4 +71,11 @@ Damit du nicht wie unser erschrockener Nager oben auf dem Bild endest, hier die 
 
 Phishing-Mails wie diese sind wie schlechte Werbefilme: Man erkennt die Kulissen aus Pappe schon von weitem. Bleib wachsam, klick nicht auf dubiose Links von Pastasorten-Webseiten und investiere deine Zeit lieber in sinnvolle Dinge, zum Beispiel in das Beobachten echter Biber.
 
+---
+
+**Siehe auch:**
+- [ING-Phishing: Telefonnummer fehlt – Daten her!](/posts/2025-02-28_ing-phishing/)
+- [Volksbank-Phishing: Mit Bitcoin bezahlt, mit Daten geklaut](/posts/2025-02-22_volksbank-phishing/)
+- [Klarna Phishing: Der offene Betrag als Vorwand](/posts/2026-03-15-klarna/)
+
 

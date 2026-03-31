@@ -62,6 +62,11 @@ Mit anderen Worten: Kein Dokument, kein Formular, sondern **Schadcode mit Tarnma
 Immerhin zeigt der **Windows Defender** hier sofort die rote Karte und erkennt die Datei als Malware. Verlassen sollte man sich darauf trotzdem nicht, morgen kommt die gleiche Mail einfach mit leicht verändertem Code wieder.
 
 Die einfache Faustregel:
-**Wenn das „Finanzamt“ plötzlich JavaScript zum Download anbietet, ist es garantiert nicht das Finanzamt.** 💀📧
+**Wenn das „Finanzamt” plötzlich JavaScript zum Download anbietet, ist es garantiert nicht das Finanzamt.** 💀📧
+
+---
+
+**Siehe auch:**
+- [Gefälschte Camtasia-Angebote: Malware getarnt als Software](/posts/2024-12-29_camtasia_scam/)
 
 

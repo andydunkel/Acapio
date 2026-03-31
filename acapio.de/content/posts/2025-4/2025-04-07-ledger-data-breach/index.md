@@ -74,5 +74,11 @@ Kurz gesagt:
 Wer seine **Recovery Phrase** irgendwo eingibt, außer **offline in der Ledger Live App bei der ersten Einrichtung**, gibt sie direkt den Betrügern in die Hand, Punkt. Ledger wird **niemals**, wirklich **niemals** nach deinen 24 Wörtern fragen. Nicht per Mail, nicht per SMS, nicht per Brieftaube.
 
 Also:  
-🧠 **Hirn einschalten, Finger stillhalten.**  
+🧠 **Hirn einschalten, Finger stillhalten.**
 Wenn du so eine Mail bekommst, löschen, ignorieren!
+
+---
+
+**Siehe auch:**
+- [Bitcoin-Kauf über PayPal – Phishing mit Krypto-Köder](/posts/2025-01-09_bitcoin_paypal/)
+- [Volksbank-Phishing: Mit Bitcoin bezahlt, mit Daten geklaut](/posts/2025-02-22_volksbank-phishing/)

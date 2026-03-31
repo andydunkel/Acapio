@@ -94,3 +94,9 @@ Besonders interessant ist, dass selbst technisch versierte Personen, die sich al
 Die **JetRide-App** scheint keine große Zukunft zu haben, und die mangelnde Aktivität auf Social Media deutet darauf hin, dass die eigentlichen Einnahmen wohl aus anderen Quellen stammen.  
 
 Wer auf **ungewöhnliche Dokumente oder dubiose Geschäftsangebote** stößt, sollte immer hinter die Fassade blicken. Denn wie dieser Fall zeigt: **Die Wahrheit liegt oft nur eine Google-Suche entfernt.**
+
+---
+
+**Siehe auch:**
+- [Webseiten von Scammern melden – bringt das etwas?](/posts/2025-02-17_scam-webseiten-sperren-lassen/)
+- [Nigeria liest mit: Haben wir einen Nerv getroffen?](/posts/2025-02-26_scammer-entdecken-den-blog/)

@@ -42,3 +42,9 @@ Und was passiert wohl, wenn jemand tatsächlich durchkommt? Nun, vermutlich wird
 Kreditkartendaten? Online-Banking-Login? Die Gelegenheit, sich eine teure „Schadensbearbeitungsgebühr“ aufzuschwatzen? Die Möglichkeiten sind vielfältig. Und am Ende wird nicht nur der angebliche Bitcoin-Kauf abgebucht, sondern gleich das halbe Konto leergeräumt.
 
 Unser Tipp: Spar dir den Anruf und die Nerven, und lass die Betrüger in ihrer Warteschleife versauern. 😊
+
+---
+
+**Siehe auch:**
+- [PayPal-Gewinnspiel: Sie haben eine Geschenkkarte erhalten](/posts/2025-01-23_paypal-gewinnspiel/)
+- [PayPal-Phishing: Neue Anmeldung – der Klassiker](/posts/2026-03-21-paypal-login/)

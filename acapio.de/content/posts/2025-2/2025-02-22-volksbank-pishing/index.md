@@ -81,3 +81,10 @@ Die Wahl eines registrierfreundlichen Domain-Providers und die bewusste Blockade
 Für Nutzer bleibt die wichtigste Regel: **Kein Klick auf verdächtige Links, besonders nicht aus SMS!** Offizielle Banken fordern nie per SMS zur Eingabe sensibler Daten auf. Wer unsicher ist, sollte sich direkt bei seiner Bank melden oder die offizielle Webseite manuell aufrufen. Und für all jene, die sich fragen, ob ihre Daten bereits in falsche Hände geraten sind, ein Blick ins Online-Banking-Log oder ein Anruf bei der Bank kann schnell Klarheit schaffen.  
 
 Wir halten euch auf dem Laufenden, ob die Phishing-Seite durch unsere Meldung tatsächlich offline genommen wird. 🚨 Aber selbst wenn, die nächste Domain ist nur wenige Klicks entfernt!
+
+---
+
+**Siehe auch:**
+- [ING-Phishing: Telefonnummer fehlt – Daten her!](/posts/2025-02-28_ing-phishing/)
+- [Trade Republic Phishing: Identitätsprüfung als Falle](/posts/2026-01-08-traderepublic/)
+- [Klarna Phishing: Der offene Betrag als Vorwand](/posts/2026-03-15-klarna/)

@@ -55,4 +55,11 @@ Und was machen die Betrüger damit?
 
 Kurz gesagt: **Einmal reingetappt, kann es richtig teuer werden!** Also immer skeptisch bleiben, keine Daten leichtfertig eintippen und im Zweifelsfall: **GLS direkt auf deren offizieller Website nachsehen, statt auf dubiose Links zu klicken.**  
 
-Denn für 2,99 € gibt’s vielleicht ’ne Tiefkühlpizza, aber ganz sicher kein Luxuspaket! 🍕😆
+Denn für 2,99 € gibt’s vielleicht ‘ne Tiefkühlpizza, aber ganz sicher kein Luxuspaket! 🍕😆
+
+---
+
+**Siehe auch:**
+- [DPD-Phishing: Kreditkarteninfos per gefälschter Paket-Mail](/posts/2024-12-26_dpd_phishing/)
+- [DHL-Phishing: Wie Betrüger mit 2,99 € an Ihr Geld wollen](/posts/2025-01-10_dhl-paket-blockiert/)
+- [Aktion erforderlich: Holen Sie Ihr Paket noch heute ab!](/posts/2025-04-22_paketzustellung/)
