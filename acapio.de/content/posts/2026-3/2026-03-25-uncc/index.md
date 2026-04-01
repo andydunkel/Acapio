@@ -316,4 +316,34 @@ Oder sie behaupten einfach, das Geld sei **nicht angekommen**. Klassiker.
 > Hugo  
 
 
+## 🤡 Ups… falscher Verwendungszweck!
 
+Es wird immer besser.
+
+Hugo hat „überwiesen“ – aber jetzt kommt das große Problem:
+👉 **Der Verwendungszweck passt nicht**
+
+Statt „Gut“ steht da „UNO Spende“. Und offenbar hängt jetzt die komplette 150-Millionen-Transaktion an genau diesem Detail.
+
+> Hallo Hugo, ich habe Ihre E-Mail erhalten, aber leider keinen Zahlungsbeleg über 400,00 $.  
+> Könnten Sie mir den Zahlungsbeleg bitte erneut zusenden?  
+> Zweitens: Die Zahlungsangabe lautet nicht „UN-Spende“.  
+>   
+> Ihr Vorgehen war fehlerhaft. Bitte senden Sie die Zahlung erneut und geben Sie als Verwendungszweck „Gut“ an.  
+> Bitte senden Sie mir die Zahlungsbestätigung zur Klärung per E-Mail.  
+
+Man stelle sich das mal vor:
+Internationale Gerichte, Banken, 150 Millionen Dollar…
+…und alles scheitert daran, dass Hugo im Verwendungszweck das falsche Wort gewählt hat 😄
+
+Noch besser:
+Der „Anwalt“ fordert einfach, die Zahlung **nochmal zu senden**.
+
+Klassiker.
+Wenn das Geld angeblich schon unterwegs ist, aber „nicht passt“, dann braucht man halt… noch mehr Geld.
+
+Besser kann man das Geschäftsmodell kaum zusammenfassen 😄
+
+**Egal, wir schicken den falschen Beleg und stellen uns dumm!**
+
+> Achso, ja hier der Beleg. Was meinen sie mit Verwendungszweck?
