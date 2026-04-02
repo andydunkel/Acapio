@@ -142,7 +142,7 @@ Jetzt ist alles klar: Die Vereinten Nationen haben offenbar ihre Zahlungsabwickl
 
 Hugo darf also wählen:
 👉 Entweder schnell und anonym per Krypto zahlen
-👉 Oder klassisch an „Jared Rex“ überweisen – klingt ja auch nach einem typischen UN-Mitarbeiter
+👉 Oder klassisch an „Jared Rex“ überweisen - klingt ja auch nach einem typischen UN-Mitarbeiter
 
 Besonders beruhigend: Der Anwalt empfiehlt selbst Bitcoin. Weil es so „einfach und schnell“ ist. Übersetzung: **Geld weg, keine Chance auf Rückholung**.
 
@@ -204,11 +204,11 @@ Und siehe da: Die Adresse ist alles andere als „neu“ oder „exklusiv für H
 Also kein Einzelfall, sondern offenbar ein **regelrechter Durchlauferhitzer für Scam-Zahlungen**.
 
 Besonders interessant:
-Aktuell ist das Wallet leer. Überraschung! Das Geld bleibt natürlich nicht liegen, sondern wird sofort weitergeschoben – typisch für solche Maschen.
+Aktuell ist das Wallet leer. Überraschung! Das Geld bleibt natürlich nicht liegen, sondern wird sofort weitergeschoben - typisch für solche Maschen.
 
 ## 🕵️‍♂️ Hugo wird misstrauisch
 
-Hugo hat sich die Wallet tatsächlich angeschaut – und plötzlich passt die Geschichte nicht mehr so ganz zusammen.
+Hugo hat sich die Wallet tatsächlich angeschaut - und plötzlich passt die Geschichte nicht mehr so ganz zusammen.
 
 Denn wenn das Ganze angeblich eine **exklusive, streng geheime Millionen-Transaktion** ist…
 warum laufen dann **hunderte andere Zahlungen über dieselbe Bitcoin-Adresse?**
@@ -237,7 +237,7 @@ Das ist ungefähr so, als würde dir jemand sagen:
 
 ## 🤡 Jetzt wird’s juristisch… irgendwie
 
-Der „Anwalt“ legt nach – und es wird nicht besser, sondern deutlich unterhaltsamer.
+Der „Anwalt“ legt nach - und es wird nicht besser, sondern deutlich unterhaltsamer.
 
 Die Erklärung zur Bitcoin-Wallet:
 👉 Viele Transaktionen sind völlig normal, schließlich nutzen „Behörden“ diese Wallet.
@@ -270,10 +270,10 @@ Hugo wäre nicht Hugo, wenn er nicht irgendwann Nägel mit Köpfen macht. Also:
 **387 € überwiesen** (sauber in Dollar umgerechnet, man ist ja ordentlich).
 
 Empfänger?
-👉 Ein gewisser *Jared Rex* in Wyoming – klingt absolut nach internationaler UN-Abwicklung.
+👉 Ein gewisser *Jared Rex* in Wyoming - klingt absolut nach internationaler UN-Abwicklung.
 
 Verwendungszweck?
-👉 **„Zahlung UNO Spende“** – man will ja auch was Gutes tun 😄
+👉 **„Zahlung UNO Spende“** - man will ja auch was Gutes tun 😄
 
 Der Beleg sieht auf den ersten Blick erstaunlich echt aus. Genau das ist der Punkt:
 Solche Screenshots sind schnell erstellt und perfekt geeignet, um den Spieß umzudrehen.
@@ -320,7 +320,7 @@ Oder sie behaupten einfach, das Geld sei **nicht angekommen**. Klassiker.
 
 Es wird immer besser.
 
-Hugo hat „überwiesen“ – aber jetzt kommt das große Problem:
+Hugo hat „überwiesen“ - aber jetzt kommt das große Problem:
 👉 **Der Verwendungszweck passt nicht**
 
 Statt „Gut“ steht da „UNO Spende“. Und offenbar hängt jetzt die komplette 150-Millionen-Transaktion an genau diesem Detail.
@@ -347,3 +347,51 @@ Besser kann man das Geschäftsmodell kaum zusammenfassen 😄
 **Egal, wir schicken den falschen Beleg und stellen uns dumm!**
 
 > Achso, ja hier der Beleg. Was meinen sie mit Verwendungszweck?
+
+## 🤡 Alles falsch - bitte nochmal zahlen
+
+Hugo hat „bezahlt“, Beleg geschickt - und plötzlich passt wieder gar nichts. Name fehlt, Bank fehlt, Verwendungszweck falsch… ein echtes Bürokratie-Drama auf UN-Niveau.
+
+Aber zum Glück gibt’s die Lösung gleich mitgeliefert: einfach nochmal zahlen. Am besten über Western Union oder RIA - also genau die Methoden, bei denen das Geld zuverlässig im Nirvana verschwindet.
+
+Egal was Hugo macht, es ist falsch. Und die einzige „richtige“ Option ist überraschenderweise immer: nochmal Geld schicken 😄
+
+> Hallo Hugo, ich habe einige Fragen, da mir der von Ihnen bereitgestellte Überweisungsbeleg nicht verständlich ist.  
+>   
+> Haben Sie das Geld direkt von Ihrem Bankkonto überwiesen?  
+>   
+> Haben Sie die Überweisung von Ihrem Handy aus getätigt?  
+>   
+> Wurden die 400,00 USD von Ihrem Bankkonto abgebucht?  
+>   
+> Der von Ihnen bereitgestellte Überweisungsbeleg reicht als Zahlungsnachweis nicht aus. Könnten Sie mir bitte einen weiteren Beleg zukommen lassen, der die Überweisung der von Ihnen angegebenen 400,00 USD belegt?  
+>   
+> Auf dem von Ihnen bereitgestellten Beleg konnte ich weder den Namen Ihrer Bank noch Ihren vollständigen Namen erkennen.  
+>   
+> Die 400,00 USD sind nicht für eine UN-Spende bestimmt.  
+>   
+> Die von Ihnen als Verwendungszweck angegebene UN-Spende ist falsch. Ich empfehle Ihnen, dies bei Ihrer Bank korrigieren zu lassen und als Verwendungszweck „Familie“ anzugeben. Alternativ können Sie sich die 400,00 USD erstatten lassen und das Geld per RIA oder Western Union auf die Ihnen mitgeteilten Kontodaten überweisen.  
+>   
+> Ich freue mich auf Ihre baldige Antwort.  
+
+
+### 😄 Hugo macht dicht
+
+Jetzt ist Hugo durch. Geld ist „überwiesen“, Beleg geschickt - und trotzdem soll alles nochmal gemacht werden? Nicht mit ihm!
+
+> Hallo Herr Upright,  
+>   
+> also langsam bin ich etwas verwirrt.  
+>   
+> Ich habe die 400 $ überwiesen, das Geld ist von meinem Konto runter. Mehr kann ich da ehrlich gesagt nicht machen.  
+>   
+> Können Sie bitte einfach prüfen, ob das Geld angekommen ist?  
+> Ich werde nicht nochmal etwas überweisen.  
+>   
+> Wenn etwas mit dem Verwendungszweck nicht passt, dann klären Sie das bitte mit der Bank.  
+>   
+> Ich möchte jetzt einfach wissen, wie es weitergeht.  
+>   
+> Gruß  
+> Hugo  
+
