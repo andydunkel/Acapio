@@ -165,3 +165,20 @@ Denn sobald man vom großen Geld zurück in die Realität wechselt („Wie läuf
 >   
 > Viele Grüße  
 > Hugo  
+
+
+## Die Scammer bleiben skeptisch!
+
+Die Scammer bleiben wie gewohnt skeptisch, auf unsere Frage, ob das Geld angekommen ist, wird nicht eingegangen und so langsam kommen bei den Scammern wohl Zweifel an der Echtheit des Beleges.
+
+Dennoch geben sie die Hoffnung nicht auf:
+
+> Hello Hugo, Sie haben meine Frage nicht beantwortet. Haben Sie das Geld über Ihre Banking-App überwiesen? Oder sind Sie persönlich zur Bank gefahren, um die Überweisung vorzunehmen?  
+>   
+> Welchen anderen Überweisungsbeleg haben Sie für die Überweisung der 400 $?  
+
+Wir antworten natürlich brav, was die Scammer Zeit kostet, ist gut!
+
+Hugo zeigt sich kurz und etwas aufgebracht:
+
+> Ich habe das online gemacht im online banking, da habe ich das mit dem Windows Tool aufgenommen. Was wollen sie denn noch, kam das Geld nun an?

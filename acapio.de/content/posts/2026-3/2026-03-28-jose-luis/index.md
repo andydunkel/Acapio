@@ -100,3 +100,25 @@ Ab jetzt wird es in der Regel persönlicher. Oft folgen dann:
 * angebliche „Beweise“ (Dokumente, Zertifikate)
 * freundliche Betreuung durch den „Anwalt“
 * und irgendwann die erste **Gebühr**
+
+## Fazit: 2,9 Millionen weniger aufdringlich als gedacht
+
+Am Ende blieb es erstaunlich still. Hugo hat brav zurückgeschrieben, höflich nachgefragt und sogar eine perfekte Vorlage geliefert, um weiterzudrücken – aber von „Dr. Jose Luis“ kam plötzlich nichts mehr. Keine anwaltliche Erklärung, keine offizielle Bestätigung, kein spanischer Millionenregen. Gar nichts.
+
+Das ist eigentlich schon aufschlussreich genug.
+
+Wahrscheinlich war Hugos Antwort für die Scammer einfach nicht ergiebig genug. Kein ausgefülltes Formular, keine Adresse, keine Telefonnummer, kein Geburtsdatum, kein blindes „Ja, bitte zahlen Sie aus“. Stattdessen nur eine knappe Rückfrage. Damit lässt sich schlecht arbeiten. Solche Betrüger suchen keine skeptischen Nachfrager, sondern Menschen, die direkt Daten liefern, emotional einsteigen oder möglichst schnell an den angeblichen Gewinn glauben.
+
+### Lessons Learned
+
+Wer an einer Lotterie nicht teilgenommen hat, kann dort auch nichts gewonnen haben. Klingt banal, ist aber der wichtigste Punkt.
+
+Freemail-Adressen wie Outlook oder Gmail sind kein gutes Zeichen, wenn sich jemand als große Kanzlei, Behörde oder offizielle Auszahlungsstelle ausgibt.
+
+Sobald Formulare mit persönlichen Daten abgefragt werden, sollte man sehr hellhörig werden. Name, Anschrift, Geburtsdatum und Telefonnummer sind für solche Scams oft viel interessanter als der eigentliche „Gewinn“.
+
+Die Geschichte ist bewusst so gebaut, dass sie dringend wirkt: Frist, Aktenzeichen, Anwalt, große Summe, „letzte Chance“. Genau das soll Druck erzeugen und kritisches Denken ausschalten.
+
+Und auch wichtig: Nicht jeder Scam läuft bis zur Gebührenforderung durch. Manchmal sortieren die Täter schon früh aus, wenn sie merken, dass ihr Gegenüber nicht leicht genug anbeißt.
+
+Unterm Strich also: Hugo ist leider kein Multimillionär geworden. Aber immerhin hat er auch nicht seine Daten an eine dubiose „Kanzlei“ mit Gmail-Adresse verschenkt. Und das ist in diesem Fall vermutlich der deutlich bessere Deal.

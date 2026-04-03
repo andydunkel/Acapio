@@ -71,3 +71,32 @@ Hugo ist interessiert (wer wäre das nicht bei 5 Millionen), aber irgendwo kling
 Oder wie man im Vereinsheim sagen würde:
 
 > „Klingt gut… aber wo ist der Haken?“ 😄
+
+---
+
+## Fazit: 5 Millionen… und dann Funkstille 🤫
+
+Hugo fragt höflich nach – und plötzlich ist Ruhe im Karton.
+Keine Antwort mehr, kein Geld, kein Powerball-Milliardär.
+
+Überraschung? Eher nicht.
+
+Sobald man nicht direkt „Ja und Amen“ sagt, verlieren die Herrschaften meist schnell das Interesse. Schließlich sucht man lieber das nächste Opfer, das weniger nachfragt.
+
+---
+
+## Die Red Flags auf einen Blick 🚩
+
+* „Sie wurden ausgewählt“ – aber ohne irgendeinen Grund
+* Millionen-Geschenk von völlig fremden Personen
+* Unpersönliche Anrede („Hallo“)
+* Zu schöne Story (Powerball, Milliarden, Spenden)
+* Druck zur schnellen Antwort
+* Angebliche frühere Kontaktversuche
+* Funkstille, sobald kritische Fragen kommen
+
+---
+
+Unterm Strich:
+
+> Wer wirklich 5 Millionen verschenkt, verschwindet nicht nach der ersten Rückfrage.
