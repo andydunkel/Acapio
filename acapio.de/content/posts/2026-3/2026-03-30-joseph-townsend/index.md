@@ -77,30 +77,27 @@ Kurz gesagt:
 Ein Verstorbener ohne Familie, ein zufällig passender Nachname und ein Banker, der unbedingt helfen will – das Scam-Drehbuch ist komplett 🎬🎣
 
 
->  Hallo!  
->   
-> Vielen Dank, dass Sie meine Kontaktaufnahme angenommen haben. Ich bin Dr. Joseph Townsend, ehemaliger Chief Commercial Officer der Community Foundation Bank PLC. Die heutige Community Foundation Bank war eine britische Privatkundenbank, die vor ihrer vollständigen Lizenzierung im Jahr 2010 ausschließlich lokal tätig war. Ein Kunde mit demselben Nachnamen wie Dr. Friedrich Kacke investierte bei meiner Bank. Nach Ablauf der vereinbarten Laufzeit kontaktierte ihn meine Bank (Community Foundation Bank) mehrmals, jedoch ohne jegliche Antwort. Schließlich erhielten wir die traurige Nachricht, dass er in einem privaten Krankenhaus in Cannes, Frankreich, tot aufgefunden worden war. Weitere Nachforschungen bestätigten diese traurige Nachricht. Nun wurde mir alles klarer.  
->   
-> Wir leiteten umgehend eine Suche nach möglichen Hinterbliebenen ein, um sie über die Situation zu informieren und sie zur Geltendmachung ihres Erbanspruchs aufzufordern. Ungewöhnlicherweise waren bei Dr. Friedrich keine Angaben zu seinen Angehörigen hinterlegt. Ist dies Schicksal, Zufall oder reines Glück? Ich beschloss, einen Weg zu finden, diese Chance zu nutzen, denn dies ist eine lebensverändernde Gelegenheit für mich und hoffentlich auch für uns beide. Ich war der persönliche Kontobetreuer/Testamentsvollstrecker des verstorbenen Dr. Friedrich Kacke und habe Sie aufgrund Ihres Nachnamens kontaktiert: Auf einem der Konten meines verstorbenen Mandanten (Dr. Friedrich Kacke) befindet sich ein Betrag von 13.500.000,00 GBP.  
->   
-> Er verstarb ohne Testament, und es wurden mehrere Versuche unternommen, über Ihre Botschaft seine Angehörigen ausfindig zu machen – leider ohne Erfolg. Aufgrund der Sensibilität des Privatbankwesens benennen die meisten Mandanten in ihren Anlagen keine Angehörigen und übergeben uns in der Regel auch nicht ihr Testament. In diesem Fall verstarb unser verstorbener Dr. Friedrich Kacke ohne Testament. Der Privatbanksektor wird meiner Bank bis Ende Januar nächsten Jahres ein Aufforderungsschreiben zukommen lassen. Dies führt dazu, dass die Gelder in das Buchhaltungssystem der britischen Regierung eingezahlt werden und die Akte nicht mehr in meinem Besitz ist.  
->   
-> Ich habe Sie kontaktiert, da Sie einen ähnlichen Nachnamen wie mein verstorbener Mandant haben. Ich verfüge über alle notwendigen Details und Dokumente, um die Gelder zu beanspruchen, da Sie denselben Nachnamen wie der Verstorbene tragen.  
->   
-> Ich bitte Sie um Ihre Erlaubnis, Sie der Community Foundation Bank PLC als nächsten Angehörigen meines Mandanten vorzustellen, da Sie einen ähnlichen Nachnamen haben. So können Sie bei der Überweisung der Gelder auf ein ausländisches Konto behilflich sein, und ich verspreche Ihnen eine faire 50/50-Aufteilung zu meinen Gunsten.  
->   
-> Ich verstehe, dass Sie sich möglicherweise Sorgen machen, einen solchen Betrag in Ihrem Heimatland zu erhalten. Ein Offshore-Transitkonto wäre ratsam. Falls Sie bereits eines besitzen, wäre das ideal. Andernfalls können Sie eines in einem Land Ihrer Wahl einrichten. Gerne unterstütze ich Sie dabei. Ein Offshore-Konto, auf das Sie jederzeit zugreifen und das Sie problemlos für Online-Überweisungen nutzen können.  
->   
-> Sollten Sie daran kein Interesse haben, ignorieren Sie diese Nachricht bitte. Ich bitte Sie außerdem, mir keine Umstände zu bereiten; ich habe mir Zeit genommen, einen passenden Namen aus Ihrem Heimatland zu finden. Ich würde Ihre Reife in dieser Angelegenheit sehr schätzen, wenn Sie sich für diese Zusammenarbeit entscheiden. Ich habe meine Hintergrundrecherche durchgeführt und kann Ihnen aufgrund meiner langjährigen Bankerfahrung absolute Sicherheit garantieren. In meiner nächsten E-Mail sende ich Ihnen alle relevanten Informationen, falls wir uns einigen. Wie bereits erwähnt, möchte ich Sie nicht ignorieren, falls Sie kein Interesse haben. Ich habe jahrelang nach einem geeigneten und vertrauenswürdigen Partner gesucht.  
->   
-> Ich bitte Sie lediglich um absolute Vertraulichkeit. Bitte teilen Sie mir Ihre Meinung so bald wie möglich mit und antworten Sie auf diese E-Mail, damit wir die Transaktion weiter besprechen können.  
->   
-> Mit freundlichen Grüßen,  
->   
-> Dr. Joseph Townsend  
-> Leiter der Operationsabteilung  
-> Mitglied des geldpolitischen Ausschusses  
-> Vereinigtes Königreich  
+<details class="scam-accordion">
+  <summary>📄 Dr. Joseph Townsend erklärt lang und breit</summary>
+  <div class="accordion-content">
+    <blockquote>
+      <p>Hallo!</p>
+      <p>Vielen Dank, dass Sie meine Kontaktaufnahme angenommen haben. Ich bin Dr. Joseph Townsend, ehemaliger Chief Commercial Officer der Community Foundation Bank PLC. Die heutige Community Foundation Bank war eine britische Privatkundenbank, die vor ihrer vollständigen Lizenzierung im Jahr 2010 ausschließlich lokal tätig war. Ein Kunde mit demselben Nachnamen wie Dr. Friedrich Kacke investierte bei meiner Bank. Nach Ablauf der vereinbarten Laufzeit kontaktierte ihn meine Bank (Community Foundation Bank) mehrmals, jedoch ohne jegliche Antwort. Schließlich erhielten wir die traurige Nachricht, dass er in einem privaten Krankenhaus in Cannes, Frankreich, tot aufgefunden worden war. Weitere Nachforschungen bestätigten diese traurige Nachricht. Nun wurde mir alles klarer.</p>
+      <p>Wir leiteten umgehend eine Suche nach möglichen Hinterbliebenen ein, um sie über die Situation zu informieren und sie zur Geltendmachung ihres Erbanspruchs aufzufordern. Ungewöhnlicherweise waren bei Dr. Friedrich keine Angaben zu seinen Angehörigen hinterlegt. Ist dies Schicksal, Zufall oder reines Glück? Ich beschloss, einen Weg zu finden, diese Chance zu nutzen, denn dies ist eine lebensverändernde Gelegenheit für mich und hoffentlich auch für uns beide. Ich war der persönliche Kontobetreuer/Testamentsvollstrecker des verstorbenen Dr. Friedrich Kacke und habe Sie aufgrund Ihres Nachnamens kontaktiert: Auf einem der Konten meines verstorbenen Mandanten (Dr. Friedrich Kacke) befindet sich ein Betrag von 13.500.000,00 GBP.</p>
+      <p>Er verstarb ohne Testament, und es wurden mehrere Versuche unternommen, über Ihre Botschaft seine Angehörigen ausfindig zu machen – leider ohne Erfolg. Aufgrund der Sensibilität des Privatbankwesens benennen die meisten Mandanten in ihren Anlagen keine Angehörigen und übergeben uns in der Regel auch nicht ihr Testament. In diesem Fall verstarb unser verstorbener Dr. Friedrich Kacke ohne Testament. Der Privatbanksektor wird meiner Bank bis Ende Januar nächsten Jahres ein Aufforderungsschreiben zukommen lassen. Dies führt dazu, dass die Gelder in das Buchhaltungssystem der britischen Regierung eingezahlt werden und die Akte nicht mehr in meinem Besitz ist.</p>
+      <p>Ich habe Sie kontaktiert, da Sie einen ähnlichen Nachnamen wie mein verstorbener Mandant haben. Ich verfüge über alle notwendigen Details und Dokumente, um die Gelder zu beanspruchen, da Sie denselben Nachnamen wie der Verstorbene tragen.</p>
+      <p>Ich bitte Sie um Ihre Erlaubnis, Sie der Community Foundation Bank PLC als nächsten Angehörigen meines Mandanten vorzustellen, da Sie einen ähnlichen Nachnamen haben. So können Sie bei der Überweisung der Gelder auf ein ausländisches Konto behilflich sein, und ich verspreche Ihnen eine faire 50/50-Aufteilung zu meinen Gunsten.</p>
+      <p>Ich verstehe, dass Sie sich möglicherweise Sorgen machen, einen solchen Betrag in Ihrem Heimatland zu erhalten. Ein Offshore-Transitkonto wäre ratsam. Falls Sie bereits eines besitzen, wäre das ideal. Andernfalls können Sie eines in einem Land Ihrer Wahl einrichten. Gerne unterstütze ich Sie dabei. Ein Offshore-Konto, auf das Sie jederzeit zugreifen und das Sie problemlos für Online-Überweisungen nutzen können.</p>
+      <p>Sollten Sie daran kein Interesse haben, ignorieren Sie diese Nachricht bitte. Ich bitte Sie außerdem, mir keine Umstände zu bereiten; ich habe mir Zeit genommen, einen passenden Namen aus Ihrem Heimatland zu finden. Ich würde Ihre Reife in dieser Angelegenheit sehr schätzen, wenn Sie sich für diese Zusammenarbeit entscheiden. Ich habe meine Hintergrundrecherche durchgeführt und kann Ihnen aufgrund meiner langjährigen Bankerfahrung absolute Sicherheit garantieren. In meiner nächsten E-Mail sende ich Ihnen alle relevanten Informationen, falls wir uns einigen. Wie bereits erwähnt, möchte ich Sie nicht ignorieren, falls Sie kein Interesse haben. Ich habe jahrelang nach einem geeigneten und vertrauenswürdigen Partner gesucht.</p>
+      <p>Ich bitte Sie lediglich um absolute Vertraulichkeit. Bitte teilen Sie mir Ihre Meinung so bald wie möglich mit und antworten Sie auf diese E-Mail, damit wir die Transaktion weiter besprechen können.</p>
+      <p>Mit freundlichen Grüßen,</p>
+      <p>Dr. Joseph Townsend<br>
+      Leiter der Operationsabteilung<br>
+      Mitglied des geldpolitischen Ausschusses<br>
+      Vereinigtes Königreich</p>
+    </blockquote>
+  </div>
+</details>
 
 ## Hugo wird misstrauisch
 

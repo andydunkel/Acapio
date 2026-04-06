@@ -1,0 +1,30 @@
+// Das Accordion-Gefäß
+.scam-accordion
+  border: 1px solid #ddd
+  border-radius: 8px
+  margin: 1rem 0
+  padding: 0.5rem
+  background: #f9f9f9
+
+  // Die Kopfzeile
+  summary
+    font-weight: bold
+    cursor: pointer
+    padding: 0.5rem
+    outline: none
+    list-style: none // Entfernt den Standard-Pfeil
+
+    // Ein eigener Pfeil davor
+    &::before
+      content: "▶ "
+      color: #e74c3c // Ein Warn-Rot passend zum Scam-Thema
+
+  // Pfeil drehen, wenn offen
+  &[open]
+    summary::before
+      content: "▼ "
+
+// Der Inhalt
+.accordion-content
+  padding: 1rem
+  border-top: 1px solid #eee

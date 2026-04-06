@@ -40,40 +40,35 @@ Ein Teil zu spenden sei „freiwillig“. Na klar. Erst 3 Millionen einsacken un
 Am Ende bleibt vor allem eine Frage:
 Wie schafft man es eigentlich, **2,9 Millionen Euro zu gewinnen, ohne jemals gespielt zu haben?**
 
-> ANWALTSKANZLEI  DR. JOSE LUIS  
-> P.º de la Vaguada, 8,  
-> Fuencarral-El Pardo,  
-> 28029 Madrid-Spanien  
->   
->   
-> AKTENZEIHEN:MG/57/7G6/28EOG                          24/3/2026   
->   
-> Abschließende Mitteilung für die Zahlung des nicht beanspruchten Preisgeldes  
->   
-> Wir möchten Sie informieren, dass das Büro des nicht Beanspruchten Preisgeldes in Spanien,unsere Anwaltskanzlei ernannt hat, als gesetzliche Berater zu handeln, in der Verarbeitung und der Zahlung eines Preisgeldes, das auf Ihrem Namen gutgeschrieben wurde, und nun seit über zwei Jahren nicht beansprucht wurde.  
->   
-> Der Gesamtbetrag der ihnen zusteht beträgt momentan 2,917,610.00 EUR   
->   
-> Das ursprüngliche Preisgeld - 2,896.315,00 EUR     Diese Summe wurde fuer nun mehr als zwei Jahre gewinnbringend angelegt,daher die Aufstockung auf die oben genannte Gesammtsumme. Entsprechend dem Büros des nicht beanspruchten Preisgeldes,wurde dieses Geld als nicht beanspruchten Gewinn einer Lotterie Firma bei ihnen zum Verwalten niedergelegt und in ihrem Namen versichert. Nach Ansicht der Lotterie Firma wurde ihnen das Geld nach einer Weihnachts-Förderung Lotterie zugesprochen. Die Kupons wurden von einer Investmentgesellschaft gekauft.Nach Ansicht der Lotterie-Firma wurden sie damals angeschrieben um Sie über dieses Geld zu informieren, es hat sich aber leider bis zum Ablauf der gesetzten Frist keiner gemeldet, um den Gewinn zu beanspruchen.. Dies war der Grund, weshalb das Geld zum Verwalten niedergelegt wurde. Gemäß des Spanischen Gesetzes muss der inhaber alle zwei Jahre ueber seinen vorhanden Gewinn informiert werden.Sollte dass Geld wieder nicht beansprucht werden,.wird der Gewinn abermals ueber eine Investmentgesellschaft für eine weitere Periode von zwei Jahren angelegt werden.Wir sind daher, durch das Büro des nicht Beanspruchten Preisgelds beauftragt worden sie anzuschreiben.Dies ist eine Notifikation für das Beanspruchen dieses Gelds.   
->   
-> Wir möchten sie darauf hinweisen, dass die Lotteriegesellschaft überprüfen und bestätigen wird, ob ihre Identität übereinstimmt, bevor ihnen ihr Geld ausbezahlt wird.Wir werden sie beraten, wie sie ihren Anspruch geltend machen. Bitte setzen sie sich dafuer mit unserer Deutsch Sprachigen Rechtsanwalt in Verbindung, Name; Dr. Jose Luis, E-Mail-Adresse: loterianacionalcentral@gmail.com   ist zustaendig fuer Auszahlungen ins Ausland und wird ihnen in dieser Sache zur Seite stehen. Der Anspruch sollte vor dem  24-4-2026 geltend gemacht werden,da sonst das Geld wieder angelegt werden würde. Wir freuen uns, von Ihnen zu hören, während wir Ihnen unsere Rechtshilfe versichern.  
->   
-> ANMELDEFORMULAR FÜR DEN GEWINNANSPRUCH  
->   
-> VORNAME:................................................NAME:.......................................  
-> ANSCHRIFT:..........................................................................................  
-> AKTENZEICHEN:.......................................GEB.DATUM:...............................  
-> GEWINN-SUMME:...............................TELEFON:.........................................  
-> FAX:.................................................... BERUF:..............................................  
-> E-MAIL ADDRESSE:.....................................................................................  
->   
-> ABLAUFDATUM :  24/4/2026  
->   
-> Einen Teil zu spenden ist ihr freier Wille,und ihre eigene Entscheidung, Sie müssen das Geld nicht spenden , wenn Sie das nicht wollen.Rechtlich gehört das Kapitalanlageergebnis Ihnen und ist gegen weiteren Handel oder Investitionen ohne Ihre Genehmigung Rechtswidrig.  
->   
-> Mit freundlichen Grüßen,  
-> DR JOSE LUIS  
-> RECHTSANWAELTE AM OBERSTEN GERICHTSHOF  
+<details class="scam-accordion">
+  <summary>📄 Lange E-Mail der Scammer, Abfrage der persönlichen Daten</summary>
+  <div class="accordion-content">
+    <blockquote>
+      <p>ANWALTSKANZLEI  DR. JOSE LUIS<br>
+      P.º de la Vaguada, 8,<br>
+      Fuencarral-El Pardo,<br>
+      28029 Madrid-Spanien</p>
+      <p>AKTENZEIHEN:MG/57/7G6/28EOG                          24/3/2026</p>
+      <p>Abschließende Mitteilung für die Zahlung des nicht beanspruchten Preisgeldes</p>
+      <p>Wir möchten Sie informieren, dass das Büro des nicht Beanspruchten Preisgeldes in Spanien,unsere Anwaltskanzlei ernannt hat, als gesetzliche Berater zu handeln, in der Verarbeitung und der Zahlung eines Preisgeldes, das auf Ihrem Namen gutgeschrieben wurde, und nun seit über zwei Jahren nicht beansprucht wurde.</p>
+      <p>Der Gesamtbetrag der ihnen zusteht beträgt momentan 2,917,610.00 EUR</p>
+      <p>Das ursprüngliche Preisgeld - 2,896.315,00 EUR     Diese Summe wurde fuer nun mehr als zwei Jahre gewinnbringend angelegt,daher die Aufstockung auf die oben genannte Gesammtsumme. Entsprechend dem Büros des nicht beanspruchten Preisgeldes,wurde dieses Geld als nicht beanspruchten Gewinn einer Lotterie Firma bei ihnen zum Verwalten niedergelegt und in ihrem Namen versichert. Nach Ansicht der Lotterie Firma wurde ihnen das Geld nach einer Weihnachts-Förderung Lotterie zugesprochen. Die Kupons wurden von einer Investmentgesellschaft gekauft.Nach Ansicht der Lotterie-Firma wurden sie damals angeschrieben um Sie über dieses Geld zu informieren, es hat sich aber leider bis zum Ablauf der gesetzten Frist keiner gemeldet, um den Gewinn zu beanspruchen.. Dies war der Grund, weshalb das Geld zum Verwalten niedergelegt wurde. Gemäß des Spanischen Gesetzes muss der inhaber alle zwei Jahre ueber seinen vorhanden Gewinn informiert werden.Sollte dass Geld wieder nicht beansprucht werden,.wird der Gewinn abermals ueber eine Investmentgesellschaft für eine weitere Periode von zwei Jahren angelegt werden.Wir sind daher, durch das Büro des nicht Beanspruchten Preisgelds beauftragt worden sie anzuschreiben.Dies ist eine Notifikation für das Beanspruchen dieses Gelds.</p>
+      <p>Wir möchten sie darauf hinweisen, dass die Lotteriegesellschaft überprüfen und bestätigen wird, ob ihre Identität übereinstimmt, bevor ihnen ihr Geld ausbezahlt wird.Wir werden sie beraten, wie sie ihren Anspruch geltend machen. Bitte setzen sie sich dafuer mit unserer Deutsch Sprachigen Rechtsanwalt in Verbindung, Name; Dr. Jose Luis, E-Mail-Adresse: loterianacionalcentral@gmail.com   ist zustaendig fuer Auszahlungen ins Ausland und wird ihnen in dieser Sache zur Seite stehen. Der Anspruch sollte vor dem  24-4-2026 geltend gemacht werden,da sonst das Geld wieder angelegt werden würde. Wir freuen uns, von Ihnen zu hören, während wir Ihnen unsere Rechtshilfe versichern.</p>
+      <p>ANMELDEFORMULAR FÜR DEN GEWINNANSPRUCH</p>
+      <p>VORNAME:................................................NAME:.......................................<br>
+      ANSCHRIFT:..........................................................................................<br>
+      AKTENZEICHEN:.......................................GEB.DATUM:...............................<br>
+      GEWINN-SUMME:...............................TELEFON:.........................................<br>
+      FAX:.................................................... BERUF:..............................................<br>
+      E-MAIL ADDRESSE:.....................................................................................</p>
+      <p>ABLAUFDATUM :  24/4/2026</p>
+      <p>Einen Teil zu spenden ist ihr freier Wille,und ihre eigene Entscheidung, Sie müssen das Geld nicht spenden , wenn Sie das nicht wollen.Rechtlich gehört das Kapitalanlageergebnis Ihnen und ist gegen weiteren Handel oder Investitionen ohne Ihre Genehmigung Rechtswidrig.</p>
+      <p>Mit freundlichen Grüßen,<br>
+      DR JOSE LUIS<br>
+      RECHTSANWAELTE AM OBERSTEN GERICHTSHOF</p>
+    </blockquote>
+  </div>
+</details>
 
 ## Unsere Antwort 🤔
 

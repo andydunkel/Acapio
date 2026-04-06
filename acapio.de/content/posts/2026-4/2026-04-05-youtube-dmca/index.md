@@ -22,27 +22,28 @@ Wer einen YouTube-Kanal betreibt und vielleicht Musik oder andere Fremde Werke i
 
 Die E-Mails der Masche unterscheiden sich in Qualität und Machart. Dahinter steckt aber immer der gleiche Ablauf. Ein angeblicher Copyright-Verstoß auf dem Kanal. Dazu ein Link, zur Prüfung. Ein klassischer Fall von [Zugangsdaten-Phishing](/tags/phishing/).
 
-> Hello,  
->   
-> We got an intellectual property alert regarding content from account.  
->   
-> Reference ID: CMS-25603-2026  
->   
-> Alerted content  
-> https://share.google/XDEU75bn49nMwm9wt  
->   
-> Outline of the copyrighted content  
-> Video Footage  
->   
-> We request that you review this matter and as applicable, take down or restrict access to the aforementioned content.  
->   
-> If the content is not removed , the notifier could seek enforcement via the appropriate platform or via legal procedures as appropriate.  
->   
-> Reporting party  
-> Prostock-Studio  
->   
-> Statement  
-> The complainant has affirmed that they genuinely believe that the material is being used without permission and that the information provided is accurate under penalty of perjury.  
+<details class="scam-accordion">
+  <summary>📄 Urheberrechtshinweis von Prostock-Studio (Referenz: CMS-25603-2026)</summary>
+  <div class="accordion-content">
+    <blockquote>
+      <p>Hello,</p>
+      <p>We got an intellectual property alert regarding content from account.</p>
+      <p><strong>Reference ID:</strong> CMS-25603-2026</p>
+      <p><strong>Alerted content:</strong> <br>
+      https://share.google/XDEU75bn49nMwm9wt</p>
+      <p><strong>Outline of the copyrighted content:</strong> <br>
+      Video Footage</p>
+      <p>We request that you review this matter and as applicable, take down or restrict access to the aforementioned content.</p>
+      <p>If the content is not removed, the notifier could seek enforcement via the appropriate platform or via legal procedures as appropriate.</p>
+      <p><strong>Reporting party:</strong> <br>
+      Prostock-Studio</p>
+      <hr>
+      <p><em>Statement:</em> <br>
+      The complainant has affirmed that they genuinely believe that the material is being used without permission and that the information provided is accurate under penalty of perjury.</p>
+    </blockquote>
+  </div>
+</details>
+
 
 ![Die E-Mail mit dem vermeintlichen Copyright-Verstoß](/posts/2026-04-05-youtube-dmca/dmca_1.webp)
 

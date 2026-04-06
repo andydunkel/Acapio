@@ -82,31 +82,31 @@ Die Antwort folgt brav nach Lehrbuch. „Abbas Shafii“ erklärt noch einmal se
 
 Bevor das Geld fließen kann, sollen wir allerdings erstmal eine ganze Liste **persönlicher Daten** schicken. Name, Adresse, Telefonnummer, WhatsApp, einmal das komplette Profil bitte.
 
-> Hallo,  
->   
-> ich bin Abbas Shafii aus Beaverton, Oregon, und habe den ersten Powerball-Jackpot des Jahres in Oregon gewonnen. Ich habe am 17. Januar 2025 im Beaverton Fred Meyer an der SW Walker Road ein Los gekauft. Mein Jackpot war ein Geschenk Gottes, und im Namen meiner Familie und mir habe ich beschlossen, Gottes Willen zu tun und mit dieser Spende Einzelpersonen, Wohltätigkeitseinrichtungen und Organisationen zu unterstützen. Über meinen Gewinn können Sie unter den folgenden Links mehr erfahren.:  
->   
-> https://www.youtube.com/watch?v=fOf87_u1DJM  
-> https://www.powerball.com/beaverton-man-claims-328.5-million-powerball-jackpot  
->   
-> Ich habe mich entschieden, etwas zurückzugeben und lokale und globale Initiativen zu unterstützen. Mein Team unterstützt Sie dabei, diese Ziele zu erreichen. Die wahre Wirkung meines Lebenswerks beginnt jetzt. Deshalb verteile ich jeweils 7.000.000,00 $ an fünf Personen. Vier Personen haben bereits ihre Spenden erhalten. Um die Auszahlung dieser 7.000.000,00 $ zu erleichtern, füllen Sie bitte Ihre Daten aus, damit wir weitermachen können.  
->   
-> Benötigte Informationen:  
->   
-> Vollständiger Name:  
-> Alter:  
-> Wohnadresse:  
-> Bundesland/Stadt:  
-> Land:  
-> Geschlecht:  
-> Beruf:  
-> Telefon:  
-> WhatsApp-Nummer:  
->   
-> Weitere wichtige Informationen erhalten Sie, sobald Sie die oben genannten Informationen ausgefüllt und zurückgesendet haben. Aus Sicherheitsgründen wird allen Begünstigten empfohlen, ihre Gewinninformationen vertraulich zu behandeln. Dies ist Teil unserer Sicherheitsmaßnahmen, um doppelte Ansprüche oder Identitätsbetrug zu vermeiden.  
->   
-> Mit freundlichen Grüßen  
-> Mr Abbas Shafii  
+<details class="scam-accordion">
+  <summary>📄 Abfrage der persönlichen Daten</summary>
+  <div class="accordion-content">
+    <blockquote>
+      <p>Hallo,</p>
+      <p>ich bin Abbas Shafii aus Beaverton, Oregon, und habe den ersten Powerball-Jackpot des Jahres in Oregon gewonnen. Ich habe am 17. Januar 2025 im Beaverton Fred Meyer an der SW Walker Road ein Los gekauft. Mein Jackpot war ein Geschenk Gottes, und im Namen meiner Familie und mir habe ich beschlossen, Gottes Willen zu tun und mit dieser Spende Einzelpersonen, Wohltätigkeitseinrichtungen und Organisationen zu unterstützen. Über meinen Gewinn können Sie unter den folgenden Links mehr erfahren.:</p>
+      <p>https://www.youtube.com/watch?v=fOf87_u1DJM<br>
+      https://www.powerball.com/beaverton-man-claims-328.5-million-powerball-jackpot</p>
+      <p>Ich habe mich entschieden, etwas zurückzugeben und lokale und globale Initiativen zu unterstützen. Mein Team unterstützt Sie dabei, diese Ziele zu erreichen. Die wahre Wirkung meines Lebenswerks beginnt jetzt. Deshalb verteile ich jeweils 7.000.000,00 $ an fünf Personen. Vier Personen haben bereits ihre Spenden erhalten. Um die Auszahlung dieser 7.000.000,00 $ zu erleichtern, füllen Sie bitte Ihre Daten aus, damit wir weitermachen können.</p>
+      <p>Benötigte Informationen:</p>
+      <p>Vollständiger Name:<br>
+      Alter:<br>
+      Wohnadresse:<br>
+      Bundesland/Stadt:<br>
+      Land:<br>
+      Geschlecht:<br>
+      Beruf:<br>
+      Telefon:<br>
+      WhatsApp-Nummer:</p>
+      <p>Weitere wichtige Informationen erhalten Sie, sobald Sie die oben genannten Informationen ausgefüllt und zurückgesendet haben. Aus Sicherheitsgründen wird allen Begünstigten empfohlen, ihre Gewinninformationen vertraulich zu behandeln. Dies ist Teil unserer Sicherheitsmaßnahmen, um doppelte Ansprüche oder Identitätsbetrug zu vermeiden.</p>
+      <p>Mit freundlichen Grüßen<br>
+      Mr Abbas Shafii</p>
+    </blockquote>
+  </div>
+</details>
 
 Damit läuft der Scam exakt nach **Schema F**: Erst Millionen versprechen, dann persönliche Daten einsammeln. Alles natürlich streng vertraulich. Nicht dass noch jemand merkt, dass hier gerade ein ziemlich alter Internet-Trick recycelt wird. 📧💸
 
