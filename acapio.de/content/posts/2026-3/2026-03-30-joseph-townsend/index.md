@@ -122,3 +122,22 @@ Denn klar ist: Wer 13,5 Millionen Pfund verteilt 💰, sollte mehr liefern könn
 >   
 > Gruß  
 > Hugo  
+
+---
+
+## Wir müssen zweimal nachhaken, dann ein Ausweis
+
+Zweimal haken wir nach, weil erstmal… nichts kommt 🤨
+Dann meldet sich der „Banker“ doch noch - mit einer sehr überschaubaren Anforderung:
+
+> eine Telefonnummer und ein Reisepass oder Führerschein.
+
+Ach klar. Erst Millionen versprechen und dann direkt nach sensiblen Daten fragen 🙃
+
+Die lassen wir natürlich ganz bewusst weg. Stattdessen gibt’s unseren bewährten **Ausweis mit Bundeshuhn** 🐔😄
+
+![Ausweis mit Bundeshuhn](/posts/2026-03-30-joseph-townsend/ausweis.webp)
+
+Die Telefonnummer behalten wir ebenfalls für uns. Die wird nämlich gerne genutzt, um per WhatsApp oder Anruf ordentlich Druck zu machen 📞🔥
+
+Mal sehen, ob unser Bundeshuhn auch diesmal wieder Karriere macht…
