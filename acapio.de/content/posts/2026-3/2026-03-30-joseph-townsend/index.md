@@ -138,3 +138,9 @@ Die lassen wir natürlich ganz bewusst weg. Stattdessen gibt’s unseren bewähr
 Die Telefonnummer behalten wir ebenfalls für uns. Die wird nämlich gerne genutzt, um per WhatsApp oder Anruf ordentlich Druck zu machen 📞🔥
 
 Mal sehen, ob unser Bundeshuhn auch diesmal wieder Karriere macht…
+
+## Das hat geklappt! Jetzt will der Scammer noch unsere Telefonummer!
+
+Ohne Telefon geht nix, nagut, wir spielen mit und geben unsere spezielle Nummer raus.
+
+> what is your phone number
