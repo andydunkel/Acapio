@@ -182,3 +182,18 @@ Wir antworten natürlich brav, was die Scammer Zeit kostet, ist gut!
 Hugo zeigt sich kurz und etwas aufgebracht:
 
 > Ich habe das online gemacht im online banking, da habe ich das mit dem Windows Tool aufgenommen. Was wollen sie denn noch, kam das Geld nun an?
+
+
+Umgehend folgt die nächste Diagnose, aber wo ein Problem, da ein Weg, wir sollen Apple iTunes Karten kaufen:
+
+> Ich vermute, dass Ihre Bank Probleme mit einer US-Bank hat.
+> Sie sollen iTunes Apple Cards im Wert von 400,00 $ kaufen.
+> Sie kaufen Apple Cards im Wert von je 100,00 $, insgesamt also 4 Stück.
+
+Kein Thema sagen wir, aber wo kauft man die?
+
+> OK, wo kauft man sowas?
+
+Fragt Hugo sorgenvoll...
+
+
