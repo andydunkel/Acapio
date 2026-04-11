@@ -47,6 +47,12 @@ home = ["HTML", "RSS", "JSON"]
   weight = -90  
 
 [[menus.main]]
+  name = "Wie gehen Scammer vor?"
+  parent = "background"
+  url = "/419-scam/"
+
+
+[[menus.main]]
   name = "Über die Webseite"
   parent = "background"
   url = "/about/"
