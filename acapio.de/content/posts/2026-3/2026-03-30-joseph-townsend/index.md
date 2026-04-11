@@ -144,3 +144,62 @@ Mal sehen, ob unser Bundeshuhn auch diesmal wieder Karriere macht…
 Ohne Telefon geht nix, nagut, wir spielen mit und geben unsere spezielle Nummer raus.
 
 > what is your phone number
+
+## Warum wollen Scammer eigentlich immer die Handynummer? 🧐
+
+Es gibt drei Gründe, warum Dr. Townsend jetzt so scharf auf Hugos Nummer ist:
+
+1.  **Druckaufbau:** Ein Anruf oder eine schnelle WhatsApp-Nachricht erzeugt viel mehr psychologischen Druck als eine E-Mail. Man soll keine Zeit zum Nachdenken haben.
+2.  **Sicherheitsfilter umgehen:** Google und Co. haben verdammt gute Spam-Filter. WhatsApp-Nachrichten werden dagegen kaum auf Betrugsmaschen gescannt.
+3.  **Zwei-Faktor-Betrug:** Später wird oft versucht, Konten zu übernehmen. Dafür brauchen sie eine Nummer, an die sie Bestätigungscodes schicken können.
+
+
+## Joseph zieht blank: US-Pass für britische Banker? 🤡
+
+Joseph will jetzt „absolute Ehrlichkeit“. Zum Beweis schickt er seinen Reisepass – einen **US-Pass** für einen angeblich **britischen** Professor. Logisch, oder? Der Name im Dokument sieht zudem aus, als hätte ihn jemand mit Paint und viel gutem Willen reingebastelt. 🎨
+
+Dazu wird er philosophisch: Seine Religion sei „Menschlichkeit vor Religion“. Klingt edel, heißt aber eigentlich nur: „Ich brauche deine Daten.“ Er will jetzt die komplette Biografie von Hugo – von der Adresse bis zur Konfession. In sieben Tagen soll die Kohle angeblich fließen. Spoiler: Eher ist Hugos Identität weg als die Millionen auf dem Konto. 💸
+
+<details class="scam-accordion">
+  <summary>📄  Abfrage der persönlichen Daten</summary>
+  <div class="accordion-content">
+    <blockquote>
+      <p>ielen Dank für Ihre Antwort auf meine E-Mail und Ihre Bereitschaft zur Zusammenarbeit. Angesichts der Höhe des Geldbetrags und der Art der Transaktion ist mir absolute Ehrlichkeit wichtig, damit wir unser Ziel erreichen. Ich möchte sichergehen, dass Sie diese Transaktion mit mir durchführen möchten, und erwarte von Ihnen Vertrauen und Zuverlässigkeit. Ich möchte diesen hohen Geldbetrag mit Ihrer Hilfe überweisen, und Sie brauchen sich keine Sorgen um die Rechtmäßigkeit zu machen, denn Ihre Bedenken sind auch meine. Daher versichere ich Ihnen, dass Sie sich keine Sorgen machen müssen. Ich werde alle rechtlich notwendigen Schritte unternehmen, um einen reibungslosen Ablauf zu gewährleisten. Die Transaktion wird allen internationalen Bankvorschriften entsprechen. Ich bin überzeugt, dass sie bei sorgfältiger Durchführung innerhalb von sieben Werktagen abgeschlossen sein wird.</p>
+      <p>Sie fragen sich vielleicht, woher ich Ihre E-Mail-Adresse habe. Ehrlich gesagt habe ich sie diskret online gefunden, als ich nach einem zuverlässigen Partner für die Geldüberweisung suchte. In meinen vorherigen E-Mails habe ich Ihnen bereits erklärt, warum ich Ihre Hilfe benötige.</p>
+      <p>Ich werde mir so schnell wie möglich eine neue Telefonnummer besorgen, damit wir besser kommunizieren können.<br>
+      Hier sind meine vollständigen Kontaktdaten, falls Sie diese benötigen:</p>
+      <p>1. Name: Dr. Joseph Townsend<br>
+      2. Beruf: Britischer Wirtschaftswissenschaftler/Professor<br>
+      3. Religion: Christentum / Menschlichkeit vor Religion<br>
+      4. Familienstand: Verheiratet<br>
+      5. Geschlecht: Männlich<br>
+      6. Geburtsdatum: 19.11.1972<br>
+      7. Wohnadresse: 7 Hamilton Avenue, London N9 7PP, Vereinigtes Königreich</p>
+      <p>Meine Passnummer finden Sie im Anhang.</p>
+      <p>Nachdem ich Ihnen dies mitgeteilt habe, hoffe ich sehr, dass Sie mir bei der Erreichung dieses Ziels vertrauen können. Ich bitte Sie daher, mir die folgenden Informationen umgehend zukommen zu lassen.</p>
+      <p>ABSCHNITT I</p>
+      <p>1. Ihr vollständiger Name<br>
+      2. Ihre Adresse<br>
+      3. Aktueller Beruf und Position<br>
+      4. Familienstand<br>
+      5. Geburtsdatum<br>
+      6. Religion<br>
+      7. Telefonnummer (Mobil und Festnetz)</p>
+      <p>Zunächst werde ich einen Anwalt kontaktieren, der die notwendigen eidesstattlichen Erklärungen erstellt, in denen Sie als Begünstigter benannt werden. Anschließend werden Sie gebeten, eine Kopie Ihres Personalausweises einzureichen. Der Anwalt benötigt diese Kopie und die darauf enthaltenen Informationen, um alle notwendigen Unterlagen vorzubereiten und eine vertrauensvolle Beziehung zwischen uns aufzubauen.</p>
+      <p>Der Anwalt wird alle Nachlassangelegenheiten in Ihrem Namen regeln. Er wird alle von der Community Foundation Bank PLC benötigten Dokumente unterzeichnen lassen. Mit diesen Dokumenten werden Sie die Bank anschreiben und die sofortige Freigabe und Überweisung der Erbschaft an Ihre gewählte Bank beantragen. Ich bin seit vielen Jahren im Bankwesen tätig und kenne die Abläufe genau.</p>
+      <p>Sobald ich Ihre Dokumente/Angaben erhalten habe, werde ich die notwendigen Formalitäten kostenlos für Sie erledigen.</p>
+      <p>Ich freue mich auf Ihre zeitnahe Antwort auf diese Anfrage.</p>
+      <p>Mit freundlichen Grüßen,<br>
+      Dr. Joseph Townsend</p>
+    </blockquote>
+  </div>
+</details>
+
+
+### Der „Profi“-Ausweis: Ein Photoshop-Unfall der Extraklasse 🎨💩
+
+Josephs Reisepass ist ein echtes Highlight für jeden, der schon mal ein Grafikprogramm aus der Nähe gesehen hat. Dass ein „britischer Banker“ mit einem **US-Pass** wedelt, geschenkt – vielleicht war er im Urlaub? Aber die handwerkliche Umsetzung ist pures Gold:
+
+![Ausweis vom Scammer](/posts/2026-03-30-joseph-townsend/ausweis_scammer.webp)
+
+Wir sind jedenfalls überzeugt, schicken ein paar Fake-Daten und schauen weiter was passiert.

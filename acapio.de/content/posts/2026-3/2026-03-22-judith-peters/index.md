@@ -196,4 +196,32 @@ Kein Thema sagen wir, aber wo kauft man die?
 
 Fragt Hugo sorgenvoll...
 
+## Die Scammer helfen, hier gibt es die Karten
 
+Spätestens hier wird die Geschichte so absurd, dass man eigentlich vor Lachen vom Barhocker im Vereinsheim fallen müsste. Ein internationaler Top-Anwalt, der 150 Millionen Dollar jongliert, schickt Hugo zum nächsten Supermarkt, um dort „Wertpapiere“ in Form von iTunes-Gutscheinen zu besorgen. 🍎🛒
+> Hello Hugo.   Apple iTunes-Geschenkkarten erhalten Sie in Supermärkten und Lebensmittelgeschäften.  
+>   
+> Gehen Sie einfach in ein Einkaufszentrum oder einen Supermarkt – dort finden Sie sie.     
+> Dieser E-Mail ist ein Beispiel für eine Apple iTunes-Geschenkkarte beigefügt.  
+
+
+**Warum ausgerechnet iTunes-Karten?** Ganz einfach: Sie sind die Lieblingswährung der Scammer. Die Codes sind wie Bargeld – einmal übermittelt, sind sie sofort weg, weltweit einlösbar und für die Behörden fast unmöglich zurückzuverfolgen.
+
+---
+
+## Hugo geht in den Verhandlungsmodus: „Geht auch Rabatt?“
+
+Hugo steht nun also vor dem Regal mit den Gutscheinkarten und stellt fest: Das Leben im Vereinsheim ist teurer als gedacht. Statt blind zu zahlen, probiert er es mit der klassischen Basar-Taktik. Wenn man schon 75 Millionen bekommt, kann man ja wohl am Anfang ein bisschen sparen, oder? 🤷‍♂️💸
+
+> Moin Herr Upright,
+>
+> ich stehe hier gerade im Laden vor diesem Ständer mit den Karten. Aber ich sag mal so wie es ist: Ich hab gerade mal in mein Portemonnaie geguckt und nach der Runde gestern Abend im Vereinsheim herrscht da eher Ebbe. 🍻📉
+>
+> 400 Dollar sind ja fast 400 Euro, das ist echt ein harter Brocken für mich gerade. Ich hab hier noch 250 Euro zusammengekratzt, mehr gibt die Haushaltskasse bis Ende des Monats nicht her, sonst gibt’s hier nur noch Tütensuppe. 🍜
+>
+> Reicht das nicht auch erst mal? Ich meine, wenn die 150 Millionen da sind, können Sie sich von mir aus den Rest direkt abziehen oder ich kauf Ihnen einen ganzen LKW voll von diesen Apple-Karten! 🍎🚚 
+>
+> Sagen Sie kurz Bescheid, ob ich die 250 Euro jetzt holen soll, sonst muss ich unverrichteter Dinge wieder abziehen.
+>
+> Viele Grüße
+> Hugo

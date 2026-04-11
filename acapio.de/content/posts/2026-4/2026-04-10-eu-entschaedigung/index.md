@@ -125,3 +125,26 @@ Hugo ist zwar ein herzensguter Kerl, aber eins kann er: Rechnen! Dass zwischen d
 >   
 > Glückauf,  
 > Hugo aus Wanne-Eickel  
+
+## „Hoppla, verrechnet!“ – Conny bügelt die Millionen glatt 📉🤷‍♂️
+
+Conny reagiert so locker, als hätte sie bloß das Wechselgeld vergessen: Die 4,5 Millionen Euro Differenz? Ein einfacher „Fehler in der ersten Mail“. Kann ja mal passieren, dass der Gegenwert einer Kleinstadt im digitalen Nirvana verschwindet! 💨
+
+> Sehr geehrter Herr Scholz,  
+> guten Tag.  
+>   
+> Wir möchten Sie darüber informieren, dass in der ersten E-Mail, die wir Ihnen zugesandt haben, ein Fehler unterlaufen ist. Ihre bewilligte Entschädigungssumme beträgt 10,5 Millionen Euro, und die entsprechende Bescheinigung, die Sie als rechtmäßigen Empfänger dieser Gelder ausweist, wurde Ihnen bereits zugesandt.  
+>   
+> Wir bitten Sie nun, das erforderliche Informationsformular auszufüllen und an uns zurückzusenden, damit wir die endgültige Bearbeitung und Überweisung der Gelder auf Ihr angegebenes Konto veranlassen können.  
+>   
+> Wir freuen uns auf Ihre baldige Antwort.  
+>   
+> Mit freundlichen Grüßen,   
+> Conny Vogt  
+
+**Die Masche dahinter:** * **Thema ignorieren:** Warum die UN schreibt, wird einfach totgeschwiegen. 🗽🤫
+* **Druck machen:** Hauptsache, Hugo schickt jetzt endlich seine Daten. Das Formular ist das einzige, was Conny wirklich interessiert. 📁🏃‍♂️
+
+**Hugos Urteil:** Für Conny ein Tippfehler, für Hugo wären das zwei Millionen Portionen Currywurst gewesen. Der Deal wird schlechter, aber die Gier der Scammer bleibt groß! 🌭📉
+
+Egal, wir schicken jetzt ein paar Fake-Daten und schauen wie die Geschichte weiter geht!
