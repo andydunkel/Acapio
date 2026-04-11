@@ -12,6 +12,8 @@ Historisch wurde diese Betrugsart oft als „[Nigeria-Scam](https://de.wikipedia
 
 Aber wie genau schaffen es die Betrüger, vernünftige Menschen dazu zu bringen, ihr Erspartes an Unbekannte zu überweisen? Werfen wir einen Blick hinter die Kulissen dieses kriminellen Theaterstücks.
 
+Wer einen solchen Fall und Aufwand mal durchgehen will, kann ich unseren Artikel "[Türkische Frau Feyza Olcay Ýbrahim liegt im Sterben und verschenkt Millionen](/posts/2024-12-25_turkish_sick_woman/)" anschauen.
+
 ## Phase 1: Der Köder (Mitleid und Millionen)
 
 Alles beginnt mit einer unaufgeforderten Nachricht. Die Betrüger setzen dabei auf eine explosive psychologische Mischung: Extreme Emotionalität gepaart mit der Aussicht auf absurden Reichtum.
