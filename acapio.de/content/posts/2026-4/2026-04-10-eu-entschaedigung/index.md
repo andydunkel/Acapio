@@ -148,3 +148,36 @@ Conny reagiert so locker, als hätte sie bloß das Wechselgeld vergessen: Die 4,
 **Hugos Urteil:** Für Conny ein Tippfehler, für Hugo wären das zwei Millionen Portionen Currywurst gewesen. Der Deal wird schlechter, aber die Gier der Scammer bleibt groß! 🌭📉
 
 Egal, wir schicken jetzt ein paar Fake-Daten und schauen wie die Geschichte weiter geht!
+
+## Das Phishing-Finale: Conny will an die Kohle 🏦💳
+
+Jetzt wird’s brenzlig: Conny will Hugos IBAN. Warum? Sicher nicht, um die Millionen zu überweisen. Mit Ihrer Bankverbindung haben Scammer den perfekten Grundstein für **Identitätsbetrug** und **unberechtigte Lastschriften**. 
+
+**Die wahren Gefahren:**
+* **Der Gebühren-Trick:** Sobald die Daten da sind, kommt die Mail: „Die Bank hat die 10,5 Mio. gestoppt! Wir brauchen erst 500 € Bearbeitungsgebühr.“ Wer die IBAN gibt, ist psychologisch schon halb in der Falle. 🎣
+* **Datenhandel:** Eine verifizierte Bankverbindung ist im Darknet bares Geld wert. 💻👤
+* **Geldwäsche:** Im schlimmsten Fall nutzen sie Ihre Daten, um Sie als unfreiwilligen „Finanzagenten“ (Money Mule) für kriminelle Zahlungsströme zu missbrauchen.
+
+<details class="scam-accordion">
+  <summary>📄  Abfrage der Kontodaten</summary>
+  <div class="accordion-content">
+    <blockquote>
+      <p>Guten Tag aus der Europäischen Union,</p>
+      <p>vielen Dank für Ihre Informationen. Wir möchten Sie darüber informieren, dass Ihre Gelder per Banküberweisung überwiesen werden. Für die Überweisung benötigt die Bank Ihre Kontodaten.</p>
+      <p>Bitte teilen Sie uns die folgenden Informationen baldmöglichst mit:</p>
+      <p>Vollständiger Name:<br>
+      Name der Bank:<br>
+      Kontonummer/IBAN:<br>
+      SWIFT-Code/BIC:</p>
+      <p>Wir freuen uns auf Ihre umgehende Antwort, damit wir die Überweisung sofort veranlassen können.</p>
+      <p>Mit freundlichen Grüßen,<br>
+      Direktorin<br>
+      Frau Conny Vogt<br>
+      Europäische Wohltätigkeitsstiftung</p>
+    </blockquote>
+  </div>
+</details>
+
+**Hugos Rat:** Geben Sie Ihre IBAN niemals an dubiose Gmail-Adressen weiter. Wer das tut, sieht am Ende keine Millionen, sondern höchstens ein geplündertes Konto! 🚫💸
+
+Hugo hört nicht auf den Rat und schickt ein paar fingierte Kontodaten.
