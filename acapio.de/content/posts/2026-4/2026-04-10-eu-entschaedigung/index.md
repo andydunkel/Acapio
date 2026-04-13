@@ -181,3 +181,39 @@ Jetzt wird’s brenzlig: Conny will Hugos IBAN. Warum? Sicher nicht, um die Mill
 **Hugos Rat:** Geben Sie Ihre IBAN niemals an dubiose Gmail-Adressen weiter. Wer das tut, sieht am Ende keine Millionen, sondern höchstens ein geplündertes Konto! 🚫💸
 
 Hugo hört nicht auf den Rat und schickt ein paar fingierte Kontodaten.
+
+## Die 850-Euro-Falle: Jetzt wird’s teuer! 🎣💶
+
+Da ist er, der „Money Shot“: Die Millionen liegen angeblich bereit, aber Hugo soll erst mal **850 € Gebühren** vorstrecken. 🤡 
+
+> Wir möchten Sie hiermit offiziell darüber informieren, dass Ihre Entschädigungszahlung der Europäischen Kommission in Höhe von 15 Millionen Euro an die Überweisungsabteilung Ihrer Bank weitergeleitet wurde und nun auf die endgültige Freigabe wartet.  
+>   
+> Um diesen Vorgang abzuschließen, benötigt die Bank die obligatorischen Überweisungsgebühren in Höhe von 850 Euro. Diese Gebühr ist einmalig und dient der Abwicklung der Überweisung Ihrer Entschädigungszahlung. Nach Begleichung dieser Gebühr werden keine weiteren Zahlungen fällig.  
+
+**Der Realitätscheck:**
+* **Vorauszahlungsbetrug:** Das ist der Kern des Scams. Wer zahlt, sieht weder die 850 € noch die Millionen jemals wieder. 💸
+* **Gedächtnisverlust:** Conny schreibt plötzlich wieder von 15 Millionen – ihr eigenes 10,5-Mio.-Dokument hat sie wohl schon vergessen. 📉
+* **Bank-Logik:** Keine echte Bank verlangt Gebühren vorab per Überweisung; die würden einfach vom Guthaben abgezogen.
+
+**Hugos Fazit:** 850 € für heiße Luft? Da investiert unser Hugo lieber in 200 Portionen Currywurst. Da weiß er wenigstens, dass er satt wird! 🌭🚫
+
+---
+
+## Basar-Stimmung in Wanne-Eickel: „Hömma, geht dat auch auf Raten?“ 📉🚗
+
+Hugo geht in die Offensive! 850 Euro sind ihm zu happig, schließlich musste erst mal ne neue Autobatterie für den Opel her. Sein Gegenvorschlag an „Direktorin“ Conny: **500 Euro bar auf die Kralle**, den Rest soll sie einfach von den Millionen abziehen. Logisch, oder?
+
+> Hömma Frau Vogt,  
+>   
+> jetzt fall ich aber fast vom Glauben ab! 850 Euro? Davon hat beim Hartmut auf dem Zettel aber nix gestanden.   
+>   
+> Ich hab gerade erst 400 Euro für ne neue Autobatterie gelöhnt, weil mein alter Hobel nicht mehr anspringen wollte. Da ist Ebbe in der Kasse! Mehr als 500 Euro krieg ich beim besten Willen nicht zusammen, sonst gibt dat Mecker von meiner Frau.  
+>   
+> Können wir dat mit den 500 Euro machen? Den Rest ziehen Sie einfach von den Millionen ab, dat merkt doch keiner. Und wie soll ich dat überhaupt bezahlen? Muss ich da zur Sparkasse oder wie läuft dat?  
+>   
+> Glückauf,  
+> Ihr Hugo  
+
+* **Die Abzugs-Falle:** Warum ziehen die Scammer die Gebühr nicht einfach von den 15 Millionen ab? Ganz einfach: Weil es keine Millionen gibt! Sie wollen *dein* echtes Geld sehen, nicht ihr eigenes Spielgeld verrechnen. 🙅‍♂️💸
+* **Rabatt auf Betrug:** Scammer lassen sich oft auf „Rabatte“ ein. Warum? Weil 500 Euro von einem Hugo besser sind als 0 Euro. Sobald die erste Zahlung fließt, haben sie dich am Haken. 🎣
+
