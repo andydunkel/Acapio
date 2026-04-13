@@ -217,3 +217,9 @@ Hugo geht in die Offensive! 850 Euro sind ihm zu happig, schließlich musste ers
 * **Die Abzugs-Falle:** Warum ziehen die Scammer die Gebühr nicht einfach von den 15 Millionen ab? Ganz einfach: Weil es keine Millionen gibt! Sie wollen *dein* echtes Geld sehen, nicht ihr eigenes Spielgeld verrechnen. 🙅‍♂️💸
 * **Rabatt auf Betrug:** Scammer lassen sich oft auf „Rabatte“ ein. Warum? Weil 500 Euro von einem Hugo besser sind als 0 Euro. Sobald die erste Zahlung fließt, haben sie dich am Haken. 🎣
 
+## WhatsApp - +49 178 3606746
+
+Während wir noch an der E-Mail feilen, bekommen wir auch schon eine WhatsApp!
+
+![](/posts/2026-04-10-eu-entschaedigung/whatsapp.webp)
+
