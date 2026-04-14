@@ -87,3 +87,25 @@ Falls Sie diese E-Mail erhalten haben, ist die wichtigste Regel: Bewahren Sie Ru
 4.  **Anzeige erstatten:** Sie können den Betrugsversuch bei der Internetwache Ihrer zuständigen Landespolizei melden, um zur Aufklärung beizutragen.
 
 **Fazit:** Hinter der Vorladung Typ 3 steckt kein echtes Ermittlungsverfahren, sondern der Versuch, Sie zu erpressen. Löschen Sie die Nachricht einfach und lassen Sie sich von der künstlich erzeugten Dringlichkeit nicht verunsichern.
+
+---
+
+## Update: Die Erpressungs-Falle schnappt zu - Antwort von Schutzamt@mail.com
+
+Wer auf die Nachricht reagiert, erhält umgehend ein zweites Dokument. Darin behaupten die Täter, die Vorwürfe seien bestätigt worden. Die Strategie wechselt nun zur direkten finanziellen Erpressung.
+
+**Die vermeintliche Wahl:**
+* **Gerichtsverfahren:** Drohung mit fünf Jahren Haft und öffentlicher Bloßstellung durch den Generalstaatsanwalt
+* **Vergleich:** Angebot, das Verfahren gegen eine Zahlung von **7.750 €** diskret einzustellen
+
+![](/posts/2026-04-11-vorladung/strafe1.webp)
+
+**Warum auch dieses Schreiben haltlos ist:**
+* **Falsche Ämter:** Das Dokument bezeichnet Julia Klöckner fälschlich als Präsidentin des Parlaments.
+* **Rechtlicher Unsinn:** Es wird ein unlogischer Mix aus deutschen Gesetzen und französischen Justizbehörden angeführt.
+* **Erpressungsmethode:** Eine automatische Löschung der angeblichen Beweisdaten wird nur gegen Zahlung in Aussicht gestellt.
+
+**Wichtig:** Brechen Sie den Kontakt sofort ab. Keine echte Behörde schlägt per E-Mail solche Deals vor, um Strafverfahren gegen Geldzahlungen zu stoppen.
+
+![](/posts/2026-04-11-vorladung/strafe2.webp)
+

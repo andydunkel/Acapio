@@ -6,7 +6,7 @@ date: "2026-04-13"
 featured: true
 toc: true
 tags:
-  -  "scam"
+  -  "Scam"
 categories:
   - "Scam"
 thumbnail: "shark.webp"
@@ -123,3 +123,22 @@ Hugo schlägt die einzig logische Lösung vor: Warum mühsam 180 € überweisen
 > Das spart uns beiden Zeit und die Überweisungsgebühren. Sagen Sie kurz Bescheid, wenn das Geld auf dem Weg ist!  
 > Ist das so OK? Natürlich zahle ich 4000 Euro zurück.  
 
+
+Da haben die Herrschaften von der „Bank“ wohl die Ohren auf Durchzug gestellt. Anstatt auf Hugos logischen Verrechnungs-Vorschlag einzugehen, wird einfach stur das Skript weiter abgespult – inklusive neuer, skurriler Gebühren-Ideen.
+
+---
+
+## Selektive Wahrnehmung: Die „Bank“ stellt sich taub
+
+Hugos Vorschlag, die Gebühren einfach vom Kredit abzuziehen, wurde gekonnt ignoriert. Stattdessen wird der Druck erhöht und ein neues „Angebot“ aus dem Hut gezaubert:
+
+> „Ihre 4,000 Euro wurden bereits genehmigt [...]. Sollten Sie diesen Betrag stornieren wollen, fällt eine Bearbeitungsgebühr von 10 € an.“
+
+### Die Logik-Lücke wird größer
+Die Scammer versuchen gar nicht erst, Hugos Frage zu beantworten. Warum auch? Wer logisch denkt, überweist keine 180 Euro Vorschuss. Stattdessen locken sie jetzt mit noch höheren Summen (bis zu „500,00000 Euro“) und drohen gleichzeitig mit einer Stornogebühr von 10 Euro. 
+
+**Das Ziel ist klar:** Hugo soll das Gefühl bekommen, dass der Prozess schon viel zu weit fortgeschritten ist, um jetzt noch einen Rückzieher zu machen. Dass man für eine *Stornierung* eines Kredits, den man noch gar nicht hat, Gebühren zahlen soll, ist die nächste humoristische Glanzleistung dieses „Geldinstituts“.
+
+**Hugo hat die Nase voll, 10 Euro Gebühr klingen gut:**
+
+> OK, ich glaube es geht noch nicht, bitte stornieren.
