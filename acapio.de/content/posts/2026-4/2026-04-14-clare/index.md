@@ -221,3 +221,28 @@ Natürlich schauen wir auch mal auf der Webseite vorbei, dort erwartet uns keine
 **Our website is under maintenance**
 
 Vertrauenswürdig geht anders! Wir erstellen eine Abuse-Meldung und melden es dem Hoster.
+
+
+## Das Menü des Wahnsinns: Werden Sie Millionär – für nur 850 Pfund!
+
+Endlich ist es so weit: Die „Hudson Financial Bank“ hat uns die Preisliste für unseren neuen Reichtum geschickt. Es ist wie beim Mobilfunkvertrag, nur dass am Ende kein Handy, sondern (angeblich) 7 Millionen Pfund warten.
+
+![Preisliste](/posts/2026-04-14-clare/konditionen.webp)
+
+**Die Highlights der „Kontoeröffnung“:**
+
+* **Wähle dein Schicksal:** Man hat die Wahl zwischen dem „Sparkonto“ für Sparfüchse (£850), dem „Girokonto“ für Eilige (£1.600) und dem „Premiumkonto“ für echte High-Roller (£2.700). Wer 2.700 Pfund zahlt, kriegt sein Geld sofort. Wer geizt, muss drei Tage warten. Logisch, oder?
+* **Die „Logik“-Lücke:** Die 7 Millionen sind zwar da, aber – Überraschung! – man kann die läppischen 850 Pfund für die Kontoeröffnung *nicht* einfach davon abziehen. Das Geld muss „frisch“ von uns kommen. Warum? Weil die Scammer keine Lust auf Verrechnung haben, sondern auf euer echtes Erspartes.
+* **Offshore-Glanz:** Wir bekommen ein „Offshore-Transitkonto“. Das klingt so sehr nach Geldwäsche-Thriller, dass man fast die Sonnenbrille aufsetzen möchte. 
+* **Identitäts-Shopping:** Neben dem Geld wollen sie jetzt auch noch ein Foto vom Reisepass oder Führerschein. Klar, wenn man schon das Geld klaut, kann man den Identitätsdiebstahl auch gleich mitnehmen. Doppelt hält besser.
+
+**Kurz, der Vorhang ist gefallen**. Aus der netten Erbschafts-Story ist eine plumpe „Zahl-erstmal-Gebühren“-Falle geworden. 
+
+## Phase: Der „arme Hugo“ – Werden wir jetzt verlassen?
+
+Wir haben den „Ich-habe-kein-Geld-und-Angst“-Joker gezogen. Hugos Antwort an die Millionen-Bank: *„Warum kostet das was? Ich dachte, es wäre gratis!“*
+
+> Hallo, ich habe leider nicht soviel Geld, warum muss ich überhaupt zahlen? Ich dachte es wäre kostenlos?  
+> In was bin ich da nur reingeraten?  
+>   
+> Hugo  

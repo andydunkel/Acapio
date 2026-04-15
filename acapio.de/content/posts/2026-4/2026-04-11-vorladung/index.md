@@ -109,3 +109,19 @@ Wer auf die Nachricht reagiert, erhält umgehend ein zweites Dokument. Darin beh
 
 ![](/posts/2026-04-11-vorladung/strafe2.webp)
 
+---
+
+### Phase 2: Der Druck steigt – Anzahlung und Identitätsdiebstahl
+
+Nach der ersten Antwort lassen die Täter die Maske endgültig fallen. Die Rhetorik wird aggressiver, um das Opfer zu einer schnellen Zahlung zu bewegen. In einer weiteren E-Mail behauptet der angebliche Ermittler: „**die Zeit drängt; ich muss die Akten, einschließlich Ihrer, bis morgen 14:00 Uhr vorbereiten**“. Neben der Bestätigung der astronomischen Summe von 7.750 € fordern die Betrüger nun eine „**Anzahlung in Höhe von 45 % der Geldstrafe (3.100 €)**“. 
+
+Besonders gefährlich: Die Täter verlangen zusätzlich eine „**Kopie Ihres Personalausweises oder Reisepasses**“. Hier droht neben dem finanziellen Verlust massiver **Identitätsdiebstahl**. Als Köder dient das falsche Versprechen, nach der Zahlung die „**Vernichtung der Beweismittel gegen Sie unverzüglich zu veranlassen**“. Wer nicht sofort einlenkt, wird mit plumper Gewaltandrohung eingeschüchtert: „**Sollten Sie Ihrer Verpflichtung (...) nicht nachkommen, werden Sie automatisch verhaftet.**“ Spätestens hier wird klar: Das ist kein juristisches Verfahren, sondern eine kriminelle Erpressung in Reinform.
+
+
+### Phase 3: Die Falle schnappt zu – Verzweiflung und Identitätsdiebstahl
+
+Wir schicken unseren Fake-Ausweis mit Bundeshuhn und fragen mal unverbindlich nach der Bankverbindung. 
+
+![](/posts/2026-04-11-vorladung/ausweis.webp)
+
+In der Realität sollte man nie einen echten Ausweis schicken, ansonsten landet man schnell als Vorlage für den nächsten Scam oder öffnet Identitätsbetrug Tür und Tor.
