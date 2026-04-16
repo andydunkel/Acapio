@@ -58,7 +58,7 @@ Wir warten gespannt auf den nächsten Schritt der großen Finanzoperation. 😏
 
 ## 7 Millionen Pfund - wir müssen nur „kurz helfen“
 
-Norbert legt nach: Ein verstorbener **Dr. Raymond Scholz** hat angeblich **7 Millionen Pfund** bei seiner Bank liegen lassen - ohne Testament, ohne Familie, aber *mit unserem Nachnamen*. Welch Glück! 🍀
+Norbert legt nach: Ein verstorbener **Dr. Raymond S.** hat angeblich **7 Millionen Pfund** bei seiner Bank liegen lassen - ohne Testament, ohne Familie, aber *mit unserem Nachnamen*. Welch Glück! 🍀
 
 Die Lösung ist natürlich denkbar einfach: Wir sollen uns als nächster Angehöriger ausgeben, das Geld sichern und bekommen dafür großzügige **50 %** (also die Hälfte von etwas, das uns gar nicht gehört - klingt fair 😄).
 
@@ -66,11 +66,11 @@ Kleiner Haken: Alles streng geheim, am besten über ein Offshore-Konto, und bitt
 
 > Hallo!  
 >   
-> Vielen Dank, dass Sie meine Kontaktaufnahme angenommen haben. Mein Name ist Norbert Seifried Anton, ehemaliger Chief Commercial Officer der Metro Bank PLC. Die heutige Metro Bank war eine britische Privatkundenbank, die vor ihrer vollständigen Lizenzierung im Jahr 2010 ausschließlich lokal tätig war. Ein Kunde mit demselben Nachnamen wie Dr. Raymond Scholz investierte bei meiner Bank. Nach Ablauf der vereinbarten Laufzeit kontaktierte ihn meine Bank (Metro Bank) mehrmals, jedoch ohne jegliche Antwort. Schließlich erhielten wir die traurige Nachricht, dass er in einem privaten Krankenhaus in Cannes, Frankreich, tot aufgefunden worden war. Weitere Nachforschungen bestätigten diese traurige Nachricht. Nun wurde mir alles klarer.  
+> Vielen Dank, dass Sie meine Kontaktaufnahme angenommen haben. Mein Name ist Norbert Seifried Anton, ehemaliger Chief Commercial Officer der Metro Bank PLC. Die heutige Metro Bank war eine britische Privatkundenbank, die vor ihrer vollständigen Lizenzierung im Jahr 2010 ausschließlich lokal tätig war. Ein Kunde mit demselben Nachnamen wie Dr. Raymond S. investierte bei meiner Bank. Nach Ablauf der vereinbarten Laufzeit kontaktierte ihn meine Bank (Metro Bank) mehrmals, jedoch ohne jegliche Antwort. Schließlich erhielten wir die traurige Nachricht, dass er in einem privaten Krankenhaus in Cannes, Frankreich, tot aufgefunden worden war. Weitere Nachforschungen bestätigten diese traurige Nachricht. Nun wurde mir alles klarer.  
 >   
-> Wir leiteten umgehend eine Suche nach möglichen Hinterbliebenen ein, um sie über die Situation zu informieren und sie zur Geltendmachung ihres Erbanspruchs aufzufordern. Ungewöhnlicherweise waren bei Dr. Raymond keine Angaben zu seinen Angehörigen hinterlegt. Ist dies Schicksal, Zufall oder reines Glück? Ich beschloss, einen Weg zu finden, diese Chance zu nutzen, denn dies ist eine lebensverändernde Gelegenheit für mich und hoffentlich auch für uns beide. Ich war der persönliche Kontobetreuer/Testamentsvollstrecker des verstorbenen Dr. Raymond Scholz. Ich habe Sie aufgrund Ihres Nachnamens kontaktiert: Auf einem der Konten meines verstorbenen Mandanten (Dr. Raymond Scholz) befindet sich ein Betrag von 7.000.000,00 GBP.  
+> Wir leiteten umgehend eine Suche nach möglichen Hinterbliebenen ein, um sie über die Situation zu informieren und sie zur Geltendmachung ihres Erbanspruchs aufzufordern. Ungewöhnlicherweise waren bei Dr. Raymond keine Angaben zu seinen Angehörigen hinterlegt. Ist dies Schicksal, Zufall oder reines Glück? Ich beschloss, einen Weg zu finden, diese Chance zu nutzen, denn dies ist eine lebensverändernde Gelegenheit für mich und hoffentlich auch für uns beide. Ich war der persönliche Kontobetreuer/Testamentsvollstrecker des verstorbenen Dr. Raymond S.. Ich habe Sie aufgrund Ihres Nachnamens kontaktiert: Auf einem der Konten meines verstorbenen Mandanten (Dr. Raymond S.) befindet sich ein Betrag von 7.000.000,00 GBP.  
 >   
-> Er verstarb ohne Testament, und es wurden mehrere Versuche unternommen, über Ihre Botschaft seine Angehörigen zu erreichen - leider ohne Erfolg. Aufgrund der Sensibilität des Privatbankwesens benennen die meisten Mandanten in ihren Anlagen keine Angehörigen und übergeben uns in der Regel auch nicht ihr Testament. In diesem Fall verstarb unser verstorbener Dr. Raymond Scholz ohne Testament. Der Privatbanksektor wird meiner Bank bis Ende Januar nächsten Jahres ein Aufforderungsschreiben zukommen lassen. Dies führt dazu, dass die Gelder in das Buchhaltungssystem der britischen Regierung eingezahlt werden und die Akte nicht mehr in meiner Hand ist.  
+> Er verstarb ohne Testament, und es wurden mehrere Versuche unternommen, über Ihre Botschaft seine Angehörigen zu erreichen - leider ohne Erfolg. Aufgrund der Sensibilität des Privatbankwesens benennen die meisten Mandanten in ihren Anlagen keine Angehörigen und übergeben uns in der Regel auch nicht ihr Testament. In diesem Fall verstarb unser verstorbener Dr. Raymond S. ohne Testament. Der Privatbanksektor wird meiner Bank bis Ende Januar nächsten Jahres ein Aufforderungsschreiben zukommen lassen. Dies führt dazu, dass die Gelder in das Buchhaltungssystem der britischen Regierung eingezahlt werden und die Akte nicht mehr in meiner Hand ist.  
 >   
 > Ich habe Sie kontaktiert, da Sie einen ähnlichen Nachnamen wie mein verstorbener Mandant haben. Ich verfüge über alle notwendigen Details und Dokumente, um die Gelder zu beanspruchen, da Sie denselben Nachnamen wie der Verstorbene tragen.  
 >   
@@ -100,7 +100,7 @@ Hugo zeigt sich beeindruckt von den Millionen, bleibt aber vorsichtig, zumindest
 >   
 > 7 Millionen Pfund klingt natürlich erstmal stark 💰, aber so ganz blicke ich da noch nicht durch. Bevor wir hier irgendwas machen, müsste ich schon sehen, dass das Ganze auch wirklich echt ist.  
 >   
-> Können Sie mir vielleicht ein paar klare Beweise schicken? Also z.B. Unterlagen zur Bank, zu dem Herrn Scholz oder irgendwas Offizielles, wo man das nachvollziehen kann.  
+> Können Sie mir vielleicht ein paar klare Beweise schicken? Also z.B. Unterlagen zur Bank, zu dem Herrn S. oder irgendwas Offizielles, wo man das nachvollziehen kann.  
 >   
 > Nicht, dass ich nachher meinen Jungs im BMW-Club erzähle, ich werde Millionär und am Ende ist das alles nur heiße Luft 😄  
 >   

@@ -142,3 +142,38 @@ Die Scammer versuchen gar nicht erst, Hugos Frage zu beantworten. Warum auch? We
 **Hugo hat die Nase voll, 10 Euro Gebühr klingen gut:**
 
 > OK, ich glaube es geht noch nicht, bitte stornieren.
+
+---
+
+## Die „Weltbank“ residiert in Bautzen
+
+Endlich rücken die Scammer mit den Kontodaten raus. Wer eine glitzernde Konzernzentrale erwartet hat, wird enttäuscht:
+
+* **Inhaberin:** Eine Privatperson namens Yvonne statt einer „Corporation Bank“.
+* **Sitz:** Ein beschaulicher Ort in Sachsen statt einer Weltmetropole.
+* **Bank:** Eine ganz normale Targobank-Filiale.
+
+> Account holder's name: Yvonne K.  
+> Account holder's Address: Hufestraße 55, 01896 Ohorn  
+> Account number (IBAN): DE77300209005390615385  
+> Swift code: BIC: CMCIDEDDXXX  
+> Bank name: Targobank  
+> Bank address Targobank, Reichenstraße 25, 02625 Bautzen  
+
+**Die bittere Realität:** Hier wird ein klassisches „Money Mule“-Konto (Finanzagent) genutzt. Die 180 € würden auf einem Privatkonto landen und sofort im Ausland verschwinden. Von den 4.000 € Kredit würde Hugo nie wieder etwas hören. 
+
+---
+
+## Fazit: Wenn Geld fließen soll – aber nur in eine Richtung 💸
+
+Was haben wir aus dem Fall der „Express Regions Corporation Bank“ gelernt? Die Masche folgt einem uralten Drehbuch: dem **Vorschussbetrug**. Es geht niemals um den Kredit, sondern nur um die „Bearbeitungsgebühr“.
+
+### Die roten Flaggen im Überblick:
+* **Unrealistische Zinsen:** 2–3 % Zinsen trotz schlechter Bonität existieren auf dem freien Markt nicht. 📉
+* **Anonyme Absender:** Eine Bank, die über **Gmail** kommuniziert, ist keine Bank. 📧
+* **Moralische Manipulation:** Begriffe wie „gläubig“ oder „zuverlässig“ sollen eine künstliche Bindung aufbauen. 🙏
+* **Privatkonten:** Seriöse Institute fordern niemals Zahlungen auf Privatkonten von Personen wie „Yvonne K.“ an. 🛑
+
+**Das Urteil:** Sobald eine „Bank“ Geld von euch will, *bevor* ihr den Kredit erhaltet, solltet ihr den Stecker ziehen. Löschen, blockieren und auf keinen Fall Ausweiskopien schicken (außer ihr heißt Hugo und kommt aus Wanne-Eickel).
+
+**Bleibt wachsam – echte Banken schicken keine Glückskekse per E-Mail!** 🕵️‍♂️🚫

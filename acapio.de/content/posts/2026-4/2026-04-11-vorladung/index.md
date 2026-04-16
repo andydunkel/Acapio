@@ -125,3 +125,20 @@ Wir schicken unseren Fake-Ausweis mit Bundeshuhn und fragen mal unverbindlich na
 ![](/posts/2026-04-11-vorladung/ausweis.webp)
 
 In der Realität sollte man nie einen echten Ausweis schicken, ansonsten landet man schnell als Vorlage für den nächsten Scam oder öffnet Identitätsbetrug Tür und Tor.
+
+### Phase 4: Die Zahlungsaufforderung – „Geldwäsche“ per Mausklick
+
+Nachdem die Täter die Identität (in unserem Fall den Muster-Ausweis) akzeptiert haben, folgt das eigentliche Ziel der Operation: die Geldforderung:
+
+> Nachfolgend finden Sie das Verfahren zur Begleichung der ersten Rate Ihrer Geldstrafe (3.100 €) sowie die erforderlichen Bankdaten, um diese erste Zahlung zu leisten und somit die Einstellung Ihrer Akte sicherzustellen.  
+>    
+> KONTOINHABER: L.B.P. Serus  
+> IBAN: DE14 3701 9000 1011 1411 43  
+> BIC: BUNQDE82   
+
+Deutsche IBAN, BIC, da sieht man wieviel die ganzen Sicherheitsmaßnahmen der Banken sind. Natürlich darf auch der Hinweis auf Vertraulichkeit und ein strikter Zeitrahmen von 24 Stunden nicht fehlen.
+
+Wir überweisen natürlich nichts, stattdessen geben wir an, selbst zu Polizei zu gehen:
+
+> Hallo, ich bin immer noch total verzweifelt, was habe ich genau getan? Ich gehe jetzt zur Polizei und stelle mich, ich will nicht noch mehr Ärger bekommen.
+

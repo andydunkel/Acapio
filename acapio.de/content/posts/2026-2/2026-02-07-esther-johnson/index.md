@@ -592,7 +592,7 @@ Für den „Barrister“ in seiner AOL-Kanzlei bedeutet das: Der Fisch zappelt n
 > **Subject: HELP!!! THE POLICE WAS AT MY HOUSE!!!**
 > Dear Mr. Edward,
 > I am shaking and I cannot sleep. Today two police men were at my house! Here in Wanne-Eickel everyone saw the police car!
-> They say the account of Benjamin I.O. is a "Kriminelles Konto" (criminal account). They ask me many questions: "Mr. Scholz, why do you send money to criminals in England?" They think I am a bad person now!
+> They say the account of Benjamin I.O. is a "Kriminelles Konto" (criminal account). They ask me many questions: "Mr. Schol, why do you send money to criminals in England?" They think I am a bad person now!
 > They say they have an "Ermittlungsverfahren" (investigation) against me. I must go to the police station on Monday morning at 09:00 to talk to the "Kommissar". I must prove that I am not a criminal.
 > What is going on??? You said "risky free"! My wife is crying all the time and the neighbors are talking. I am very afraid that I go to prison. I cannot send any more money to Josue or anyone now because the police is watching my computer!
 > Please tell me what I should tell the police on Monday! I am just a worker, I don't want to go to jail!
@@ -640,7 +640,7 @@ Hugo ist zurück vom Revier - und die Nerven liegen blank. Kommissar Krüger hat
 >   
 > I am at home now, but I am shaking. I was at the police for 3 hours. Kommissar Krüger was very strict and looked at me like a criminal. I told him exactly what you said about the Church and the Missionaries in 2024.  
 >   
-> But he said: "Mr. Scholz, I don't believe stories. I need facts." He gave me an ultimatum: I have 24 hours. I must show him a real, certified document from the High Court that proves the 5.6 million are real.  
+> But he said: "Mr. Schol, I don't believe stories. I need facts." He gave me an ultimatum: I have 24 hours. I must show him a real, certified document from the High Court that proves the 5.6 million are real.  
 >   
 > If I don't have this paper tomorrow, he will freeze my bank account and I must go to jail. He said I am a "Verdächtiger" (suspect).  
 >   
@@ -658,7 +658,7 @@ Esther Johnson zieht das ganz große Drama-Register: Nur eine Stunde nach Verlas
 
 Besonders dreist ist das **Gaslighting**: Sie wirft Hugo vor, er habe sie und den Anwalt bei der Polizei „verpfiffen“. Sie stellt die Autorität der deutschen Behörden infrage („Welches Gericht hat denen das Recht gegeben?“) und behauptet, die Polizei wolle ihn nur einschüchtern, damit er die Millionen aufgibt. Ihr Rat: Ignorier die Handschellen, hör auf den Anwalt! Dass „nichts dergleichen in ihrer Blutlinie fließt“, ist ihr einziges juristisches Argument gegen eine BaFin-Ermittlung. Ein echtes Best-of der emotionalen Erpressung. 🎭💊
 
-> Dear friend Hugo Scholz   
+> Dear friend Hugo Schol   
 >   
 > I came out of the ICU unit 1hr ago and received a message from my lawyer and I was very surprised what's going on?   
 >   
@@ -685,7 +685,7 @@ Hugo muss jetzt den Spagat schaffen zwischen „Ich bete für dich“ und „Ich
 >   
 > But please, you must not be angry with me. I did NOT go to the police. The bank (Frau Müller) and the "BaFin" sent the police to my house because of the money for Benjamin. I told the police you are a good woman and a missionary!  
 >   
-> But Kommissar Krüger said: "Mr. Scholz, everyone says they are a missionary. Show me a photo of Mrs. Esther in the hospital or a paper from the doctor!"  
+> But Kommissar Krüger said: "Mr. Schol, everyone says they are a missionary. Show me a photo of Mrs. Esther in the hospital or a paper from the doctor!"  
 >   
 > Can you please send me a photo from your "sick bedroom" or a paper from the hospital? If I show the police that you are really sick in the hospital, maybe they leave me alone.  
 >   

@@ -130,7 +130,7 @@ Hugo ist zwar ein herzensguter Kerl, aber eins kann er: Rechnen! Dass zwischen d
 
 Conny reagiert so locker, als hätte sie bloß das Wechselgeld vergessen: Die 4,5 Millionen Euro Differenz? Ein einfacher „Fehler in der ersten Mail“. Kann ja mal passieren, dass der Gegenwert einer Kleinstadt im digitalen Nirvana verschwindet! 💨
 
-> Sehr geehrter Herr Scholz,  
+> Sehr geehrter Herr S.,  
 > guten Tag.  
 >   
 > Wir möchten Sie darüber informieren, dass in der ersten E-Mail, die wir Ihnen zugesandt haben, ein Fehler unterlaufen ist. Ihre bewilligte Entschädigungssumme beträgt 10,5 Millionen Euro, und die entsprechende Bescheinigung, die Sie als rechtmäßigen Empfänger dieser Gelder ausweist, wurde Ihnen bereits zugesandt.  
@@ -223,3 +223,14 @@ Während wir noch an der E-Mail feilen, bekommen wir auch schon eine WhatsApp!
 
 ![](/posts/2026-04-10-eu-entschaedigung/whatsapp.webp)
 
+
+## Endlich Bitcoin und Druck über WhatsApp
+
+Die Scammer geben nun Gas, Nachrichten über WhatsApp, wann wir endlich zahlen und wie. Wir entscheiden uns für Bitcoin und bekommen eine [Wallet-Adresse](https://www.blockchain.com/explorer/addresses/btc/38pwgc9iUNo5YW2hj9fgWkbDvEDu9Bp6H2).
+
+> Okay, hier ist die Bitcoin-Wallet-Adresse, an die die Gebühr gesendet werden soll:
+> 38pwgc9iUNo5YW2hj9fgWkbDvEDu9Bp6H2
+
+Zwar kein Rekord, was die [Transaktionen](/bitcoin/) angeht, aber ein wenig Geld scheinen die Scammer schon eingenommen zu haben.
+
+![Bitcoin-Adresse](/posts/2026-04-10-eu-entschaedigung/bitcoin.webp)

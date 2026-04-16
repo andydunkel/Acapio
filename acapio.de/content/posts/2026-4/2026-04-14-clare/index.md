@@ -246,3 +246,4 @@ Wir haben den „Ich-habe-kein-Geld-und-Angst“-Joker gezogen. Hugos Antwort an
 > In was bin ich da nur reingeraten?  
 >   
 > Hugo  
+
