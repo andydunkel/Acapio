@@ -142,3 +142,27 @@ Wir überweisen natürlich nichts, stattdessen geben wir an, selbst zu Polizei z
 
 > Hallo, ich bin immer noch total verzweifelt, was habe ich genau getan? Ich gehe jetzt zur Polizei und stelle mich, ich will nicht noch mehr Ärger bekommen.
 
+
+### Die Isolations-Falle: „Gehen Sie nicht zur Polizei“
+
+Die Scammer sind mit der Entwicklung nicht zufrieden´!
+
+In der neuesten Nachricht versuchen die Täter, jede Hilfe von außen zu blockieren. Sie warnen drastisch: „**Sollten Sie sich dazu entschließen, sich der Polizei zu stellen, gäbe es kein Zurück mehr.**“ Wer nicht sofort zahlt, dem droht die „**Gewahrsamnahme**“ und dass der Fall „**öffentlich gemacht**“ wird.
+
+Gleichzeitig wird die Geldzahlung als „**beste Option**“ angepriesen, um eine „**Schädigung Ihres Rufs zu vermeiden**“. Das Ziel dieser psychologischen Manipulation ist die absolute „**Diskretion**“ – das Opfer soll verängstigt und isoliert werden, damit die Erpressung ungestört funktioniert. Echte Behörden würden Sie niemals davor warnen, sich an die Polizei zu wenden.
+
+---
+
+## Fazit: Gier schlägt Gründlichkeit
+
+Unser Selbstversuch hat eines zweifelsfrei bewiesen: Hinter der imposanten Fassade aus Behördenlogos und juristischen Fachbegriffen stecken nichts als gierige Betrüger. Dass die Kriminellen den Personalausweis von **Max Mustermann** ohne Zögern als echt akzeptierten, entlarvt die gesamte Drohkulisse als hohles Konstrukt. Es gibt keine echte Akte, keine Cyber-Infiltration und keine Beweise – es gibt nur das Ziel, Sie um Ihr Geld zu bringen.
+
+Die Täter setzen auf eine Mischung aus Scham und Panik. Mit Sätzen wie „**Sollten Sie sich dazu entschließen, sich der Polizei zu stellen, gäbe es kein Zurück mehr**“ versuchen sie, ihre Opfer zu isolieren. Doch genau das Gegenteil ist richtig: Der Gang zur echten Polizei (oder der Online-Wache) ist der einzig richtige Weg.
+
+**Unsere abschließenden Tipps:**
+* **Kommunikation abbrechen:** Antworten Sie nicht, auch nicht aus Neugier.
+* **Niemals zahlen:** Geld, das einmal per Banküberweisung oder Krypto-Code weg ist, bleibt weg.
+* **Daten schützen:** Versenden Sie niemals Ausweiskopien an unbekannte E-Mail-Absender.
+* **Anzeige erstatten:** Nur durch Meldungen können solche Konten und IBANs gesperrt werden.
+
+Lassen Sie sich nicht von „**strikten Fristen**“ oder „**automatischen Verhaftungen**“ einschüchtern. In einem Rechtsstaat werden Haftbefehle nicht per E-Mail gegen eine Anzahlung von 3.100 € storniert.

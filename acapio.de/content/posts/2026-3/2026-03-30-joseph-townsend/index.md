@@ -219,3 +219,4 @@ Das Muster bleibt dabei so plump wie gefährlich:
 **Hugos Rat:** Wer auf Geschichten über verstorbene Verwandte namens „Dr. Friedrich Kacke“ anspringt, dem ist kaum zu helfen. Wenn ein Banker plötzlich dein bester Freund werden will und eine 50/50-Teilung anbietet, gibt es nur eine richtige Reaktion: **Lachen, blockieren und das Bundeshuhn grüßen lassen.** 🐔🚫
 
 Wer hier seine echten Daten oder gar Geld schickt, sieht am Ende nur eines: **0,00 Euro Erbschaft**, aber jede Menge Ärger. 💸👋
+
