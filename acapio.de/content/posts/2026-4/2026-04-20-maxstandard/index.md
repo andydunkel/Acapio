@@ -23,6 +23,10 @@ Alles beginnt mit dieser charmanten Nachricht. 9,99 € im Monat für einen Dien
 
 ![Die E-Mail](/posts/2026-04-20-maxstandard/mail.webp)
 
+> Sie sind nun MaxStandard-MitgIied!
+> Ihr Zugang ist aktiv.
+> Der Dienst wurde erfolgreich auf Ihrem Konto aktiviert. NachfoIgend finden Sie die Details zu Ihrem PIan. 
+
 **Der Profi-Check:** Schau dir mal den Absender an. `restituicaoia.com.br`? Klingt eher nach einer brasilianischen Steuererklärung als nach Jeff Bezos. **Tipp:** Wenn der Absender kryptischer ist als die Inhaltsstoffe einer Billig-Wurst, direkt löschen\!
 
 ## Schritt 2: Das „Log dich doch mal ein“-Spiel
