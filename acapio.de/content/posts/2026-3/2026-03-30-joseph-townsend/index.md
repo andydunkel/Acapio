@@ -204,6 +204,26 @@ Josephs Reisepass ist ein echtes Highlight für jeden, der schon mal ein Grafikp
 
 Wir sind jedenfalls überzeugt, schicken ein paar Fake-Daten und schauen weiter was passiert.
 
+---
+
+## Die Preisliste: Wer Millionen will, muss bleiben! 💸🛍️
+
+Jetzt wird’s teuer! Joseph rückt mit dem „Menü“ für die Kontoeröffnung raus. Wer die 13,5 Millionen Pfund haben will, muss erst mal investieren:
+
+> Step 1: Choose the Type of Account You Wish to Open  
+> Please select one of the following non-resident account options. The initial deposit acts as the account opening fee and is fully refundable should you choose to close your account after your transaction is completed.  
+
+* **Savings Account (£1.345):** Die Spar-Variante für Geduldige.
+* **Current Account (£2.654):** Die Überholspur (24h).
+* **Premium Account (£3.254):** Das Luxus-Paket mit „Instant Transfer“ und Priority Support. 🎩✨
+
+Natürlich ist alles „vollständig rückerstattbar“. Is' klar, Joseph! 
+
+**Logik-Check:** Wenn Joseph der Boss der Bank ist und auf 13,5 Millionen sitzt – warum zieht er die paar Pfund nicht einfach vom Erbe ab? Ach ja, richtig: Weil die Gebühr das einzige Geld ist, das bei diesem Deal jemals fließen wird. Und zwar von Hugo zu Joseph. 🏃💨🤡
+
+**Viel Geld, Hugo fragt besser mal nach, ob er das Geld nicht von dem Betrag abziehen lassen kann.**
+
+---
 
 ## Fazit: Viel heiße Luft und schlechtes Photoshop 💨🤡
 
