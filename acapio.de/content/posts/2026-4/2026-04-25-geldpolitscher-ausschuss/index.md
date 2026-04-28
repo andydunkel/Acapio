@@ -6,7 +6,7 @@ date: "2026-04-25"
 featured: true
 toc: true
 tags:
-  -  "scam"
+  -  "Scam"
 categories:
   - "Scam"
 thumbnail: "badger_surprise.webp"
@@ -51,7 +51,8 @@ Dirk Baier will uns zum Multimillionär machen, nur weil unser Nachname so gut k
 </details>
 
  
-# # Hugos Reality-Check
+## Hugos Reality-Check
+
 Unser Kassenwart **Hugo** vom BMW-Club „Vollgas Wanne-Eickel“ hat direkt mal nachgehakt. 
 
 > Tach Dirk, alter Wemmser!  
@@ -73,6 +74,7 @@ Unser Kassenwart **Hugo** vom BMW-Club „Vollgas Wanne-Eickel“ hat direkt mal
 
 
 ### 🛡️ Faktencheck: Dirk vs. Realität
+
 | Punkt | Die E-Mail sagt... | Die Wahrheit ist... |
 | :--- | :--- | :--- |
 | **Absender** | Dirk Baier, CCO der Metro Bank | Es gibt keinen CCO namens Dirk Baier bei der Metro Bank PLC. |
@@ -80,3 +82,56 @@ Unser Kassenwart **Hugo** vom BMW-Club „Vollgas Wanne-Eickel“ hat direkt mal
 | **Das Erbe** | 7.000.000 GBP ohne Erben | Britische Banken suchen Erben über offizielle Stellen, nicht per Kalt-Akquise-Mail. |
 | **Der Deal** | „Absolut sicher & vertraulich“ | Das ist der Startschuss zum Vorschussbetrug. Wer antwortet, zahlt bald „Gebühren“. |
 
+
+## Dirk zeigt uns seinen (Fake-)Pass!
+
+Es wird wild: Dirk hat gemerkt, dass wir noch nicht am Haken hängen und schickt „Beweise“. Er ist jetzt plötzlich **Professor**, wohnt in London und hat uns ein Foto seines Reisepasses geschickt. 
+
+**Der Haken:** Das Ding ist so echt wie ein veganes Schnitzel am Manta-Grill. Die Unterschrift ist ein simpler Computer-Font und das Foto sieht aus wie aus einem Stockfoto-Katalog ausgeschnitten. 
+
+<details class="scam-accordion">
+  <summary>📄 Dirks Datenaustausch</summary>
+  <div class="accordion-content">
+    <blockquote>
+      <p>Vielen Dank für Ihre Antwort auf meine E-Mail und Ihre Bereitschaft zur Zusammenarbeit. Angesichts der Höhe des Geldbetrags und der Art der Transaktion ist mir absolute Ehrlichkeit wichtig, damit wir unser Ziel erreichen. Ich möchte sichergehen, dass Sie diese Transaktion mit mir durchführen möchten, und erwarte von Ihnen Vertrauen und Zuverlässigkeit. Ich möchte diesen hohen Geldbetrag mit Ihrer Hilfe überweisen, und Sie brauchen sich keine Sorgen um die Rechtmäßigkeit zu machen, denn Ihre Bedenken sind auch meine. Daher versichere ich Ihnen, dass Sie sich keine Sorgen machen müssen. Ich werde alle rechtlich notwendigen Schritte unternehmen, um einen reibungslosen Ablauf zu gewährleisten. Die Transaktion wird allen internationalen Bankvorschriften entsprechen. Ich bin überzeugt, dass sie bei sorgfältiger Durchführung innerhalb von sieben Werktagen abgeschlossen sein wird.</p>
+      <p>Sie fragen sich vielleicht, woher ich Ihre E-Mail-Adresse habe. Ehrlich gesagt habe ich sie diskret online gefunden, als ich nach einem zuverlässigen Partner für die Geldüberweisung suchte. In meinen vorherigen E-Mails habe ich Ihnen bereits erklärt, warum ich Ihre Hilfe benötige.</p>
+      <p>Ich werde mir so schnell wie möglich eine neue Telefonnummer besorgen, damit wir besser kommunizieren können.<br>
+      Hier sind meine vollständigen Kontaktdaten, falls ich sie benötige:</p>
+      <p>1. Name: Dirk Baier<br>
+      2. Beruf: Britischer Wirtschaftswissenschaftler/Professor<br>
+      3. Religion: Christlich / Menschlichkeit vor Religion<br>
+      4. Familienstand: Verheiratet<br>
+      5. Geschlecht: Männlich<br>
+      6. Geburtsdatum: 24. September 1964</p>
+      <p>Wohnadresse: 7 Hamilton Avenue, London N9 7PP, Vereinigtes Königreich</p>
+      <p>Siehe auch die beigefügte Datei mit meinem Reisepass.</p>
+      <p>Nachdem ich Ihnen dies mitgeteilt habe, hoffe ich sehr, dass Sie mir bei der Erreichung dieses Ziels vertrauen können. Ich bitte Sie daher, mir die folgenden Informationen umgehend zukommen zu lassen.</p>
+      <p>ABSCHNITT I</p>
+      <p>1. Ihr vollständiger Name<br>
+      2. Ihre Adresse<br>
+      3. Aktueller Beruf und Position<br>
+      4. Familienstand<br>
+      5. Geburtsdatum<br>
+      6. Religion<br>
+      7. Telefonnummer (Mobil und Festnetz)</p>
+      <p>Zunächst werde ich einen Anwalt kontaktieren, der die notwendigen eidesstattlichen Erklärungen erstellt, in denen Sie als Begünstigter benannt werden. Anschließend werden Sie gebeten, eine Kopie Ihres Personalausweises einzureichen. Der Anwalt benötigt diese Kopie und die darauf enthaltenen Informationen, um alle erforderlichen Dokumente vorzubereiten und eine vertrauensvolle Beziehung zwischen uns aufzubauen.</p>
+      <p>Der Anwalt wird alle Nachlassangelegenheiten in Ihrem Namen regeln. Er wird alle von der Metro Bank PLC benötigten Dokumente unterzeichnen lassen. Mit diesen Dokumenten werden Sie die Bank anschreiben und die sofortige Freigabe und Überweisung der Erbschaft an Ihre gewählte Bank beantragen. Ich bin seit vielen Jahren im Bankwesen tätig und kenne die Abläufe genau.</p>
+      <p>Sobald ich Ihre Dokumente/Angaben erhalten habe, werde ich die notwendigen Formalitäten kostenlos für Sie erledigen.</p>
+      <p>Ich freue mich auf Ihre zeitnahe Antwort auf diese Anfrage.</p>
+      <p>Mit freundlichen Grüßen,<br>
+      Dirk Baier.</p>
+    </blockquote>
+  </div>
+</details>
+
+**Hugos Kommentar dazu:**
+> „Hömma Dirk, schicker Lappen! Aber warum haste deinen Namen mit Word in den Pass getippt? Und wat hat meine Religion mit den Millionen zu tun? Wenn dat hilft: Ich glaub fest an die Dreifaltigkeit aus Hubraum, PS und Pommes-Schranke!“
+
+**Warum das gefährlich ist:**
+Dirk will jetzt in „Abschnitt I“ eure kompletten Daten (Adresse, Job, Handy). Das Ziel? **Identitätsdiebstahl.** Sobald ihr die Daten liefert, kommt der „Anwalt“ um die Ecke und verlangt die ersten Gebühren für „Papierkram“.
+
+**Fazit:** Passbild hin oder her – wer per Mail nach der Religion fragt, um 7 Millionen zu verschenken, führt nix Gutes im Schilde. **Daten krallen, Finger weg!**
+
+![Der Ausweis von Dirk](/posts/2026-04-25-geldpolitscher-ausschuss/ausweis.webp)
+
+Wir schicken ein paar Fake-Daten und warten erstmal ab!
