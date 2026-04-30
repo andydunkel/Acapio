@@ -135,3 +135,38 @@ Dirk will jetzt in „Abschnitt I“ eure kompletten Daten (Adresse, Job, Handy)
 ![Der Ausweis von Dirk](/posts/2026-04-25-geldpolitscher-ausschuss/ausweis.webp)
 
 Wir schicken ein paar Fake-Daten und warten erstmal ab!
+
+---
+
+## Dirk will dein Gesicht sehen (oder zumindest deinen Ausweis)
+
+Dirk wird ungeduldig. Er hat unsere (völlig ausgedachten) Daten erhalten und bedankt sich artig, kommt aber sofort zum Punkt: Ohne eine gut lesbare Kopie des Personalausweises geht gar nichts mehr. Er nennt das ein „Standardverfahren“ zur „Einhaltung gesetzlicher Anforderungen“ – wir nennen es den Versuch, eine Identität für den nächsten Betrug zu klauen.
+
+**Die Masche mit dem Zeitdruck:**
+Dirk drängelt jetzt richtig. Er faselt von „unnötigen Verzögerungen“ und dass es in unserem „eigenen Interesse“ liege, das Dokument sofort zu schicken. Klassisches Scammer-Handbuch: Erzeuge Druck, damit das Opfer aufhört nachzudenken.
+
+<details class="scam-accordion">
+  <summary>📄 Dirk fragt nach dem Ausweis</summary>
+  <div class="accordion-content">
+    <blockquote>
+      <p>Sehr geehrte/r,</p>
+      <p>vielen Dank für die Übermittlung Ihrer Informationen. Wir haben die von Ihnen in Abschnitt I eingegebenen Daten erhalten und bedanken uns für Ihre Mitarbeit.</p>
+      <p>Wir möchten Sie jedoch freundlich daran erinnern, dass eine gut lesbare Kopie Ihres Personalausweises oder Reisepasses für die Bearbeitung der Übertragung Ihres Testaments unerlässlich ist. Dieser Schritt ist entscheidend, da der Anwalt das Testament ohne Bestätigung Ihrer Identität nicht auf Ihren Namen übertragen kann.</p>
+      <p>Wenn Sie uns so schnell wie möglich eine gültige Kopie Ihres Personalausweises oder Reisepasses zusenden, können wir unnötige Verzögerungen vermeiden und einen reibungslosen Ablauf gewährleisten. Bitte haben Sie Verständnis dafür, dass dies ein Standardverfahren zur Einhaltung gesetzlicher und sicherheitstechnischer Anforderungen ist und es in Ihrem eigenen Interesse liegt, die erforderlichen Dokumente so schnell wie möglich bereitzustellen.</p>
+      <p>Wir unterstützen Sie gerne bei diesem Prozess und möchten sicherstellen, dass alles korrekt und sicher abgewickelt wird. Bitte senden Sie uns so schnell wie möglich eine gut lesbare Kopie Ihres Personalausweises oder Reisepasses, damit wir die Übertragung ohne weitere Probleme durchführen können.</p>
+      <p>Vielen Dank für Ihr Verständnis und Ihre Mitarbeit. Bitte kontaktieren Sie uns, wenn Sie Fragen haben oder Hilfe beim Einreichen Ihrer Dokumente benötigen.</p>
+      <p>Wir freuen uns auf Ihre baldige Antwort und die weitere Bearbeitung.</p>
+      <p>Mit freundlichen Grüßen,<br>
+      Dirk Baier</p>
+    </blockquote>
+  </div>
+</details>
+
+### 🚨 Warum ihr jetzt den Stecker ziehen müsst!
+
+Sobald ihr eine Ausweiskopie schickt, hat der Betrüger alles, was er braucht:
+*   **Identitätsdiebstahl:** Er kann in eurem Namen Konten eröffnen oder Verträge abschließen. 
+*   **Echtheits-Bonus:** Mit eurem echten Ausweis kann er den nächsten „Hugo“ noch viel glaubwürdiger abziehen.
+
+Wir schicken ihm einen falschen [Ausweis mit Bundeshuhn](/posts/2026-04-11-vorladung/#phase-3-die-falle-schnappt-zu--verzweiflung-und-identit%C3%A4tsdiebstahl)!
+
