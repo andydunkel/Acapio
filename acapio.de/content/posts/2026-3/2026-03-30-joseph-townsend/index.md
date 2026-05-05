@@ -240,3 +240,16 @@ Das Muster bleibt dabei so plump wie gefährlich:
 
 Wer hier seine echten Daten oder gar Geld schickt, sieht am Ende nur eines: **0,00 Euro Erbschaft**, aber jede Menge Ärger. 💸👋
 
+
+## Nachtrag, die Bankverbindung
+
+Die Scammer haben uns am Ende noch eine Bankverbindung geschickt:
+
+> bitte verwenden Sie für die Zahlung folgende Kontodaten:  
+>   
+> Bankname: N26 Banco  
+> Empfänger: Luisa Frida Beseke Loseba  
+> IBAN: ES12 1563 2626 3432 6338 8865  
+> Swift/BIC: NTSBESM1XXX  
+>   
+> Adresse: Calle Cisneros 23, Alcorcón, Madrid, Spanien  

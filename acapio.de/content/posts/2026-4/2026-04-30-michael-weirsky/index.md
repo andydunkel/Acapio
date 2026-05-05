@@ -105,3 +105,39 @@ Hier sind die „Highlights“ seiner langen Predigt:
 **Fazit:** Michael will Hugos komplettes Leben auf einem Silbertablett serviert bekommen, verpackt in ganz viel Nächstenliebe und göttlichem Segen. 🕊️💸
 
 Hugo spielt mit und schickt ein paar Fake-Daten.
+
+## Jetzt wird’s „offiziell“: Die Bank und der mysteriöse Herr Hans 🏦🇵🇱
+
+Michael schaltet jetzt einen Gang höher: Hugo soll sich bei der „Pacific Premier Bank“ melden, um die Millionen lockerzumachen. Die Standardmasche, es geht zur Bank, die wird dann in den nächsten Schritte Gebühren für die Einrichtung des Kontos eröffnen.
+
+💸 Als moralische Unterstützung wird „Herr Hans aus Polen“ aus dem Hut gezaubert, der sein Geld angeblich schon brav erhalten hat. 🎩✨ Der wichtigste Befehl: **Bloß niemandem davon erzählen!** 🤫 (Klar, Transparenz ist ja auch der natürliche Feind des gepflegten Vorschussbetrugs). 
+
+<details class="scam-accordion">
+  <summary>📄  Die nächste Stufe, die Bank</summary>
+  <div class="accordion-content">
+    <blockquote>
+      <p>Sehr geehrter Begünstigter,</p>
+      <p>Ihr Name, Ihre E-Mail-Adresse, Ihr Land und der von mir ausgestellte Scheck wurden an meine Auszahlungsstelle (Pacific Premier Bank) weitergeleitet. Die Abteilung für internationale Überweisungen der Bank wartet auf Ihre Bestätigungs-E-Mail. Bitte teilen Sie der Bank meine Einzahlungsreferenznummer (REPB/MJW2026/28122/USA) zur Verifizierung mit, damit die Auszahlung der von mir gespendeten 2.000.000,00 EUR reibungslos erfolgen kann.</p>
+      <p>Ich bitte Sie höflich um Ihre Kooperation mit der Pacific Premier Bank, um eine reibungslose und erfolgreiche Überweisung der Spende zu gewährleisten.</p>
+      <p>Es freut mich sehr, Ihnen und Ihrer Familie helfen zu können. Ich empfehle Ihnen, sich über die unten stehende E-Mail-Adresse mit der Bank in Verbindung zu setzen, um die Überweisung Ihrer Spende auf Ihr angegebenes Bankkonto zu veranlassen. Bitte befolgen Sie die Anweisungen meines Bankberaters genau, damit die Überweisung Ihrer Spende erfolgreich verläuft.</p>
+      <p>Am 17. April 2026 erreichte uns eine wunderbare Nachricht: Herr Hans, einer der Begünstigten aus Polen, bedankte sich bei meiner Familie für die Spende von 2.000.000,00 EUR. Solche E-Mails von unseren Begünstigten freuen uns sehr, und wir sind glücklich, dass auch Sie zu unseren Begünstigten gehören.</p>
+      <p>Herr Hans teilte uns mit, dass er die 2.000.000,00 EUR erhalten hat. Er entschied sich, uns zu vertrauen und befolgte die Anweisungen der Bank, was die schnelle Bearbeitung und Auszahlung der Gelder ermöglichte. Um Transparenz zu gewährleisten und die Verwendung der Gelder in Ihrem Land zu optimieren, haben wir beschlossen, die Auszahlung der Spende an die Begünstigten über unsere Partnerbanken in den USA abzuwickeln. Die Begünstigten sind allein für die Bearbeitung der Anträge verantwortlich und müssen die Gelder problemlos freigeben.</p>
+      <p>Bitte beachten Sie, dass Sie die vierte Person sind, die diese Spende erhält. Wir empfehlen Ihnen, sich so zu verhalten, als könnten wir mit der fünften Person fortfahren, die ihre Spende nach erfolgreichem Abschluss Ihres Spendenprozesses erhält.</p>
+      <p>Ich möchte Sie darüber informieren, dass meine Frau und ich letzte Woche eine doppelte Auszahlung festgestellt haben. Diese entstand dadurch, dass Begünstigte enge Freunde, Verwandte, Anwälte und Dritte über ihre Spenden informiert hatten. Infolgedessen versuchten diese Personen, die Spendengelder im Namen der eigentlichen Empfänger zu beanspruchen, was zu Problemen für die auszahlende Bank führte. Bitte beachten Sie, dass jede doppelte Inanspruchnahme im Auszahlungsprozess zur Stornierung der betreffenden Spende führt. Dies bedeutet einen Verlust sowohl für den Antragsteller als auch für den eigentlichen Empfänger, da davon ausgegangen wird, dass der eigentliche Empfänger den Antragsteller über die Spende informiert hat. Daher raten wir Ihnen dringend, Ihre Informationen streng vertraulich zu behandeln, bis Ihre Forderung vollständig beglichen ist. Geben Sie diese Informationen bitte noch nicht an Dritte weiter. Stellen Sie sicher, dass Sie Ihre Spendengelder erhalten haben, bevor Sie Informationen zu dieser Spende weitergeben.</p>
+      <p>Kontaktieren Sie meine Auszahlungsbank unter den folgenden Angaben:</p>
+      <p>Bankname: Pacific Premier Bank<br>
+      E-Mail: pacificpremiebank@accountant.com<br>
+      Bankadresse: 17901 Von Karman Avenue, Suite 200, Irvine, CA 92614<br>
+      Tel.: +1 505 637 7389<br>
+      Kontaktieren Sie die Bank unter der E-Mail-Adresse pacificpremiebank@accountant.com, um die Transaktion zu beschleunigen.</p>
+      <p>Bitte bedenken Sie, dass diese Spende dazu bestimmt ist, den Lebensstandard benachteiligter Menschen in Ihrer Region nachhaltig zu verbessern. Wir empfehlen Ihnen daher, sich Zeit zu nehmen und sorgfältig zu überlegen, wie Sie Ihre Spende für Projekte einsetzen, die Ihrer Gemeinde langfristig zugutekommen.</p>
+      <p>Bitte informieren Sie mich per E-Mail, sobald Sie die Auszahlungsbank kontaktiert haben.</p>
+      <p>Viel Erfolg und Gottes Segen.</p>
+    </blockquote>
+  </div>
+</details>
+
+Besonders „seriös“: Die Bank ist unter einer `@accountant.com`-Adresse erreichbar. Warum eine echte US-Bank keine eigene Domain nutzt? Weil Scammer diese Endung lieben, um einen Hauch von Professionalität vorzugaukeln. 🤡 Warum genau diese [Adressen eine riesige rote Flagge](https://acapio.de/posts/2026-03-24-fake-mail/) sind, haben wir hier schon mal analysiert. 
+
+Hugo ficht das nicht an und er meldet sich brav bei der Bank!
+

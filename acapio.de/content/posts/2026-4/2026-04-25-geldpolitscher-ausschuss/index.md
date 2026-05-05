@@ -170,3 +170,13 @@ Sobald ihr eine Ausweiskopie schickt, hat der Betrüger alles, was er braucht:
 
 Wir schicken ihm einen falschen [Ausweis mit Bundeshuhn](/posts/2026-04-11-vorladung/#phase-3-die-falle-schnappt-zu--verzweiflung-und-identit%C3%A4tsdiebstahl)!
 
+
+## Game Over: Dirk hat uns geghostet!
+
+Sobald der geforderte Ausweis nicht kommt, verliert selbst ein „Professor“ wie Dirk die Lust. Das ist das klassische Ende: Wenn der Scammer merkt, dass es keine Daten oder Gebühren zu holen gibt, zieht er weiter zum nächsten Opfer.
+
+**Hugos finales Wort:**
+> „Tja Dirk, du Lappen! Erst auf dicke Hose machen und dann abhauen, nur weil ich mein Passfoto nicht finde? Mein 3er glänzt auch ohne deine Fake-Millionen. Such dir wen anders zum Verarschen, ich geh jetzt Currywurst essen!“
+
+**Das Fazit:** 
+Kein Erbe, kein Dirk, aber eure Identität bleibt sicher. Wer per Mail nach Ausweisen oder Religion fragt, will nur euer Bestes: euer Geld. **Löschen und vergessen!******
