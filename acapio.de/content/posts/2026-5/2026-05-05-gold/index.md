@@ -65,3 +65,27 @@ Wir konnten uns die Chance nicht entgehen lassen, hinter die Kulissen dieses „
 > Beste Grüße  
 
 Jetzt heißt es abwarten: Beißt die „Prinzessin“ an oder platzt die Goldblase schon beim ersten Nachhaken?
+
+---
+
+## Die prompte Antwort: Die „Prinzessin“ bittet zur Kasse
+
+Die Reaktion kam fast so schnell wie der Glanz einer gefälschten Goldmünze, blieb aber inhaltlich verdächtig vage. Anstatt die geforderten Infos wie eine Website oder eine Preisliste zu liefern, wird sofort abgeklopft, wie viel bei Hugo zu holen ist: Geht es um ein bisschen Schmuck für den Eigenbedarf oder soll es gleich die ganz große **„Kapitalanlage“** sein? 
+
+> Das ist großartig.  
+> Wir handeln mit hochwertigem Gold (Schmuck, Barren und Anlageobjekten).  
+> Kaufen Sie für den Eigenbedarf oder als Kapitalanlage?  
+
+
+### Hugo wird zum Goldgräber
+
+Die Antwort kam zwar schnell, doch von der ursprünglich angefragten Website oder Preisliste fehlt weiterhin jede Spur. Stattdessen wird sofort abgeklopft, wie viel bei Hugo zu holen ist. Wir spielen das Spiel mit: Hugo gibt sich als sicherheitsbewusster Anleger, der sein Erspartes in „Krisenvorsorge“ stecken will – genau der Köder, auf den Scammer gewöhnlich besonders gierig anspringen.
+
+> Vielen Dank für die schnelle Rückmeldung.  
+>   
+> Für mich steht die Kapitalanlage und Sicherheit im Vordergrund. Ich dachte dabei vor allem an kleine Goldbarren und gängige Münzen, da man damit in Krisenzeiten einfach flexibler ist.  
+>   
+> Haben Sie dazu eine Übersicht oder aktuelle Preise für mich, damit ich mir ein Bild machen kann?  
+>   
+> Beste Grüße,  
+> Hugo  

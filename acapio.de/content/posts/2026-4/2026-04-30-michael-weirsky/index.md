@@ -141,3 +141,63 @@ Besonders „seriös“: Die Bank ist unter einer `@accountant.com`-Adresse erre
 
 Hugo ficht das nicht an und er meldet sich brav bei der Bank!
 
+---
+
+## Vorhang auf für Fred Garry und den Identitäts-Basar 🎭🪪
+
+Jetzt wird’s „offiziell“! Auftritt: **Fred Garry**, der Bankmanager mit der Vorliebe für Ausweiskopien. 🏦💼 Die Pacific Premier Bank (die immer noch keine eigene E-Mail-Adresse besitzt, armer Fred!) will jetzt alles: Name, Adresse, Beruf und – der Jackpot für jeden Identitätsdieb – eine **Kopie des Personalausweises**. 🪪✨
+
+Besonders charmant: Fred bittet um „Ehrlichkeit“. Denn wer würde schon zwei Millionen Euro ohne Prüfung überweisen? 😂 Dass die Bank in Kalifornien sitzt, aber eine Telefonnummer aus New Mexico nutzt, ist wahrscheinlich nur ein kleiner „göttlicher“ Zahlendreher. 🌵📞 
+
+<details class="scam-accordion">
+  <summary>📄  Daten abfragen, Fred Garry will alles wissen</summary>
+  <div class="accordion-content">
+    <blockquote>
+      <p>Pacific Premier Bank<br>
+       <br>
+      Sehr geehrter Kunde,<br>
+       <br>
+      wir möchten Sie darüber informieren, dass Ihr Spender, Herr Michael J. Weirsky, sich mit uns (Pacific Premier Bank) in Verbindung gesetzt und den Betrag von 2.000.000,00 EUR eingezahlt hat. Bevor wir die Überweisung veranlassen können, bitten wir Sie, das untenstehende Formular auszufüllen und uns zusammen mit einer Kopie Ihres Personalausweises oder Reisepasses zur Überprüfung und Bestätigung zurückzusenden.<br>
+       <br>
+      Bitte beachten Sie, dass wir die Überweisung Ihrer Spende (2.000.000,00 EUR) nicht durchführen können, solange uns Ihre vollständigen Angaben und die Kopie Ihres Personalausweises oder Reisepasses nicht vorliegen. Wir bitten Sie daher um Offenheit und Ehrlichkeit, damit die Überweisung Ihrer Spende reibungslos verläuft. Niemand überweist einen Betrag von 2.000.000,00 EUR ohne ordnungsgemäße Überprüfung.<br>
+       <br>
+      Nachfolgend finden Sie das Antragsformular, das Sie bitte zur Überprüfung und Bestätigung Ihrer Angaben ausfüllen. Die ausgefüllten Informationen werden zur Überprüfung Ihrer Daten bei den Behörden Ihres Landes verwendet. Bitte senden Sie dem ausgefüllten Formular auch eine eingescannte Kopie Ihres Personalausweises oder Reisepasses bei.<br>
+      Vorname:<br>
+      Nachname:<br>
+      Geburtsdatum:<br>
+      Geschlecht (männlich/weiblich):<br>
+      Ihr Spendencode:<br>
+      Ablaufdatum der ID:<br>
+      ID-Nummer:<br>
+      ID-Kopie:<br>
+      Adresse:<br>
+      Ort:<br>
+      Bundesland/Kanton:<br>
+      Postleitzahl:<br>
+      Land:<br>
+      Telefon:<br>
+      Fax:<br>
+      E-Mail:<br>
+      Beruf:<br>
+      Sobald wir Ihre Angaben erhalten haben, werden wir mit dem nächsten Schritt fortfahren und Ihnen die<br>
+      Überweisungsmöglichkeiten zukommen lassen.<br>
+       <br>
+      Wir erwarten Ihre baldige Rückmeldung per E-Mail.<br>
+      Vielen Dank für Ihr Vertrauen.<br>
+      Bankmanager: Herr Fred Garry.<br>
+      17901 Von Karman Avenue, Suite 200, Irvine, CA 92614<br>
+      Tel.: +1 505 637 7389<br>
+      Bank: Pacific Premier Bank<br>
+      Copyright © 1994–2026. Alle Rechte vorbehalten.</p>
+    </blockquote>
+  </div>
+</details>
+
+**Die Botschaft ist klar:** Gib uns dein Gesicht, deine Daten und dein Vertrauen – wir geben dir dafür... nun ja, wahrscheinlich noch mehr Spam und einen geklauten Account. 🤡 
+
+
+### Der „Williges-Opfer“-Test 🎯
+
+Neben dem nackten Datenklau wollen die Scammer hier vor allem psychologisch punkten. Es ist eine Art Qualifikationsrunde: Wer seinen Ausweis an eine wildfremde E-Mail-Adresse schickt, zeigt den Betrügern, dass er bereits tief am Haken hängt. 🎣 Wer diese Hürde nimmt, erscheint als das perfekte, willige Opfer für die kommenden Geldforderungen. 
+
+**Wir schicken eine Runde Fake-Daten und schauen was passiert.**
