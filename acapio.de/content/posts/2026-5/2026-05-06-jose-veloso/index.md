@@ -94,4 +94,29 @@ Joses Dokumente sind ein echtes Kunstwerk – sofern man auf unfreiwillige Komik
 **Wir spulen unsere Standardmasche durch und schicken ein paar Fake-Daten!**
 
 
+## Die Familienkarte
+
+**Jose zieht die Familien-Karte:** Er ist verheiratet, hat Kinder und würde für „den Sieg“ niemals seinen Ruf riskieren. Jetzt will er unbedingt Hugos Handynummer – wahrscheinlich, um den Erfolg direkt per WhatsApp zu feiern. Seriöser geht’s kaum!
+
+> Ich möchte, dass Sie verstehen, dass diese Transaktion rechtmäßig ist und innerhalb der gesetzlichen Bestimmungen abgewickelt wird, die Sie und mich vor jeglichen Gesetzesverstößen und anderen Risiken schützen. Betrachten Sie diese Transaktion bitte als Chance, überwinden Sie jegliche Bedenken und handeln Sie. Sie müssen lediglich meine Anweisungen befolgen. Ich versichere Ihnen, dass wir den Sieg feiern werden. Ich möchte Sie darauf hinweisen, dass ich verheiratet bin und Kinder habe. Ich kann die Glaubwürdigkeit meines Amtes nicht für eine Angelegenheit aufs Spiel setzen, die keinen feierlichen Abschluss finden wird. Bitte senden Sie mir auch Ihre Handynummer.  
+
+Lange wartet er nicht, da kommt auch schon die nächste Aufforderung rein!
+
+Hier ist die nächste Zusammenfassung für euren Blog – der Scam erreicht die nächste Stufe der Absurdität:
+
+### Phase 2: Die „offizielle“ Bank-Korrespondenz (via AOL?!)
+
+Jose ist sichtlich gerührt von Hugos „Güte“ und geht nun zum Angriff über. Der Plan sieht vor, dass Hugo sich direkt an die Bank wendet. Hier sind die Highlights des neuen „Business“-Plans:
+
+* **Geheimagent Jose:** Hugo soll die Bank kontaktieren, aber bloß nicht erwähnen, dass Jose mit ihm spricht. Warum? Weil die „Bankleitung“ sonst merkt, dass Jose die Infos steckt. (Oder eher: Weil Jose unter der Bank-Mailadresse selbst antwortet).
+* **Die High-Tech-Bank:** Die „Philippine National Bank“ nutzt laut Jose eine hochseriöse **@aol.com** Adresse. Dass eine Nationalbank auf kostenlose E-Mail-Provider aus den 90ern setzt, unterstreicht natürlich die Professionalität.
+* **Der tragische Onkel Gentian:** Plötzlich hat der verstorbene Gold-Händler auch den Nachnamen **Scholz** erhalten. Was für ein Zufall!
+* **Action-Movie-Story:** Onkel Gentian starb angeblich bei einer Massenkarambolage mit sieben Fahrzeugen und 35 Toten. Jose mag es dramatisch.
+* **Hugos neue Heimat:** Jose hat für Hugo auch direkt eine Adresse in Hamburg erfunden (Fährweg 12). Hugo ist jetzt offiziell Hanseat.
+
+> Please, you must not let them know that you are having communication with me or anybody from here, meaning the bank should not know my involvement in this inheritance claim (Business) so that it won't be that I am the one furnishing you with information. I will be forwarding you all the information and  legal documents needed by the Bank towards this transaction once the bank requested for it.
+
+![](/posts/2026-05-06-jose-veloso/bank.webp)
+
+Hugo leitet die E-Mail brav an die Bank weiter.
 

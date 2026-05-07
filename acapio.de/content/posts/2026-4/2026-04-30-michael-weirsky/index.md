@@ -201,3 +201,83 @@ Besonders charmant: Fred bittet um „Ehrlichkeit“. Denn wer würde schon zwei
 Neben dem nackten Datenklau wollen die Scammer hier vor allem psychologisch punkten. Es ist eine Art Qualifikationsrunde: Wer seinen Ausweis an eine wildfremde E-Mail-Adresse schickt, zeigt den Betrügern, dass er bereits tief am Haken hängt. 🎣 Wer diese Hürde nimmt, erscheint als das perfekte, willige Opfer für die kommenden Geldforderungen. 
 
 **Wir schicken eine Runde Fake-Daten und schauen was passiert.**
+
+
+## Wählen Sie Ihr Verderben: Das Scammer-Handbuch schlägt zu! 📖💳
+
+Fred Garry zieht nun das offizielle „Prozesshandbuch für Scammer“ aus der Tasche. Die Vorgehensweise ist so klassisch, dass es fast eine ISO-Zertifizierung verdient hätte:
+
+*   **Option 1:** Eine „Universal-ATM-Karte“ für **550 €** (Versicherung & Druck). 🏧
+*   **Option 2:** Ein „Platinum-Konto“ für **750 €** (Aktivierungsgebühr). 💻
+
+Um Hugo weichzuklopfen, wird die „Gottesfürchtig“-Karte gespielt: Wer zögert, ist ein schlechter Mensch, der die Bankregeln nicht respektiert. 🙏🙄 Dass im Copy-Paste-Eifer plötzlich der Name einer völlig anderen Bank („Nation Wide“) im Text auftaucht, geschenkt! 
+
+<details class="scam-accordion">
+  <summary>📄  Kontoeröffnung bei den Scammern!</summary>
+  <div class="accordion-content">
+    <blockquote>
+      <p>Pacific Premier Bank.<br>
+       <br>
+      Dear Hugo Scholz,<br>
+       <br>
+      We have received your email message with your information and we have also received the confirmation letter and your information from your benefactor. We have also received a confirmation of continuation from Mr.Michael J Weirsky, In this regard, we are mandated to immediately transfer ownership of the assets to you. As part of professional banking ethics, in order to gain access to the said asset (endowment funds) and make a full claim, there are two standard official procedures, mutually optional, to obtain the monetary asset of this portfolio.<br>
+       <br>
+      Please read the following information carefully. Donating Funds Transfer two options;<br>
+       <br>
+      1. A UNIVERSAL ATM CARD will be generated/activated which will allow the entire fund worth TWO MILLION EUR to access funds from any ATM IN YOUR LOCATION.<br>
+       <br>
+      2. Since you do not have an account open with Pacific Premier Bank to support asset transfer, you will need to activate an online transfer account and transfer the funds online to your local bank account.<br>
+       <br>
+      Would you prefer a universal ATM card or having a NATION WIDE online account?<br>
+       <br>
+      The following are the requirements for both options. OPTION 1 (ATM CARD)<br>
+       <br>
+      The universal ATM card is available at all ATMs worldwide and is easy and convenient to use, just like your local bank ATM card. To opt for this option, please indicate your interest and send us your full details to generate the card. Required information is your full name (as it would appear on the card), your address (where the card will be delivered).<br>
+       <br>
+      Once we receive this information from you, we will print your name and personalize the card just for you. Then our associated delivery service will make a direct delivery to you. In the meantime, you are expected to pre-pay for insurance upon delivery and creation of the ATM card, as Nation Wide will not be responsible for insurance.<br>
+       <br>
+      It is our responsibility to generate a UNIVERSAL ATM CARD which we will execute and print once you provide us with the required information.<br>
+       <br>
+      Our courier company will deliver your ATM CARD to you intact in a single amount of €2,000,000.00. Just send us your details so we can send you the package.<br>
+       <br>
+      Card price - EUR 210.00 Delivery insurance - EUR 340.00 TOTAL= EUR 550.00<br>
+       <br>
+      It will cost you EUR 550.00 upfront to create and deliver the ATM card and once you receive it paid for as required, we will immediately proceed to transfer your donation funds.<br>
+       <br>
+      OPTION 2 (NEW ACCOUNT ACTIVATION) Recommended For this option, in order to move funds from our bank to you, you must activate an online transfer account with us.<br>
+      We will open an account in your name and electronically credit the amount of €2,000,000.00 to the new account. We will send you account details (URL, account login and PIN, account number, etc.). This way you can transfer funds electronically from any computer in the world to your local bank account. Each transfer takes 2-3 days to be completed and credited to your local account.<br>
+       <br>
+      Account Activation Initial Balance<br>
+       <br>
+      (1))Platinum Account (Capacity - EUR 2,000,000.00) Required Starting Balance - EUR 750.00<br>
+       <br>
+      We sincerely hope that the above information will help you. Please select from the information above and let us know the details so we can proceed. If you have any questions or for further clarification, please write to us.<br>
+       <br>
+      We are honest and good people and we also like to work with honest and good clients, not those who always think only of themselves and forget how others will feel. Clients who always want to change company rules and regulations to suit them and not the company, clients who want the company to disappear just to suit them. We are Christians and we are of God fearing people. Every bit of this report comes directly from Pacific Premier Bank and is 100% guaranteed.<br>
+       <br>
+      Pacific Premier Bank and the recipient of the funds will have to undertake that there will be no fraud or deceit in this transaction and agree that any action may be taken if the bank's conditions are not met. If you agree to the above terms, please choose a method of transfer of funds and contact us<br>
+       <br>
+      With regard to the above conditions, if they are acceptable to you, you must give us a quick response so that we can proceed to the next step and complete your donation as soon as possible.<br>
+       <br>
+      At Nation Wide, we appreciate the opportunity to serve you.<br>
+       <br>
+      We await your email soonest.<br>
+       <br>
+      Thank you for Banking with us.<br>
+       <br>
+      Bank Manager: Mr.Fred Garry.<br>
+      Email:pacificpremiebank@accountant.com<br>
+      17901 Von Karman Avenue, Suite 200, Irvine, CA 92614.<br>
+      Tel: +15056377389<br>
+      Bank Name: Pacific Premier Bank.<br>
+      COPYRIGHT ©1994-2026 ALL RIGHT RESERVED.</p>
+    </blockquote>
+  </div>
+</details>
+
+---
+
+### The cheap one 💵
+
+Hugo antwortet nur kurz: **Hello, i take the cheap one.** Auch wenn Millionen am Horizont winken, aufs Geld muss man trotzdem achten.
+

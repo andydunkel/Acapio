@@ -170,13 +170,79 @@ Sobald ihr eine Ausweiskopie schickt, hat der Betrüger alles, was er braucht:
 
 Wir schicken ihm einen falschen [Ausweis mit Bundeshuhn](/posts/2026-04-11-vorladung/#phase-3-die-falle-schnappt-zu--verzweiflung-und-identit%C3%A4tsdiebstahl)!
 
+## 🚨 Update: Dirk zieht ins Kanzleramt! 🇬🇧
 
-## Game Over: Dirk hat uns geghostet!
+Es wird immer wilder! Dirk hat uns ein „Testament“ geschickt und schickt uns nun zur **„Monument Capital Bank“**. Der Clou: Die Bank residiert angeblich in der **10 Downing Street** – also direkt beim britischen Premierminister im Wohnzimmer! 😂
 
-Sobald der geforderte Ausweis nicht kommt, verliert selbst ein „Professor“ wie Dirk die Lust. Das ist das klassische Ende: Wenn der Scammer merkt, dass es keine Daten oder Gebühren zu holen gibt, zieht er weiter zum nächsten Opfer.
+<details class="scam-accordion">
+  <summary>📄  Ab zur Monumentcb Bank</summary>
+  <div class="accordion-content">
+    <blockquote>
+      <p>Hallo.</p>
+      <p>Wie geht es Ihnen und Ihrer Familie? Ich hoffe, es geht Ihnen gut. Der Anwalt hat die Dokumente fertiggestellt, und ich habe eine Kopie an die MONUMENT CAPITAL BANK weitergeleitet. Darin führe ich Sie als einzigen überlebenden Angehörigen meines verstorbenen Mandanten Dr. Raymond Scholz auf. Ich habe Ihnen ebenfalls eine Kopie dieser Dokumente zur Durchsicht beigefügt. Die Bank wird Sie möglicherweise bitten, ihr eine Kopie zuzusenden, um Ihre Erbschaft zu bestätigen.</p>
+      <p>Ich habe den Anwalt gebeten, die MONUMENT CAPITAL BANK zu kontaktieren, nachdem ich die Unterlagen gesendet habe. Er soll erklären, dass Sie der einzige überlebende Angehörige meines verstorbenen Mandanten sind und dass Sie aufgrund familiärer Angelegenheiten nicht nach Schottland reisen können, um die Sendung in Anspruch zu nehmen. Die Bank weiß bereits, dass sich Geld in der Sendung befindet, da ich es als Sicherheit in einem Schließfach bei der MONUMENT CAPITAL BANK hinterlegt habe.</p>
+      <p>Die MONUMENT CAPITAL BANK bietet auch Online-Banking an. Um die Transaktion zu vereinfachen, müssen Sie ein Online-Konto eröffnen.</p>
+      <p>Bitte kontaktieren Sie die MONUMENT CAPITAL BANK. Die Kontaktdaten der Online-Abteilung finden Sie unten.</p>
+      <p>MONUMENT CAPITAL BANK</p>
+      <p>E-Mail: customersupport@monumentcb.com<br>
+      Ansprechpartner: Herr West Norbert<br>
+      Adresse: 10 Downing Street, Westminster, SW1A 2AA London, Vereinigtes Königreich</p>
+      <p>Ansprechpartner: Herr West Norbert,<br>
+      Kundenbetreuer<br>
+      (Geschäftsführer)<br>
+      Ansprechpartner: Herr West Norbert</p>
+      <p>Wenn Sie die Bank per E-Mail kontaktieren möchten, empfehle ich Ihnen folgende Vorgehensweise: MONUMENT CAPITAL BANK (UK), Mein Name ist Hugo Scholz. Ich schreibe Ihnen bezüglich des Vermögens meines verstorbenen Verwandten, Dr. Raymond Scholz, das bei Ihrer Bank, der MONUMENT CAPITAL BANK, angelegt ist. Ich möchte ein Online-Konto bei Ihrer Bank eröffnen, um als einziger überlebender Angehöriger Zugriff auf das Vermögen meines verstorbenen Verwandten zu erhalten. Ich wäre Ihnen sehr dankbar, wenn Sie meine Anfrage per E-Mail beantworten würden.</p>
+      <p>Mit freundlichen Grüßen<br>
+      Hugo Scholz</p>
+      <p>Bitte kontaktieren Sie die Bank umgehend und teilen Sie ihr mit, dass Sie ein Online-Konto eröffnen möchten, um auf die Million Pfund zugreifen zu können.</p>
+      <p>Sobald Sie Ihr Online-Konto eröffnet haben, werden die 7 Millionen Pfund auf Ihr Konto überwiesen. Sie erhalten anschließend Ihre Kontodaten, wie Kontonummer und PIN-Code, sowie Informationen zum Zugriff auf Ihr Online-Banking-Konto.</p>
+      <p>Sie können Ihr Konto von überall auf der Welt nutzen, sofern Sie über einen Internetzugang verfügen. Loggen Sie sich einfach in Ihr Online-Konto ein und überweisen Sie das Geld von Ihrem Konto bei der MONUMENT CAPITAL BANK auf ein beliebiges anderes Konto weltweit.</p>
+      <p>Bitte kontaktieren Sie die Bank jetzt und schließen Sie die Einrichtung Ihres Online-Kontos ab, damit die 7 Millionen Pfund auf Ihr Konto überwiesen werden können und Sie diese umgehend auf Ihre anderen Konten überweisen können.</p>
+      <p>Vielen Dank für Ihr Verständnis. Ich bitte Sie, sich nach Abschluss der oben genannten Schritte umgehend bei mir zu melden. Ich erwarte Ihre baldige Rückmeldung.</p>
+      <p>Mit freundlichen Grüßen<br>
+      Dirk Baier<br>
+      Mitglied des geldpolitischen Ausschusses</p>
+    </blockquote>
+  </div>
+</details>
 
-**Hugos finales Wort:**
-> „Tja Dirk, du Lappen! Erst auf dicke Hose machen und dann abhauen, nur weil ich mein Passfoto nicht finde? Mein 3er glänzt auch ohne deine Fake-Millionen. Such dir wen anders zum Verarschen, ich geh jetzt Currywurst essen!“
+**Die neuen „Fakten“:**
+* 📜 **Das Testament:** Ein Grafik-Unfall, bei dem Dirk sich selbst als Zeugen unterschreibt.
+* 🏠 **Die Adresse:** Wer wusste nicht, dass der Premier nebenher eine Bankfiliale betreibt?
+* 👤 **Der Kontakt:** Ein gewisser „Herr West Norbert“ (klingt wie ein Vorname, der seinen Nachnamen sucht).
 
-**Das Fazit:** 
-Kein Erbe, kein Dirk, aber eure Identität bleibt sicher. Wer per Mail nach Ausweisen oder Religion fragt, will nur euer Bestes: euer Geld. **Löschen und vergessen!******
+![Das Testament von Hugos Onkel](/posts/2026-04-30-michael-weirsky/testament.webp)
+
+---
+
+### 🏎️ Hugos Reality-Check:
+> „Hömma Dirk, 10 Downing Street? Bist du jetzt der Butler vom Premier oder wat? Dat is ja, als wenn ich meine Kontoauszüge direkt bei der Kanzlerin abhole! Und wetten, dat dat Online-Konto erst mal 'ne Gebühr kostet, bevor die Millionen kommen? Nicht mit Hugo!“ 🍻
+
+---
+
+### ⚠️ Worauf Dirk wirklich wartet:
+Das ist die **„Vorschuss-Falle“**. Dirk will, dass ihr ein Konto bei seiner Fake-Bank eröffnet. Kurz vor der Auszahlung heißt es dann: *„Hoppla, bitte erst 500 € Aktivierungsgebühr zahlen!“* 💸
+
+**Fazit:** Wenn die Bank im Regierungssitz wohnt, ist der Betrug nicht weit. **Nix klicken, nix zahlen!** 🛑 
+
+---
+
+## 📍 Dirk vs. Google Maps
+
+Der Betrug erreicht die „Hugo-Hürde“. Dirk dachte wohl, wir merken nicht, dass er uns zum Amtssitz des britischen Regierungschefs schickt. Aber er hat die Rechnung ohne Hugos Smartphone gemacht!
+
+* **Der Reality-Check:** Google Maps lügt nicht – in 10 Downing Street gibt es vielleicht Tee und politische Krisen, aber sicher kein Schließfach für Hugo.
+* **Der Amateur-Fehler:** Scammer nutzen oft berühmte Adressen, um „wichtig“ zu klingen. Blöd nur, dass heute jeder mit drei Klicks prüfen kann, ob da wirklich eine Bank oder nur ein bewachter Vorgarten ist.
+ 
+> Tach Dirk, du alter Schlawiner!  
+>   
+> Hömma, ich hab dat mal bei Google Maps eingegeben, ne? Also entweder spinnt mein Handy oder du willst mich echt verummelen. Unter der Nummer 10 in London is gar keine Bank! Da wohnt doch der Chef von England, dieser Premierminister! 🤨  
+>   
+> Ich hab da mal mit Street View geguckt: Da stehen nur so Typen mit hohen Mützen und schwarze Kisten vor der Tür, aber weit und breit kein Schild von deiner „Monument-Bank“ und erst recht kein BMW-Händler! Dat stinkt doch bis nach Wanne-Eickel! 🏎️💨  
+>   
+> Haste dich da im Stockwerk vertan oder darfste beim Premier nur im Keller die Briefmarken lecken? Wo sind die Millionen jetzt echt? Schreib mal was Vernünftiges, sonst geh ich wieder inne Garage mein Fahrwerk polieren!  
+>   
+> Glück auf,  
+> Hugo  
+
+**Fazit:** Wenn der „Banker“ im Kanzleramt wohnt, ist der Scam am Ende. Dirk, das war ein Satz mit X! 😂🛑
