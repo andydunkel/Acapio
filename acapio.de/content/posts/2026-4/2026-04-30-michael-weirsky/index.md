@@ -281,3 +281,38 @@ Um Hugo weichzuklopfen, wird die „Gottesfürchtig“-Karte gespielt: Wer zöge
 
 Hugo antwortet nur kurz: **Hello, i take the cheap one.** Auch wenn Millionen am Horizont winken, aufs Geld muss man trotzdem achten.
 
+---
+
+## Ab nach Berlin: Das große Finale der Kontonummern 🇩🇪💸
+
+Jetzt wird es richtig absurd: Die kalifornische Bank bittet Hugo, die 550 € an eine gewisse „Peace Festus“ bei der **Trade Republic in Berlin** zu überweisen. 🥨 Warum eine US-Großbank ihr Geld über einen deutschen Neobroker und ein Privatkonto einsammelt? Vermutlich, weil Fred Garry gerade auf Kiez-Tour ist. 🎡
+
+> Thank you for your mail,kindly use the account information below to make the payment and after making the payment you have to email us the proof of payment so we can proceed with UNIVERSAL ATM CARD.  
+>    
+> BENEFICIARY:PEACE FESTUS   
+> IBAN: DE74100123452149317311  
+> BANK NAME: TRADE REPUBLIC  
+> BIC/SWIFT: TRBKDEBBXXX  
+> ADDRESS: BRUNNENSTRASSE 19-21  10119 BERLIN  
+> PURPOSE OF PAYMENT: FAMILY SUPPORT   
+> COUNTRY: GERMANY  
+> AMOUNT:  EUR 550.00  
+
+Der absolute Klassiker im Scammer-Handbuch: Hugo soll als Verwendungszweck **„Family Support“** angeben. Das ist ein mieser Trick, um die Sicherheitsalgorithmen der Banken zu umgehen und keine lästigen Fragen der Geldwäsche-Abteilung zu provozieren. 🕵️‍♂️
+
+**Fazit:** US-Lotto-Millionen, ein kalifornischer Bankmanager und ein Berliner Privatkonto bei einem Neobroker... Seriöser wird es heute nicht mehr! 🤡🚩
+
+Übrigens googlet man den Namen "Peace Festus", dann findet man direkt eine Person in Nigeria.
+
+Hugo ist skeptisch, daher:
+
+> Moin Fred,  
+>   
+> hab die Daten bekommen. Aber sag mal, jetzt mal unter uns: Wer zum Kuckuck ist eigentlich „Peace Festus“? 🤔 Klingt ja eher nach einem Wellness-Tee oder einem Hippie-Festival als nach einer seriösen Bankabteilung in Kalifornien. ☮️  
+>   
+> Und warum wohnt der gute Peace eigentlich in der Brunnenstraße in Berlin? Ich dachte, ihr sitzt in den USA bei den Filmstars? Dass ich das Geld jetzt an einen Neobroker wie Trade Republic schicken soll, kommt mir doch arg spanisch vor. 🇪🇸 Habt ihr eure eigenen Tresore in Irvine schon voll mit Michaels Millionen?  
+>   
+> Erklär mir das mal kurz, bevor ich den Button drücke. Nicht, dass mein schönes Geld am Ende in einer Berliner Currywurst-Bude landet statt auf meiner Gold-Karte! 🌭💸  
+>   
+> Grüße,  
+> Hugo  

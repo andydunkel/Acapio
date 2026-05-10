@@ -89,3 +89,44 @@ Die Antwort kam zwar schnell, doch von der ursprünglich angefragten Website ode
 >   
 > Beste Grüße,  
 > Hugo  
+
+---
+
+## Déjà-Vu im Goldrausch
+
+Wir waren gerade kurz davor, die Kreditkarte zu zücken, da passiert das Unfassbare: Die „Gold-Prinzessin“ erleidet eine spontane digitale Amnesie und stellt sich einfach nochmal vor. Offenbar ist ihr Business so exklusiv, dass man alle drei Sätze das Gedächtnis löscht – oder der Praktikant im Scam-Callcenter hat schlicht die falsche Taste am Bot gedrückt. Wir sind zutiefst erschüttert über diesen Mangel an krimineller Professionalität!
+
+> Sehr geehrter Herr  
+>   
+> ich hoffe, es geht Ihnen gut.  
+>   
+> Mein Name ist Amira Aldahab, und ich vertrete ein Unternehmen, das sich auf hochwertiges Gold spezialisiert hat, darunter Schmuck, Goldbarren und Anlagegold.  
+>   
+> Wir erweitern derzeit unser Netzwerk und würden uns freuen, von Ihnen zu erfahren, ob Sie Interesse an einem Kauf oder einer Zusammenarbeit mit uns haben. Wir legen Wert auf authentische Produkte und zuverlässigen Service.  
+>   
+> Bitte lassen Sie mich wissen, ob Sie dies näher besprechen möchten. Ich gebe Ihnen gerne weitere Informationen.  
+>   
+> Mit freundlichen Grüßen,   
+> Amira Aldahab  
+
+---
+
+## Die goldene Endlosschleife
+
+Hugo ist offiziell verwirrt. Hat die Gold-Prinzessin ein Kurzzeitgedächtnis aus Blattgold oder ist das eine neue Form von digitalem Zen? Wir warten geduldig auf handfeste Zahlen, aber stattdessen schickt uns das „Imperium“ einfach wieder zurück auf Start. Man sollte meinen, bei so viel „hochwertigem Gold“ wäre zumindest ein funktionierendes CRM-System im Budget gewesen. Spoiler: Ist es nicht.
+
+---
+
+**Hugos Antwort:**
+
+> Sehr geehrte Frau Aldahab,
+> jetzt bin ich doch ein wenig überrascht. Haben Sie meine letzten Nachrichten gar nicht erhalten? Wir fangen nun schon zum dritten Mal von vorne an!
+> Ich warte eigentlich nur auf die **Preisliste für die 10 g und 20 g Barren**, um die wir bereits gesprochen hatten. Bevor wir über eine „Zusammenarbeit“ reden, müsste ich ja erst einmal wissen, über welche Konditionen wir hier überhaupt sprechen.
+> Kommt da noch was oder ist die Preisliste so exklusiv, dass sie gar nicht existiert?
+> Beste Grüße,
+> Hugo
+
+---
+
+**Was wir damit bezwecken:**
+Wir spielen den „leicht genervten, aber kaufwilligen“ Kunden. Das setzt die Scammer unter Druck, jetzt endlich Butter bei die Fische (bzw. Gold in die Barren) zu geben. Wenn sie jetzt nicht mit Preisen rausrücken, ist der Bot offiziell kaputt.
