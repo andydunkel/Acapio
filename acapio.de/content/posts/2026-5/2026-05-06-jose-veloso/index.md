@@ -118,5 +118,54 @@ Jose ist sichtlich gerührt von Hugos „Güte“ und geht nun zum Angriff über
 
 ![](/posts/2026-05-06-jose-veloso/bank.webp)
 
-Hugo leitet die E-Mail brav an die Bank weiter.
+Hugo leitet die E-Mail brav an die Bank weiter. Wir ärgern die Scammer ein paar Mal, indem wir behaupten die Bankantwort nicht erhalten zu haben. 😁
+
+---
+
+### Phase 3: Die Bank schlägt zurück – Das große Millionen-Quiz
+
+Die „Philippine National Bank“ (immer noch stilecht via AOL) hat geantwortet. Sie bestätigen: Ja, das Geld von Onkel Gentian Scholz ist da! Aber bevor die 12,5 Millionen fließen, hat der „Advisory Board“ der Bank ein paar klitzekleine Fragen.
+
+<details class="scam-accordion">
+  <summary>Die Bank fragt jede Menge Daten ab</summary>
+  <div class="accordion-content">
+    <blockquote>
+      <p>WE HEREBY ACKNOWLEDGE THE RECEIPT OF YOUR APPLICATION LETTER SUBMITTED TO THIS INSTITUTION. WE WRITE TO CONFIRM THAT WE HAVE THIS VERY ACCOUNT OF THE LATE MR. GENTIAN SCHOLZ AT OUR BANK, PHILIPPINE NATIONAL BANK LIMITED. [PNB] <br></p>
+      <p>IN ACCORDANCE WITH THE STATUTE OF INHERITANCE TRANSFER OF OWNERSHIP/RIGHT, THE SAID APPLICATION HAS MERITS FOR PAYMENT, BUT IT WILL BE VERY PERTINENT TO LET YOU KNOW THAT DUE PROCESS MUST BE ACKNOWLEDGED PRIOR TO RELEASE OF THE INHERITANCE TO YOU. <br></p>
+      <p>THE MANAGEMENT OF THIS BANK WILL BE MEETING TODAY AND OTHERS TO DISCUSS, AMONG OTHER THINGS, THE POSSIBILITIES OF RELEASING THE DEPOSIT FUNDS IN YOUR NAME AS THE RIGHTFUL BENEFICIARY IF APPROVED BY OUR LEGAL DEPARTMENT OR A COURT OF COMPETENT JURISDICTION. WE MAINTAIN THE BEST STANDARD OF TRANSFER, BUT BEFORE WE PROCEED WITH YOUR REQUEST, YOU HAVE TO ANSWER THE CONTROL QUESTIONS ISSUED ON THE DAY OF DEPOSIT FOR OUR CLARIFICATION AND VERIFICATION. VIEW THE CONTROL QUESTIONS THEREIN BELOW AND ADHERE STRICTLY AS ADVISED. <br></p>
+      <p>WE SHALL GET BACK TO YOU WITH DETAILS OF THE OUTCOME OF OUR MEETING AS SOON AS WE ARE THROUGH. PLEASE DO RESPOND WITH THE CORRECT ANSWERS IMMEDIATELY TO ENABLE US TO PROCEED. <br></p>
+      <p>PLEASE ACCEPT AND CONVEY OUR SINCERELY HEARTFELT CONDOLENCES TO YOUR FAMILY. <br></p>
+      <p>BELOW ARE THE CONTROL QUESTIONNAIRE FROM ADVISORY BOARD PNB<br></p>
+      <p>1. STATE CLEARLY HIS FULL NAMES WITH US IN OUR DATABASE <br></p>
+      <p>2. STATE HIS NATIONALITY.<br></p>
+      <p>3. WHAT IS THE MOTHER'S MIDDLE NAME OF LATE MR. GENTIAN SCHOLZ?<br></p>
+      <p>4. HOW OLD WAS LATE MR. GENTIAN SCHOLZ THE YEAR THE DEPOSIT WAS MADE? <br></p>
+      <p>5. STATE THE COMPANY NAME OF LATE MR. GENTIAN SCHOLZ.<br></p>
+      <p>6. STATE TO US THE SECRET CODE OF THE DEPOSIT. <br></p>
+      <p>7. PRODUCE A SCAN COPY OF HIS COMPANY CERTIFICATE OF INCORPORATION HERE IN THE PHILIPPINES.<br></p>
+      <p>8. PRODUCE A SCAN COPY OF THE DEPOSIT VOUCHER OF THE FUND AND THE DEATH CERTIFICATE.<br></p>
+      <p>9. STATE CLEARLY HIS CURRENT RESIDENTIAL ADDRESS HERE IN PHILIPPINES BEFORE <br>
+      HIS DEATH IS RECORDED IN THE DATABASE WITH US.<br></p>
+      <p>10. STATE TO US THE SOURCE OF THE AMOUNT SAID. ($12,500,000.00)<br></p>
+      <p>WE SHALL COMMENCE WITH THE PROCESS AS SOON AS WE RECEIVE THE ABOVE-MENTIONED REQUIREMENT.<br></p>
+    </blockquote>
+  </div>
+</details>
+
+![Die Bank unseres Vertrauen](/posts/2026-05-06-jose-veloso/bank_logo.webp)
+
+Hier die Highlights des 10-Punkte-Katalogs, den Hugo nun lösen muss:
+
+* **Rätselraten für Fortgeschrittene**: Hugo soll nicht nur den Mädchennamen der Mutter von Onkel Gentian wissen, sondern auch den „geheimen Code“ der Einzahlung (den man seinem Neffen natürlich immer als Erstes erzählt).
+* **Detektivarbeit inklusive**: Die Bank verlangt Scans der Sterbeurkunde und der philippinischen Firmengründungs-Urkunde. Klar, das hat man als Hamburger Neffe ja immer griffbereit in der Küchenschublade liegen.
+* **Die Quelle des Reichtums**: Hugo soll mal eben erklären, woher die 12,5 Millionen Dollar eigentlich genau kommen.
+* **Das Management-Meeting**: Während Hugo schwitzt, trifft sich das „Management“ heute extra, um über ihn zu diskutieren. Man spürt förmlich die Wichtigkeit!
+
+Hugo jedenfalls ist besorgt und wendet sich flehend an Jose:
+
+> OK mail was in spam folder, but the bank wants much information, i do not have this, i do not want to get in trouble...
+
+
+
+
 

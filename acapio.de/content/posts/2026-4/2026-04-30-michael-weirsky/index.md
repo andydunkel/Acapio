@@ -350,3 +350,46 @@ Hugo hat den „Beleg“ abgeschickt, aber ein winziges Detail „verpatzt“: S
 
 Für die Scammer ist das der absolute Super-GAU. Während sie versuchen, unter dem Radar der Geldwäsche-Prüfung zu fliegen, wedelt Hugo mit der größten roten Flagge, die das Online-Banking zu bieten hat. 🚩🕵️‍♂️ Nichts lässt die Algorithmen einer Bank schneller aufschreien als das Wort „Lottery“.
 
+---
+
+## Schichtwechsel im Betrugs-Büro: Wenn „Peace“ Urlaub macht 🏖️🔄
+
+Kaum hat Hugo den „Lottery Win“-Beleg geschickt, brennt bei den Scammern die Hütte. 🔥 Die Ausrede: Peace Festus ist plötzlich „beurlaubt“ und das Geld kommt angeblich automatisch zurück. Klar, wer kennt es nicht: Wenn der Sachbearbeiter in den Urlaub geht, macht die Bank das Konto einfach zu. 😂
+
+**Der neue Plan:** Hugo soll die 550 € einfach *nochmal* überweisen – diesmal an **„Precious Okuomose“** bei der Vivid Bank. 🏦 Und ganz wichtig: Diesmal bitte wieder brav „Family Support“ reinschreiben, damit die Bank bloß nicht merkt, dass hier gerade Lottogewinne aus der Fantasiewelt verschickt werden. 🤫💸
+
+> I trust you are well. Kindly be informed that PEACE FESTUS, is currently on leave and have limited access to the account for processing payments. Please use this alternative account for the transfer to avoid delays. The 550 EUR will be reverted back to you by the bank  
+>    
+> Thank you for understanding.  
+>    
+> New Account Details:  
+>   
+> Name: Precious Okuomose  
+> IBAN: DE51202208000028398718  
+> BIC: SXPYDEHHXXX  
+> Country: Germany  
+> Bank: Vivid   
+> Address: Via tre Venezie 40  
+> Purpose of payment: family support  
+>    
+> Once done, kindly send the proof of payment.  
+
+**Fazit:** Wenn Plan A (Geldwäsche-Konto 1) durch Hugos Ehrlichkeit verbrannt ist, muss eben Plan B (Geldwäsche-Konto 2) herhalten. Die Dreistigkeit, das Opfer einfach um eine Zweitzahlung zu bitten, muss man erst mal haben! 🤡🍟
+
+### Die Warteschleife der Gerechtigkeit: Ebbe im Portemonnaie! 💸
+
+Hugo würde ja gerne, aberr ist pleite. Da er die 550 € bereits an „Peace“ geschickt hat, muss er nun zwangsläufig warten, bis die Bank das Geld – wie von Fred versprochen – zurückbucht. 🐷🚫
+
+Ein herrlicher Schachzug, denn jetzt sitzen die Scammer in ihrer eigenen Logik-Falle fest. Fred Garry muss nun erklären, warum die „automatische Rückzahlung“ plötzlich doch länger dauert als gedacht. Wir lehnen uns entspannt zurück und warten auf die nächste kreative Ausrede aus dem „Chairty“-Büro! 🍿⏳
+
+> Hallo Fred,  
+>   
+> Mensch, das ist ja ein Ding mit Peace! Hoffentlich hat er wenigstens schönes Wetter im Urlaub. ☀️  
+>   
+> Aber Fred, jetzt mal Hand aufs Herz: Ich bin ein kleiner Angestellter und kein Goldesel. Die 550 Euro waren mein ganzes Erspartes für diesen Monat. Mein Konto ist jetzt so leer wie eine Bierpulle nach dem Schützenfest. 🍺💨  
+>   
+> Ich würde der Precious das Geld ja liebend gerne schicken, damit meine Gold-Karte endlich gedruckt wird, aber ich muss jetzt erst mal warten, bis die Bank mir die Kohle von Peace wieder zurückgibt. Vorher ist bei mir Schmalhans Küchenmeister. 🧀🚫  
+>   
+> Sobald die 550 Euro wieder auf meinem Konto gelandet sind, schicke ich sie sofort an Precious weiter. Versprochen! Sag ihr, sie soll schon mal den Drucker vorwärmen. 🖨️✨  
+>   
+> Grüße, Hugo  

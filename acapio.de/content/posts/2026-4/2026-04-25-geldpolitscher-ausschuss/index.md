@@ -246,3 +246,88 @@ Der Betrug erreicht die „Hugo-Hürde“. Dirk dachte wohl, wir merken nicht, d
 > Hugo  
 
 **Fazit:** Wenn der „Banker“ im Kanzleramt wohnt, ist der Scam am Ende. Dirk, das war ein Satz mit X! 😂🛑
+
+---
+
+## Die Kontomodelle der Scammer
+
+Die Speisekarte des Wahnsinns ist da: Dirk und sein neuer Kumpel „Nobert“ bieten uns jetzt echtes Luxus-Banking an. Vom **„Sparkonto Plus“ für schlappe 999 €** (dem Happy Meal für Einsteiger-Opfer) bis zum **„Diamond Reserve“ für stolze 6.500 €** – hier ist für jeden Geldbeutel was dabei! 
+
+Besonders charmant: Das Diamond-Konto verspricht 7 % Zinsen. Auf was eigentlich? Auf die heiße Luft in der Downing Street? Wer hier „aktiviert“, kriegt kein Gold, sondern nur die goldene Himbeere für den naivsten Investor des Jahres. Ein echtes Schnäppchen – man muss sich nur trauen, den Gegenwert eines Kleinwagens für ein Konto zu zahlen, das so real ist wie ein Einhorn im Wanne-Eickeler Zoo. 🤡💸
+
+Dazu sollen wir ein klassisches Formular ausdrucken und ausfüllen:
+
+![Ein klassisches Formular](/posts/2026-04-25-geldpolitscher-ausschuss/bankantrag.webp)
+
+Die hier E-Mail im Original! **Vorsicht lang!**
+
+<details class="scam-accordion">
+  <summary>Die Bank fragt jede Menge Daten ab</summary>
+  <div class="accordion-content">
+    <blockquote>
+      <p>Name der Bank: Monument Capital Bank<br>
+      E-Mail-Adresse der Bank: customersupport@monumentcb.com<br>
+      Bankmitarbeiter: Herr West Nobert<br>
+      Adresse der Bank: 10 Downing Street, Westminster, SW1A 2AA London, Vereinigtes Königreich<br></p>
+      <p>Sehr geehrter Hugo Scholz,<br></p>
+      <p>Willkommen bei Monument Capital Bank Online Banking, einem der weltweit führenden Online-Banking-Anbieter. Wir überweisen im Auftrag unserer Kunden innerhalb von 48 Stunden nach Online-Einzahlung große Geldbeträge weltweit.<br></p>
+      <p>Da Sie noch kein Girokonto bei uns besitzen, bitten wir Sie, das dieser E-Mail beigefügte Antragsformular für ein Konto auszufüllen und uns eine Kopie per E-Mail zurückzusenden. So kann unsere Buchhaltung die Einrichtung Ihres neuen Kontos bei unserer Bank umgehend bearbeiten. Im Folgenden finden Sie die verschiedenen Arten von Online-Konten, die wir bei Monument Capital Bank Online Banking anbieten. Bitte geben Sie in Ihrem Antrag genau an, welche Art von Konto Sie wünschen.<br></p>
+      <p>1. Sparkonto Plus Reserve:<br>
+      Kontomerkmale; *Erfordert eine Kontoeröffnungs-/Einrichtungseinlage von 999,00 € (EURO) (1.180,62 USD). *24/7 Online-Banking mit direktem Zugriff. *Der maximale Überweisungsbetrag ist auf 1.000.000,00 € (eine Million Euro) pro Monat begrenzt.<br></p>
+      <p>2. Current Plus Reserve-Konto:<br>
+      Kontomerkmale: *Erfordert eine Kontoeröffnungs-/Einrichtungseinlage von 2.500,00 € (EURO) (2.730,01 USD). *24/7 Online-Banking mit direktem Zugriff. *Der maximale Überweisungsbetrag ist auf 2.000.000,00 € (zwei Millionen Euro) pro Monat begrenzt.<br></p>
+      <p>3. Advantage Gold Reserve-Konto:<br>
+      Kontomerkmale: *Erfordert eine Kontoeröffnungs-/Einrichtungseinlage von 4.500,00 € (EURO) (4.914,03 USD) * Direkter Online-Banking-Zugang rund um die Uhr * Keine Mindestgebühr für Abhebungen * Transaktionen in verschiedenen Währungen möglich * Gemeinschaftskonto möglich * Maximaler Überweisungsbetrag: 3.000.000,00 € (drei Millionen Euro) pro Monat.<br></p>
+      <p>4. Diamond Reserve Konto:<br>
+      Kontomerkmale: *Erfordert eine Kontoeröffnungs-/Einrichtungseinlage von 6.500,00 € (EURO) (7.098,04 USD) * Direkter Online-Banking-Zugang rund um die Uhr * 7 % Zinsen pro Jahr * Keine Mindestgebühr für Abhebungen * Transaktionen in verschiedenen Währungen möglich * Gemeinschaftskonto möglich * Keine Überweisungslimits. (Sie können jeden beliebigen Betrag auf einmal überweisen.)<br></p>
+      <p>Diese erstattungsfähige Mindesteinlage für Ihre Kontoeröffnung/Kontoaktivierung ist aus folgenden Gründen obligatorisch:<br></p>
+      <p>1.) Da Sie nicht in den USA ansässig sind, unterliegen Sie hier keiner lokalen Steuer. Daher müssen die Kosten für die Verrechnung aller auf Ihr Konto eingezahlten Gelder auf Ihrem Konto vorhanden sein, um es zu aktivieren.<br></p>
+      <p>2.) Übersteigt der von Ihnen eingezahlte Betrag den Mindestbetrag von 4.000.000,00 €, wird diese Transaktion von den hiesigen Aufsichtsbehörden geprüft. Es werden Fragen zur Herkunft der Gelder gestellt, die auf ein Konto mit einem Saldo von 0,00 € und ohne Transaktionshistorie eingezahlt werden. Es kann zu Verzögerungen kommen, deren Behebung bis zu 90 Tage dauern kann. Daher fallen für Ihr Konto Einrichtungs- und Aktivierungsgebühren an.<br></p>
+      <p>3.) Sobald die Gebühren für Ihre Kontoeröffnung/Kontoaktivierung eingegangen sind und Ihr Konto vollständig aktiviert wurde, erhalten Sie von unserer Buchhaltung umgehend Ihre Kontonummer und Ihre Online-Zugangs-PIN. Mit diesen Zugangsdaten können Sie Geld überweisen und Rechnungen online bezahlen. (Die Kontonummer wird Ihnen erst nach Eingang der rückzahlbaren Mindesteinlage für die Kontoaktivierung mitgeteilt.)<br></p>
+      <p>Nachdem Sie unser Kontoantragsformular erfolgreich ausgefüllt haben, senden Sie uns bitte umgehend eine eingescannte Kopie. Anschließend erhalten Sie weitere Informationen zur Zahlung der rückzahlbaren Mindesteinlage, die je nach gewähltem Konto zur Aktivierung Ihres Online-Bankkontos verwendet wird. Wir versprechen Ihnen einen der weltweit besten Online-Banking-Services.<br>
+      Bitte füllen Sie das beigefügte Bearbeitungsformular aus und senden Sie es uns zusammen mit einer Kopie Ihres Ausweises (z. B. Reisepass, Führerschein oder ein anderes Ausweisdokument) zu. Diese Kopie dient ausschließlich unseren Unterlagen.<br></p>
+      <p>Vielen Dank, dass Sie sich für die Monument Capital Bank entschieden haben. Wir versichern Ihnen unsere professionellen Dienstleistungen und beraten Sie gerne. Vielen Dank für Ihre Mitarbeit.<br></p>
+      <p>Bitte beachten Sie, dass sich die Monument Capital Bank das Recht vorbehält, Ihren Antrag bei Unregelmäßigkeiten abzulehnen. Für die Einrichtung eines Online-Offshore-Kontos ist Ihre persönliche Anwesenheit nicht erforderlich, da alle Transaktionen online abgewickelt werden. Daher der Name „Online-Konto“. Ihr Konto wird umgehend eingerichtet, sobald Sie uns Ihr Online-Antragsformular und den erforderlichen Mindestbetrag für die Kontoeröffnung zukommen lassen.<br></p>
+      <p>Wir freuen uns auf eine für beide Seiten vorteilhafte Zusammenarbeit.<br></p>
+      <p>Mit freundlichen Grüßen,<br>
+      Herr West Nobert <br></p>
+    </blockquote>
+  </div>
+</details>
+
+Hömma, hier kommt Hugos Antwort – direkt aus der Werkstatt-Hölle von Wanne-Eickel:
+
+---
+
+**Betreff: AW: Monument Capital Bank - Kontoantrag**
+
+Tach Nobert, alter Finanz-Akrobat!
+
+Boah, ich sach dir, ich blick da gar nicht mehr durch. Diamond, Gold, Advantage... dat is ja komplizierter als ne Motor-Revision am offenen Herzen. Ich bin doch nur ein einfacher Schrauber und kein Professor wie der Dirk!
+
+Eigentlich wollte ich ja dat fette Diamond-Konto nehmen, damit die Millionen direkt auf einmal rüberkommen, aber ich hab gerade richtig Pech. Mein 3er BMW hat mich beim TÜV komplett nackig gemacht. Neue Querlenker, Auspuff und die Bremsen waren auch fällig – über 3000 Euro hab ich in der Werkstatt gelassen, nur damit die Plakette wieder draufkommt!
+
+Jetzt hab ich gerade mal noch 1500 Euro auf Kante liegen. Reicht dat für dat erste Konto, dieses „Plus“-Dingsda? Oder kannste mir als Fast-Verwandter von dem Dr. Scholz vielleicht einen Rabatt geben? Ich muss ja auch noch wat zu beißen haben und die Karre muss ja auch getankt werden, ne?
+
+Schreib mal, ob wir dat mit den 1500 Euro hinkriegen oder ob ich erst bis zum nächsten Ersten warten muss, wenn wieder Kohle kommt.
+
+Glück auf!
+Dein Hugo
+
+
+### Hugo am Limit: Wenn der TÜV dem Scammer die Tour vermasselt
+
+Hugo hat ein Problem, soviele Optionen überfordern ihn, Geld ist auch keines da, da der TÜV für den BMW bissel aus dem Ruder gelaufen ist.
+
+> Tach Nobert, alter Finanz-Akrobat!  
+>   
+> Boah, ich sach dir, ich blick da gar nicht mehr durch. Diamond, Gold, Advantage... dat is ja komplizierter als ne Motor-Revision am offenen Herzen. Ich bin doch nur ein einfacher Schrauber und kein Professor wie der Dirk!  
+>   
+> Eigentlich wollte ich ja dat fette Diamond-Konto nehmen, damit die Millionen direkt auf einmal rüberkommen, aber ich hab gerade richtig Pech. Mein 3er BMW hat mich beim TÜV komplett nackig gemacht. Neue Querlenker, Auspuff und die Bremsen waren auch fällig – über 3000 Euro hab ich in der Werkstatt gelassen, nur damit die Plakette wieder draufkommt!  
+>   
+> Jetzt hab ich gerade mal noch 1500 Euro auf Kante liegen. Reicht dat für dat erste Konto, dieses „Plus“-Dingsda? Oder kannste mir als Fast-Verwandter von dem Dr. vielleicht einen Rabatt geben? Ich muss ja auch noch wat zu beißen haben und die Karre muss ja auch getankt werden, ne?  
+>   
+> Schreib mal, ob wir dat mit den 1500 Euro hinkriegen oder ob ich erst bis zum nächsten Ersten warten muss, wenn wieder Kohle kommt.  
+>   
+> Glück auf!  
+> Dein Hugo  

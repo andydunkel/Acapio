@@ -49,3 +49,17 @@ Was macht man, wenn ein „mächtiger Priester“ per WhatsApp Krankheiten wegza
 > Hugo aus Wanne-Eickel  
 
 **Die Strategie:** Totale Ignoranz gegenüber dem emotionalen Drama. Hugo will keine Wunder, er will wissen, ob der Guru auch den VfL Bochum retten oder die Polizei bei der Vatertagstour wegzaubern kann. Wir warten jetzt gespannt auf die spirituelle Preisliste – denn sobald es um „Gebühren“ geht, lässt der Zauberer meist die Maske fallen.
+
+### Willkommen im Gmail-Tempel (Sprachbarriere inklusive)
+
+Die Antwort des Meisters ist da! Wie erwartet, ignoriert er Hugos Sorgen um den VfL Bochum komplett. Stattdessen gibt es die Standard-Dröhnung aus dem Textbaustein-Baukasten – und plötzlich spricht der Tempel Englisch, während „Helga“ eben noch Deutsch konnte. Klassischer Skript-Fehler im Scammer-Büro.
+
+> You are welcome to my temple where all kinds of problems are solved. You have made the right choice for contacting me and I assure you that I will help you solve whatever problems you are passing through. You have to tell me the exact problem that you are passing through ?  
+>   
+> For quick conversation you can write us on our Whatsapp number @ +14056187570  
+
+Der Kollege liest Hugos Mails gar nicht, sondern will stur das „exakte Problem“ wissen und ihn schnellstmöglich auf WhatsApp ziehen, um den psychologischen Druck zu erhöhen.
+
+**Wie es weitergeht:** Hugo wird ihm jetzt sein „exaktes Problem“ schildern. Und das hat garantiert mit Tuning-Ärger am Dreier-BMW und akuter Ebbe in der Vereinskasse zu tun. Mal sehen, was der Tempel-Meister dafür aufruft.
+
+
