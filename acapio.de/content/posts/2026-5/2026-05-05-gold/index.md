@@ -130,3 +130,44 @@ Hugo ist offiziell verwirrt. Hat die Gold-Prinzessin ein Kurzzeitgedächtnis aus
 
 **Was wir damit bezwecken:**
 Wir spielen den „leicht genervten, aber kaufwilligen“ Kunden. Das setzt die Scammer unter Druck, jetzt endlich Butter bei die Fische (bzw. Gold in die Barren) zu geben. Wenn sie jetzt nicht mit Preisen rausrücken, ist der Bot offiziell kaputt.
+
+
+Und tatsächlich kommt eine "vernünftige" Antwort:
+
+> Lieber Hugo,  
+>   
+> vielen Dank für Ihre Nachricht. Ich entschuldige mich aufrichtig für die entstandene Verwirrung und die Verzögerung in der Kommunikation.  
+>   
+> Nachfolgend finden Sie die Preise für die besprochenen Goldbarren:  
+>   
+> * 10-g-Goldbarren – $1,320  
+> * 20-g-Goldbarren – $2,640  
+>   
+> Unsere Goldprodukte sind von Anlagequalität und werden mit den entsprechenden Dokumenten und Echtheitszertifikaten geliefert.  
+>   
+> Bezüglich einer möglichen Zusammenarbeit richten sich die Konditionen nach der benötigten Menge, dem Lieferort und der bevorzugten Zahlungsmethode. Sobald ich Ihre genauen Anforderungen kenne, sende ich Ihnen gerne alle Details.  
+
+---
+
+### Die „Gier-frisst-Hirn“-Falle
+
+Rechnen wir nach: **1.320 $** entsprechen aktuell ca. **1.215 €**. Da der Marktpreis für 10 g Gold im Mai 2026 aber bei über **1.300 €** liegt, schenkt uns die „Prinzessin“ mal eben 100 € pro Barren.
+
+**Die bittere Realität:** Niemand im Goldgeschäft verkauft unter Weltmarktpreis. Wer solche Rabatte anbietet, liefert am Ende entweder lackiertes Blei oder – noch wahrscheinlicher – gar nichts. Hugo hat den Köder geschluckt, aber wir wissen: Dieses „Schnäppchen“ ist reinster Betrug.
+
+### Die „Proof-of-Life“-Falle
+
+Hugo spielt den vorsichtigen Strategen: Erstmal nur zwei kleine Barren als „Testlauf“, bevor die richtig großen Summen fließen – der ultimative Köder für gierige Scammer. Um die Sache auf die Spitze zu treiben, haben wir nach einem „Beweisfoto“ gefragt: Die Barren zusammen mit Hugos Namen auf einem Zettel. Jetzt muss die „Prinzessin“ zeigen, ob sie wirklich Gold im Safe hat oder nur eine sehr schlechte Photoshop-Lizenz besitzt. Wir sind gespannt, wie sie sich aus dieser Nummer herauswindet!
+
+> Sehr geehrte Frau Aldahab,  
+>   
+> vielen Dank für die Übersicht. Um die Abwicklung und den Versand einmal zu testen, würde ich für den Anfang gerne zwei 10-Gramm-Barren abnehmen. Wenn alles reibungslos klappt, folgt zeitnah ein größerer Auftrag.  
+>   
+> Dazu noch drei kurze Fragen:  
+>   
+> - Wie erfolgt die Bezahlung (Bankverbindung oder anderer Dienstleister)?  
+> - Wie wird der Transport nach Deutschland abgesichert und welcher Kurier wird genutzt?  
+> - Könnten Sie mir vorab ein Foto der beiden Barren schicken, auf dem ein kleiner Zettel mit meinem Namen „Hugo“ liegt? Das gibt mir für die erste Transaktion ein besseres Gefühl.  
+>   
+> Beste Grüße,  
+> Hugo  
