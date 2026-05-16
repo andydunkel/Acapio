@@ -331,3 +331,70 @@ Hugo hat ein Problem, soviele Optionen überfordern ihn, Geld ist auch keines da
 >   
 > Glück auf!  
 > Dein Hugo  
+
+---
+
+## 🇧🇪 Die Maske fällt: Nobert nimmt, was er kriegen kann!
+
+Kaum hört Nobert, dass Hugo wegen des TÜVs nur noch **1.500 €** auf Kante hat, schlägt die nackte Scammer-Gier zu: *„Alles klar, wir nehmen ausnahmsweise auch genau deine 1.500 €!“* (Dass das kleinste Konto eigentlich 999 € gekostet hätte, wird einfach ignoriert – man nimmt halt, was da ist). 😉
+
+**Der absolute Knaller sind aber die Überweisungsdaten:**
+
+* 🌍 **Die Europa-Reise:** Die angebliche Londoner Traditionsbank residiert für die Überweisung plötzlich in **Belgien** (IBAN beginnt mit BE).
+* 🏦 **Die Fake-Bank:** Das Geld geht nicht an die "Monument Capital Bank", sondern an das Online-Fintech **WISE**.
+* 👤 **Wer ist Sissel?** Empfänger ist keine Bank, sondern eine Privatperson namens **„Sissel Johansen“** – ein klassisches "Money Mule"-Konto (Finanzagent) zur Geldwäsche.
+
+**Die Bankverbindung:**
+
+> Name: Sissel Johansen  
+> IBAN: BE28 9057 3186 6320  
+> Swift/BIC: TRWIBEB1XXX  
+> Bank: WISE  
+> Bankadresse: WISE, Rue du Trône 100, 3. Stock, 1050 Brüssel, Belgien.   
+
+**Das Fazit zur Mail:** Spätestens, wenn die Gebühren für ein britisches Millionen-Erbe an eine fremde Privatperson in Belgien gehen sollen, ist das Ding endgültig als plumper Vorschussbetrug entlarvt! 🛑💸
+
+<details class="scam-accordion">
+  <summary>Die komplette E-Mail</summary>
+  <div class="accordion-content">
+    <blockquote>
+      <p>Sehr geehrter Herr Hugo,<br></p>
+      <p>vielen Dank für Ihre Nachricht. Wir verstehen Ihre aktuelle Situation und schätzen Ihre Offenheit bezüglich Ihrer verfügbaren Mittel. Wir wissen, dass die Verwaltung von Finanzen manchmal schwierig sein kann, insbesondere bei unvorhergesehenen Ausgaben, und möchten Ihnen versichern, dass wir Sie in diesem Prozess unterstützen.<br></p>
+      <p>Sie können nun die Option einer Zahlung von 1.500 € zur Aktivierung des Kontos wählen. Dies ist die einzige Zahlung, die Sie zur Abwicklung der Transaktion leisten müssen. Sobald wir die Zahlung erhalten haben, eröffnen wir das Konto auf Ihren Namen und beginnen umgehend mit der Einleitung der Transaktion über 7 Millionen Pfund. Dieser Schritt ist entscheidend für eine effiziente und sichere Abwicklung.<br></p>
+      <p>Die für die Zahlung erforderlichen Bankdaten finden Sie unten. Bitte befolgen Sie die Anweisungen sorgfältig, um Verzögerungen oder Probleme zu vermeiden:<br></p>
+      <p>BANKDATEN FÜR DIE ERFORDERLICHE ZAHLUNG<br></p>
+      <p>Name: Sissel Johansen<br>
+      IBAN: BE28 9057 3186 6320<br>
+      Swift/BIC: TRWIBEB1XXX<br>
+      Bank: WISE<br>
+      Bankadresse: WISE, Rue du Trône 100, 3. Stock, 1050 Brüssel, Belgien.<br></p>
+      <p>Bitte beachten Sie, dass die Überweisung von einem auf Ihren Namen registrierten Konto erfolgen muss. Dies dient der Bestätigung der Rechtmäßigkeit der Transaktion und der korrekten Einrichtung des Kontos auf Ihren Namen, was für einen reibungslosen Ablauf unerlässlich ist.<br></p>
+      <p>Bitte stellen Sie sicher, dass alle Angaben bei der Überweisung korrekt sind und bewahren Sie eine Kopie des Überweisungsbelegs auf. Sobald die Zahlung abgeschlossen ist, senden Sie uns bitte eine Bestätigung, damit wir umgehend die nächsten Schritte einleiten können.<br>
+      Bei Fragen, Unklarheiten oder falls Sie Unterstützung bei der Überweisung benötigen, kontaktieren Sie uns bitte. Unser Team unterstützt Sie während des gesamten Prozesses und sorgt für einen reibungslosen Ablauf.<br></p>
+      <p>Wir danken Ihnen für Ihre zügige Bearbeitung und Ihre Kooperation. Seien Sie versichert, dass dies ein unkomplizierter Schritt ist, der den erfolgreichen Abschluss Ihrer Transaktion ermöglicht. Wir freuen uns auf die Zusammenarbeit und darauf, alles zu Ihrer vollsten Zufriedenheit abzuschließen.<br></p>
+      <p>Vielen Dank nochmals für Ihr Vertrauen.<br>
+      Mit freundlichen Grüßen,<br>
+      Monument Capital Bank,<br>
+      Norbert West. <br></p>
+    </blockquote>
+  </div>
+</details>
+
+### Hugo kriegt die Düse!
+
+Hugo bekommt plötzlich weiche Knie: Nach einem Krisengespräch am Stammtisch des BMW-Clubs dämmert ihm, dass die Nummer gewaltig stinkt. Die Jungs beim Bier waren sich einig, dass die Kombination aus einer Downing-Street-Adresse in London und einem belgischen WISE-Konto auf den Namen „Sissel Johansen“ der absolute Endgegner der Glaubwürdigkeit ist. 
+
+Also schickt unser Lieblings-Schrauber eine panische Mail hinterher und bettelt Nobert um einen moralischen Ehrenschwur an, dass das alles kein fieser Trick ist. Mal sehen, wie der Herr „Bankdirektor“ jetzt versucht, Hugos akuten Kreislaufkollaps und das Misstrauen aus Wanne-Eickel zu kurieren!
+
+> Hömma Nobert,  
+>   
+> ich sach dir ganz ehrlich: Ich hab gerade mächtig Schiss in der Buchse! Ich saß gestern Abend mit den Jungs vom BMW-Club beim Bierchen und hab denen von den 7 Millionen erzählt. Die haben mich alle ausgelacht und gesagt, ich bin voll bescheuert und dat is alles Betrug!  
+>   
+> Mein Kumpel Schorsch meinte direkt: „Hugo, du Vogel, warum sollst du Geld nach Belgien schicken, wenn die Bank in London beim Premier im Büro sitzt?“ Und wer is überhaupt diese Sissel Johansen? Is dat deine Chefin? Meine Jungs meinen, wenn ich die 1.500 Euro jetzt überweise, seh ich die nie wieder. Und ohne die Kohle bin ich echt geliefert, dann kann ich mir den ganzen Monat nur noch Tütensuppe leisten und die Karre steht ohne Sprit in der Garage. 😢  
+>   
+> Du musst mir jetzt mal schwören – so von Kumpel zu Kumpel –, dat dat kein linker Vincent is, den ihr hier abzieht! Warum steht da Belgien bei der IBAN und nicht England? Nicht dat ich zur Sparkasse laufe und die Olle am Schalter mich direkt auslacht.  
+>   
+> Schreib mir mal ganz schnell, dat alles echt is, sonst krieg ich hier echt noch Kreislauf!  
+>   
+> Glück auf,  
+> Hugo  

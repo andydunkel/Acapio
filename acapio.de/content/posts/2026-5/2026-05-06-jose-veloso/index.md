@@ -165,7 +165,35 @@ Hugo jedenfalls ist besorgt und wendet sich flehend an Jose:
 
 > OK mail was in spam folder, but the bank wants much information, i do not have this, i do not want to get in trouble...
 
+---
+
+## Nächste Phase: Jose, der edle Ritter (und die herannahende Rechnung)
+
+Jose hat Wind von den fiesen Fragen der Bank bekommen und wirft sich heldenhaft für uns in die Bresche. Hier das Neueste vom philippinischen Märtyrer:
+
+> Dear friend, I am very glad that the bank has finally responded and I thank you for the immediate update. I want you to understand that everything is working in our favor. My dear friend, the bank demands proof according to the message from the bank, these answers and documents are classified and need to be found, i am willing to take charge but I just need assurance from you that after this, you will not betray me. I will  have to go to the court to seek assistance and process the documents the bank requested from you, it will take me my time and money, but I will try my best. I just hope at the end when you get the money in your account you won't betray me and abscond with it.    
 
 
+* **Der selbstlose Retter:** Weil Hugo verständlicherweise kein philippinisches Firmenzertifikat im Nachttisch liegen hat, will Jose nun ganz allein zum Gericht marschieren, um all die geheimen Dokumente zu besorgen.
+* **Es kostet...**: Er betont ganz beiläufig, dass ihn dieser Behördenmarathon eine Menge *Zeit und Geld* kosten wird. Da hört man die klassische Vorschussbetrug-Falle im Hintergrund schon leise zuschnappen.
+* **Große Verlustängste:** Joses größte Sorge ist jetzt, dass Hugo am Ende mit den 12,5 Millionen Dollar abhaut und ihn im Regen stehen lässt. Er braucht dringend Hugos Ehrenwort!
+
+**Hugos Fazit:**
+Jose bereitet meisterhaft die nächste Stufe vor. Als Nächstes wird er vermutlich ein paar hundert Dollar für „Notargebühren“ oder „Gerichtsstempel“ verlangen, weil sein eigenes Geld gerade knapp ist. Ein herzergreifendes Drama: Das Gesicht eines Forbes-Milliardärs hat panische Angst, von Hugo aus Hamburg gelinkt zu werden.
+
+### Hugo antwortet und macht sich Sorgen!
+
+Hugo zeigt sich kooperativ, aber hat selbst ein wenig die Hosen voll:
+
+> Dear Jose,  
+>   
+> I do not cheat you, I promise! We share 50/50.  
+>   
+> But I am very scared now. The bank asks hard questions. You say keep secret. Is this legal? Will the police come to my house in Germany? I don't want to go to jail.  
+>   
+> Are you 100% sure this is safe for me?  
+>   
+> Bye,  
+> Hugo  
 
 

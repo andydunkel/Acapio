@@ -62,4 +62,21 @@ Der Kollege liest Hugos Mails gar nicht, sondern will stur das „exakte Problem
 
 **Wie es weitergeht:** Hugo wird ihm jetzt sein „exaktes Problem“ schildern. Und das hat garantiert mit Tuning-Ärger am Dreier-BMW und akuter Ebbe in der Vereinskasse zu tun. Mal sehen, was der Tempel-Meister dafür aufruft.
 
+---
+
+## Flexibel im Nebenerwerb: Zauberer oder Kreditinstitut?
+
+Es wird immer besser. Ein Blick auf das offizielle WhatsApp-Profil des Meisters offenbart, dass der „mächtige Priester“ im Hauptberuf offenbar ganz weltliche Brötchen backt.
+
+![Das WhatsApp-Profil der Scammer](/posts/2026-05-14-helga-schultheis/whatsapp.webp)
+
+Statt Voodoo-Puppen, Weihrauch und Altären begrüßt uns unter der angegebenen Nummer eine **„LOAN INVESTMENT COMPANY“** (Kreditinvestment-Firma). Das Profilbild verströmt statt spiritueller Mystik eher den sterilen Charme eines Hotelfloors.
+
+Da haben die Herrschaften im Scammer-Büro wohl schlichtweg vergessen, den WhatsApp-Business-Account für die neue Kampagne umzustellen. Gestern noch Fake-Kredite verticken, heute unheilbare Krankheiten per Chat wegzaubern. Flexibilität muss man ihnen lassen – 24 Stunden geöffnet für den Rundum-Betrug.
+
+> You are welcome to my temple where all kinds of problems are solved. You have made the right choice for contacting me and I assure you that I will help you solve whatever problems you are passing through. You have to tell me the exact problem that you are passing through ?  
+>   
+> For quick conversation you can write us on our Whatsapp number @ +14056187570  
+
+
 

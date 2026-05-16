@@ -393,3 +393,21 @@ Ein herrlicher Schachzug, denn jetzt sitzen die Scammer in ihrer eigenen Logik-F
 > Sobald die 550 Euro wieder auf meinem Konto gelandet sind, schicke ich sie sofort an Precious weiter. Versprochen! Sag ihr, sie soll schon mal den Drucker vorwärmen. 🖨️✨  
 >   
 > Grüße, Hugo  
+
+---
+
+## Der mitfühlende Herr Garry und der mystische „Umkehrzyklus“ 🧘‍♂️⏳
+
+Hach, ist Fred nicht ein Schatz? Der knallharte US-Bankmanager mutiert plötzlich zum einfühlsamen Seelsorger und drückt sein tiefstes Bedauern über Hugos leere Haushaltskasse aus. 🥰 Das Geld hängt nun angeblich im geheimnisvollen „Reversal Cycle“ (zu Deutsch: Die Kohle ist weg, aber wir müssen die Story irgendwie am Leben halten) fest.
+
+Fred beschwört Hugo, sofort nach der vermeintlichen Rückbuchung die Kohle an Precious weiterzuleiten, damit die heißersehnte Gold-Karte endlich gedruckt werden kann. 💳✨ Was Fred nicht ahnt: Auf diese Überweisung kann er bis zum Sankt-Nimmerleins-Tag warten. Hugo hat die Scammer erfolgreich in ihrer eigenen Logik-Sackgasse geparkt! 🔄🍿
+
+> I trust you are well. I completely understand your frustration, and I truly appreciate your patience with this situation.  
+>    
+> At the moment, the funds are still within the banking processing system, which is why you have not received it yet. Once the bank completes the reversal cycle, the full 550 euros should reflect back into your account automatically. These types of reversals can sometimes take a little time depending on the transfer route and the banks involved.  
+>    
+> I understand that this was money you had budgeted carefully, and I sincerely regret the inconvenience this has caused you. The important thing is that the transfer was not lost — it is simply pending return from the bank.  
+>    
+> Once the funds arrive back in your account, you will be able to resend them directly to Precious so the gold card production can move forward immediately without any additional complications.  
+
+*Hugo schreibt kurz und knapp zurück: kein Thema wir warten!*
