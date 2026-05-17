@@ -89,3 +89,53 @@ Wegen der „globalen Wirtschaftskrise“ zeigt sich Mr. Chris spendabel: Die 3.
 
 **Wir lassen und das nicht zweimal sagen und schicken ein paar Fake-Daten!**
 
+---
+
+## Photoshop-Philipp im Auftrag der UN
+
+Die Antwort lässt nicht lange auf sich warten. Jetzt wird es richtig offiziell! Mr. Chris liefert den „ultimativen Beweis“: Ein meisterhaft mit Grafikprogrammen zusammengeschustertes UN-Dokument und das exklusive Foto des legendären Millionen-Koffers.
+
+* **Die UN-Urkunde:** Die Vereinten Nationen höchstselbst führen Hugo offiziell auf einer geheimen Entschädigungsliste – komplett mit rotem Siegel und der „Unterschrift“ von Antonio Guterres.
+* **Die Kiste rollt:** Ein 18 Kilo schwerer Panzerschrank (für den Zoll strategisch als „Familienschatz“ getarnt) ist bereits mit dem Diplomaten *Mr. Johnson Kwame* auf dem Weg.
+* **Die rührende Aufopferung:** Oh Schreck – die einbehaltenen 3.000 Dollar reichten für die Stempelgebühr leider doch nicht aus! Aber Retter Chris hat heldenhaft **650 Dollar aus eigener Tasche** draufgezahlt. Die möchte er nun natürlich umgehend via Vorkasse zurückhaben.
+* **Pssssst!** Hugo darf absolut niemandem von dem Deal erzählen. Offiziell wegen der „Sicherheit“, inoffiziell wohl eher, damit niemand mit gesundem Menschenverstand die Sache stoppt, bevor Chris seine 650 Dollar Taschengeld kassiert.
+
+![Der ultimative Beweis, Safe und Dokument](/posts/2026-05-16-united-bank-for-africa/safe.webp)
+
+Der Safe wirkt auf dem Bild bissel schwerer als 18 kg, aber gut! Hier noch die gesamte E-Mail der Scammer:
+
+<details class="scam-accordion">
+  <summary>1,5 Millionen mit UN-Versand</summary>
+  <div class="accordion-content">
+    <blockquote>
+      <p>UNITED BANK FOR AFRICA - AFRICA'S GLOBAL BANK<br>
+      HERITAGE TOWER  AMBASSADORIAL,<br>
+      RIDGE, ACCRA 12345<br>
+      PHONE: +233 20 849 9967<br>
+      FAX: 234 623 510 08500<br></p>
+      <p>This is to let you know that we are through with the clearance process and your consignment Funds valued the sum of One million four hundred and ninety seven thousand united state dollars ($1.497, 000.00) has been packaged in a consignment box and finally left this country Ghana to be delivered to your received address by MONDAY with the help of UN diplomat staff name by (MR. JOHNSON KWAME).<br></p>
+      <p>Please take note of this important notice, Your Funds were registered with the UN Courier Service as (Family treasure/Gift items) for security reasons, so please don’t ever disclose the real content which is your raw cash to the diplomat.<br></p>
+      <p>Below are the shipment details take note of them:<br></p>
+      <p>TOTAL WEIGHT OF THE BOX= 18KG<br>
+      AIRWAY BILL NO. = 02786209107<br>
+      SHIPMENT: 083 9820917<br></p>
+      <p>Note that the $3, 000, 00 which was deducted from your total Funds to be used for the expenses has been used properly. It was unfortunate that the $3, 000, 00 was not enough to cover the stamp duty fee and we cannot open the luggage again because it has been deposited and sealed under UN Courier Company for delivery and to actualize the delivery, I used my pocket money to pay the sum of $650 for the stamp duty fee, so please remember to send it back to me with anything you wish giving me for my good works for making you receive your payment.<br></p>
+      <p>Furthermore, be informed that delivery will be made to your doorstep; please bear in mind that your valid ID CARD must be presented to the diplomat (Mr. JOHNSON KWAME) on his arrival before the release consignment box will be handed over to you.<br></p>
+      <p>To ensure safety please don’t ever mention this transaction to anybody no matter how close or trusted you think the person might be to you to avoid jeopardizing this transaction  until you have received your consignment box from the diplomat.<br>
+      Finally attached to this mail is your diplomatic consignment box. <br></p>
+      <p>Mr. Chris<br>
+      Director cash processing unit<br></p>
+    </blockquote>
+  </div>
+</details>
+
+### Hugo steht in den Startlöchern
+
+Die Neugier war einfach zu groß: Hugo hat dem gütigen Mr. Chris prompt geantwortet und ganz unschuldig nach den nächsten Schritten gefragt. Der rote Teppich für den Diplomaten Mr. Johnson Kwame ist praktisch schon ausgerollt – jetzt bleibt eigentlich nur noch die spannende Frage, an welchem virtuellen Flughafen der Panzerschrank als Nächstes steckenbleibt und wann die unvermeidliche Geldforderung eintrudelt.
+
+> Hello Mr. Chris,  
+> Thank you for the email and the pictures. The box looks very big and beautiful!  
+> I am very happy that Mr. Johnson Kwame is coming on Monday.    
+> What exactly do I need to do now? Please tell me the next steps so I can get the box.  
+> Best regards,  
+> Hugo  
