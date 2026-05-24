@@ -139,3 +139,33 @@ Die Neugier war einfach zu groß: Hugo hat dem gütigen Mr. Chris prompt geantwo
 > What exactly do I need to do now? Please tell me the next steps so I can get the box.  
 > Best regards,  
 > Hugo  
+
+---
+
+## Der Diplomat am Flughafen – aber wo ist der Schlüssel?
+
+Es läuft wie am Schnürchen: Prompt meldet sich **Agent Johnson Kwame** höchstpersönlich aus dem fiktiven Hauptquartier am Hamburger Flughafen. Er hat die 18 Kilo schwere Kiste dank seiner „diplomatischen Immunität“ sicher durch den Zoll gebracht. Doch oh Schreck – es gibt ein bürokratisches Drama epischen Ausmaßes.
+
+<details class="scam-accordion">
+  <summary>Unser Paket ist unterwegs!</summary>
+  <div class="accordion-content">
+    <blockquote>
+      <p>Good day, my name is AGENT JOHNSON  KWAME, a courier diplomat from UN DIPLOMATIC SERVICE Ghana, there is a diplomatic baggage with Airway Bills Nos. = 02786209107 and shipment #: 083 9820917 respectively containing Family Treasure / gift items I accompanied with my diplomatic immunity to be delivered to you, I email to let you know that I have arrived safely in our Headquarters here in ( Hamburg  International Airport) for immediate delivery of your consignment box to your provided address.<br></p>
+      <p>Our Inspection manager has verified and found out that the sender MR. CHRIS OFIKULU, have not send the key of your consignment box to you and as the rule of the UN DIPLOMATIC SERVICE, stands that you must have the key before my arrival, because you must open the box and inspect it and sign the necessary release order before I will release the consignment box to you.<br></p>
+      <p>Kindly contact the sender MR. CHRIS OFIKULU of U.B.A Ghana through his mail or phone so that he will send the keys to you today, please call him and make sure you have the key today so that I will finish the delivery to you because i cannot deliver your consignment box until I confirm that you have the keys at hand.<br></p>
+      <p>The modality of our operation stands that you must have the keys to inspect the box and sign our attestation booklet that you receive the consignment with its completion and in good condition, so quickly contact the sender and let us know when you are with the keys as to affect the delivery immediately, your box is now in Airport of (Hamburg  International Airport) because of this reason given to you above.<br></p>
+      <p>IT IS MY DUTY TO TAKE GOOD CARE OF YOUR BOX UNTIL THE FINAL DESTINATION ONCE THE KEY HAS BEEN SENT.<br></p>
+      <p>BEST REGARDS,<br>
+      AGENT JOHNSON KWAME.<br>
+      UN DIPLOMATIC AGENT<br></p>
+    </blockquote>
+  </div>
+</details>
+
+Die Highlights der neuen Nachricht:
+
+* **Das Schlüssel-Dilemma:** Mr. Chris hat in seiner unendlichen Weisheit vergessen, den Schlüssel für das Schloss mitzuschicken! Ohne Schlüssel darf Agent Kwame das Paket laut UN-Statuten aber auf keinen Fall ausliefern.
+* **Die Logik-Akrobatik:** Hugo soll den Schlüssel jetzt *heute noch* anfordern, damit Kwame die Kiste übergeben kann. Wie der physische Schlüssel innerhalb weniger Stunden von Ghana nach Hamburg kommen soll, bleibt das exklusive Geheimnis der Scammer-IT.
+* **Die Vorbereitung für den Kassensturz:** Dass der Schlüssel fehlt, ist die perfekte Überleitung. Wenn Hugo jetzt bei Mr. Chris nachfragt, wird der Schlüssel ganz bestimmt „sofort per Express“ verschickt – sobald Hugo die vorhin erwähnten 650 Dollar Stempelgebühr (oder eine neue „Schlüssel-Zoll-Gebühr“) bezahlt hat.
+
+**Gut dann schreiben wir dem Chris mal von dem Missgeschick!**

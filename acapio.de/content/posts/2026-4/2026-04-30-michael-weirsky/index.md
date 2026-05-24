@@ -411,3 +411,24 @@ Fred beschwört Hugo, sofort nach der vermeintlichen Rückbuchung die Kohle an P
 > Once the funds arrive back in your account, you will be able to resend them directly to Precious so the gold card production can move forward immediately without any additional complications.  
 
 *Hugo schreibt kurz und knapp zurück: kein Thema wir warten!*
+
+---
+
+## Das nächste "Opfer" geht in den Streik: Seminar-Urlaub für Precious! 🎓🎒
+
+Es wird immer besser! Kaum hat Hugo die Scammer mit seiner leeren Kasse vertröstet, brennt im Berliner Betrugs-Büro schon wieder die nächste Hütte. 🔥 Jetzt muss auch **Precious Okuomose** ganz plötzlich die Segel streichen. Sie besuche angeblich ein „Arbeitsseminar“ (vielleicht ein Fortbildungskurs für fortgeschrittene Geldwäsche? 🤓).
+
+Deshalb der eilige Befehl von Fred: Bloß kein Geld mehr an Precious schicken! Sobald Hugos 550 € aus dem mystischen Banken-Nirwana zurück sind, will Fred direkt die **dritten** Kontodaten aus dem Hut zaubern. 🎩✨
+
+> Dear Hugo  
+>    
+> I trust you are well. I wanted to inform you that Precious Okuomose will be attending a work seminar, so please do not send any payment to Precious account details for now. There could be delays in processing or confirming the transfer while Precious is away.  
+> Once the 550 EUR is reversed, kindly let me know so i can send you the updated account details so the transaction can be completed smoothly.  
+>    
+> Thank you again for your understanding and cooperation.  
+>    
+> We await your email soonest.  
+>    
+> Thank you for Banking with us.  
+    
+**Das Fazit:** Hugos gefälschter Überweisungsbeleg mit dem bösen Wort „Lottery“ hat das System der Scammer komplett lahmgelegt. Ein Konto nach dem anderen fliegt ihnen um die Ohren, während unser Hugo tiefenentspannt auf sein virtuelles Geld wartet. 🍿🔄

@@ -196,4 +196,56 @@ Hugo zeigt sich kooperativ, aber hat selbst ein wenig die Hosen voll:
 > Bye,  
 > Hugo  
 
+---
 
+## Jose, der Zeitreisende aus Ghana
+
+Jose ignoriert Hugos Ängste komplett und fährt die dicken Photoshop-Geschütze auf. Er behauptet, er hätte mal eben **3.700 Dollar** eigene Gebühren ausgelegt (der psychologische Druck für die spätere Rechnung steht also). Zum Beweis schickt er uns Dokumente, die reines Comedy-Gold sind:
+
+* **Die Sterbeurkunde aus der Zukunft:** Onkel Gentian Scholz starb angeblich 2015. Das Ausstellungsdatum der Urkunde? Der **18. Mai 2026**! Die philippinischen Behörden arbeiten also mit echter Quantentechnologie.
+* **Die Geografie-Schwäche:** Onkels Firma wurde laut Urkunde in **Victoriaborg, Manila** registriert. Dumm nur, dass Victoriaborg in **Ghana (Afrika)** liegt. Da ist dem Scammer wohl das falsche Text-Template in den Photoshop gerutscht.
+* **Der Mal-Kurs:** Als Bonus gab es ein Foto der Bank mit einem so schief eingefügten „Forbes 2026“-Schriftzug, dass es wehtut.
+
+**Plan für Hugo:** Er soll diesen ganzen Haufen Grafik-Unfälle nun zusammen mit seinem echten Ausweis an die hochseriöse AOL-Adresse der Bank schicken. Wir polieren schon mal die Tastatur für die nächste Runde!
+
+<details class="scam-accordion">
+  <summary>E-Mail mit Daten für die Bank</summary>
+  <div class="accordion-content">
+    <blockquote>
+      <p>The Head Legal dept. Risk management<br>
+      And credit administration<br>
+      Philippine National Bank Ltd.<br></p>
+      <p>DEAR MR. FRANCIS B. ALBALATE<br></p>
+      <p>I write to confirm that I received your letter. Firstly I am pleased the bank management has responded positively and confirmed the rightful beneficiary to the account. Secondly, I have studied the requirements of your department, and I am in agreement with the bank's requirements. I have listed below to my understanding of the questionnaire and the answers are as follows below; also see the attachment files, the two documents required. Thanks for your cooperation, please.<br></p>
+      <p>Answers to Questions numbers: 1, 2, 3, 4, 5, 6, to 9 are provided below. And the item attached.<br></p>
+      <p>I wish to inform you that you are required to contact the bank with the required answers as shown below:<br></p>
+      <p>1. STATE CLEARLY HIS FULL NAMES WITH US IN OUR DATABASE<br>
+      ANSWER: MR. GENTIAN ARBEN *.<br></p>
+      <p>2. STATE HIS NATIONALITY<br>
+      ANSWER: GERMANY.<br></p>
+      <p>3. WHAT IS THE MOTHER'S MAIDEN NAME OF LATE MR. GENTIAN *.<br>
+      ANSWER: MARIANNE *.<br></p>
+      <p>4. HOW OLD WAS LATE MR. GENTIAN *  IN THE YEAR OF THE DEPOSIT WAS MADE.<br>
+      ANSWER: HE WAS 54 YEARS OLD<br></p>
+      <p>5. STATE THE COMPANY NAME OF LATE MR. GENTIAN *.<br>
+      ANSWER: ORACLE CONSULTING INC. PHILIPPINES<br></p>
+      <p>6. STATE TO US THE SECRET CODE OF THE DEPOSIT<br>
+      ANSWER:  STANDARD GOLDEN TRUST ACCOUNT.<br></p>
+      <p>7. PRODUCE A SCAN COPY OF HIS COMPANY CERTIFICATE OF INC. HERE IN PHILIPPINES, THE DEPOSIT VOUCHER OF THE FUND AND DEATH CERTIFICATE.<br></p>
+      <p>ANSWER: ATTACHED<br></p>
+      <p>8. STATE TO US THE SOURCE OF THE AMOUNT IN SAID. ($12,500,000.00)<br>
+      ANSWER: THE SOURCE OF THE MONEY IS THE 01% PERCENT INTEREST HE RECEIVES FROM CONTRACT AWARD FROM THE PHILIPPINES GOVERNMENT.<br></p>
+      <p>9. STATE CLEARLY HIS CURRENT RESIDENTIAL ADDRESS HERE IN PHILIPPINES BEFORE HIS DEATH<br>
+      ANSWER: PLOT 1604, PASIG AVENUE, PASIG CITY, MANILA PHILIPPINES<br></p>
+      <p>10. MY INTERNATIONAL PASSPORT:<br>
+        ATTACHED<br></p>
+      <p>YOURS SINCERELY,<br>
+      HUGO *.<br></p>
+    </blockquote>
+  </div>
+</details>
+
+
+![Die angeblichen Urkungen](/posts/2026-05-06-jose-veloso/dokument_1.webp)
+
+![Beleg über das Geld](/posts/2026-05-06-jose-veloso/dokument_2.webp)
