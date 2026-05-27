@@ -432,3 +432,31 @@ Deshalb der eilige Befehl von Fred: Bloß kein Geld mehr an Precious schicken! S
 > Thank you for Banking with us.  
     
 **Das Fazit:** Hugos gefälschter Überweisungsbeleg mit dem bösen Wort „Lottery“ hat das System der Scammer komplett lahmgelegt. Ein Konto nach dem anderen fliegt ihnen um die Ohren, während unser Hugo tiefenentspannt auf sein virtuelles Geld wartet. 🍿🔄
+
+---
+
+## Konten-Karussell Runde 3: Locky aus München übernimmt! 🎡🥨
+
+Fred Garry präsentiert das nächste Kaninchen aus dem Hut: Da Hugo sein Geld ja angeblich „schon zurück hat“, soll er die 550 € nun an einen gewissen **„Locky Ehiken“** überweisen. 💸
+
+> I trust my email find you well. I am glad you received back the money. To ensure smooth and immediate processing of the payment, kindly use the updated banking details provided below for the payment of 550 EUR. For banking and compliance purpose, please indicate the purpose of payment as Family Support.  
+>    
+> BANKINK DETAILS:   
+>    
+> Name: Locky Ehiken   
+> IBAN  
+> DE85202208000029277896  
+> Bank name  
+> BANKING CIRCLE S.A.  
+> Bank address  
+> Maximilianstr 54, Muenchen, Germany  
+> BIC  
+> SXPYDEHHXXX  
+> Purpose of payment: Family Support  
+> Amount: 550 EUR  
+
+Diesmal geht die Reise nach München zur *Banking Circle S.A.* in die noble Maximilianstraße. 🏛️ Fred fleht Hugo im Text regelrecht an, wegen der „Compliance“ diesmal *wirklich* den Betreff **„Family Support“** zu nutzen. Bloß kein „Lottery“ mehr, sonst muss Locky wohl auch ganz schnell auf ein Seminar flüchten! 🤫🚩
+
+Hugo macht die Überweisung fertig, natürlich, schusselig wie er ist, schreibt er "**Pacific Premier Bank Fee**" in den Betreff. Hoffentlich geht da nichts schief! 😁
+
+

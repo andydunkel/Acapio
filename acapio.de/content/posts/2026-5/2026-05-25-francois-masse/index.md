@@ -88,3 +88,13 @@ Sobald diese Gebühr bezahlt ist, bricht der Kontakt ab – und die einzige Spen
 ---
 
 **Wir gehen zum Schein drauf ein und schicken ein paar Fake-Daten!**
+
+## 🚀 Die Maske fällt
+
+Wer die Daten abschickt, wird ohne jede Romantik direkt zur Kasse gebeten: *„Sie müssen den Betrag von 670 Euro überweisen, bevor Sie Ihr Geld erhalten können.“* Da ist er, der Vorschussbetrug in seiner reinsten Form – ohne Ausreden über Steuern oder Notare, dafür aber mit einem erstaunlichen Bedarf an Euro für einen kanadischen Dollar-Millionär. 
+
+> Sie müssen den Betrag von 670 Euro überweisen, bevor Sie Ihr Geld erhalten können.  
+
+Wer diese 670 Euro abschickt, investiert garantiert nur in ein einziges Projekt: die Altersvorsorge der Scammer. 📉💸 Da bisher keine Bankverbindung mitgekommen ist, haken wir mal nach:
+
+> ok? das ist für mich viel geld, wie soll ich das denn überweisen?  

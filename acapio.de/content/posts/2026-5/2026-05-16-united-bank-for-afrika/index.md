@@ -169,3 +169,51 @@ Die Highlights der neuen Nachricht:
 * **Die Vorbereitung für den Kassensturz:** Dass der Schlüssel fehlt, ist die perfekte Überleitung. Wenn Hugo jetzt bei Mr. Chris nachfragt, wird der Schlüssel ganz bestimmt „sofort per Express“ verschickt – sobald Hugo die vorhin erwähnten 650 Dollar Stempelgebühr (oder eine neue „Schlüssel-Zoll-Gebühr“) bezahlt hat.
 
 **Gut dann schreiben wir dem Chris mal von dem Missgeschick!**
+
+---
+
+## Der 150-Dollar-Schlüssel zur Millionenbox
+
+Da haben wir es ja! Wie erwartet: Das Drehbuch der Scammer ist so vorhersehbar wie eine Daily Soap. Kaum steht der Diplomat ohne Schlüssel am Hamburger Flughafen, folgt prompt die logische Konsequenz: Mr. Chris ist pleite und braucht frisches Kapital.
+
+<details class="scam-accordion">
+  <summary>Der Schlüssel kommt mit Kurierdienst</summary>
+  <div class="accordion-content">
+    <blockquote>
+      <p>UNITED BANK FOR AFRICA - AFRICA'S GLOBAL BANK<br>
+      HERITAGE TOWER AMBASSADORIAL ,RIDGE ,ACCRA 12345 <br></p>
+      <p>PHONE: +233 020 849 9967<br></p>
+      <p>FAX: 233 623 610 0850<br></p>
+      <p>I just check with UN overnight speed courier Service company and they said that to send the key expressly to your home address will cost the sum of $150, and the problem is that I don’t have extra money to send the key, because the $650 I assisted to get the stamp duty was the only money in my hands, which I was hoping that as soon as you receive your package that you will send it back with anything you wish giving me.<br></p>
+      <p>For security reasons we could not give the diplomat the key together with your consignment box to avoid him opening the luggage and finding out that it contains money, which he may divert the package for his personal interest.<br></p>
+      <p>I was hoping to send the key separately to you through UN overnight speed courier Service from the total $3,000.00 which was deducted from your total fund, but after taking care of tax fee, delivery fee, and insurance fee, etc. there was no extra money to take care of sending the key separately to you, even I paid the sum of $650 for the stamp duty fee from my pocket and now I don't have any extra money with me.<br></p>
+      <p>Since the diplomat agent with your luggage is already in your country, kindly send the $150, so that I will send the key through overnight UN courier service to enable the diplomat agent to complete the delivery to you.<br></p>
+      <p>Kindly get back to me on the preferable way you can send the $150 for urgent delivery of your consignment box key that is holding the delivery of your fund.<br></p>
+      <p>Director cash processing unit<br>
+      United bank for Africa. (U.B.A).<br></p>
+    </blockquote>
+  </div>
+</details>
+
+Die absolut „wasserdichten“ Argumente aus der Chefetage der UBA:
+
+* **Die Sicherheits-Ausrede:** Der Diplomat durfte den Schlüssel natürlich auf keinen Fall zusammen mit der Kiste bekommen. Warum? Weil er sonst den Panzerschrank knackt, die 1,5 Millionen Dollar sieht und sich damit sofort in die Karibik absetzt. Dem eigenen UN-Personal vertraut man eben nur so weit, wie man den Koffer werfen kann.
+* **Das leere Portemonnaie:** Nachdem Chris schon heldenhaft 650 Dollar aus eigener Tasche für den Stempel geopfert hat, herrscht bei ihm akute Ebbe im Beutel.
+* **Die neue Forderung:** Hugo soll jetzt mal eben **150 Dollar** per Express-Dienst rüberschicken, damit der Schlüssel per „UN Overnight Speed Courier“ nachgesendet werden kann.
+
+### Hugo kratzt die Kohle zusammen
+
+Da der gütige Mr. Chris finanziell völlig am Ende ist, muss Hugo wohl oder übel in die Bresche springen. Nach der letzten, völlig aus dem Ruder gelaufenen Party im Vereinsheim ist Hugos Kasse zwar eigentlich leer, aber für den Millionen-Schlüssel werden jetzt eben die letzten Euro aus der Sparbüchse gekratzt. 
+
+> Hello Mr. Chris,  
+>   
+> Oh no, this is bad luck with the key! But I understand, we cannot trust the diplomat with it.  
+>   
+> I am also a bit short on money right now because we had a very big and expensive party at my local club (Vereinsheim) last weekend. But I really want my box! I went to my bedroom and checked my money box. I can scrape together the 150 Euros for the speed courier.  
+>   
+> Please tell me exactly how I can send you the money today. Do you have a bank account, or how should I pay you?  
+>   
+> Best regards,  
+> Hugo  
+
+In einer feuchtfröhlichen Mail hat Hugo dem UBA-Direktor nun versichert, dass das Geld bereitliegt – und ganz unschuldig nach den Zahlungsdetails gefragt.

@@ -238,4 +238,26 @@ Nachdem wir die skurrilen Sorgenbekundungen über Hugos Gesundheit charmant igno
 
 Doch wir machen es ihnen nicht zu leicht. Statt auf die windigen Angebote mit Krypto oder Geschenkkarten einzugehen, fordern wir ganz altmodisch eine klassische **Bankverbindung**.
 
+---
+
+## Die Preisschraube dreht sich – und Hugo soll nach Dubai?
+
+Jetzt wird es vogelwild. Kostete ein Barren eben noch **1.320 $**, verlangt die „Prinzessin“ für zwei Stück plötzlich **2.900 $**. Ein spontaner Aufschlag von 260 Dollar – der Goldkurs im Callcenter würfelt offenbar im Minutentakt. Weil das mit der Bankverbindung nicht klappt, flüchten sich die Scammer in eine dreiste Vorwärtsstrategie und bieten plötzlich **Selbstabholung** an. 
+
+> Der Preis für die beiden 10-Gramm-Goldplättchen beträgt $2,900 dollar. Bitte teilen Sie mir mit, ob Sie sie selbst abholen werden, damit ich Ihnen meine Adresse zukommen lassen kann.  
+
+Sie hoffen vermutlich, dass Hugo kneift und freiwillig nach Krypto bettelt. Tja, falsch gedacht!
+
+### Hugo stellt die Standortfrage
+
+Hugo mimt den skeptischen deutschen Kunden und weigert sich verständlicherweise, für zwei winzige Barren unvorbereitet in den Flieger zu steigen.
+
+> Hallo Amira,  
+>   
+> jetzt bin ich doch sehr irritiert. Erstens ist der Preis für zwei Barren plötzlich teurer geworden als in Ihrer letzten Mail angegeben, und zweitens: Wo genau soll ich die Ware denn überhaupt abholen?  
+>   
+> Ich sitze in Deutschland – eine Selbstabholung wäre für mich mit einem enormen Aufwand und Reisekosten verbunden. Das steht bei zwei kleinen Barren in keinem Verhältnis.  
+>   
+> Bitte teilen Sie mir erst einmal mit, in welcher Stadt und in welchem Land sich Ihr Büro überhaupt befindet. Eigentlich war ja abgemacht, dass die Lieferung sicher per DHL oder FedEx zu mir nach Hause kommt.  
+
 
