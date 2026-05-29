@@ -98,3 +98,16 @@ Wer die Daten abschickt, wird ohne jede Romantik direkt zur Kasse gebeten: *„S
 Wer diese 670 Euro abschickt, investiert garantiert nur in ein einziges Projekt: die Altersvorsorge der Scammer. 📉💸 Da bisher keine Bankverbindung mitgekommen ist, haken wir mal nach:
 
 > ok? das ist für mich viel geld, wie soll ich das denn überweisen?  
+
+Jetzt wollen sie also das Komplettpaket. Da die 670 Euro wohl nicht sofort flossen, wird jetzt noch schnell der Personalausweis für den nächsten
+
+
+### 🪪 Der Ausweis muss her
+
+Weil das Geld scheinbar nicht schnell genug fließt, legt der „Lottomillionär“ direkt nach und fordert eine Kopie des Personalausweises. 
+
+> Bitte senden Sie uns eine Kopie Ihres Personalausweises, damit wir das Verfahren fortsetzen können.
+
+Perfekt, denn wer den Scammern nicht nur seine Daten und sein Geld, sondern auch noch sein Ausweisdokument schenkt, spart den Betrügern beim nächsten Identitätsdiebstahl richtig viel Arbeit. Praktischerweise können sie mit dem echten Dokument dann im Namen des Opfers die nächsten Opfer abzocken. 🎭📉
+
+Wir schicken unser [bekanntes Bundeshuhn](/posts/2026-04-11-vorladung/?query=bundeshuhn#phase-3-die-falle-schnappt-zu--verzweiflung-und-identit%C3%A4tsdiebstahl)

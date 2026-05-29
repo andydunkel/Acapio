@@ -290,3 +290,29 @@ Hugo schiebt jetzt ganz offiziell Urlaubs- und Flugangst vor und hat Jose völli
 > The bank answered me! They say I must fly to Manilaa on Monday, June 1st at 13:30 to talk to the High Court and sign papers.  
 > But I cannot do this! I am too scared, I have no money for a plane ticket, and I cannot leave my house.  
 > The bank said I can hire a lawyer named Enriquea Fernando. Do you know him? Is he safe? Please help me, I don't know what to do!  
+
+
+## Veloso macht Druck!
+
+Jetzt gewinnnt die Geschichte an Fahrt, Jose macht Druck, wir sollen uns an die Botschaft wenden wegen Visum. 
+
+> Please urgently contact the Manila Philippine High Commission (Embassy) in your country as soon as possible today and find out the maximum time for processing Visa to Manila Philippine to enable you to know if you can visit my Country Philippine within the given time frame. But I deem it very wise to let you know that in an event that you cannot defend yourself properly in the Court, or you cannot visit Philippine within the given time, I will solicit your understanding towards appointing the recommended attorneys in the approval notice to you by the bank who can as well help you in the oath Affidavit swearing to avert any form of controversial question beyond your capability to answer.  
+
+Gut kalkutliert, durch die knappe Frist, wird es wohl nicht klappen, daher der subtile Hinweis auf den Anwalt. Da wir einen Tag nicht antworten geht es weiter:
+
+> Hello, what is your plan now?
+
+Gefolgt vom Vorwurf, dass uns die Sache nicht erst genug sei:
+
+> My dear friend, you seem not to be interested or serious with this deal. Why does it take you so long to reply?
+
+### Wir telefonieren mit der Botschaft!
+
+Also schalten wir auch einen Gang zu, wir geben vor mit der Botschaft telefoniert zu haben, die uns darauf hinweist, dass das Ganze eher Internetbetrug sei. Dies schreiben wir unserem Veloso.
+
+> Hey Jose,  
+>   
+> i phoned with the embassy in berlin yesterday, the told me that this is scam and i should not travel to the country. i am confused right now, they said you just want money and this is fraud!  
+>   
+> hugo  
+

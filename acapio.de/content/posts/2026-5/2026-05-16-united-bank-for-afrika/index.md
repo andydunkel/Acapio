@@ -217,3 +217,32 @@ Da der gütige Mr. Chris finanziell völlig am Ende ist, muss Hugo wohl oder üb
 > Hugo  
 
 In einer feuchtfröhlichen Mail hat Hugo dem UBA-Direktor nun versichert, dass das Geld bereitliegt – und ganz unschuldig nach den Zahlungsdetails gefragt.
+
+## Die UN nimmt auch Gutscheinkarten
+
+Vergessen Sie klassische Banken – die UN und die United Bank for Africa gehen mit der Zeit! Um den Schlüssel-Versand zu beschleunigen, verlangen die Scammer plötzlich eine Zahlung per Bitcoin, USDT oder – kein Witz – als simple Geschenkkarte im Wert von 150 Dollar. Ein Blick auf die mitgeschickte Bitcoin-Adresse [bc1q6fkx652fhp30rv792ffgzgrw4zcq80d0xhh59z](https://www.google.com/search?q=https://www.blockchain.com/explorer/addresses/btc/bc1q6fkx652fhp30rv792ffgzgrw4zcq80d0xhh59z) zeigt im Blockchain-Explorer: Die Masche zieht leider. Zwei Transaktionen gab es dort bereits, bei denen insgesamt rund 118 US-Dollar über den virtuellen Tresen wanderten. 
+
+> You can send the $150 via the USDT or Bitcoin wallet below, or alternatively send a gift card to the equivalent value of $150 if you’d like the process to move along more quickly. Once payment has been received, we’ll arrange for the KEY to be dispatched through diplomatic channels, with delivery expected within 24 hours.  
+>   
+> TRC20  Network  
+> TUprE6RJj7rshfJKDeMTRUMSghMRDkR2BW  
+>   
+> Bitcoin  Wallet  
+> bc1q6fkx652fhp30rv792ffgzgrw4zcq80d0xhh59z  
+
+Das Wallet ist aktuell zwar wieder leergeräumt, aber es beweist, dass immer wieder ahnungslose Opfer auf den faulen Zauber hereinfallen.
+
+### Shell-Gutscheine für den BMW-Sprit
+
+Bitcoin? Für Hugo ein Phänomen, das man höchstens mal im Fernsehen sieht, aber von dem man als bodenständiger Autofreund lieber die Finger lässt. Da Mr. Chris aber praktischerweise auch Gutscheinkarten akzeptiert, hat Hugo direkt sein Portemonnaie gezückt: Zwei ungenutzte Shell-Gutscheine im Wert von 150 Euro, eigentlich gedacht für den Tank seines geliebten BMWs, liegen noch von der letzten Feier bereit. 
+
+> Hello Mr. Chris,  
+>   
+> I read your email but I don't understand this Bitcoin or USDT. I only saw Bitcoin on television, but I am just a normal car fan and I don't know how to buy this internet money. It looks too complicated for me.  
+>   
+> But you said gift cards are also okay! I looked into my wallet. From my last birthday, I still have two gift cards from the Shell gas station because of my BMW. They have 150 Euros on them in total.  
+>   
+> Can I send you the codes from the Shell cards so you can buy fuel or send the key? Or what other card do you want me to buy at the gas station?  
+>   
+> Best regards,  
+> Hugo  
