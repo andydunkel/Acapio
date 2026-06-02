@@ -111,3 +111,13 @@ Weil das Geld scheinbar nicht schnell genug fließt, legt der „Lottomillionär
 Perfekt, denn wer den Scammern nicht nur seine Daten und sein Geld, sondern auch noch sein Ausweisdokument schenkt, spart den Betrügern beim nächsten Identitätsdiebstahl richtig viel Arbeit. Praktischerweise können sie mit dem echten Dokument dann im Namen des Opfers die nächsten Opfer abzocken. 🎭📉
 
 Wir schicken unser [bekanntes Bundeshuhn](/posts/2026-04-11-vorladung/?query=bundeshuhn#phase-3-die-falle-schnappt-zu--verzweiflung-und-identit%C3%A4tsdiebstahl)
+
+----
+
+## 🛒 Update: Apple-Aktien auf Rekordhoch
+
+Jetzt wird der Ton dringlich: Die 670 Euro sollen bitte „umgehend“ als Apple-Geschenkkarte aus der nächsten Postfiliale geschickt werden. Ein genialer Schachzug des kanadischen Lottokönigs, der seine 3-Millionen-Spenden offensichtlich bevorzugt in iCloud-Speicherplätzen und Gaming-Abos auszahlt. Wer den Code übermittelt, sieht weder sein Geld noch die Millionen wieder – hat aber immerhin das gute Gefühl, das digitale Sparschwein der Scammer gefüttert zu haben. 📉💸
+
+> Kaufen Sie jetzt eine Apple-Geschenkkarte im Wert von 670 Euro und senden Sie sie umgehend ab. Sie können die Karte in jeder Postfiliale abholen.  
+
+Hugo schreibt lapidar zurück: "*Soviel Geld habe ich nicht!*"

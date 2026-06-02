@@ -246,3 +246,18 @@ Bitcoin? Für Hugo ein Phänomen, das man höchstens mal im Fernsehen sieht, abe
 >   
 > Best regards,  
 > Hugo  
+
+---
+
+## Die UN mutiert zur Gaming-Zentrale
+
+Mit den edlen Shell-Gutscheinen für Hugos BMW kann Mr. Chris leider überhaupt nichts anfangen – im Fuhrpark der United Bank for Africa tankt man wohl woanders. Stattdessen mutiert die UN plötzlich zur absoluten Zocker-Bude: Hugo soll die 150 Euro jetzt gefälligst als **Razer Gold** oder **Steam-Geschenkkarte** rüberschieben! Man sieht den UN-Generalsekretär förmlich vor dem PC sitzen, wie er mit Hugos Gebühren das nächste Level in *Counter-Strike* freischaltet, während er parallel mit fiesen „Lagergebühren“ am Hamburger Flughafen droht.
+
+> This is a reminder regarding your consignment box currently being held at the UN outlet in your country. The box is awaiting the required key before final delivery can be made to your nominated home address.  
+> We are still awaiting payment of €150 for the express delivery of your box. Alternatively, you may provide a Razer Gold gift card or a Steam gift card to the equivalent value.  
+> This also serves as a reminder of our previous correspondence, as we would like to avoid any additional demurrage or storage charges being incurred.  
+> We look forward to your prompt response.  
+> Kind regards,  
+> Mr. Chris  
+
+Hugo fragt nur kurz zurück: "*What is a razer card?*"
