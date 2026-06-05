@@ -260,4 +260,52 @@ Hugo mimt den skeptischen deutschen Kunden und weigert sich verständlicherweise
 >   
 > Bitte teilen Sie mir erst einmal mit, in welcher Stadt und in welchem Land sich Ihr Büro überhaupt befindet. Eigentlich war ja abgemacht, dass die Lieferung sicher per DHL oder FedEx zu mir nach Hause kommt.  
 
+Da haben wir es schwarz auf weiß! Die Einladung zur „Selbstabholung“ war – wie erwartet – nur ein billiger Bluff, um Druck aufzubauen. Sobald Hugo skeptisch wird, rudern die Scammer sofort zurück und wollen nur noch eins: Krypto oder Gutscheine.
+
+---
+
+## Maskenball vorbei: Her mit den Bitcoins!
+
+Das ging schnell. Die große Story von der „Selbstabholung“ ist plötzlich wie weggeblasen. Keine Adresse, kein Büro, keine Prinzessin. Stattdessen zieht der Scammer eiskalt die Reißleine und fordert das, worum es von Anfang an ging: **Bitcoin oder Geschenkkarten**.
+
+Um dem Ganzen die Krone aufzusetzen, haben die Betrüger uns sogar direkt ihre Bitcoin-Wallet-Adresse mitgeschickt: `1NJgiYyLCCDqW7qPCsap7fd99Ya8tpFSRC`.
+
+Ein schneller Blick in den [Blockchain Explorer](https://www.blockchain.com/explorer/addresses/btc/1NJgiYyLCCDqW7qPCsap7fd99Ya8tpFSRC) verrät uns allerdings, dass das internationale „Gold-Imperium“ hier mit extremen Summen hantiert:
+
+* **Transaktionen:** 39
+* **Gesamteinnahmen:** Atemberaubende 0,0076 BTC – was umgerechnet gerade einmal mickrigen **470,88 Dollar** entspricht.
+* **Aktuelles Guthaben:** 0,00 $ (Die Beute wird also sofort weitergeleitet).
+
+Für eine weltweit bekannte „Gold-Prinzessin“ ist das ein ziemlich trauriges Ergebnis. Das ist kein Großkonzern, das ist die Portokasse eines kleinen Online-Betrügers. Spätestens mit den geforderten „Geschenkkarten“ ist die Nummer endgültig im kriminellen Kindergarten angekommen.
+
+> vielen Dank für Ihr Interesse. Wir akzeptieren derzeit Zahlungen per Bitcoin-Überweisung.  
+>   
+> Bitcoin-Wallet-Adresse:  
+>   
+> 1NJgiYyLCCDqW7qPCsap7fd99Ya8tpFSRC  
+>   
+> Falls Sie nicht per Bitcoin-Überweisung bezahlen können, können Sie alternativ eine Geschenkkarte im entsprechenden Wert erwerben und uns die Daten zur Verifizierung zukommen lassen.  
+>   
+> Bitte teilen Sie uns mit, welche Zahlungsoption Ihnen am besten passt. Wir helfen Ihnen gerne weiter.    
+
+### Die Reißleine: Hugo lässt den Deal platzen
+
+Hugo zieht die Notbremse und gibt sich als erfahrener Edelmetall-Zocker, dem die kriminelle Kreativität der „Prinzessin“ schlicht zu bunt wird. Wer echtes Gold kauft, zahlt per Banküberweisung oder Kreditkarte – und sicher nicht mit iTunes-Karten oder Bitcoin-Wallets, die zusammengerechnet weniger Guthaben aufweisen als das Sparschwein eines Erstklässlers.
+
+> Hallo Amira,  
+>   
+> vielen Dank für die Rückmeldung. Das ist jetzt allerdings sehr enttäuschend.  
+>   
+> Ich kaufe schon seit Jahren regelmäßig Goldbarren als Wertanlage, aber die Abwicklung lief bisher ausnahmslos über versicherten Kurier und eine sichere Expresszahlung per Bankkonto oder Kreditkarte. Eine Zahlung per Bitcoin oder gar mit irgendwelchen Geschenkkarten ist mir bei solchen Beträgen viel zu gewagt und wirkt für mich, ehrlich gesagt, auch nicht besonders geschäftsmäßig.  
+>   
+> Da wir uns bei den Zahlungsmodalitäten überhaupt nicht einig werden, müssen wir das Ganze hier leider abbrechen. Unter diesen Umständen können wir nicht zusammenkommen und die Transaktion kann von meiner Seite aus nicht stattfinden.  
+>   
+> Schade, ich hätte die Zusammenarbeit gerne getestet. Ich wünsche Ihnen dennoch alles Gute für Ihr Geschäft.  
+>   
+> Mit freundlichen Grüßen,  
+> Hugo  
+
+Mit dieser Absage setzen wir das Callcenter unter maximalen psychologischen Druck. Die Betrüger sehen ihre sicher geglaubte Beute im letzten Moment wegschwimmen. Jetzt heißt es abwarten: Wetten, dass Amira plötzlich doch eine „Ausnahme“ machen kann und ein brandneues, angeblich sicheres Bankkonto aus dem Hut zaubert?
+
+
 

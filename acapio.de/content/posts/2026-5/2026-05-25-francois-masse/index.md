@@ -121,3 +121,13 @@ Jetzt wird der Ton dringlich: Die 670 Euro sollen bitte „umgehend“ als Apple
 > Kaufen Sie jetzt eine Apple-Geschenkkarte im Wert von 670 Euro und senden Sie sie umgehend ab. Sie können die Karte in jeder Postfiliale abholen.  
 
 Hugo schreibt lapidar zurück: "*Soviel Geld habe ich nicht!*"
+
+---
+
+## Wieviel hast Du?
+
+Nach der Nachricht, dass das Geld knapp ist, wechselt der noble Spender abrupt ins kumpelhafte „Du“ und fragt pragmatisch: *„Wie viel hast du?“* Spätestens jetzt ist der kanadische Millionensegen auf dem Niveau eines schlechten Kleinanzeigen-Basars angekommen. 
+
+Hugo ficht das nicht an, 300 Euro, mehr hat er nicht, basta!
+
+
