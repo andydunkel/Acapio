@@ -122,12 +122,17 @@ Jetzt wird der Ton dringlich: Die 670 Euro sollen bitte „umgehend“ als Apple
 
 Hugo schreibt lapidar zurück: "*Soviel Geld habe ich nicht!*"
 
----
-
 ## Wieviel hast Du?
 
 Nach der Nachricht, dass das Geld knapp ist, wechselt der noble Spender abrupt ins kumpelhafte „Du“ und fragt pragmatisch: *„Wie viel hast du?“* Spätestens jetzt ist der kanadische Millionensegen auf dem Niveau eines schlechten Kleinanzeigen-Basars angekommen. 
 
 Hugo ficht das nicht an, 300 Euro, mehr hat er nicht, basta!
+
+Keine Thema! Nach etwas Hin und Her und die Frage wieviel Hugo auf der hohen Kante hat werden 300 Euro vereinbart!
+
+> Okay, kauf dir eine Apple-Geschenkkarte im Wert von 300 Euro und schick sie sofort ab.  
+> Du bekommst sie in jedem Supermarkt oder bei der Post.  
+
+Damit ist bewiesen, dass man beim Vorschussbetrug im Namen von François Masse hervorragend feilschen kann – blöd nur für den echten Lottokönig, dessen vermeintliche Millionen-Transaktion jetzt wie ein billiger Resterampe-Deal im Supermarkt abgewickelt wird. 🍎🛒
 
 
