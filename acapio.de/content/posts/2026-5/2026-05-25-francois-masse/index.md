@@ -135,4 +135,24 @@ Keine Thema! Nach etwas Hin und Her und die Frage wieviel Hugo auf der hohen Kan
 
 Damit ist bewiesen, dass man beim Vorschussbetrug im Namen von François Masse hervorragend feilschen kann – blöd nur für den echten Lottokönig, dessen vermeintliche Millionen-Transaktion jetzt wie ein billiger Resterampe-Deal im Supermarkt abgewickelt wird. 🍎🛒
 
+Nachdem wir ein paar Tage nicht reagieren haken die Scammer nach:
 
+> Hallo, haben Sie noch Interesse an den 7.000.000,00 USD? Falls ja, melden Sie sich bitte umgehend zurück, damit wir den Vorgang abschließen und Sie die Gelder erhalten können.  
+
+---
+
+## 📈 Die Inflation kickt und der BMW streikt
+
+Die Scammer drehen völlig frei: Plötzlich ist die Spendensumme über Nacht von 3 auf stolze 7 Millionen Dollar angestiegen – Inflation im Betrüger-Paradies! Um die Sache auf die Spitze zu treiben, haben wir den Spieß jetzt einfach umgedreht. Mit einer dramatischen Geschichte über einen kaputten 5er BMW und einer saftigen 1.600-Euro-Werkstattrechnung haben wir den Spender angefleht, *uns* erst einmal einen kleinen Vorschuss von 500 Euro zu schicken, damit wir überhaupt die Geschenkkarte kaufen können. Man darf gespannt sein, ob der kanadische Multimillionär jetzt selbst den Geldbeutel zückt. 🚗💥💸
+
+> Hallo François,  
+>   
+> oh Gott, ich will das Geld unbedingt, aber hier ist gerade die absolute Katastrophe ausgebrochen! 😭 Mein geliebter 5er BMW hat auf dem Weg zum Supermarkt den Geist aufgegeben – Motorschaden! Er steht jetzt in der Werkstatt und der Mechaniker sagt, die Reparatur kostet sage und schreibe 1.600 Euro! 🚗💥  
+>   
+> Ich musste mein absolut letztes Erspartes zusammenkratzen, um überhaupt die Anzahlung für die Werkstatt zu leisten. Ich habe jetzt wirklich keinen einzigen Cent mehr übrig, nicht einmal die 300 Euro für die Apple-Geschenkkarte im Supermarkt. Ich bin völlig verzweifelt!  
+>   
+> Aber da du ja bald 7.000.000,00 USD an mich überweist: Könntest du mir nicht einen ganz kleinen Vorschuss von vielleicht 500 Euro vorab per Western Union oder PayPal senden? Sobald das Geld da ist, hole ich sofort mein Auto aus der Werkstatt, fahre direkt zur Post und kaufe dir die Geschenkkarte für 300 Euro! 🏃‍♂️💨  
+>   
+> Bitte hilf mir, du bist meine letzte Hoffnung!  
+>   
+> Viele Grüße  

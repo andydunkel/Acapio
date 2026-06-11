@@ -26,7 +26,7 @@ Eine aktuelle Phishing-Welle verunsichert Nutzer mit angeblichen Warnungen über
 >   
 > It is important to be Proactive.  
 
-![Die Spam-Mail](/posts/2026-06-06-fico/mail.webp)
+![Die Spam-Mail](/posts/2026-06-06-fico/mail_1.webp)
 
 ---
 

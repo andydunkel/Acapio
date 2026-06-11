@@ -261,3 +261,25 @@ Mit den edlen Shell-Gutscheinen für Hugos BMW kann Mr. Chris leider überhaupt 
 > Mr. Chris  
 
 Hugo fragt nur kurz zurück: "*What is a razer card?*"
+
+Es folgt eine kurze Erklärung, da wir ein paar Tage offline sind, wird nachgehakt.
+
+> This is to remind you of your Consignment Box that KEY is needed for an inspection by UN officials over there before the commencement of the delivery to your home address.  
+
+---
+
+## Die Jungs vom Stammtisch wittern Lunte
+
+Jetzt kommen echte Experten ins Spiel: Hugo hat die Sache gestern beim wöchentlichen Treffen im BMW-Club erzählt. Die Jungs vom Stammtisch haben sofort Alarm geschlagen und geurteilt: „Hugo, im Internet laufen nur Ganoven rum, lass dich nicht veräppeln!“ Um seine skeptischen Kumpels zu beruhigen, hat Hugo nun den ultimativen Vertrauensbeweis gefordert. Mr. Chris soll mal eben ein Foto des Schlüssels machen – und zwar bitteschön direkt neben einem Zettel mit der handschriftlichen Aufschrift „Hugo“. Man darf gespannt sein, welcher Haustürschlüssel aus Ghana jetzt als Millionen-Öffner herhalten muss.
+
+> Hello Mr. Chris,  
+>   
+> I was at our weekly meeting at the BMW club yesterday and I told my friends about the big box and the key. My friends said: "Hugo, you must be very careful on the internet! There are many bad people."  
+>   
+> They told me that before I go to the gas station to buy this "Steam" card for the steam engine or whatever that is, I must see that you really have the key.  
+>   
+> Can you please make a quick photo of the key next to a piece of paper where you write my name "Hugo" on it? If my friends see the photo of the key with my name, they will believe me and I will go buy the card immediately.  
+>   
+> Best regards,  
+> Hugo  
+
