@@ -156,3 +156,13 @@ Die Scammer drehen völlig frei: Plötzlich ist die Spendensumme über Nacht von
 > Bitte hilf mir, du bist meine letzte Hoffnung!  
 >   
 > Viele Grüße  
+
+---
+
+## 🏁 Fazit: Wenn der Scammer das Interesse verliert
+
+Nachdem wir den Spieß umgedreht und den Spender um einen kleinen Vorschuss für die BMW-Reparatur angefleht haben, herrscht im Postfach plötzlich eisige Funkstille. Schade eigentlich – wir hätten die 7 Millionen Dollar wirklich gut gebrauchen können. 😉
+
+Dieser Fall zeigt mal wieder die typische Dynamik von Vorschussbetrug: Solange Hoffnung auf fette Beute in Form von Apple-Geschenkkarten besteht, sind die Betrüger hochflexibel – da wird gefeilscht wie auf dem Basar und die Spendensumme spontan verdoppelt. Sobald das Opfer aber kein Geld mehr hat (oder den Spieß dreist umdreht), verliert der „barmherzige Lottokönig“ ganz schnell das Interesse.
+
+**Das wichtigste Learning:** Echte Millionäre verschenken ihr Geld nicht per Spam-Mail, Apple-Geschenkkarten sind kein offizielles Zahlungsmittel und wer hier antwortet, landet höchstens auf einer Liste für den nächsten Identitätsdiebstahl. 🧑‍💻❌

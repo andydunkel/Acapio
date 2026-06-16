@@ -283,3 +283,36 @@ Jetzt kommen echte Experten ins Spiel: Hugo hat die Sache gestern beim wöchentl
 > Best regards,  
 > Hugo  
 
+---
+
+## Der KI-Beweis aus der Märchenkiste
+
+Die Scammer fackelten nicht lange und schickten tatsächlich den geforderten Fotobeweis des Schlüssels – allerdings haben sie dafür offensichtlich einen KI-Bildgenerator angeworfen. Der prachtvolle Buntbartschlüssel sieht eher so aus, als würde er ein verzaubertes Schloss im Märchenwald öffnen, statt des modernen Panzerschranks mit digitalem Tastenfeld von den ersten Bildern. Besonders verräterisch: Die unnatürlich perfekte Kalligraphie-Schrift, die typischen Bildfehler am Kugelschreiber und die völlig verqueren Schatten verraten die künstliche Intelligenz sofort. Trotz dieser hanebüchenen Logikfehler drängt Mr. Chris in seiner Antwort genervt darauf, dass die Steam-Karte nun endlich besorgt wird, um den "Express-Versand" zu starten.
+
+![](/posts/2026-05-16-united-bank-for-africa/key.webp)
+
+**Egal!** Hugo zeigt sich überzeugt genug, dass jetzt die Karte kaufen will:
+
+> ok thanks, i will buy the card thjis afternoon at the gas station
+
+Leider ist auch Hugo nur ein Mann der Worte, weniger der Taten, zwei Tage später werden wir freundlich erinnert:
+
+> As it is Saturday and our offices will be closed tomorrow, we can only arrange dispatch today once we receive your confirmation. If we hear from you today, the key should be delivered to your doorstep by Monday.  
+> Please note that your delivery has already been delayed, and all other beneficiaries have received their compensation funds. To avoid further delay and any additional storage or demurrage charges at the security company where your consignment is being held for safekeeping, we would appreciate your prompt response.  
+
+---
+
+## Hugo hakt beim Schlüsselloch nach
+
+Hugo zeigte den ausgedruckten „Beweis“ stolz im BMW-Club herum – doch Kumpel Manfred schöpfte sofort Verdacht. Warum schickt die UN einen antiken Buntbartschlüssel für einen modernen Panzerschrank mit digitalem Tastenfeld? In seiner Antwort bedankt sich Hugo nun brav für das „romantische“ Foto, bittet Mr. Chris vor dem Kauf der Steam-Karte aber um eine ganz logische Erklärung: Wo bitteschön soll dieser Schlossöffner an der Hightech-Box eigentlich reingesteckt werden?
+
+> Hello Mr. Chris,  
+>   
+> Wow, thank you! That is a very beautiful and romantic key! It looks like from a big old castle. I went back to my friends from the BMW club today and showed them the printed picture to prove it.  
+>   
+> But now my friend Manfred is very confused. He looked at the first pictures of the box you sent me, and he said that the big box has a modern digital screen with buttons for numbers on the door, but no keyhole for an old key like this.  
+>   
+> Manfred thinks maybe the diplomat has the wrong key for the box at the Hamburg airport? Can you please tell me where the keyhole is on the box? I just want to be sure it fits before I go buy the Steam card.  
+>   
+> Best regards,  
+> Hugo  
