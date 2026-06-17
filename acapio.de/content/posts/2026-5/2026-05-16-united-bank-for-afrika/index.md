@@ -316,3 +316,26 @@ Hugo zeigte den ausgedruckten „Beweis“ stolz im BMW-Club herum – doch Kump
 >   
 > Best regards,  
 > Hugo  
+
+---
+
+## Das versteckte Schlüsselloch der UN
+
+Mr. Chris lässt sich nicht so leicht aus dem Konzept bringen und präsentiert eine meisterhafte Erklärung für das Logikloch: Die Hightech-Box ist natürlich *doppelt* gesichert! Neben dem sechsstelligen Digitalcode gibt es angeblich ein verstecktes, kleines Schlüsselloch für den antiken Öffner. Der UN-Direktor wundert sich in seiner Antwort sogar herablassend darüber, dass Hugo und seine BMW-Kumpels dieses geheime Loch auf den Fotos bisher einfach übersehen haben. Code und Schlüssel gäbe es per E-Mail, sobald die Box vor der Haustür steht – Hugo soll sich also nicht von den neidischen Zweiflern am Stammtisch verunsichern lassen und endlich zahlen.
+
+> Please note that the consignment box is secured with a six-digit code. This code, together with the manual key, will be sent to you upon the diplomat's arrival.  
+>   
+> Kindly inspect the box carefully. You will find a small keyhole on the box that matches the size of the manual key. I am surprised that neither you nor your friends have been able to locate it.  
+> I understand that your friends may be doubtful or surprised about how you came to be recognised as one of the victims eligible for compensation. However, you should now be aware that both the manual key and the digital access code will be provided to you by email once the box has arrived at your home address. 
+
+### Die James-Bond-Sicherung und der Streaming-Fehlkauf
+
+Völlig fasziniert von der Erklärung zeigt sich Hugo absolut einsichtig: Eine doppelte Sicherung wie bei James Bond – das klingt für den BMW-Club extrem professionell! Kumpel Manfred lässt sich entschuldigen, dass er das geheime Schlüsselloch übersehen hat, und Hugo flitzte sofort zur Tankstelle, um die geforderte Karte für 150 Euro zu besorgen. Da die Kassiererin allerdings keine „Steam“-Karte parat hatte, drehte sie ihm kurzerhand ein Guthaben für den Arthouse-Streamingdienst „MUBI“ an – sei ja schließlich auch zum *Streamen*. In seiner Antwort bietet Hugo nun treudoof an, den MUBI-Code durchzugeben, sofern die UN-Zentrale denn überhaupt einen Fernseher besitzt.
+
+> Hello Mr. Chris,  
+>   
+> Ah, now we understand! Manfred and I looked at the picture again and Manfred says a double security system like in the James Bond movies is very professional. He says sorry that we did not see the secret keyhole.  
+>   
+> Because everything is clear now, I went to the Aral gas station to buy the Steam card for 150 Euros. But the lady at the cashier desk did not have a card that says "Steam". She gave me a card that says "MUBI" and told me it is also for streaming and movies.  
+>   
+> I have the MUBI card here with 150 Euros on it. Can I scratch the code on the back and send you this one? Or do you not have a television in your UN office to use it? If you need the other card, please tell me exactly what the logo looks like so I can show it to the lady at the gas station.  

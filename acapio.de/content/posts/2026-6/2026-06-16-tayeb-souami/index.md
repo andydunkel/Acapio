@@ -62,3 +62,42 @@ Da wir solche Mails natürlich nicht einfach unkommentiert im Spam-Ordner verrot
 > Glückauf und waidmannsheil,  
 >   
 > Ihr Hugo aus Wanne-Eickel  
+
+
+## Hugo packt aus: Die Daten sind raus!
+
+Man muss dem Scammer ja lassen, dass er sich rührend um Hugos Seelenheil sorgt. Bloß kein Misstrauen erregen! Dass er stattdessen per Text-Formular nach dem Beruf, dem Familienstand und der exakten Wohnadresse fragt, ist für unseren Wanne-Eickeler Vorzeige-Kassenwart natürlich völlig logisch – irgendeinen Verwendungsnachweis braucht die Buchhaltung in New Jersey schließlich auch.
+
+Hugo war von den beigefügten YouTube-Videos und der noblen Absicht, die Armut im Ruhrgebiet zu bekämpfen, so gerührt, dass er beim Ausfüllen gleich noch ein paar wichtige Details zu seinem fahrbaren Untersatz und seiner Elfriede untergebracht hat:
+
+> Hallo,  
+>   
+> mein Name ist Tayeb Souami, ich bin Buchhalter und stamme aus Little Ferry, New Jersey, USA. Ich habe den Jackpot von 315,3 Millionen US-Dollar in der US-amerikanischen Powerball™-Lotterie geknackt. Ihre E-Mail-Adresse wurde zufällig aus einer Vielzahl von E-Mail-Adressen weltweit ausgewählt, und Sie erhalten 2.500.000,00 €. Um meinen Gewinn zu bestätigen, besuchen Sie bitte:  
+>   
+> https://abcnews.go.com/US/lucky-jersey-man-wins-3153-million-powerball-jackpot/story?id=55748114  
+> https://twitter.com/NJLottery/status/1005181676937531392    
+> https://www.youtube.com/watch?v=4YtG6HFQYmY  
+> Auch Sie haben großes Glück und erhalten 2.500.000,00 €.  
+>   
+> Um die Auszahlung der Ihnen exklusiv zugesandten Spende (2.500.000,00 €) zu ermöglichen, senden Sie mir bitte die folgenden Informationen (ich benötige diese kurzen Angaben lediglich, um zu wissen, wem wir die Spende zukommen lassen. Ich möchte Sie nicht nach Ihrem Ausweis fragen, um den Eindruck zu vermeiden, dass ich Ihre Identität stehlen möchte).  
+>   
+> BENÖTIGTE INFORMATIONEN:  
+> Name des/der Begünstigten:  
+> Telefonnummer:  
+> Wohnadresse:  
+> Bundesland/Region:  
+> Land:  
+> Geburtsdatum:  
+> Geschlecht:  
+> Familienstand:  
+> Beruf/Tätigkeit:  
+>   
+> Ich hoffe, Sie können die Spende in Ihrem Bundesland/Ihrer Region sinnvoll einsetzen. Wir spenden, um die Armut in Ihrer Gegend zu verringern und den Lebensstandard möglichst vieler Menschen zu verbessern. Dies ist der einzige Zweck dieser Spende an Sie. Bevor ich Ihnen Informationen zur Auszahlung des Geldes gebe, möchten wir Ihre Zusicherung, dass Sie unsere Anweisungen befolgen und unserer Organisation helfen, Ihren Traum zu verwirklichen. Sollten Sie Bedenken haben, mit dem Geld umzugehen, teilen Sie mir dies bitte umgehend mit, damit ich es dem nächsten Empfänger zukommen lassen kann.  
+>   
+> Bei Fragen stehe ich Ihnen jederzeit gerne zur Verfügung. Ich freue mich, bald von Ihnen zu hören. Herzliche Grüße.  
+
+**Hugo schickt ein paar Fake-Daten und dann schauen wir mal was passiert"**
+
+
+
+

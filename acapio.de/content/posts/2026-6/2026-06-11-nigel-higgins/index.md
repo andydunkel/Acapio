@@ -110,3 +110,63 @@ Hier ist die knackige Kurzfassung für deinen Blog:
 Wir machen es kurz, schreiben nochmal, dass es legal bleiben soll, ein paar Fake-Daten, zusammen mit dem Bundeshuhn-Ausweis. 
 
 ![](/posts/2026-06-11-nigel-higgins/hugo_mail.webp)
+
+Hier ist der nächste, knackige Abschnitt für deinen Blog, perfekt vorbereitet zum Reinkopieren:
+
+---
+
+## Nigel kontert mit der „Geflügel-Vollmacht“ und will mein Bestes (Mein Geld) 💥🏦
+
+Leute, es ist so weit: Mein Bundeshuhn-Ausweis hat Nigel und seinen „Top-Anwalt“ Harry Watson derart beeindruckt, dass sie sofort die ganz schweren juristischen Geschütze aufgefahren haben!
+
+Ich präsentiere stolz das offizielle Testament vom Doktor:
+
+![](/posts/2026-06-11-nigel-higgins/power.webp)
+
+Schon der erste Satz im Dokument ist pure Poesie: **„LERNT ALLE PERSONEN DURCH DIESES GESCHENK KENNEN“** – die wohl schlechteste Google-Übersetzung der englischen Rechtsfloskel *„Know all men by these presents“* aller Zeiten! 😂
+
+![](/posts/2026-06-11-nigel-higgins/document.webp)
+
+### Der große Showdown: Wie die Falle zuschnappt 🪤
+
+In seiner Mail erklärt mir Nigel nun ganz feierlich, wie wir an die 2,3 Millionen Pfund kommen. Da ich gerade nicht in die USA reisen kann (wegen meinem kaputten Auto, ihr erinnert euch?), machen wir das einfach digital:
+
+<details class="scam-accordion">
+  <summary>E-Mail mit Dokumenten, Post vom Anwalt</summary>
+  <div class="accordion-content">
+    <blockquote>
+      <p>Guten Tag, Herr Hugo Schulz<br></p>
+      <p>Wie geht es Ihnen heute?<br></p>
+      <p>Der Anwalt hat die Dokumente fertiggestellt. Ich habe eine Kopie an ASPIRE HOLDINGS LIMITED weitergeleitet und Sie als einzigen überlebenden Angehörigen meines verstorbenen Mandanten angegeben. Ich habe Ihnen ebenfalls eine Kopie dieser Dokumente zur Durchsicht beigefügt. Die Bank wird Sie bitten, ihr eine Kopie zuzusenden, um zu bestätigen, dass Sie der rechtmäßige Begünstigte sind, sobald Sie sich wegen Ihres Anspruchs an sie wenden.<br></p>
+      <p>Normalerweise müssten Sie nach dieser Genehmigung zu ASPIRE HOLDINGS LIMITED reisen, um die Gelder abzuholen. Dies ist Ihnen jedoch derzeit nicht möglich. Ich habe ASPIRE HOLDINGS LIMITED darüber informiert, dass Sie der einzige überlebende Angehörige meines verstorbenen Mandanten sind und dass Sie die Sendung vorerst nicht abholen können. Man weiß dort bereits, dass sich Geld in der Sendung befindet. Ich habe das Geld als Sendung deponiert, da es sich um ein Tresorlager eines Sicherheitsunternehmens handelt.<br></p>
+      <p>ASPIRE HOLDINGS LIMITED & Security Company verfügt über Bankimmunitäten und ein Online-Banking-System. Sie müssen ein Online-Konto bei ASPIRE HOLDINGS LIMITED & Security Company eröffnen.<br></p>
+      <p>Bitte kontaktieren Sie ASPIRE HOLDINGS LIMITED. Die unten stehenden Informationen beziehen sich auf die Abteilung für die Online-Kontoeröffnung, die für die Auszahlung des Geldes zuständig ist, sobald Sie ein Offshore-Online-Konto für die Geltendmachung Ihres Anspruchs eröffnet haben.<br></p>
+      <p>ASPIRE HOLDINGS LIMITED<br></p>
+      <p>E-Mail: contact@aspireholdingsltd.pro<br></p>
+      <p>Fax: +1 (301) 228-0969<br></p>
+      <p>Bürozeiten: Montag bis Freitag, 9:00–18:00 Uhr<br></p>
+      <p>Samstag: 9:30–13:00 Uhr<br></p>
+      <p>Ansprechpartner: Oliver Ryan (AHL Online Manager/Geschäftsführer)<br></p>
+      <p>Bitte kontaktieren Sie uns umgehend mit folgenden Angaben:<br></p>
+      <p>Vollständiger Name:<br>
+      Postanschrift:<br>
+      Ausweiskopie:<br>
+      Telefonnummer:<br>
+      Wohnadresse:<br></p>
+      <p>Teilen Sie uns mit, dass Sie ein Online-Konto eröffnen möchten, um Ihre 2.375.000,00 £ darauf zu erhalten. Sobald Sie das Online-Konto bei ihnen eröffnet haben, werden die 2.375.000,00 £ auf Ihr Online-Konto überwiesen. Sie erhalten anschließend Ihre Kontodaten, wie Kontonummer und PIN-Code, sowie Informationen zum Zugriff auf Ihr Online-Banking-System. Sie können das Konto von Ihrem Heimatland aus nutzen, sofern Sie über einen Internetzugang verfügen.<br></p>
+      <p>Die Bank hat erst Zugriff auf die Sendung, nachdem ein Offshore-Online-Konto auf Ihren Namen eröffnet wurde. Nach Zahlung der einmaligen Kontoeröffnungsgebühr wird Ihr Konto aktiviert. Anschließend erhält die Bank Zugriff auf die Sendung und überweist den Betrag auf Ihr Konto. Sie erhalten außerdem vollen Zugriff auf Ihr Konto und eine Anleitung für Überweisungen mit dem Online-Banking-Service.<br></p>
+      <p>Freuen Sie sich einfach, denn ich versichere Ihnen, dies ist eine einmalige Gelegenheit. Sobald dies geschehen ist, können wir uns bezüglich der Überweisung meiner 50 % in Verbindung setzen. Auf ein großartiges Erlebnis! Wir werden uns schon bald freuen.<br></p>
+      <p>Vielen Dank für Ihr Verständnis. Bitte melden Sie sich, sobald Sie diese Nachricht erhalten haben.<br></p>
+      <p>Bitte geben Sie Ihre Daten nicht an Dritte weiter und behandeln Sie alle Informationen vertraulich.<br></p>
+    </blockquote>
+  </div>
+</details>
+
+1. **Die Fake-Bank:** Ich soll mich bei einer ominösen *ASPIRE HOLDINGS LIMITED* unter einer windigen `.pro`-E-Mail-Adresse melden.
+2. **Die Aktivierungs-Gebühr:** Jetzt kommt der eigentliche Kern des gesamten Vorschussbetrugs (*Advance Fee Fraud*): Ich muss ein „Offshore-Online-Konto“ eröffnen. Und das wird erst aktiv, wenn ich eine **„einmalige Kontoeröffnungsgebühr“** bezahle. Erst DANN fließt das Erbe. Is klar, Nigel! 💸
+
+**Fazit:** Aus dem vermeintlichen Erbe wird jetzt ein klassisches „Zahl mal eben Gebühren für ein Konto, das es gar nicht gibt“.
+
+
+
+
