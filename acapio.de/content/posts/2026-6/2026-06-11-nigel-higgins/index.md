@@ -168,5 +168,32 @@ In seiner Mail erklärt mir Nigel nun ganz feierlich, wie wir an die 2,3 Million
 **Fazit:** Aus dem vermeintlichen Erbe wird jetzt ein klassisches „Zahl mal eben Gebühren für ein Konto, das es gar nicht gibt“.
 
 
+---
+
+## Warum Scammer nach Ausweis & Gerichtsdokumenten fragen
+
+Wer auf eine Fake-Erbschaft antwortet, landet schnell bei angeblichen Finanzinstituten (wie „ASPIRE HOLDINGS“). Die fordern dann ganz offiziell: Ausweis, Testament und einen „Brief des Königlichen Gerichtshofs“.
+
+> Vielen Dank, dass Sie sich an ASPIRE HOLDINGS LIMITED gewandt haben, und bitte nehmen Sie unser aufrichtiges Beileid zum Tod Ihres verstorbenen Verwandten, Dr. William Schulz, entgegen. Wir bestätigen den Erhalt Ihrer E-Mail bezüglich des Zugangs zu den bei unserer Institution gehaltenen Geldern. Wir freuen uns über Ihr Interesse, zu diesem Zweck ein Konto bei uns zu eröffnen.  
+>   
+> Damit wir fortfahren und Ihre Anfrage ordnungsgemäß prüfen können, bitten wir Sie  
+>   
+> Bitten Sie, die erforderlichen Unterlagen vorzulegen, die Ihren Status als rechtmäßiger Verwandter und einziger überlebender Verwandter bestätigen. Dies umfasst in der Regel, ist aber nicht beschränkt auf:  
+>   
+> Ein gültiger amtlicher Ausweis von Ihnen,  
+> Ein Brief des Königlichen Gerichtshofs,  
+> Ein letzter Wille und Testament,  
 
 
+Hinter dieser Bürokratie-Show stecken zwei Ziele:
+
+* **1. Identitätsdiebstahl:** Schickst du ein Foto deines echten Ausweises, nutzen die Scammer deine Daten, um Konten auf deinen Namen zu eröffnen oder damit andere Opfer zu betrügen.
+* **2. Die Kostenfalle (Vorschussbetrug):** Die Betrüger wissen, dass du keinen Brief vom Gericht hast. Sobald du sagst: *„Das Dokument fehlt mir“*, kommt die Masche: *„Kein Problem, unser Anwalt besorgt das – für eine kleine Gebühr von 400 €.“* Zahlst du, tauchen immer neue Fake-Gebühren auf.
+
+**Fazit:** Die Dokumentenpflicht ist reine Psychologie, um Seriosität vorzugaukeln und den Grundstein für die spätere Geldforderung zu legen.
+
+Da wir einige Zeit nicht geantwortet haben, macht nun auch Nigel wieder Druck:
+
+> ich hoffe, diese Nachricht erreicht dich wohlbehalten. Da der Monat zu Ende geht, wollte ich dich daran erinnern, dass unser ausstehendes Geschäft für den 30. Juni zur Kündigung vorgesehen ist. Dies könnte der richtige Zeitpunkt sein, um die Details abzuschließen und seinen erfolgreichen Abschluss sicherzustellen. Deine schnelle Aufmerksamkeit für diese Angelegenheit wird sehr geschätzt. Und muss ich dich daran erinnern, dass dieses Geschäft echt ist und eine einmalige Gelegenheit im Leben darstellt.  
+>   
+> Ich freue mich darauf, dieses Geschäft positiv abzuschließen.  

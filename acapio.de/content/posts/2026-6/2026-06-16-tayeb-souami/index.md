@@ -98,6 +98,40 @@ Hugo war von den beigefügten YouTube-Videos und der noblen Absicht, die Armut i
 
 **Hugo schickt ein paar Fake-Daten und dann schauen wir mal was passiert"**
 
+---
+
+## Neues aus dem Posteingang: Spenden-Segen aus dem Lehrbuch 📖💸
+
+Wer braucht schon Lotto, wenn man Spam-Mails hat? Mein angebliche Spender hat mich an die **„USA Charity“** weitergeleitet. Die Scammer ziehen hier die Phase 2 des Vorschussbetrugs-Lehrbuchs so schmerzhaft klassisch durch, dass es fast schon wehtut:
+
+* **Die magische Nummer:** Ich soll die Referenznummer **`LLT180074`** angeben. Klingt wichtig, ist aber reines Blendwerk für die Optik.
+* **Die High-Tech-Infrastruktur:** Diese "USA Charity" verwaltet angeblich Millionen, nutzt dafür aber eine kostenlose Gmail-Adresse (`michaelbueno2009@gmail.com`). Da spart man eben an der IT-Infrastruktur, um mehr Gutes zu tun!
+* **Das Tränendrüsen-Finale:** Zum Abschied wird noch schnell an das Gute im Menschen appelliert, damit die Welt ein besserer Ort wird. Hach.
+ 
+> Hallo,  
+>   
+> vielen Dank für Ihre Informationen. Ich weiß nun, an wen ich meine Spende senden werde.  
+>   
+> Ich leite Sie nun an USA Charity weiter. USA Charity wird die Spende über ihren professionellen Spendenverwaltungsdienst an Sie überweisen. Bitte kontaktieren Sie USA Charity mit der Referenznummer LLT180074. Achten Sie darauf, die Referenznummer korrekt zu notieren, damit USA Charity weiß, dass ich Sie empfohlen habe.  
+>   
+> Sie erreichen USA Charity unter der unten stehenden E-Mail-Adresse. Dort wird man Ihnen bei der Überweisung behilflich sein.  
+>   
+> E-Mail: michaelbueno2009@gmail.com  
+>   
+> Ich wünsche Ihnen viel Erfolg und bitte Sie, ebenfalls Bedürftigen zu helfen, damit diese Welt für uns alle ein besserer Ort wird.  
+>   
+> Herzliche Grüße  
+
+**Der nächste Schritt im Drehbuch (Spoiler-Alarm):**
+Ich schreibe Gmail-Michael an, er gratuliert mir und fordert kurz darauf ein paar Hundert Euro Vorschuss für „Notargebühren“ oder „Zertifikate“ via Krypto oder Gutscheinkarten.
+
+Ich bleibe für euch dran – mal sehen, wie professionell Michael wirklich bettelt! 😉 Wir schreiben eine kurze E-Mail:
+
+> Hallo Michael,  
+>   
+> ich wurde von meinem Spender an Sie verwiesen. Die Referenznummer lautet LLT180074.  
+> Wie genau läuft die Überweisung der Spende jetzt ab? Bitte senden Sie mir die Details.  
+
 
 
 

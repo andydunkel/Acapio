@@ -333,4 +333,32 @@ Was als exklusive Kontaktaufnahme einer „Gold-Prinzessin“ begann, endete als
 
 Amira mag zwar kein Gold in den Tresoren haben, aber für unseren Blog war dieser Scam-Versuch absolut goldwert. Hugo bleibt auf seinem Geld sitzen, die Scammer gehen leer aus, und wir haben ein weiteres Lehrstück darüber, dass im Netz eben nicht alles glänzt, was eine Krone im Profilbild trägt.
 
+---
+
+## Nachtrag: Kontakt via WhatsApp gewünscht
+
+Wer dachte, die Logikfehler seien nicht mehr zu übertreffen, wird im Finale eines Besseren belehrt. Amira biegt auf die Zielgerade ein und bittet Hugo, die weitere Kommunikation auf **WhatsApp** zu verlagern.
+
+> Sehr geehrter Herr Hugo,  
+>   
+> ich hoffe, es geht Ihnen gut.  
+>   
+> Ich möchte mich aufrichtig für die Unannehmlichkeiten bezüglich der Kontoverfügbarkeit entschuldigen, die wir vorhin besprochen haben. Ich freue mich, Ihnen mitteilen zu können, dass Ihr Konto nun vollständig verfügbar ist und Ihre Goldbestellung bearbeitet werden kann.  
+>   
+> Vielen Dank für Ihre Geduld und Ihr Verständnis während der Klärung dieses Problems. Wir schätzen Ihr Interesse und setzen alles daran, eine reibungslose und sichere Transaktion zu gewährleisten.  
+>   
+> Sollten Sie weiterhin an der Bestellung interessiert sein, lassen Sie es mich bitte wissen. Ich helfe Ihnen gerne bei den nächsten Schritten.  
+>   
+> Nochmals vielen Dank für Ihr Verständnis. Ich freue mich, von Ihnen zu hören.  
+>   
+> Mit freundlichen Grüßen,  
+>   
+> Amira Aldahab Gold  
+>   
+> Für weitere Informationen kontaktieren Sie mich bitte über WhatsApp:  
+>   
+> 👇👇👇👇  
+> +447429 389505  
+
+Dabei hinterlässt sie eine gigantische, rote Flagge im Postfach: Eine angebliche Luxus-Händlerin aus Dubai nutzt für ihre weltweiten Goldgeschäfte eine **britische Handynummer (+44)**. Das Muster ist altbekannt: Auf WhatsApp lässt sich das Opfer viel persönlicher manipulieren, es kann schneller Druck aufgebaut werden, und E-Mail-Provider blockieren die Nachrichten nicht mehr. Wir antworten mal kurz und schauen was passiert!
 

@@ -54,9 +54,26 @@ Um das Spiel am Laufen zu halten und zu sehen, wie die Betrüger reagieren, wurd
 > Hello Mr Eichelberger, I do not know about all of this, what is this about?
 
 Damit ist der Köder ausgeworfen – nun bleibt abzuwarten, mit welcher hanebüchenen Geschichte die Scammer versuchen werden, die vermeintlichen Millionen schmackhaft zu machen.
+
 ---
 
 ### Fazit: Das Schweigen der „Trust Bank“
 
 Da auf die bewusst ahnungslose Nachfrage bis heute keine Antwort mehr eingegangen ist, bleibt die Millionen-Zahlung wohl aus – womit das Ganze wie erwartet als klassischer Vorschussbetrug entlarvt ist. Das Ziel solcher E-Mails ist denkbar simpel: Sobald ein Opfer anbeißt, fordern die Täter im nächsten Schritt Gebühren für Notare, Steuern oder Kontoeinrichtungen, um an das vermeintliche Vermögen zu gelangen. Wer hier seine echten Ausweisdokumente und persönlichen Daten übermittelt, riskiert zudem einen massiven Identitätsdiebstahl. Daher gilt wie immer: Solche Nachrichten gehören ungelesen in den Spam-Ordner.
+
+---
+
+## Es kommt doch noch eine Anwort
+
+Nach etwas Wartezeit kommt dann doch noch eine Antwort. Die Scammer geben sich ungeduldig und machen uns ein schlechtes Gewissen.
+
+> Dear Customer.  
+>   
+> I am not happy with you about the delay. I notice that you are not  
+> serious about completing your transaction, which means you want your  
+> funds to be canceled and transferred into the government account as  
+> unclaimed funds. Keep in mind that if you fail to fulfill the  
+> obligation, you will lose your funds.  
+
+Wir entschuldigen uns und fragen, wie es weiter geht!
 

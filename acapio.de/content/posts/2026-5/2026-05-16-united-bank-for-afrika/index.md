@@ -339,3 +339,31 @@ Völlig fasziniert von der Erklärung zeigt sich Hugo absolut einsichtig: Eine d
 > Because everything is clear now, I went to the Aral gas station to buy the Steam card for 150 Euros. But the lady at the cashier desk did not have a card that says "Steam". She gave me a card that says "MUBI" and told me it is also for streaming and movies.  
 >   
 > I have the MUBI card here with 150 Euros on it. Can I scratch the code on the back and send you this one? Or do you not have a television in your UN office to use it? If you need the other card, please tell me exactly what the logo looks like so I can show it to the lady at the gas station.  
+
+
+## Die UN-Zentrale braucht kein Arthouse-Kino
+
+Mr. Chris zeigt sich überraschend geduldig und dankt sogar Manfred für seine „professionelle Einschätzung“ der James-Bond-Sicherung. Den MUBI-Gutschein für den anspruchsvollen Arthouse-Filmabend lehnt er jedoch dankend ab: Die UN-Zentrale scheint wohl eher auf Gaming zu stehen, denn nur Steam- oder Razer-Guthaben sind mit ihrem hochkomplexen System kompatibel. Er schickt sogar Bildbeispiele mit, damit Hugo an der Tankstelle diesmal bloß keinen Fehlkauf tätigt, und warnt ihn ausdrücklich davor, den MUBI-Code bereits freizurubbeln.
+
+> Dear Hugo,  
+>   
+> Thank you for your message. I am glad that the mystery of the secret keyhole has finally been solved. Please thank Manfred for his professional assessment of the security system.  
+>   
+> Unfortunately, the MUBI card will not work for the purpose I described. While it is indeed related to streaming and entertainment, the system I need is only compatible with Steam cards or Razer Gift Card.  
+>   
+> Please do not scratch or send the code from the MUBI card. Instead, could you return to the gas station and ask specifically for a card with the "Steam or Razer gift Card" The logo usually shows the word "STEAM or RAZER GIFT CARD" in capital letters and is associated with the Steam gaming platform.  
+>   
+> Once you have confirmed that the card is a Steam or Razer card, please let me know before scratching or sending any code. Attached is the samples of the above mentioned gift cards.  
+
+### Familiendrama am Küchentisch: Der Neffe zockt die UN ab
+
+Hugo hatte die richtige Steam-Karte tatsächlich schon ergattert und stolz auf den Küchentisch gelegt. Doch dann nahm das Schicksal in Gestalt von Neffe Sebastian seinen Lauf: Der gamingbegeisterte Teenager dachte, es sei sein Geburtstagsgeschenk, und rubbelte den 150-Euro-Code kurzerhand für seinen PC frei. Da Hugos Bargeldbestände nach diesem epischen Fehlkauf nun komplett erschöpft sind, muss Mr. Chris sich bis morgen gedulden – erst dann kommt nämlich die neue Rente aufs Konto, um den nächsten Versuch an der Tankstelle zu finanzieren.
+
+> Hello Mr. Chris,  
+>   
+> I am so sorry, this is very embarrassing. I bought the correct Steam card for 150 Euros and put it on the kitchen table. But my nephew Sebastian came to visit, thought it was a birthday present, and scratched the code for his computer game immediately!  
+>   
+> The money is now gone. I spent my last cash on this card, and my money only arrives tomorrow on Tuesday.  
+>   
+> Can I buy a new card tomorrow afternoon when I have new cash? Please don't give my box away, it was just my stupid nephew.  
+
