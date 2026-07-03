@@ -197,3 +197,55 @@ Da wir einige Zeit nicht geantwortet haben, macht nun auch Nigel wieder Druck:
 > ich hoffe, diese Nachricht erreicht dich wohlbehalten. Da der Monat zu Ende geht, wollte ich dich daran erinnern, dass unser ausstehendes Geschäft für den 30. Juni zur Kündigung vorgesehen ist. Dies könnte der richtige Zeitpunkt sein, um die Details abzuschließen und seinen erfolgreichen Abschluss sicherzustellen. Deine schnelle Aufmerksamkeit für diese Angelegenheit wird sehr geschätzt. Und muss ich dich daran erinnern, dass dieses Geschäft echt ist und eine einmalige Gelegenheit im Leben darstellt.  
 >   
 > Ich freue mich darauf, dieses Geschäft positiv abzuschließen.  
+
+---
+
+## Update: Die „Bank“ schlägt zu – Und Pfund sind jetzt Euro! 🏦💱
+
+Es läuft wie am Schnürchen! Mein Bundeshuhn-Ausweis wurde von der *ASPIRE HOLDINGS LIMITED* offiziell „verifiziert“. Oliver Ryan, der Director of Operation höchstpersönlich, hat mir die Kontoeröffnungsunterlagen geschickt.
+
+Und Überraschung: Das Erbe ist angeblich mit einer **„Vollkaskoversicherung“** geschützt. Klingt super, hat aber einen Haken: Deswegen darf man die Eröffnungsgebühr angeblich unter keinen Umständen vom Erbe abziehen. Schade aber auch! 💸
+
+> We are pleased to inform you that we have verified the documents  
+>   
+> presented by you to lay claims on the inheritance of Late Dr. Williams Schulz, Kindly find the attached document with the procedures on how to open an online account with our bank to enable us transfer your inheritance funds from our Safe Deposit Department to your online Banking account. Please provide us with the required details and state  
+>   
+> your choice of account.  
+>   
+> Kind regards,  
+> Mr. Oliver Ryan  
+> (AHL Online Manager/Director of Operation)  
+> ASPIRE HOLDINGS LIMITED  
+
+Stattdessen stehen im zweiseitigen Formular folgende Schnäppchen-Konten zur Auswahl:
+
+* **Auslandskonto:** Mindesteinlage **1.350,00 £** (wird im Text im selben Satz großzügig als „EINTAUSENDDREIHUNDERTFÜNFZIG EURO“ übersetzt – Wechselkurse werden eben völlig überbewertet).
+* **Cashplus Girokonto:** Für schlappe **1.600,00 £**.
+* **Geschäftskonto für den Transit:** Für die ganz großen Nummern: **2.500,00 £**.
+
+![Formular für Hugo](/posts/2026-06-11-nigel-higgins/formular.webp)
+
+**Fazit:** Genau hier schnappt die Falle des klassischen Vorschussbetrugs zu. Spätestens jetzt soll das ahnungslose Opfer echtes Geld überweisen, um ein absolut wertloses Online-Konto freizuschalten. Aber nicht mit Hugo!
+
+Hier ist der passende, kurze Absatz für deinen Blog, um die Leser auf den neuesten Stand der Taktik zu bringen:
+
+---
+
+### Hugos Konter: Zu teuer! Wer leiht mir Geld? 🚗💸
+
+Anstatt den geforderten Tausenden von Euros hinterherzulaufen, schaltet Hugo jetzt in den Sparfuchs-Modus. Als einfacher Angestellter in der Altpapier-Branche schüttelt man so eine Summe schließlich nicht mal eben aus dem Ärmel – erst recht nicht, wenn das Auto gerade in der Werkstatt steht! 😉
+
+Hier ist der kurze Dämpfer, den ich an Oliver und Nigel geschickt habe:
+
+> **Sehr geehrter Herr Ryan, Sehr geehrter Herr Higgins,**
+> vielen Dank, das Dokument sieht sehr wichtig aus! Ich würde am liebsten das Geschäftskonto für 2.500,00 £ nehmen, damit es schnell geht.🚀
+> Aber warum ist das denn so unglaublich teuer? 2.500 Euro sind für mich als Altpapier-Sortierer ein halbes Vermögen! Mein Konto ist wegen einer Autoreparatur komplett leer. 😢
+> Wie genau müsste ich das Geld überhaupt bezahlen? Und Herr Higgins, können Sie mir die Gebühr nicht kurz leihen? Sie kriegen das Geld doch in einer Woche doppelt von mir zurück!
+> **Viele Grüße, Ihr Hugo**
+
+#### Die Falle für den Scammer schnappt zu 🪤
+
+Mit dieser Nachricht schlagen wir zwei Fliegen mit einer Klappe:
+
+1. **Die Zahlungsart entlarven:** Wir zwingen die „Bank“, die Katze aus dem Sack zu lassen. Wie wollen sie die Kohle? Per windiger Auslandsüberweisung, Western Union oder vielleicht sogar Gutscheinkarten?
+2. **Den Komplizen testen:** Nigel will die Hälfte von 2,3 Millionen Pfund abstauben, weigert sich aber bestimmt, seinem "Partner" lächerliche 2.500 Euro vorzuschießen. Mal sehen, welche Ausrede der „Group Chairman“ jetzt parat hat, warum er das Geld nicht mal eben aus der Portokasse leihen kann!

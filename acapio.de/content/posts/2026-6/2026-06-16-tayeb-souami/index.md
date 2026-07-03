@@ -132,6 +132,40 @@ Ich bleibe für euch dran – mal sehen, wie professionell Michael wirklich bett
 > ich wurde von meinem Spender an Sie verwiesen. Die Referenznummer lautet LLT180074.  
 > Wie genau läuft die Überweisung der Spende jetzt ab? Bitte senden Sie mir die Details.  
 
+---
 
+## Runde 3: Auftritt Michael Bueno und der plötzliche Sinneswandel
 
+Es kam, wie es kommen musste. Kaum hat man den kleinen Finger gereicht, wird die ganze Hand (und das Bankkonto) gefordert. Plötzlich schreibt uns nicht mehr der Lottogewinner selbst, sondern ein vermeintlicher Kundenbetreuer namens "Michael Bueno". 
 
+Erinnern wir uns kurz an die letzte Mail: *"Ich möchte Sie nicht nach Ihrem Ausweis fragen..."* – tja, das galt wohl nur für Tayeb, nicht für Micha! Der will jetzt nämlich neben der kompletten Bankverbindung inklusive SWIFT und IBAN doch bitteschön eine Kopie des Personalausweises. Und weil man im Hause der Betrüger gern gründlich arbeitet, fragen sie auch gleich nach dem "nächsten Angehörigen". Ein Schelm, wer Böses dabei denkt. 
+
+Hugo bleibt natürlich tiefenentspannt und antwortet im gewohnt bürokratischen Dackel-Modus:
+
+---
+
+## Runde 4: Auftritt Michael Bueno und der plötzliche Sinneswandel
+
+Es kam, wie es kommen musste. Kaum hat man den kleinen Finger gereicht, wird die ganze Hand (und das Bankkonto) gefordert. Plötzlich schreibt uns nicht mehr der Lottogewinner selbst, sondern ein vermeintlicher Kundenbetreuer namens "Michael Bueno". 
+
+Erinnern wir uns kurz an die letzte Mail: *"Ich möchte Sie nicht nach Ihrem Ausweis fragen..."* – tja, das galt wohl nur für Tayeb, nicht für Micha! Der will jetzt nämlich neben der kompletten Bankverbindung inklusive SWIFT und IBAN doch bitteschön eine Kopie des Personalausweises. Und weil man im Hause der Betrüger gern gründlich arbeitet, fragen sie auch gleich nach dem "nächsten Angehörigen". Ein Schelm, wer Böses dabei denkt. 
+
+> ich habe Ihre Referenznummer bestätigt. Es handelt sich um eine Spende von Tayeb Souami an Sie. Der Spendenbetrag beträgt 2.500.000,00 €.  
+>   
+> Bitte senden Sie uns Ihre Bankverbindung und fügen Sie eine Kopie Ihres Personalausweises bei, damit wir die Überweisung umgehend veranlassen können.  
+>   
+> Bankname:  
+> Kontoinhaber:  
+> Kontonummer:  
+> SWIFT-Code (BIC):  
+> Telefonnummer/WhatsApp:  
+> Nächster Angehöriger:  
+> Nationalität:  
+> Bankadresse:  
+> IBAN (optional):  
+>   
+> Wir freuen uns auf Ihre Antwort.  
+>   
+> Mit freundlichen Grüßen, Michael Bueno, Kundenbetreuer/Berater  
+
+**Hugo bleibt entspannt, Fake-Ausweis und Fake-Daten gehen raus!**

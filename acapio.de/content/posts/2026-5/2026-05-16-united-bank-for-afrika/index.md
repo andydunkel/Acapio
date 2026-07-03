@@ -367,3 +367,32 @@ Hugo hatte die richtige Steam-Karte tatsächlich schon ergattert und stolz auf d
 >   
 > Can I buy a new card tomorrow afternoon when I have new cash? Please don't give my box away, it was just my stupid nephew.  
 
+---
+
+## Einladung zu Bier und Bratwurst: Die UN kommt zum Schlossinsellauf
+
+Mr. Chris wittert die fette Beute und bleibt geschmeidig: Kein Problem, dass der Neffe die Kohle verzockt hat, Hugo soll einfach morgen die nächste Karte besorgen. Um den Druck hochzuhalten, plant die UN-Zentrale die Lieferung nun passgenau fürs Wochenende und verlangt einen exakten Zeitplan.
+
+> Thank you for your message. It has been received and acknowledged.  
+>   
+> That's okay. You can purchase and send the new €150 Steam card tomorrow afternoon once you have your funds available. Please let me know once you have sent it.  
+>   
+> Also, could you please confirm what time you will be available at home to receive the delivery within 48 hours after sending the Card? We are planning to arrange delivery on or before the weekend, so your availability will help us schedule it accordingly.  
+>   
+> Thank you, and I look forward to hearing from you.  
+
+Da hat er die Rechnung aber ohne Hugos Terminkalender gemacht! Samstag ist schließlich Schlossinsellauf in Lübben, und da wird jede helfende Hand gebraucht. In seiner Antwort vertröstet Hugo den Diplomaten charmant auf den Samstagabend, verspricht aber ein standesgemäßes, deutsches Willkommenskomitee:
+
+> Hello Mr. Chris,  
+>   
+> Thank you, you are very kind to wait for tomorrow.  
+>   
+> Regarding the weekend: This is perfect! On Saturday, we have the big "Schlossinsellauf" running race in our town. I am helping with the organization all day, so I am not at home.  
+>   
+> But I will be back at home in the evening from 18:00 (6 PM). Can you please tell the diplomat to arrive exactly at 18:30? Then I can invite him to our kitchen table for a cold beer and some German sausages after my hard work at the race.  
+>   
+> I will go to the bank and the gas station tomorrow afternoon and write to you immediately when I have the new Steam card.  
+>   
+> Best regards,  
+> Hugo  
+

@@ -76,7 +76,23 @@ Da haben die Herrschaften im Scammer-Büro wohl schlichtweg vergessen, den Whats
 
 > You are welcome to my temple where all kinds of problems are solved. You have made the right choice for contacting me and I assure you that I will help you solve whatever problems you are passing through. You have to tell me the exact problem that you are passing through ?  
 >   
-> For quick conversation you can write us on our Whatsapp number @ +14056187570  
+> For quick conversation you can write us on our Whatsapp number @ +14056187570
 
+Wir schreiben mal kurz hin, nach anfänglicher Verwirrung, geht es endlich ums Geld!  
 
+---
+
+## Vorhang auf für die magische Rechnung: 500 Euro für Geister-Shopping
+
+Da ist sie! Wie im Bild  zu sehen, hat der Übergang zu WhatsApp reibungslos geklappt und die Maske der uneigennützigen Nächstenliebe ist pünktlich gefallen. Sobald konkrete Probleme im Raum stehen, schrumpft die spirituelle Kraft ganz schnell auf ein weltliches Minimum zusammen: **Bargeld.**
+
+![500 Euro für gesegnete Gegenstände](/posts/2026-05-14-helga-schultheis/whatsapp_pricing.webp)
+
+**Die Highlights aus dem Chatverlauf:**
+
+* **Der Preis für das Jenseits:** Schlappe **500 €** verlangt der Meister für das Ritual.
+* **Die Begründung:** Er muss schließlich „spirituelle Gegenstände“ (*spiritual items*) einkaufen. Was genau das ist – ob Weihrauch, Hühnerfedern oder einfach nur Guthabenkarten – bleibt das Geheimnis des Tempels.
+* **Der Transparenz-Scherz:** Um Hugo zu beruhigen, verspricht der Scammer, nach dem Einkauf ein Foto (*„snap them“*) der magischen Utensilien als Beleg zu schicken. Kundenservice wird in der Kredit-Zauberer-Branche eben großgeschrieben!
+
+Hugo hat bereits reagiert, schluckt den Köder sichtlich und jammert pflichtbewusst über den hohen Preis, während er schon nach den Zahlungsmodalitäten fragt. Jetzt wird es spannend: Kommt die klassische iTunes-Karte, Steam-Guthaben oder doch der gute alte Western Union Transfer?
 
