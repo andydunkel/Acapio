@@ -196,3 +196,57 @@ Wer sich wundert, warum Kundenbetreuer "Michael Bueno" trotz bereits übermittel
 
 Hugo lässt sich davon aber natürlich nicht aus der Ruhe bringen. Er liefert brav die gewünschten Informationen – garniert mit einer Extraportion Wanne-Eickeler Charme. **Beziehungsstatus: es ist kompliziert**.
 
+---
+
+## Das Finale: Die Kostenfalle schnappt zu (oder versucht es zumindest)
+
+Da ist er, der Moment, auf den jeder Scambaiter wartet: Die Gebührenforderung. Plötzlich ist die Großzügigkeit von Tayeb Souami an Bedingungen geknüpft. "Michael Bueno" (oder wer auch immer das automatisierte Skript bedient, das uns jetzt nur noch stumpf mit "Hallo Kunde" anspricht) stellt uns vor die Wahl:
+
+* **Option 1:** Eine direkte Banküberweisung von einem ominösen "Santander Bank Fund-Konto". Kostet schlanke **750 EUR** für den Internationalen Währungsfonds (IWF) und die Versicherung.
+* **Option 2:** Eine exklusive "ATM Mastercard" inklusive Online-Konto für satte **1.100 EUR**. 
+
+> Hallo Kunde,  
+>   
+> Ihr Konto wurde erfolgreich eröffnet und Ihre Spende ist eingegangen. Wir möchten Ihnen nun die verfügbaren Überweisungsmöglichkeiten erläutern. Bitte wählen Sie die für Sie passende Option, damit wir die Überweisung schnellstmöglich abschließen können.  
+>   
+> ÜBERWEISUNGSOPTIONEN  
+>   
+> 1) Banküberweisung: Bei dieser Option wird das Geld vom Santander Bank Fund-Konto auf Ihr Bankkonto in Ihrem Land überwiesen. Hierfür fallen Gebühren in Höhe von 750 EUR (siebenhundertfünfzig Euro) für Bankgebühren und Versicherungs-/IWF-Kosten an.  
+>   
+> 2) Santander Bank ATM Mastercard: Bei dieser Option müssen Sie lediglich ein Online-Konto bei uns eröffnen. Wir stellen Ihnen dann die Zugangsdaten zur Verfügung, mit denen Sie Überweisungen von Ihrem Bankkonto auf ein beliebiges anderes Konto vornehmen können. Zusätzlich erhalten Sie eine Debit-Mastercard (ATM-Mastercard), mit der Sie an Geldautomaten und von Ihrem Santander Bankkonto Bargeld abheben können. Die Bearbeitung, der Versand und die Versicherung der ATM-Mastercard kosten Sie lediglich 1100 EUR (eintausendeinhundert Euro).  
+>   
+> Bitte prüfen Sie die oben genannte Option und teilen Sie uns Ihre Präferenz mit, damit wir die Überweisung Ihrer 2.500.000,00 EUR (zwei Millionen fünfhunderttausend Euro) veranlassen können.  
+>   
+> HINWEIS: Unabhängig von Ihrer Wahl müssen Sie die Zahlung zuerst leisten. Nach erfolgter Zahlung und Bestätigung der Zahlung erhalten Sie Ihre 2.500.000,00 EUR umgehend.  
+
+Und weil Betrüger nun mal Betrüger sind, kommt der alles entscheidende Hinweis im Kleingedruckten: **"Sie müssen die Zahlung zuerst leisten."** Vom Gewinn abziehen? Ach woher, das geht "aus rechtlichen Gründen" natürlich überhaupt nicht. 
+
+Hugo, der als 2. Kassenwart jeden Cent dreimal umdreht, wittert hier sofort ein bürokratisches Meisterwerk und schlägt den Scammer mit den eigenen Waffen: Der deutschen Vereins-Bürokratie!
+
+---
+
+## Hugo kontert mit der deutschen Vereins-Bürokratie!
+
+Wer glaubt, man könne einen gelernten Kfz-Mechaniker und amtierenden 2. Kassenwart mit ein paar plumpen Kontonummern und IWF-Gebühren einschüchtern, unterschätzt die Macht des deutschen Steuerrechts. Hugo zieht den einzig wahren Endgegner für internationale Scammer aus der Tasche: Die ordnungsgemäße Buchhaltung.
+
+Anstatt in Panik zu geraten oder die Kreditkarte zu zücken, schaltet Hugo sofort in den Beamten-Modus. Denn eines ist mal klar: Das Finanzamt Herne versteht bei unvollständigen Belegen überhaupt keinen Spaß. Hier ist Hugos absolut hieb- und stichfeste Antwort an die „Santander-Zentrale“:
+
+> Hallo Herr Bueno,  
+>   
+> Mensch, "Hallo Kunde", das klingt ja richtig offiziell! Da fühle ich mich ja fast wie ein Großinvestor an der Frankfurter Börse.  
+>   
+> Ich habe mir die Optionen mal ganz genau angeschaut und beim Clubabend mit dem Eberhard (unserem 1. Vorsitzenden) besprochen. Wir nehmen auf jeden Fall Option 1 (die normale Banküberweisung für 750 Euro). Die Mastercard für 1100 Euro ist mir zu teuer, und am Ende verliere ich die Karte noch im Baumarkt, so wie meinen Ausweis. Das gibt nur Ärger mit Elfriede.  
+>   
+> Aber jetzt mal Butter bei die Fische, Herr Bueno: Als 2. Kassenwart vom Dackelverein e.V. Wanne-Eickel kann ich hier nicht einfach 750 Euro aus der Vereinskasse an ein "Fund-Konto" überweisen, ohne dass mir das Finanzamt aufs Dach steigt! Bei uns im Ruhrpott gilt: Keine Buchung ohne Beleg! Wenn ich das einfach so überweise, kriege ich die Kasse am Jahresende vom Kassenprüfer um die Ohren gehauen.  
+>   
+> Damit ich die 750 Euro sofort anweisen kann, brauche ich von Ihnen:  
+>   
+> - Eine ordentliche Rechnung mit Stempel auf den Dackelverein e.V. Wanne-Eickel ausgestellt.  
+> - Den genauen Verwendungszweck (schreiben Sie bitte "Gebühren für Dackel-Spende" drauf, das versteht das Finanzamt Herne besser).  
+> - Ihre genaue Bankverbindung für die 750 Euro. Schicken Sie mir am besten ein Foto von der Zahlungskarte oder den IBAN-Wisch.  
+>   
+> Sobald der Eberhard und ich die Rechnung abgezeichnet haben, geht das Geld sofort raus. Die 2,5 Millionen können Sie ja schon mal warmstellen!  
+>   
+> Glückauf und Wuff,  
+> Ihr Hugo  
+
