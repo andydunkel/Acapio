@@ -396,3 +396,50 @@ Da hat er die Rechnung aber ohne Hugos Terminkalender gemacht! Samstag ist schli
 > Best regards,  
 > Hugo  
 
+---
+
+## Die UN drückt beim Schlossinsellauf die Daumen
+
+Mr. Chris wittert die nahende Beute und gibt sich als absoluter Gentleman: Er wünscht Hugo nicht nur viel Erfolg für den Schlossinsellauf, sondern hat den Samstags-Fahrplan auch schon fest im UN-Kalender notiert. Der Ablauf klingt wie aus einem Spionagethriller: Sobald die Steam-Karten verifiziert sind, geht der Schlüssel per 24-Stunden-Express raus. Kurz darauf soll der Diplomat höchstpersönlich – in Begleitung einer feierlichen UN-Delegation – bei Hugo anrücken, um die Übergabe der Millionen-Box notariell zu beglaubigen.
+
+> Hello Hugo,  
+>   
+> Thank you for your message and for the update about your schedule on Saturday. I appreciate you letting me know, and I hope the Schlossinsellauf is a great success.  
+>   
+> I have noted that you will make the payment tomorrow afternoon, as you mentioned. Once you send the Steam cards as we agreed earlier, I will immediately inform the diplomat of the arrangements.  
+>   
+> As soon as we receive and verify the cards, the key will be sent to your address by express delivery. It is expected to arrive within 24 hours. After you receive the key, the diplomat, together with some UN officials, will proceed to your home address so they can witness the signing of the attestation documents and the handover of the consignment box to you.  
+>   
+> Once the key has been dispatched from here, I will also inform you of the expected delivery time so you can prepare accordingly.  
+>   
+> Thank you for your cooperation, and I look forward to hearing from you tomorrow.  
+>   
+> Best regards,  
+> Chris  
+
+---
+
+### Das Imperium schlägt zurück: Hugo schaltet den Zoll ein 🛂💼
+
+Da Mr. Chris das Ganze derart professionell aufziehen will, zieht Hugo nun ebenfalls professionelle Saiten auf! 😎 Er wollte schließlich nur ein guter Bürger sein und rief direkt beim deutschen Zoll am Hamburger Flughafen an, um den bevorstehenden Millionen-Transport pflichtbewusst anzumelden. 📞✈️
+
+Der fiktive Zollbeamte „Herr Müller“ verstand verständlicherweise überhaupt keinen Spaß und drohte direkt mit der Festnahme des Diplomaten wegen des Verdachts auf illegale Geldwäsche, sollte die UN-Delegation ohne das offizielle **Formular 040000 (Declaration of Cash)** einreisen. 🛑🚨
+
+Kurzerhand hat Hugo dem verdutzten UN-Direktor das waschechte, bürokratisch-staubige PDF-Dokument der deutschen Bundesbehörden in den Anhang geklatscht. 📑🦅 Die 150 Euro für die Steam-Karte brennen zwar angeblich schon in Hugos Hosentasche, aber bevor Chris das offizielle Zolldokument nicht brav ausgedruckt, ausgefüllt und unterschrieben zurückschickt, rührt Hugo keinen Finger! 🤷‍♂️💸 Schließlich will er nicht, dass der Herr Diplomat am Samstag direkt vom Rollfeld in den deutschen Knast wandert! ⛓️🏃‍♂️
+
+> Hello Mr. Chris,  
+>   
+> I have a very big problem now! I wanted to be a good citizen and called the German Customs (Zoll) at Hamburg Airport today to ask how to clear the big consignment box.  
+>   
+> The customs officer, Herr Müller, told me that because the box contains a high amount of compensation cash, it is strictly illegal to bring it into Germany without a prior declaration! He said if the diplomat arrives without the official registration, the police will immediately arrest him for money laundering and confiscate all the money!  
+>   
+> Herr Müller sent me the official German Government document: "Form 040000 - Declaration of Cash".  
+>   
+> I have attached this official German Customs form to this email. Mr. Chris, you must print this out immediately, fill in all the details of the diplomat, sign it, and send a photo of it back to me so I can give it to Herr Müller!  
+>   
+> I have the €150 cash for the Steam card ready in my pocket, but I am too scared to buy it before I know the diplomat has filled out the official customs form. Please hurry, I don't want the diplomat to go to a German jail on Saturday!  
+>   
+> Best regards, Hugo  
+
+
+![Anmeldung von Barmitteln](/posts/2026-05-16-united-bank-for-africa/formular.webp)

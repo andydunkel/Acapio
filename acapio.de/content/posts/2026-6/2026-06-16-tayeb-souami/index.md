@@ -169,3 +169,30 @@ Erinnern wir uns kurz an die letzte Mail: *"Ich möchte Sie nicht nach Ihrem Aus
 > Mit freundlichen Grüßen, Michael Bueno, Kundenbetreuer/Berater  
 
 **Hugo bleibt entspannt, Fake-Ausweis und Fake-Daten gehen raus!**
+
+---
+
+## Warum wollen die eigentlich IMMER MEHR Daten?
+
+Die Scammer wollen noch mehr Daten:
+
+> Hallo Hugo,  
+>   
+> ich habe Ihre Informationen erhalten und die Bank wird Ihre Überweisung in Kürze bearbeiten. Bitte senden Sie uns umgehend diese drei weiteren Angaben, damit wir sie in unsere Datenbank aufnehmen können:  
+>   
+> Telefon:  
+> Beruf:  
+> Beziehung:  
+>   
+> Wir freuen uns auf Ihre Antwort.  
+>   
+> Mit freundlichen Grüßen,   
+> Michael Bueno,   
+
+Wer sich wundert, warum Kundenbetreuer "Michael Bueno" trotz bereits übermittelter Daten noch einmal nachbohrt, blickt tief in die Trickkiste des Social Engineerings. Hier geht es nicht um bürokratische Gründlichkeit, sondern um zwei ganz handfeste psychologische und technische Taktiken:
+
+1. **Die "Salami-Taktik" (Commitment & Consistency):** Betrüger fordern selten alles auf einmal. Sie fangen harmlos an und steigern sich Stück für Stück. Je mehr Schritte das Opfer bereits gemacht und je mehr Daten es preisgegeben hat, desto höher ist die psychologische Hürde, das Projekt abzubrechen ("Jetzt habe ich schon so viel ausgefüllt, jetzt ziehe ich es auch durch"). 
+2. **Daten-Validierung:** Oft nutzen die Scammer diese Nachfragen als Kontrollmechanismus. Sie wollen sehen, ob das Opfer bei den erfundenen Geschichten bleibt oder sich in Widersprüche verstrickt. Für die Betrüger ist das der Filter, um "echte" Opfer von lästigen Scambaitern zu trennen.
+
+Hugo lässt sich davon aber natürlich nicht aus der Ruhe bringen. Er liefert brav die gewünschten Informationen – garniert mit einer Extraportion Wanne-Eickeler Charme. **Beziehungsstatus: es ist kompliziert**.
+
