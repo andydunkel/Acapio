@@ -198,6 +198,7 @@ Hugo lässt sich davon aber natürlich nicht aus der Ruhe bringen. Er liefert br
 
 ---
 
+
 ## Das Finale: Die Kostenfalle schnappt zu (oder versucht es zumindest)
 
 Da ist er, der Moment, auf den jeder Scambaiter wartet: Die Gebührenforderung. Plötzlich ist die Großzügigkeit von Tayeb Souami an Bedingungen geknüpft. "Michael Bueno" (oder wer auch immer das automatisierte Skript bedient, das uns jetzt nur noch stumpf mit "Hallo Kunde" anspricht) stellt uns vor die Wahl:
@@ -249,4 +250,52 @@ Anstatt in Panik zu geraten oder die Kreditkarte zu zücken, schaltet Hugo sofor
 >   
 > Glückauf und Wuff,  
 > Ihr Hugo  
+
+
+## "Hallo Bruder" – Wenn die Millionen-Bank privat per WhatsApp drängelt
+
+Jetzt wird es richtig wild! Statt einer offiziellen Rechnung der Santander Bank schickt uns "Michael Bueno" eine deutsche Bankverbindung für die 750 Euro Überweisungsgebühr. Die Multi-Millionen-Spende aus den USA soll also über ein Girokonto von einem gewissen **Dieter Kothe** bei der Landessparkasse zu Oldenburg abgewickelt werden. Völlig seriös, wer kennt sie nicht, die internationalen IWF-Treuhandkonten bei der Sparkasse Oldenburg!
+
+> Bezüglich Ihrer E-Mail erhalten Sie umgehend die folgenden Bankverbindungsdaten. Bitte beachten Sie, dass es sich hierbei um die Überweisungsgebühr handelt. Alle Informationen werden dokumentiert und Ihnen zugesandt, damit Ihr Verein über die Transaktion informiert ist. Die Überweisung erfolgt unmittelbar nach Zahlungseingang. Auch die Überweisung Ihrer Spende wird Ihnen umgehend zugesandt. Das Dokument enthält Stempel und alle wichtigen Informationen zu dieser Spende.  
+>   
+> Die Bankverbindung lautet wie folgt:  
+>   
+> Name :Dieter K.
+> Iban...DE51 2805 0100 0001 0913 54  
+> BIC...SLZODE22XXX  
+>   
+> Landessparkasse zu Oldenburg  
+
+Da Hugo scheinbar nicht schnell genug zur Sparkasse gerannt ist, hat der hochoffizielle Kundenbetreuer auch direkt den Kanal gewechselt. Wie in `grafik.png` zu sehen ist, ging es auf WhatsApp erst förmlich los (*"Hier ist Michael Bueno..."*), bevor nach ein paar Tagen Pause jegliche Höflichkeitsmaske fiel: *"Hallo Bruder, wir haben nichts von dir gehört. Hoffe, es geht dir gut?"*
+
+![Auch via Whatsapp macht der Bruder Druck](/posts/2026-06-16/tayeb-souami/bruder.webp)
+
+Vom US-Millionär zum WhatsApp-Bruder in unter 48 Stunden – ein absoluter Traum! Hugo bleibt aber stur: Ohne stichhaltigen Beweis von Dieter Kothe gibt es keinen Cent aus der Dackelkasse.
+
+---
+
+## Wir haken nach!
+
+Wir lassen uns davon natürlich nicht aus der Ruhe bringen und haben per Mail direkt nachgehakt: Ohne eine offizielle Vollmacht und Bestätigung des Kontoinhabers fließt aus Hugos Dackelkasse kein einziger Cent!
+
+> Hallo Herr Bueno,  
+>   
+> Mensch, Klasse! Endlich haben wir die Daten. Aber sagen Sie mal, wer ist denn der Herr Dieter Kothe von der Landessparkasse zu Oldenburg? Ist das Ihr Chefjurist in Deutschland oder auch ein Mitglied im Dackelverein?  
+>   
+> Unser 1. Vorsitzender, der Eberhard, hat sich die IBAN eben angeguckt und direkt die Stirn gerunzelt. Er meint, wenn wir 750 Euro Vereinsvermögen an einen Herrn Kothe überweisen, braucht die Sparkasse Wanne-Eickel irgendeine Vollmacht oder eine Bestätigung von diesem Herrn Kothe, dass das Geld auch wirklich für die 2,5 Millionen Euro Spende gedacht ist. Nicht, dass der Herr Kothe sich von unseren 750 Euro einfach einen schönen Urlaub macht!  
+>   
+> Können Sie mir kurz eine Bestätigung oder ein Schreiben von Herrn Kothe schicken, wo drinsteht, dass er das Geld für Tayeb Souami entgegennimmt? Gerne mit Stempel! Sobald ich das habe, fahre ich sofort zur Filiale und werfe den Überweisungsträger ein!  
+>   
+> Glückauf, Hugo
+
+### Wie kommen die Betrüger an ein deutsches Bankkonto?
+
+Man könnte sich fragen: Wie passt eine angebliche Millionenspende aus den USA mit einer stinknormalen deutschen Sparkassen-IBAN zusammen? Dahinter steckt eine der gefährlichsten Methoden des Online-Betrugs: **Finanzagenten (Geldwäsche-Mules)**.
+
+Die Betrüger nutzen dieses Konto keineswegs selbst, sondern greifen auf zwei gängige Tricks zurück:
+
+1. **Ahnungslose Geldwäsche-Opfer:** Oft werden Menschen über gefälschte Jobangebote (z. B. als „Produkttester“ oder „Finanzmanager für Abrechnungen“) angeworben. Sie eröffnen ein Konto auf ihren eigenen Namen und leiten eingehendes Geld ahnungslos per Kryptowährung oder Western Union ins Ausland weiter.
+2. **Identitätsdiebstahl:** Manchmal wurden die Konten auch mit zuvor gestohlenen Ausweisdokumenten anderer Scam-Opfer eröffnet (genau deshalb fragen Betrüger am Anfang so oft nach Ausweiskopien!).
+
+Für die Scammer hat das zwei Vorteile: Eine deutsche IBAN wirkt auf deutsche Opfer erst einmal vertrauenerweckend, und das Risiko trägt am Ende der ahnungslose Kontoinhaber, bei dem später die Polizei vor der Tür steht.
 
