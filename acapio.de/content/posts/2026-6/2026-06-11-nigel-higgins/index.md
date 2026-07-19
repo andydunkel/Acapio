@@ -294,5 +294,43 @@ Scammer sind gierig. Wenn sie merken, dass die volle Summe nicht zu holen ist, g
 
 Die Mail ist raus – der psychologische Härtetest läuft! 🍿
 
+---
+
+## Wir machen erstmal Sendepause!
+
+Sommer, Sonne, [Biergarten](https://schluckinsellauf.de/2026/07/14/biergarten-rammingen/), wir antworten etwa eine Woche nicht, für die Scammer eine Tortur, Nachrichten kommen via E-Mail und via WhatsApp. Erst wird die Dringlichkeit dargestellt, angeblich hat der Anwalt hat bereits gezahlt, wir noch nicht.
+
+> Hugo, ich hoffe noch auf Ihre Antwort. Ich möchte nur einen Punkt klarstellen, um Missverständnisse zu vermeiden. Als ich Montag erwähnte, meinte ich den vorherigen Montag. Da Sie nicht online waren, war ich mir nicht sicher, ob Sie meine vorherige Nachricht gesehen haben. Mein Anwalt hat mir die 600 € bereits überwiesen, daher ist alles vorbereitet. Wir benötigen nun lediglich die Kontodaten des Treuhandkontos. Bitte kontaktieren Sie die Bank so schnell wie möglich und fordern Sie die Bankverbindung an, damit wir die Einzahlung vornehmen können. Ich werde Ihnen die Zahlungsbestätigung umgehend zusenden, sobald ich damit fertig bin. Sie können dann meine und Ihre Bestätigung an die Bank weiterleiten, damit beide Zahlungen verifiziert und die weitere Bearbeitung abgeschlossen werden kann.  
+>   
+> Vielen Dank für Ihre Kooperation. Ich freue mich darauf, bald die Bankverbindung von Ihnen zu erhalten.  
+
+Am Ende wird vorsorglich nachgefragt, ob alles in Ordnung ist.
+
+> Hallo Sir, warum antworten Sie nicht auf meine Nachrichten? Ich hoffe, alles ist in Ordnung, Sir. Bitte halten Sie mich auf dem Laufenden.  
+
+Hier ist die knackige Version für den Blog:
+
+---
+
+### Handlungswechsel: Hugo im Krankenhaus und Auftritt Schwester Dörte! 🏥🚑
+
+Eine Woche Funkstille reicht, um die Scammer in den Wahnsinn zu treiben. Während Nigel fast durchdreht, zünden wir die nächste Stufe im Scambaiting-Lehrbuch: Das plötzliche Krankenhaus-Drama!
+
+Hugo liegt flach, also übernimmt seine etwas unbedarfte Schwester Dörte das Ruder – live vom Smartphone aus der Klinik:
+
+> hallo herr higgins, hier ist dörte, die schwester von hugo. hugo hatte einen richtig schlimmen unfall beim feiern im biergarten am wochenende und liegt jetzt im krankenhaus. die hüfte ist gebrochen :( er hat mich gebeten mal nach seinen e-mails zu gucken, weil er meinte da kommt was wegen geld und millionen??? er kann gerade selber nicht schreiben, weil er im krankenbett liegt und viele medikamente kriegt. er sagt ich soll fragen was jetzt los ist und wie wir das geld kriegen? er sagt tut mir leid das er nicht geantwortet hat. mfg dörte  
+
+#### Warum das genial ist:
+
+1. **Neuer Köder:** Dörte weiß jetzt von den „Millionen“. Für die Scammer ist sie das perfekte, naive Opfer, das man vielleicht noch leichter manipulieren kann.
+2. **Zeitgewinn:** Hugo ist durch Schmerzmittel ausgeknockt – die perfekte Ausrede, warum alles länger dauert.
+3. **Der Charaktertest:** Fragt Nigel nach Hugos Gesundheit oder will er sofort die 500 Euro von der verunglückten Familie abgreifen?
+
+Dörte hat gedrückt – jetzt warten wir auf Nigels Reaktion! 🍿
+
+
+
+
+
 
 
