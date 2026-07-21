@@ -61,3 +61,13 @@ Besonders auffällig ist auch die penetrante Wiederholung der Transaktionsnummer
 Um den Ball flach zu halten und den Scammern direkt zu signalisieren, dass hier ein potenziell leichtgläubiges Opfer am Haken hängt, halten wir die erste Kontaktaufnahme bewusst simpel. Keine langen Erklärungen, stattdessen wird direkt die Neugier-Karte gespielt. Ein perfekter Köder für die Betrüger.
 
 > Hallo, meine Name ist HUgo aus Hamburg, ist das echt?  
+
+--- 
+
+## Die kurze Antwort
+
+Die Antwort lässt nicht lange auf sich warten und fällt eher kurz aus:
+
+> Bitte füllen Sie die Informationen korrekt aus.
+
+Nagut, dann senden wir halt ein paar Fake-Daten!
