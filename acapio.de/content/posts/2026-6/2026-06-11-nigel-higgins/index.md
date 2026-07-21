@@ -328,6 +328,34 @@ Hugo liegt flach, also übernimmt seine etwas unbedarfte Schwester Dörte das Ru
 
 Dörte hat gedrückt – jetzt warten wir auf Nigels Reaktion! 🍿
 
+---
+
+## Ein Hauch von Anstand? Nigel wünscht gute Besserung! 🏥💐
+
+Mit so viel Empathie hätte man bei einem Scammer gar nicht gerechnet! Nigel gibt sich überraschend fürsorglich, wünscht Hugo eine schnelle Genesung und stellt die Gesundheit „an erste Stelle“ – vergisst aber natürlich nicht, Dörte ganz beiläufig noch einmal an die 500 Euro zu erinnern:
+
+> Danke, dass du mir Bescheid gegeben hast. Es tut mir sehr leid, von Hugos Unfall zu hören. Bitte lassen Sie ihn wissen, dass ich ihm eine reibungslose Operation, eine schnelle Genesung und alles Gute in dieser schwierigen Zeit wünsche.  
+>   
+> In Bezug auf das, was Hugo erwähnte, ja, wir hatten gute Fortschritte gemacht. Wir sind bereits in der Phase der Eröffnung des Online-Kontos. Das letzte, worüber Hugo und ich gesprochen haben, war, dass wir jeweils eine Einzahlung von 500 € tätigen würden, um das Konto zu aktivieren, und danach würden wir mit den nächsten Schritten fortfahren. Das war das letzte Mal, dass ich von ihm gehört habe, also war ich besorgt, als ich keine Antwort erhielt.  
+>   
+> Im Moment ist Hugos Gesundheit das Wichtigste. Er muss sich keine Gedanken über die Reaktion machen, während er sich erholt. Sobald es ihm besser geht und er kommunizieren kann, können wir dort weitermachen, wo wir aufgehört haben. Wenn Sie in der Zwischenzeit Fragen haben oder eine Klarstellung benötigen, zögern Sie bitte nicht, mich zu informieren.  
+>   
+> Bitte übermitteln Sie Hugo meine besten Wünsche und sagen Sie ihm, dass ich mich darauf freue, von ihm zu hören, wenn es ihm gut genug geht.  
+
+### Warum der Scammer so sanft reagiert:
+
+Nigel spielt den verständnisvollen Onkel, um die neue Ansprechpartnerin Dörte nicht zu verschrecken und Vertrauen aufzubauen. Gleichzeitig hat er die geforderten 500 Euro geschickt in Dörtes Kopf verankert.
+
+---
+
+
+> hallo herr higgins, danke für die netten wünsche! ich war eben bei hugo im krankenhaus. er kriegt noch viele medikamente, aber er hat mich nochmal gedrängt, dass wir die 500 euro jetzt unbedingt überweisen sollen, damit alles klappt.  
+>   
+> ich weiß zwar gar nicht genau worum es geht, aber ich will ihm helfen damit er seine ruhe hat. wie genau sollen wir das geld denn jetzt bezahlen und wohin? schicken sie mir einfach die daten, dann kümmere ich mich darum.  
+>   
+> mfg dörte  
+
+
 
 
 

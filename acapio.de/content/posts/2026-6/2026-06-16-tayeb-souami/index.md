@@ -330,3 +330,23 @@ Hier hört der Spaß für Hugo endgültig auf! Man kann ja viel mit unserem treu
  
 Anstatt klein beizugeben, schaltet Hugo in den Angriffsmodus. Er verteidigt die Ehre seines Vereinsvorsitzenden und serviert den Scammern gleichzeitig den absoluten Albtraum eines jeden Vorschussbetrügers: Ein „Gegenangebot“ auf Ratenbasis. Da er nicht an die Vereinskasse rangeht, kratzt er sein privates Erspartes zusammen – natürlich nicht ohne den obligatorischen Vorschlag, den Rest einfach vom Gewinn abzuziehen. Schauen wir mal, wie die „Bankleitung“ in New Jersey auf dieses unmoralische Angebot reagiert:
 
+---
+
+## Der Rabatt des Grauens: Die Santander Bank geht auf 500 Euro runter!
+
+Dass internationale Großbanken und der Internationale Währungsfonds bei ihren Bearbeitungsgebühren feilschen wie auf einem Basar, dürfte ein Novum in der Finanzgeschichte sein! 
+
+Kaum hat Hugo erklärt, dass bei 450 Euro Schmerzgrenze Schluss ist, rudert "Michael Bueno" gewaltig zurück. Plötzlich sind die unumstößlichen IWF-Gebühren gar nicht mehr so unumstößlich: Hugo soll einfach **500 Euro** überweisen, und die restlichen 250 Euro werden freundlicherweise verrechnet. 
+
+> Hallo Herr Hugo,  
+>   
+> wir haben Ihre E-Mail erhalten und möchten Ihnen mitteilen, dass Sie eine großartige Idee hatten. Wir können uns jedoch nur darauf einigen, dass Sie zunächst 500 Euro bezahlen. Die restlichen 250 Euro werden dann verrechnet. Wenn Sie damit einverstanden sind, geben Sie mir bitte so bald wie möglich Bescheid.  
+>   
+> Mit freundlichen Grüßen,   
+> Michael Bueno,   
+
+Diese Wendung entlarvt die Betrüger endgültig. Es gab nie eine Versicherung, nie einen IWF und erst recht keine 2,5 Millionen Euro. Es geht den Betrügern schlichtweg darum, IRGENDEINEN Betrag abzugreifen – egal wie viel. 
+
+**Hugo geht zum Schein darauf ein und fragt nach der Bankverbindung. 😁**
+
+

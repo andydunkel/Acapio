@@ -372,3 +372,49 @@ Jetzt müssen sie sich entscheiden: Lassen sie den Fisch vom Haken oder erfinden
 
 Wir warten gespannt auf die Antwort der "Bank" – das Popcorn steht bereit! 🎬
 
+
+Hier ist der neue Absatz für deinen Blogartikel – kurz, gewohnt sarkastisch und mit der Erklärung zum deutschen Bankkonto:
+
+---
+
+## Der „Sonderrabatt“ ist da – inklusive deutscher IBAN! 🏦📉
+
+Da hat die Karotte vor der Nase der Scammer doch glatt gewirkt! Herr Pasco meldet sich mit besten Nachrichten zurück: Weil unser Hugo schließliche ein Bürger der Europäischen Union ist, darf er gnädigerweise eine *"Teilzahlung in Höhe von 291,00 €"* leisten. Damit ist der Versandeintrag plötzlich um über 150 Euro geschrumpft – wie großzügig!
+
+Doch das eigentliche Highlight ist die Bankverbindung, die uns der CFO für die Überweisung mitteilt. Nichts da mit dubioser Auslandsüberweisung oder Bitcoin: Wir sollen das Geld direkt auf ein stinknormales **deutsches Sparkassen-Konto** überweisen!
+
+> *„Um einen reibungslosen und sicheren Ablauf zu gewährleisten, verwenden Sie bitte ausschließlich die nachstehenden offiziellen Zahlungsdaten. [...] Nachdem Sie die Gebühr für den Economy-Versand in Höhe von 291,00 € bezahlt haben, senden Sie uns bitte eine Kopie Ihres Zahlungsnachweises zu.“*
+
+### Wie kommen internationale Scammer an ein deutsches Sparkassen-Konto? 🕵️‍♂️
+
+Viele fragen sich an dieser Stelle: *„Wenn die E-Mail ein Betrug ist, wieso gehört das Konto dann einer echten Person bei einer deutschen Bank?“*
+
+Hier kommen sogenannte **Finanzagenten oder Geldwäsche-Mules** ins Spiel. Die Betrüger nutzen dafür meist zwei Methoden:
+
+1. **Gutmütige Opfer (Job-Scam):** Der Kontoinhaber glaubt oft selbst an ein legales Stellenangebot (z. B. als „Produkttester“ oder „Finanzagent im Homeoffice“). Er bekommt das Geld von Opfern wie Hugo auf sein Konto überwiesen, behält eine kleine Provision und leitet den Rest per Kryptowährung oder Western Union ins Ausland weiter.
+2. **Identitätsdiebstahl:** Das Konto wurde mit gefälschten oder gestohlenen Ausweisdokumenten online eröffnet.
+
+Für die Scammer ist das perfekt: Die echte deutsche IBAN nimmt dem Opfer die letzte Skepsis. Das Erwachen kommt für den Kontoinhaber erst, wenn die Polizei wegen Geldwäsche vor der Tür steht.
+
+Mal schauen, was Hugo Herrn Pasco als „Zahlungsnachweis“ serviert... 🍿
+
+Hier ist der kurze, knackige Absatz für den Blog-Artikel:
+
+---
+
+### Hugos „Zahlungsnachweis“ ist raus! 📸💸
+
+Wenn die Gegenseite mit Gefälschtem bastelt, lässt sich Hugo natürlich nicht zweimal bitten! Kurzerhand hat er in der eigenen Bildbearbeitung den Pinsel geschwungen und dem CFO einen wunderschönen, brandneuen "Screenshot" seiner angeblichen Überweisung serviert.
+
+> **Hugo schreibt:**
+> *„OK, ich habe das Geld, überwiesen, hier ein sceenshot:“*
+
+![Wir haben überwiesen](/posts/2026-07-04-polnischer/trans.webp)
+
+Ein paar Klicks, die exakten 291,00 Euro abgebucht, Hugos Name im Verwendungszweck – schaut doch absolut „echt“ aus, oder? 😇
+
+Jetzt dürfen die Herrschaften von der *Preston Union Bank* erst einmal ihr Konto vergebens aktualisieren und darauf warten, dass das Geld eingeht. Ob sie den Braten riechen oder Hugo gleich die Tracking-Nummer für seine Platin-Karte schicken?
+
+Wir bleiben dran – Popcorn steht weiterhin bereit! 🍿
+
+
