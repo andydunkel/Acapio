@@ -349,4 +349,39 @@ Diese Wendung entlarvt die Betrüger endgültig. Es gab nie eine Versicherung, n
 
 **Hugo geht zum Schein darauf ein und fragt nach der Bankverbindung. 😁**
 
+---
+
+## "Echtzeitüberweisung" & Adresse in Mexiko: Das Skript fliegt auseinander!
+
+In der neusten Antwort legt "Michael Bueno" noch eine Schippe Unfug oben drauf. Die 500 Euro sollen jetzt bitte per **Echtzeitüberweisung** rausgehen. Der Grund ist simpel: Bei normalen Überweisungen besteht die Gefahr, dass die Bank oder das Opfer Lunte riecht und die Überweisung stoppt. Bei Echtzeit ist das Geld binnen Sekunden weg.
+
+> Hallo Hugo,  
+>   
+> ich habe deine E-Mail erhalten. Unten findest du die Zahlungsinformationen für die 500 Euro. Bitte nutze beim Senden eine Echtzeitüberweisung, damit die Bestätigung schnell erfolgt.  
+>   
+> Name der Bank: OLB  
+> Kontonamen: Maria Kothe  
+> Iban: DE86280200501904486600  
+> Land: Germany  
+
+Zudem offenbaren sich gleich zwei herrliche Pannen beim Betrüger:
+* **Das Kontokarussell:** Aus "Dieter Kothe" wird nun unvermittelt **Maria Kothe** bei der OLB. Das nächste Strohmann-Konto wird ins Rennen geschickt.
+* **Geografie für Fortgeschrittene:** Als Standort für die deutsche Bankverbindung gibt der Scammer allen Ernstes eine Adresse in *Ciudad Caucel* an. Das liegt mitten in **Mexiko**! Da ist dem Guten beim Kopieren seiner Textbausteine wohl das falsche Skript ausgerutscht.
+
+---
+
+## Der Plot-Twist: Hugo war bei der Bank!
+
+Jetzt wird die Daumenschraube angezogen! Nachdem die Betrüger bereits fleißig feilschen mussten, Strohmann-Konten ausgetauscht haben und versehentlich Adressen in Mexiko verschickt haben, folgt Hugos Meisterstreich. 
+
+> Hallo, ja ich war gestern bei der bank, die meinten ich solle das nicht überweisen das wäre betrug. was ist jetzt? 
+
+Statt die geforderten 447,50 Euro blind per Echtzeitüberweisung abzusenden, präsentiert Hugo den Betrügern die brutalste Realität: Er war am Schalter seiner Sparkasse. Und die nette Bankbeamtin hat das einzig Richtige getan und Klartext gesprochen.
+
+Für die Scammer beginnt jetzt das höchste Niveau des "Damage Control". Wie redet man einem Opfer ein, dass die eigene Hausbank unrecht hat und der mysteriöse Fremde aus dem Internet die Wahrheit sagt? Wir dürfen gespannt sein, welche kreativen Märchen "Michael Bueno" jetzt auspackt!
+
+
+
+
+
 

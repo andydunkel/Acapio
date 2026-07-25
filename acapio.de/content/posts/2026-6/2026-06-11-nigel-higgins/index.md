@@ -348,12 +348,68 @@ Nigel spielt den verständnisvollen Onkel, um die neue Ansprechpartnerin Dörte 
 
 ---
 
-
 > hallo herr higgins, danke für die netten wünsche! ich war eben bei hugo im krankenhaus. er kriegt noch viele medikamente, aber er hat mich nochmal gedrängt, dass wir die 500 euro jetzt unbedingt überweisen sollen, damit alles klappt.  
 >   
 > ich weiß zwar gar nicht genau worum es geht, aber ich will ihm helfen damit er seine ruhe hat. wie genau sollen wir das geld denn jetzt bezahlen und wohin? schicken sie mir einfach die daten, dann kümmere ich mich darum.  
 >   
 > mfg dörte  
+
+---
+
+## Volltreffer: Die Betrüger rücken ihre IBAN heraus! 🏦💥
+
+Dörtes Verwirrungstaktik hat auf ganzer Linie funktioniert: Nigel wittert die 500 Euro und schickt uns direkt die Kontodaten für das angebliche „Treuhandkonto in Europa“.
+
+> Vielen Dank für Ihre Nachricht und Ihre Hilfsbereitschaft. Ich weiß Ihre Unterstützung und Ihre Sorge wirklich zu schätzen.  
+>   
+> Ich werde alles in Ihrem Namen erledigen und sicherstellen, dass der Prozess reibungslos verläuft. Sobald ich Ihre Zahlung erhalten habe, werde ich meinen Anteil hinzufügen und den vollen Betrag sofort an die Zentrale übermitteln, damit alles ohne Verzögerung fortgesetzt werden kann. Ich werde Sie auch bei jedem Schritt auf dem Laufenden halten.  
+>   
+> Bitte lassen Sie mich wissen, welche Zahlungsmethode für Sie bequemer ist:  
+>   
+> Überweisung von Bank zu Bank  
+>   
+> Bitcoin  
+>   
+> Wenn Sie eine Banküberweisung bevorzugen, können Sie das Geld unter Verwendung der folgenden Angaben auf unser Treuhandkonto in Europa überweisen:  
+>   
+> Kontoinhaber: Ab Braimah  
+> IBAN: LT973370010000116434  
+> BIC: SUPULT22XXX  
+> Name der Bank: SumUp Pay  
+> Bankadresse: Upės g. 23, Vilnius, LT-08128  
+> Referenz: Familie/Freund  
+>   
+> Sobald Sie die Überweisung abgeschlossen haben, leiten Sie bitte den Zahlungsbeleg weiter, damit ich den Erhalt bestätigen und sofort fortfahren kann.  
+>   
+> Ich freue mich darauf zu hören, welche Zahlungsmethode Sie bevorzugen.  
+
+### 🔎 Was wir aus dieser Nachricht lernen:
+
+1. **Geldwäsche über Fintech-Konten:** Statt einer seriösen Großbank nutzen die Scammer ein litauisches Fintech-Konto von *SumUp Pay*. Solche Konten werden häufig über ahnungslose Finanzagenten (Geldwäsche-Mules) eröffnet oder mit gefälschten Dokumenten erstellt, um Gelder schnell ins Ausland weiterzuleiten.
+2. **„Familie/Freund“ als Verwendungszweck:** Dieser Hinweis ist ein echter Klassiker, damit die Bank bei der Überweisung keine internen Geldwäsche- oder Betrugs-Warnsysteme auslöst.
+3. **Alternative Bitcoin:** Natürlich bieten sie auch direkt Krypto an – unumkehrbar und anonym.
+
+---
+
+## Der „Upps, Zahlendreher!“-Trick 💸🔢
+
+Um Nigels Nerven auf die ultimative Zerreißprobe zu stellen, schickt Dörte ihm nun die angebliche Erlösung: Einen sauber gebastelten **Fake-Screenshot** der 500-Euro-Überweisung.
+
+![Hoppla, 2 am Ende der IBAN](/posts/2026-06-11-nigel-higgins/trans.webp)
+
+Der Clou dabei ist der eingebaute „Schusseligkeits-Fehler“: Statt an die Endnummer **34** ging das Geld laut Screenshot an die **32**.
+
+> **Hallo sorry, ich bin nicht so oft am computer wie hugo , geld ist überwiesen**
+
+### Warum dieser gefälschte Beleg genial ist:
+
+1. **Maximale Vorfreude:** Nigel sieht den Screenshot und glaubt, der Fisch sei im Netz.
+2. **Vorprogrammierte Verzweiflung:** Da das Geld wegen des IBAN-Drehers (und weil der Beleg schlicht gefälscht ist) niemals auf dem Konto ankommen wird, wird Nigel pausenlos sein Online-Banking aktualisieren.
+3. **Neue Ausreden-Runde:** Wenn der Scammer den Fehler bemerkt, muss er der fehlerversessenen Dörte nun schonend erklären, dass sie die Kohle an die falsche IBAN geschickt hat.
+
+Die Falle steht, der gefälschte Beleg ist raus – jetzt lehnen wir uns zurück und warten ab! 🍿💥
+
+
 
 
 
