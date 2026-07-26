@@ -154,4 +154,58 @@ Damit der VAE-Krimi nicht ins Stocken gerät, geben wir Frau Rafiq genau das, wo
 
 Jetzt sind wir gespannt, wie schnell der ominöse Anwalt auf der Bildfläche erscheint und welches gefälschte Formular uns als Nächstes ins Postfach flattert...
 
+---
 
+## Datenhunger und die mysteriöse Online-Bank
+
+Frau Rafiq spart nicht an Schmeicheleien und erklärt uns zur „reifen und vertrauenswürdigen Person“. Wer lässt sich das nicht gerne sagen? Doch hinter dem warmen Wortregen wird es jetzt konkret – und die Betrüger lassen die Maske ein Stück weiter fallen:
+
+* **Echte Daten erwünscht:** Plötzlich sollen wir Berufsangaben, Adresse, Telefonnummer und eine hochauflösende Kopie des Personalausweises oder Reisepasses abliefern. Ausweisdaten sind im Betrügermilieu eine begehrte Währung – sie werden genutzt, um spätere Opfer mit „echten“ Identitäten zu täuschen.
+* **Die Fake-Bank zeichnet sich ab:** Anstatt das Geld einfach auf unsere Sparkasse zu überweisen, sollen wir demnächst ein Konto bei einer ganz spezifischen „ausländischen Online-Bank“ eröffnen. 
+* **Der verlockende Möhre-vor-der-Nase-Trick:** Auf dem Dashboard dieser (meist von den Scammern selbst betriebenen) Fake-Bank werden wir demnächst die $13.000.000 als virtuellen Kontostand bewundern dürfen. Der Haken: Eine Auszahlung wird erst möglich sein, wenn wir angebliche Aktivierungsgebühren oder Freischaltcodes im Voraus bezahlen.
+
+Klassischer Datenhunger trifft auf die Vorbereitung der eigentlichen Geldfalle.
+
+<details class="scam-accordion">
+  <summary>Der Ausweis-Tausch und die dubiose Online-Bank</summary>
+  <div class="accordion-content">
+    <blockquote>
+      <p>Sehr geehrter Herr Hugo,<br>
+      vielen Dank noch einmal für Ihr aufrichtiges Interesse an dieser Transaktion. Ich freue mich sehr darüber, dass Sie eine ehrenwerte, reife und vertrauenswürdige Person sind, auf die ich mich verlassen kann. Ihr Status und Ihre Erfahrung geben mir großes Vertrauen, dieses Vorhaben gemeinsam mit Ihnen durchzuführen.<br>
+      Wie ich bereits erwähnt habe, machte die sensible Natur dieser Angelegenheit es erforderlich, Ihre Unterstützung in Anspruch zu nehmen. Ich weiß es sehr zu schätzen, dass Sie bereit sind, mir bei der Durchführung dieses Projekts zu helfen und möglicherweise bei der Investition der Gelder in Ihrem Land oder an einem anderen Ort mitzuwirken. Seien Sie versichert, dass alles auf legale Weise und in Übereinstimmung mit den internationalen Bankvorschriften sowie den Bestimmungen für Begünstigte abgewickelt wird. Darauf können Sie sich verlassen.<br>
+      Da ich beschlossen habe, Ihnen diese Transaktion anzuvertrauen, möchte ich Sie daran erinnern, dass sie Ihr Engagement und eine sorgfältige Begleitung erfordert. Wenn wir zielstrebig zusammenarbeiten, sollte die gesamte Transaktion innerhalb weniger Tage abgeschlossen sein.<br>
+      Bitte lesen Sie die folgenden Anweisungen sorgfältig durch und antworten Sie mir anschließend:<br>
+      Zunächst möchte ich gerne mehr über Ihren Beruf erfahren. Dieses Projekt ist sehr kapitalintensiv, und ich benötige Ihr volles Engagement und Vertrauen, um es erfolgreich abzuschließen. Obwohl wir uns bisher nicht persönlich kennengelernt haben, bin ich überzeugt, dass wir das notwendige Vertrauen aufbauen können, um dieses Projekt erfolgreich umzusetzen.<br>
+      Um die Überweisung zu erleichtern, suche ich nach einer ausländischen Online-Bank, bei der Sie ein Konto auf Ihren Namen eröffnen können. Dieses Konto soll für den Empfang der Gelder genutzt werden. Die Eröffnung eines Kontos bei einer solchen Bank wird uns vor einer Überprüfung durch die lokalen Banken meines Landes schützen und es uns ermöglichen, nach Abschluss der Transaktion ungestört über das Geld zu verfügen. Es ist äußerst wichtig, dass Sie meine Anweisungen sorgfältig befolgen, um die Sicherheit und den Erfolg dieses Vorhabens zu gewährleisten.<br>
+      Aufgrund meiner Position bei meiner Bank kann ich das Geld nicht auf meinen eigenen Namen überweisen, da dies Verdacht erregen würde. Deshalb ist Ihre Unterstützung von entscheidender Bedeutung. Möglicherweise müssen Sie ein Konto bei einer Korrespondenzbank eröffnen, die denselben Überweisungstelex-Typ wie meine Bank verwendet. Ich werde eine Einlagenbescheinigung auf Ihren Namen beschaffen, sodass Sie als Begünstigter der Gelder eingetragen werden. Sobald das Geld freigegeben ist, wird es auf Ihr Konto überwiesen, und anschließend können wir unsere jeweiligen Anteile diskret auf unsere persönlichen Bankkonten übertragen. Mein Rechtsanwalt wird alle erforderlichen Unterlagen vorbereiten, damit die Transaktion rechtlich abgesichert ist.<br>
+      Bevor wir fortfahren, muss ich die Unterlagen vervollständigen, mit denen Sie offiziell als Begünstigter der Gelder eingetragen werden. Hierfür benötige ich Folgendes:<br></p>
+      <p>Eine Kopie Ihres Ausweisdokuments (Reisepass oder Führerschein)<br>
+          Ihre aktuelle Wohnanschrift<br>
+          Ihre Telefonnummer<br></p>
+      <p>Diese Unterlagen werden meinem Rechtsanwalt übergeben, damit er die erforderlichen Dokumente vorbereiten kann. Gleichzeitig dienen sie der Bestätigung Ihrer Identität. Sobald ich diese Angaben von Ihnen erhalten habe, werde ich mit der Erstellung der Unterlagen beginnen, um Ihren Status als Begünstigter offiziell festzulegen. Nach Erhalt Ihrer Ausweiskopie werde ich Ihnen ebenfalls meinen Identitätsnachweis zukommen lassen, um Ihnen meine Aufrichtigkeit zu bestätigen.<br>
+      Bitte behandeln Sie dieses Projekt streng vertraulich und sprechen Sie aufgrund seines sensiblen Charakters sowie meiner beruflichen Verpflichtungen mit niemandem darüber.<br>
+      Ich freue mich auf Ihre baldige Antwort.<br>
+      Mit freundlichen Grüßen<br>
+      Frau Aaliyah Rafiq<br></p>
+    </blockquote>
+  </div>
+</details>
+
+---
+
+## Hugo antwortet: Kein WhatsApp für den 67-jährigen Fahrer
+
+Um das Bild des perfekten, leicht naiven Opfers abzurunden, schrauben wir Hugos Profil etwas zusammen. Wir verraten ihm (oder ihr) unseren angeblichen Beruf, machen uns ein paar Jahre älter und schieben modernen Messenger-Diensten direkt einen Riegel vor:
+
+> Sehr geehrte Frau Rafiq,
+> 
+> vielen Dank für das Vertrauen! Ich bin 67 Jahre alt und arbeite seit vielen Jahren als angestellter Fahrer. Mit Büroarbeit oder komplizierten Finanzdingen kenne ich mich nicht so gut aus, aber ich folge genau Ihren Anweisungen.
+> 
+> Ein Smartphone mit WhatsApp oder solchen Apps habe ich in meinem Alter nicht, ich erledige alles ganz altmodisch am Computer per E-Mail. 
+> 
+> Herzliche Grüße,  
+> Hugo
+
+Damit sitzen sie in der Falle: Wir geben ihnen exakt die Bestätigung, die sie hören wollen („ungebildet, folgsam, viel Geld in Aussicht“), nehmen ihnen aber gleichzeitig die Möglichkeit, uns schnell über WhatsApp abzuzocken.
+
+Jetzt warten wir ab, ob Frau Rafiq auch einen Führerschein von einem 67-jährigen Hugo akzeptiert – oder wie die gefälschte Online-Bank ins Spiel gebracht wird!

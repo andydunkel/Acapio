@@ -135,3 +135,37 @@ Hugo zeigt sich kooperativ und schickt dem angeblichen Millionär Name, Alter, B
 > Please send my information to your lawyer and tell me what happens next. I hope the €3,500,000 can be transferred soon because my BMW needs some repairs and the BMW Club clubhouse roof is leaking.  
 
 Dafür erfährt „Stephen“ direkt, wofür das Geld gebraucht wird: Der BMW verlangt nach Reparaturen und im Clubheim tropft es durchs Dach. Damit sollte die Stiftung eigentlich erkennen, dass hier ein besonders dringender Härtefall vorliegt. 🚗💸
+
+---
+
+## Jetzt übernimmt die Bank aus dem AOL-Postfach
+
+Wie im Scam-Handbuch vorgesehen, wird Hugo nun an die angebliche **Citizens Vault Finance Bank** weitergereicht. Die Bank ist offenbar so international und bedeutend, dass ihre Geschäftskorrespondenz über `citizenvaultfinance@aol.com` läuft. 🏦
+
+<details class="scam-accordion">
+  <summary>Vorgehen nach Scam-Handbuch: Ab gehts zur Citizen Vault Bank</summary>
+  <div class="accordion-content">
+    <blockquote>
+      <p>Hallo mein lieber Freund,<br></p>
+      <p>wie geht es Ihnen und Ihrer Familie? Ich freue mich, dass Sie mit dem Geld, das ich Ihnen geben werde, umgehen können. Ich habe die Finanzgesellschaft kontaktiert, und diese hat bereits eine Vollmacht ausgestellt, in der ich Sie als Begünstigten nenne. Sie sind nun der alleinige Begünstigte dieser Spende. Der Gesamtbetrag für Sie beträgt 3.500.000,00 € (drei Millionen fünfhunderttausend Euro). Meine einzige Bitte an Sie ist, dass Sie Bedürftigen, weniger Privilegierten und auch Obdachlosen in Ihrer Umgebung helfen, damit diese Spende von Ihnen profitieren können. Bitte nehmen Sie dies von mir als meinen Beitrag zur Menschheit und als Segen für andere an.<br></p>
+      <p>Laut geltender Rechtsprechung in Erbschaftsfällen sind solche Transaktionen in den Vereinigten Staaten in Abwesenheit und ohne mündliche Befragung durch die Bank möglich, jedoch nur unter Umständen, die eine echte Unannehmlichkeit darstellen. Wir sollten dies nutzen und die Angelegenheit so diskret und friedlich wie möglich erfolgreich abwickeln.<br></p>
+      <p>Bitte senden Sie der Citizens Vault Finance Bank eine Nachricht, damit Ihre Spende ausgezahlt wird. Meine Gebete und Segenswünsche begleiten Sie. Die Kontaktdaten und die E-Mail-Adresse der Citizens Vault Finance Bank finden Sie unten. Bitte kontaktieren Sie die Bank umgehend. Schreiben Sie ihr direkt eine E-Mail, da ich bereits eine Vollmacht für Sie habe und die Bank Ihre Rückmeldung erwartet, um die Überweisung Ihrer Spende zu bestätigen und einzuleiten. Bitte kooperieren Sie mit der Bank und unterstützen Sie sie nach Kräften.<br></p>
+      <p>Die E-Mail-Adresse der Bank finden Sie unten.<br></p>
+      <p>Ansprechpartnerin: Frau Christabel Egan<br>
+      Bank: Citizens Vault Finance Bank<br>
+      E-Mail-Adresse der Bank: citizenvaultfinance@aol.com<br></p>
+      <p>Hinweis: Bitte informieren Sie mich per E-Mail, sobald Sie die Bank kontaktiert haben.<br></p>
+      <p>Ich werde regelmäßig überprüfen, ob Sie bereits mit der Bank und meinem Anwalt über WhatsApp Kontakt aufgenommen haben, um die Überweisung Ihrer Spende zu ermöglichen. So kann alles für die Bank vorbereitet und die Überweisung Ihrer Spende veranlasst werden.<br></p>
+      <p>Mit freundlichen Grüßen, Stephen Schwarzman<br></p>
+    </blockquote>
+  </div>
+</details>
+
+Besonders kreativ ist die Mischung aus Spende, Erbschaftsrecht, Vollmacht und diskreter Abwicklung. Inhaltlich passt kaum etwas zusammen, aber Hauptsache, es klingt nach Anwalt, Bank und wichtigen Dokumenten.
+
+Der nächste Schritt ist absehbar: Frau Christabel Egan wird vermutlich die Auszahlung bestätigen und anschließend eine Gebühr verlangen – etwa für Steuern, Versicherung, Freigabe oder Überweisung. Die 3,5 Millionen Euro bleiben dabei natürlich weiterhin reine Fantasie. 💸
+
+Auffällig ist auch die Kontrolle: „Stephen“ möchte sofort informiert werden, sobald Hugo die Bank kontaktiert hat. So bleibt der Betrüger im Gespräch und kann den Ablauf steuern. Aus der angeblichen Spende wird nun ganz offiziell ein klassischer Vorschussbetrug.
+
+**Hugo schreibt der Bank mal ein paar Zeilen, der nächste Schritt steht auch schon im Handbuch, eine Kontoeröffnung mit Kosten.**
+
