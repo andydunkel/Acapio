@@ -92,3 +92,52 @@ Genau darum geht es in dieser Phase: Die Betrüger wollen verwertbare persönlic
 Die Kreditkarte und die 1,8 Millionen Dollar sind erfunden. Die Forderung nach echtem Geld dürfte dagegen schon bald im Postfach landen.
 
 Wir schreiben ein paar Fake-Daten zurück und warten mal ab. WhatsApp haben wir nicht.
+
+---
+
+## Jetzt kostet der Millionengewinn plötzlich 170 Euro
+
+Da ist sie endlich: die unvermeidliche Gebühr. 💸 Für schlappe **170 Euro** soll die geheimnisvolle Mastercard eingerichtet und zugestellt werden – natürlich angeblich mit den kompletten 1,8 Millionen Dollar darauf.
+
+> Bei dieser Methode wird der gesamte Betrag auf unsere weltweit gültige Bank-Mastercard geladen und an die Adresse des Empfängers geliefert. Nach Erhalt der Karte erhält der Empfänger die vierstellige PIN per E-Mail und kann anschließend an Geldautomaten Geld abheben oder Überweisungen vornehmen.
+>
+> Mit dieser Bankkarte können Sie Geld an Ihre lokalen Banken überweisen, ohne dass die Steuerbehörden dies prüfen. Die Kosten für die Einrichtung und Zustellung der Karte betragen 170,00 €.
+>
+> Da keine Bank die direkte Überweisung eines so hohen Betrags auf ein Privatkonto genehmigen würde, soll die Premium-Bankkarte angeblich als interne Transaktion gelten und nicht von Finanzaufsichtsbehörden geprüft werden.
+
+
+Besonders dreist ist die Erklärung, man könne mit der Karte Geld bewegen, **ohne dass Steuerbehörden oder Finanzaufsicht etwas davon merken**. Damit versuchen die Betrüger, ihre völlig absurde Konstruktion wie einen cleveren Banktrick aussehen zu lassen. Tatsächlich liefert die Mail nur weitere Warnsignale: angebliche Umgehung von Kontrollen, eine Vorauszahlung und jede Menge erfundener Finanzsprache.
+
+![Unser angeblicher Gewinn](/posts/2026-07-21-kahraman/winner.webp)
+
+Passend dazu wurde auch noch ein Foto eines angeblichen Schecks geschickt. Darauf steht zwar der richtige Betrag, aber weder eine persönliche Zuordnung zum Empfänger noch ein nachvollziehbarer Zusammenhang zur angeblichen Kreditkarte. Der Scheck dient lediglich als Kulisse, damit die Geschichte etwas offizieller wirkt. 🧾
+
+Das eigentliche Ziel ist jetzt klar: **170 Euro kassieren**. Danach folgen erfahrungsgemäß weitere Kosten – etwa für Aktivierung, Versicherung, PIN-Freigabe oder Zoll. Die 1,8 Millionen bleiben Fantasie, die Gebühren dagegen wären echtes Geld.
+
+---
+
+## Hugo fragt nach – und entdeckt den falschen Gewinner
+
+Bevor Hugo die 170 Euro überweist, möchte er noch ein paar völlig unverschämte Dinge wissen: Welche Bank stellt die Karte aus, wo sind die Vertragsunterlagen und warum steht auf dem angeblichen Millionenscheck eigentlich ein ganz anderer Name? 🧐
+
+> Guten Tag Frau Kahraman,  
+>   
+> vielen Dank für die Erklärung. Das klingt ja nach einer sehr praktischen Karte, besonders der Teil, bei dem weder Steuerbehörden noch Finanzaufsicht etwas bemerken sollen. 😄  
+>   
+> Bevor ich die 170 Euro bezahle, hätte ich bitte noch ein paar Informationen:  
+>   
+> – Name und Anschrift der ausstellenden Bank  
+> – genaue Bezeichnung der Mastercard  
+> – Vertragsunterlagen und Gebührenübersicht  
+> – offizielle Rechnung für die 170 Euro  
+> – Nachweis, dass der Scheck auf meinen Namen ausgestellt wurde  
+>   
+> Außerdem wundert mich, dass auf dem Foto des Schecks ein anderer Name steht. Ist das der vorherige Gewinner oder wurde versehentlich das falsche Foto geschickt?  
+>   
+> Mit freundlichen Grüßen  
+> Hugo  
+
+
+Genau an solchen Nachfragen geraten Betrüger oft ins Schwimmen. Denn hinter der beeindruckenden Geschichte gibt es weder eine echte Bank noch einen Vertrag oder eine nachvollziehbare Zahlung. Stattdessen folgen meist Ausreden, neue Dokumente – oder direkt die nächste dringende Zahlungsaufforderung.
+
+

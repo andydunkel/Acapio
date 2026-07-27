@@ -360,12 +360,12 @@ In der neusten Antwort legt "Michael Bueno" noch eine Schippe Unfug oben drauf. 
 > ich habe deine E-Mail erhalten. Unten findest du die Zahlungsinformationen für die 500 Euro. Bitte nutze beim Senden eine Echtzeitüberweisung, damit die Bestätigung schnell erfolgt.  
 >   
 > Name der Bank: OLB  
-> Kontonamen: Maria Kothe  
+> Kontonamen: Maria K.  
 > Iban: DE86280200501904486600  
 > Land: Germany  
 
 Zudem offenbaren sich gleich zwei herrliche Pannen beim Betrüger:
-* **Das Kontokarussell:** Aus "Dieter Kothe" wird nun unvermittelt **Maria Kothe** bei der OLB. Das nächste Strohmann-Konto wird ins Rennen geschickt.
+* **Das Kontokarussell:** Aus "Dieter K." wird nun unvermittelt **Maria K.** bei der OLB. Das nächste Strohmann-Konto wird ins Rennen geschickt.
 * **Geografie für Fortgeschrittene:** Als Standort für die deutsche Bankverbindung gibt der Scammer allen Ernstes eine Adresse in *Ciudad Caucel* an. Das liegt mitten in **Mexiko**! Da ist dem Guten beim Kopieren seiner Textbausteine wohl das falsche Skript ausgerutscht.
 
 ---
@@ -423,8 +423,54 @@ Genug verhandelt! Hugo hat die Nase voll von mysteriösen Gebühren, wechselnden
 
 Die Ansage ist unmissverständlich: Entweder liegen bis Montag hieb- und stichfeste Beweise auf dem Tisch, oder die gesamten Mailverläufe samt der Kontodaten von "Maria Kothe" wandern direkt zur Polizeidienststelle. Für die Scammer heißt das: Handeln oder Abtauchen. Wir sind gespannt, ob "Michael Bueno" noch einmal den Mut findet zu antworten!
 
+---
 
+## Panik in der Scam-Zentrale: Den Betrügern schwimmen die Felle davon!
 
+An diesem Punkt ist das Spiel für die Betrüger eigentlich gelaufen – und das wissen sie auch. Hugos Ankündigung, mit allen Mails und Kontodaten zur Polizei zu gehen, hat in der Betrugszentrale sichtbare Panik ausgelöst. Gleich zwei E-Mails feuert "Michael Bueno" hintereinander ab, um irgendwie noch zu retten, was nicht mehr zu retten ist.
 
+> Hallo Hugo,  
+>   
+> Zunächst einmal: Woher wusste die Bank, dass es sich um Betrug handelt? Und welchen Zweck hatte die Überweisung, die Sie angegeben haben? Ich möchte Sie bitten, online nach Informationen über Herrn Tayeb Souami zu suchen, der Ihnen diese Spende zukommen lässt und wie er sie auch an andere Personen verteilt. Denken Sie nicht, dass Sie der Einzige sind, dem das passiert ist. Es ist Ihr Geld, und Sie haben zwei Möglichkeiten: es anzunehmen oder nicht.  
+>   
+> Sie können das Geld immer noch von Ihrem Konto abheben und von einem anderen Konto überweisen, falls die Bank dies nicht zulässt. Wählen Sie als Überweisungsoption „Familie und Freunde“. Sie werden sehen, dass die Überweisung ankommt. Ich verstehe, dass die Bank versucht, Sie zu schützen, aber glauben Sie mir, ich würde Ihnen niemals schaden.  
+>   
+> Mit freundlichen Grüßen,  
+> Michael Bueno,   
+> Kundenbetreuer/Berater 
+
+Dabei wird das Skript volllends demontiert:
+* **Verzweifelte Umwege:** Weil die eigene Hausbank die Betrugsmasche entlarvt hat, rät der "Santander-Berater" allen Ernstes dazu, die Bank zu umgehen, das Geld bar abzuheben und per *"Familie und Freunde"* zu schicken. Hauptsache, die Kohle fließt irgendwie.
+* **Die Absurdität des Jahres:** Der absolute Höhepunkt der Verzweiflung ist jedoch die Drohung, dass die Warnung der Sparkassenbeamtin *"die Mitarbeiterin ins Gefängnis bringen könnte"*. Wenn Betrüger versuchen, ehrlichen Bankangestellten mit dem Gesetzbuch zu drohen, ist der Verzweiflungspegel am absoluten Anschlag angekommen.
+
+> Bezüglich Ihrer E-Mail: Es liegt kein Betrug im Zusammenhang mit dieser Spende vor. Ein solch schwerwiegender Vorwurf könnte den Bankmitarbeiter ins Gefängnis bringen.  
+>   
+> Zur Information: Die Ihnen zugesandten Bankdaten wurden Ihnen von der Bank Vertretung in Deutschland mitgeteilt. Sie dienten der schnellen Auswahl der Überweisungsgebühr. Sie sollten sich darüber im Klaren sein, dass diese Spende nicht betrügerisch ist. Es liegt nun an Ihnen, ob Sie die Spende annehmen möchten oder nicht.  
+
+Man kann förmlich zusehen, wie den Betrügern die Felle davonschwimmen. Hugo setzt dem Schauspiel jetzt ein trockenes Ende.
+
+---
+
+## Das Finale: Der Polizei-Bluff sitzt – und das Fazit!
+
+Hier hat Hugo den Sack zugegemacht. Natürlich sind wir nicht wirklich morgens um 8:00 Uhr zur Polizeiwache Herne-Wanne marschiert – aber den Betrügern gegenüber haben wir genau das eiskalt behauptet. Und die Drohung mit der Anzeige gegen "Maria K." und ihr OLB-Konto hat gesessen. Danach war Funkstille im Postfach!
+
+Dieser Bluff zeigt perfekt, wie man das Spiel umdreht: Sobald man echte Behörden, deutsche IBANs und konkrete Namen ins Spiel bringt, wird den Scammern der Boden unter den Füßen zu heiß. 
+
+---
+
+### Fazit unseres Scambaiting-Tagebuchs
+
+Dieser Fall ist ein Lehrbuchbeispiel für die typische Dynamik moderner Online-Märchen:
+
+1. **Das Lockmittel:** Echte Namen realer Lottogewinner (Tayeb Souami) gepaart mit utopischen Millionenspenden.
+2. **Die Vertrauensfalle:** Links zu echten Medienberichten und psychologische Kumpel-Tricks („Ich will gar nicht deinen Ausweis sehen“).
+3. **Die Kostenfalle:** Plötzliche Bearbeitungsgebühren für Versicherung und IWF, die angeblich nicht vom Gewinn abgezogen werden können.
+4. **Die Strohmann-Konten:** Deutsche IBANs von angeblichen "Bankvertretern" (Dieter/Maria Kothe), die in Wahrheit als Finanzagenten zur Geldwäsche missbraucht werden.
+5. **Die Panik-Phase:** Sobald der Opfer-Fisch am Haken zu entgleiten droht, fallen alle Masken – es wird feilschen, drohen ("Frau Becker wandert ins Gefängnis") und per WhatsApp-Emoji betteln geübt.
+
+**Das Wichtigste zum Schluss:** So unterhaltsam dieses Experiment für uns und Hugo aus Wanne-Eickel auch war – antworten Sie im Alltag niemals auf solche Nachrichten. 
+
+**Verschieben Sie diese E-Mails einfach direkt in den Papierkorb!**
 
 

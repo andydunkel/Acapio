@@ -123,3 +123,35 @@ Wir spielen den Ball also zurück und fordern Beweise:
 
 Damit liegt die Dringlichkeit wieder bei den Betrügern. Wir dürfen gespannt sein, mit welch kreativen Photoshop-Zertifikaten oder gefälschten Ausweisen „Herr Divan“ nun versuchen wird, Hugo die Echtheit des Millionengewinns zu beweisen.
 
+---
+
+## Die Verwirrung ist komplett: Wer zahlt hier eigentlich wen?
+
+Auf unsere Bitte nach einem Nachweis reagieren die Betrüger mit einer Antwort, die schlichtweg verwirrend ist. Anstatt ein gefälschtes Dokument zu schicken, drehen sie die Logik der eigenen Masche komplett auf den Kopf:
+
+> Ihre schnelle Antwort ist erforderlich, damit wir Ihnen die Zahlung von 399 Euro überweisen können, um Ihre erste Transaktion über 10.000 Euro zu aktivieren. Diese steht dann zur Abholung bei einer Western Union-Filiale in Ihrer Nähe bereit, sodass Sie die erste Überweisung abholen können. Anschließend können wir die zweite Überweisung über 10.000 Euro veranlassen.  
+
+Moment mal... DIE wollen HUGO die 399 Euro überweisen? 
+
+Hier hat der Scammer vermutlich schlicht den Überblick über seine Textbausteine verloren oder der Übersetzungsservice hat spektakulär versagt. Eigentlich war der Plan ja, dass *wir* 399 Euro Vorschuss zahlen. 
+
+Hier ist der passende Textabschnitt für deinen Blogartikel, um diesen genialen Schachzug einzuleiten:
+
+---
+
+### Der Meisterplan: Hugo geht nach Wanne-Eickel!
+
+Anstatt uns weiter im Kreis der wirren Übersetzungsschleifen zu drehen, lassen wir Hugo die bodenständigste und für Scammer gefährlichste Karte überhaupt spielen: den echten Menschenverstand vor Ort.
+
+Da Internetüberweisungen für Hugo ohnehin viel zu kompliziert sind, verlegt er die Angelegenheit einfach in die reale Welt. Die Ansage an „Herrn Divan“ lässt keinen Raum für Zweifel:
+
+> **Hallo,**
+> ach so ist das! Aber wissen Sie was? Das mit dem Hin- und Herüberweisen über das Internet ist mir ehrlich gesagt ein bisschen zu kompliziert, da kenne ich mich nicht so gut mit aus.
+> Ich habe eben nachgeschaut: Morgen früh fahre ich sowieso nach Wanne-Eickel zum Einkaufen. Da gibt es ja auch eine Western Union Filiale! Ich gehe da einfach morgen direkt an den Schalter, nehme meinen Personalausweis und die Nummer (MTCN: 2010-166-276) mit und frage die Damen und Herren vor Ort. Die können mir sicher direkt erklären, wie wir das mit den 399 Euro und den ersten 10.000 Euro am besten machen.
+> Ich gebe Ihnen Bescheid, sobald ich aus der Filiale zurück bin!
+> Viele Grüße,
+> Hugo
+
+Ein absoluter Albtraum für Online-Betrüger! Nichts fürchtet ein Scammer mehr als den Schaltermitarbeiter einer echten Filiale, der dem potenziellen Opfer sofort und ohne Umschweife erklärt, dass es sich hierbei um eine billige Abzocke handelt.
+
+Man darf gespannt sein, welche hanebüchenen Ausreden den Betrügern jetzt einfallen, um Hugo im letzten Moment noch vom Gang nach Wanne-Eickel abzuhalten!

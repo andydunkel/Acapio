@@ -169,3 +169,43 @@ Auffällig ist auch die Kontrolle: „Stephen“ möchte sofort informiert werde
 
 **Hugo schreibt der Bank mal ein paar Zeilen, der nächste Schritt steht auch schon im Handbuch, eine Kontoeröffnung mit Kosten.**
 
+---
+
+## Die Bank möchte Hugo jetzt ganz genau kennenlernen
+
+Kaum meldet sich die angebliche Bank, beginnt die große Datensammlung. Vorname, Nachname, Adresse, Geburtsdatum, Familienstand und natürlich die Mobilnummer – für eine angebliche Spende braucht man offenbar fast mehr Angaben als für einen echten Kreditantrag. 🏦
+
+<details class="scam-accordion">
+  <summary>E-Mail der angeblichen Bank</summary>
+  <div class="accordion-content">
+    <blockquote>
+      <p>Sehr geehrte Kundin, sehr geehrter Kunde,<br></p>
+      <p>ich hoffe, es geht Ihnen gut.<br></p>
+      <p>Im Rahmen unseres Registrierungs- und Verifizierungsprozesses bitten wir Sie, uns die folgenden Informationen mitzuteilen, damit wir Ihre Daten korrekt erfassen und reibungslose und sichere Transaktionen gewährleisten können:<br></p>
+      <p>1. Vorname:<br>
+      2. Nachname:<br>
+      3. Zweiter Vorname:<br>
+      4. Land:<br>
+      5. Bundesland/Provinz:<br>
+      6. Stadt/Ort:<br>
+      7. Mobilnummer:<br>
+      8. Wohnadresse:<br>
+      9. Geschlecht:<br>
+      10. Geburtsdatum:<br>
+      11. Familienstand:<br></p>
+      <p>Wir versichern Ihnen, dass Ihre Angaben streng vertraulich behandelt und gemäß den geltenden Datenschutzbestimmungen verarbeitet werden.<br></p>
+      <p>Bitte füllen Sie die obigen Angaben aus und senden Sie sie uns baldmöglichst zurück. Sollten Sie Fragen haben oder Hilfe benötigen, wenden Sie sich bitte an unseren Kundenservice. Wir helfen Ihnen gerne weiter.<br></p>
+      <p>Vielen Dank für Ihre Mitarbeit und die zügige Bearbeitung dieser Anfrage. Wir schätzen Ihr Vertrauen und freuen uns darauf, Sie bald wieder bei uns begrüßen zu dürfen.<br></p>
+      <p>Mit freundlichen Grüßen,<br>
+      Frau Christabel Egan<br>
+      Bankmanagerin<br></p>
+    </blockquote>
+  </div>
+</details>
+
+Besonders beruhigend ist der Hinweis auf Datenschutz und streng vertrauliche Verarbeitung. Schließlich ist `citizenvaultfinance@aol.com` praktisch das Fort Knox unter den Bankadressen.
+
+Noch fehlt die eigentliche Gebührenforderung. Aber das Muster ist klar: Erst werden möglichst viele persönliche Daten eingesammelt, danach folgt meist die Nachricht, dass vor der Auszahlung nur noch eine kleine Steuer, Freigabegebühr oder Versicherung bezahlt werden müsse. Die 3,5 Millionen Euro rücken damit keinen Schritt näher – die Betrüger dafür schon.
+
+
+
