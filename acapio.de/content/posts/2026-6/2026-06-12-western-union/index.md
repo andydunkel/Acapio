@@ -155,3 +155,31 @@ Da Internetüberweisungen für Hugo ohnehin viel zu kompliziert sind, verlegt er
 Ein absoluter Albtraum für Online-Betrüger! Nichts fürchtet ein Scammer mehr als den Schaltermitarbeiter einer echten Filiale, der dem potenziellen Opfer sofort und ohne Umschweife erklärt, dass es sich hierbei um eine billige Abzocke handelt.
 
 Man darf gespannt sein, welche hanebüchenen Ausreden den Betrügern jetzt einfallen, um Hugo im letzten Moment noch vom Gang nach Wanne-Eickel abzuhalten!
+
+---
+
+## Panik in der Betrüger-Zentrale: „Gehen Sie bloß nicht in die Filiale!“
+
+Die Reaktion der Scammer ließ nicht lange auf sich warten – und fällt genau so aus, wie man es bei dieser Masche erwartet. Statt gelassen zu bleiben, schlagen die Betrüger plötzlich einen deutlich Schärferen und fast schon vorwurfsvollen Ton an. 
+
+Der Grund ist simpel: Ein Besuch in einer echten Filiale ruiniert ihr komplettes Lügengebäude.
+
+> Sie haben sich geweigert, die 399 Euro für die Aktivierung Ihrer Transaktion zur Abholung zu bezahlen. Sie möchten das Geld bei Western Union abholen, obwohl die MTCN-Transaktion noch nicht aktiviert ist?  
+>   
+> Leider kann Western Union Ihnen das Geld nicht auszahlen, da die Transaktion an Ihrem Abholort nicht aktiviert wurde. Sie müssen die 399 Euro zuerst bezahlen, damit Ihre MTCN-Transaktion in der Western-Union-Filiale, in der Sie das Geld abholen möchten, aktiviert werden kann.  
+>   
+> Soll ich Ihnen die Informationen senden, die Sie für die Überweisung der 399 Euro benötigen? Damit wir Ihre MTCN-Transaktion für die Abholung der 10.000 Euro bei Western Union aktivieren können?  
+
+Anstatt einzugehen, wie die Filiale vor Ort helfen könnte, versuchen die Betrüger krampfhaft, Hugo vom Gang zum Schalter abzuhalten. Ihre Logik: Das System der Filiale kennt die MTCN angeblich erst, wenn *vorab* die 399 Euro irgendwohin überwiesen wurden. 
+
+Dass Western Union-Überweisungen in der Realität genau andersherum funktionieren (der Sender zahlt die Gebühr beim Erstellen, der Empfänger holt das Geld kostenfrei ab), ignoriert „Herr Divan“ natürlich gekonnt. Stattdessen wird direkt die Überweisungsadresse für die 399 Euro angeboten.
+
+### Hugo fragt nach!
+
+Wir lassen Hugo also von seinem (fiktiven) Ausflug nach Wanne-Eickel berichten und konfrontieren die Scammer direkt mit der bitteren Wahrheit der Schaltermitarbeiterin!
+
+> ach Mensch, jetzt schlagen Sie aber einen ganz schön strengen Ton an! Ich habe mich doch gar nicht geweigert. Ich habe doch nur gesagt, dass ich mich mit dem Internet nicht so auskenne und lieber mit den Leuten am Schalter rede.  
+>   
+> Ich war eben in der Filiale in Wanne-Eickel und habe der netten Dame am Schalter Ihre Mail und die MTCN (2010-166-276) gezeigt. Sie hat die Nummer im System gesucht und meinte aber, diese Nummer existiert überhaupt nicht. Und als ich ihr erzählt habe, dass ich 399 Euro überweisen soll, um 10.000 Euro zu aktivieren, hat sie kurz gelacht und gemeint, ich solle bloß kein Geld irgendwohin überweisen, weil das ein Betrug ist.  
+>   
+> Stimmt das denn etwa? Die Dame am Schalter arbeitet doch direkt bei Western Union, die müsste das doch eigentlich wissen? Wer hat denn jetzt recht, Sie oder die Dame am Schalter?  
