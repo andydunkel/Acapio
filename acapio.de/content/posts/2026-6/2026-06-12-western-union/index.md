@@ -220,6 +220,39 @@ Da wir natürlich unbedingt wissen wollen, auf welches Bankkonto oder über welc
 > Viele Grüße,  
 > Hugo  
 
+Was für ein grandioses Finale für den heutigen Tag! Die Maske des angeblichen Milliardenkonzerns ist nicht nur gefallen, sie ist mit Anlauf im hohen Bogen davonfliegend im Staub gelandet.
 
+---
 
+## Das Absurde auf die Spitze getrieben: Die Zahlungsdaten
+
+Wer bis zu diesem Punkt tatsächlich noch geglaubt hat, es hier mit einer offiziellen Stelle von Western Union zu tun zu haben, wird spätestens jetzt mit der vollen Breitseite der Realität konfrontiert.
+
+Kein Firmenkonto, keine Abwicklungsstelle in Denver, kein Treuhandkonto. Stattdessen schicken uns die Betrüger eine deutsche IBAN bei der Revolut Bank, ausgestellt auf den Namen **Ute Margarethe W.**.
+
+> Hier sind die Bankdaten, die Sie für die Überweisung der 399 Euro verwenden sollen. Ich warte auf den Eingang der 399 Euro. Senden Sie mir bitte die Zahlungsbestätigung, nachdem Sie die 399 Euro überwiesen haben.  
+>   
+>   
+> Bank Name: Revolut Bank   
+> Name:  Ute Margarethe W.  
+> IBAN: DE26 1001 0178 8298 094017  
+> BIC: REVODEB2  
+> Bank Address: Revolut Bank UAB, Zweigniederlassung Deutschland  
+> FORA Linden Palais, Unter Den Linden 40, 10117, Berlin , Germany  
+>   
+> BIC der Senderbank  CHASDEFX  
+>   
+> Zweck der Sendung: Beitrag für Ute  
+
+Das eigentliche Highlight ist aber der vorgeschriebene Verwendungszweck:
+
+> **„Zweck der Sendung: Beitrag für Ute“**
+
+Man muss sich die Dynamik vor Augen führen: Der CEO von Western Union schickt eine wütende Mail, beschuldigt den Empfänger des versuchten Diebstahls und verlangt zur Rettung des „Goldgeschenks“ eine Überweisung als persönlichen *Beitrag für Ute*. Seriöser kann ein Finanztransfer aus dem Jahr 2026 kaum wirken.
+
+### Der ernste Hintergrund: Das Prinzip der Geldwäsche-Mules
+
+So amüsant dieser Verwendungszweck auf den ersten Blick wirkt, so klassisch ist das Muster dahinter. Bei „Ute“ handelt es sich höchstwahrscheinlich um einen sogenannten **Finanzagenten** (Geldwäsche-Mule). Solche Personen werden oft über gefälschte Stellenanzeigen („Tester für Bankkonten“, „Payment Manager im Homeoffice“) rekrutiert. Sie stellen ihr deutsches Konto zur Verfügung, heben das eingehende Geld ab oder tauschen es in Kryptowährungen um und leiten es an die eigentlichen Hintermänner weiter.
+
+Wenn der Betrug auffliegt, schlägt die Polizei genau bei der Person auf, deren Name auf dem Konto steht – in diesem Fall bei Frau W..
 

@@ -418,3 +418,38 @@ Jetzt dürfen die Herrschaften von der *Preston Union Bank* erst einmal ihr Kont
 Wir bleiben dran – Popcorn steht weiterhin bereit! 🍿
 
 
+Aha! Nigel hat den Taschenrechner angeworfen und den IBAN-Fehler bemerkt. Er versucht jetzt natürlich verzweifelt zu retten, was zu retten ist.
+
+Hier ist der gewohnt kurze, knackige Abschnitt für deinen Blog:
+
+---
+
+## Der Köder schlägt an: Nigel bemerkt den Zahlendreher! 🔍🚨
+
+Es hat geklappt! Der gefälschte Beleg hat beim Scammer maximale Schnappatmung ausgelöst. Nigel hat das Bild genau analysiert und ganz aufgeregt festgestellt, dass die Kohle wegen der falschen Endziffer im digitalen Nirwana gelandet sein muss:
+
+> **Hallo, ich habe die von Ihnen gesendete Quittung geprüft und einen kleinen Fehler in der IBAN entdeckt... Auf der Quittung wurde die letzte Ziffer als 2 statt 4 eingetragen... Könnten Sie dies bitte überprüfen und mir mitteilen, ob die Überweisung korrigiert werden kann?**
+
+---
+
+## Der Horror jedes Scammers: Die Filiale! 🏦😱
+
+Jetzt treiben wir Nigel den Angstschweiß auf die Stirn. Nachdem der IBAN-Dreher entdeckt wurde, kündigt Dörte voller Tatendrang den Gang zur echten Bank an:
+
+> ach herrje herr higgins, was bin ich nur für ein tollpatsch! 🤦‍♀️ tut mir echt leid, da habe ich mich glatt vertippt.  
+>   
+> ich gehe morgen aber ohnehin direkt zur bankfiliale wegen ein paar anderen sachen. da frage ich den netten herrn am schalter gleich, ob er die überweisung direkt auf die richtige nummer korrigieren kann. die in der filiale können da bestimmt helfen und das schnell regeln!  
+
+---
+
+## Fazit: Funkstille in der Scammer-Zentrale 🤫📉
+
+Seit dem legendären Fake-Screenshot herrscht am anderen Ende der Leitung absolute Funkstille. Offenbar hat die *Preston Union Bank* ihren Kontoeingang vergeblich aktualisiert und schließlich gemerkt, dass Hugos 291 Euro genauso echt waren wie ihre 1,5 Millionen Euro Entschädigung.
+
+### Was wir aus dieser Masche lernen können:
+
+* **Es gibt kein Gratis-Geld per Mail:** Weder die EU, noch die UN oder der IWF verschenken per E-Mail Millionen an zufällige Personen.
+* **Achtung bei Vorschussforderungen:** Sobald du Geld überweisen sollst, um angeblich an noch mehr Geld zu kommen (sei es für „Versand“, „Notare“ oder „Steuern“), handelt es sich **immer** um Betrug.
+* **Deutsche IBANs sind keine Garantie:** Wie man sieht, nutzen Betrüger gezielt deutsche Konten von Ahnenlosen oder Geldwäsche-Mules, um Seriosität vorzugaukeln.
+
+Hugo geht nun leider ohne Platin-Karte, aber mit vollem Portemonnaie und bester Laune in den Feierabend. Passt auf eure Daten auf – und bleibt skeptisch! 🛡️ Pass auf dich auf und lass dich nicht verarschen!
