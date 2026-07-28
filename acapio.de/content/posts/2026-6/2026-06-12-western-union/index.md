@@ -183,3 +183,43 @@ Wir lassen Hugo also von seinem (fiktiven) Ausflug nach Wanne-Eickel berichten u
 > Ich war eben in der Filiale in Wanne-Eickel und habe der netten Dame am Schalter Ihre Mail und die MTCN (2010-166-276) gezeigt. Sie hat die Nummer im System gesucht und meinte aber, diese Nummer existiert überhaupt nicht. Und als ich ihr erzählt habe, dass ich 399 Euro überweisen soll, um 10.000 Euro zu aktivieren, hat sie kurz gelacht und gemeint, ich solle bloß kein Geld irgendwohin überweisen, weil das ein Betrug ist.  
 >   
 > Stimmt das denn etwa? Die Dame am Schalter arbeitet doch direkt bei Western Union, die müsste das doch eigentlich wissen? Wer hat denn jetzt recht, Sie oder die Dame am Schalter?  
+
+---
+
+## Plot-Twist: Hugo ist jetzt ein Krimineller!
+
+Was passiert, wenn man Online-Betrüger mit der echten Welt konfrontiert? Sie werden laut, beleidigt und versuchen, den Spieß mit absurdester Logik umzudrehen. 
+
+Anstatt professionell zu bleiben, platzt „Herr Divan“ in seiner neuesten Nachricht der Kragen. Der Vorwurf: Hugo ist ein Krimineller, weil er in einer echten Filiale nach seinem Gewinn gefragt hat, ohne vorher brav 399 Euro an eine Outlook-Adresse zu überweisen!
+
+> Guten Morgen,  
+>   
+> Ich bin gerade sehr wütend auf Sie und überlege ernsthaft, Ihre Transaktion zu stornieren. Ich möchte sie am liebsten abbrechen, damit Sie Ihre 399 Euro behalten. Halten Sie uns etwa für Betrüger?  
+>   
+> Zuerst weigerten Sie sich, die 399 Euro zu bezahlen, damit wir die MTCN für die Western Union-Filiale aktivieren konnten. Dann gingen Sie ohne aktivierte MTCN zur Western Union und bezahlten die Mehrwertsteuer nicht. Und jetzt erwarten Sie, dass die MTCN bei Ihnen zur Abholung bereitliegt, obwohl Sie die Mehrwertsteuer nicht zahlen? Was bilden Sie sich ein? Sie sind zur Western Union gegangen, um das Geld abzuholen, ohne die Mehrwertsteuer zu bezahlen. Sie sind ein Krimineller und sollten wegen versuchten Diebstahls bei Western Union verhaftet werden.  
+>   
+> Zweitens sollten Sie die MTCN auf der offiziellen Western Union-Website überprüfen und bestätigen, dass das Geld zur Abholung bereitsteht, die Mehrwertsteuer aber noch nicht bezahlt wurde und die MTCN noch nicht für Ihren Abholort aktiviert ist. Verstehen Sie das nicht? Sie sind so voller Zweifel, ich denke, ich beende das hier.  
+>   
+> Bitte teilen Sie mir mit, ob Sie die 399 Euro zur Aktivierung Ihrer Transaktion senden möchten, damit ich Ihnen die Zahlungsdetails zukommen lassen kann und Ihre MTCN im Western Union-System Ihres Standorts zur Auszahlung verfügbar ist. Oder möchten Sie die Transaktion stornieren, damit wir Ihre Daten löschen und Ihr Western Union-Goldgeschenk an jemand anderen weitergeben können? Ernsthaft?  
+
+Ein echtes Meisterwerk der Täter-Opfer-Umkehr! 
+Man muss sich das bildlich vorstellen: Ein Kunde geht in eine Bankfiliale, fragt am Schalter nach einer Überweisung und wird vom Betrüger per E-Mail des „versuchten Diebstahls“ bezichtigt.
+
+Um den Druck auf die Spitze zu treiben, drohen die Scammer nun damit, das geheimnisvolle **„Western Union-Goldgeschenk“** an jemand anderen weiterzugeben, wenn Hugo nicht sofort spurt. 
+
+Da wir natürlich unbedingt wissen wollen, auf welches Bankkonto oder über welchen cryptischen Dienst die 399 Euro fließen sollen, mimt Hugo das verschreckte Opfer und bittet kleinlaut um die Zahlungsdaten.
+
+> Hallo,  
+>   
+> oheje, bitte werden Sie doch nicht gleich so wütend auf mich! Ich wollte Sie doch nicht beleidigen und ein Krimineller bin ich doch auch nicht! Ich wollte doch nur alles richtig machen...  
+>   
+> Es tut mir wirklich leid, wenn ich was falsch verstanden habe. Aber die Dame am Schalter hat mich halt so verunsichert. Wenn Sie mir wirklich das "Western Union Goldgeschenk" geben wollen, möchte ich das natürlich keinesfalls an jemand anderen verlieren!  
+>   
+> Bitte stornieren Sie das bloß nicht! Senden Sie mir bitte die Zahlungsdetails für die 399 Euro zu. Ich muss zwar erst schauen, wie ich das Geld zusammenbekomme (vielleicht kann ich mir was von meiner Schwester leihen), aber ich möchte die 10.000 Euro wirklich unbedingt haben. Wie genau soll ich die 399 Euro denn überweisen?  
+>   
+> Viele Grüße,  
+> Hugo  
+
+
+
+
