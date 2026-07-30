@@ -209,3 +209,17 @@ Um das Bild des perfekten, leicht naiven Opfers abzurunden, schrauben wir Hugos 
 Damit sitzen sie in der Falle: Wir geben ihnen exakt die Bestätigung, die sie hören wollen („ungebildet, folgsam, viel Geld in Aussicht“), nehmen ihnen aber gleichzeitig die Möglichkeit, uns schnell über WhatsApp abzuzocken.
 
 Jetzt warten wir ab, ob Frau Rafiq auch einen Führerschein von einem 67-jährigen Hugo akzeptiert – oder wie die gefälschte Online-Bank ins Spiel gebracht wird!
+
+---
+
+## Ausweiskopie, her damit!
+
+Aaliyah gibt keine Ruhe und fordert nachdrücklich den Ausweis ein – immerhin nimmt sie es zähneknirschend hin, dass Hugo kein WhatsApp nutzt:
+
+> Ich habe Ihre Angaben erhalten, mit Ausnahme des Identitätsnachweises, der erforderlich ist, um die Unterlagen für die Freigabe der Gelder in Ihrem Namen zu bearbeiten.  
+>    
+> Ich wäre Ihnen sehr dankbar, wenn Sie mir möglichst bald eine gut lesbare Kopie Ihres gültigen Ausweisdokuments sowie Ihre Telefonnummer zusenden könnten. Es ist nicht erforderlich, dass diese mit WhatsApp verbunden ist. Eine normale Telefonnummer genügt.  
+
+Da wir den Betrügern natürlich keine echten Personaldaten anvertrauen, kommt unser bewährter [Bundeshuhn-Spaßausweis](/posts/2026-04-11-vorladung/#phase-3-die-falle-schnappt-zu--verzweiflung-und-identit%C3%A4tsdiebstahl) zum Einsatz. 
+
+Mit stolzem Gefieder, fantasievollen Ausstellungsbehörden und offensichtlichen Fake-Daten geht das Dokument nun auf die Reise in die Emirate. Jetzt bleibt abzuwarten, ob Aaliyah oder ihr angeblicher Anwalt den Braten riechen – oder ob das Bundeshuhn bald offiziell als Begünstigter von 13 Millionen Dollar im Nachlassregister eingetragen wird!
