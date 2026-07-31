@@ -215,8 +215,6 @@ Nachdem Nicolas ihm die hochseriösen Weltklasse-Dokumente geschickt hat, Todesu
 Hugo fragt sich also völlig zu Recht: **„Kann ich als kleiner Mann aus Wanne-Eickel sowas überhaupt legal annehmen? Oder kommt da am Ende das Finanzamt, Interpol oder sonst wer um die Ecke und fragt, warum ich plötzlich Millionär bin?“**
 Während Nicolas also seriös wirken will, sitzt Hugo zwischen Werkzeugkiste und BMW-Emblem und versucht herauszufinden, ob man für so eine Erbschaft nicht mindestens ein Jura-Studium oder wenigstens eine gute Rechtsschutzversicherung braucht.
 
-Gerne! Hier ein sarkastischer, pointierter Blog-Absatz mit den besten Zitaten aus der Mail, sauber eingebaut, gut lesbar und typisch „Hugo vs. Scam“:
-
 ---
 
 ## 🕵️‍♂️📢 „Ich suche ausschließlich nach einer Person mit Reife“, Nicolas dreht auf
@@ -231,8 +229,6 @@ Und weil’s noch nicht kurios genug ist, fordert Nicolas absolute Stille: Hugo 
 
 Zum Abschluss kommt die obligatorische Daten-Abfrage, *VOLLSTÄNDIGER NAME, STAATSBÜRGERSCHAFT, ADRESSE, TELEFONNUMMERN, GEBURTSDATUM, BERUF*, also genau die Art Informationen, die man einem wildfremden Mann mit Gmail-Adresse natürlich sofort zuschicken sollte. Hugo bleibt skeptisch. Wir auch.
 
-
-Gerne! Hier ist ein sarkastischer Blog-Absatz zur neuen Wendung, inklusive dem absurden „offiziellen“ PDF, das Hugo unterzeichnen soll. Humor, Stil und Ton wieder klar auf „Hugo vs. Internationale Erbschaftsmafia“ eingestellt:
 
 ---
 
@@ -352,9 +348,6 @@ Besonders bemerkenswert: Oscar gibt eine neue E-Mail an,
 > Oscar Vicente Josué  
 > Bestätigung/Freigabe  
 > Operations (HOP)  
-
-Perfekt, dann gibt’s jetzt den passenden Blog-Absatz zur *Hugo-S cholz-Kringel-Signatur*, der den Moment herrlich einfängt:
-
 ---
 
 ## ✍️🖋️ Hugo unterschreibt, und zwar so richtig „Hugo-mäßig“

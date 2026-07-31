@@ -185,8 +185,6 @@ Zeit, den Ton ein wenig anzupassen, aber trotzdem in bester Ruhrpott-Manier den 
 >   
 > P.S.: Und falls wir das klären: Können wir uns dann auf ein Bier treffen? Ich geb einen aus, sobald die 10 Millionen da sind! 🍻  
 
-Hier ist der überarbeitete Text:
-
 ---
 
 ## Das Dokument wird geliefert, direkt von der „US-Zentralbank“

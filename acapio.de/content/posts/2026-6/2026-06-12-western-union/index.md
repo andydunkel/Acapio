@@ -105,8 +105,6 @@ Angeblich wurde unser lieber Hugo vom echten CEO persönlich für eine „finanz
 Da haben wir also den eigentlichen Kern der Masche: **Klassischer Vorschussbetrug.**
 Der Opfer-Kandidat soll 399 Euro per Vorkasse überweisen, um an eine erfundene Summe von 100.000 Euro zu kommen. Wer hier zahlt, sieht die 399 Euro nie wieder – und die gefakten 10.000 Euro natürlich auch nicht.
 
-Hier ist der passende Textbaustein für deinen Blogartikel, um Hugos Antwort einzuleiten:
-
 ---
 
 ### Unsere Rückmeldung: Hugo bleibt skeptisch (und klamm)
@@ -134,8 +132,6 @@ Auf unsere Bitte nach einem Nachweis reagieren die Betrüger mit einer Antwort, 
 Moment mal... DIE wollen HUGO die 399 Euro überweisen? 
 
 Hier hat der Scammer vermutlich schlicht den Überblick über seine Textbausteine verloren oder der Übersetzungsservice hat spektakulär versagt. Eigentlich war der Plan ja, dass *wir* 399 Euro Vorschuss zahlen. 
-
-Hier ist der passende Textabschnitt für deinen Blogartikel, um diesen genialen Schachzug einzuleiten:
 
 ---
 

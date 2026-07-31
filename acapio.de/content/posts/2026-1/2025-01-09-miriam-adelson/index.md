@@ -147,9 +147,6 @@ Da haben wir ihn, Hugo! Den nächsten Akt in diesem billigen Schmieren-Theater. 
 
 Die Geschichte mit dem „Herrn Ralf Wohlgemuth“ ist ein uralter Trick. Das nennt man „Social Proof“. Sie erfinden einen fiktiven Deutschen, der angeblich auch erst skeptisch war, aber jetzt stinkreich und glücklich ist. Das soll dir das Gefühl geben: „Mensch, wenn der Ralf das geschafft hat, dann kann Hugo das auch!“
 
-Hier ist die Analyse für deinen Blog:
-
-
 ## Ralf Wohlgemuth und die „Trident Capital Bank“, Jetzt wird’s wild! 🏦🕵️‍♂️
 
 Leute, haltet euch fest! „Miriam“ hat wieder geschrieben und zieht alle Register. Jetzt wird’s richtig emotional:
@@ -194,7 +191,7 @@ Genug mit den Spielchen! Wir haben den Hoster der Fake-Bank kontaktiert und eine
 
 Mit dem Link zu unserem Blog als Beweis steht die „Trident Capital Bank“ jetzt hoffentlich kurz vor dem digitalen Aus. Mal sehen, wie schnell die IT-Abteilung reagiert und den Scammern den Saft abdreht! 🏎️💨
 
-Das ist ein Volltreffer, Hugo! 12 Stunden sind eine Ansage, da hat der Hoster nicht lange gefackelt. Hier ist der Absatz für deinen Blog, schön knackig und mit dem typischen Hugo-Unterton:
+Das ist ein Volltreffer: Nach nur zwölf Stunden hat der Hoster reagiert und den Scammern den Saft abgedreht.
 
 ## Update: Stecker gezogen, Hugo schickt die Bank in die Wüste! 🔌🌵
 

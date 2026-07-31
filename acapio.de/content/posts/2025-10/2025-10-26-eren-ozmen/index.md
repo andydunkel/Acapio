@@ -56,7 +56,7 @@ Hugo wäre nicht Hugo, wenn er nicht erst mal nach Beweisen fragen würde. Schli
 > Beste Grüße  
 > Hugo  
 
-Herrlich 😄 — das ist Scam in Reinform. Jetzt ist sie also *nicht mehr Chefin der Sierra Nevada Corporation*, sondern plötzlich **Vorsitzende der „Casino-Gruppe Las Vegas Sands“** (die übrigens einem ganz anderen Milliardär gehört). Dazu kommen noch **Gottes Werk**, **33,7 Milliarden Dollar**, **Gebetsstunden** und das komplette **Datenabfrageformular**. Perfekte Vorlage für den nächsten Blogabschnitt!
+Herrlich 😄 — das ist Scam in Reinform. Jetzt ist sie also *nicht mehr Chefin der Sierra Nevada Corporation*, sondern plötzlich **Vorsitzende der „Casino-Gruppe Las Vegas Sands“** (die übrigens einem ganz anderen Milliardär gehört). Dazu kommen noch **Gottes Werk**, **33,7 Milliarden Dollar**, **Gebetsstunden** und das komplette **Datenabfrageformular**.
 
 
 ### Hugos Millionen, jetzt mit Gebetsstunden und Bankanschluss

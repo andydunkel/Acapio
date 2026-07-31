@@ -45,8 +45,6 @@ Dazu kommt:
 * Generischer Text
 * Und ein Gerät, das so beschrieben ist, dass es auf ungefähr jeden zutreffen könnte
 
-Hier eine überarbeitete Version, etwas runder und mit deinem typischen Ton:
-
 ---
 
 ## Wir klicken den Link an

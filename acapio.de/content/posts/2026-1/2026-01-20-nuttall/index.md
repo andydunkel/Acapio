@@ -33,8 +33,6 @@ Und dann dieser Betreff: „Gute Nachrichten!“, Kurz, knackig, präzise. Keine
 
 Besonders vertrauenserweckend ist auch das „Team von Richard & Debbie Nuttall“. Man stellt sich sofort ein Hochglanz-Büro in London vor, wo Dutzende Assistenten in Anzügen nichts anderes tun, als wildfremden Leuten in Wanne-Eickel Geld hinterherzuwerfen. 
 
-Hier ist der erklärende Absatz, er verbindet die nackten Fakten mit dem nötigen Sarkasmus und erklärt die psychologische Falle dahinter.
-
 ## Wer sind Richard & Debbie Nuttall?
 
 Überraschung: Die beiden gibt es wirklich! 😲 Richard und Debbie sind keine Erfindung aus dem feuchten Keller eines Betrügers, sondern ein echtes Ehepaar aus Lancashire (UK), das Anfang 2024 tatsächlich den EuroMillions-Jackpot geknackt hat. Satte **£61 Millionen** haben die beiden abgeräumt. 💰🎉

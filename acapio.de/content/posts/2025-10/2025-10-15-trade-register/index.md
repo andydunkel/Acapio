@@ -35,8 +35,6 @@ Wenn du dachtest, Bürokratie sei schon schlimm genug, dann kennst du *EUTRADERE
 > unsubscribe@traderegister.info  
 > unsubscribe  
 
-Perfekt — hier ist der passende, sarkastisch-humorvolle **Abschnitt zur E-Mail**, den du direkt unter deiner Überschrift verwenden kannst:
-
 ---
 
 ## Die E-Mail von [contact@traderegister.info](mailto:contact@traderegister.info)

@@ -152,8 +152,6 @@ Die Antwort von Aiperi ist ein Lehrstück für **Story-Building**. In einer lang
 
 Aiperi (übersetzt „die Mondschöne“) liefert uns hier das komplette Programm. Was wie ein romantisches Märchen beginnt, ist in Wahrheit ein strategisches Netz aus emotionalen Triggern.
 
-Hier ist eine knackige Version für deinen Blogartikel:
-
 ### Das Rätsel der Bilder: Warum Google oft schweigt
 
 Wir haben den Check gemacht: Rückwärtssuche, Metadaten, Analyse. **Ergebnis: Keine Treffer.** Doch genau hier liegt die psychologische Falle. 
@@ -206,7 +204,7 @@ Aiperi reagiert zwar begeistert auf das Bild von Sebastian, ignoriert aber weite
 * **Die "reife Männer"-Karte:** Sie schmeichelt Sebastian, indem sie betont, dass der Altersunterschied kein Problem sei und sie die Stabilität eines erfahrenen Mannes suche.
 * **Neue Fotos als Belohnung:** Trotz "kaputtem Handy" gibt es natürlich neue, attraktive Bilder, angeblich von ihrer Freundin Alina gemacht. Das hält den "Kunden" bei der Stange.
 
-**Fazit für den Blog:** Aiperi baut hier eine Festung aus Vertrauen und Mitleid. Das kaputte Handy ist die Vorbereitung für die erste finanzielle Hürde: Entweder wird sie bald Geld für die Reparatur brauchen, oder, noch wahrscheinlicher, es dient als Ausrede, warum man sich nicht per Video-Call verifizieren kann.
+**Fazit:** Aiperi baut hier eine Festung aus Vertrauen und Mitleid. Das kaputte Handy ist die Vorbereitung für die erste finanzielle Hürde: Entweder wird sie bald Geld für die Reparatur brauchen, oder, noch wahrscheinlicher, es dient als Ausrede, warum man sich nicht per Video-Call verifizieren kann.
 
 > Vielen Dank fur das Bild! Du bist einfach toll :)   
 >   

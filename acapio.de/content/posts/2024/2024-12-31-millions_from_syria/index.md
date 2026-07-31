@@ -429,8 +429,6 @@ Der Verweis auf Artikel 27 der Wiener Konvention? Klingt beeindruckend, aber auc
 
 ## Wir bekommen die Wiener Konvention erklärt
 
-Die Antwort gibt uns ein bisschen mehr Stoff, aber nicht unbedingt mehr Klarheit. Hier eine kurze Zusammenfassung für den Blog:
-
 Und wieder eine kreative Runde im "Diplomatic Luggage Adventure"! Jetzt wird erklärt, dass Artikel 27 der Wiener Konvention natürlich Immunität gewährt, aber diese angeblich Grenzen hat, insbesondere bei "diplomatischen Versicherungen". Ohne die obligatorischen Papiere, so heißt es, bleibt unser Koffer in der Türkei stecken, oder schlimmer noch, er wird beschlagnahmt! Doch keine Sorge, wir könnten die Dokumente selbst beschaffen, wenn wir zufällig einen diplomatischen Pass in der Schublade hätten. Praktischerweise bietet die Firma diesen Service aber gleich mit an. Klingt nach einem fairen Deal, oder? 😉
 
 > We at Fexpress Diplomatic Security Delivery Company have received your message, and we will explain everything for you so that you will know how diplomatic delivery works, and as we explained to your partner before, under the provisions of Article 27 of the Vienna Convention on diplomatic relations, in all world diplomatic logistics companies, the diplomatic insurance will be requested in the German airport as usual and as governed by all companies in diplomatic countries because we must provide the insurance for the consignment to Turkish airport authority before we can depart to Hamburg, Deutschland, and without it, the consignment would be detained by Turkish airport authorities.  

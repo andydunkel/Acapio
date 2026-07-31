@@ -17,10 +17,6 @@ Erfahren Sie in unserer aktuellen Analyse, woran Sie die gefälschte Nachricht e
 
 ---
 
-Hier ist der Einstieg für deinen Blog-Artikel, der sanfte Übergang vom ernsten Teaser zum gewohnten, sarkastischen Deep-Dive.
-
----
-
 ## Identitätsprüfung oder Identitätsdiebstahl? Trade Republic Kunden im Visier
 
 Es ist mal wieder soweit: Wer sein Geld nicht nur unter der Matratze stapelt, sondern modern bei **Trade Republic** anlegt, darf sich aktuell über ganz besondere Post freuen. Nein, es ist keine plötzliche Dividendenerhöhung und auch kein verfrühtes Geburtstagsgeschenk. Es ist die freundliche Aufforderung, doch bitte mal eben sein gesamtes digitales Dasein auf einer Silbertablett-Webseite zu servieren. Phishing-Saison ist schließlich das ganze Jahr, und diesmal ist der Köder besonders fadenscheinig ausgeworfen worden.

@@ -338,8 +338,6 @@ Klingt wahnsinnig wichtig, bedeutet übersetzt aber nur: „Stell keine Fragen z
 
 **Fazit:** Wenn die Fakten dünn werden, hilft nur noch Fachchinesisch und ein schlechter Witz. Ein echter Klassiker aus dem Handbuch für „Wie ich mein Opfer mit Jargon einlulle“. 📖✨
 
-Hier ist der passende Abschnitt für den Blog – kurz, knackig und herrlich fies:
-
 ---
 
 ### Ups! Hugos ehrliche Haut triggert das Banken-Radar 🚩🚨

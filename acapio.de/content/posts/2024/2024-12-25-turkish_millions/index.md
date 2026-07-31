@@ -412,8 +412,6 @@ Eine Suche zum Herren Ahmet Kuran fördert eine Webseite zu Tage. Diese wirkt im
 
 ## Formular für Schenkungssteuer
 
-Klar, hier ist die Passage etwas humorvoller gestaltet:  
-
 Natürlich, das muss echt sein, schließlich hat uns *der Anwalt persönlich* kontaktiert! Aber hey, wir sind in Deutschland, und hier läuft nichts ohne Bürokratie. Einfach Geld annehmen? Nicht mit uns, Schenkungssteuer! Also basteln wir eine Vorlage, packen die nötigen Formulare dazu und schicken das Ganze mit bestem Beamtendeutsch zurück an den Scammer.  
 
 Wenn du noch weitere Ideen oder Details brauchst, lass es mich wissen! 😊

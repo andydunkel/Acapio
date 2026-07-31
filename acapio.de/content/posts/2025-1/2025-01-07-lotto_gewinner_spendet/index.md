@@ -22,7 +22,7 @@ Der Klassiker, ein echter Lottogewinner wird verwendet um einen Scam aufzuziehen
 
 > Hallo!! Haben Sie meine vorherige E-Mail bezüglich einer Geldspende für wohltätige Zwecke in Ihrem Land erhalten?
 
-Natürlich! Hier ist eine kompakte Zusammenfassung des Scams:  
+Die Masche lässt sich kompakt zusammenfassen:  
 
 Ein angeblicher Lottogewinner namens Simmons Schiavo Marco verspricht in einer E-Mail, 1 Million Euro für wohltätige Zwecke zu spenden. Die Empfänger werden gebeten, eine angebliche Anwältin zu kontaktieren, um die Überweisung der Gelder zu arrangieren. Dabei geben die Betrüger vor, keine Kosten oder Verpflichtungen zu verlangen, um Vertrauen aufzubauen. In Wahrheit handelt es sich um einen klassischen Betrugsversuch, bei dem persönliche Daten abgegriffen oder versteckte Gebühren eingefordert werden sollen.
 

@@ -394,7 +394,7 @@ Tja, die Scammer dachten wohl, Hugo sitzt brav zu Hause und wartet gespannt auf 
 
 ![Besoffen am Strand](/posts/2025-01-30-anthonycharities/malle.webp)
 
-## Blog-Ergänzung: Die Wahrheit kommt ans Licht!
+## Die Wahrheit kommt ans Licht!
 
 Und da ist sie wieder, die **magische Bearbeitungsgebühr!** 💰 Natürlich müssen **wir** erst mal **1500 Euro zahlen**. Eigentlich hatten wir gar nicht mit einer Antwort gerechnet nach der doch etwas eigenwilligen E-Mail. 🤗
 

@@ -148,9 +148,6 @@ Hugo zeigt sich nun offen, aber bodenständig interessiert. Keine großen Verspr
 
 Damit wird der Spieß umgedreht: Statt weiterer Textwüsten soll der angebliche Banker endlich Klartext reden, etwas, womit Scammer erfahrungsgemäß große Probleme haben. 🚩😏
 
-Das ist jetzt die **klassische nächste Eskalationsstufe**, hier eine **passende Überschrift** und eine **kompakte Zusammenfassung für den Blog**, damit niemand diese Textwand komplett lesen muss 😄
-
-
 ## Jetzt soll Hugo liefern: Ausweis, Konto und bitte volle Gefolgschaft 🚨📄
 
 **Kurzfassung (kann ja sonst keiner soviel lesen) der neuesten Antwort des angeblichen Mitarbeiters der Wing Hang Bank:**
@@ -169,12 +166,6 @@ Das ist jetzt die **klassische nächste Eskalationsstufe**, hier eine **passende
 
 👉 Übersetzt: Ab hier geht es nicht mehr um Geschichten, sondern um **Identitätsdiebstahl, Konto-Missbrauch und Geldwäsche**. 🚩💸
 Spätestens an diesem Punkt sollte klar sein, warum solche Mails niemals beantwortet, sondern höchstens dokumentiert, werden sollten.
-
-Wenn du willst, machen wir als Nächstes:
-
-* einen **klaren Abbruch aus Hugos Sicht**
-* oder einen **didaktischen Abschnitt: „Ab hier wird es gefährlich“**
-* oder eine **Checkliste: Welche Daten Scammer immer haben wollen**
 
 Wer mag, kann hier noch die E-Mail lesen:
 

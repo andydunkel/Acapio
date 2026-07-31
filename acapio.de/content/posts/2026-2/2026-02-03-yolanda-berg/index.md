@@ -17,9 +17,6 @@ summary: "Millionensegen für den Basti? 🍺💰 Zwischen Staplerfahrt und Feie
 
 Millionensegen für den Basti? 🍺💰 Zwischen Staplerfahrt und Feierabendbier wollte eine gewisse Yolanda unserem Sebbe 2,8 Millionen Dollar andrehen, warum er den Schmäh schneller gerochen hat als der Rudi sein Hundefutter, liest du hier! 🐩🇦🇹
 
-Hier ist der passende Abschnitt für den Blogartikel. Schön prägnant, mit einer ordentlichen Portion Wiener Skepsis und dem nötigen Schuss Sarkasmus:
-
-
 ## Die E-Mail von bergyolanda1@gmail.com
 
 Da schaut der Basti beim zweiten Krügerl auf sein Handy und was sieht er? Die „Yolanda“ schreibt ihm von einer schnöden Gmail-Adresse. 2,8 Millionen Dollar Entschädigung, wahrscheinlich dafür, dass er täglich die schweren Paletten im Lager schupfen muss, oder wie? 🍺🤷‍♂️

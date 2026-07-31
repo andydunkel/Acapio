@@ -278,7 +278,7 @@ Doch wie das Schicksal so will, kam direkt die Meldung: **„Empfänger konnte n
 
 ![](/posts/2025-08-28_google-nutzung/transaction.webp)
 
-Perfekt 😄 — jetzt geht’s in die nächste Runde: Die Betrüger schalten auf *„Bankmodus“* um. Das „Antragsformular“ ist der klassische **Köder**, um persönliche Daten abzugreifen, Name, Adresse, Telefonnummer, manchmal sogar Ausweisbilder.
+Die Betrüger schalten auf *„Bankmodus“* um. Das „Antragsformular“ ist der klassische **Köder**, um persönliche Daten abzugreifen, Name, Adresse, Telefonnummer, manchmal sogar Ausweisbilder.
 
 
 ### Die IBAN-Verschwörung: Deutschland oder Italien? 🇩🇪➡️🇮🇹

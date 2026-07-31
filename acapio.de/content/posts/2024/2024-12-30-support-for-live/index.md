@@ -26,7 +26,7 @@ Einer von zehn glücklichen Gewinnern, Frances und Patrick Conolly geben einen a
 
 ## Unsere Anwort
 
-Natürlich lassen wir uns nicht lumpen und schreiben an "francesandpatrickconnollyfamil@gmail.com" zurück. ChatGPT ist angewiesen dieses Mal, skeptisch, aber neugierig zu sein.
+Natürlich lassen wir uns nicht lumpen und schreiben an "francesandpatrickconnollyfamil@gmail.com" zurück. Dabei bleiben wir skeptisch, aber neugierig.
 
 > Liebe Frau Nadine,
 > 

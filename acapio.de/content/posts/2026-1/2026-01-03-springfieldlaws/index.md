@@ -32,8 +32,6 @@ Dumm nur, dass es in den USA gar keine Barristers gibt. Und dass echte Behörden
 >         Email:   james@springfieldlaws.net    
 >         Website:  https://springfieldlaws.net/   
 
-Alles klar 👍 hier ist die **kurze, knackige Version** für den Blog:
-
 ## Hugos Antwort: kurz verwirrt, klar aus Wanne-Eickel
 
 Hugo reagiert sachlich und ohne Panik. Er macht deutlich, dass er nie in den USA war, dort keine Konten besitzt und keinerlei Berührungspunkte mit US-Behörden hat. Sein einziger „steuerlicher Kontakt“ besteht aus der ehrenamtlichen Tätigkeit als Schriftführer im lokalen Dackelclub. 🐶
@@ -319,7 +317,7 @@ Nachdem Formular, Bank und Telefonanruf nicht funktioniert haben, folgt der näc
 
 An dieser Stelle ist das Muster vollständig sichtbar: Wer keine Nummer herausgibt, bleibt im Vorteil. Denn ohne Telefon, ohne Messenger und ohne echte Daten endet der Scam meist genau hier. 😏🚫
 
-Wenn du willst, machen wir als Nächstes ein **abschließendes Fazit** oder warten auf die (wahrscheinlich ausbleibende) nächste Antwort 📭
+Doch der Scammer lässt nicht locker und fragt erneut nach der Telefonnummer:
 
 > What's your direct phone number ??
 

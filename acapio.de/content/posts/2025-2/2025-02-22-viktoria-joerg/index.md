@@ -25,8 +25,6 @@ Kurz, knackig und ohne viel Tamtam, Frau Viktoria Jörg kommt direkt zur Sache. 
 > Antwort an: viktoriajorg@gmail.com  
 
 
-Hier ist ein passender Text für den Abschnitt über unsere Antwort:  
-
 ---
 
 ## Natürlich antworten wir!  

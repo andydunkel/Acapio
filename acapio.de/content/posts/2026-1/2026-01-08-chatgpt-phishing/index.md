@@ -38,8 +38,6 @@ Werfen wir einen Blick auf die Details dieser „Abrechnung“:
 
 ## Wir klicken den Link an!
 
-Hier ist der nächste Abschnitt für deinen Blog, in dem wir die wunderbare Welt der Fake-Zahlungsseiten betreten.
-
 ---
 
 ## Wir klicken den Link an!

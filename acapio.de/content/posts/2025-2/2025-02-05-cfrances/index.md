@@ -332,9 +332,6 @@ Jetzt sind wir gespannt, ob Michael Bradley auch mit leicht benagten Gutscheinka
 > S cholz  
 > (und Horst 🐾)  
 
-Perfekt, der Scam-Anwalt wird langsam richtig nervös 😄  
-Hier ist ein passender Abschnitt für den Blog:
-
 ## **Michael ist verzweifelt, Hugo schweigt, die Millionen wackeln**  
 
 Unser Anwalt **Michael Bradley** ist sichtlich besorgt. Keine Antwort von Hugo, keine Steam-Karte, keine geklauten PINs, **nur Stille aus Wanne-Eickel**. Seine neueste E-Mail klingt fast schon herzzerreißend:
@@ -360,7 +357,7 @@ Hugo ficht das alles nicht an, er hat andere Sorgen:
 > S cholz    
 > (nächstes Mal mit Geld im Brustbeutel)  
 
-Wunderbar! Jetzt setzt unser „Anwalt“ alles auf eine Karte, wortwörtlich. Hier kommt der passende Blog-Absatz:
+Jetzt setzt unser „Anwalt“ alles auf eine Karte, wortwörtlich:
 
 ## Druck aus London: „Hugo, sonst kriegt jemand anders die Millionen!“ 💸🎭  
 

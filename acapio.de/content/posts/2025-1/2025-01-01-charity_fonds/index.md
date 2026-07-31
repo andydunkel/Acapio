@@ -36,7 +36,7 @@ Darüber hinaus müssen wir schnell sein, nur die ersten 5 bekommen etwas! Die E
 
 ### Wir bekunden Interesse
 
-Wir weisen ChatGPT an, skeptisch zu antworten mit etwas Hoffnung und am Ende soll auch ein gutes neues Jahr nicht fehlen.
+Wir antworten skeptisch, lassen aber etwas Hoffnung durchblicken. Ein gutes neues Jahr darf am Ende natürlich auch nicht fehlen.
 
 > Hallo Maria,  
 > 

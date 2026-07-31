@@ -102,8 +102,6 @@ Joses Dokumente sind ein echtes Kunstwerk – sofern man auf unfreiwillige Komik
 
 Lange wartet er nicht, da kommt auch schon die nächste Aufforderung rein!
 
-Hier ist die nächste Zusammenfassung für euren Blog – der Scam erreicht die nächste Stufe der Absurdität:
-
 ### Phase 2: Die „offizielle“ Bank-Korrespondenz (via AOL?!)
 
 Jose ist sichtlich gerührt von Hugos „Güte“ und geht nun zum Angriff über. Der Plan sieht vor, dass Hugo sich direkt an die Bank wendet. Hier sind die Highlights des neuen „Business“-Plans:
@@ -315,4 +313,3 @@ Also schalten wir auch einen Gang zu, wir geben vor mit der Botschaft telefonier
 > i phoned with the embassy in berlin yesterday, the told me that this is scam and i should not travel to the country. i am confused right now, they said you just want money and this is fraud!  
 >   
 > hugo  
-

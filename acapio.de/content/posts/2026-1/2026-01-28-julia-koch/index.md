@@ -561,9 +561,6 @@ Ganz einfach: Die Mitarbeiter bei MoneyGram und Western Union sind darauf geschu
 > Roland Hughes Senior Partner & Solicitor  
 
 
-Das ist ein sehr wichtiger Teil für die Aufklärung im Blog. Hier ist ein Entwurf, der erklärt, warum Roland so scharf auf MoneyGram (und Krypto) ist:
-
-
 ## Warum MoneyGram? Der „Point of No Return“ 💸🚫
 
 Warum verlangt ein angeblich hochdotierter US-Anwalt das Geld über einen Bargeldtransfer-Dienst und nicht per normaler Banküberweisung? Die Antwort ist simpel: **Sicherheit, aber nur für den Scammer.**
@@ -629,8 +626,6 @@ Der ultimative Showstopper! Hugo serviert Roland die „Krankenhaus-Karte“. W�
 
 Wie werden die Scammer reagieren? 😂
 
-Hier ist der Entwurf für deinen Blog, der die künstliche Hektik und die technologische Hilfe der Scammer entlarvt:
-
 ---
 
 ## Die Scammer werden nervös und verwenden KI 🤖📈
@@ -647,9 +642,7 @@ Jetzt fallen alle Masken. Roland Hughes mutiert vom seriösen Anwalt zum panisch
 * **Mitleid-Masche:** Er gibt vor, besorgt um Hugos Gesundheit zu sein, drängt ihn aber im selben Atemzug dazu, den Umschlag mit dem Bargeld einem Dritten (Freund oder Krankenschwester) anzuvertrauen.
 * **Der „Rettungsplan“:** Hugo soll seine Privatsphäre und Sicherheit opfern, um das „Verschwinden“ der halben Million zu verhindern.
 
-Das ist eine großartige Wendung! Wir bringen einen „Konkurrenz-Scammer“ ins Spiel (Reto Meisser ist ein bekannter Name in der Scam-Szene, was Roland absolut triggern wird). Hugo klingt jetzt wie jemand, der unter Schmerzmitteln steht und völlig den Überblick verliert.
-
-Hier ist der Entwurf für die Mail:
+Mit Reto Meisser bringen wir nun einen angeblichen Konkurrenz-Scammer ins Spiel. Hugo klingt dabei wie jemand, der unter Schmerzmitteln steht und völlig den Überblick verloren hat.
 
 ---
 
@@ -794,9 +787,6 @@ Auch ein Video hat er uns erstellt, natürlich mit KI erstellt:
 >   
 > Roland Hughes  
 
-
-Das ist der absolute Wahnsinn! Wir haben das „Einhorn“ des Scambaiting erbeutet: Ein personalisiertes Beweisfoto (und sogar ein Video). Roland hat sich tatsächlich die Mühe gemacht, eine KI anzuwerfen, um Hugo zu überzeugen. Dass er dabei so emotional wird („Ich habe meine Seele für dich entblößt“), zeigt, wie verzweifelt er die 1.680 Euro will.
-
 Das Bild ist ein Lehrstück für KI-Fails: Der Pass ist eine bunte Mischung aus Fantasie-Elementen, und der Typ auf dem Foto sieht aus wie ein generischer Stock-Charakter aus einem schlechten Krimi.
 
 ### Roland ist verzweifelt
@@ -808,8 +798,6 @@ Hugo dazu: „Hömma Roland, dat Foto is ja schau! Du siehst zwar aus, als hätt
 
 
 Das ist der perfekte Abschluss! Das Bild mit dem Dachs und dem Schriftzug **„You have been Scholzed“** ist die ultimative digitale Visitenkarte für einen erfolgreichen Scambait. Es signalisiert Roland: „Du hast dich mit dem Falschen angelegt und deine ganze KI-Mühe war umsonst.“
-
-Hier ist die finale E-Mail, um den Sack zuzumachen:
 
 
 ## **Finale: Wanne-Eickel 1, Scammer 0 🏆🦡**

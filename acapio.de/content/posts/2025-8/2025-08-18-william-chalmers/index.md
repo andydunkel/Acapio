@@ -47,13 +47,6 @@ Und das Beste: William schlägt vor, die 4 Millionen ganz brüderlich 50/50 zu t
 > I am prepared to place you in a position to instruct Northern Trust Bank to release the deposit to you as the sole beneficiary. Upon receipt of the deposit, I am prepared to share the money with you in half.   
 > That is: I will simply nominate you as the next of kin and have them release the deposit to you. We share the proceeds 50/50.   
 
-
-### Wir machen mit!
-
-Perfekt 👍 Hier ein Vorschlag, wie wir Hugos Antwortmail als Zitat in den Blog einbauen können:
-
----
-
 ### Hugo wittert das Schnäppchen
 
 Als Hugo die Erklärung las, konnte er nur den Kopf schütteln. Ein Millionen-Erbe nur wegen des gleichen Nachnamens? Das klingt eher nach einer Payback-Aktion im Supermarkt: „Kauf dir ’nen S cholz und nimm vier Millionen gratis dazu!“ Hugo war jedenfalls baff, er hatte ja schon einiges erlebt, aber dass sein Familienname plötzlich zur Gelddruckmaschine wird, das war auch für ihn neu.
@@ -61,3 +54,17 @@ Als Hugo die Erklärung las, konnte er nur den Kopf schütteln. Ein Millionen-Er
 Zur Sicherheit schrieb er William nochmal zurück, diesmal ganz direkt:
 
 > *“ah okay, now I understand little bit. So just same surname and money come to me? 😮 That sound too easy… like supermarket action. But how we do this? I never inherit before.”*
+
+---
+
+## Fazit: Funkstille im Posteingang
+
+Nach dieser Nachricht war dann leider Schluss mit der großen Erbschafts-Romantik. 🤫 Ob William die Supermarkt-Metapher nicht verstanden hat oder ob Hugo ihm schlicht zu unbedarft war, um noch schnell ein paar „Bearbeitungsgebühren“ abzuluxen – eine Antwort kam jedenfalls nie wieder.
+
+Am Ende bleibt die Erkenntnis:
+
+* **Kein Nachnamen-Bonus:** Keine Bank der Welt überweist Millionen, nur weil man zufällig heißt wie ein verstorbener Kunde.
+* **Typischer Vorschussbetrug:** Der legendäre 50/50-Deal ist der älteste Trick im Buch. Sobald man anbeißt, folgen angeblich dringende Anwaltskosten, Stempelgebühren oder Transfersteuern, die man vorab zahlen soll.
+* **Einfach ignorieren:** Wenn das Angebot zu gut klingt, um wahr zu sein, ist es das meistens auch.
+
+Hugo geht damit weiterhin ohne 4 Millionen Pfund durchs Leben, dafür aber mit vollem Bankkonto und ohne Ärger. Wenn euch also das nächste Mal ein „William Chalmers“ eine millionenschwere Erbschaft per Mail anbietet: Spartanisch antworten oder am besten direkt ab in den Spam-Ordner damit! 🗑️

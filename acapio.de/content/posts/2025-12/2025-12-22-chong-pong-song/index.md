@@ -387,8 +387,6 @@ Hier ist Hugos finales "Nachhaken", um den Wahnsinn auf die Spitze zu treiben:
 > Oder hat die gute Frau was zu verbergen? 😉
 > Gruß Hugo
 
-Hier ist ein kurzer, prägnanter Absatz für deinen Blog, der die Reaktion der Scammer entlarvt:
-
 ---
 
 ## Die „Ignoranz-Taktik“: Wenn Fragen gefährlich werden 🧱🔇
@@ -441,9 +439,6 @@ Dass der Beleg eigentlich wertlos ist, wird ignoriert, die Hoffnung auf die 500 
 > Vielen Dank für Ihre E-Mail. Ich habe die Quittung erhalten. Sobald die Gebühr bestätigt ist, werden wir das Konto eröffnen.  
 >    
 > Viele Grüße  
-
-Hier ist der nächste Abschnitt für deinen Blog, der den absurden Moment beschreibt, in dem die „Bank“ den fiktiven Geldeingang bestätigt:
-
 
 ## Wunderheilung in Hannover: Geld da, Konto offen! 🪄💸
 

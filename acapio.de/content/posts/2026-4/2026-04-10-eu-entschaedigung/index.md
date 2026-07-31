@@ -70,8 +70,6 @@ Die Antwort lässt nicht lange auf sich warten. Es ist die übliche Masche, noch
 
 Oh là là, unsere Conny hat aber eine steile Karriere hingelegt! 🚀 Gestern noch einfache „Managerin“, heute schon „Direktorin“ – bei der EU-Wohltätigkeitsstiftung wird man anscheinend schneller befördert, als man „Identitätsdiebstahl“ buchstabieren kann.
 
-Hier ist das nächste Update für unseren Blogartikel, frisch serviert mit einer Extraportion Sarkasmus:
-
 ---
 
 ## Daten-Striptease für Frau Direktorin Vogt 💃💸

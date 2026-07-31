@@ -69,8 +69,6 @@ Der Höhepunkt ist das Formular, in dem Hugo aufgefordert wird, all seine persö
 >   
 > Sobald wir die oben genannten Informationen von euch erhalten, werden wir mit eurer Mitgliedschaft und der Initiierung einer Mitgliedschaft in der großartigen Illuminati-Gesellschaft fortfahren. Bitte melden Sie sich so schnell wie möglich bei uns, um Verzögerungen zu vermeiden.  
 
-Hier ist ein passender Abschnitt für den Blogartikel:  
-
 ### Wir wollen Mitglied werden  
 
 Natürlich haben wir die Einladung der Illuminaten ernst genommen! Wir bringen das Bier, sie das Licht!

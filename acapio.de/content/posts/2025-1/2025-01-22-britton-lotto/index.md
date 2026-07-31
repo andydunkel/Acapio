@@ -411,8 +411,6 @@ Gerne rufen wir auch selbst bei der Bank an!
 > Grüße,    
 > Hugo  
 
-Hier ist der passende Blog-Abschnitt:  
-
 ---
 
 ### **Die Mails werden kürzer**  
@@ -423,10 +421,6 @@ Die Betrüger scheinen langsam die Geduld zu verlieren, oder ihnen gehen einfach
 > Das Geld ist nicht angekommen, das habe ich Ihnen gerade mitgeteilt, und Sie müssen sich an Ihre Bank wenden und alles gründlich prüfen."  
 
 Langsam riecht das hier nach Frust auf der anderen Seite. Werden sie noch eine kreative Ausrede erfinden oder bricht das Kartenhaus bald zusammen? Wir bleiben dran!  
-
-Vorschlag von **ChatGPT** 🤖: "Sollen wir eine neue Antwort von Hugo vorbereiten, um sie noch weiter zu nerven? 😄"
-
-**Klaro!**
 
 ## Der Schenkungsvertrag
 

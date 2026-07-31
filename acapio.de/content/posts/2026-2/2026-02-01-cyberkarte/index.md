@@ -252,7 +252,7 @@ Gleichzeitig spielt er den unschuldigen Kunden: „Das Geld ist doch laut Beleg 
 
 ## Jetzt kommen täglich Mails!
 
-Das Spiel ist aus! Die Scammer haben unseren Braten gerochen, und die Stimmung kippt gewaltig. Von höflichem Warten bis hin zur blanken Wut ist alles dabei. Hier sind die drei Phasen des Erwachens für den Blog:
+Das Spiel ist aus! Die Scammer haben unseren Braten gerochen, und die Stimmung kippt gewaltig. Von höflichem Warten bis hin zur blanken Wut ist alles dabei.
 
 ### Phase 1: Die höfliche Ungeduld ⏳
 
@@ -312,8 +312,6 @@ Basti geht in die Offensive: Er spielt den empörten Kunden, der sich den rüden
 
 Basti bleibt cool: „Wer Millionen verspricht, sollte zumindest seine IBAN im Griff haben.“ 🐩💸
 
-Das ist ja fast schon rührend! Die Scammer kriechen zu Kreuze und liefern uns gleichzeitig die perfekte Vorlage für das Lehrbuch des Online-Betrugs. Hier sind die Abschnitte für den Blog:
-
 ---
 
 ## Phase 4: Die „Freunde & Familie“-Finte 🫂🤡
@@ -362,8 +360,6 @@ Nach der rührenden Entschuldigung der Scammer lässt Basti sich (scheinbar) bre
 Wir lassen die „Ingenieure“ in dem Glauben, dass der große Zahltag kurz bevorsteht, ein klassisches Beispiel dafür, wie man Scammer so lange wie möglich hinhält, damit sie in dieser Zeit keine echten Opfer abkassieren können. 🕵️‍♂️⏳
 
 Bis dahin hoffen wir, dass der E-Mail-Anbieter den Account sperrt!
-
-Das ist das perfekte Ende für unseren Krimi! Hier ist der passende Text für den Blog, inklusive dem Lob für Proton:
 
 ---
 
