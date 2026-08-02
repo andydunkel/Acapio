@@ -223,3 +223,64 @@ Aaliyah gibt keine Ruhe und fordert nachdrücklich den Ausweis ein – immerhin 
 Da wir den Betrügern natürlich keine echten Personaldaten anvertrauen, kommt unser bewährter [Bundeshuhn-Spaßausweis](/posts/2026-04-11-vorladung/#phase-3-die-falle-schnappt-zu--verzweiflung-und-identit%C3%A4tsdiebstahl) zum Einsatz. 
 
 Mit stolzem Gefieder, fantasievollen Ausstellungsbehörden und offensichtlichen Fake-Daten geht das Dokument nun auf die Reise in die Emirate. Jetzt bleibt abzuwarten, ob Aaliyah oder ihr angeblicher Anwalt den Braten riechen – oder ob das Bundeshuhn bald offiziell als Begünstigter von 13 Millionen Dollar im Nachlassregister eingetragen wird!
+
+---
+
+## Das Märchen vom Millionenerbe und der Offshore-Bank
+
+**Wir bekommen natürlich eine Antwort!**
+
+Bei dieser Nachricht handelt es sich um eine Lehrbuchvariante des klassischen **Vorschussbetrugs (Advance-Fee Fraud)**. Die Masche ist extrem simpel gestrickt, wird hier aber mit viel emotionalem Beiwerk und pseudofachlichem Geschwurbel kaschiert: Den Opfern werden 50 % Gewinnbeteiligung versprochen, wenn sie angeblich beim diskreten Geldtransfer einer Offshore-Bank helfen. Während die Betrüger großzügig versprechen, alle Anwalts- und Steuerkosten zu übernehmen, liegt der Haken bei den angeblich kleinen „Kontoeröffnungs- und Aktivierungsgebühren“. Das angegebene Konto existiert natürlich nicht bzw. gehört den Scammern – sobald das Geld für die Eröffnung fließt, folgen unter Vorwänden wie „Anti-Terror-Zertifikaten“ oder „Stempelsteuern“ weitere Zahlungsaufforderungen, bis das Opfer aussteigt.
+
+---
+<details class="scam-accordion">
+  <summary>E-Mail mit langer Erklärung</summary>
+  <div class="accordion-content">
+    <blockquote>
+      <p>Sehr geehrter Herr Hugo,<br></p>
+      <p>vielen Dank, dass Sie mir Ihre persönlichen Daten und Ihren Identitätsnachweis zur Verfügung gestellt haben. Ich freue mich sehr, jemanden wie Sie für dieses bedeutende Vorhaben an meiner Seite zu haben. Ihr Engagement und Ihr Vertrauen bedeuten mir viel, und ich bin überzeugt, dass wir diese Transaktion gemeinsam erfolgreich abschließen werden. Ich freue mich auf den Tag, an dem wir unseren Erfolg mit einer Flasche teurem Champagner auf einer Insel oder an einem Ort unserer Wahl feiern können.<br></p>
+      <p>Bitte lesen Sie die folgenden Informationen sorgfältig durch, damit Sie die nächsten Schritte und Ihre Rolle in diesem Prozess verstehen:<br></p>
+      <p>Ich habe Ihre Informationen erhalten und werde sie an den Anwalt weiterleiten, der die erforderlichen Unterlagen bearbeiten wird. Ich werde Sie in Kürze darüber informieren, bei welcher Bank Sie ein neues Konto auf Ihren Namen eröffnen müssen. Sobald das Konto eingerichtet ist, werden die Gelder dorthin überwiesen. Zu Ihrer Information werde ich Ihnen außerdem eine Kopie meines Personalausweises zusenden. Dies erfolgt nach Erhalt Ihrer Antwort.<br></p>
+      <p>Für diese Transaktion werden wir eine Offshore-Bank nutzen. Als Bankerin ist es meine Pflicht sicherzustellen, dass diese Überweisung diskret durchgeführt wird. Diese Bank verwendet dasselbe Telex-System wie meine Bank. Das bedeutet, dass jede Überweisung zwischen den beiden Banken als bankinterne Transaktion erscheinen und dadurch die Aufmerksamkeit internationaler Finanzbehörden mit strengen Finanzrichtlinien vermeiden würde. Diesbezüglich müssen Sie sich keine Sorgen machen.<br></p>
+      <p>Die Behörden werden diese Überweisung als gewöhnlichen Vorgang zwischen zwei Banken betrachten, ohne dass Warnsignale ausgelöst werden. Es ist von entscheidender Bedeutung, diese Vorsichtsmaßnahmen zu treffen, um unsere Interessen zu schützen. Als professionelle Bankerin erwarte ich, dass Sie meinen Anweisungen folgen, damit diese Transaktion erfolgreich abgeschlossen werden kann.<br></p>
+      <p>Bezüglich der Kosten werde ich sämtliche Ausgaben übernehmen, die mit der Abwicklung dieser Überweisung verbunden sind, beispielsweise die Anwaltskosten sowie die Beschaffung der erforderlichen offiziellen Dokumente und Genehmigungen der Behörden der Vereinigten Arabischen Emirate. Sie sind für die Kontoeröffnungsgebühr verantwortlich, die von der Offshore-Bank möglicherweise erhoben wird.<br></p>
+      <p>Wir haben 5 % der Gesamtsumme vorgesehen, um sämtliche Ausgaben abzudecken, die beiden Parteien während dieser Transaktion entstehen. Bitte bewahren Sie Aufzeichnungen über alle von Ihnen getragenen Ausgaben auf, unabhängig von deren Höhe, und ich werde dasselbe tun. Diese Kosten werden bei unserer abschließenden Abrechnung von den vorgesehenen 5 % abgezogen. Wie bereits erwähnt, werden 50 % der Gesamtsumme Ihr Anteil als ausländischer Partner bei dieser Transaktion sein.<br></p>
+      <p>Ich werde sämtliche Kosten auf meiner Seite übernehmen, einschließlich Erbschaftssteuern und anderer damit verbundener Steuern. Sie müssen jedoch die auf Ihrer Seite anfallenden Kosten übernehmen, beispielsweise die Kosten für die Eröffnung und Aktivierung Ihres Kontos. Diese sollten keinen erheblichen Betrag darstellen.<br></p>
+      <p>Ich glaube, dass finanzielle Freiheit ein Traum ist, den wir alle teilen. Geld ist von großer Bedeutung, und weltweit liegen beträchtliche Summen ungenutzt auf Bankkonten. Nur diejenigen, die es wagen, solche Chancen zu ergreifen, wie wir es tun, können von solchen Möglichkeiten profitieren. Ich habe dies bereits viele Male erlebt und möchte diese Gelegenheit nicht verpassen. Ich würde mich freuen, wenn Sie dies gemeinsam mit mir erleben und sehen könnten, was das Universum für uns bereithält.<br></p>
+      <p>Bitte antworten Sie mit einer positiven Einstellung und im Wissen, dass wir kurz davor stehen, etwas zu erreichen, das unser finanzielles Leben für immer verändern könnte.<br></p>
+      <p>Mit freundlichen Grüßen,<br>
+      Frau Aaliyah Rafiq<br></p>
+    </blockquote>
+  </div>
+</details>
+
+---
+
+### Die Antwort von Hugo: Bedenken vortäuschen und den Spieß umdrehen
+
+Um die Scammer weiter auf Trab zu halten, antwortet Hugo mit einer gezielten Mischung aus naiver Neugier, bürokratischer Vorsicht und angeblicher Ebbe im Portemonnaie. Diese Taktik erfüllt im Scambaiting gleich mehrere Zwecke:
+
+1. **Die Gebühren-Falle aushebeln:** Indem Hugo erklärt, kein Geld für Vorauszahlungen zu haben, zwingt er die Betrüger dazu, neue Ausreden zu erfinden, warum ein Verrechnen mit der Millionensumme „leider unmöglich“ sei.
+2. **Angst vor der Polizei vorschieben:** Die vorgebliche Sorge vor Ärger mit den Behörden fordert die Scammer heraus, noch tiefere Räuberpistolen über ihre angeblich „100% legale Telex-Technik“ aufzutischen.
+3. **Ausweiskopie einfordern:** Der Scammer wird beim Wort genommen. Oft schicken die Betrüger daraufhin gefälschte oder gestohlene Ausweisdokumente anderer Opfer, die sich für die spätere Dokumentation im Blog hervorragend analysieren lassen.
+
+> Sehr geehrte Frau Rafiq,  
+>   
+> vielen Dank für Ihre lange Nachricht. Das klingt ja alles sehr aufregend mit dem Champagner und dem Geld!  
+>   
+> Ich muss aber ehrlich sein: Ich bin ein einfacher Mann und habe mit solchen Finanzsachen und Offshore-Banken überhaupt keine Erfahrung. Um ehrlich zu sein, bekomme ich auch etwas Bauchweh, wenn es darum geht, Behörden oder Kontrollen zu umgehen. Ich möchte auf keinen Fall Ärger mit der Polizei oder dem Finanzamt bekommen!  
+>   
+> Außerdem habe ich derzeit leider kein Geld übrig, um irgendwelche Gebühren für eine Kontoeröffnung im Voraus zu bezahlen. Können Sie diese Gebühr nicht einfach von meinem 50 %-Anteil abziehen oder direkt selbst übernehmen, wenn das Konto eröffnet wird? Sie haben ja geschrieben, dass Sie alle anderen Kosten übernehmen.  
+>   
+> Schicken Sie mir bitte wie versprochen erst einmal die Kopie Ihres Personalausweises, damit ich weiß, mit wem ich es genau zu tun habe und etwas beruhigter bin.  
+>   
+> Viele Grüße,  
+> Hugo  
+
+
+Durch diese Antwort bleibt der Köder für die Scammer attraktiv, während die entscheidende Hürde – das Zahlen von echtem Geld – konsequent verweigert wird.
+
+---
+
+
+

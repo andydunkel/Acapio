@@ -79,3 +79,61 @@ Die Sahne auf der Pommes? Die Sorge um Ärger mit dem Finanzamt – aber die Aus
 
 ---
 
+
+## Phase 2: Die Katze ist aus dem Sack – Willkommen bei der Fake-Bank!
+
+Frau Hang Sing hat geantwortet und wischt Hugos berechtigte Ruhrpott-Sorgen um Polizei und Finanzamt mit einem flockigen „Vertrauen Sie mir, alles entspricht internationalen Gesetzen“ beiseite. Na dann ist ja alles gut! Doch zwischen den Zeilen dieser E-Mail passiert etwas sehr Wichtiges: Die Scammerin bereitet den eigentlichen Betrug vor und zündet die nächste Stufe.
+
+<details class="scam-accordion">
+  <summary>E-Mail mit erneuter langer Erklärung</summary>
+  <div class="accordion-content">
+    <blockquote>
+      <p>Vielen Dank nochmals für Ihr aufrichtiges Interesse an dieser Transaktion. Ich freue mich sehr, dass Sie eine integre, reife und vertrauenswürdige Person sind, auf deren Kompetenz ich mich bei der Abwicklung dieser Transaktion verlassen kann. Aufgrund Ihres Status und Ihrer Erfahrung bin ich sehr zuversichtlich, dieses Geschäft mit Ihnen erfolgreich abzuschließen.<br></p>
+      <p>Wie bereits erwähnt, war es aufgrund der aktuellen Situation notwendig, Ihre Unterstützung in Anspruch zu nehmen. Ich schätze Ihre Bereitschaft, mich bei der Durchführung dieses Projekts zu unterstützen und mir möglicherweise auch bei der Investition meines Geldes in Ihrem Land oder anderswo behilflich zu sein. Ich bin mir dessen ziemlich sicher. Sie brauchen sich keine Sorgen zu machen. Ich werde alle rechtlich erforderlichen Maßnahmen ergreifen, um einen reibungslosen Ablauf des Projekts zu gewährleisten. Es wird alle internationalen Bankgesetze und die Ansprüche der Begünstigten erfüllen. Darauf können Sie sich verlassen.<br></p>
+      <p>Nachdem ich mich entschieden habe, Ihnen diese Transaktion anzuvertrauen, möchte ich Sie daran erinnern, dass Ihr Engagement und Ihre sorgfältige Nachverfolgung unerlässlich sind. Wenn Sie sich ernsthaft bemühen, sollte die gesamte Transaktion in wenigen Tagen abgeschlossen sein.<br></p>
+      <p>BITTE LESEN SIE FOLGENDES UND MELDEN SIE SICH BEI MIR:<br></p>
+      <p>Zunächst möchte ich genau wissen, welchen Beruf Sie ausüben. Dieses Projekt ist sehr kapitalintensiv, daher muss ich äußerst vorsichtig vorgehen. Ich benötige Ihr volles Engagement und Ihr Vertrauen, um dies erfolgreich abzuschließen. Ich weiß, wir haben uns noch nicht persönlich getroffen, bin aber zuversichtlich, dass wir das notwendige Vertrauen aufbauen können, um dieses Projekt durchzuführen.<br></p>
+      <p>Ich suche derzeit nach einer ausländischen Online-Bank, bei der Sie möglicherweise ein Konto auf Ihren Namen eröffnen müssen. Ich werde eine Bank finden, bei der Sie online ein Konto eröffnen können und Ihre steuerliche Identität nachweisen müssen. Das Geld wird dann auf Ihr Konto überwiesen, das Sie für uns beide bei dieser Bank eröffnen. Dies ist eine der Möglichkeiten, die ich gefunden habe, und sie schützt uns vor den Zugriffen meiner Banken in meinem Heimatland. Ich möchte, dass wir das Geld nach Abschluss des Projekts unbesorgt genießen können. Daher sollten Sie meine Anweisungen genau befolgen. Außerdem müssen Sie wissen, dass ich dieses Geld nicht in meinem Namen überweisen kann, da meine Bank sonst wüsste, dass es von mir stammt. Hier benötige ich Ihre Unterstützung.<br></p>
+    </blockquote>
+  </div>
+</details>
+
+Zwei Dinge fallen hier sofort auf:
+
+**1. Das Abtasten der Geldbörse (Social Engineering)**
+Frau Hang Sing fragt ganz unschuldig nach Hugos Beruf. Das ist kein netter Smalltalk unter angehenden Geschäftspartnern. Betrüger wollen an diesem Punkt genau wissen, wen sie am Haken haben. Ist Hugo ein armer Schlucker oder gibt es bei ihm etwas zu holen? Daran wird nämlich bemessen, wie hoch die späteren „Gebühren“ ausfallen werden.
+
+**2. Der Fake-Bank-Trick wird vorbereitet**
+Das ist der absolute Kern dieser Masche! Frau Hang Sing will das Geld nicht einfach auf Hugos Girokonto überweisen (Ausrede: Ihre eigene Bank würde das ja merken). Stattdessen wird sie netterweise eine „ausländische Online-Bank“ suchen, bei der Hugo ein Konto eröffnen soll.
+
+**Für alle, die sich fragen, wie der Scam ab hier weitergeht:**
+In der nächsten oder übernächsten Mail wird Frau Hang Sing uns einen Link zu einer komplett gefälschten Bank-Webseite schicken. Diese Seite wird von den Betrügern selbst betrieben.
+
+Wir werden uns dort brav anmelden und – *Simsalabim!* – auf unserem Bildschirm wird plötzlich ein Kontostand von 10,5 Millionen Dollar prangen. Das soll das Opfer blind vor Gier machen. Doch sobald wir versuchen, auch nur einen Cent davon auf unser echtes Konto zu überweisen, schnappt die Falle zu: Die angebliche Bank wird plötzlich vorschieben, dass wir erst eine „Aktivierungsgebühr“, „Geldwäsche-Zertifikate“ oder „Steuern“ bezahlen müssen.
+
+Und genau hier, bei diesen erfundenen Gebühren, fließt dann das echte Geld der Opfer in die Taschen der Betrüger (der klassische Vorschussbetrug).
+
+Mal sehen, welche exklusive „Online-Bank“ Frau Hang Sing für Hugo aussucht!
+
+---
+
+### Schrauber Hugo wittert das große Geld: Wir fordern den Link zur Fake-Bank
+
+Wir wollen Frau Hang Sing natürlich nicht enttäuschen und servieren ihr auf dem Silbertablett genau das Opfer, das sich jeder Vorschussbetrüger wünscht. Hugo wird kurzerhand zum bodenständigen KFZ-Mechaniker gemacht – eine ehrliche Haut, finanziell eher bescheiden aufgestellt, aber mit großen Träumen von neuen Hebebühnen und einem wohlverdienten Malle-Urlaub.
+
+Um das Ganze etwas abzukürzen und an das eigentliche Ziel dieses Scams (die betrügerische Webseite) zu gelangen, mimen wir die totale Leichtgläubigkeit. Wir tun so, als würden wir den Quatsch von „internationalen Gesetzen“ glauben, und fordern direkt und voller falscher Tatendrang den Link zur versprochenen „Online-Bank“ an. Der Köder ist ausgeworfen!
+
+> Hallo Frau Hang Sing,  
+>   
+> da fällt mir aber ein Stein vom Herzen! Wenn Sie mir versprechen, dass das alles nach den internationalen Gesetzen läuft, dann vertraue ich Ihnen da voll und ganz. Ich will ja schließlich keine schlafenden Hunde beim Finanzamt wecken.  
+>   
+> Sie haben nach meinem Beruf gefragt: Ich bin gelernter KFZ-Mechaniker und habe hier in Wanne-Eickel eine kleine Schrauberbude. Wir reparieren hauptsächlich alte Mopeds, Roller und manchmal auch Autos. Reich wird man davon nicht, das können Sie mir glauben. Deshalb kommt mir das mit der Erbschaft ja so gelegen! Wenn das wirklich klappt, kaufe ich mir direkt zwei neue Hebebühnen für die Werkstatt und mache mal vier Wochen richtig Urlaub auf Mallorca.  
+>   
+> Das mit der ausländischen Online-Bank klingt für mich ehrlicherweise ein bisschen kompliziert. Aber ich habe hier im Büro einen Computer mit Internetanschluss stehen, das kriege ich schon hin!  
+>   
+> Haben Sie denn schon eine passende Bank gefunden? Schicken Sie mir einfach den Namen oder diesen Internet-Link, wo ich mich anmelden muss. Und sagen Sie mir am besten genau, was ich da eintragen soll, damit ich nichts falsch mache.  
+>   
+> Ich stehe in den Startlöchern und warte auf Ihre Anweisungen!  
+>   
+> Viele Grüße aus dem schönen Wanne-Eickel,  
+> Hugo  

@@ -207,5 +207,15 @@ Besonders beruhigend ist der Hinweis auf Datenschutz und streng vertrauliche Ver
 
 Noch fehlt die eigentliche Gebührenforderung. Aber das Muster ist klar: Erst werden möglichst viele persönliche Daten eingesammelt, danach folgt meist die Nachricht, dass vor der Auszahlung nur noch eine kleine Steuer, Freigabegebühr oder Versicherung bezahlt werden müsse. Die 3,5 Millionen Euro rücken damit keinen Schritt näher – die Betrüger dafür schon.
 
+---
+
+## Jetzt wird der Bankmanagerin langsam ungeduldig
+
+Offenbar hat Hugo den Ernst der Lage nicht verstanden. Deshalb folgt nun die letzte Warnung: Formular vollständig ausfüllen – oder die 3,5 Millionen Euro sind weg. Dramatische Zustände im AOL-Bankwesen. 🏦
+
+> Offenbar halten Sie das für einen Scherz. Dies ist das letzte Mal, dass Sie gebeten werden, das Formular vollständig auszufüllen. Sollten Sie dies nicht tun, verfällt Ihre Spende, und Sie erhalten weder weitere Unterstützung noch Erinnerungen.  
+
+Der Tonwechsel ist typisch: Erst wird mit Segen, Nächstenliebe und Vertrauen gelockt, anschließend mit Zeitdruck und Verlust gedroht. Wer nicht sofort alle persönlichen Daten liefert, verliert angeblich die Spende. In Wahrheit verfällt natürlich nichts – außer vielleicht die Geduld der Betrüger.
+
 
 
