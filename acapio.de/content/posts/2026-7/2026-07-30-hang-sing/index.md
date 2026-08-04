@@ -137,3 +137,81 @@ Um das Ganze etwas abzukürzen und an das eigentliche Ziel dieses Scams (die bet
 >   
 > Viele Grüße aus dem schönen Wanne-Eickel,  
 > Hugo  
+
+---
+
+## Vom Schrauber zum „Bruder“: Willkommen bei der TURKCITY BANK
+
+**Die Zusammenfassung: Wenn die Bankangestellte plötzlich familiär wird**
+
+Es hat funktioniert! Unser leichtgläubiger KFZ-Mechaniker Hugo hat sich durch seine angebliche Werkstatt-Existenz als das perfekte Opfer qualifiziert. Scammerin Hang Sing ist von Hugos „Integrität“ derart gerührt, dass sie ihn direkt in den Stand eines Blutsbruders erhebt.
+
+<details class="scam-accordion">
+  <summary>E-Mail: ab gehts zur Bank</summary>
+  <div class="accordion-content">
+    <blockquote>
+      <p>Ich möchte Ihnen ganz herzlich für Ihre große Verantwortung und Ihr Vertrauen danken. Ihr Interesse hat sich als aufrichtig erwiesen, und nachdem ich Ihre Identität und Ihr ernsthaftes Engagement bestätigt habe, fühle ich mich viel wohler, dieses Geschäft mit Ihnen abzuwickeln, auch wenn wir noch nicht persönlich miteinander telefoniert haben. Mein lieber Freund, bitte enttäuschen Sie mich nicht bei dieser wichtigen Transaktion und dem Vertrauen, das ich Ihnen als ausländischem Partner, Freund und jemandem, den ich nun fast schon als Bruder betrachte, entgegenbringe. Ich wäre überwältigt, Sie persönlich kennenzulernen. Vielleicht gibt es neben dieser Transaktion noch viele andere Möglichkeiten der Zusammenarbeit. Ich bin seit vielen Jahren im Finanzsektor tätig, bemühe mich aber stets, meine Interessen zu diversifizieren und neue Wege zu beschreiten.<br></p>
+      <p>Nachdem ich Ihre Informationen erhalten hatte, habe ich umgehend eine Kopie an den Anwalt/Rechtsanwalt weitergeleitet, der die Unterlagen für die Bank zusammenstellt, damit die Gelder umgehend freigegeben und an Sie überwiesen werden können. Dies sollte einige Tage dauern, je nachdem, wie schnell Sie das neue Online-Konto eröffnen können. Ich habe meine Anfragen bei einigen Banken abgeschlossen, die dasselbe Überweisungsverfahren wie meine Bank nutzen. Diese Bank befindet sich in Europa und erfordert keine Reise Ihrerseits zur Kontoeröffnung. Ich habe Ihnen die Bank in Europa empfohlen, indem ich den Namen meiner Bank verwendet habe. Dort ist Ihr Name bekannt und man erwartet Ihre Kontaktaufnahme.<br></p>
+      <p>Ich sende Ihnen nun die Bankverbindung (europäische Bank), damit Sie sich dort nach der Eröffnung eines Offshore-/Online-Kontos erkundigen können. Wie bereits erwähnt, empfehle ich Ihnen, ein neues Online-Konto bei dieser europäischen Bank zu eröffnen. Sobald die Gelder freigegeben sind, werden sie direkt auf Ihr neues Online-Konto überwiesen. Die Überweisung wird als interne Transaktion behandelt und hat keine Auswirkungen auf internationale Finanzinstitutionen. Wie Sie sich vielleicht erinnern, habe ich Ihnen in meiner vorherigen E-Mail mitgeteilt, dass Sie, sobald die Gelder auf Ihrem neuen Online-Konto eingegangen sind und Sie den Gutschriftseingang bestätigt haben, problemlos Auszahlungen auf andere Konten vornehmen können.<br></p>
+      <p>Ich habe bereits nachgefragt, an wen ich mich als internationaler Kunde direkt wenden kann, um ein Konto zu eröffnen. Bitte kontaktieren Sie die Bank mit den unten stehenden Informationen, um die Kontoeröffnung zu beschleunigen. Teilen Sie mit, dass Sie ein Online-Konto wünschen und keine Zeit haben, persönlich zur Kontoeröffnung zu reisen. Daher möchten wir die gesamte Abwicklung per E-Mail, Fax und Telefon. Geben Sie an, dass Sie diese Kontaktdaten von einer Bank in China erhalten haben.<br></p>
+      <p>Bankname: TURKCITY BANK<br>
+      E-Mail-Adresse der Bank: info@turkscib.com<br>
+      Ansprechpartner: Durmus Ali Kuzu (Generaldirektor für operative Angelegenheiten)<br>
+      Leiter Privat- und Geschäftskunden<br></p>
+      <p>Bitte beachten Sie, dass die TURKCITY BANK Inc. keine reguläre Geschäftsbank, sondern eine Kreditvermittlungsbank ist. Sie betreibt ein Online-Banking-System in kleinem Umfang und bietet Bankdienstleistungen für Privatpersonen und Unternehmen mit internationaler Geschäftstätigkeit an. Die Bank arbeitet außerdem mit Partnerbanken in Europa, Asien und Amerika zusammen. Einer der Hauptgründe, warum wir die TURKCITY BANK Inc. nutzen, ist, dass diese Bank denselben Telex-Typ wie meine eigene Bank verwendet. Das bedeutet, dass jede Überweisung zwischen ihnen und meiner Bank als interne Überweisung gilt. Dadurch wird die Aufmerksamkeit bestimmter internationaler Finanzinstitutionen mit strengen Geldpolitiken vermieden. Die Behörden würden eine solche Überweisung einfach als Bankgeschäft betrachten, ohne Verdacht zu erregen oder Alarm auszulösen. Es war unbedingt notwendig, bei Transaktionen dieser Art bestimmte Vorsichtsmaßnahmen zu treffen, um sicherzustellen, dass unsere Interessen gewahrt bleiben. Als langjähriger Banker erwarte ich, dass Sie meinen Rat für den Erfolg dieser Transaktion und die anschließende Auszahlung der Gelder befolgen.<br></p>
+      <p>Ich erwarte in Kürze eine Rückmeldung von Ihnen bezüglich der Eröffnung Ihres neuen Online-Kontos. Bitte kontaktieren Sie die Online-Bank der TURKCITY BANK und beantragen Sie das Konto, da ich eine schnelle Kontoeröffnung wünsche. Sie können die Bank unter der E-Mail-Adresse info@turkscib.com erreichen.<br></p>
+      <p>Ich weiß, dass diese Transaktion für uns beide und unsere Familien ein lebenslanges Vermögen bedeuten kann. Daher erwarte ich von Ihnen, dass Sie diese Transaktion mit höchster Priorität bearbeiten. Ich werde Sie ab sofort „mein Bruder“ nennen, um zu verdeutlichen, dass unser gegenseitiges Vertrauen auf dem von Blutsbrüdern und -schwestern beruht. Möge Gott Sie für Ihre positive Entschlossenheit, unser Leben zu beeinflussen, segnen.<br></p>
+      <p>Mit freundlichen Grüßen<br></p>
+    </blockquote>
+  </div>
+</details>
+
+
+Der Plan wird nun konkret: Die Daten wurden an einen mysteriösen Anwalt weitergeleitet und Hugo bekommt den offiziellen Auftrag, sich bei einer europäischen „Kreditvermittlungsbank“ namens **TURKCITY BANK** zu melden. Dort soll er bei einem gewissen Herrn Durmus Ali Kuzu ein Offshore-Konto eröffnen. Als absolute Krönung der Ausreden behauptet Hang Sing, dass diese Bank denselben (völlig veralteten) „Telex-Typ“ wie ihre Bank in Hongkong nutze, weshalb die Überweisung der 10,5 Millionen Dollar unter dem Radar der internationalen Finanzbehörden bleiben würde.
+
+---
+
+**Ein Blick auf die TURKCITY BANK (turkscib.com): Template-Design und Gratis-Zertifikate**
+
+Natürlich haben wir uns die Webseite der ominösen „Turkcity Bank“ (turkscib.com) genauer angesehen – und das Ergebnis ist wenig überraschend. Wer hier eine hochprofessionelle Finanzinstitution erwartet, die Millionenbeträge im Geheimen verschiebt, wird enttäuscht.
+
+![Die Webseite von turkscib.com](/posts/2026-07-30-hang-sing/bank.webp)
+
+Die Webseite ist ein lieblos und hastig zusammengeschustertes Standard-Template. Doch der eigentliche technische Offenbarungseid findet sich in der Adressleiste: Die angebliche Bank nutzt ein kostenloses *Let's Encrypt*-Zertifikat für ihre SSL-Verschlüsselung. Verstehen Sie das nicht falsch: Let's Encrypt ist eine großartige Initiative für normale Webseiten und private Blogs. Aber eine echte, international agierende Bank würde niemals ein kostenfreies Domain-Validation-Zertifikat ohne erweiterte Unternehmensprüfung (Extended Validation) nutzen. Hier wurde schlichtweg das billigste Hosting-Paket gebucht, um den Schein für ein paar Wochen aufrechtzuerhalten.
+
+---
+
+**Warum nach Drehbuch? Die Psychologie des Vorschussbetrugs**
+
+Man könnte sich fragen: *Warum machen die Betrüger es so kompliziert? Warum nicht in der ersten E-Mail direkt nach Geld fragen?*
+
+Die Antwort liegt in der jahrelang erprobten Psychologie des sogenannten Vorschussbetrugs (Advance-Fee Scam). Die Täter arbeiten strikt nach Handbuch:
+
+1. **Der Filter:** Die erste E-Mail ist bewusst absurd (die Millionen-Erbschaft des Unbekannten). Wer hier antwortet, hat sich bereits als potenziell leichtgläubig qualifiziert.
+2. **Die Vertrauensbindung:** Durch den E-Mail-Verkehr und die scheinbare Geheimhaltung wird eine persönliche Beziehung aufgebaut (wir sind jetzt „Brüder“).
+3. **Die Illusion der Legalität:** Anstatt selbst Geld zu fordern, wird das Opfer an eine (vermeintlich) offizielle dritte Partei verwiesen – in diesem Fall die Fake-Bank.
+4. **Die Gier-Falle:** Sobald Hugo sein gefälschtes Konto eröffnet, wird er dort schwarz auf weiß die 10,5 Millionen Dollar als Kontostand sehen. Dieses visuelle Erfolgserlebnis setzt den Verstand endgültig aus.
+
+Erst im allerletzten Schritt, wenn der „Bruder“ sein Geld auf das heimische Girokonto in Wanne-Eickel überweisen will, schnappt die Falle zu: Die Turkcity Bank wird plötzlich Gebühren, Steuern oder ein „Anti-Geldwäsche-Zertifikat“ verlangen. Und genau diese Gebühren sind das eigentliche Ziel des Scams.
+
+---
+
+### Wir kontaktieren die Fake-Bank: Hugo meldet sich bei Herrn Kuzu
+
+Nachdem uns unsere neue „Bluts-Schwester“ Hang Sing genaue Anweisungen gegeben hat, machen wir natürlich brav das, was von uns erwartet wird. Wir wechseln den Ansprechpartner und schreiben die angebliche TURKCITY BANK an.
+
+Das Ziel der Scammer: Ab jetzt sollen wir glauben, dass wir mit einer völlig unabhängigen, offiziellen Institution kommunizieren. In der Realität sitzt wahrscheinlich derselbe Betrüger (oder ein Kollege am Schreibtisch nebenan) in einem Internetcafé und wechselt einfach nur das E-Mail-Postfach.
+
+> Guten Tag Herr Kuzu,  
+>   
+> ich bin der Hugo aus Wanne-Eickel (Deutschland). Eine sehr gute Bekannte – wir sind mittlerweile schon fast wie Geschwister –, die Frau Hang Sing von der Bank in China, hat mir Ihre E-Mail-Adresse gegeben.  
+>   
+> Ich soll bei Ihnen bei der TURKCITY BANK so ein Online-Konto aufmachen. Es geht da um eine ziemlich große Überweisung von rund 10,5 Millionen Dollar aus einer Erbschaft, die sicher auf dieses Konto geschickt werden soll. Das soll wohl über Ihren "Telex-Typ" am besten funktionieren, hat mir meine Bekannte erklärt.  
+>   
+> Da ich hier in Wanne-Eickel jeden Tag in meiner KFZ-Werkstatt stehen muss (wir haben gerade Hochsaison wegen Reifenwechsel), kann ich leider unmöglich persönlich vorbeikommen. Frau Hang Sing meinte aber, das geht bei Ihnen auch alles ganz bequem über das Internet und per E-Mail.  
+>   
+> Was genau müssen Sie jetzt von mir haben, um das Konto freizuschalten? Reicht Ihnen ein Foto von meinem normalen deutschen Personalausweis? Sagen Sie mir einfach, was ich ausfüllen muss, damit das alles schnell über die Bühne geht. Wenn das Geld da ist, brauche ich nämlich dringend zwei neue Hebebühnen für die Werkstatt!  
+>   
+> Schöne Grüße aus dem Ruhrpott,  
+> Hugo  
+
