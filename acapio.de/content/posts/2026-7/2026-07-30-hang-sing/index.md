@@ -215,3 +215,75 @@ Das Ziel der Scammer: Ab jetzt sollen wir glauben, dass wir mit einer völlig un
 > Schöne Grüße aus dem Ruhrpott,  
 > Hugo  
 
+---
+
+## Die Preisliste der Betrüger: 4.500 Euro für die „Diamant-Reserve“
+
+Da ist sie endlich: Die klassische Vorabgebühren-Falle hat zugeschnappt! Die angebliche TURKCITY BANK präsentiert uns ihr „Menü“ für die Kontoeröffnung – und das ist psychologisch verdammt clever aufgebaut.
+
+Die Scammer lassen uns hier nämlich nur eine **Illusion der Wahl**. Da wir 10,5 Millionen Dollar von unserer „Bluts-Schwester“ Hang Sing erwarten, sind die ersten drei Kontomodelle mit ihren Überweisungslimits (max. 2 Millionen pro Monat) für uns völlig nutzlos. Wir *müssen* also zwangsläufig das teuerste Modell wählen: die „Diamant-Reserve“ für stolze **4.500 Euro** Einlage.
+
+> 1. Sparkonto Plus:  
+> Kontofunktionen: *Erfordert eine Kontoeröffnungs-/Einrichtungseinlage  
+> von €850,00 (EURO). *Direkter Online-Banking-Zugang rund um die Uhr.  
+> *Der maximale Überweisungsbetrag ist auf €500.000,00 EUR  
+> (fünfhunderttausend Euro) monatlich begrenzt.  
+>   
+> 2. Girokonto Plus Reserve:  
+> Kontofunktionen: *Erfordert eine Einzahlung von €1.500,00 (EUR) bei  
+> Kontoeröffnung. *24/7 Online-Banking-Zugang. *Maximale Überweisungshöhe:  
+> €1.000.000,00  (eine Million Euro) monatlich.  
+>   
+> 3. Girokonto Gold Reserve:  
+> Kontofunktionen: *Erfordert eine Einzahlung von €2.500,00 (EUR) bei  
+> Kontoeröffnung. *24/7 Online-Banking-Zugang. *Keine  
+> Mindestabhebungsgebühr. *Transaktionen in mehreren Währungen möglich.  
+> *Gleichbeträge möglich. *Maximale Überweisungshöhe: €2.000.000,00 (zwei  
+> Millionen Euro) monatlich.  
+>   
+> 4. Diamant-Reserve:  
+> Kontofunktionen: *Erfordert eine Einzahlung von €4.500 (EUR) bei  
+> Kontoeröffnung. *24/7 Online-Banking-Zugang. *Mindestzinsen: 7%. *Keine  
+> Mindestabhebungsgebühr. *Transaktionen in mehreren Währungen möglich.  
+> *Gleichbeträge möglich. *Keine maximale Überweisungsgrenze. (Das  
+> bedeutet, Sie können jeden beliebigen Betrag auf einmal überweisen.)  
+
+Genau das ist das einzige Ziel dieses Betrugs (Advance-Fee Scam). Wer diese 4.500 Euro überweist, sieht sein Geld nie wieder. Stattdessen würden die Betrüger einfach die nächsten Gebühren für erfundene Steuern oder Zertifikate erfinden.
+
+Aber nicht mit unserem Hugo! Wir drehen den Spieß jetzt um und kommen den Scammern mit der absoluten Endgegner-Logik.
+
+---
+
+### Die Endgegner-Logik: Hugo hat einen genialen Plan
+
+Wie reagiert unser einfacher Schrauber Hugo auf die saftige Forderung von 4.500 Euro? Er zückt die absolute Geheimwaffe des Scambaitings: den simplen Menschenverstand.
+
+Da die Kasse nach teuren Tierarztkosten für den Dackel und neuen Alufelgen für den geliebten BMW gerade etwas leer ist, macht Hugo der Bank einen unschlagbaren Gegenvorschlag. Warum behält Herr Kuzu die mickrigen 4.500 Euro nicht einfach direkt ein, sobald die 10,5 Millionen Dollar von Frau Hang Sing eintreffen? Für jeden normalen Menschen wäre das der logischste Deal der Welt.
+
+> Guten Tag Herr Kuzu,  
+>   
+> ich hab mir Ihre Liste mal beim Feierabendbier angeguckt. Ist ja logisch, dass ich dieses „Diamant-Reserve“-Konto brauche! Bei den anderen gibt es ja Limits – da warte ich ja Jahre, bis die 10,5 Millionen von der Frau Hang Sing bei mir in Wanne-Eickel sind. Also nehmen wir das Diamant-Ding!  
+>   
+> Jetzt gibt es da nur ein klitzekleines Problemchen: 4.500 Euro Einzahlung sind für mich echt ne ordentliche Hausnummer. Ich hab die Kohle gerade einfach nicht flüssig. Mein Dackel brauchte eine teure OP und im BMW Club stand auch noch eine fette Rechnung für neue Alufelgen und nen Sportauspuff an. Da ist die Kasse gerade ziemlich leer.  
+>   
+> Aber ich bin ja nicht doof, ich hab da eine super Idee für uns beide: Wenn die 10,5 Millionen von Frau Hang Sing bei Ihnen ankommen, behalten Sie Ihre 4.500 Euro Gebühr doch einfach direkt ein! Ziehen Sie das einfach vorher ab, das fällt bei der Riesensumme doch sowieso keinem auf. Dann haben Sie Ihr Geld sicher, und ich kann mir endlich die neuen Hebebühnen bestellen. Genial, oder?  
+>   
+> Hier sind schon mal meine Daten für Ihre Akten:  
+>   
+> Name: Hugo (brauchen Sie hier Nachnamen? Lass ich wegen Datenschutz lieber erstmal weg)  
+> Land: Deutschland  
+> Wohnadresse: Hauptstraße 42, Wanne-Eickel  
+> Arbeitsadresse: Hugos Schrauberbude, Hinterhof 3, Wanne-Eickel  
+> Beruf: KFZ-Mechaniker  
+> Geschlecht: Männlich  
+> Nächste Angehörige: Mein Dackel  
+> Monatliches Einkommen: Reicht für Manta-Platte und Sprit (ca. 1.800 Euro)  
+> Gewähltes Konto: Diamant-Reserve  
+> Telefonnummer: Mein Handy liegt gerade in der Werkstatt, geht ja aber auch alles super per E-Mail!  
+>   
+> Machen Sie das mit dem Abziehen der Gebühr klar, dann schicke ich Ihnen sofort ein Foto von meinem Ausweis und wir sind im Geschäft!  
+>   
+> Glück auf,  
+> Hugo  
+
+
