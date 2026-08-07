@@ -179,3 +179,24 @@ Damit nicht einfach irgendein Bild aus dem Internet geschickt wird, soll ein han
 >   
 > Mit freundlichen Grüßen  
 > Hugo  
+
+---
+
+## Kein Kartenfoto – dafür WhatsApp
+
+Nach einer längeren Funkstille melden sich die angeblichen Wohltäter wieder. Auf Hugos Bitte um ein Foto der versprochenen ATM-Karte gehen sie allerdings mit keinem Wort ein. Stattdessen kommt nur:
+
+> Gib mir deine WhatsApp-Nummer
+
+Ein Klassiker. 📱 Weg von der E-Mail, hin zu einem direkteren Messenger, wo sich Druck leichter aufbauen und der Kontakt persönlicher gestalten lässt. Die magische 1,8-Millionen-Dollar-Karte bleibt dagegen weiterhin erstaunlich kamerascheu.
+
+Als Antwort würde ich schreiben:
+
+> Guten Tag Frau Kahraman,
+>
+> WhatsApp nutze ich dafür nicht. Wir können gerne weiter per E-Mail schreiben.
+>
+> Ich warte außerdem noch auf das Foto meiner ATM-Karte mit „Hugo“ und dem aktuellen Datum daneben. Sobald ich sehe, dass die Karte tatsächlich existiert, können wir über die nächsten Schritte sprechen.
+>
+> Mit freundlichen Grüßen
+> Hugo
