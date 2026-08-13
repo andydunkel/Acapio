@@ -2,7 +2,7 @@
 title: "Hang Sing sucht Geschäftspartner: Ein Blick hinter den Mail-Köder"
 params:
   author: Andy
-date: "2026-07-28"
+date: "2026-07-30"
 featured: true
 toc: true
 tags:
@@ -140,7 +140,7 @@ Um das Ganze etwas abzukürzen und an das eigentliche Ziel dieses Scams (die bet
 
 ---
 
-## Vom Schrauber zum „Bruder“: Willkommen bei der TURKCITY BANK
+## Vom Schrauber zum „Bruder“: Willkommen bei der  BANK
 
 **Die Zusammenfassung: Wenn die Bankangestellte plötzlich familiär wird**
 
@@ -286,4 +286,37 @@ Da die Kasse nach teuren Tierarztkosten für den Dackel und neuen Alufelgen für
 > Glück auf,  
 > Hugo  
 
+---
+
+## Das abrupte Ende: Der Bank gehen die Argumente (und die Geduld) aus
+
+Erinnern Sie sich noch an die blumigen Worte und die angeblich so professionelle „TURKCITY BANK“? Unser Gegenvorschlag, die Gebühr einfach von den Millionen abzuziehen, hat das System offenbar komplett überlastet. Statt einer ausgefeilten banktechnischen Erklärung, warum das nicht geht, erhalten wir nur einen knappen, fast schon bockigen Einzeiler. Keine Anrede, keine Signatur, kein „weltweit führender Service“ mehr:
+
+> **Die Antwort der Scammer:**
+> *„Die Gebühr kann nicht erstattet werden, sie muss bezahlt werden.“*
+
+Da ist jemandem offensichtlich die Puste ausgegangen! Wenn Vorschussbetrüger merken, dass das Opfer logische Fragen stellt und das ersehnte Geld nicht sofort fließt, werden sie oft sehr schnell ungeduldig und brechen ihre eigene Illusion.
+
+Aber wir lassen uns natürlich nicht lumpen und schicken eine letzte, dezent schnippische Antwort hinterher, um Herrn Kuzu und seiner Bank noch ein bisschen auf den Schlips zu treten.
+
+> **Hugos finales Machtwort an die Bank:**  
+> **Betreff:** Re: Re: Kontoauswahl / Dann eben nicht!  
+> Tja, Herr Kuzu,  
+> für eine „weltweit führende Online-Bank“ sind Sie aber ganz schön unflexibel. Wenn es bei Ihrem Institut schon an läppischen 4.500 Euro Vorleistung scheitert, frage ich mich ernsthaft, wie Sie da überhaupt 10,5 Millionen sicher verwalten wollen. Haben Sie da in der Türkei nicht mal was in der Kaffeekasse, um das kurz vorzustrecken?  
+>  
+> Wenn Sie so dringend auf meine paar Kröten angewiesen sind, dass Sie nicht mal eine einfache interne Verrechnung hinkriegen, dann ist mir das ehrlich gesagt zu heikel. Da lobe ich mir meine Sparkasse hier in Wanne-Eickel – die sind flexibler und da gibt's zum Weltspartag wenigstens noch einen Taschenkalender gratis dazu.  
+>  
+> Ich werde meiner lieben Bluts-Schwester Hang Sing gleich schreiben, dass sie sich für ihre Millionen besser eine professionellere Bank suchen soll. Eine, die nicht gleich am Hungertuch nagt, nur weil mein Dackel mal zum Tierarzt musste.  
+> Behalten Sie Ihre Diamant-Reserve.  
+>  
+> Tschüssikowski,  
+> Hugo  
+
+---
+
+## Fazit der Scambaiting-Runde
+
+Und damit klappen wir die Akte „Hang Sing und die Turkcity Bank“ zu. Die Betrüger haben aufgegeben, weil sie gemerkt haben, dass der leichtgläubige Schrauber Hugo vielleicht doch nicht dumm genug ist, um echtes Geld zu überweisen.
+
+**Was wir daraus lernen:** Die Masche ist immer die gleiche. Der anfängliche Kontakt ist extrem höflich, verständnisvoll und baut Vertrauen auf. Doch sobald es um die Vorabgebühren geht und man diese hinterfragt, fällt die Maske der Professionalität in Rekordzeit. Wer E-Mails von unbekannten Erblassern oder Bankangestellten erhält, sollte diese am besten direkt dorthin verschieben, wo sie hingehören: in den digitalen Papierkorb.
 
