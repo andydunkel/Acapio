@@ -373,5 +373,17 @@ Hugo bleibt seiner Linie treu: stur, etwas schwer von Begriff, aber gewillt mitz
 > Viele Grüße,
 > Hugo
 
+---
 
+### Fazit: Wenn der Geldhahn zu bleibt, reißt der Kontakt ab
 
+Am Ende zeigt sich das typische Verhaltensmuster von Vorschussbetrügern: Sobald die Scammer merken, dass das Opfer stur bleibt, kein eigenes Geld überweist und stattdessen selbst finanzielle Hilfe fordert, wird das Interesse schlagartig hinfällig. Die professionelle Bänkerin mit Millionen-Vermögen verliert schlicht die Lust, wenn kein Vorschuss zu holen ist.
+
+Dieser Fall zeigt einmal mehr die klassische Dramaturgie des **419-Scams**:
+
+* Große Versprechungen und emotionale Köder (Champagner, Millionenerbe)
+* Pseudolegale Begründungen für Vorauszahlungen (Offshore-Konten, Gebühren)
+* Billige Fälschungen zur Vertrauensbildung (dilettantische Emirates ID)
+* Aggressiver Druckaufbau, wenn die Zahlung ausbleibt
+
+Wer solche Mails erhält: Am besten gar nicht antworten, niemals Personaldokumente versenden und erst recht kein Geld an angebliche Gebührenkonten überweisen.

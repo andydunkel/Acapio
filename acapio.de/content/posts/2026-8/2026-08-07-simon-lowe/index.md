@@ -33,3 +33,11 @@ Diese Nachricht ist ein Lehrbuchbeispiel für sogenannten Erstkontakt-Spam (*Bai
 Wir halten uns kurz und schreiben zurück:
 
 > Um was geht es? Ich kenne sie nicht.
+
+---
+
+## Fazit: Das Schweigen der Spam-Lämmer
+
+Dass auf unsere humorvolle Nachfrage – oder schlichtes Schweigen – von „Simon“ nichts mehr kam, überrascht wenig. Solche Erstkontakt-Mails basieren rein auf dem Prinzip der großen Masse: Nur wer sofort anbeißt und Neugier zeigt, ist für die Hintermänner interessant. Bleibt die Reaktion aus oder wird der Braten gerochen, zieht die Karawane direkt weiter zum nächsten Posteingang.
+
+Für uns bleibt die Erkenntnis: Wenn ein mysteriöser Geschäftspartner mehr Floskeln als Fakten im Gepäck hat, gehört die Mail unverzüglich in den digitalen Reißwolf. Sparen Sie sich die Zeit für die echten, wertvollen Kontakte!

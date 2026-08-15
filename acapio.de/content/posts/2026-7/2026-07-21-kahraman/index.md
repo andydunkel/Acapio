@@ -200,3 +200,13 @@ Als Antwort würde ich schreiben:
 >
 > Mit freundlichen Grüßen
 > Hugo
+
+---
+
+## Fazit: Die Millionenkarte bleibt verschwunden
+
+Am Ende blieb es bei großen Versprechen, einer angeblichen 1,8-Millionen-Dollar-Mastercard und der Forderung nach 170 Euro. Einen echten Nachweis für die Karte gab es dagegen nie.
+
+Nachdem wir auf ein aktuelles Foto bestanden und WhatsApp abgelehnt haben, war plötzlich Schluss. Vermutlich war genau das der Punkt, an dem die Betrüger gemerkt haben, dass hier kein leichtes Opfer zu holen ist. 📵
+
+Warum WhatsApp so wichtig war, lässt sich nur vermuten: Dort können Betrüger direkter Druck machen, schneller reagieren und den Kontakt persönlicher wirken lassen. Per E-Mail blieben wir dagegen hartnäckig bei unseren Fragen – und offenbar war das weniger attraktiv als die versprochenen 1,8 Millionen. 😄

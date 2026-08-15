@@ -217,5 +217,10 @@ Offenbar hat Hugo den Ernst der Lage nicht verstanden. Deshalb folgt nun die let
 
 Der Tonwechsel ist typisch: Erst wird mit Segen, Nächstenliebe und Vertrauen gelockt, anschließend mit Zeitdruck und Verlust gedroht. Wer nicht sofort alle persönlichen Daten liefert, verliert angeblich die Spende. In Wahrheit verfällt natürlich nichts – außer vielleicht die Geduld der Betrüger.
 
+---
 
+## Fazit: Die Millionen bleiben im Spamordner
 
+Nach Hugos letzter Antwort herrscht Funkstille. Offenbar war der angeblichen Bank irgendwann klar, dass hier weder eine Telefonnummer noch eine schnelle Gebühr zu holen ist.
+
+Das Muster war trotzdem schön lehrbuchmäßig: Millionenspende, falscher Ausweis, angebliche Bank, Datensammlung und schließlich Druck. Nur bis zur eigentlichen Zahlungsforderung haben wir es diesmal nicht geschafft. Die 3,5 Millionen Euro bleiben also leider dort, wo sie von Anfang an waren: im Reich der Fantasie. 💸
