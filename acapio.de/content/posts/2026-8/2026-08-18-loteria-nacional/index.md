@@ -74,3 +74,13 @@ Wir haben Frau Viccario um ein offizielles Zertifikat oder einen Nachweis gebete
 >   
 > Mit freundlichen Grüßen,  
 > Hugo  
+
+---
+
+## Fazit: Funkstille statt Millionen
+
+Manchmal verläuft die Jagd nach den Betrügern schneller im Sande als gedacht. Auf Hugos berechtigte Nachfragen bezüglich der dubiosen Gmail-Adresse und dem Wunsch nach einem echten Nachweis kam – wenig überraschend – keine Antwort mehr.
+
+Das zeigt einmal mehr das typische Muster dieser Täter: Sie sind auf der Suche nach leichtgläubigen Opfern, die ohne Hinterfragen sofort ihre sensiblen Daten preisgeben. Sobald ein potenzielles Opfer Skepsis zeigt, kritische Fragen stellt oder gar nach handfesten Beweisen verlangt, wird der Kontakt meist umgehend abgebrochen. Der Aufwand ist den Betrügern dann schlichtweg zu hoch.
+
+Auch wenn es diesmal keine skurrilen Gefälligkeitsschreiben oder gefälschten Zertifikate zu bestaunen gab, bleibt das wichtigste Ergebnis: Keine Daten sind in die falschen Hände geraten – und die 4 Millionen Euro existierten ohnehin nur in Phantasie der Spam-Versender.
