@@ -57,3 +57,72 @@ Wir bleiben natürlich in unserer Rolle und spielen den vorsichtigen, aber nicht
 > Hugo
 
 Mal sehen, ob Sergei-Eugene uns jetzt eine wasserdichte juristische Erklärung für seinen 50-Millionen-E-Tresor liefert.
+
+---
+
+## Wer ist eigentlich dieser Eugene?
+
+Falls euch der Name im Zusammenhang mit Millionenbeträgen irgendwie bekannt vorkommt: Ja, Eugene Shvidler gibt es wirklich. Er ist ein waschechter russisch-amerikanischer Milliardär, Öl-Magnat und enger Vertrauter von Roman Abramovich. 
+
+Scammer bedienen sich für ihre Märchenstunden liebend gerne an den Reichen-Listen von Forbes oder Wikipedia, um ihren hanebüchenen Geschichten zumindest einen kleinen Hauch von Seriosität zu verleihen. Es ist allerdings stark anzuzweifeln, dass der echte Herr Shvidler sein Vermögen bevorzugt über den kostenlosen Account `sergei.lai58@gmail.com` abwickelt und zufällige Internetnutzer bittet, mal eben 50 Millionen Dollar aus seinem E-Tresor zu schaufeln.
+
+---
+
+## Die herzergreifende Lebensgeschichte: Oligarch in Not
+
+Tada! Da ist sie, die obligatorische, seitenlange und absolut wasserdichte Hintergrundgeschichte. "Eugene" zieht wirklich alle Register, um uns von seiner Echtheit zu überzeugen. Er verlinkt brav das echte Forbes-Profil von Eugene Shvidler und streut direkt noch einen BBC-Artikel über seinen beschlagnahmten Privatjet ein. Wenn es im Internet steht, muss es schließlich stimmen!
+
+Die Story in der Kurzfassung: 
+Unser Eugene ist der Inbegriff des "guten Oligarchen". Er verurteilt den Krieg, leidet aber schrecklich unter den fiesen Sanktionen und kommt nun leider nicht mehr an seine 50 Millionen Dollar, die auf der Isle of Man liegen. 
+
+Die Lösung? Denkbar einfach! Er braucht nur einen wildfremden "Hugo" aus dem Internet, der das Geld für ihn auf ein neues Konto überweist. Eugene betont natürlich mehrfach, dass das absolut *nichts* mit Geldwäsche zu tun hat. Zwinker, Zwinker. 
+
+Als Belohnung winken schlappe 17 Millionen Dollar Provision. Alles, was ich dafür tun muss, ist, ihm meinen vollständigen Namen, Wohnort, Beruf und meine Handynummer auf dem Silbertablett zu servieren. Ein absolut wasserdichter Plan! Was kann da schon schiefgehen?
+
+> Hallo Hugo,  
+>   
+> ich freue mich, von Ihnen zu hören. Erlauben Sie mir zunächst, mich vorzustellen. Mein Name ist Eugene Shvidler, ich bin ein russisch-amerikanischer Geschäftsmann mit über vier Jahrzehnten Erfahrung im internationalen Handel. Ich habe mir durch globale Unternehmungen ein beträchtliches Vermögen aufgebaut. Mehr über mich finden Sie hier auf Forbes: (https://www.forbes.com/profile/evgeny-eugene-shvidler).  
+>   
+> Ich wende mich an Sie, um Sie um Unterstützung in einer Angelegenheit zu bitten, die für beide Seiten von Vorteil sein könnte und, was noch wichtiger ist, den Menschen in der Ukraine dringend benötigte Hilfe zukommen lassen könnte. Trotz meiner russischen Herkunft lehne ich das Vorgehen meiner Regierung in der Ukraine entschieden ab. Die Invasion ist ein rücksichtsloser und unverzeihlicher Akt, der unzählige unschuldige Leben, sowohl ukrainische als auch russische, gefährdet. Ich kann Putin zwar nicht selbst stoppen, aber ich kann alle Bemühungen unterstützen, den Opfern seiner Aggression zu helfen.  
+>   
+> Wie Sie vielleicht wissen, mussten einige meiner Unternehmen aufgrund der internationalen Sanktionen gegen Russland (die ich voll und ganz unterstütze) ihre Geschäftstätigkeit mit US-amerikanischen und europäischen Partnern einstellen. Mehrere meiner persönlichen Vermögenswerte wurden beschlagnahmt, darunter mein Privatjet von den britischen Behörden: https://www.bbc.com/news/uk-60671843  
+>   
+> Da russische Banken zudem vom SWIFT-System ausgeschlossen sind, kann ich meine Gelder nicht frei transferieren. Ich hatte erwogen, in die Schweiz zu reisen, um einen Teil meiner Vermögenswerte zu sichern, doch aufgrund der Luftraumbeschränkungen für russische Staatsangehörige ist dies nicht mehr möglich.  
+>   
+> Aus diesem Grund suche ich eine vertrauenswürdige Person ohne Verbindungen zu Russland, die gemeinsam mit meinem Vermögensverwalter 50 Millionen US-Dollar, die sich derzeit in einem privaten Tresor befinden, auf ein neues, auf Ihren Namen eröffnetes Konto überweist. Dies erfolgt in einem vollständig legalen Verfahren unter Aufsicht unserer internationalen Bankpartner.  
+>   
+> Als Gegenleistung für Ihre Hilfe biete ich Ihnen 35 % der Gesamtsumme, also 17 Millionen US-Dollar. Zusätzlich bitte ich Sie, bis zu 2 Millionen US-Dollar für humanitäre Zwecke wie das Rote Kreuz und andere Organisationen, die die Hilfsmaßnahmen für die Ukraine unterstützen, zu spenden. Dies ist mir persönlich sehr wichtig, und ich glaube, es ist ein kleiner Beitrag, um etwas Sinnvolles zu bewirken.  
+>   
+> Um es ganz klar zu sagen: Es handelt sich hierbei weder um Geldwäsche noch um etwas Illegales. Es sind rechtmäßig verdiente Gelder, die ich auf einem Offshore-Konto auf der Isle of Man bei einer Privatbank angelegt habe. Ich suche lediglich nach einem sicheren und vertrauenswürdigen Weg, sie in Zeiten politischer und finanzieller Einschränkungen zu transferieren.  
+>   
+> Wenn Sie an einem weiteren Gespräch interessiert sind, würde ich mich freuen, Sie etwas besser kennenzulernen. Könnten Sie mir bitte die folgenden Informationen mitteilen?  
+>   
+> Ihr vollständiger Name  
+> Ihr Wohnort (Stadt und Land)  
+> Ihre aktuelle Tätigkeit  
+> Ihre Mobilnummer  
+>   
+> Sobald ich Ihre Antwort erhalten habe, werde ich Sie direkt mit meinem Kundenbetreuer verbinden. Dieser wird Ihnen sichere Anweisungen geben und Sie durch die nächsten Schritte führen.  
+>   
+> Vielen Dank für Ihre Aufmerksamkeit. Ich hoffe, es geht Ihnen gut in diesen schwierigen Zeiten.  
+>   
+> Mit freundlichen Grüßen,  
+> Eugene Shvidler  
+
+### Keine Nummer für den Oligarchen: Hugo hat Angst
+
+Wir lassen Hugo natürlich nicht lange zögern, aber er bleibt seiner Rolle als besorgter, naiver Bürger treu. Ganz im Stil einer hastig getippten Smartphone-Nachricht schicken wir unserem Oligarchen unsere "hochoffiziellen" Daten – mit einer kleinen Ausnahme:
+
+> hallo herr eugene,
+> 
+> ok das klingt ja alles sehr verrückt mit dem flugzeug und so. hier sind meine daten:
+> 
+> name: hugo    
+> ort: wanne eickel (deutschland)  
+> beruf: ich bin fahrer. in der freizeit schraube ich an meinem bmw und bin im dackelclub wanne eickel.  
+> 
+> meine handynummer gebe ich lieber noch nicht raus, man weiß ja nie im internet. ich bin mir auch immer noch sehr unsicher ob ich da wirklich helfen kann. ich habe echt ein wenig angst davor. nicht dass am ende die polizei vor der tür steht wenn auf einmal so viel geld da ist? ich bin doch nur ein einfacher fahrer. ist das wirklich sicher?
+> 
+> gruß hugo
+
+Dass wir die geforderte Telefonnummer einfach "vergessen" haben, wird unseren Millionen-Spender hoffentlich nicht abschrecken. Jetzt liegt der Ball wieder bei Eugene. Mal sehen, wie er den einfachen Fahrer Hugo aus Wanne-Eickel beruhigen will.
