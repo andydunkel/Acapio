@@ -129,11 +129,72 @@ Darüber hinaus will er jetzt vor allem eines, unsere Daten:
 
 ### Hugos Meisterstück: Der "Ausweis" geht raus
 
-Fabio will Daten? Fabio bekommt Daten! Wir lassen uns natürlich nicht lumpen und liefern das volle Programm. Unser Alter Ego Hugo Scholz, seines Zeichens Fahrer aus dem wunderschönen Wanne-Eickel, zeigt vollen Einsatz für die gute (und sehr lukrative) Sache.
+Fabio will Daten? Fabio bekommt Daten! Wir lassen uns natürlich nicht lumpen und liefern das volle Programm. Unser Alter Ego Hugo , seines Zeichens Fahrer aus dem wunderschönen Wanne-Eickel, zeigt vollen Einsatz für die gute (und sehr lukrative) Sache.
 
 Damit die angebliche amerikanische Sicherheitsfirma auch wirklich keinen Zweifel an Hugos Identität hegt, hängen wir direkt eine Kopie seines "Personalausweises" an. Wer bei diesem überaus authentischen Dokument und dem fröhlichen Passbild noch misstrauisch wird, dem ist wirklich nicht mehr zu helfen.
 
 ![Hugo bietet seine Hilfe an](/posts/2026-08-26-fabio-antonio/hugo_mail.webp)
 
 Jetzt liegt der Ball wieder bei unserem kranken Wohltäter. Wird er den Ausweis schlucken und uns endlich den Kontakt zur mysteriösen Security-Firma herstellen? Wir haben das Popcorn schon mal bereitgestellt.
+
+---
+
+## Auftritt des UN-Botschafters: Jetzt wird es richtig skurril!
+
+Fabio hat Hugos "Ausweis" schlucken können und legt im Drehbuch gleich noch eine Schippe drauf. Neben seiner plötzlich aufgetauchten Biografie als Oxford-Absolvent und Erdöl-Ingenieur präsentiert er uns das absolute Highlight dieses Betrugs-Klassikers: **Den Diplomaten-Kurier.**
+
+Die 18 Millionen Dollar liegen angeblich nicht mehr bei einer schnöden Sicherheitsfirma, sondern verpackt in einer Kiste bei einem Transportunternehmen, das – man halte sich fest – einem **ranghohen UN-Botschafter** gehört! Der Vorteil laut Fabio: Ein UN-Botschafter darf Kisten voll Bargeld weltweit und ohne lästige Flughafenkontrollen direkt an die Haustür liefern. Warum auch nicht? Das ist schließlich die Kernaufgabe der Vereinten Nationen.
+
+Alles, was Fabio jetzt noch braucht, ist ein "Ehrenwort" von Hugo, dass er ein ehrlicher Kerl ist. Sobald wir ihm das geben, bekommen wir die Kontaktdaten des mysteriösen Botschafters.
+
+Wer schon ein paar dieser Scams gesehen hat, weiß genau, was als Nächstes passiert: Der "UN-Botschafter" wird sich melden und feststellen, dass die Millionen-Kiste leider am Zoll oder am Flughafen feststeckt – und erst nach Überweisung einer "kleinen Bearbeitungs- oder Diplomaten-Gebühr" freigegeben werden kann.
+
+> How are you doing my Dearest Hugo  
+>    
+> I am truly delighted to hear from you, and it brings me great joy to know that my final wish is nearing fulfillment. Thank you for sharing your information. I feel it is only right that I share more about myself as well. I was formerly a professional engineer, specializing in oil drilling and construction. I am originally from Portugal and a graduate of Oxford University. I was married for 18 years but, regrettably, we had no children.  
+>   
+> At this point, what I need from you is reassurance and confirmation that you are fully capable of handling this project responsibly and, above all, that you will honor my wishes once the funds are received in your country.  
+>   
+> The funds are currently deposited with a delivery company that is owned by a United Nations ambassador of high rank, who is authorized to deliver consignments, funds, and valuable items worldwide without airport difficulty. The funds have been securely packaged in a box and will be delivered to you in your country by them. This method provides a safer and more convenient means of transferring the funds internationally.  
+>   
+> I am required to write an authorization letter to the delivery company to proceed with the release and delivery of the funds to you. However, before doing so, I need your full assurance that you will handle this matter with honesty and integrity. As previously stated, 30% of the funds will be yours, while the remaining 70% must be dedicated to charitable causes, in accordance with my wishes.  
+>   
+> Please forgive my apprehension. I’ve experienced betrayal from both family members and lawyers in the past, and I cannot afford to be let down again as this is all I have left.  
+>   
+> Once I receive your reassurance, I will proceed immediately with drafting the authorization letter and send you the UN ambassedor contact information, along with guidance on how to claim for delivery to commence.  
+>   
+> I look forward to your response.  
+>   
+> May God bless you and your family.  
+> Fabio Antonio  
+
+---
+
+### Ehrenwort aus Wanne-Eickel: Hugo erwartet den Diplomaten!
+
+Man lässt einen Oxford-Absolventen und Erdöl-Bohrer im Ruhestand natürlich nicht lange warten – erst recht nicht, wenn ein diplomatischer VIP-Lieferservice im Spiel ist. Hugo hat sofort die Schreibmaschine angeworfen (beziehungsweise das Übersetzungsprogramm gequält), um Fabio sein „heiliges Ehrenwort“ zu geben.
+
+Dass ein echten UN-Botschafter höchstpersönlich mit einer Geldkiste vor der Haustür stehen soll, hat bei Hugo allerdings schon erste logistische Sorgen ausgelöst: Passt die Diplomaten-Limousine überhaupt durch die enge Straße in Wanne-Eickel? Und was sagen erst die neugierigen Nachbarn?
+
+Hier ist Hugos Antwort an den todkranken Wohltäter:
+
+> Dear Mr. Fabio,  
+>   
+> WOW! Oxford University and Oil Drilling? You are a very big and clever man! I am just a simple driver, so it is a huge honor for me.  
+>   
+> Don’t worry about your money. I give you my HOLY PROMISE! 100% of my word! I am a man of honor from Wanne-Eickel. The 70% will go to charity, and I will keep 30% for my new car and the animal home. Nobody will deceive you again, I am your best friend now.  
+>   
+> A UN ambassador delivering the box to my house? That is unbelievable! Does he come with a big black car and blue lights? I hope he can park in my street, the street is very narrow and my neighbors are very curious.  
+>   
+> Please send me the contact from the UN ambassador quickly! I am ready to receive the box.  
+>   
+> I pray for your health!  
+>   
+> Greetings from Germany,  
+> Hugo  
+
+
+Nun liegt die Latte hoch. Wir haben das Ehrenwort gegeben, die Nachbarschaft ist quasi vorgewarnt und wir warten gespannt auf die Kontaktdaten des UN-Botschafters. Mal sehen, wie viel "Diplomaten-Gebühr" der feine Herr Kurier für die Zustellung der 18-Millionen-Dollar-Kiste verlangen wird!
+
+---
 

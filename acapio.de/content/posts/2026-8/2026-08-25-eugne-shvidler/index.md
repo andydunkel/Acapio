@@ -126,3 +126,54 @@ Wir lassen Hugo natürlich nicht lange zögern, aber er bleibt seiner Rolle als 
 > gruß hugo
 
 Dass wir die geforderte Telefonnummer einfach "vergessen" haben, wird unseren Millionen-Spender hoffentlich nicht abschrecken. Jetzt liegt der Ball wieder bei Eugene. Mal sehen, wie er den einfachen Fahrer Hugo aus Wanne-Eickel beruhigen will.
+
+---
+
+## Der E-Tresor öffnet sich: Jack Connery betritt die Bühne
+
+Da ist sie auch schon, die Antwort unseres verarmten Milliardärs. Und Überraschung: "Eugene" zeigt vollstes Verständnis für Hugos Ängste bezüglich der Handynummer. Ein echter Ehrenmann eben. 
+
+<details class="scam-accordion">
+  <summary>E-Mail: Der E-Tresor öffnet sich</summary>
+  <div class="accordion-content">
+    <blockquote>
+      <p>Hallo Hugo,<br></p>
+      <p>vielen Dank für Ihre Rückmeldung. Ich verstehe und respektiere Ihre Entscheidung, Ihre Handynummer zum jetzigen Zeitpunkt nicht preiszugeben. Ihre Bedenken bezüglich Ihrer Privatsphäre sind absolut nachvollziehbar.<br></p>
+      <p>Dies sind außergewöhnliche und schwierige Zeiten für mich und viele andere unschuldige Bürger, die unter den rücksichtslosen Entscheidungen Putins und seiner Gefolgschaft leiden. Ehrlich gesagt spüren viele Unternehmen hier in Russland den Druck, und die Auswirkungen schaden der Wirtschaft schwer.<br></p>
+      <p>Nun zurück zu meinem Angebot: Ich bin der Einzige mit dem Sicherheitscode für die 50 Millionen Dollar im anonymen, sicheren E-Tresor der Privatbank auf der Isle of Man. Dies war ein Sicherheitsfonds, den ich für einen solchen Fall zurückgelegt hatte. Da Russland jedoch vollständig vom internationalen Bankensystem isoliert ist und einige Gesetzgeber verzweifelt nach einem Sündenbock suchen, um sich an ihrem Geld zu bereichern, ist es mir unmöglich, auf dieses oder irgendein anderes Geld außerhalb Russlands zuzugreifen. Wie mit dem Sicherheitsunternehmen, das die Gelder verwaltet, vereinbart, kann das Geld auf ein spezielles Konto überwiesen werden, das von mir benannt wird, sofern die Person weder Russin ist noch sich in Russland aufhält.<br></p>
+      <p>Mein Plan ist, dass Sie mit dem Unternehmen zusammenarbeiten, das Konto einrichten lassen und die Gelder auf Ihr Konto überwiesen werden. Das Unternehmen hat ein Verfahren zur Eröffnung eines Offshore-Kontos für die von mir benannte Person entwickelt. Die Gelder werden auf dieses Online-Konto eingezahlt, und Sie können sie anschließend auf ein Konto Ihrer Wahl überweisen. Zusätzlich benötige ich Unterstützung, um Kryptowährung in meine Wallet zu erhalten. Sie müssen mir nicht den gesamten Betrag auf einmal überweisen. Ich werde Ihnen die Überweisungsmodalitäten, den Betrag und den Zeitpunkt mitteilen.<br></p>
+      <p>Bitte kontaktieren Sie Herrn Jack Connery von der Green Atlantic Private Bank per E-Mail unter greenatlanticprivatebk@gmail.com mit dem Sicherheitscode: 567eug78-9i-67y-4. Mit diesem Code kann das Unternehmen die mit dem Geld verknüpfte Akte öffnen und Sie über das weitere Vorgehen beraten.<br></p>
+      <p>Sobald Sie das Geld erhalten haben, behalten Sie bitte Ihre 17 Millionen Dollar und versichern Sie mir, dass Sie mir mein Geld definitiv zurückerstatten werden. Ich vertraue Ihnen meine Ersparnisse an, die mir und meiner Familie den Lebensunterhalt sichern, da mein gesamtes Vermögen im Ausland eingefroren/beschlagnahmt wurde und ich keine Hoffnung für die Zukunft habe.<br></p>
+      <p>Nochmals vielen Dank für Ihre Unterstützung. Bitte halten Sie mich auf dem Laufenden.<br></p>
+      <p>Mit freundlichen Grüßen,<br>
+      Eugene Shvidler.<br></p>
+    </blockquote>
+  </div>
+</details>
+
+Aber jetzt wird es richtig magisch in der Märchenstunde:
+1. **Der Anonyme E-Tresor:** Eugene ist angeblich der *einzige* Mensch auf der Welt, der den Sicherheitscode zu den 50 Millionen Dollar in einem "anonymen E-Tresor" auf der Isle of Man besitzt.
+2. **Der Krypto-Knick:** Neben der normalen Überweisung soll Hugo ihm dann ganz nebenbei helfen, Teile des Geldes als Kryptowährung in seine Wallet zu schaufeln. Ein Schelm, wer böse Absichten vermutet!
+3. **Der Staranwalt der Finanzwelt:** Hugo soll sich nun an einen gewissen **Herrn Jack Connery** von der hochgradig seriösen *Green Atlantic Private Bank* wenden. 
+
+Dass diese renommierte Privatbank ihre offiziellen Kundenanfragen über eine kostenlose Gmail-Adresse (`greenatlanticprivatebk@gmail.com`) abwickelt, unterstreicht natürlich nur deren absolute Exklusivität. 
+
+Der Geheimcode für Jack Connery lautet übrigens: `567eug78-9i-67y-4`. Klingt extrem professionell – fast wie das WLAN-Passwort auf der Rückseite meines Routers.
+
+Am Ende drückt Eugene noch einmal gewaltig auf die Tränendrüse: Es gehe hier schließlich um den Lebensunterhalt seiner Familie, da er ja sonst keine Hoffnung für die Zukunft habe. Der arme Ex-Milliardär!
+
+
+### Kontaktaufnahme mit der "Privatbank": Hugo tippt den Code ein
+
+Wir lassen uns natürlich nicht zweimal bitten und kontaktieren umgehend den exklusiven "Kundenbetreuer" der Green Atlantic Private Bank über seine hochoffizielle Gmail-Adresse. 
+
+Um das Ganze so realistisch wie möglich zu gestalten, hält Hugo die Nachricht gewohnt kurz – und da auf dem Smartphone schnell mal die Tasten zu klein sind, rutscht ihm beim Sicherheitscode prompt ein kleiner Tippfehler rein:
+
+> Hallo, ich soll mich bei Ihnen melden, der Code lautet:
+> 
+> 567eug78-9i-66y-4
+> 
+> Gruß
+> Hugo
+
+Statt `67y` schicken wir also `66y` auf die Reise. Mal sehen, ob die IT-Abteilung der "Green Atlantic Private Bank" diesen eklatanten Sicherheitsverstoß bemerkt oder ob Herr Jack Connery den Tresor trotzdem sperrangelweit öffnet.
