@@ -198,3 +198,45 @@ Nun liegt die Latte hoch. Wir haben das Ehrenwort gegeben, die Nachbarschaft ist
 
 ---
 
+## Die Falle schnappt zu: Jetzt soll bezahlt werden
+
+Fabios Antwort bringt den entscheidenden Wendepunkt im Drehbuch: Aus der emotionalen Krebs-Tragödie wird plötzlich ein handfestes Finanzgeschäft. Das Geld liegt angeblich verpackt in einer Kiste bei der Spezial-Spedition **Rolfcargo**, die praktischerweise einem ranghohen UN-Botschafter namens **Rolf Klosterman** gehört.
+
+Und hier kommt die eigentliche Masche des Vorschussbetrugs ans Licht: Um das Paket von den USA nach Deutschland zu transportieren, muss Hugo die Liefergebühren selbst im Voraus bezahlen. Damit der Botschafter nicht erfährt, dass sich 18 Millionen Dollar in der Kiste befinden, hat Fabio ihm angeblich erzählt, es handele sich nur um ein paar Dokumente und Fotos. Als Extra-Köder gibt es noch den "Release-Code" `Antonio2442Release232` an die Hand, mit dem Hugo die Fracht beim Kurier anfordern soll.
+
+> Hello My Dearest Hugo  
+>   
+> I received your email and I am delighted that you are capable of handling this successful charity work.  
+>   
+> I made all necessary arrangements to ensure that the funds are secure and will be delivered without any airport delays or stoppages. This is why a specail security delivery company owned by a United Nations ambassador is being used. All you will be paying is for the delivery fee to get the package from United States to your country.  
+>   
+> The ambassador owns a security delivery company called Rolfcargo, so he uses his company to deliver private luggage and cargo delivery and valuable items.   
+>   
+> Here is the contact of the delivery company.  
+> Rolf Klosterman  
+> Email address is rolf.klosterman@rolfcargo.com  
+> Phone number (716) 256-3692  
+>   
+> Contact him as soon as you get this email, use this release code so that he will recognize the transaction and immediately believe your claim (Antonio2442Release232). The funds were perfectly packaged in a consignment box and sealed. The ambassador is aware the box contains money but he doesn't know the exact amount so you must not disclose to him that it contains $18Million USD, I only told him it contains few thousand of dollars, photographics and some valuable documents.  
+>   
+> The delivery company is very reliable and honest, the delivery will be a safe delivery, and I have personally witnessed this company successfully carry out similar deliveries. You will surely thank me for choosing you to handle this charitable task. I will give you the unlock code to open the consignment box once you receive the funds in your country so that you can immediately have access to the funds and proceed with the charity work.  
+>   
+> Let me know as soon as you contact the delivery company.  
+>    
+> Your sincerely  
+> Fabio Antonio  
+
+### Die Fake-Website: Rolfcargo unter der Lupe
+
+Um dem Ganzen einen seriösen Anstrich zu verleihen, verweist Fabio auf die Website seiner angeblichen Spedition *Rolfcargo*. Ein kurzer Blick auf die Seite reicht allerdings, um die Illusion komplett platzen zu lassen.
+
+![Rolfcargo, nur echt vom Rolf](/posts/2026-08-26-fabio-antonio/rolfcargo.webp)
+
+* **Pizzabote für Weltfracht:** Das Design nutzt ein billiges Standard-Template aus dem Baukasten. Absolutes Highlight: Die weltweite See- und Luftfracht ("Sea Freight", "Air Freight") wird auf der Startseite allen Ernstes mit der Grafik eines kleinen Lieferanten auf einem Motorroller beworben.
+* **Keine Belege, keine Substanz:** Es gibt keinerlei Eintragsnachweise, Handelsregisternummern oder echte Standorte. Solche Seiten werden von Betrügern am laufenden Band erstellt.
+* **Das Fake-Tracking-System:** Diese Webseiten dienen nur einem einzigen Zweck: Dem Opfer wird später eine gefälschte Sendungsverfolgung präsentiert, bei der das Paket scheinbar irgendwo am Zoll feststeckt – natürlich so lange, bis man die angeblichen Freischaltgebühren überweist.
+
+---
+
+Wir schreiben den Scammern zurück und schicken eine Abuse-Meldung an "**NameSilo**", wo die Domain laut Whois gehostet wird. Wir sind gespannt, ob hier eine Reaktion erfolgt.
+
