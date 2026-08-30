@@ -1,10 +1,13 @@
 baseURL = 'https://acapio.de/'
-languageCode = 'de'
+locale = 'de'
 title = 'Acapio.de'
 
 
 theme = "hugo-clarity"
 DefaultContentLanguage = "de"
+
+[security]
+allowContent = ['.*']
 
 [params.author]
 name = "Andy"
