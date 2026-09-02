@@ -238,5 +238,68 @@ Um dem Ganzen einen seriösen Anstrich zu verleihen, verweist Fabio auf die Webs
 
 ---
 
-Wir schreiben den Scammern zurück und schicken eine Abuse-Meldung an "**NameSilo**", wo die Domain laut Whois gehostet wird. Wir sind gespannt, ob hier eine Reaktion erfolgt.
+Wir schreiben den Scammern zurück und schicken eine Abuse-Meldung an "**NameSilo**" und den Webhoster, wo die Domain laut Whois gehostet wird. Wir sind gespannt, ob hier eine Reaktion erfolgt.
 
+---
+
+## NameSilo wäscht die Hände in Unschuld – und Fabio will Wohltätigkeitspläne sehen
+
+Während wir im Hintergrund natürlich versuchen, den Betrügern den digitalen Boden unter den Füßen wegzuziehen und die Fake-Domain bei *NameSilo* gemeldet haben, kam von dort bereits die ernüchternde Standard-Antwort: Nicht zuständig, bitte an den Webhoster wenden. Die Meldung an den Hoster läuft – aber bis der reagiert, dreht sich das Karussell munter weiter.
+
+> My Dearest Hugo  
+>   
+> I received your email, and I must say I am delighted that my final wish is about to be fulfilled. Since you have contacted the delivery company, have you had from them and what is the way forward?  
+>   
+> As I previously advised, please do not disclose the actual amount to the delivery agency, okay? I will be here to guide you through the process of receiving the consignment funds. As soon as you receive them, I will provide you with the unlock code to the box so you can immediately begin the charitable work.  
+>   
+> Have you given any thought to how you plan to carry out this charitable mission? What are your plans, and how do you intend to distribute these funds? I would like you to share your ideas with me, as this is very important.  
+>   
+> Thank you once again for your willingness to undertake this good work of charity in the name of the Lord.  
+>   
+> May God bless you.  
+> Fabio Antonio  
+
+Fabio hat nämlich schon wieder im Postfach vorbeigeschaut. Er platzt vor Neugier, ob sich sein edler UN-Botschafter von *Rolfcargo* schon bei uns gemeldet hat. Und weil er anscheinend meint, Hugo bräuchte noch etwas Beschäftigungstherapie, will er jetzt von uns einen detaillierten Schlachtplan hören, wie wir die Millionen überhaupt für den guten Zweck unters Volk bringen wollen.
+
+Besonders süß: Er ermahnt uns noch einmal strengstens, dem Spediteur bloß nicht zu verraten, dass 18 Millionen Dollar in der Kiste liegen. Nicht, dass der feine Herr Rolf Klosterman am Ende noch auf falsche Gedanken kommt!
+
+### Die Katze ist aus dem Sack: Rolf fordert die Kohle!
+
+Es hat nicht lange gedauert, bis der feine Herr „UN-Botschafter“ Rolf Klosterman den Köder geschluckt hat. Er bestätigt uns ganz offiziell, dass die Kiste mit dem Release-Code `Antonio2442Release232` abholbereit bei ihm im Lager steht.
+
+> Dear Hugo,  
+>   
+> Thank you for your email.  
+>   
+> This is to acknowledge receipt of your message and the reference release code you provided.  
+>   
+> We hereby confirm that we have one consignment box deposited by Fabio Antonia that is ready for delivery. The shipment has been verified under the following release reference: Antonio2442Release232.  
+>    
+> To proceed, we kindly request the following:  
+>   
+> • Payment of all outstanding storage and delivery fees.  
+> • Your complete delivery address.  
+> • A direct telephone number.  
+> • A valid form of identification.  
+>   
+> Please note that the final delivery charge will depend on the destination provided.  
+>   
+> Once we receive the required information, I will promptly send you the invoice so that you can make payment for delivery to commence.  
+>   
+> Best regards,  
+> Amb. Rolf Klosterman  
+> United Nations (NY)  
+> Phone: (716) 256-3692  
+> Rolf Cargo Delivery   
+> E-mail: Rolf.klosterman@rolfcargo.com  
+> www.rolfcargo.coms  
+
+Doch bevor der Diplomaten-Sonderkurier den Motor starten kann, kommt der unvermeidliche Haken, auf den das ganze Spektakel von Anfang an abgezielt hat:
+
+* **Zahlen bitte:** Er verlangt die sofortige Begleichung aller "Lager- und Liefergebühren" (*storage and delivery fees*).
+* **Data-Mining 2.0:** Wir sollen ihm noch einmal unsere komplette Adresse, Telefonnummer und eine Ausweiskopie schicken – obwohl Fabio das ja angeblich schon alles hatte.
+* **Die Rechnung kommt:** Sobald wir die Adresse bestätigen, will Herr Klosterman uns die "Invoice" servieren, damit wir die Lieferkosten überweisen können.
+
+Besonders charmant an seiner E-Mail-Signatur: Der Titel *Amb. Rolf Klosterman / United Nations (NY)* direkt neben der verunglückten Domain-URL `www.rolfcargo.coms`. Diplomat und Speditionskaufmann in Personalunion – so viel Einsatz sieht man im internationalen Diplomatendienst wirklich selten!
+
+**Wir geben dem Rolf ein paar Daten und fragen nach dem Preis.**

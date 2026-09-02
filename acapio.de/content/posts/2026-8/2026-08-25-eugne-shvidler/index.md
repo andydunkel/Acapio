@@ -177,3 +177,89 @@ Um das Ganze so realistisch wie möglich zu gestalten, hält Hugo die Nachricht 
 > Hugo
 
 Statt `67y` schicken wir also `66y` auf die Reise. Mal sehen, ob die IT-Abteilung der "Green Atlantic Private Bank" diesen eklatanten Sicherheitsverstoß bemerkt oder ob Herr Jack Connery den Tresor trotzdem sperrangelweit öffnet.
+
+---
+
+## Bitte Kasse machen: Jack Connery verlangt Bares!
+
+Der Großmechatroniker der Finanzen, Herr Jack Connery, hat gesprochen! Und siehe da: Unser absichtlich falsch abgetippter Code (`66y` statt `67y`) wurde natürlich absolut fehlerfrei "verifiziert". Auf die IT-Abteilung einer Gmail-Privatbank ist eben Verlass!
+
+<details class="scam-accordion">
+  <summary>Sehr lange E-Mail</summary>
+  <div class="accordion-content">
+    <blockquote>
+      <p>Dear Hugo,<br></p>
+      <p>I hope this message finds you well.<br></p>
+      <p>Following our prior communication with Mr. Eugene Shvidler, I’m pleased to confirm that your secure code 567eug78-9i-67y-4 linked to eVault X4254663 has been successfully verified. As a result, the activation process for transferring the encrypted value of Fifty Million United States Dollars (USD 50,000,000) has officially begun.<br></p>
+      <p>Please note that this process includes a series of structured legal and administrative steps that must be followed in full compliance with regulatory protocols all in line  with offshore banking and business management on Isle of Man.<br>
+      Required eVault Clearance Process<br></p>
+      <p>To securely transfer these digital financial assets to your ownership, the following is required:<br></p>
+      <p>A secure, encrypted bank account in your name provided through a licensed financial institution.<br></p>
+      <p>This is a mandatory step, as such accounts are required for processing and assigning ownership of encrypted financial assets, in line with current legal and banking standards.<br></p>
+      <p>Our eVault infrastructure uses advanced electronic signature technology and tamper-proof audit trails to permanently bind assets to a recipient. This ensures full legal ownership, enforceability, and regulatory compliance. All access, activity logs, document signing, transfers, and regulatory exports are strictly managed and traceable.<br>
+      Legal & Administrative Requirements<br></p>
+      <p>To proceed with account activation and funds release, please provide the following:<br></p>
+      <p>Government-issued Identification (e.g., Passport, Driver’s License, or State-issued ID)<br></p>
+      <p>Legal & Administrative Fees:<br></p>
+      <p>$1,370 USD or €1,251 EUR (Details for payment will be provided upon receipt of your identification)<br></p>
+      <p>Full Name and Address of Next of Kin<br></p>
+      <p>Direct Mobile Contact Number<br></p>
+      <p>These fees are critical for initiating the following processes:<br></p>
+      <p>Secure and encrypted account setup in your name<br></p>
+      <p>Legal clearance and validation of financial house compliance<br></p>
+      <p>Final transfer and accessibility of the full funds<br></p>
+      <p>Importance of Prompt Action<br></p>
+      <p>The legal and administrative fees must be paid in full and without delay in order to:<br></p>
+      <p>Prevent unnecessary delays in asset transfer<br></p>
+      <p>Ensure complete compliance with eVault security and financial institution protocols<br></p>
+      <p>Finalize the transfer of $50 million into your new account<br></p>
+      <p>Maintain confidentiality, integrity, and continuity of this process<br></p>
+      <p>This is not a tax obligation and does not trigger any local tax liability. Additionally, there are no limits on transfer amounts once your account is active.<br>
+      Legality and Source of Funds<br></p>
+      <p>We emphasize that this transaction does not constitute money laundering. The client is a legally compliant U.S.-based business owner whose funds have been fully verified and cleared. These assets were securely deposited in encrypted form and are now being transferred in line with international banking standards.<br>
+       What Happens Next<br></p>
+      <p>Once we receive the required documentation and fees:<br></p>
+      <p>Your account will be opened and credited with $50 million USD<br></p>
+      <p>Secure login credentials will be sent to you<br></p>
+      <p>You will have full online access to manage your account (transfers, payments, balance checks, etc.)<br></p>
+      <p>A debit card will be issued for POS, ATM withdrawals, and online purchases, with no transaction limits<br></p>
+      <p>I will serve as your dedicated account manager and will assist you throughout the entire process, ensuring a seamless and confidential experience.<br></p>
+      <p>Please confirm your readiness to proceed by replying to this message. Upon receipt of the required documents, I will promptly provide you with the next steps and payment instructions.<br></p>
+      <p>Sincerely,<br>
+      Jack Connery<br>
+      Premium Business Account Manager<br>
+      Green Atlantic Private Bank<br>
+      Athol Street, Douglas 2 Athol St.<br>
+      Douglas, IM99 1AN<br>
+      Isle of Man<br></p>
+    </blockquote>
+  </div>
+</details>
+
+Damit die 50 Millionen Dollar aus dem ominösen "eVault X4254663" nun aber endlich zu Hugo fließen können, gibt es leider noch ein winziges, klitzekleines Detail zu klären. 
+
+Jack verlangt von unserem einfachen BMW-Schrauber nämlich folgende Äußerlichkeiten:
+1. **Einen Ausweis** (Reisepass, Führerschein – Hauptsache scharfes Bild)
+2. **Die Daten des Haupterben** (Kontaktdaten für den Fall der Fälle)
+3. **Eine "Bescheidene" Bearbeitungsgebühr:** Schlappe **1.370 USD** bzw. **1.251 EUR**.
+
+Natürlich betont der edle Herr Connery ganz ausdrücklich, dass das *keine* Steuern sind und es sich hier absolut *nicht* um Geldwäsche handelt. Ganz im Gegenteil: Das Geld sei zwingend nötig, um das hochmoderne, verschlüsselte Online-Konto einzurichten. 
+
+Sobald Hugo die 1.251 Euro überwiesen hat, bekommt er angeblich sofort die Login-Daten für seine 50 Millionen sowie eine Debitkarte ohne Limits zugeschickt. Klingt nach einem fairen Deal: 1.250 Euro investieren, 17 Millionen kassieren. Was soll da schon schiefgehen?
+
+
+### "Ich versteh nur Bahnhof": Hugo ist überfordert
+
+Jack Connery hat wirklich alles gegeben, um mit Begriffen wie "eVault", "tamper-proof audit trails" und "regulatory compliance" mächtig Eindruck zu schinden. Das Problem: Auf der anderen Seite sitzt Hugo. Ein einfacher Fahrer aus Wanne-Eickel, der in seiner Freizeit an seinem alten BMW schraubt und Dackel züchtet. 
+
+Eine englische E-Mail von einer Privatbank, die plötzlich einen Ausweis und schlappe 1.250 Euro Bearbeitungsgebühr für eine Kontoeröffnung verlangt, überfordert Hugo komplett. Da hilft nur eins: ehrlich sein und nachfragen.
+
+> Hallo Herr Connery,
+> 
+> ich muss ganz ehrlich sagen, ich verstehe ihre email fast gar nicht. mein englisch ist sehr schlecht und das sind alles so komische bank wörter. können wir bitte deutsch schreiben?
+> 
+> und warum soll ich denn jetzt auf einmal 1.251 euro bezahlen? ich dachte ich kriege das geld von dem herr eugene? ich bin doch nur fahrer, ich habe gar keine 1.250 euro auf dem konto! mein gehalt kommt erst nächste woche und da muss ich noch die miete von bezahlen. 
+> 
+> kann man das geld nicht einfach von den 50 millionen abziehen? das wäre doch am einfachsten oder? und wofür brauchen sie den namen von meinem erben? das macht mir echt langsam alles angst.
+> 
+> gruß hugo
