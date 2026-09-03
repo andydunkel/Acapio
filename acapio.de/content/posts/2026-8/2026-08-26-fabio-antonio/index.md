@@ -303,3 +303,99 @@ Doch bevor der Diplomaten-Sonderkurier den Motor starten kann, kommt der unverme
 Besonders charmant an seiner E-Mail-Signatur: Der Titel *Amb. Rolf Klosterman / United Nations (NY)* direkt neben der verunglückten Domain-URL `www.rolfcargo.coms`. Diplomat und Speditionskaufmann in Personalunion – so viel Einsatz sieht man im internationalen Diplomatendienst wirklich selten!
 
 **Wir geben dem Rolf ein paar Daten und fragen nach dem Preis.**
+
+---
+
+## Die Katze ist aus dem Sack: Rolf fordert die Kohle!
+
+Es hat nicht lange gedauert, bis der feine Herr „UN-Botschafter“ Rolf Klosterman den Köder geschluckt hat. Er bestätigt uns ganz offiziell, dass die Kiste mit dem Release-Code `Antonio2442Release232` abholbereit bei ihm im Lager steht.
+
+<details class="scam-accordion">
+  <summary>E-Mail - die großen Kosten</summary>
+  <div class="accordion-content">
+    <blockquote>
+      <p>Dear Hugo scholz,<br></p>
+      <p>I acknowledge receipt of your email with your delivery information.<br></p>
+      <p>We run a private delivery system employing the use of Diplomatic Courier delivery and offering courier and transport services 24 hours a day for priority delivery of letters, consignment, funds and parcels, to any destination by road, air or sea. Your consignment delivery is a diplomatic delivery and shall be handled specially by me because of it content to ensure the highest level of care, security, and confidentiality.<br></p>
+      <p>Your one consignment trunk box is ready for departure to be delivered to you at your destination.<br></p>
+      <p>Description of trunk box to be delivered:------------- One Trunk Box<br>
+      Color of Trunk:------------- Silver and Black<br>
+      Full Name:--------------- Hugo scholz<br>
+      Delivery Destination--------- Fährweg 12b 22305 Hamburg, Germany.<br></p>
+      <p>Below is your due invoice/bill to commence delivery.<br></p>
+      <p>Delivery Charges-------------------------------------------------------------$3,330<br>
+      Handling Charges----------------------------------------------------------------$550<br>
+      Administrative Charge-------------------------------------------------------------$458<br>
+      Storage Charge-------------------------------------------------------------$376<br>
+      Total--------------------------------------------------------------------------------$4,714<br></p>
+      <p>The charge for your parcel is ($4,714) you will be required to immediately make arrangements for payment so I can commence delivery. Since you are based in Germany, we will provide you with the bank account details of our secure third-party broker/agent located in the Germany for your payment. This arrangement ensures the safety of your transaction and makes the payment process more convenient for you. International transfers to the United States can take 5 to 7 business days to reflect and, in some cases, may experience additional delays.<br></p>
+      <p>As soon as I receive confirmation and evidence of payment of the above charges, I shall commence with the immediate delivery. You will be required to sign for the package when I arrive at your destination and to do this, you will need either your international passport as identification or your driver's license at the time I arrive at your destination to avoid wrong delivery.<br></p>
+      <p>I am glad to be of service to you.<br></p>
+      <p>Yours sincerely<br></p>
+      <p>Ambassador <br>
+      Rolf Klosterman<br>
+      United Nations (NY)<br>
+      Phone: (716) 256-3692<br>
+      E-mail: Rolf.klosterman@rolfcargo.com<br>
+      24hours Delivery Service<br></p>
+    </blockquote>
+  </div>
+</details>
+
+Doch bevor der Diplomaten-Sonderkurier den Motor starten kann, kommt der unvermeidliche Haken, auf den das ganze Spektakel von Anfang an abgezielt hat:
+
+* **Zahlen bitte:** Er verlangt die sofortige Begleichung aller "Lager- und Liefergebühren" (*storage and delivery fees*).
+* **Data-Mining 2.0:** Wir sollen ihm noch einmal unsere komplette Adresse, Telefonnummer und eine Ausweiskopie schicken – obwohl Fabio das ja angeblich schon alles hatte.
+* **Die Rechnung kommt:** Sobald wir die Adresse bestätigen, will Herr Klosterman uns die "Invoice" servieren, damit wir die Lieferkosten überweisen können.
+
+Besonders charmant an seiner E-Mail-Signatur: Der Titel *Amb. Rolf Klosterman / United Nations (NY)* direkt neben der verunglückten Domain-URL `www.rolfcargo.coms`. Diplomat und Speditionskaufmann in Personalunion – so viel Einsatz sieht man im internationalen Diplomatendienst wirklich selten!
+
+
+Fabio bleibt hartnäckig: Er will unbedingt Hugos großen Wohltätigkeitsplan hören! Hier ist die kurze Einordnung und der Text für deinen Blog:
+
+---
+
+### Fabio bohrt nach: Wo bleibt der Wohltätigkeitsplan?
+
+Während „Botschafter“ Rolf schon die Kasse klingen lässt, bleibt Fabio in seiner Rolle als besorgter Wohltäter. Er schickt eine kurze Erinnerung und will nun brennend wissen, wie genau Hugo die 18 Millionen Dollar für den guten Zweck einsetzen möchte. Außerdem bittet er darum, über jeden Schritt mit der Spedition auf dem Laufenden gehalten zu werden.
+
+> Dearest Hugo   
+>   
+> Thanks for your respond, please always keep me posted with your communication with the delivery agency, what is the way forward with you and them?, However, regarding my last question of your idea to do the charity work, I need to know your plans about it.  
+>   
+> Thanks and I will hope to hear from you again.  
+> God bless you  
+> Fabio Antonio   
+
+Es ist das klassische Verhaltungsmuster bei diesem Vorschussbetrug: Fabio spielt weiterhin das moralische Gewissen, um Vertrauen aufzubauen, während im Hintergrund die angebliche Logistikfirma das Geld eintreiben soll.
+
+---
+
+**Hugo gerät in Panik: Die Gebührenfalle schlägt zu!**
+
+Genau so haben wir es geplant: Statt brav die Brieftasche zu öffnen, fällt Hugo aus allen Wolken. Er schlägt bei Fabio Alarm und macht ihm klar, dass bei einem einfachen Angestellten in Wanne-Eickel am Ende des Monats schlicht kein Budget für ominöse Diplomaten-Liefergebühren vorhanden ist.
+
+> Dear Mr. Fabio,  
+>   
+> I am writing you with a very big shock and shaking hands!  
+>   
+> I contacted Mr. Rolf Klosterman and gave him your release code. But now he writes me that I must pay "storage and delivery fees" BEFORE he brings the box!  
+>   
+> Mr. Fabio, I am a simple driver for the city! My account is empty, I have maybe 85 Euro left for the month! Where should I get so much money for a delivery fee? My wife will kill me if I take money out of our household budget!  
+>   
+> Can you not tell Mr. Rolf to take the delivery fee directly out of the box? You told him there are a few thousand dollars in the box anyway! He can just open his purse, take out what he needs for the delivery and bring the rest to Wanne-Eickel!  
+>   
+> Please help me, I want to do the charity work (I already planned a big golden birdhouse for the Brieftaubenverein and new blankets for the dog shelter!), but I cannot pay this fee! What should we do now?  
+>   
+> Your very worried friend,  
+> Hugo  
+
+Gleichzeitig wirft Hugo den Ball direkt zurück ins Spielfeld der Betrüger und liefert einen extrem naheliegenden Gegenvorschlag: Warum zieht der Herr Botschafter die Gebühren nicht einfach aus den Tausenden von Dollars ab, die laut Fabios eigener Aussage ohnehin in der Kiste liegen?
+
+Damit bringen wir die Betrüger in eine herrliche Zwickmühle. Und nebenbei hat Hugo auch endlich seine ersten "hochfliegenden" Wohltätigkeitspläne enthüllt: Ein goldenes Vogelhaus für den örtlichen Brieftaubenverein und neue Decken fürs Tierheim!
+
+---
+
+
+
+
