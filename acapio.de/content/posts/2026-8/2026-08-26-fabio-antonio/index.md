@@ -396,6 +396,53 @@ Damit bringen wir die Betrüger in eine herrliche Zwickmühle. Und nebenbei hat 
 
 ---
 
+## Fabios ehelicher Ratschlag: Plündere einfach die Haushaltskasse!
+
+Fabios Antwort lässt nicht lange auf sich warten und liefert beste Unterhaltung. Auf Hugos pragmatischen Vorschlag, die Gebühren einfach aus der Millionen-Kiste zu entnehmen, hat der kranke Wohltäter sofort die passende Ausrede parat: Die Kiste ist versiegelt! Der feine Herr UN-Botschafter hat gar keine Berechtigung, das Schloss zu öffnen – den Entriegelungscode bekommt schließlich nur Hugo nach der Lieferung.
+
+> Good morning Hugo,   
+>   
+> How are you doing today?  
+>   
+> I received your email, and I am most delighted to hear that there has been progress with the delivery of the consignment box.  
+>   
+> Please note that the consignment box is sealed, and Mr. Rolf Klosterman does not have authorization to open it for security reasons. You are the only person permitted to open the box. I will provide you with the unlock code as soon as the box is delivered to you.  
+>   
+> How much is the delivery fee? I currently have about $2,000 remaining in my account that I can send to Rolf Klosterman toward the delivery. If the delivery fee is more than $2,000, you will have to find the balance so that the delivery can be made to you as soon as possible, if it means taking money from your household money please do that because you can always replace it back when you receive the consignment funds, i am very sure that your wife will be very proud of you for taking this step.  
+>   
+> I look forward to hearing from you.  
+>   
+> God bless you and your family.  
+> Regards,  
+> Fabio   
+
+
+Doch Fabio wäre nicht Fabio, wenn er nicht eine charmante "Lösung" für Hugos leeres Konto hätte:
+
+* **Der Pseudo-Rabatt:** Fabio behauptet mitleidserregend, er habe noch genau 2.000 Dollar auf seinem Konto, die er direkt an Rolf Klosterman überweisen werde.
+* **Plündert die Haushaltskasse:** Den Rest der Gebühr soll Hugo gefälligst selbst aufbringen – und wenn er dafür das Ersparte der Familie oder das Haushaltsgeld anzapfen muss!
+* **Die Beziehungsberatung:** Fabios unschlagbares Argument für das Haushaltsgeld-Räubern: Hugos Frau werde am Ende garantiert *„sehr stolz“* auf ihn sein, wenn die Millionen erst einmal auf dem Tisch liegen.
+
+Dass ein todkranker Mann im Krankenhausbett ein Opfer dazu drängt, seine eigenen Ersparnisse gegen jede Vernunft zu verpulvern, zeigt die eiskalte Masche hinter dieser perfiden Emotionalen Erpressung.
+
+---
+
+### Die 4.714-Dollar-Rechnung: Hugos Verzweiflung wächst
+
+Hugo hat Fabio die vermeintlichen Zahlen präsentiert, die ihm der feine Herr Botschafter aufbrummen will. Satte **4.714 US-Dollar** soll die Lieferung der Kiste nach Wanne-Eickel kosten – zusammengestückelt aus fantasievollen Posten wie "Handling", "Administrative" und "Storage Charges".
+
+Mit Fabios angebotenen 2.000 Dollarn bleibt immer noch eine saftige Lücke von über 2.700 Dollarn. Hugo hat ihm nun ganz unverblümt klargemacht, dass das für einen einfachen Fahrer schlicht unbezahlbar ist.
+
+> Delivery Charges-------------------------------------------------------------$3,330  
+> Handling Charges----------------------------------------------------------------$550  
+> Administrative Charge-------------------------------------------------------------$458  
+> Storage Charge-------------------------------------------------------------$376  
+> Total--------------------------------------------------------------------------------$4,714  
+>   
+> He wants 4700 Dollar, I only have 2000 currently.  
+
+Damit liegt der Ball wieder bei den Betrügern. Wir dürfen gespannt sein, ob Fabio plötzlich noch mehr "Ersparnisse" aus dem Hut zaubert, ob Herr Klosterman uns kulanterweise einen "Sonderrabatt für Diplomaten" einräumt oder ob Fabio weiterhin versucht, Hugo zum Plündern der Haushaltskasse zu überreden!
+
 
 
 

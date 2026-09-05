@@ -263,3 +263,68 @@ Eine englische E-Mail von einer Privatbank, die plötzlich einen Ausweis und sch
 > kann man das geld nicht einfach von den 50 millionen abziehen? das wäre doch am einfachsten oder? und wofür brauchen sie den namen von meinem erben? das macht mir echt langsam alles angst.
 > 
 > gruß hugo
+
+---
+
+## Ausreden zwecklos: Die "Privatbank" will Bares sehen!
+
+So viel zum Thema Kundenservice bei der Green Atlantic Private Bank. Dass Hugo gar kein Englisch spricht, keinen Ausweis geschickt hat und betont hat, dass er pleite ist, interessiert Herrn Jack Connery schlichtweg überhaupt nicht. Standard-Mail abfeuern, Hauptsache die IBAN ist drin!
+
+Die Highlights aus Jacks Wut-Antwort:
+1. **Phantomschmerz bei den Daten:** Er bedankt sich brav für die "übermittelten Unterlagen" – die Hugo natürlich nie abgeschickt hat. 
+2. **Die exklusive Privatbank-IBAN:** Aus der gebührenfreien Privatbank auf der Isle of Man wird ganz schnell ein Pkw-Logistikunternehmen in London (`Enato logistics Ltd`) über den Zahlungsdienstleister *Currency Cloud*. Nichts schreit so sehr nach Schweizer E-Tresor und Millionen-Vermögen wie eine Überweisung an ein britisches Logistik-Unternehmen.
+3. **Blitzüberweisung für Millionen:** Sobald die 1.251 Euro da sind, dauere die Freigabe der 50.000.000 USD sagenhafte **acht Arbeitsstunden**. 
+
+<details class="scam-accordion">
+  <summary>E-Mail mit Kontodaten</summary>
+  <div class="accordion-content">
+    <blockquote>
+      <p>Sehr geehrter Hugo,<br></p>
+      <p>vielen Dank für die Übermittlung Ihrer Daten und der erforderlichen Unterlagen. Wir haben alles ordnungsgemäß erhalten und beginnen nun mit der Einrichtung eines sicheren, verschlüsselten Kontos auf Ihren Namen.<br></p>
+      <p>Wie bereits in meiner vorherigen Nachricht erläutert, ist eine Rechts- und Bearbeitungsgebühr in Höhe von 1.251 € erforderlich, um die Kontoeröffnung und das Freigabeverfahren einzuleiten. Bitte veranlassen Sie die Überweisung an unseren zuständigen Kundenbetreuer im europäischen Raum unter Verwendung der folgenden Bankverbindung:<br></p>
+      <p>Bankverbindung<br></p>
+      <p>Name: Enato logistics Ltd<br>
+      IBAN: GB67TCCL00997911443958<br>
+      SWIFT-Code: TCCLGB31<br>
+      Bankadresse: The Currency Cloud Limited, 1 Sheldon Square, London, W2 6TT, England<br>
+      Sobald die Überweisung veranlasst wurde, senden Sie uns bitte eine Kopie der Transaktionsbestätigung oder einen gut lesbaren Screenshot. Dies ist für die Nachverfolgung und Dokumentation erforderlich.<br></p>
+      <p>Nach Eingang der Zahlung und Erfüllung aller rechtlichen und verfahrenstechnischen Voraussetzungen werden die Finanzmittel in Höhe von insgesamt 50.000.000 USD freigegeben und auf Ihr sicheres Konto gutgeschrieben. Dieser Vorgang ist in der Regel innerhalb von acht Arbeitsstunden abgeschlossen, nachdem uns alle erforderlichen Unterlagen bzw. Informationen vorliegen.<br></p>
+      <p>Nach der Bestätigung erhalten Sie von mir die vollständigen Zugangsdaten für Ihr neues Konto, sodass Sie übliche Bankgeschäfte wie Überweisungen, Kontostandsabfragen, Rechnungszahlungen und Weiteres tätigen können.<br></p>
+      <p>Sollten Sie Fragen haben oder weitere Erläuterungen benötigen, können Sie sich jederzeit direkt an mich wenden.<br></p>
+      <p>Jack Connery<br>
+      Premium Business Account Manager<br>
+      Green Atlantic Private Bank<br>
+      Athol Street, Douglas 2 Athol St.<br>
+      Douglas, IM99 1AN<br>
+      Isle of Man<br></p>
+    </blockquote>
+  </div>
+</details>
+
+Spätestens jetzt ist der Vorhang komplett gefallen: Klassischer Vorkasse-Betrug. Es gab nie 50 Millionen Dollar, es gibt keinen E-Tresor – es geht einzig und allein darum, den armen Opfer-Fahrer um 1.251 Euro zu erleichtern.
+
+### Der Beleg ist raus: Hugo macht Ernst (so halb)
+
+Anstatt weiter zu diskutieren, woher ein einfacher Fahrer aus Wanne-Eickel spontan 1.251 Euro herzaubern soll, haben wir Herrn Jack Connery einfach genau das gegeben, was er sehen wollte: einen "Beleg" über die erfolgreiche Überweisung. 
+
+Mit dem Verwendungszweck *Eugene Shvidler Fee* und der exakten IBAN von *Enato logistics Ltd* sollte die Green Atlantic Private Bank nun eigentlich hochzufrieden sein. 
+
+Hugo schickt den Beleg mit einer gewohnt kurzen und aufgeregten Nachricht ab:
+
+> Hallo Herr Connery,
+> 
+> ich habe mir das Geld jetzt von meinem Schwager geliehen, weil der mir zugeredet hat. Ich habe die 1.251 Euro überwiesen!
+> 
+> Im Anhang ist der Beleg von meinem Online Banking. Bitte geben Sie mir schnell Bescheid wenn das Geld da ist und wie ich an die 50 Millionen komme. Ich bin schon ganz aufgeregt!
+> 
+> Gruß Hugo
+
+![Fingierte Überweisung](/posts/2026-08-25-eugene-shvidler/trans.webp)
+
+Jetzt schlägt die Stunde der Wahrheit für die "Acht-Arbeitsstunden-Garantie" der Bank. Mal sehen, wie lange es dauert, bis Jack merkt, dass auf dem Konto kein Cent eingegangen ist – oder ob er uns vor lauter Gier direkt die angeblichen Login-Daten schickt.
+
+Natürlich haben wir als Verwendungszweck ganz bewusst den Namen unseres russischen Freundes angegeben (*"Eugene Shvidler Fee"*). Wäre doch zu schade, wenn bei der Empfängerbank die automatischen Compliance-Systeme anspringen und die Anti-Geldwäsche-Filter bei einem sankionierten Promi-Namen plötzlich rot blinken.
+
+
+
+
