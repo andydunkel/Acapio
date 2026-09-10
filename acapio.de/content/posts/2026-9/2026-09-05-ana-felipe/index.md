@@ -168,4 +168,55 @@ Nach einer kurzen Rücksprache mit seinem Vierbeiner und der fachgerechten Ausf�
 
 ---
 
-Jetzt liegt der Ball wieder im Spielfeld der Betrüger. Ob der angebliche Anwalt mit den Ortsangaben „Hinter der Aral-Tankstelle“ arbeiten kann und wie die Reaktion auf Ehren-Patron Waldi ausfällt? 
+## Phase 3: Auftritt Kanzlei Gmail & Der Griff nach dem Konto ⚖️💳
+
+Das Drama nimmt Fahrt auf! „Ana“ ignoriert Hugos Aral-Tankstelle komplett und spult starr ihr Betrugsskript ab: Jetzt betritt die vermeintliche Anwältin die Bühne.
+
+<details class="scam-accordion">
+  <summary>E-Mail: Ab geht es zum Anwalt</summary>
+  <div class="accordion-content">
+    <blockquote>
+      <p>Lieber geliebter ,<br></p>
+      <p>hier ist die E-Mail, die ich vom Büro erhalten habe, das das Konto meiner verstorbenen Eltern bei der Bank verwaltet, wo die Gelder hinterlegt waren. Danke, dass Sie mir Ihre persönlichen Daten mitgeteilt haben. Ich möchte mich aufrichtig entschuldigen, falls diese und meine vorherige E-Mail Sie überrascht haben. Kurz gesagt: Sie sollen wissen, dass Sie als Verwandter meines verstorbenen Mandanten auftreten müssen, damit die Gelder, die meine verstorbenen Eltern bei der Bank für mich hinterlassen haben, freigegeben und zur Aufteilung auf Ihr Konto überwiesen werden können. Ich habe bereits alle notwendigen Vorkehrungen für die erfolgreiche Geltendmachung dieser Gelder getroffen. Da ich zudem der Anwalt bin, der die eidesstattlichen Erklärungen (Affidavits) ausstellt, werde ich persönlich sicherstellen, dass der Anspruch rechtmäßig und ohne Gesetzesverstoß – weder hier noch in Ihrem Land – geltend gemacht wird. Bitte beachten Sie, dass Sie nach Abschluss des Verfahrens und erfolgter Überweisung auf Ihr Konto 35 % der Erbschaftssumme behalten dürfen; mir stehen 60 % zu, sobald ich 18 Jahre alt bin, und die verbleibenden 5 % gehen an ein Waisenhaus.<br></p>
+      <p>Der nächste Schritt besteht darin, in Ihrem Namen bei der zuständigen Nachlassbehörde einen Erbschein (Letter of Administration) zu erwirken, der Ihnen die Befugnis verleiht, über den Nachlass des Verstorbenen zu verfügen. Außerdem muss ich Sie bei der Bank in meinem Land, wo das Geld liegt, offiziell als rechtmäßigen Verwandten des verstorbenen Mandanten und somit als rechtmäßigen Begünstigten registrieren lassen. Durch diese beiden Schritte werden Sie legitimiert, den Anspruch auf das Vermögen des Verstorbenen geltend zu machen, und können sich an den Anwalt in meinem Land wenden (siehe E-Mail-Adresse unten), um die Auszahlung offiziell zu beantragen. Damit ich den Erbschein beschaffen und die Registrierung bei der Bank hier vor Ort vornehmen kann, benötige ich von Ihnen folgende Bankdaten:<br></p>
+      <p>Name des Kontoinhabers:<br>
+      Name der Bank:<br>
+      Adresse der Bank:<br>
+      Kontonummer:<br>
+      Bankleitzahl (Routing Number):<br>
+      SWIFT-Code: (optional)<br>
+      Telefonnummer:<br></p>
+      <p>E-MAIL-ADRESSE DES ANWALTS FÜR DIE EIDESSTATTLICHE ERKLÄRUNG ZUR SICHERUNG DIESER GELDER:<br></p>
+      <p>Name: Rechtsanwältin Aslıhan Erbaş (AVK Law Office). E-Mail: ahsanchamberin1@gmail.com<br>
+      Telefon: +90 212 007 32 00<br>
+      Adresse: Levent, Sümbül Sk. No: 61, 34330 Beşiktaş/İstanbul, Türkei<br></p>
+      <p>Ich erwarte Ihre Rückmeldung sowie die oben genannten Bankdaten, damit wir das Verfahren zur Geltendmachung des Anspruchs ohne weitere Verzögerung fortsetzen können. Es ist wichtig, dass wir die gesetzlich vorgeschriebenen Abläufe einhalten; nur so kann der Anspruch rechtlich beglaubigt bzw. genehmigt und Ihr Status als Begünstigter der Gelder offiziell legitimiert werden. Ich möchte sicherstellen, dass die Geltendmachung des Anspruchs und die Überweisung der Gelder risikofrei verlaufen. Daher werden wir das reguläre, rechtmäßige Verfahren für Erbansprüche durchlaufen, um zu gewährleisten, dass es weder jetzt noch in Zukunft zu Problemen kommt.<br></p>
+      <p>Abschließend können Sie mir gerne Fragen zu den genannten Punkten stellen, damit ich Ihnen alle Einzelheiten erläutern kann. Ich freue mich auf Ihre Antwort und die Übermittlung der von mir erbetenen Informationen.<br></p>
+      <p>Bitte antworte bald<br>
+      Aufrichtig<br>
+      Ana Felipe.<br></p>
+    </blockquote>
+  </div>
+</details>
+
+Die Highlights aus der aktuellen Mail:
+
+* **Mathe-Magie:** 35 % für Hugo, 60 % für Ana, 5 % fürs Waisenhaus. Ehren-Patron Dackel Waldi geht in der Kalkulation leer aus!
+* **Anstiftung zur Urkundenfälschung:** Hugo soll sich offiziell als „Verwandter“ ausgeben, damit ein gefälschter Erbschein (*Letter of Administration*) ausgestellt werden kann.
+* **Top-Juristin bei Google:** Rechtsanwältin *Aslıhan Erbaş* vertritt angeblich Millionen-Nachlässe in Istanbul, nutzt dafür aber die professionelle E-Mail-Adresse `ahsanchamberin1@gmail.com`. 📧
+
+### Das Ziel: Konto-Phishing 🎣
+
+Die Betrüger verlangen ab sofort konkrete Bankdaten (IBAN, BIC, Bankname).
+
+**Die Masche:** Die Daten dienen als Steilvorlage für gefälschte Überweisungsbelege. Direkt im Anschluss wird „Anwältin Erbaş“ die ersten Vorauszahlungen für Notar-, Gerichtskosten oder Stempelgebühren verlangen – natürlich per Wire-Transfer.
+
+**Wir schicken ein paar falsche Daten und schauen was passiert.**
+
+---
+
+
+
+
+
+

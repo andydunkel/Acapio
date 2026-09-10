@@ -218,7 +218,7 @@ Um Hugo weichzuklopfen, wird die „Gottesfürchtig“-Karte gespielt: Wer zöge
     <blockquote>
       <p>Pacific Premier Bank.<br>
        <br>
-      Dear Hugo Scholz,<br>
+      Dear Hugo,<br>
        <br>
       We have received your email message with your information and we have also received the confirmation letter and your information from your benefactor. We have also received a confirmation of continuation from Mr.Michael J Weirsky, In this regard, we are mandated to immediately transfer ownership of the assets to you. As part of professional banking ethics, in order to gain access to the said asset (endowment funds) and make a full claim, there are two standard official procedures, mutually optional, to obtain the monetary asset of this portfolio.<br>
        <br>

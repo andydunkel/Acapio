@@ -314,13 +314,13 @@ Es hat nicht lange gedauert, bis der feine Herr „UN-Botschafter“ Rolf Kloste
   <summary>E-Mail - die großen Kosten</summary>
   <div class="accordion-content">
     <blockquote>
-      <p>Dear Hugo scholz,<br></p>
+      <p>Dear Hugo S.,<br></p>
       <p>I acknowledge receipt of your email with your delivery information.<br></p>
       <p>We run a private delivery system employing the use of Diplomatic Courier delivery and offering courier and transport services 24 hours a day for priority delivery of letters, consignment, funds and parcels, to any destination by road, air or sea. Your consignment delivery is a diplomatic delivery and shall be handled specially by me because of it content to ensure the highest level of care, security, and confidentiality.<br></p>
       <p>Your one consignment trunk box is ready for departure to be delivered to you at your destination.<br></p>
       <p>Description of trunk box to be delivered:------------- One Trunk Box<br>
       Color of Trunk:------------- Silver and Black<br>
-      Full Name:--------------- Hugo scholz<br>
+      Full Name:--------------- Hugo S.<br>
       Delivery Destination--------- Fährweg 12b 22305 Hamburg, Germany.<br></p>
       <p>Below is your due invoice/bill to commence delivery.<br></p>
       <p>Delivery Charges-------------------------------------------------------------$3,330<br>
@@ -442,6 +442,49 @@ Mit Fabios angebotenen 2.000 Dollarn bleibt immer noch eine saftige Lücke von �
 > He wants 4700 Dollar, I only have 2000 currently.  
 
 Damit liegt der Ball wieder bei den Betrügern. Wir dürfen gespannt sein, ob Fabio plötzlich noch mehr "Ersparnisse" aus dem Hut zaubert, ob Herr Klosterman uns kulanterweise einen "Sonderrabatt für Diplomaten" einräumt oder ob Fabio weiterhin versucht, Hugo zum Plündern der Haushaltskasse zu überreden!
+
+---
+
+## Die Haushaltskasse brennt! 💸🔥
+
+Fabio gibt einfach nicht auf! Anstatt ein einzusehen, dass Hugo keine 2.700 Dollar im Socken unter der Matratze bunkert, legt unser todkranker Wohltäter erst so richtig los.
+
+Er beharrt eiskalt darauf, dass Hugo das fehlende Geld irgendwie auftreiben MUSS. Schließlich geht es hier um Millionen! Fabios unschlagbarer Spartipp für den Ehefrieden in Wanne-Eickel: *Einfach heimlich das Ersparte plündern – die Ehefrau wird sich schon wieder einkriegen, sobald der Geldkoffer im Flur steht!* 😅
+
+Hier ist der Auszug aus seiner neusten Mitleids-Mail:
+
+> Hello Hugo,  
+>   
+> Thank you for your email, and please accept my apologies for the late response. I was placed on some serious medication and have only just regained access to my computer.  
+>   
+> Regarding your email, you mentioned that you have $2,000 available. I will be able to send Rolf the remaining $2,700. Please contact Rolf immediately and obtain the necessary details for sending the money for the delivery so that they can commence the delivery this weekend. I would like you to receive the package this weekend okay.  
+>   
+> You will be sending $2,000, while I will be sending the remaining $2,700.  
+
+Man muss die Dreistigkeit fast schon bewundern: Ein angebliche Millionär im Krankenhaus redet einem einfachen Fahrer ein, für eine Kiste voller Ungewissheit seine Haushaltskasse zu plündern.
+
+---
+
+### Taktischer Spielzug: Hugo teilt die Rechnung! 🤝💰
+
+Nun wird es für die Betrüger knifflig! Hugo schickt dem feinen Herrn UN-Botschafter Rolf Klosterman eine klare Ansage: **2.000 Euro** zahlt Hugo (sobald er die Zahldaten hat), und den großen Rest legt Fabio oben drauf – so wie er es versprochen hat.
+
+> Dear Mr. Rolf Klosterman,  
+>   
+> Thank you for your calculation!  
+>   
+> I have spoken with my good friend Fabio Antonio. I am a simple man, so I can pay 2,000 Euro for the delivery. My friend Fabio told me that he will pay the rest of the money ($2,714) directly to you from his account!  
+>   
+> Please send me the bank details or payment information for my 2,000 Euro.  
+>   
+> And please tell me immediately when Mr. Fabio has paid his part to you, so I know everything is clear and you can drive the box to Wanne-Eickel!  
+
+Damit treiben wir die Scammer in ein herrliches Dilemma:
+
+* **Falle für Fabio:** Fabio muss nun gegenüber seinem eigenen "Komplizen" (oder seiner Zweit-Identität) so tun, als hätte er 2.000 Dollar überwiesen.
+* **Falle für Rolf:** Der Spediteur muss bestätigen, dass Fabios Geld angekommen ist – oder er muss zugeben, dass Fabio gar nichts gezahlt hat.
+
+Hugo hat außerdem klargestellt, dass er erst auf die Bestätigung wartet, dass Fabios Anteil eingegangen ist, bevor er selbst aktiv wird. Mal sehen, wie sich die beiden Betrüger-Rollen jetzt gegenseitig die Bälle zuspielen!
 
 
 

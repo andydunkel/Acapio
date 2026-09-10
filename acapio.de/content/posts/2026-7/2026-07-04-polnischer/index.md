@@ -187,7 +187,7 @@ Hugo reagiert erstmal, wegen guten Wetter nicht und schreibt auch die Bank nicht
 
 ## Das große Finale: Die Millionen auf Plastikkarte (und die Rechnung!) 💳💸
 
-Man glaubt es kaum, aber Herr Pasco von der sagenumwobenen *Preston Union Bank* fackelt nicht lange. Er hat Hugos Millionen direkt auf eine **„Visa Platinum“-Karte** geladen! Und weil die Betrüger wissen, wie man Eindruck schindet, haben sie sogar "Beweisfotos" angehängt: Eine digitale Kreditkarte, auf der tatsächlich der Name „Hugo Scholz“ thront, und einen hochoffiziellen Fake-Versandbeleg.
+Man glaubt es kaum, aber Herr Pasco von der sagenumwobenen *Preston Union Bank* fackelt nicht lange. Er hat Hugos Millionen direkt auf eine **„Visa Platinum“-Karte** geladen! Und weil die Betrüger wissen, wie man Eindruck schindet, haben sie sogar "Beweisfotos" angehängt: Eine digitale Kreditkarte, auf der tatsächlich der Name „Hugo S.“ thront, und einen hochoffiziellen Fake-Versandbeleg.
 
 Sogar die Menschenrechte und der internationale Eisenbahnverkehr müssen als Begründung herhalten, warum Hugo dieses Geld zusteht. Ganz großes Kino! 🎬
 

@@ -179,7 +179,7 @@ Es wird immer wilder! Dirk hat uns ein „Testament“ geschickt und schickt uns
   <div class="accordion-content">
     <blockquote>
       <p>Hallo.</p>
-      <p>Wie geht es Ihnen und Ihrer Familie? Ich hoffe, es geht Ihnen gut. Der Anwalt hat die Dokumente fertiggestellt, und ich habe eine Kopie an die MONUMENT CAPITAL BANK weitergeleitet. Darin führe ich Sie als einzigen überlebenden Angehörigen meines verstorbenen Mandanten Dr. Raymond Scholz auf. Ich habe Ihnen ebenfalls eine Kopie dieser Dokumente zur Durchsicht beigefügt. Die Bank wird Sie möglicherweise bitten, ihr eine Kopie zuzusenden, um Ihre Erbschaft zu bestätigen.</p>
+      <p>Wie geht es Ihnen und Ihrer Familie? Ich hoffe, es geht Ihnen gut. Der Anwalt hat die Dokumente fertiggestellt, und ich habe eine Kopie an die MONUMENT CAPITAL BANK weitergeleitet. Darin führe ich Sie als einzigen überlebenden Angehörigen meines verstorbenen Mandanten Dr. Raymond Schohlz auf. Ich habe Ihnen ebenfalls eine Kopie dieser Dokumente zur Durchsicht beigefügt. Die Bank wird Sie möglicherweise bitten, ihr eine Kopie zuzusenden, um Ihre Erbschaft zu bestätigen.</p>
       <p>Ich habe den Anwalt gebeten, die MONUMENT CAPITAL BANK zu kontaktieren, nachdem ich die Unterlagen gesendet habe. Er soll erklären, dass Sie der einzige überlebende Angehörige meines verstorbenen Mandanten sind und dass Sie aufgrund familiärer Angelegenheiten nicht nach Schottland reisen können, um die Sendung in Anspruch zu nehmen. Die Bank weiß bereits, dass sich Geld in der Sendung befindet, da ich es als Sicherheit in einem Schließfach bei der MONUMENT CAPITAL BANK hinterlegt habe.</p>
       <p>Die MONUMENT CAPITAL BANK bietet auch Online-Banking an. Um die Transaktion zu vereinfachen, müssen Sie ein Online-Konto eröffnen.</p>
       <p>Bitte kontaktieren Sie die MONUMENT CAPITAL BANK. Die Kontaktdaten der Online-Abteilung finden Sie unten.</p>
@@ -191,9 +191,9 @@ Es wird immer wilder! Dirk hat uns ein „Testament“ geschickt und schickt uns
       Kundenbetreuer<br>
       (Geschäftsführer)<br>
       Ansprechpartner: Herr West Norbert</p>
-      <p>Wenn Sie die Bank per E-Mail kontaktieren möchten, empfehle ich Ihnen folgende Vorgehensweise: MONUMENT CAPITAL BANK (UK), Mein Name ist Hugo Scholz. Ich schreibe Ihnen bezüglich des Vermögens meines verstorbenen Verwandten, Dr. Raymond Scholz, das bei Ihrer Bank, der MONUMENT CAPITAL BANK, angelegt ist. Ich möchte ein Online-Konto bei Ihrer Bank eröffnen, um als einziger überlebender Angehöriger Zugriff auf das Vermögen meines verstorbenen Verwandten zu erhalten. Ich wäre Ihnen sehr dankbar, wenn Sie meine Anfrage per E-Mail beantworten würden.</p>
+      <p>Wenn Sie die Bank per E-Mail kontaktieren möchten, empfehle ich Ihnen folgende Vorgehensweise: MONUMENT CAPITAL BANK (UK), Mein Name ist Hugo Schohlz. Ich schreibe Ihnen bezüglich des Vermögens meines verstorbenen Verwandten, Dr. Raymond Schohlz, das bei Ihrer Bank, der MONUMENT CAPITAL BANK, angelegt ist. Ich möchte ein Online-Konto bei Ihrer Bank eröffnen, um als einziger überlebender Angehöriger Zugriff auf das Vermögen meines verstorbenen Verwandten zu erhalten. Ich wäre Ihnen sehr dankbar, wenn Sie meine Anfrage per E-Mail beantworten würden.</p>
       <p>Mit freundlichen Grüßen<br>
-      Hugo Scholz</p>
+      Hugo Schohlz</p>
       <p>Bitte kontaktieren Sie die Bank umgehend und teilen Sie ihr mit, dass Sie ein Online-Konto eröffnen möchten, um auf die Million Pfund zugreifen zu können.</p>
       <p>Sobald Sie Ihr Online-Konto eröffnet haben, werden die 7 Millionen Pfund auf Ihr Konto überwiesen. Sie erhalten anschließend Ihre Kontodaten, wie Kontonummer und PIN-Code, sowie Informationen zum Zugriff auf Ihr Online-Banking-Konto.</p>
       <p>Sie können Ihr Konto von überall auf der Welt nutzen, sofern Sie über einen Internetzugang verfügen. Loggen Sie sich einfach in Ihr Online-Konto ein und überweisen Sie das Geld von Ihrem Konto bei der MONUMENT CAPITAL BANK auf ein beliebiges anderes Konto weltweit.</p>
@@ -269,7 +269,7 @@ Die hier E-Mail im Original! **Vorsicht lang!**
       E-Mail-Adresse der Bank: customersupport@monumentcb.com<br>
       Bankmitarbeiter: Herr West Nobert<br>
       Adresse der Bank: 10 Downing Street, Westminster, SW1A 2AA London, Vereinigtes Königreich<br></p>
-      <p>Sehr geehrter Hugo Scholz,<br></p>
+      <p>Sehr geehrter Hugo Schohlz,<br></p>
       <p>Willkommen bei Monument Capital Bank Online Banking, einem der weltweit führenden Online-Banking-Anbieter. Wir überweisen im Auftrag unserer Kunden innerhalb von 48 Stunden nach Online-Einzahlung große Geldbeträge weltweit.<br></p>
       <p>Da Sie noch kein Girokonto bei uns besitzen, bitten wir Sie, das dieser E-Mail beigefügte Antragsformular für ein Konto auszufüllen und uns eine Kopie per E-Mail zurückzusenden. So kann unsere Buchhaltung die Einrichtung Ihres neuen Kontos bei unserer Bank umgehend bearbeiten. Im Folgenden finden Sie die verschiedenen Arten von Online-Konten, die wir bei Monument Capital Bank Online Banking anbieten. Bitte geben Sie in Ihrem Antrag genau an, welche Art von Konto Sie wünschen.<br></p>
       <p>1. Sparkonto Plus Reserve:<br>
@@ -307,7 +307,7 @@ Boah, ich sach dir, ich blick da gar nicht mehr durch. Diamond, Gold, Advantage.
 
 Eigentlich wollte ich ja dat fette Diamond-Konto nehmen, damit die Millionen direkt auf einmal rüberkommen, aber ich hab gerade richtig Pech. Mein 3er BMW hat mich beim TÜV komplett nackig gemacht. Neue Querlenker, Auspuff und die Bremsen waren auch fällig – über 3000 Euro hab ich in der Werkstatt gelassen, nur damit die Plakette wieder draufkommt!
 
-Jetzt hab ich gerade mal noch 1500 Euro auf Kante liegen. Reicht dat für dat erste Konto, dieses „Plus“-Dingsda? Oder kannste mir als Fast-Verwandter von dem Dr. Scholz vielleicht einen Rabatt geben? Ich muss ja auch noch wat zu beißen haben und die Karre muss ja auch getankt werden, ne?
+Jetzt hab ich gerade mal noch 1500 Euro auf Kante liegen. Reicht dat für dat erste Konto, dieses „Plus“-Dingsda? Oder kannste mir als Fast-Verwandter von dem Dr. Schohlz vielleicht einen Rabatt geben? Ich muss ja auch noch wat zu beißen haben und die Karre muss ja auch getankt werden, ne?
 
 Schreib mal, ob wir dat mit den 1500 Euro hinkriegen oder ob ich erst bis zum nächsten Ersten warten muss, wenn wieder Kohle kommt.
 
