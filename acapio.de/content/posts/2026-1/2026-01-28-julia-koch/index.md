@@ -10,7 +10,9 @@ tags:
 categories:
   - "Scam"
 thumbnail: "iltis.webp"
-url: "posts/2025-01-28-julia-koch"
+url: "posts/2026-01-28-julia-koch"
+aliases:
+  - "/posts/2025-01-28-julia-koch/"
 summary: "Eine E-Mail, 500.000 Dollar und ein Hauch von New Yorker Glamour im Postfach von Wanne-Eickel. Julia Koch höchstpersönlich will unser aller Schicksal mit „High-Level-Philanthropie“ versüßen, zumindest behauptet das ihr dubioser Anwalt Roland."
 
 ---
@@ -195,7 +197,7 @@ Die Masche ist klar: Mit der Drohung, das „Zeitfenster“ würde sich schließ
 
 Hugo hat geliefert! Er schickt dem „Anwalt“ ein Dossier, das in jedem Geheimdienst-Archiv für Schnappatmung sorgen würde. Ein Geburtsdatum am **1. April** 🤡, der Geburtsort **Wanne-Eickel** ⚒️ und ein fälschungssicherer **Gockel-Hintergrund** 🐓, mehr Sicherheit geht nicht!
 
-![](/posts/2025-01-28-julia-koch/ausweis.webp)
+![](/posts/2026-01-28-julia-koch/ausweis.webp)
 
 Mit dieser geballten Ladung Ruhrpott-Charme testen wir jetzt, wie „High-Level“ die Philanthropie von Roland wirklich ist. Erkennt seine KI den heroischen Glanz in Hugos Augen oder platzt die Blase aus Chelmsford? 💥 Denkt dran: Wer solche Fotos an echte Behörden schickt, landet im Knast, wer sie an Scammer schickt, landet in unserem Blog! ✍️😂
 
@@ -238,7 +240,7 @@ Er wirft mit Begriffen wie **SWIFT** und **Interbank-Standards** um sich, um den
 
 Hugo liefert! Er schickt Roland eine Bankverbindung, die zwar amtlich aussieht, aber ins Leere führt. Während der „Anwalt“ schon die Sektkorken knallen lässt, lockt Hugo ihn tiefer in den Kaninchenbau.
 
-![Ein bissel Fake schadet nie](/posts/2025-01-28-julia-koch/bankverbindung.webp)
+![Ein bissel Fake schadet nie](/posts/2026-01-28-julia-koch/bankverbindung.webp)
 
 **Der Clou:** Wir spielen den braven Empfänger, während die Daten reiner Fake sind. Jetzt warten wir nur noch darauf, dass Roland uns erklärt, warum die 500.000 Dollar „leider“ an einer winzigen Gebühr hängen.
 
@@ -257,7 +259,7 @@ Hugo dazu: „Unterschreiben? Klar, Roland! Ich hab noch ’nen alten Filzstift,
 
 ### Der Vertrag als PDF
 
-![Auszug aus dem PDF](/posts/2025-01-28-julia-koch/vertrag.webp)
+![Auszug aus dem PDF](/posts/2026-01-28-julia-koch/vertrag.webp)
 
 ### Die E-Mail
 
@@ -634,7 +636,7 @@ Jetzt fallen alle Masken. Roland Hughes mutiert vom seriösen Anwalt zum panisch
 
 **Der KI-Faktor:** Schaut man sich die Nachricht genau an, wird es offensichtlich: Hier schreibt kein „Senior Partner“ unter Zeitdruck, hier arbeitet eine **Künstliche Intelligenz**. Die perfekte Strukturierung mit Aufzählungszeichen, die typischen Gedankenstriche und die fast schon zu glatte, dramatische Wortwahl sind klare Indikatoren. Die Scammer nutzen KI-Tools, um ihre Opfer psychologisch unter Druck zu setzen und dabei stets „professionell“ zu klingen, selbst wenn sie gerade versuchen, einen verletzten Mann im Krankenhaus zu bestehlen.
 
-![Typische KI-Muster](/posts/2025-01-28-julia-koch/ki.webp)
+![Typische KI-Muster](/posts/2026-01-28-julia-koch/ki.webp)
 
 **Zusammenfassung der Mail:**
 
@@ -663,7 +665,7 @@ Ihr Hugo
 
 ## Der Reto-Meisser-Glitch: Wenn Scammer auf Scammer treffen 🤖⚔️
 
-Hugo ist zurück, und er ist herrlich verwirrt! Wir haben den Endgegner für jeden Scammer aktiviert: **Die Konkurrenz**.  [Reto Meisser](/posts/2025-02-08-reto-meisser/) ist ein prominentes Phantom in der Welt der Vorschussbetrüger. Dass Hugo ihn jetzt ins Spiel bringt, ist für Roland der absolute Super-GAU.
+Hugo ist zurück, und er ist herrlich verwirrt! Wir haben den Endgegner für jeden Scammer aktiviert: **Die Konkurrenz**.  [Reto Meisser](/posts/2026-02-08-reto-meisser/) ist ein prominentes Phantom in der Welt der Vorschussbetrüger. Dass Hugo ihn jetzt ins Spiel bringt, ist für Roland der absolute Super-GAU.
 
 **Warum das Roland wahnsinnig macht:**
 
@@ -750,13 +752,13 @@ Wenn man genau hinschaut, bröckelt die Fassade des „Senior Partners“ sofort
 * **Das „Beweisfoto“:** Roland (oder wer auch immer das sein soll) hält den Zettel mit einer Steifheit, die nur eine KI hinkriegt. Der Hintergrund, ein schickes Büro mit Skyline, soll Seriosität vorgaukeln, wirkt aber so steril wie eine Zahnarztpraxis im Metaverse.
 * **Die Ironie:** Roland beschwert sich in seiner Mail über „alberne Fotos, die jeder Fälscher mit Photoshop erstellen kann“, und schickt uns dann genau das: Einen KI-generierten Fake.
 
-![](/posts/2025-01-28-julia-koch/roland.webp)
+![](/posts/2026-01-28-julia-koch/roland.webp)
 
 ### Das Video - Roland mit Wanne-Eickel Schild
 
 Auch ein Video hat er uns erstellt, natürlich mit KI erstellt:
 
-<video width="480" height="640" controls><source src="/posts/2025-01-28-julia-koch/RolandVideo.mp4" type="video/mp4"></video>
+<video width="480" height="640" controls><source src="/posts/2026-01-28-julia-koch/RolandVideo.mp4" type="video/mp4"></video>
 
 ### Die E-Mail
 
@@ -804,7 +806,7 @@ Das ist der perfekte Abschluss! Das Bild mit dem Dachs und dem Schriftzug **„Y
 
 Es ist vorbei! Wir haben das Spiel beendet und Roland Hughes mit seinem eigenen KI-Wahnsinn konfrontiert. Zum Abschluss bekommt er noch eine freundliche E-Mail. Wird er es sportlich nehmen?
 
-![](/posts/2025-01-28-julia-koch/feierabend.webp)
+![](/posts/2026-01-28-julia-koch/feierabend.webp)
 
 **Das Resümee der Show:**
 Roland hat alles gegeben: Er hat „Seelen entblößt“, künstliche Zeitfenster erschaffen, gegen imaginäre Schweizer Konkurrenten gewettert und am Ende sogar ein Video generiert, nur um an Hugos fiktiven Bausparer zu kommen. Dass er dabei über die Hürde „Wanne-Eickel“ gestolpert ist, macht die Sache nur süßer.

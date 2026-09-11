@@ -10,7 +10,9 @@ tags:
 categories:
   - "Scam"
 thumbnail: "geldkarte.webp"
-url: "posts/2025-02-01-cyberkarte"
+url: "posts/2026-02-01-cyberkarte"
+aliases:
+  - "/posts/2025-02-01-cyberkarte/"
 summary: "Reich werden per E-Mail? Unser Lager-Experte Basti hat Post von einem mysteriösen „Ingenieur“ bekommen, der mit magischen Bankkarten und täglichen 5.000-Euro-Geschenken um sich wirft. Während sein Pudel Rudi noch von goldenen Hundehütten träumt, hat Basti den Braten schon längst gerochen. 🍖"
 
 ---
@@ -218,7 +220,7 @@ Jetzt ist die Maske endgültig gefallen. Die Betrüger haben die Bankdaten für 
 
 Um zu sehen, wie die Betrüger auf vermeintliches Geld reagieren, haben wir den Spieß umgedreht. Anstatt echtes Geld nach Irland zu schicken, hat Basti den Photoshop-Pinsel geschwungen und den Scammern eine gefälschte Bankbestätigung über die 699 Euro geschickt.
 
-![](/posts/2025-02-01-cyberkarte/trans.webp)
+![](/posts/2026-02-01-cyberkarte/trans.webp)
 
 In der Welt der Betrüger ist dieser Moment wie Weihnachten und Ostern zusammen: Sie glauben, ihr Opfer sicher am Haken zu haben. Wir warten nun gespannt darauf, ob „Godstime“ und sein Team den Schwindel bemerken oder ob sie uns jetzt mit erfundenen Tracking-Nummern und weiteren Märchen beglücken. 🕵️‍♂️🍿
 

@@ -10,7 +10,9 @@ tags:
 categories:
   - "Scam"
 thumbnail: "panda.webp"
-url: "posts/2025-02-08-reto-meisser"
+url: "posts/2026-02-08-reto-meisser"
+aliases:
+  - "/posts/2025-02-08-reto-meisser/"
 summary: "Eine halbe Million Euro, ein angeblicher Banker aus Hongkong und eine Gmail-Adresse. Klingt nach seriösem Finanzgeschäft? Wir schauen uns an, warum solche Mails garantiert nichts mit der Wing Hang Bank zu tun haben, und woran man den Scam in Sekunden erkennt. 🚩💸"
 
 ---
@@ -264,7 +266,7 @@ Natürlich darf im weiteren Verlauf auch ein „Beweis der Seriosität“ nicht 
 
 Genau das ist ein klassischer Trick. Solche Bilder sind entweder manipuliert, gestohlen oder stammen von völlig unbeteiligten Personen, deren Dokumente missbraucht werden. Eine JPEG-Datei per E-Mail ist kein Identitätsnachweis, sondern lediglich ein weiteres Puzzleteil im Vertrauens-Theater des Betrugs. 📧😏
 
-![](/posts/2025-02-08-reto-meisser/ausweis_reto.webp)
+![](/posts/2026-02-08-reto-meisser/ausweis_reto.webp)
 
 ## Jetzt reden wir über Zahlen 💰🤔
 
@@ -362,7 +364,7 @@ Stattdessen bekommen wir genau das, worauf der ganze Scam von Anfang an abzielte
 
 Dazu gibt es ein Formular, welches wir ausfüllen müssen, handschriftlich. So wollen die Scammer sicher stellen, dass sie nicht mit KI abgespeist werden.
 
-![](/posts/2025-02-08-reto-meisser/bank.webp)
+![](/posts/2026-02-08-reto-meisser/bank.webp)
 
 ### Die absurdesten Highlights der Mail 🚩🤖
 

@@ -10,7 +10,9 @@ tags:
 categories:
   - "Scam"
 thumbnail: "money.webp"
-url: "posts/2025-01-06-opensocietyfoundation"
+url: "posts/2026-01-06-opensocietyfoundation"
+aliases:
+  - "/posts/2025-01-06-opensocietyfoundation/"
 summary: "Post vom Milliardär? 💌 Die „Wyss Foundation“ will mir Geld schenken, behauptet zumindest eine sehr schlecht geschriebene E-Mail. 🤨 Wir haben den Scam nicht gelöscht, sondern den Spieß umgedreht! Erfahren Sie, wie wir die Betrüger mit ihren eigenen Fehlern konfrontieren und ihre Zeit stehlen. 🕵️‍♂️✨"
 
 ---
@@ -57,7 +59,7 @@ Der Screenshot zeigt die **echte** Seite der *Open Society Foundations*. Der Kon
 
 **Fazit:** Die Scammer nutzen den bekannten Namen der Stiftung als Köder 🎣, hoffen aber, dass ihr den Unterschied zwischen der echten Arbeit und ihrem plumpen Text nicht bemerkt.
 
-![Die Webseite der echten Foundation nach der Weiterleitung](/posts/2025-01-06-opensocietyfoundation/website.webp)
+![Die Webseite der echten Foundation nach der Weiterleitung](/posts/2026-01-06-opensocietyfoundation/website.webp)
 
 
 ## 🏎️ S cholz übernimmt: Wanne-Eickel schlägt zurück!

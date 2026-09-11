@@ -10,7 +10,9 @@ tags:
 categories:
   - "Scam"
 thumbnail: "moneyfox.webp"
-url: "posts/2025-02-07-esther-johnson"
+url: "posts/2026-02-07-esther-johnson"
+aliases:
+  - "/posts/2025-02-07-esther-johnson/"
 summary: "Eine todkranke Millionärin, 5,6 Millionen Dollar und ein Anwalt, der „alles regelt“ 🤡💼
 Hugo aus Wanne-Eickel, BMW-Schrauber, Dackelfreund und Vereinsheim-Stammgast, wird plötzlich zum auserwählten Christen.
 Was danach passiert, ist weniger Bibelstunde, und mehr Betrugs-Bingo 🎰📧"
@@ -314,7 +316,7 @@ Auf Hugos konkrete Fragen nach Kanzleiadresse und Ablauf wird natürlich geschwi
 
 Hugo liefert brav, na ja, fast. Statt sensibler Realdaten servieren wir dem AOL-Anwalt ein paar frei erfundene Infos und ein echtes Meisterwerk der Dokumentenfälschung: den offiziellen Personalausweis von Hugo Tadeus S cholz, geboren natürlich am 1. April. Wer genau hinsieht, erkennt auch sofort das neue hoheitliche Wappentier im Hintergrund: Hier wacht nicht mehr der stolze deutsche Bundesadler, sondern ein prächtiges, grünes Huhn. 🐓
 
-![](/posts/2025-02-07-esther-johnson/hugo_ausweis.webp)
+![](/posts/2026-02-07-esther-johnson/hugo_ausweis.webp)
 
 Ob das dem "Federal High Court" auffällt? Wohl kaum. Für den Scam-Ordner reicht das allemal. Mal sehen, welche fantastischen "Gebühren" der Anwalt uns als Nächstes in Rechnung stellt! 💸
 
@@ -390,7 +392,7 @@ Nehmen wir dieses Dokument der absoluten juristischen Seriosität mal genauer un
 
 Zusammenfassend: Das Dokument ist laut Anwalt exzellent „preperd“ (sic!), aber leider völlig wertlos, solange wir nicht die 1.500 Euro für das rettende Affidavit überweisen.
 
-![](/posts/2025-02-07-esther-johnson/urkunde.webp)
+![](/posts/2026-02-07-esther-johnson/urkunde.webp)
 
 
 ### Die defekte Plömmelwelle und die Frage nach dem "Wie" 🚗💸
@@ -477,7 +479,7 @@ Besonders charmant: Während die Kanzlei angeblich in London sitzt, die Bank in 
 
 Hugo hat es tatsächlich getan! Die mühsam von den „bösen“ Kumpels geliehenen **1.500 Euro** sind auf dem Weg zu Benjamin I.O., dem wohl einzigen „Gerichtsagenten“ der Welt, der seine Dienstleistungen über ein privates Konto bei der NatWest abwickelt.
 
-![](/posts/2025-02-07-esther-johnson/trans.webp)
+![](/posts/2026-02-07-esther-johnson/trans.webp)
 
 Besonders charmant an Hugos Überweisung ist der Verwendungszweck: **„Gebühr für Sepende“** (hoffentlich gibt es deswegen keine Probleme mit der Bank 😏). 
 
@@ -542,7 +544,7 @@ Anstatt sich um internationale Banklaufzeiten oder Benjamins leeres Konto zu sch
 
 Während der „Managing Partner“ ungeduldig wird, serviert Hugo ihm den ultimativen Endgegner: die deutsche Finanzaufsicht. Laut einem (hübschen, selbstgebastelten) Schreiben vom Kontenservice wurde die Überweisung an Benjamin gestoppt, da dessen Konto von der BaFin als „betrügerisch eingestuft“ wurde. 
 
-![Wir schalten einen Gang hoch](/posts/2025-02-07-esther-johnson/bank.webp)
+![Wir schalten einen Gang hoch](/posts/2026-02-07-esther-johnson/bank.webp)
 
 Hugo gibt sich am Boden zerstört und schreibt panisch, dass er „keinen Ärger“ will. Dass die Bank hier aus Versehen die absolute Wahrheit über Benjamin I.O. ausspricht, dürfte in der AOL-Zentrale für Schnappatmung sorgen.
 
@@ -575,7 +577,7 @@ Offenbar hat der Anwalt gelernt, dass Begriffe wie „Erbschaft“, „Gebühr�
 
 Der Screenshot der Testüberweisung beweist: Das Konto ist (leider) echt. Der Scammer hat also einen Muli in Deutschland aktiviert, um die lästigen internationalen Sicherheitshürden zu umgehen. Für Hugo bedeutet das: Der Druck steigt wieder, denn jetzt gibt es keine Ausrede mehr mit „komischen Auslandsüberweisungen“. 🎣📉
 
-![Name der Bankverbindung passt](/posts/2025-02-07-esther-johnson/bank.webp)
+![Name der Bankverbindung passt](/posts/2026-02-07-esther-johnson/bank.webp)
 
 --
 
@@ -707,7 +709,7 @@ Trotz Hugos angeblichem „Konto-Problem“ bei der BaFin und dem massiven Druck
 >   
 > Get back to me for reconfirmations of the payment details.   
 
-![Name der Bankverbindung passt](/posts/2025-02-07-esther-johnson/dokument.webp)
+![Name der Bankverbindung passt](/posts/2026-02-07-esther-johnson/dokument.webp)
 
 ## Das Stockfoto-Drama: Wenn die Bildersuche zum Endgegner wird 📸🏥
 
@@ -718,7 +720,7 @@ Die Bildergalerie ist ein Best-of der Stockfoto-Portale:
 * Ein medizinisches Dokument einer Klinik namens „ANSH MEDICARE“ aus Indien (Haryana) - mutig für eine Frau, die angeblich in der Schweiz lebt und einen britischen Anwalt hat. 🇮🇳🌍
 * Der absolute Höhepunkt: In die Collage wurde das Gesicht einer **weinenden jungen Frau** montiert. Kenner wissen: Das ist ein bekanntes Meme/Pressefoto der Schauspielerin Lili Reinhart. Dass ein Hollywood-Star an Esthers Bett in Wanne-Eickel-Süd um sie weint, wertet die Geschichte natürlich massiv auf. 🎭😭
 
-![Unser Favorit ist ganz rechts](/posts/2025-02-07-esther-johnson/krankenhaus.webp)
+![Unser Favorit ist ganz rechts](/posts/2026-02-07-esther-johnson/krankenhaus.webp)
 
 Die Bilder kommen uns auch verdächtig bekannt aus einem [anderen Scam vor](/posts/2024-12-25_turkish_sick_woman/#stockfotos).
 

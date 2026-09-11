@@ -10,7 +10,9 @@ tags:
 categories:
   - "Scam"
 thumbnail: "hugo_dackel.webp"
-url: "posts/2025-01-16-un-compensation"
+url: "posts/2026-01-16-un-compensation"
+aliases:
+  - "/posts/2025-01-16-un-compensation/"
 summary: "Der fette Fisch an der Angel (oder: Warum Hugo jetzt eigentlich Privatjet fliegen müsste)"
 
 ---

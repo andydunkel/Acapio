@@ -11,7 +11,9 @@ categories:
     - "Phishing"
     - "Security"
 thumbnail: "hacker.webp"
-url: "posts/2025-01-05_password_expired"
+url: "posts/2025-01-06_password_expired"
+aliases:
+  - "/posts/2025-01-05_password_expired/"
 summary: "Das Passwort für unsere E-Mail-Adresse ist abgelaufen... wir müssen schnell handeln"
 ---
 
@@ -23,7 +25,7 @@ Schreck lass nach, dass E-Mail-Passwort läuft ab. Hier ist alles dabei, was Phi
 >   
 > Password Status: Expiring today 1/2/2025 6:56:10 p.m.  
 
-![Eine typische E-Mail](/posts/2025-01-05_password_expired/notice_1.webp)
+![Eine typische E-Mail](/posts/2025-01-06_password_expired/notice_1.webp)
 
 ## Was passiert, wenn wir den Link klicken?
 
@@ -31,15 +33,15 @@ Wir werfen die virtuelle Maschine an und schauen mal, was passiert. Im Link stec
 
 Tragen wir eine andere E-Mail-Adresse ein, wird dieser übernommen. Es erscheint ein Login-Formular, sogar an das Logo haben die Phisher gedacht. Geben wir eine Firmenadresse an, wird das Logo angezeigt.
 
-![Aufbau des Links](/posts/2025-01-05_password_expired/email_scam_1.webp)
+![Aufbau des Links](/posts/2025-01-06_password_expired/email_scam_1.webp)
 
 Tragen wir Daten ein und schicken das Formular ab, werden die Daten an einen anderen Server übermittelt. Vermutlich handelt es sich hierbei um einen gehackten Server, auf dem die Phisher das Script abgelegt haben. Dieses sammelt die Daten und leitet diese an die Scammer weiter.
 
-![Datenübermittel an externen Server](/posts/2025-01-05_password_expired/email_scam_2.webp)
+![Datenübermittel an externen Server](/posts/2025-01-06_password_expired/email_scam_2.webp)
 
 E-Mail-Adresse und Passwort werden übermittelt. In unserem Fall, Zufallsdaten.
 
-![Übermittelte Daten](/posts/2025-01-05_password_expired/email_scam_3.webp)
+![Übermittelte Daten](/posts/2025-01-06_password_expired/email_scam_3.webp)
 
 
 ## Was sind die Folgen? 
@@ -64,11 +66,11 @@ Natürlich kontaktieren wir die Webseitenbesucher, die ihre WordPress-Installati
 
 Hier sind weitere Beispiele. Mal sehen wir wichtige Nachrichten, welche auf uns warten.
 
-![](/posts/2025-01-05_password_expired/notice_2.webp)
+![](/posts/2025-01-06_password_expired/notice_2.webp)
 
 Oder nur der Hinweis in etwas anderer Form.
 
-![](/posts/2025-01-05_password_expired/notice_3.png)
+![](/posts/2025-01-06_password_expired/notice_3.png)
 
 ## Fazit
 

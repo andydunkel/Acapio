@@ -10,7 +10,9 @@ tags:
 categories:
   - "Scam"
 thumbnail: "criminal.webp"
-url: "posts/2026-08-24-mrs-joan"
+url: "posts/2026-08-25-mrs-joan"
+aliases:
+  - "/posts/2026-08-24-mrs-joan/"
 summary: "Wenn eine unbekannte Witwe dir plötzlich Millionen vermachen will, riecht das streng nach Vorschussbetrug. Wir werfen einen Blick auf das hochdramatische Schicksal der Mrs. Joan Campbell."
 ---
 

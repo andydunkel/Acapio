@@ -10,7 +10,9 @@ tags:
 categories:
   - "Scam"
 thumbnail: "lawyer.webp"
-url: "posts/2025-01-23-oliver-liam"
+url: "posts/2026-01-23-oliver-liam"
+aliases:
+  - "/posts/2025-01-23-oliver-liam/"
 summary: "**Millionenerbe oder Vollrausch? 🥴💸**
 Gestern Abend nach dem dritten Krügerl kam die Mail: Ein fettes Erbe wartet auf mich! Aber selbst mit 1,5 Promille riecht der Basti diesen Braten. 🍖"
 
@@ -140,7 +142,7 @@ Oida, der Olli! Nicht nur Anwalt, sondern auch ein biologisches Wunder und ein G
 4. **Das Foto:**
 * Ein asiatischer Herr für einen Namen, der britischer nicht klingen könnte ("Oliver Roberts Liam"). Nicht unmöglich, aber im Kontext von Scammern meistens ein Zeichen für geklaute Bilder.
 
-![](/posts/2025-01-23-oliver-liam/drivers.webp)
+![](/posts/2026-01-23-oliver-liam/drivers.webp)
 
 ---
 

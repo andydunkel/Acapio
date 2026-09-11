@@ -10,7 +10,9 @@ tags:
 categories:
   - "Scam"
 thumbnail: "lawyer.webp"
-url: "posts/2025-01-03_springfieldlaws"
+url: "posts/2026-01-03_springfieldlaws"
+aliases:
+  - "/posts/2025-01-03_springfieldlaws/"
 summary: "Gerade war es noch die Bank, jetzt verwaltet plötzlich ein Barrister aus den USA mein Geld. Was seriös klingt, entpuppt sich schnell als alter Scam mit neuem Anstrich."
 
 ---
@@ -165,7 +167,7 @@ Ob sich die US- und UK-Regierung nun beim nächsten Dackelclub-Treffen meldet? �
 > Kassenwart  
 > (Dackelclub Wanne-Eickel)  
 
-![Sitzung beim Dackelclub](/posts/2025-01-03_springfieldlaws/dackel.webp)
+![Sitzung beim Dackelclub](/posts/2026-01-03_springfieldlaws/dackel.webp)
 
 
 ## Der Nachweis existiert, man darf ihn nur nicht sehen 📄✨
@@ -307,7 +309,7 @@ Natürlich füllen wir das Formular aus, ein kleines Script füllt das Formular 
 
 Wir fragen natürlich nach!
 
-![](/posts/2025-01-03_springfieldlaws/form.webp)
+![](/posts/2026-01-03_springfieldlaws/form.webp)
 
 ---
 

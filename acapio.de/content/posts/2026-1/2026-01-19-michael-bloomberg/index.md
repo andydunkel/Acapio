@@ -10,7 +10,9 @@ tags:
 categories:
   - "Scam"
 thumbnail: "money.webp"
-url: "posts/2025-01-19-springfieldlaws"
+url: "posts/2026-01-19-michael-bloomberg"
+aliases:
+  - "/posts/2025-01-19-springfieldlaws/"
 summary: "Was passiert, wenn einer der reichsten Männer der Welt ausgerechnet Hugo, Kassenwart des Dackel-Clubs und unangefochtene BMW-Legende von Wanne-Eickel, per E-Mail reich machen will?"
 
 ---
@@ -62,4 +64,4 @@ Das bedeutet für uns: Wir müssen zurück ans Reißbrett. Für den nächsten Sc
 
 Hugo geht erst mal wieder in die Werkstatt schmollen. 🔧👋
 
-![Kein Reichtum für Hugo, aber Bier für den Dackel.](/posts/2025-01-19-springfieldlaws/hugo.webp)
+![Kein Reichtum für Hugo, aber Bier für den Dackel.](/posts/2026-01-19-michael-bloomberg/hugo.webp)

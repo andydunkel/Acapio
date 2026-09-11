@@ -216,4 +216,4 @@ Warum WhatsApp so wichtig war, lässt sich nur vermuten: Dort können Betrüger 
 **Siehe auch:**
 - [Scammer schicken echte Kreditkarten](/posts/2025-05-23_echte-kreditkarten/)
 - [Die Wunder-ATM-Karte: Geld abheben wie ein Phantom](/posts/2025-11-02_atm-karte/)
-- [Blanko-Bankkarten und Märchenprinzen](/posts/2025-02-01-cyberkarte/)
+- [Blanko-Bankkarten und Märchenprinzen](/posts/2026-02-01-cyberkarte/)

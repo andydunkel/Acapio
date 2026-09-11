@@ -10,7 +10,9 @@ tags:
 categories:
   - "Scam"
 thumbnail: "hugo.webp"
-url: "posts/2025-01-09-kristine-wellenstein"
+url: "posts/2026-01-13-kristine-wellenstein"
+aliases:
+  - "/posts/2025-01-09-kristine-wellenstein/"
 summary: "**Hömma, hat hier jemand „Kohle“ gesagt?** 💸 Hugo, stolzer BMW-Schrauber aus Wanne-Eickel und Dackel-Dompteur aus Leidenschaft, hat die E-Mail seines Lebens bekommen: Die mysteriöse **Kristine Wellenstein** will ihm eine Privatspende rüberschieben! 😱✨"
 
 ---

@@ -10,7 +10,9 @@ tags:
 categories:
   - "Scam"
 thumbnail: "badger_surprise.webp"
-url: "posts/2025-02-03-yolanda-berg"
+url: "posts/2026-02-03-yolanda-berg"
+aliases:
+  - "/posts/2025-02-03-yolanda-berg/"
 summary: "Millionensegen für den Basti? 🍺💰 Zwischen Staplerfahrt und Feierabendbier wollte eine gewisse Yolanda unserem Sebbe 2,8 Millionen Dollar andrehen, warum er den Schmäh schneller gerochen hat als der Rudi sein Hundefutter, liest du hier! 🐩🇦🇹"
 
 ---

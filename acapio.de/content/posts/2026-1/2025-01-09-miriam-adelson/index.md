@@ -10,7 +10,9 @@ tags:
 categories:
   - "Scam"
 thumbnail: "casino.webp"
-url: "posts/2025-01-09-miram-adelson"
+url: "posts/2026-01-09-miriam-adelson"
+aliases:
+  - "/posts/2025-01-09-miram-adelson/"
 summary: "Wat is denn hier los? Da guckt man einmal ins Postfach und plötzlich will einem die milliardenschwere Casino-Lady Miriam Adelson 3.000.000,00 Euro schenken! Einfach so, aus Liebe zum Nächsten (oder zu Wanne-Eickel?)"
 
 ---
@@ -183,7 +185,7 @@ Hugo hat sich die Bank-Webseite mal genauer angeschaut. Ergebnis: Das Ding ist e
 
 Einfach den Namen oben links austauschen, ein paar Stockfotos von grinsenden Beratern dazu, fertig ist die Fake-Bank. Klickt man tiefer in die Menüs, landet man im Nichts. Wer hier seine Daten eingibt, glaubt auch, dass ein Manta mit Spoilern fliegen kann. 🏎️💨
 
-![](/posts/2025-01-09-miram-adelson/bank.webp)
+![](/posts/2026-01-09-miriam-adelson/bank.webp)
 
 ### Stecker ziehen beim Hoster! 🔌💥
 
@@ -199,7 +201,7 @@ Leute, das ging fix! Der Hoster hat innerhalb von 12 Stunden reagiert und die We
 
 Blöd gelaufen für die Scammer: Damit geht natürlich auch unsere E-Mail an die „Bank“ ins Leere. Aber keine Sorge, Hugo wäre nicht Hugo, wenn er das der guten Miriam nicht brühwarm unter die Nase reiben würde. „Hömma Miriam, deine Bank hat wohl die Stromrechnung nicht bezahlt...“ 😂
 
-![](/posts/2025-01-09-miram-adelson/bank_dicht.webp)
+![](/posts/2026-01-09-miriam-adelson/bank_dicht.webp)
 
 
 ### **Hugos Abschluss-Fazit: Schicht im Schacht!** 🍻🏁

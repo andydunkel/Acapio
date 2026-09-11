@@ -10,7 +10,9 @@ tags:
 categories:
   - "Scam"
 thumbnail: "fawn.webp"
-url: "posts/2025-02-23_carl-icahn"
+url: "posts/2025-02-22_carl-icahn"
+aliases:
+  - "/posts/2025-02-23_carl-icahn/"
 summary: "Ein echter Wall-Street-Milliardär schreibt mir persönlich und will mir 1.000.000 Dollar überweisen, klingt zu schön, um wahr zu sein? Spoiler: Ist es auch!"
 ---
 

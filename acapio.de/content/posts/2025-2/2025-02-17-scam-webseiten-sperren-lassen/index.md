@@ -28,7 +28,7 @@ Betrüger, die es ernst meinen, setzen nicht einfach nur auf gefälschte E-Mails
 
 Während professionellere Betrüger in eigene Domains investieren, nutzen viele Phisher **kostenlose Hosting-Dienste**, um ihre Seiten schnell und ohne Kosten aufzusetzen. Dienste wie **InfinityFree, 000webhost oder kostenlose Subdomains** von Anbietern wie Freenom werden oft für Phishing-Zwecke missbraucht. Der Vorteil für die Betrüger: Sie können massenhaft neue Seiten erstellen, wenn eine gesperrt wird. Die geringen Einstiegshürden machen es ihnen leicht, ihre betrügerischen Seiten immer wieder neu aufzubauen.
 
-![Phishing auf kostenlosem Webspace](/posts/2025-01-05_password_expired/email_scam_1.webp)
+![Phishing auf kostenlosem Webspace](/posts/2025-01-06_password_expired/email_scam_1.webp)
 
 ## Werden die Seiten tatsächlich offline genommen?
 

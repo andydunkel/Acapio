@@ -10,7 +10,9 @@ tags:
 categories:
   - "Scam"
 thumbnail: "lottery.webp"
-url: "posts/2025-01-24-manuel-franco"
+url: "posts/2026-01-24-manuel-franco"
+aliases:
+  - "/posts/2025-01-24-manuel-franco/"
 summary: "Oida, ich bin reich! (Scherzal) 💸 Ein gewisser „Manuel“ will mir 1,8 Mio. € schenken. Via Outlook-Adresse. Ja sicher, und mein Pudel Rudi lernt morgen fliegen!"
 
 ---

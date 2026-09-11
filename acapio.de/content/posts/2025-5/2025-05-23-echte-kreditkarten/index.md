@@ -42,5 +42,5 @@ Die "echte" Kreditkarte ist natürlich ein genialer Schachzug, er ist überzeuge
 
 **Siehe auch:**
 - [Die Wunder-ATM-Karte: Geld abheben wie ein Phantom](/posts/2025-11-02_atm-karte/)
-- [Blanko-Bankkarten und Märchenprinzen](/posts/2025-02-01-cyberkarte/)
+- [Blanko-Bankkarten und Märchenprinzen](/posts/2026-02-01-cyberkarte/)
 - [1,8 Millionen Dollar gewonnen – die Kreditkarte kommt gleich mit](/posts/2026-07-21-kahraman/)

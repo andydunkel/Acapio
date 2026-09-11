@@ -69,6 +69,6 @@ Was dann folgt, ist kein KI-generiertes Märchen, sondern purer Stress. Während
 ---
 
 **Siehe auch:**
-- [Apple Support Phishing: Wichtige Mitteilung zu Ihrem Apple Konto](/posts/2025-01-26-apple-support/)
+- [Apple Support Phishing: Wichtige Mitteilung zu Ihrem Apple Konto](/posts/2026-01-26-apple-support/)
 - [400.000 Dollar von Microsoft? So funktioniert der Tech-Scam](/posts/2025-12-06-microsoft/)
 - [Sundar Pichai schreibt persönlich: Google-Scam entlarvt](/posts/2025-08-28_google-nutzung/)

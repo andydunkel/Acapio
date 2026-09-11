@@ -81,6 +81,6 @@ Hugo bleibt also, was er ist, nicht reich, aber wachsam. Und der Spam-Ordner bek
 ---
 
 **Siehe auch:**
-- [Apple Support Phishing: Wichtige Mitteilung zu Ihrem Apple Konto](/posts/2025-01-26-apple-support/)
+- [Apple Support Phishing: Wichtige Mitteilung zu Ihrem Apple Konto](/posts/2026-01-26-apple-support/)
 - [Sundar Pichai schreibt persönlich: Google-Scam entlarvt](/posts/2025-08-28_google-nutzung/)
 - [ChatGPT Plus Update – gefährliches Phishing im KI-Gewand](/posts/2026-01-08-chatgpt-phishing/)

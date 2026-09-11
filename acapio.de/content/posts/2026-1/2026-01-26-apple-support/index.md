@@ -10,14 +10,16 @@ tags:
 categories:
   - "Scam"
 thumbnail: "apple.webp"
-url: "posts/2025-01-26-apple-support"
+url: "posts/2026-01-26-apple-support"
+aliases:
+  - "/posts/2025-01-26-apple-support/"
 summary: "Es ist immer wieder faszinierend, mit welcher technischen Präzision Phishing-Kampagnen scheitern. Man erhält eine E-Mail mit dem dramatischen Betreff **„Wichtige Mitteilung zu Ihrem Apple Konto“**, das Corporate Design ist leidlich kopiert, das Logo sitzt an der richtigen Stelle. Doch schon in der ersten Zeile bricht das Kartenhaus zusammen.“"
 
 ---
 
 Es ist immer wieder faszinierend, mit welcher technischen Präzision Phishing-Kampagnen scheitern. Man erhält eine E-Mail mit dem dramatischen Betreff **„Wichtige Mitteilung zu Ihrem Apple Konto“**, das Corporate Design ist leidlich kopiert, das Logo sitzt an der richtigen Stelle. Doch schon in der ersten Zeile bricht das Kartenhaus zusammen.
 
-![Die vermeintliche E-Mail von Apple](/posts/2025-01-26-apple-support/applemail.webp)
+![Die vermeintliche E-Mail von Apple](/posts/2026-01-26-apple-support/applemail.webp)
 
 > Apple Support  
 > Zahlung fehlgeschlagen: Aktion für Ihre Apple ID erforderlich  
@@ -47,7 +49,7 @@ Stattdessen führt uns die Reise zu:
 
 > **[http://3n5v7rpp52qzf3a.s3-website-us-east-1.amazonaws.com](http://3n5v7rpp52qzf3a.s3-website-us-east-1.amazonaws.com)**
 
-![Die URL im Browser, immer prüfen](/posts/2025-01-26-apple-support/url.webp)
+![Die URL im Browser, immer prüfen](/posts/2026-01-26-apple-support/url.webp)
 
 Lassen Sie uns das kurz genießen.
 

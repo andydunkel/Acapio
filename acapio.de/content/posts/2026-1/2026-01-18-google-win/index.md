@@ -10,7 +10,9 @@ tags:
 categories:
   - "Scam"
 thumbnail: "fawn.webp"
-url: "posts/2025-01-18-google-win"
+url: "posts/2026-01-18-google-win"
+aliases:
+  - "/posts/2025-01-18-google-win/"
 summary: "**Was macht ein echter Wanne-Eickeler mit 950.000 Pfund?** Richtig: Den 3er tieferlegen und 'ne Runde für den Dackel-Club schmeißen! 🍺 Unser Hugo hat angeblich im großen „Google-Lotto“ gewonnen. 🙄 Statt zu löschen, drehen wir den Spieß um: Wir antworten den Betrügern und lassen Hugo von der Leine. Popcorn bereitstellen, hier wird zurückgescamt! 🍿🐕"
 
 ---
@@ -58,7 +60,7 @@ Wer hinter dieser Adresse ein digitales Imperium erwartet, wird enttäuscht: Die
 
 🔧 Die Domain dient rein als Blendwerk für die E-Mail-Adresse, damit die Masche seriös wirkt.
 
-![](/posts/2025-01-18-google-win/domain.webp)
+![](/posts/2026-01-18-google-win/domain.webp)
 
 ## Hugo antwortet
 
