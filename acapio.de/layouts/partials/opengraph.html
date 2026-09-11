@@ -1,0 +1,135 @@
+{{- $summary := .Summary | plainify | htmlUnescape | truncate 160 -}}
+{{- $s := .Site.Params -}}
+{{- $p := .Params -}}
+
+{{- $relpath := "" -}}
+{{- if or $s.usePageBundles $p.usePageBundles -}}
+  {{- $relpath = .Page.RelPermalink -}}
+{{- end -}}
+{{- if eq $p.usePageBundles false -}}
+  {{- $relpath = "" -}}
+{{- end -}}
+
+{{- with $p.description -}}
+  {{- $summary = . | plainify | htmlUnescape | truncate 160 -}}
+{{- end -}}
+{{- if .IsHome -}}
+  {{- $summary = $s.description -}}
+  {{- with $p.description -}}
+    {{- $summary = . | plainify | htmlUnescape -}}
+  {{- end -}}
+{{- end -}}
+
+{{- $site := .Site.Title -}}
+{{- $title := .Title -}}
+{{- $permalink := .Permalink -}}
+{{- $logo := absURL $s.logo -}}
+{{- $authorName := $s.author.name | default "Andy" -}}
+{{- with $p.author -}}
+  {{- $authorName = . -}}
+{{- end -}}
+
+{{- $imagePath := $s.fallBackOgImage | default $s.logo -}}
+{{- with $p.featureImage -}}
+  {{- $imagePath = add $relpath . -}}
+{{- end -}}
+{{- with $p.thumbnail -}}
+  {{- $imagePath = add $relpath . -}}
+{{- end -}}
+{{- with $p.shareImage -}}
+  {{- $imagePath = add $relpath . -}}
+{{- end -}}
+{{- $image := absURL $imagePath -}}
+
+<meta property="og:locale" content="{{ .Lang }}">
+{{- range .Translations }}
+<meta property="og:locale:alternate" content="{{ .Lang }}">
+{{- end }}
+{{- if .IsHome }}
+<meta property="og:type" content="website">
+{{- else }}
+<meta property="og:type" content="article">
+{{- end }}
+<meta name="description" content="{{ $summary }}">
+<meta name="twitter:card" content="{{ if $s.largeTwitterCard }}summary_large_image{{ else }}summary{{ end }}">
+<meta name="twitter:creator" content="{{ $s.twitter }}">
+<meta name="twitter:title" content="{{ .Title }}">
+<meta name="twitter:image" content="{{ $image }}">
+<meta property="og:url" content="{{ $permalink }}">
+<meta property="og:title" content="{{ $title }}">
+<meta property="og:description" content="{{ $summary }}">
+<meta property="og:image" content="{{ $image }}">
+
+{{- $mergedKeywords := slice -}}
+{{- with $s.keywords -}}
+  {{- range . -}}
+    {{- $mergedKeywords = $mergedKeywords | append . -}}
+  {{- end -}}
+{{- end -}}
+{{- with $p.keywords -}}
+  {{- range . -}}
+    {{- $mergedKeywords = $mergedKeywords | append . -}}
+  {{- end -}}
+{{- end -}}
+{{- with $s.tags -}}
+  {{- range . -}}
+    {{- $mergedKeywords = $mergedKeywords | append . -}}
+  {{- end -}}
+{{- end -}}
+{{- with $p.tags -}}
+  {{- range . -}}
+    {{- $mergedKeywords = $mergedKeywords | append . -}}
+  {{- end -}}
+{{- end -}}
+{{- $mergedKeywords = uniq $mergedKeywords -}}
+{{- $mergedKeywordsString := delimit $mergedKeywords "," -}}
+{{- with $mergedKeywordsString }}
+<meta name="keywords" content="{{ . }}">
+{{- end }}
+
+{{- if and .IsPage (eq .Section $s.blogDir) -}}
+  {{- $categories := slice -}}
+  {{- with $s.categories -}}
+    {{- range . -}}
+      {{- $categories = $categories | append . -}}
+    {{- end -}}
+  {{- end -}}
+  {{- with $p.categories -}}
+    {{- range . -}}
+      {{- $categories = $categories | append . -}}
+    {{- end -}}
+  {{- end -}}
+  {{- $categories = uniq $categories -}}
+
+  {{- $author := dict
+    "@type" "Person"
+    "name" $authorName
+    "url" ("about/" | absURL)
+  -}}
+  {{- $publisher := dict
+    "@type" "Organization"
+    "name" $site
+    "logo" (dict "@type" "ImageObject" "url" $logo)
+  -}}
+  {{- $schema := dict
+    "@context" "https://schema.org"
+    "@type" "BlogPosting"
+    "mainEntityOfPage" (dict "@type" "WebPage" "@id" $permalink)
+    "headline" $title
+    "description" $summary
+    "url" $permalink
+    "datePublished" (.Date.Format "2006-01-02T15:04:05Z07:00")
+    "dateModified" (.Lastmod.Format "2006-01-02T15:04:05Z07:00")
+    "author" $author
+    "publisher" $publisher
+    "image" $image
+    "inLanguage" .Language.Locale
+  -}}
+  {{- with $mergedKeywordsString -}}
+    {{- $schema = merge $schema (dict "keywords" .) -}}
+  {{- end -}}
+  {{- with $categories -}}
+    {{- $schema = merge $schema (dict "articleSection" .) -}}
+  {{- end }}
+<script type="application/ld+json">{{ $schema | jsonify | safeJS }}</script>
+{{- end -}}
