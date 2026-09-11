@@ -1,3 +1,5 @@
+ErrorDocument 404 /404.html
+
 <IfModule mod_headers.c>
     <FilesMatch "\.(css|js|png|jpg|jpeg|gif|woff|woff2|ttf|svg|eot|otf|webp)$">
         Header set Access-Control-Allow-Origin "*"
