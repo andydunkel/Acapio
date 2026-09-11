@@ -84,3 +84,9 @@ Wenn das Finanzamt dir Geld geben will, ganz ohne Nachfrage, dann ist das höchs
 1. **Nicht klicken.** Nicht mal aus Versehen.
 2. **Nicht antworten.** Auch wenn du höflich bist, diese Menschen verdienen kein „Sehr geehrter Herr Abzocker“.
 3. **Löschen.** Und dann einen Kaffee/Bier trinken. Du hast’s dir verdient.
+
+## Fazit
+
+Auch dieser Kontakt läuft ohne menschlichen Gesprächspartner. Die Phisher locken mit einer Steuerrückzahlung, fragen zunächst persönliche Angaben und danach Kreditkartendaten ab. Ein Validierungsskript sortiert erfundene Eingaben offenbar direkt aus – die Täter wollen keine langen Geschichten, sondern möglichst schnell verwertbare Daten.
+
+Der Angriff endet also nicht durch eine Diskussion, sondern nach dem automatischen Formular. Wer echte Daten eingibt, hat den Scammern ihr Ziel bereits geliefert; wer Unsinn einträgt, bekommt lediglich eine Fehlermeldung. Ein echtes Finanzamt kennt Name, Steuernummer und Bankweg – es braucht ganz sicher keinen CVC-Code, um Geld zurückzuzahlen. Der einzige verlässliche Bescheid lautet hier: löschen. ☕💸

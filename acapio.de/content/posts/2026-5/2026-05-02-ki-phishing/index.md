@@ -44,3 +44,9 @@ Kurz innehalten und fragen: Hat mich die Bank mit vollem Namen angeschrieben? Gi
 
 **Von daher: immer wachsam bleiben.** Die Mails werden überzeugender. Und die KI baut auf Anfrage auch Demonstrationsmails für Blogartikel. Ohne mit der Wimper zu zucken.
 
+## Fazit
+
+Dieser Beitrag verfolgt keinen einzelnen Kontakt bis zum Abbruch, sondern zeigt eine Veränderung im Verhalten der Scammer. Mit KI können sie überzeugende Sprache, saubere Gestaltung und passende Sicherheitshinweise in kürzester Zeit erzeugen. Die alte Hoffnung, Phishing immer an schlechtem Deutsch und windigem Layout zu erkennen, wird damit zunehmend unzuverlässig.
+
+Entscheidend bleibt deshalb der Ablauf: unerwartete Nachricht, künstliche Deadline und ein Link oder QR-Code, über den man sich anmelden soll. Ob die Mail von Hand geschrieben oder maschinell poliert wurde, ist am Ende zweitrangig. Die KI kann den Köder hübscher machen – auf die echte Bankdomain umziehen kann sie ihn trotzdem nicht. 🤖🎣
+

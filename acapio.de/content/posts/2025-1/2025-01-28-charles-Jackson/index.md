@@ -221,5 +221,11 @@ Das kann Hugo natürlich so nicht nachvollziehen:
 > Ich warte auf eine seriösere Lösung, ansonsten werde ich wohl doch die Volksbank Wanne-Eickel beauftragen, das Ganze zu prüfen.  
 >   
 > Beste Grüße,  
-> Hugo aus Wanne-Eickel  
-> Kontoinhaber, BMW-Fahrer und Apple-Karten-Skeptiker  
+> Hugo aus Wanne-Eickel
+> Kontoinhaber, BMW-Fahrer und Apple-Karten-Skeptiker
+
+## Fazit
+
+Dieser Kontakt zieht sich erstaunlich lange hin. Charles und seine angebliche FIN-World Bank reagieren zunächst ausweichend, verlangen 700 Euro für Konto oder ATM-Karte und tauchen selbst Monate später noch einmal mit einer deutschen IBAN auf. Das zeigt, dass einmal als zahlungsbereit eingestufte Kontakte durchaus im System bleiben – Hoffnung auf Geld hat bei Scammern offenbar ein sehr langes Haltbarkeitsdatum.
+
+Am Ende kippt die Bank nach Hugos Hinweis auf den nicht passenden Kontonamen sofort von Überweisung auf Apple-Guthabenkarten um. Statt die Unstimmigkeit zu erklären, soll plötzlich ein schwer rückholbarer Gutscheincode her. Nach Hugos Forderung nach einer seriösen Lösung ist keine weitere Antwort dokumentiert. Der Abbruch kommt damit sehr spät und wahrscheinlich deshalb, weil aus dem vermeintlich willigen ATM-Kunden endgültig ein unbequemer Prüfer geworden ist. 🍎🏦

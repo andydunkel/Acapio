@@ -136,3 +136,9 @@ Aber natürlich lassen wir uns nicht lumpen und setzen trotzdem eine digitale Un
 
 **Mit dem Vertrag geht es nun zur Bank - operations@uk-ybonline.net.**
 
+## Fazit
+
+Jonathan arbeitet langsam, aber hartnäckig. Nach anfänglichen Pausen meldet er sich sogar selbst wieder und fragt, ob seine frisch personalisierten Dokumente angekommen sind. Als Anne angeblich keinen Drucker zur Hand hat, wird die zuvor unverzichtbare Unterschrift plötzlich flexibel. Hauptsache, der Antrag erreicht die falsche Yorkshire-Bank-Adresse und der Prozess bleibt in Bewegung.
+
+Am Ende des Artikels ist der Kontakt nicht abgebrochen, sondern wird gerade an die vermeintliche Bank übergeben. Die spätere Gebührenfalle ist damit vorbereitet, aber noch nicht dokumentiert. Auffällig ist, wie viel Papier produziert wird, um eine einfache Wahrheit zu verdecken: Ein echtes Erbe müsste nicht von einer fremden Person mit einer Word-2010-Todesurkunde und einer verdächtigen Domain beantragt werden. 🗂️🏦
+

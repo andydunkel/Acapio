@@ -116,5 +116,11 @@ Mit einer Mischung aus Naivität, dreistem Humor und ein paar Bier intus bringt 
 >   
 > I am so excited about this deal, my hands are shaking (or maybe that’s just from the five beers I had). Please send me all the details quickly, so I can start preparing my "rich man" lifestyle.    
 >   
-> Best regards,    
-> Hugo from Wanne-Eickel 🚗🍻💰    
+> Best regards,
+> Hugo from Wanne-Eickel 🚗🍻💰
+
+## Fazit
+
+Der Kontakt bleibt in diesem Artikel noch in einer frühen Phase. Bright Maphosa reagiert auf Hugos erstes Interesse mit einer langen Standardgeschichte, fordert Geheimhaltung und versucht ihn als angeblichen Verwandten eines Opfers von Flug 302 einzusetzen. Besonders perfide ist, dass eine echte Katastrophe als glaubwürdige Kulisse für ein frei erfundenes Millionenvermögen missbraucht wird.
+
+Nach Hugos Vorschlag einer Bargeldübergabe im Koffer und seinen Fragen zum Erbnachweis ist keine weitere Antwort dokumentiert. Ob der Scammer den Braten gerochen hat oder die nächste Textvorlage noch nicht bereitlag, bleibt offen. Bis zu Gebühren und Bankkonten kommt er jedenfalls nicht – die 15 Millionen scheitern vorerst an fünf Bier, einer Garage und zu vielen vernünftigen Fragen. ✈️🍻

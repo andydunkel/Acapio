@@ -92,7 +92,13 @@ Höflich, aber mit der Präzision eines erfahrenen Juristen, hinterfragt Ahmet K
 >   
 > Gestatten Sie mir daher die Höflichkeit, vor einer Entscheidung über Ihre großherzige Offerte einige wesentliche Klarstellungen zu erbitten. Ich bin mir gewiss, dass jemand Ihres akademischen Ranges und Standes für meine Skepsis Verständnis aufbringen wird.    
 >   
-> In gespannter Erwartung Ihrer geschätzten Ausführungen verbleibe ich    
->   
-> Ahmet  
+> In gespannter Erwartung Ihrer geschätzten Ausführungen verbleibe ich
+>
+> Ahmet
+
+## Fazit
+
+Der Kontakt endet hier noch am Anfang der geplanten Masche. Die angebliche Professorin beantwortet Ahmets erste Nachricht mit maximaler Tragik, einer Goldmine, mehreren Todesfällen und einem Erbe von 1,5 Millionen Euro. Noch bevor ein Anwalt oder eine Bank auftaucht, sollen Name, Adresse, Telefonnummer, Alter und Beruf geliefert werden.
+
+Ahmet reagiert jedoch nicht mit Daten, sondern mit Fragen zu Bank, Notar, Herkunft und rechtlicher Grundlage. Danach ist keine weitere Antwort dokumentiert. Wahrscheinlich war der akademische Prüfungsbogen für eine Standard-Scamvorlage schlicht zu anspruchsvoll. Professorin Emma verteilt angeblich Millionen, scheitert aber schon am mündlichen Teil der Erbschaftsprüfung. 🎓
 

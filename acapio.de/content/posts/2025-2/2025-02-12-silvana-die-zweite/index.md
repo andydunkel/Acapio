@@ -251,8 +251,14 @@ Wir haken deswegen gleich nochmal nach. Schon doof, wenn jede Webseite von denen
 >   
 > Ich bin bereit, den Vorgang fortzusetzen, sobald diese Punkte geklärt sind. Bitte lassen Sie mich wissen, wie wir weiter verfahren können.    
 >   
-> Mit freundlichen Grüßen,    
-> Ahmet  
+> Mit freundlichen Grüßen,
+> Ahmet
+
+## Fazit
+
+Hier endet der Kontakt erst sehr spät und auch nur vorläufig. Die Scammer verlieren nacheinander mehrere Versionen ihrer Gold Crest Bank, bauen nach jeder Sperrung eine neue Domain und versuchen schließlich, die gesamte Kommunikation zu WhatsApp zu verlagern. Von einem freiwilligen Rückzug kann keine Rede sein – ihre technische Kulisse fällt nur schneller auseinander, als sie neue Fassaden hochziehen können.
+
+Auf konkrete Fragen zur Seriosität reagieren sie nicht mit Belegen, sondern mit emotionalem Druck: Ahmet solle jetzt „sein Bestes geben“, weil angeblich bereits so viel investiert worden sei. Nach seiner erneuten Forderung nach einer überprüfbaren Bank ist keine weitere Antwort dokumentiert. Drei abgeschaltete Webseiten später scheint selbst Silvanas Banknetzwerk eine Filialdichte von exakt null erreicht zu haben. 🏦🚫
 
 
 

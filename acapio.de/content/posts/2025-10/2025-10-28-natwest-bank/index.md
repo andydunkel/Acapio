@@ -100,3 +100,9 @@ Er möchte wissen, **warum ausgerechnet er** jetzt 10 Millionen Dollar bekommen 
 
 Seine Mail ist kurz, ehrlich und typisch Hugo: kein Filter, kein Englischunterricht, aber jede Menge Ruhrpott-Charme.
 Wenn das die Briten nicht überzeugt, weiß ich auch nicht.
+
+## Fazit
+
+Der Kontakt endet im dokumentierten Verlauf direkt nach Hugos erster Antwort. Die Lockmail versucht vorher mit NatWest, Weltbank, UNO und britischer Regierung möglichst viele Autoritäten auf einmal aufzufahren. Gleichzeitig verlangt sie eine zweite private E-Mail-Adresse und fordert den Empfänger auf, mit niemand anderem mehr zu sprechen – Isolation gehört hier ganz offensichtlich zum Geschäftsmodell.
+
+Ob die Täter Hugos Rückfrage noch beantworten, ist nicht festgehalten. Bis zu Datenformular, Fake-Konto oder Gebühr kommt der Fall jedenfalls nicht. Der frühe Stillstand passt dazu, dass die Scammer nur leicht steuerbare Kontakte weiterverfolgen. Zehn Millionen Dollar sollten angeblich unbemerkt durch das Bankensystem wandern, aber ein Grill und ein kleiner Bierkühlschrank sorgen offenbar schon für Compliance-Probleme. 🍺🏦

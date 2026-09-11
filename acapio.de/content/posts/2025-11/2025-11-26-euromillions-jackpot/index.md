@@ -330,3 +330,9 @@ Wer blockiert, wollte nur eins, **vorher kassieren**. 💸🤡
 Game over für den Euro-Millions-Traum aus dem Spam-Ordner.
 
 ![](/posts/2025-11-26-euromillions-jackpot/mailblocked.webp)
+
+## Fazit
+
+Der Kontakt endet hier erst sehr spät. Die Scammer führen Hugo vom angeblichen Jackpot über Urkunde und Datenerfassung bis zur Fake-Bank mit kostenpflichtigem Offshore-Konto. Als er statt Geld und Ausweis einen offiziellen Nachweis verlangt, kommt keine fachliche Antwort mehr – die Nachricht wird vom Mailsystem blockiert und erreicht die angebliche Bank gar nicht mehr.
+
+Der Abbruch ist damit technisch erzwungen, nachdem die Infrastruktur vermutlich bereits aufgefallen oder gesperrt worden ist. Er passt dennoch perfekt zum Verhalten der Täter: Solange Hugo den vorgesehenen Schritten folgt, gibt es Formulare und Dringlichkeit; sobald Beweise gefragt sind, bleibt nur eine tote Mailroute. Der Gewinn schafft es nie aus dem Spamordner, aber wenigstens arbeitet der Spamfilter am Ende zuverlässiger als die Hitchin Investment Bank. 🚫🏦

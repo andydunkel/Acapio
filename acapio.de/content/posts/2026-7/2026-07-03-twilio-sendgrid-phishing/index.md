@@ -46,3 +46,9 @@ Gibt man seine Zugangsdaten auf dieser präparierten Seite ein, passiert Folgend
 * **Absenderadresse prüfen:** Im vorliegenden Fall stammt die E-Mail von einer völlig unbeteiligten Adresse (`messaging-service@sisterhoodwomentravel.com.au`). Twilio verschickt Systembenachrichtigungen niemals über fremde Reise-Websites.
 * **URL-Check vor dem Login:** Vor der Eingabe von Passwörtern immer die Domain in der Adresszeile prüfen.
 * **2FA aktivieren:** Eine aktivierte Zwei-Faktor-Authentifizierung (2FA) verhindert in den meisten Fällen die Übernahme des Kontos, selbst wenn das Passwort in die falschen Hände geraten ist.
+
+## Fazit
+
+Bei diesem Phishing gibt es ebenfalls keinen persönlichen Kontakt. Die Täter zielen auf Entwickler und Administratoren, erzeugen mit einem angeblichen JSON-Fehler technischen Zeitdruck und kopieren anschließend die SendGrid-Anmeldemaske. Nach der Eingabe werden die Zugangsdaten automatisiert abgegriffen; für die Angreifer beginnt die eigentliche Arbeit erst mit dem übernommenen Konto.
+
+Das Verhalten ist auf Geschwindigkeit und Folgeschäden ausgelegt: Ein gekaperter SendGrid-Zugang kann sofort als glaubwürdige Spam-Schleuder dienen, während Domain-Reputation und Versandkosten beim Opfer hängen bleiben. Der kleine Unterschied zwischen `sendgrid.co` und `sendgrid.com` entscheidet hier über ein ganzes Mailkonto. Ein fehlender Buchstabe kann also deutlich teurer werden als ein fehlerhaftes JSON-Komma. 📧🚨

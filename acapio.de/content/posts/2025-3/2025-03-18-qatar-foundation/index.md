@@ -238,8 +238,14 @@ Statt unsere Zeit mit dem Ausfüllen eines Word-Dokuments von 2007 zu verschwend
 >   
 > Ich hoffe, das ist kein Problem. Ich freue mich auf Ihre Rückmeldung!  
 >   
-> Mit freundlichen Grüßen  
+> Mit freundlichen Grüßen
 > Hugo
+
+## Fazit
+
+Die Scammer reagieren zunächst schnell, stehlen den Namen der Qatar Foundation, reichen Hugo an einen angeblichen Zahlungsoffizier weiter und bestehen dann auffällig starr auf ihrem Formular. Darin sollen persönliche Daten, Bankverbindung und sogar der nächste Angehörige landen. Dass Hugo nur ein Smartphone besitzt, interessiert Dr. Sanchez wenig – dann müsse eben ein Copyshop oder eine Bibliothek her.
+
+Der dokumentierte Kontakt endet in der mittleren Phase nach Hugos zweitem Versuch, die Angaben einfach per E-Mail zu übermitteln. Eine spätere Gebührenforderung ist noch nicht erreicht. Die starre Formularpflicht deutet darauf hin, dass die Täter ihren vorbereiteten Ablauf nicht gern verlassen oder gezielt ein unterschriebenes Dokument einsammeln wollen. 995.000 Euro wären angeblich sofort verfügbar, scheitern aber vorerst an einem geschlossenen Copyshop und Hugos Knie. 🖨️🦵
 
 
 ## Ohne Formular keine Million, Bürokratie muss sein

@@ -208,8 +208,14 @@ Nachdem Nicolas ihm die hochseriösen Weltklasse-Dokumente geschickt hat, Todesu
 >   
 > Ich will ja mitmachen, aber ich will vorher wissen, ob das alles sauber ist und nicht so’n Ding wird, wo ich am Ende mehr Ärger als Geld krieg.  
 >   
-> Beste Grüße  
-> Hugo  
+> Beste Grüße
+> Hugo
+
+## Fazit
+
+Dieser Kontakt bricht bis zum Artikelende nicht ab. Nicolas und seine Mitspieler halten Hugo über viele Runden mit Ausweisen, Sterbeurkunden, Depotverträgen und immer neuen Formularen beschäftigt. Sogar eine zweite Organisation bestätigt die erste, wobei neue Domains und Jobtitel schneller entstehen als belastbare Beweise. Noch ist keine konkrete Gebühr dokumentiert – zunächst werden Identität, Unterschrift und zusätzliche Unterlagen eingesammelt.
+
+Am Ende scheitert der Fortschritt vorläufig an Hugos leerem Drucker. Die Scammer haben bis dahin ungewöhnlich viel Material produziert, weil er kooperativ wirkt und die Aussicht auf eine spätere Zahlung offenbar groß genug ist. Der Fall befindet sich damit spät in der Vertrauens- und Dokumentenphase, aber noch vor der Kasse. Zehn Millionen Euro warten angeblich im Tresor; der gefährlichste Gegner des Plans ist eine leere Tintenpatrone. 🖨️💰
 > BMW-Club Wanne-Eickel  
 
 Hugo fragt sich also völlig zu Recht: **„Kann ich als kleiner Mann aus Wanne-Eickel sowas überhaupt legal annehmen? Oder kommt da am Ende das Finanzamt, Interpol oder sonst wer um die Ecke und fragt, warum ich plötzlich Millionär bin?“**

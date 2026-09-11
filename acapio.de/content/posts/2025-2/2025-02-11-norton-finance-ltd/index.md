@@ -148,5 +148,11 @@ Da uns das ganze etwas viel Arbeit ist, lassen wir die Arbeit durch ChatGPT erst
 > Looking forward to your feedback.    
 >   
 > Best regards,    
-> Ahmet Kuran    
-> Founder & CEO, JetRide Mobility    
+> Ahmet Kuran
+> Founder & CEO, JetRide Mobility
+
+## Fazit
+
+Der angebliche Investor reagiert schnell und erstaunlich anspruchslos: Zehn bis 200 Millionen Dollar Finanzierung sind grundsätzlich kein Problem, solange Ahmet zunächst ein Formular voller persönlicher und geschäftlicher Daten zurückschickt. Belastbare Fragen zu Sicherheiten, Umsätzen oder Tragfähigkeit des Projekts spielen kaum eine Rolle. Für einen Kreditgeber ist das verdächtig großzügig, für einen Datensammler dagegen ausgesprochen praktisch.
+
+Der Artikel endet in einer frühen bis mittleren Phase, nachdem wir ein eigenes Fantasieformular für JetRide zurückgesendet haben. Eine weitere Reaktion oder konkrete Gebührenforderung ist nicht dokumentiert. Möglicherweise passte ein Antrag, der nicht exakt dem erwarteten Schema folgt, nicht in den automatisierten Ablauf. Die Pinguin-Farm hätte vermutlich ebenfalls Finanzierung erhalten – solange sie brav Passnummer und Tante Ernas Adresse eingetragen hätte. 🐧📄

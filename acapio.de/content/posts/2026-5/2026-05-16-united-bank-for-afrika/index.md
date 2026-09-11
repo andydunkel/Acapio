@@ -137,8 +137,14 @@ Die Neugier war einfach zu groß: Hugo hat dem gütigen Mr. Chris prompt geantwo
 > Thank you for the email and the pictures. The box looks very big and beautiful!  
 > I am very happy that Mr. Johnson Kwame is coming on Monday.    
 > What exactly do I need to do now? Please tell me the next steps so I can get the box.  
-> Best regards,  
-> Hugo  
+> Best regards,
+> Hugo
+
+## Fazit
+
+Dieser Kontakt hält außergewöhnlich lange. Die Scammer erfinden eine UN-Geldkiste, einen Diplomaten, einen verlorenen Schlüssel und immer neue Gründe, warum ausgerechnet Steam- oder Razer-Karten benötigt werden. Selbst falsche Gutscheine, ein angeblich zockender Neffe und der Schlossinsellauf bringen sie nicht zum Aufgeben, solange Hugo eine weitere Zahlung in Aussicht stellt.
+
+Erst der deutsche Zoll und ein mögliches Ermittlungsverfahren bringen die Geschichte am dokumentierten Ende ernsthaft ins Wanken. Mr. Chris weicht dem Formular aus, beruft sich auf diplomatische Immunität und wird schließlich direkt mit dem Betrugsvorwurf konfrontiert; eine weitere Antwort ist nicht festgehalten. Der mögliche Abbruch käme damit sehr spät, weil aus der vermeintlichen Beute plötzlich ein Polizeirisiko wird. Gegen deutsche Gründlichkeit hilft eben nicht einmal ein geheimes UN-Schlüsselloch. 🛂🔑
 
 ---
 

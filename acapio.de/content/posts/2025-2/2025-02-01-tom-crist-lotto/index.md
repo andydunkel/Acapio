@@ -157,6 +157,12 @@ Denn wie heißt es so schön im Ruhrgebiet:
 > Und falls Sie doch nur Quatsch machen: Sagen Sie’s ruhig. Ich bin nicht böse. Wir sind hier im Ruhrgebiet, wir können mit klaren Ansagen umgehen.    
 >   
 > Mit erwartungsvollen Grüßen    
-> Hugo Krawuttke    
-> BMW-Club Wanne-Eickel e.V.    
->   
+> Hugo Krawuttke
+> BMW-Club Wanne-Eickel e.V.
+>
+
+## Fazit
+
+Tom verschwindet zunächst schon früh, nachdem Hugo um ein Foto von ihm und seiner angeblich todkranken Tochter bittet. Der Grund für die erste Funkstille ist greifbar: Die Gmail-Adresse wird gesperrt. Wochen später steht der Wohltäter jedoch unter einer neuen Adresse und mit leicht verkürztem Nachnamen wieder auf der Matte – gleiche Geschichte, gleicher moralischer Druck, weiterhin kein Beweis.
+
+Am dokumentierten Ende verlangt Hugo erneut etwas Aktuelles und Überprüfbares. Darauf folgt keine weitere Antwort. Der Fall zeigt damit beide typischen Reaktionen: Wird die Infrastruktur abgeschaltet, wechseln Scammer einfach das Postfach; wird ihre erfundene Person selbst überprüft, wird es deutlich schwieriger. Tom Cris(t) kann also wiederauferstehen – eine Kamera scheint für ihn trotzdem unüberwindbar zu bleiben. 📷😄

@@ -38,3 +38,9 @@ Denn wer 40 Pumpen will, sollte auch 40 saubere Antworten liefern können, oder?
 ![Angebot](/posts/2025-03-25_nestle-angebot/mail.webp)
 
 Wir sind gespannt, ob eine Antwort kommt!
+
+## Fazit
+
+Der Kontakt endet hier direkt nach der ersten Rückfrage. Die Betrüger verschicken eine professionell wirkende Beschaffungsanfrage für 40 Pumpen offenbar nach dem Gießkannenprinzip und hoffen, zufällig bei einem passenden Händler zu landen. Wie die eigentliche Falle weitergehen sollte – gefälschte Zahlung, überzahlter Scheck oder ein vorgeschriebener Lieferant – wird im dokumentierten Verlauf nicht sichtbar.
+
+Auf die Bitte, Domain und offiziellen Auftrag durch Nestlé bestätigen zu lassen, folgt keine Antwort. Das spricht dafür, dass überprüfbare Unternehmenswege nicht Teil des Plans waren oder die Kampagne bereits weitergezogen ist. Der Scam erzeugt also kurz ordentlich Druck, verliert aber schon bei der ersten Dichtigkeitsprüfung sämtliche Förderleistung. 💧🔧

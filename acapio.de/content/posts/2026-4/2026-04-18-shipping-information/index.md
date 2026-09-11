@@ -49,6 +49,12 @@ Sobald die Installation abgeschlossen ist, wartet die Anwendung im Hintergrund. 
 2.  **UAC-Warnungen ernst nehmen:** Wenn Windows nach Administratorrechten fragt, obwohl Sie nur ein Dokument öffnen wollten: **Abbrechen!**
 3.  Falls Sie doch etwas herunterladen, immer zuerst mit [VirusTotal prüfen](https://ekiwi-blog.de/22006/dateien-online-auf-viren-pruefen/).
 
+## Fazit
+
+Bei dieser Masche gibt es zunächst keinen persönlichen Kontakt. Die Täter nutzen eine echte Calendly-Nachricht, eine professionelle Downloadseite und legitime Fernwartungssoftware, um den gefährlichen Teil möglichst harmlos aussehen zu lassen. Der Angriff ist vollständig auf den Anfang konzentriert: Neugier auf das Paket, schneller Download und eine unbedachte Bestätigung der Installation.
+
+Ein Gespräch dürfte erst später folgen, wenn die installierte ScreenConnect-Software bereits Zugriff auf den Rechner ermöglicht. Dann sitzt der angebliche Supportmitarbeiter technisch schon mit im Raum. Wer bei einer Versandinformation plötzlich eine MSI-Datei und Administratorrechte serviert bekommt, sollte daher nicht auf „Weiter“, sondern sehr zügig auf „Abbrechen“ klicken. Das einzige Paket ist hier ein Fernwartungspaket – und das möchte niemand zugestellt bekommen. 📦🖥️
+
 
 
 

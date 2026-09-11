@@ -66,3 +66,9 @@ Der Angreifer ist damit ohne die Kenntnis des Passworts und vollständig am zwei
 * **Gesunde Skepsis bei Geräte-Codes:** Der "Device Code Flow" ist ausschließlich dafür gedacht, Microsoft-Dienste auf Geräten einzurichten, die keine komfortable Tastatureingabe erlauben (z. B. Smart-TVs, Spielekonsolen oder Konferenzraum-Hardware). Wenn Sie an Ihrem PC oder Notebook im Browser arbeiten, wird Microsoft Sie **niemals** nach einem solchen Code fragen.
 * **URLs prüfen:** Achten Sie penibel darauf, woher Links in E-Mails führen. Auch wenn die finale Eingabe des Codes auf einer echten Microsoft-Seite stattfindet – der Weg dorthin über obskure Drittanbieter-Domains verrät den Betrug.
 * **Admins in der Pflicht:** In Unternehmens- und Organisations-Netzwerken (Microsoft 365 / Azure) lässt sich der Device Code Flow über Richtlinien für den bedingten Zugriff (*Conditional Access*) einschränken oder für normale Benutzer komplett deaktivieren. Dies ist die effektivste Maßnahme, um diese Angriffsfläche dauerhaft zu schließen.
+
+## Fazit
+
+Auch dieser Angriff benötigt keinen persönlichen Austausch mit dem Opfer. Die Scammer verstecken den Einstieg hinter legitimer Marketing-Infrastruktur und lassen Microsoft selbst den echten Gerätecode sowie die echte Anmeldeseite liefern. Das Opfer bestätigt deshalb nicht bloß einen Login, sondern unwissentlich den Zugriff des Angreifers – inklusive erfolgreicher Zwei-Faktor-Authentisierung.
+
+Der entscheidende Moment liegt ganz am Anfang: Ein Gerätecode gehört zu Fernseher, Konsole oder ähnlicher Hardware, nicht zu einem Dokumentlink am normalen Arbeitsplatz. Wer den Code nicht eingibt, kappt den Ablauf sofort; wer ihn bestätigt, kann dem Täter langlebige Zugriffstoken überlassen. Die Seite muss also gar kein Microsoft-Passwort stehlen – sie lässt das Opfer den Einbrecher höflich selbst anmelden. 🔐🚪

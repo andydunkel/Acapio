@@ -96,3 +96,9 @@ Da ist sie! Wie im Bild  zu sehen, hat der Übergang zu WhatsApp reibungslos gek
 
 Hugo hat bereits reagiert, schluckt den Köder sichtlich und jammert pflichtbewusst über den hohen Preis, während er schon nach den Zahlungsmodalitäten fragt. Jetzt wird es spannend: Kommt die klassische iTunes-Karte, Steam-Guthaben oder doch der gute alte Western Union Transfer?
 
+## Fazit
+
+Der Kontakt ist am Ende des Artikels noch aktiv und bereits bei der Geldforderung angekommen. Der angebliche Priester ignoriert Hugos konkrete Fragen, antwortet mit einem englischen Standardtext und versucht ihn möglichst schnell zu WhatsApp zu ziehen. Dort fällt die spirituelle Maske endgültig: Das Profil gehört eigentlich zu einer Kreditfirma und für angebliche Ritualgegenstände werden 500 Euro verlangt.
+
+Ein Abbruch ist noch nicht dokumentiert, denn Hugo signalisiert trotz Jammern weiterhin Interesse an der Zahlung. Genau deshalb bleibt der Scammer am Ball und verspricht sogar Fotos der gekauften Zauberutensilien. Krankheiten, Liebe, Lotto oder Kredit – die Geschichte ist austauschbar, solange am Ende Geld fließt. Nur der VfL Bochum wartet weiterhin vergeblich auf übernatürliche Unterstützung. 🔮⚽
+

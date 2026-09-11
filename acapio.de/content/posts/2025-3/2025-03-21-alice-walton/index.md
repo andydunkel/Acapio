@@ -173,5 +173,11 @@ Wir sind gespannt, ob die Bank auf Hugos Ratenzahlung eingeht.
 
 ![Alles echt!](/posts/2025-03-21_alice-walton/ausweis.webp)
 
+## Fazit
+
+Der Kontakt ist am Ende des Artikels noch offen und bereits bei der eigentlichen Geldforderung angekommen. Aus Alice Waltons angeblicher Spende wird nach kurzer Übergabe an die „Nationwide Bank Zurück“ eine Auswahl kostenpflichtiger Kontomodelle. Je schneller Hugo an seine Millionen möchte, desto teurer soll der Zugang werden – inklusive Bitcoin-Option und Ausweiskopie.
+
+Hugo signalisiert Zahlungsbereitschaft, bittet aber um zwei Raten zu je 500 Euro. Eine Reaktion darauf ist nicht mehr dokumentiert. Für die Scammer dürfte diese Frage attraktiv genug sein, um weiterzumachen, denn sie glauben sich bereits kurz vor der Zahlung. Die Bank verkauft also kein Konto, sondern Hoffnung im Abo – Hugo hätte nur gern den sozialverträglichen Ratenplan dazu. 🐌💶
+
 
 

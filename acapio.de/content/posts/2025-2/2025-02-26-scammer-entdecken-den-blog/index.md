@@ -25,6 +25,12 @@ Oder haben sie einfach nur gegoogelt, warum ihre Betrugsmaschen plötzlich ins L
 
 **Egal, liebe Scammer, wir sehen euch!**
 
+## Fazit
+
+Dieser Beitrag betrachtet keinen einzelnen Kontakt, sondern eine auffällige Veränderung im Verhalten mehrerer Scammer. Nachdem ihre Nachrichten, Konten und Webseiten im Blog dokumentiert wurden, erscheinen Zugriffe aus Nigeria und einige zuvor aktive Gesprächspartner werden still. Ein Zusammenhang liegt nahe, lässt sich anhand der Besuche allein aber nicht sicher beweisen.
+
+Falls die Täter tatsächlich mitlesen, erklärt das die Funkstille ziemlich gut: Wer Hugo, Anne und die übrige Mannschaft wiedererkennt, weiß, dass am Ende eher eine Abuse-Meldung als eine Überweisung wartet. Der mögliche Kontaktabbruch käme damit spät – nach Recherche der Gegenseite und aus purem Selbsterhaltungstrieb. Willkommen im Blog, liebe Scammer; Kaffee gibt es, Kontodaten weiterhin nicht. ☕👀
+
 ---
 
 **Siehe auch:**

@@ -18,9 +18,6 @@ Herzlichen Glückwunsch! Sie haben soeben zwei Millionen Dollar bei einer Lotter
 
 Die Masche ist immer gleich: Ein vermeintlicher Lottogewinn flattert ins Postfach, garniert mit amtlich klingenden Namen, feierlichen Gratulationen und der dringenden Bitte, sich schnell zu melden (am besten mit Passkopie, Bankdaten und einem kleinen Vorschuss).
 
-
-Lust auf den nächsten Abschnitt? Zum Beispiel eine Analyse der typischen Merkmale solcher Mails?
-
 ## 📧 **Analyse der E-Mail: Ein Glücksfall? Eher nicht.**
 
 Auf den ersten Blick könnte man meinen, man habe tatsächlich das große Los gezogen. Ok eher nicht! Aber dennoch nutzen die Scammer schwache Momente aus.
@@ -67,5 +64,11 @@ Statt sich einschüchtern zu lassen oder naiv in die Falle zu tappen, macht Hugo
 > Also Pedro, Butter bei die Fische: Wenn das hier echt is, sach Bescheid, ich komm vorbei. Aber nur, wenn ich den Dachs mitbringen darf, und der kriegt erstmal keine Kohle, verstanden? 😎  
 >   
 > Gruß aus Wanne-Eickel    
-> Hugo H.    
-> (Lotto-King seit 2025)  
+> Hugo H.
+> (Lotto-King seit 2025)
+
+## Fazit
+
+Der Kontakt bleibt in diesem Artikel ganz am Anfang. Die Täter setzen mit zwei Millionen Dollar, großen Logos, einer kurzen Frist und strenger Geheimhaltung einen möglichst grellen Köder. Hugo antwortet zwar begeistert, verrät aber zugleich, dass Kalle bereits eingeweiht ist und ausdrücklich vor einer möglichen Vorkasse gewarnt hat.
+
+Eine weitere Nachricht der angeblichen Lotterie ist nicht dokumentiert. Möglicherweise war Hugo damit sofort als schwieriger Kandidat erkennbar, denn Geheimhaltung funktioniert schlecht, wenn der halbe Tresen schon Bescheid weiß. Wer an keiner Lotterie teilgenommen hat, muss jedenfalls auch keinen Gewinn freischalten – selbst wenn der Bierdeckel bereits für die IBAN reserviert ist. 🎟️🍺

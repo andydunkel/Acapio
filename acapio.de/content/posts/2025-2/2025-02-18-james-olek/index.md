@@ -137,5 +137,11 @@ In seiner gewohnt bescheidenen Art fragt Hugo höflich nach dem Geld. Aber mal e
 >   
 > Looking forward to your instructions. Please let me know if I need to send anything else.    
 >   
-> Cheers,    
-> S cholz    
+> Cheers,
+> S cholz
+
+## Fazit
+
+Der Kontakt ist am Artikelende noch nicht abgebrochen. Der angebliche Inspector reagiert auf Hugos Fake-Daten, erklärt ihn kurzerhand wieder für lebendig und erhöht das erfundene Erbe sogar auf 16,6 Millionen Dollar. Danach folgt die klassische Rollenübergabe: Aus der Metropolitan Police wird Dr. Mark Peterson von einer „First International Bank“, deren Webseite aus einer weißen Seite besteht und bereits als Fake-Bank bekannt ist.
+
+Der Verlauf endet in der mittleren Phase, unmittelbar nachdem Hugo die Bank anschreibt. Eine konkrete Gebühr ist noch nicht dokumentiert, aber die Bühne dafür steht. Das Verhalten der Scammer lebt von Autorität und Abschottung: Alle anderen Kontakte sollen beendet und nur ihre Anweisungen befolgt werden. Immerhin hat Hugo schriftlich bestätigt bekommen, dass er lebt – finanziell ist das bisher der einzige belastbare Gewinn. 👮‍♂️💰

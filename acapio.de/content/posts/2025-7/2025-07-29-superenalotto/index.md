@@ -150,5 +150,11 @@ Hugo wäre nicht Hugo, wenn er bei 3,85 Millionen Euro nicht ein bisschen rechne
 >   
 > Mit freundlichen Grüßen  
 > Hugo   
-> Der glückliche Gewinner aus Wanne-Eickel 🥳  
->   
+> Der glückliche Gewinner aus Wanne-Eickel 🥳
+>
+
+## Fazit
+
+Dieser Kontakt schafft es weit über die Datenabfrage hinaus. Die Scammer akzeptieren Hugos Ausweis, erklären den Gewinn für auszahlungsbereit und präsentieren anschließend mehrere kostenpflichtige Wege – von ATM-Goldkarte bis Bitcoin. Die Urkunde soll den letzten Zweifel beseitigen, bevor zwischen 1.195 und 1.710 Euro Vorleistung fällig werden.
+
+Am dokumentierten Ende fragt Hugo, warum man die Gebühr nicht einfach von den 3,85 Millionen Euro abziehen könne. Eine weitere Antwort ist nicht festgehalten. Genau diese Frage bringt Vorschussbetrug regelmäßig ins Schleudern, denn sie legt offen, dass der angeblich vorhandene Gewinn nur auf Papier existiert. Die automatische Teilnahme funktioniert wunderbar – automatisch ausgezahlt wird dagegen ausschließlich an die Scammer. 🏅💸

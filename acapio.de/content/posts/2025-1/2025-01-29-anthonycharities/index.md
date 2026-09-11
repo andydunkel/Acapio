@@ -230,5 +230,11 @@ Denn hey, ein echter Anwalt sollte doch kein Problem damit haben, sich kurz ausz
 >   
 > Freu mich auf eure Antwort!    
 >   
-> Gruß,    
-> Hugo  
+> Gruß,
+> Hugo
+
+## Fazit
+
+Die Scammer bauen ihre Geschichte stufenweise auf: Erst lockt eine angebliche Wohltätigkeitsorganisation, dann wird Hugo „verifiziert“ und schließlich an einen vermeintlichen Anwalt weitergereicht. Der fragt nicht sofort nach Geld, sondern zunächst nach vollständigen Bankdaten. So soll der Ablauf seriös wirken und das Opfer Stück für Stück tiefer in die Geschichte gezogen werden.
+
+Der dokumentierte Kontakt endet relativ früh, sobald Hugo einen überprüfbaren Nachweis, einen Anwaltsausweis oder ein aktuelles Foto verlangt. Bis dahin beantworten die Beteiligten jede Nachricht bereitwillig; beim ersten echten Beweis wird es still. Offenbar verfügt die heilige Spendenverwaltung über Millionen, Referenznummern und internationale Anwälte – nur ein Selfie mit Zettel übersteigt das Budget. 📸😇

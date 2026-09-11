@@ -571,3 +571,9 @@ Die Auflösung:
 Mitchell beteuert erneut, dass alles absolut **seriös, sicher, vom IRS abgesegnet und natürlich ganz dringend** ist. Es fehle nur noch unsere „kleine“ Steuerzahlung, dann stünde der Auszahlung nichts mehr im Wege.  
 
 ![](/posts/2025-02-02_mitchel-jobs/akpan.webp)
+
+## Fazit
+
+Dieser Kontakt bricht bis zum Ende des Artikels nicht ab. Mitchell und seine Helfer investieren enorm viel Arbeit: Sie bauen eine Fake-Bank samt Onlinekonto, zeigen ein erfundenes Millionenguthaben, verlangen Geld für eine IRS-Steuernummer und wechseln nach blockierter Überweisung auf Bitcoin. Selbst manipulierte Dokumente werden nachgeliefert, sobald Anne Zweifel äußert.
+
+Besonders aufschlussreich ist die Reaktion auf den Namen Akpan Brown in den Metadaten. Statt den Fehler einzugestehen, erfindet Mitchell erst einen IRS-Assistenten und anschließend einen nigerianischen Ölsteuerfall als Erklärung. Je später der Scam, desto absurder die Reparaturen – denn nach so vielen Nachrichten glauben die Täter offenbar weiterhin an die große Zahlung. Die Millionen sind falsch, aber das Improvisationstheater läuft bis zuletzt mit voller Besetzung. 🎭💸

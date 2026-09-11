@@ -628,3 +628,9 @@ Dass ausgerechnet Herr Kuzu, der Mann mit der Fake-Bank und dem geklauten Weihna
 
 Hugo kehrt nun zurück in seinen BMW, krault seinen Dackel und freut sich, dass die 9,3 Millionen Dollar zwar nicht auf seinem Konto gelandet sind, er dafür aber ein paar Kriminelle ordentlich Zeit und Nerven gekostet hat. 🚗🐶✌️
 
+## Fazit
+
+Hier erleben wir einen selten ausgesprochenen Kontaktabbruch ganz am Ende der Masche. Die Scammer führen Hugo über lange Texte, Ausweisdaten, eine Fake-Bank, ein manipuliertes Onlinekonto und schließlich ein deutsches Privatkonto. Als die vermeintlichen 500 Euro nicht ankommen, wechseln sie zu WhatsApp, melden sich immer häufiger und verlangen hartnäckig den vollständigen Zahlungsbeleg.
+
+Erst als Hugo von Rückbuchung, Kontosperre, Betrugsverdacht und Polizei berichtet, fällt die Fassade endgültig. Der angebliche Bankdirektor nennt ausgerechnet Hugo einen Lügner und fordert ihn auf, keinen Kontakt mehr aufzunehmen. Die Ursache ist eindeutig: Die Täter erkennen, dass weder Geld noch ein brauchbarer Beleg kommen und weitere Zeit verloren wäre. Nach 9,3 Millionen Dollar, einer Rosemarie und viel Banking-Theater endet der Fall mit der ehrlichsten Nachricht des Scammers: „Bitte kontaktieren Sie mich nicht mehr.“ 🎭🛑
+

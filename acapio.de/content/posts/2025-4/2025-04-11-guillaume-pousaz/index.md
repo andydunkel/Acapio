@@ -110,5 +110,11 @@ Hugo versucht, höflich zu bleiben, schließlich bekommt man ja nicht jeden Tag 
 >     
 > Wir möchten nur sicherstellen, dass wir die Sache richtig verstehen, bevor wir reagieren.    
 >     
-> Mit freundlichen Grüßen    
-> Hugo aus Wanne-Eickel  
+> Mit freundlichen Grüßen
+> Hugo aus Wanne-Eickel
+
+## Fazit
+
+Der Kontakt endet hier sehr früh. Auf Hugos knappe Frage reagiert der falsche Guillaume Pousaz noch mit einem gewaltigen Textblock, schwankenden Milliardenbeträgen und der Bitte um persönliche Daten. Als Hugo anschließend nur nachvollziehbare Angaben zu Summe, Auswahl und Ablauf verlangt, ist keine weitere Antwort dokumentiert.
+
+Das Verhalten verrät eine klassische Massenmail mit vorbereitetem Folgetext: Selbst „Alter was fürn Deal???“ löst dieselbe höfliche Finanzpredigt aus, die vermutlich jeder Interessent erhält. Sobald echtes Verständnis statt blinder Begeisterung gefragt ist, gerät das angebliche KI-Auswahlsystem ins Stocken. Milliarden wären vorhanden gewesen – für eine klare Antwort hat das Budget offenbar nicht mehr gereicht. 🤖💶

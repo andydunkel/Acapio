@@ -48,5 +48,11 @@ Hugo war natürlich sofort Feuer und Flamme. Immerhin bekommt man nicht alle Tag
 > Land: Wanne-Eickel, Ruhrpott  
 > WhatsApp: Leider verloren, seit ich mein Nokia 3310 im Schwimmbad versenkt hab  
 >    
-> Mit karitativen Grüßen,  
-> Hugo S., Retter der Armen, Hüter der Currywurst  
+> Mit karitativen Grüßen,
+> Hugo S., Retter der Armen, Hüter der Currywurst
+
+## Fazit
+
+Der Kontakt bleibt ganz am Anfang stehen. Die angeblichen Absender behaupten bereits drei Nachrichten geschickt zu haben, erklären eine Antwort sogar für „obligatorisch“ und verlangen sofort Name, Land und WhatsApp-Nummer. Das ist weniger persönliche Großzügigkeit als eine Massenmail, die mit Wiederholung und Dringlichkeit künstliche Verbindlichkeit erzeugen soll.
+
+Hugo liefert einen Fantasienamen, Wanne-Eickel als Land und ein im Schwimmbad versenktes Nokia. Eine weitere Antwort ist nicht dokumentiert. Vermutlich fehlte damit vor allem der gewünschte schnelle Wechsel zu WhatsApp. Der echte Dieter Schwarz spart bekanntlich gern – aber selbst für eine seriöse Absenderadresse war in diesem Vier-Millionen-Euro-Angebot offenbar kein Geld mehr übrig. 🛒📱

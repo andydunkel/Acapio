@@ -42,8 +42,14 @@ Sein Traum? Eine **BMW-Schrauberwerkstatt mit angeschlossener Currywurstbude**, 
 > Wie läuft das jetzt genau ab? Muss ich irgendwo unterschreiben oder wat? Schicken Sie mir bitte alle Details, damit wir das klarmachen können.  
 >   
 > Beste Grüße aus Wanne-Eickel,  
-> Hugo  
-> BMW-Club Ruhrpott e.V.  
+> Hugo
+> BMW-Club Ruhrpott e.V.
+
+## Fazit
+
+Der Kontakt erreicht bereits die Übergabe an eine angebliche Bank. Viktoria liefert Drama, Krankheit, Gold und göttlichen Auftrag, bevor sie Hugo zur Crest Capital Corporation Bank schickt. Deren Freemail-Adresse und Fake-Webseite sollen für den nächsten Schritt genügend Seriosität vorspielen – vermutlich bis zur Kontoeröffnungs- oder Transfergebühr.
+
+Dann wird den Scammern die Bühne unter den Füßen weggezogen: Weniger als vier Stunden nach der Meldung ist die Bankwebseite offline. Hugo fragt scheinbar besorgt nach den Serverproblemen, eine Antwort darauf ist im Artikel nicht mehr dokumentiert. Der Kontakt bricht somit in der mittleren Phase durch eine externe Sperrung weg, nicht weil die Geschichte planmäßig beendet wäre. Selbst göttliche Millionen helfen wenig, wenn der Hoster den Stecker zieht. 🔌😄
 
 Jetzt bleibt nur noch die große Frage: **Wie wird „Frau Jörg“ reagieren?** Werden wir bald stolze Besitzer einer millionenschweren Werkstatt? Oder müssen wir erst eine „kleine Bearbeitungsgebühr“ überweisen? Die Spannung steigt… 🤔🔥  
 

@@ -30,3 +30,9 @@ Klickt man auf den enthaltenen Link, landet man, wenig überraschend, auf einer 
 Die Devise bleibt also wie immer: Solche E-Mails ungelesen löschen, und fertig.
 
 ![](/posts/2025-04-29_hosteurope/phishing.webp)
+
+## Fazit
+
+Hier gibt es keinen persönlichen Kontakt und folglich auch keinen späteren Abbruch. Die Täter haben ihre Arbeit vollständig automatisiert: Sie wählen offenbar gezielt passende Domains aus, verschleiern den sichtbaren Mailtext mit manipulierten Zeichen und führen das Opfer direkt auf eine gefälschte Zahlungsseite. Dort sollen Kreditkartendaten eingegeben werden, obwohl Hosteurope diese bei echten Kunden längst kennen müsste.
+
+Die Masche spielt ihren stärksten Trumpf gleich am Anfang aus: Eine drohende Dienstunterbrechung soll Webseitenbetreiber zum schnellen Handeln bewegen, bevor sie Absender und Zieladresse prüfen. Wer die echte Hosteurope-Seite selbst aufruft, beendet den Angriff sofort. Die angeblich offene Rechnung ist dann genauso verschwunden wie die Seriosität des Absenders. 💳🖥️

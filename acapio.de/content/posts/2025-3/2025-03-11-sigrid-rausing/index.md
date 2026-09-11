@@ -254,5 +254,11 @@ Plot Twist! Obwohl Hugo sich gar nicht mehr meldet, kommt plötzlich die frohe B
 
 Aber keine Sorge, es gibt bereits einen **„aktuellen Agenten“**, der bereitsteht wie ein Ersatzspieler beim SC Bamberg. Hugo soll einfach *bescheid geben, sobald die Rückerstattung da ist*, und dann geht’s nochmal von vorne los.  
 
-> Grüße, zu unserer Kenntnis, die Gelder werden Ihnen zurückerstattet, sie wurden bereits zurückerstattet und es kann einige Werktage dauern, halten Sie uns auf dem Laufenden, sobald Sie die Gebühr erhalten, die wir Ihnen erstatten, sie wurde zurückerstattet, weil der Agent, der sie erhalten sollte, gestern gereist ist und nicht im Dienst war, um sie zu dokumentieren, Sie werden sie an meinen aktuellen Agenten schicken, der im Dienst ist und sie dokumentieren kann, sobald Sie sie erhalten, Grüße  
+> Grüße, zu unserer Kenntnis, die Gelder werden Ihnen zurückerstattet, sie wurden bereits zurückerstattet und es kann einige Werktage dauern, halten Sie uns auf dem Laufenden, sobald Sie die Gebühr erhalten, die wir Ihnen erstatten, sie wurde zurückerstattet, weil der Agent, der sie erhalten sollte, gestern gereist ist und nicht im Dienst war, um sie zu dokumentieren, Sie werden sie an meinen aktuellen Agenten schicken, der im Dienst ist und sie dokumentieren kann, sobald Sie sie erhalten, Grüße
+
+## Fazit
+
+Dieser Kontakt bricht bis zum dokumentierten Ende nicht ab. Sigrid und ihr angeblicher Anwalt führen Hugo von der Millionenspende zur Premiumgebühr, liefern ein italienisches Privatkonto und reagieren sogar auf den gefälschten Zahlungsbeleg. Als der Verwendungszweck „Gebühr für Spende“ zu ehrlich ausfällt, verlangen sie lieber das unauffälligere Wort „Beitrag“.
+
+Selbst danach geben die Scammer nicht auf. Der Zahlungsempfänger sei plötzlich verreist, das Geld angeblich zurückerstattet und ein neuer Agent stehe schon bereit. Der Kontakt befindet sich damit sehr spät im Scam und wird nur durch immer neue Empfängerkonten am Leben gehalten. Bei echten Banken reist vielleicht ein Mitarbeiter – bei dieser hier nimmt offenbar gleich die ganze IBAN Urlaub. ✈️🏦
 

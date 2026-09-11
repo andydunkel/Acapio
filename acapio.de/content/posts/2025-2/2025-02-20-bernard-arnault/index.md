@@ -88,3 +88,9 @@ Doch Hugo wäre nicht Hugo, wenn er sich das nicht nochmal ganz genau überlegt.
 Hugo nimmt den Köder natürlich gern auf und schreibt seine üblichen Fake-Daten zurück. 🍺🤗
 
 ![Hugo nimmt die Kohle mit](/posts/2025-02-20_bernard-arnault/antwort_hugo.webp)
+
+## Fazit
+
+Der Kontakt schafft es über die erste Lockmail hinaus: Der falsche Bernard Arnault reagiert tatsächlich und verbindet religiöse Auserwähltheit mit einer ausführlichen Abfrage persönlicher Daten. Der berühmte Name und die angebliche Unterstützung durch Google, Microsoft und Powerball sollen dabei ersetzen, was vollständig fehlt – ein nachvollziehbarer Grund, warum ausgerechnet Hugo 1,7 Millionen Euro erhalten soll.
+
+Am dokumentierten Ende hat Hugo Fake-Daten zurückgeschickt; eine weitere Reaktion oder Gebührenforderung ist noch nicht festgehalten. Der Fall bleibt damit in einer frühen Phase offen. Für den Scammer ist jetzt entscheidend, ob er Hugo als verwertbares Opfer einstuft. Für einen echten Luxusmilliardär wäre die Sache dagegen ungewöhnlich bescheiden: viel Heiliger Geist, aber nicht einmal eine offizielle E-Mail-Adresse. 👜🍻

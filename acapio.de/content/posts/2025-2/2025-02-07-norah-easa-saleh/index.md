@@ -93,8 +93,14 @@ Unsere Strategie ist simpel: **Wir tun so, als ob wir interessiert sind, aber wi
 >   
 > Looking forward to your response.    
 >   
-> Best regards,    
-> Ahmet  
+> Best regards,
+> Ahmet
+
+## Fazit
+
+Dr. Norah gibt nicht sofort auf. Auf Ahmets erste Forderung nach Belegen reagiert sie mit einer ganzen Sammlung aus Ausweis, Lebenslauf, medizinischen Befunden und Bildern. Gleichzeitig rückt die Geschichte zum eigentlichen Ziel vor: Das angeblich ruhende Konto müsse gegen eine Gebühr reaktiviert werden, und dafür brauche man natürlich persönliche Daten samt Ausweiskopie.
+
+Der dokumentierte Kontakt endet erst in der mittleren Phase, als Ahmet direkten Zugang zur Bank sowie ein aktuelles Video oder Foto verlangt. Papier lässt sich beliebig zusammenbauen, eine lebende Dr. Norah vor der Kamera deutlich schlechter. Eine Antwort darauf ist nicht mehr festgehalten. Die Krankenakte war offenbar dicker als die Beweislage – und die Webcam ausgerechnet im entscheidenden Moment unheilbar erkrankt. 🩺📹
 
 ## Die längliche Antwort
 

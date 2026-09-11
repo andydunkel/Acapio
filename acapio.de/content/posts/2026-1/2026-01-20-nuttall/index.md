@@ -62,4 +62,10 @@ Also haut er schnell in die Tasten, mit der diplomatischen Eleganz eines tieferg
 >   
 > Ich meld mich morgen wieder, wenn ich ausgekatert hab!  
 >   
-> Glückauf, Hugo (Kassenwart Dackel-Freunde Wanne-Süd)  
+> Glückauf, Hugo (Kassenwart Dackel-Freunde Wanne-Süd)
+
+## Fazit
+
+Der Kontakt bleibt hier bei der ersten Stufe stehen. Die Scammer missbrauchen die Namen echter EuroMillions-Gewinner und verlassen sich darauf, dass eine schnelle Google-Suche ihre Geschichte scheinbar bestätigt. Details zur Auszahlung fehlen zunächst völlig; die kurze Lockmail soll lediglich feststellen, wer überhaupt reagiert.
+
+Hugo antwortet zwar begeistert, macht aber Dackel-Club, Pils und Kofferübergabe zum Teil der Verhandlung. Eine weitere Nachricht ist nicht dokumentiert. Ob die Täter ihn aussortierten oder das Postfach nur zur nächsten Kampagne weiterzog, bleibt offen. Die Million war jedenfalls so dringend, dass sie problemlos hinter einem Vereinsabend warten konnte – offenbar trinken sich nicht nur die Pilsetten, sondern auch die Spenden nicht von alleine. 🐶🍺

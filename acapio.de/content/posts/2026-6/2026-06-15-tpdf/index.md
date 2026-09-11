@@ -58,3 +58,9 @@ Wie praktisch! Die Rechnung ist gar kein dröges Dokument, sondern ein eigenstä
 1. **Dateiendungen genau prüfen:** Wenn eine Datei `.tpdf`, `.pdf.exe` oder anders merkwürdig heißt -> Finger weg. Angreifer nutzen diese Tricks permanent, um Mail-Filter zu überlisten.
 2. **Die Absender-Domain ist entscheidend:** Der Anzeigename im Mail-Programm kann gefälscht werden, aber die echte Absender-Domain (alles nach dem `@`) entlarvt den Betrug fast immer.
 3. **Sicher analysieren:** Verdächtige Anhänge niemals auf dem Produktivsystem (und schon gar nicht unter Windows per Doppelklick) öffnen. Tools wie VirusTotal oder eine isolierte Linux-Umgebung sind die Lebensversicherung für Ihre Daten.
+
+## Fazit
+
+Hier gibt es keinen persönlichen Kontakt und keinen klassischen Abbruch. Die Angreifer verteilen ihre vermeintliche Stromrechnung massenhaft und setzen darauf, dass Betrag, professionelles Design und ungewöhnliche Dateiendung genügend Neugier erzeugen. Nach dem Öffnen übernimmt nicht mehr ein Scammer im Chat, sondern die versteckte Windows-Datei.
+
+Das Verhalten ist technisch auf Tarnung ausgelegt: fremde Absenderdomain, undisclosed recipients, TAR-Archiv unter dem Namen `.tpdf` und ein gepackter Installer, den zunächst nur wenige Scanner erkennen. Wer die Datei nicht ausführt, beendet den Angriff noch vor seinem eigentlichen Start. Eine Stromrechnung darf teuer sein – laufen können sollte sie auf dem eigenen Rechner trotzdem nicht. ⚡🦠
