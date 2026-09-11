@@ -132,3 +132,9 @@ Wir hoffen inständig, dass wir nicht die Frist zur Einlösung dieses unglaublic
 ### francesconnolly93322211@gmail.com
 
 > Ihr E-Mail-Konto wurde für eine Spende von £3,700,000.00 ausgewählt. Kontaktieren Sie mich für weitere Informationen
+
+## Fazit
+
+Bis zum hier dokumentierten Stand bricht der Kontakt nicht ab – im Gegenteil: Die Scammer reagieren schnell, liefern eine lange Geschichte mit echten Presseartikeln als Vertrauenskulisse und fragen früh einen ganzen Katalog persönlicher Daten ab. Anschließend wird das Opfer an die angebliche „Fortress Heritage Trust Bank“ weitergereicht. Genau an dieser Stelle wechselt die Masche gewöhnlich vom freundlichen Wohltätigkeitsmärchen zur finanziellen Forderung.
+
+Auffällig ist, wie systematisch der Ablauf aufgebaut wird: Erst kommen 400.000 Euro und ein gutes Gewissen, dann persönliche Daten, künstlicher Zeitdruck und schließlich ein neues Online-Konto bei einer Bank, die man vorher noch nie gehört hat. Der Artikel endet also nicht, weil die Scammer das Interesse verloren hätten, sondern mitten in ihrer Übergabe an die nächste Rolle. Aus Frau Nadine wird Herr Bankmanager – nur das Geld bleibt weiterhin unsichtbar. 🎭

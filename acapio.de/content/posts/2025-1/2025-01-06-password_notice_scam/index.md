@@ -70,3 +70,9 @@ Oder nur der Hinweis in etwas anderer Form.
 
 ![](/posts/2025-01-05_password_expired/notice_3.png)
 
+## Fazit
+
+Auch hier gibt es keinen persönlichen Kontakt und deshalb keinen klassischen Kontaktabbruch. Die Phisher setzen auf ein automatisiertes Fließband: angeblich ablaufendes Passwort, sofortiger Handlungsdruck, passend eingeblendetes Firmenlogo und ein Formular, das die eingegebenen Zugangsdaten an einen fremden Server weiterreicht. Die eigentliche Unterhaltung übernimmt anschließend höchstens der echte Kontoinhaber mit seinem Provider – vermutlich deutlich weniger gut gelaunt.
+
+Das Verhalten der Täter ist komplett auf den Anfang konzentriert. Das Opfer soll gar keine Zeit bekommen, Fragen zu stellen oder die Adresse zu prüfen, sondern sein Passwort möglichst sofort abliefern. Wer auf einen solchen Link hereingefallen ist, sollte daher umgehend das Kennwort ändern, wiederverwendete Passwörter ebenfalls austauschen und den Anbieter informieren. Ein echtes E-Mail-System verlangt schließlich nicht auf irgendeiner fremden WordPress-Seite nach dem Generalschlüssel zum Postfach. 🔑
+

@@ -307,3 +307,9 @@ Also lassen wir uns nicht lumpen, suchen eine bereits genutzte Karte aus dem Net
 ![](/posts/2025-01-01_charity_fund/itunes.png)
 
 Wir haben das Gefühl, dass unsere Freundschaft nun bald endet.
+
+## Fazit
+
+Dieser Scammer zeigt bemerkenswerte Ausdauer. Erst lockt er mit 4,2 Millionen Euro, dann sammelt er persönliche Daten, erfindet eine Genehmigungsgebühr und liefert auf Nachfrage sogar eine hastig gebastelte Rechnung. Als wir mit Steuernummer, Sparkasse und Rückfragen immer unbequemer werden, kippt die freundliche Anwaltsshow erst spät: Plötzlich wird gedrängt, mit dem Verlust der „Spende“ gedroht und eine ganze Speisekarte an schwer rückholbaren Zahlungsmethoden angeboten.
+
+Am dokumentierten Ende ist der Kontakt noch nicht ausdrücklich beendet, doch nach der bereits benutzten iTunes-Karte dürfte die große Freundschaft einen deutlichen Knacks bekommen haben. Der Grund liegt auf der Hand: Solange die Scammer noch an eine Zahlung glaubten, spielten sie geduldig jede zusätzliche Runde mit. Sobald der Gutscheincode wertlos ist, gibt es für den angeblichen Anwalt außer verletztem Stolz nicht mehr viel zu holen. Aus 4,2 Millionen Euro wird damit vermutlich eine sehr kurze WhatsApp-Abschiedsfeier. 🎁😄

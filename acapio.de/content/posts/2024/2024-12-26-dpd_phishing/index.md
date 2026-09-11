@@ -43,9 +43,15 @@ Gedankt wird es uns nicht, dieses Mal tritt kein Fehler auf, aber wir landen ern
 
 Die Vermutung liegt nahe, dass der arme Benutzer seine Daten mehrfach eingeben soll. Vielleicht zur Bestätigung, vielleicht einfach auch, damit er eine andere Kreditkarte verwendet.
 
-Was passiert mit den Daten. Rückmeldungen haben ergeben, dass kurzer Zeit, nach der Eingabe der Kreditkartendaten, Beträge von der Kreditkarte abgebucht werden. 
+Was passiert mit den Daten. Rückmeldungen haben ergeben, dass kurzer Zeit, nach der Eingabe der Kreditkartendaten, Beträge von der Kreditkarte abgebucht werden.
 
 Was in dem Paket ist, werden wir wohl nie erfahren. 😁
+
+## Fazit
+
+Hier gibt es keinen persönlichen Kontakt, der irgendwann abbricht. Die gesamte Masche läuft automatisiert ab und will möglichst schnell von der angeblich verpassten Zustellung zur Kreditkarte gelangen. Der kleine Betrag von zwei Euro ist dabei nur der Türöffner: Niemand soll lange über eine harmlose Nachzahlung grübeln, während im Hintergrund die wesentlich wertvolleren Karten- und Adressdaten eingesammelt werden.
+
+Besonders verräterisch ist das Verhalten nach der Eingabe. Statt einer Zustellbestätigung folgen weitere Formulare auf wechselnden Servern. Das dürfte Opfer dazu bringen, ihre Daten erneut einzugeben oder gleich eine zweite Karte auszuprobieren. Das Paket war also nie unterwegs – auf Reisen gehen hier höchstens die Kreditkartendaten. 📦💳
 
 ---
 
