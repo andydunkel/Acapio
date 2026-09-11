@@ -423,7 +423,7 @@ Doch Fabio wäre nicht Fabio, wenn er nicht eine charmante "Lösung" für Hugos 
 * **Plündert die Haushaltskasse:** Den Rest der Gebühr soll Hugo gefälligst selbst aufbringen – und wenn er dafür das Ersparte der Familie oder das Haushaltsgeld anzapfen muss!
 * **Die Beziehungsberatung:** Fabios unschlagbares Argument für das Haushaltsgeld-Räubern: Hugos Frau werde am Ende garantiert *„sehr stolz“* auf ihn sein, wenn die Millionen erst einmal auf dem Tisch liegen.
 
-Dass ein todkranker Mann im Krankenhausbett ein Opfer dazu drängt, seine eigenen Ersparnisse gegen jede Vernunft zu verpulvern, zeigt die eiskalte Masche hinter dieser perfiden Emotionalen Erpressung.
+Dass ein todkranker Mann im Krankenhausbett ein Opfer dazu drängt, seine eigenen Ersparnisse gegen jede Vernunft zu verpulvern, zeigt die eiskalte Masche hinter dieser perfiden emotionalen Erpressung.
 
 ---
 
@@ -431,7 +431,7 @@ Dass ein todkranker Mann im Krankenhausbett ein Opfer dazu drängt, seine eigene
 
 Hugo hat Fabio die vermeintlichen Zahlen präsentiert, die ihm der feine Herr Botschafter aufbrummen will. Satte **4.714 US-Dollar** soll die Lieferung der Kiste nach Wanne-Eickel kosten – zusammengestückelt aus fantasievollen Posten wie "Handling", "Administrative" und "Storage Charges".
 
-Mit Fabios angebotenen 2.000 Dollarn bleibt immer noch eine saftige Lücke von über 2.700 Dollarn. Hugo hat ihm nun ganz unverblümt klargemacht, dass das für einen einfachen Fahrer schlicht unbezahlbar ist.
+Mit Fabios angebotenen 2.000 Dollar bleibt immer noch eine saftige Lücke von über 2.700 Dollar. Hugo hat ihm nun ganz unverblümt klargemacht, dass das für einen einfachen Fahrer schlicht unbezahlbar ist.
 
 > Delivery Charges-------------------------------------------------------------$3,330  
 > Handling Charges----------------------------------------------------------------$550  
@@ -447,7 +447,7 @@ Damit liegt der Ball wieder bei den Betrügern. Wir dürfen gespannt sein, ob Fa
 
 ## Die Haushaltskasse brennt! 💸🔥
 
-Fabio gibt einfach nicht auf! Anstatt ein einzusehen, dass Hugo keine 2.700 Dollar im Socken unter der Matratze bunkert, legt unser todkranker Wohltäter erst so richtig los.
+Fabio gibt einfach nicht auf! Anstatt einzusehen, dass Hugo keine 2.700 Dollar im Socken unter der Matratze bunkert, legt unser todkranker Wohltäter erst so richtig los.
 
 Er beharrt eiskalt darauf, dass Hugo das fehlende Geld irgendwie auftreiben MUSS. Schließlich geht es hier um Millionen! Fabios unschlagbarer Spartipp für den Ehefrieden in Wanne-Eickel: *Einfach heimlich das Ersparte plündern – die Ehefrau wird sich schon wieder einkriegen, sobald der Geldkoffer im Flur steht!* 😅
 
@@ -487,5 +487,81 @@ Damit treiben wir die Scammer in ein herrliches Dilemma:
 Hugo hat außerdem klargestellt, dass er erst auf die Bestätigung wartet, dass Fabios Anteil eingegangen ist, bevor er selbst aktiv wird. Mal sehen, wie sich die beiden Betrüger-Rollen jetzt gegenseitig die Bälle zuspielen!
 
 
+## Jetzt wird es ernst: Hugo soll seine Bank belügen
+
+Rolf liefert endlich die ersehnten Zahlungsdaten – und entlarvt die Masche dabei deutlicher, als es jede Analyse könnte. Die 2.000 Euro sollen auf das deutsche Postbank-Konto eines angeblichen „Agenten“ gehen. Vor allem aber gibt der selbst ernannte UN-Botschafter eine bemerkenswerte Anweisung: Hugo dürfe seiner Bank auf keinen Fall sagen, dass er für eine Lieferung bezahlt. Stattdessen solle er die Überweisung als **„Family Support“** ausgeben.
+
+<details class="scam-accordion">
+  <summary>E-Mail: Rolf nennt das deutsche Empfängerkonto</summary>
+  <div class="accordion-content">
+    <blockquote>
+      <p>Dear Hugo<br></p>
+      <p>I acknowledge receipt of your email,<br></p>
+      <p>To ensure the smooth and secure processing of your delivery send payment to my agent in Germany. Please do not tell your bank that the payment is for a consignment delivery. Instead, let them know that the payment is for Family Support.<br></p>
+      <p>Below the account details of my agent.<br></p>
+      <p>Name: [geschwärzt]<br>
+      IBAN: DE77 •••• •••• •••• 1500<br>
+      BIC: DEUTDEDBP21<br>
+      Postbank<br>
+      Reference: Family Support<br>
+      Address: [geschwärzt], Frankfurt am Main<br></p>
+      <p>Should they ask about the purpose of the payment, tell them it's for a family support.<br></p>
+      <p>Please ensure you send the payment receipt immediately after completing the transaction. I have also send payment information to your brother Fabio Antonio.<br></p>
+      <p>Yours sincerely<br>
+      Amb. Rolf Klostermann<br>
+      United Nations (NY)<br>
+      Phone: (716) 256-3692<br>
+      Mail.: Rolf.klosterman@rolfcargo.com<br></p>
+    </blockquote>
+  </div>
+</details>
+
+Spätestens hier ist aus dem absurden Millionentheater eine ganz konkrete Zahlungsaufforderung geworden:
+
+* **Die Bank soll getäuscht werden:** Ein erfundener Verwendungszweck wie „Family Support“ soll die wahre Geschichte der Zahlung verschleiern und mögliche Nachfragen umgehen.
+* **Ein deutsches Durchgangskonto:** Dass das Geld an eine Privatperson in Deutschland statt an eine amerikanische Spedition geht, passt zum Einsatz sogenannter Finanzagenten. Ob der genannte Kontoinhaber selbst beteiligt ist oder seine Daten beziehungsweise sein Konto missbraucht werden, lässt sich anhand der Mail nicht beurteilen.
+* **Der Beleg als Druckmittel:** Hugo soll den Zahlungsnachweis sofort schicken. Damit könnten die Betrüger kontrollieren, ob die Überweisung tatsächlich ausgelöst wurde, und ihn bis zum Geldeingang weiter unter Druck setzen.
+
+**Wichtig:** Wer eine solche Zahlungsaufforderung erhält, sollte nichts überweisen und auch keinen gefälschten Verwendungszweck angeben. Die Nachricht und die vollständigen Kontodaten gehören stattdessen an die betroffene Bank und gegebenenfalls an die Polizei. Das hier genannte Konto haben wir im Artikel bewusst nicht vollständig veröffentlicht.
+
+---
+
+### Fabios großzügige 2.700 Dollar bleiben weiter unsichtbar
+
+Auch Fabio meldet sich prompt. Angeblich hat er Rolfs Zahlungsdaten erhalten und die versprochenen 2.700 Dollar schon griffbereit. Überweisen will er sie allerdings erst, nachdem Hugo seine 2.000 Euro losgeschickt hat:
+
+> Thank you for your email, I got the payment information from Rolf .. I have the $2,700 ready to send . Have you sent yours? Please let me know as soon as you send your $2000 so that I can immediately send mine okay.
+
+Damit ist die vermeintliche Zwickmühle auf wunderbar plumpe Weise gelöst: Weder Fabio noch Rolf bestätigen, dass Fabios Anteil eingegangen ist. Stattdessen drehen beide die Reihenfolge einfach um. **Erst soll das Opfer zahlen, dann will der Millionär angeblich seinen Anteil beisteuern.**
+
+Natürlich würden diese 2.700 Dollar niemals folgen. Sobald Hugos Geld auf dem deutschen Konto angekommen wäre, stünde mit großer Wahrscheinlichkeit bereits die nächste erfundene Gebühr vor der Tür: Zoll, Versicherung, Freigabecode oder eine diplomatische Sonderbehandlung. Die Namen wechseln, das Prinzip bleibt immer gleich – echtes Geld fließt nur vom Opfer zu den Betrügern.
 
 
+---
+
+## Hugo zahlt – und verplappert sich beim Verwendungszweck
+
+Nun bekommt Rolf endlich den heiß ersehnten Zahlungsbeleg. Hugo hat die 2.000 Euro angeblich überwiesen und schickt dem Diplomaten-Kurier pflichtbewusst einen Screenshot der Transaktion.
+
+Leider ist unserem unerfahrenen Millionen-Empfänger dabei ein winziges Missgeschick passiert: Statt des von Rolf ausdrücklich verlangten Tarnbegriffs **„Family Support“** hat Hugo als Verwendungszweck ausgerechnet **„consignment diplomatic fee“** eingetragen. Er hat seiner Bank also ziemlich genau das mitgeteilt, was er auf keinen Fall verraten sollte. Dumm gelaufen – Ehrlichkeit ist eben nicht immer die beste Diplomatenstrategie.
+
+![Fingierter Überweisungsbeleg über 2.000 Euro mit dem Verwendungszweck consignment diplomatic fee](/posts/2026-08-26-fabio-antonio/transaction.webp)
+
+Zusammen mit dem Screenshot geht folgende Nachricht an Rolf:
+
+> Dear Mr. Rolf Klosterman,
+>
+> good news, I have sent the 2,000 Euro! Please see my payment screenshot attached.
+>
+> I am sorry, I forgot to write "Family Support". I wrote "consignment diplomatic fee" because this is the truth and I am an honest man. I hope this is no problem for the bank.
+>
+> Please confirm when my money arrives. And please tell Mr. Fabio to send his 2,700 Dollar now, so you can start immediately with the delivery of my box.
+>
+> I am very excited and already make space in my living room!
+>
+> Many greetings,
+> Hugo
+
+Zur Sicherheit ganz deutlich: **Die abgebildete Überweisung ist vollständig fingiert. Es wurden weder 2.000 Euro noch irgendein anderer Betrag an das genannte Konto überwiesen.** Der Screenshot dient ausschließlich dazu, die Reaktion der Betrüger zu dokumentieren.
+
+Nun heißt es warten. Hoffentlich sorgt der etwas zu ehrliche Verwendungszweck nicht noch für Rückfragen bei der Bank oder dafür, dass die Zahlung am Ende hängen bleibt. Das wäre für unseren UN-Botschafter natürlich ausgesprochen ärgerlich. 😇

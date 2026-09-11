@@ -48,3 +48,15 @@ Um den Scammern so richtig auf den Zahn zu fühlen, braucht es natürlich die pa
 >   
 > Gruß aus Wanne-Eickel,  
 > Hugo  
+
+
+## Das Fazit der Geschichte
+
+Wie leider so oft im Leben eines hoffnungsvollen Spendenempfängers: Die Funkstille folgte auf dem Fuß. 🤫💨 Kaum geht es um konkrete Details (oder die Aussicht auf ein leckeres Nackensteak in Wanne-Eickel), zieht sich der vermeintliche Wohltäter Bernhard Straub wohl lieber wieder zurück.
+
+Auch wenn die Verlockung von 60.000 Euro groß ist und die Masche mit echten Namen wie der *Robert Bosch Stiftung GmbH* im ersten Moment seriös wirken soll: Niemand verschenkt einfach so Unmengen an Geld per E-Mail.
+
+* **Die Masche:** Typischer Vorschussbetrug (*Advance Fee Fraud*). Hätten wir weiter mitgespielt, wären als Nächstes verlockende "Bearbeitungsgebühren", "Notarkosten" oder "Freischaltgebühren" fällig geworden, die wir vorab hätten überweisen sollen.
+* **Die Lehre:** Wer auf solche Mails antwortet, erntet im besten Fall gar nichts und im schlimmsten Fall eine Lehrgeld-Zahlung an kriminelle Netzwerke.
+
+Hugo muss die neuen Schlappen für seinen 3er BMW also leider weiterhin selbst ersparen, und Waldi bleibt vorerst bei den ganz normalen Leckerlis. 🐕🏎️ Aber ein Gutes hat es: Wir haben wieder eine Scam-Mail entlarvt und Ihr seid hoffentlich um eine Erfahrung reicher (wenn auch nicht um 60.000 Euro). 🛡️✨

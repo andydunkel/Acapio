@@ -323,8 +323,34 @@ Hugo schickt den Beleg mit einer gewohnt kurzen und aufgeregten Nachricht ab:
 
 Jetzt schlägt die Stunde der Wahrheit für die "Acht-Arbeitsstunden-Garantie" der Bank. Mal sehen, wie lange es dauert, bis Jack merkt, dass auf dem Konto kein Cent eingegangen ist – oder ob er uns vor lauter Gier direkt die angeblichen Login-Daten schickt.
 
-Natürlich haben wir als Verwendungszweck ganz bewusst den Namen unseres russischen Freundes angegeben (*"Eugene Shvidler Fee"*). Wäre doch zu schade, wenn bei der Empfängerbank die automatischen Compliance-Systeme anspringen und die Anti-Geldwäsche-Filter bei einem sankionierten Promi-Namen plötzlich rot blinken.
+Natürlich haben wir als Verwendungszweck ganz bewusst den Namen unseres russischen Freundes angegeben (*"Eugene Shvidler Fee"*). Wäre doch zu schade, wenn bei der Empfängerbank die automatischen Compliance-Systeme anspringen und die Anti-Geldwäsche-Filter bei einem sanktionierten Promi-Namen plötzlich rot blinken.
 
+---
 
+## Die Phantomüberweisung hängt fest – Jack kennt sogar den Grund
 
+Die acht Arbeitsstunden sind vorbei, die 50 Millionen lassen weiter auf sich warten – und Jack meldet sich mit einem bemerkenswert präzisen Lagebericht aus der internationalen Hochfinanz. Angeblich hat sein Kundenbetreuer bereits mit der Bank gesprochen:
 
+> „Unser Kundenbetreuer hat sich mit der Bank in Verbindung gesetzt und bestätigt, dass die Zahlung derzeit zurückgehalten wird.“
+
+Das ist eine beachtliche Leistung. Schließlich gab es gar keine echte Überweisung. Der Beleg war vollständig fingiert und auf dem genannten Konto ist von Hugo kein einziger Cent eingegangen. Trotzdem hat die Green Atlantic Private Bank unsere Phantomzahlung offenbar nicht nur gefunden, sondern auch bereits herausbekommen, wo es klemmt:
+
+> „Die Bank kann nicht bestätigen, ob die Überweisung per SEPA-Verfahren erfolgte; folglich kann die Zahlung derzeit nicht freigegeben und mit der Empfängerbank abgewickelt werden.“
+
+Herrlich. Eine nicht vorhandene Überweisung wird also von einer Bank „zurückgehalten“, weil bei ihr unklar ist, auf welchem Überweisungsweg sie nie abgeschickt wurde. Das ist ungefähr so, als würde DHL melden, unser nie versendetes Paket liege im Verteilzentrum, leider könne man aber nicht erkennen, ob es mit dem Fahrrad oder dem Lieferwagen angekommen sei.
+
+Natürlich liegt die Lösung des Problems wieder bei Hugo:
+
+> „Wir möchten Sie daher bitten, sich an Ihre Bank zu wenden und eine Nachforschung zur Überweisung in Auftrag zu geben, um die Zahlungsmethode zu bestätigen und die Freigabe der Gelder zu ermöglichen.“
+
+Damit gewinnen die Betrüger Zeit und halten gleichzeitig ihre Geschichte am Leben. Statt zuzugeben, dass auf dem Empfängerkonto nichts angekommen ist, erfinden sie einen angeblichen Schwebezustand zwischen den Banken. Hugo soll nun selbst eine Nachforschung anstoßen und ihnen anschließend die Bestätigung liefern – vermutlich in der Hoffnung, dabei einen echten Bankbeleg oder weitere verwertbare Informationen zu erhalten.
+
+Besonders schön ist aber die Geschwindigkeit der Diagnose: Kein Geld, keine echte Transaktion, keine SEPA-Überweisung – aber Jack und seine Bank wissen trotzdem schon ganz genau, woran es liegt. Bei der Green Atlantic Private Bank wird offenbar nicht nur Geld verschlüsselt, sondern auch die Realität.
+
+### Hugo geht am Montag zur Bank
+
+Hugo nimmt die fachkundige Ferndiagnose natürlich ernst und verspricht, sich persönlich um die verschwundene Phantomüberweisung zu kümmern:
+
+> Was? das geld ist weg? ich sehe montag sofort zur bank
+
+Damit ist Jack fürs Wochenende erst einmal beruhigt. Am Montag soll nun also eine echte Bank nach einer Überweisung suchen, die niemals stattgefunden hat. Wir sind gespannt, welche erstaunlich konkrete Erklärung die Green Atlantic Private Bank als Nächstes aus ihrem E-Tresor zieht.

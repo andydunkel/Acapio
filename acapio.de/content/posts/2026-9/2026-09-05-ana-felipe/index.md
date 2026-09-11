@@ -215,8 +215,77 @@ Die Betrüger verlangen ab sofort konkrete Bankdaten (IBAN, BIC, Bankname).
 
 ---
 
+## Phase 4: Für 360 Euro zum Millionenerbe – ein echtes Schnäppchen! 💸
 
+Und da ist sie endlich: die erste Rechnung. Nachdem Hugo seine angeblichen Bankdaten geliefert hat, kostet der Weg zu den versprochenen 4,5 Millionen Euro plötzlich **360 Euro**. Für internationale Erbschaftsverhältnisse, Anwalt, Bank und Behörden ist das beinahe verdächtig günstig – und genau darin liegt der Trick.
 
+Bei solchen Betrugsmaschen fallen die angeblichen Gebühren oft deutlich höher aus – wenn die Täter zulangen, dann gerne richtig. Die hier verlangten **360 Euro** wirken im Verhältnis zu den versprochenen 4,5 Millionen daher fast schon wie ein Sonderangebot. Möglicherweise soll der vergleichsweise niedrige Einstieg lediglich die erste Zahlungshürde senken. Wer einmal überweist, bekommt anschließend erfahrungsgemäß weitere Gebühren, Steuern und plötzlich dringend benötigte Bescheinigungen präsentiert. Das vermeintliche Erbe bleibt dabei stets genau eine Überweisung entfernt.
 
+<details class="scam-accordion">
+  <summary>Ana kommt zur Sache: Gebühren</summary>
+  <div class="accordion-content">
+    <blockquote>
+      <p>Lieber geliebter Hugo,<br></p>
+      <p>Vielen Dank für die Übermittlung Ihrer Bankdaten; ich habe diese an die ausführende Bank sowie an den Anwalt weitergeleitet, damit die erforderlichen Unterlagen erstellt werden können. Ich möchte mich aufrichtig entschuldigen, falls diese und meine vorherige E-Mail Sie überrascht haben. Hiermit möchte ich Sie darüber informieren, dass alle für die Dokumente benötigten Angaben vorliegen, da ich heute Morgen den Namen der Bank sowie die Adresse von Frau Sara Patrick erhalten habe. Für die Bereitstellung der unten aufgeführten Unterlagen fallen Kosten in Höhe von 360 € an – ein Punkt, auf den ich sie bereits zu Beginn hingewiesen habe.<br></p>
+      <p>IRS: 50 €<br>
+      DC: 100 €<br>
+      Testament: 130 €<br>
+      Stempelsteuer: 80 €<br></p>
+      <p>Die Unterlagen können bis nächsten Montag fertiggestellt sein (Wochenenden ausgenommen). Dies hängt jedoch davon ab, wann die Zahlung erfolgt. Sollte die Zahlung noch heute oder morgen (Freitag) möglich sein, ist eine Fertigstellung bis Montag sichergestellt.<br></p>
+      <p>Bitte veranlassen Sie die Zahlung daher per Banküberweisung, Western Union oder MoneyGram, damit der Betrag umgehend gutgeschrieben werden kann. Sobald Sie mir mitteilen, wann die Zahlung erfolgt, werde ich Ihnen die entsprechenden Daten sowie alle für die Abwicklung erforderlichen Unterlagen zukommen lassen. Nach Geldeingang wird die Bank unverzüglich mit dem Verfahren und der Ausstellung des entsprechenden Erbnachweises (Letter of Administration) beginnen. Wie ich bereits in meiner vorherigen E-Mail erwähnte, ist diese Transaktion zu 100 % risikofrei.<br></p>
+      <p>Bitte teilen Sie mir zudem mit, wann und auf welchem Weg (Banküberweisung oder sonstige Methode) Sie die Zahlung vornehmen, damit ich die zuständige Sachbearbeiterin informieren kann. Eine Kopie ihres Personalausweises ist dieser E-Mail beigefügt; sie war die Sachbearbeiterin für das Konto meiner verstorbenen Eltern.<br></p>
+      <p>Bitte antworte bald<br>
+      Aufrichtig<br></p>
+    </blockquote>
+  </div>
+</details>
 
+Die Gebührenliste wirkt dabei eher wie das Tagesangebot einer besonders günstigen Fantasiebehörde:
 
+* **IRS – 50 Euro:** Was die US-amerikanische Steuerbehörde mit einem angeblichen Nachlass in Istanbul zu tun haben soll, bleibt Anas Geheimnis.
+* **DC – 100 Euro:** Zwei Buchstaben, null Erklärung, hundert Euro. Bürokratie kann so schön unkompliziert sein.
+* **Testament – 130 Euro:** Das Dokument, auf dem die ganze Geschichte angeblich beruht, muss offenbar erst jetzt gegen Bezahlung bereitgestellt werden.
+* **Stempelsteuer – 80 Euro:** Kein Vorschussbetrug ohne einen amtlich klingenden Stempelposten.
+
+Auch der Zeitdruck gehört zur Masche: Wer heute oder spätestens Freitag zahlt, bekommt die Unterlagen angeblich schon am Montag. Western Union und MoneyGram werden ausdrücklich angeboten, weil Zahlungen darüber für Opfer nur schwer zurückzuholen sind. Das wiederholte Versprechen, alles sei „zu 100 % risikofrei“, ist dabei ungefähr so beruhigend wie ein Gebrauchtwagenverkäufer, der ungefragt betont, der Motor brenne *fast nie*.
+
+### Der „Ausweis“ der Sachbearbeiterin: Bild statt Beweis 🪪
+
+Damit die Forderung seriöser aussieht, legt Ana noch den angeblichen Personalausweis der Bankmitarbeiterin bei:
+
+![Angeblicher Personalausweis der zuständigen Sachbearbeiterin](/posts/2026-09-05-ana-felipe/ausweis.webp)
+
+Woher dieses Bild tatsächlich stammt, lässt sich anhand der Mail nicht feststellen. Es könnte sich um eine Musterkarte, eine manipulierte Aufnahme oder auch um das Dokument einer unbeteiligten Person handeln. Genau deshalb beweist ein mitgeschicktes Ausweisfoto überhaupt nicht, dass der Absender die abgebildete Person ist oder für eine Bank arbeitet. Solche Dokumente werden bei Betrugsversuchen vor allem eingesetzt, um Seriosität vorzutäuschen und letzte Zweifel vor der ersten Zahlung auszuräumen.
+
+Damit ist die Dramaturgie komplett: erst Mitleid, dann Millionenaussicht, anschließend Datensammlung und schließlich eine überschaubare Vorauszahlung. Das Ausweisfoto soll Vertrauen schaffen, ist aber kein belastbarer Beleg für die Identität des Absenders. **Kein Geld überweisen, keine weiteren Daten senden und den Kontakt abbrechen.**
+
+---
+
+## Hugos Antwort: Wohin mit dem günstigen Millionenerbe? 🐾💶
+
+Hugo ist selbstverständlich bereit, das internationale Erbschaftswesen mit seinen 360 Euro anzukurbeln. Nur die Zahlungsdaten fehlen noch. Also fragt er lieber ganz genau nach – schließlich soll sein Geld nicht versehentlich beim falschen Testament landen:
+
+> **Betreff: Zahlung der 360 Euro**
+>
+> Hallo liebe Ana,
+>
+> 360 Euro für Unterlagen zu 4,5 Millionen Euro klingt fair. Ich möchte per Banküberweisung bezahlen, weil Western Union und MoneyGram bei uns nicht direkt um die Ecke sind.
+>
+> Meine Bank benötigt dafür bitte folgende Angaben:
+>
+> - vollständiger Name des Kontoinhabers
+> - IBAN beziehungsweise Kontonummer
+> - BIC/SWIFT-Code
+> - Name und Anschrift der Bank
+> - Land des Empfängerkontos
+> - genauer Verwendungszweck, den ich eintragen soll
+>
+> Bitte schreibt mir den Verwendungszweck genauso, wie er auf der Überweisung stehen muss. Nicht dass die 360 Euro am Ende beim falschen Testament landen – Waldi wäre schwer enttäuscht.
+>
+> Bekomme ich nach der Zahlung außerdem eine offizielle Rechnung oder Zahlungsbestätigung über die vier Gebühren?
+>
+> Röhrende Grüße
+> Hugo
+> und Dackel Waldi 🐾
+
+Jetzt warten wir gespannt darauf, auf welches Konto die 360 Euro fließen sollen – und welchen kreativen Verwendungszweck die vermeintliche Millionenerbin dafür vorgesehen hat.
