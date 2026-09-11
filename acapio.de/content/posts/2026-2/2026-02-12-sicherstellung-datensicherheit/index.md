@@ -177,3 +177,9 @@ Wer eine solche Nachricht erhält, sollte:
 Die Masche funktioniert nicht wegen technischer Raffinesse, sondern wegen psychologischem Druck. Je offizieller der Ton, desto kritischer sollte man werden.
 
 Transparenz ist wichtig, aber nicht gegenüber Kriminellen.
+
+---
+
+**Siehe auch:**
+- [IHK: Letzte Mahnung zur Aktualisierung](/posts/2025-04-04_ihk-mahnung/)
+- [EU Trade Register: Unterschrift mit teuren Folgen](/posts/2025-10-15_trade-register/)

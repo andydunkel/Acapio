@@ -57,4 +57,5 @@ Am Ende bleibt uns nur eines klar: Der einzige "Gewinn" hier ist die Erkenntnis!
 **Siehe auch:**
 - [Bitcoin-Kauf über PayPal – Phishing mit Krypto-Köder](/posts/2025-01-09_bitcoin_paypal/)
 - [PayPal-Phishing: Neue Anmeldung – der Klassiker](/posts/2026-03-21-paypal-login/)
+- [PayPal-Zahlung über eine gekaperte Webseite](/posts/2026-05-12-paypal-zahlung/)
 

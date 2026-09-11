@@ -43,3 +43,9 @@ In vielen Fällen soll man dafür eine **Fernwartungssoftware** installieren ode
 Die angebliche Norton-Rechnung ist nichts weiter als ein **klassischer Tech-Support-Scam**. Wichtigster Hinweis ist die Aufforderung, eine Telefonnummer anzurufen, um eine angebliche Abbuchung zu stoppen. Seriöse Unternehmen wie NortonLifeLock arbeiten so nicht.
 
 Die richtige Reaktion ist daher ganz einfach: **nicht anrufen, nicht reagieren und die Mail löschen.** Wer unsicher ist, prüft sein Konto immer direkt beim Anbieter selbst - aber niemals über Telefonnummern oder Links aus der verdächtigen E-Mail. 📧⚠️
+
+---
+
+**Siehe auch:**
+- [Geek Squad: Rechnung für ein Abo, das es nie gab](/posts/2025-03-10_geek-squad/)
+- [Microsoft-Rechnung über 370 Dollar: nicht anrufen](/posts/2026-06-04-microsoft/)

@@ -90,3 +90,9 @@ Wenn das Finanzamt dir Geld geben will, ganz ohne Nachfrage, dann ist das höchs
 Auch dieser Kontakt läuft ohne menschlichen Gesprächspartner. Die Phisher locken mit einer Steuerrückzahlung, fragen zunächst persönliche Angaben und danach Kreditkartendaten ab. Ein Validierungsskript sortiert erfundene Eingaben offenbar direkt aus – die Täter wollen keine langen Geschichten, sondern möglichst schnell verwertbare Daten.
 
 Der Angriff endet also nicht durch eine Diskussion, sondern nach dem automatischen Formular. Wer echte Daten eingibt, hat den Scammern ihr Ziel bereits geliefert; wer Unsinn einträgt, bekommt lediglich eine Fehlermeldung. Ein echtes Finanzamt kennt Name, Steuernummer und Bankweg – es braucht ganz sicher keinen CVC-Code, um Geld zurückzuzahlen. Der einzige verlässliche Bescheid lautet hier: löschen. ☕💸
+
+---
+
+**Siehe auch:**
+- [Ihre Steuerrückzahlung ist da – und zuerst soll die Bank gewählt werden](/posts/2025-12-12_finanzamt/)
+- [Finanzamt-Mail mit Malware-Anhang](/posts/2026-03-10-finanzamt/)

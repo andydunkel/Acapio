@@ -402,3 +402,8 @@ Besonders entlarvend ist dabei, wie wenig die Betrüger auf Rückfragen eingehen
 Unterm Strich ist klar: Die versprochenen 500.000 Euro existieren nur als Kulisse. Das eigentliche Ziel ist es, an Geld, Ausweisdaten und im Zweifel sogar an ein frisch eröffnetes Konto des Opfers zu kommen. Wer bei so etwas mitmacht, riskiert nicht nur ein paar Hundert Euro Vorschuss, sondern unter Umständen Identitätsdiebstahl, Konto-Missbrauch und massive Folgeschäden.
 
 Die wichtigste Lehre daraus ist simpel: **Wo Millionen versprochen werden, aber zuerst Gebühren, Ausweise und Geheimhaltung verlangt werden, geht es nie um Reichtum, sondern immer nur um Betrug.**
+
+---
+
+**Siehe auch:**
+- [10 Millionen Dollar und die WING HANG BANK](/posts/2025-01-17_wing-hang-bank/)

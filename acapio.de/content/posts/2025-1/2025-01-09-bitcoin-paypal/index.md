@@ -54,3 +54,4 @@ Genau darauf ist die Nachricht nämlich gebaut. Die frei erfundene Bitcoin-Beste
 **Siehe auch:**
 - [PayPal-Gewinnspiel: Sie haben eine Geschenkkarte erhalten](/posts/2025-01-23_paypal-gewinnspiel/)
 - [PayPal-Phishing: Neue Anmeldung – der Klassiker](/posts/2026-03-21-paypal-login/)
+- [PayPal-Zahlung über eine gekaperte Webseite](/posts/2026-05-12-paypal-zahlung/)

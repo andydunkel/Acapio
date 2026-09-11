@@ -113,5 +113,6 @@ Nicht jeder „PayPal-Login” kommt von PayPal - manche kommen direkt vom Scamm
 **Siehe auch:**
 - [Bitcoin-Kauf über PayPal – Phishing mit Krypto-Köder](/posts/2025-01-09_bitcoin_paypal/)
 - [PayPal-Gewinnspiel: Sie haben eine Geschenkkarte erhalten](/posts/2025-01-23_paypal-gewinnspiel/)
+- [PayPal-Zahlung über eine gekaperte Webseite](/posts/2026-05-12-paypal-zahlung/)
 
 

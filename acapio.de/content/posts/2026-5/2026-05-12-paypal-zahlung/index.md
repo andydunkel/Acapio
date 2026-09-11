@@ -57,3 +57,10 @@ Hier wird es technisch interessant: Die URL lautet `buerger-fuer-swisttal.de`. E
 ## Fazit: Was tun?
 
 Wenn du eine solche Mail erhältst: **Niemals über die Links in der E-Mail einloggen.** Gehe immer manuell auf `paypal.com` oder nutze die offizielle App. Wenn dort keine Aktivität in deinen Aktivitäten auftaucht, kannst du die Mail getrost löschen – oder noch besser: als Anhang an `spoof@paypal.com` weiterleiten.
+
+---
+
+**Siehe auch:**
+- [Bitcoin-Kauf über PayPal – Phishing mit Krypto-Köder](/posts/2025-01-09_bitcoin_paypal/)
+- [PayPal-Gewinnspiel: Sie haben eine Geschenkkarte erhalten](/posts/2025-01-23_paypal-gewinnspiel/)
+- [PayPal-Phishing: Neue Anmeldung – der Klassiker](/posts/2026-03-21-paypal-login/)

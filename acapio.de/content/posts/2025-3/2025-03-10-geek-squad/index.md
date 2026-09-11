@@ -80,3 +80,9 @@ Wer die angegebene Hotline anruft, gerät direkt in die Falle der Betrüger. Mö
 Diese Art von Phishing-Mail ist eine beliebte Betrugsmasche, die darauf abzielt, Panik zu verbreiten und Opfer dazu zu bringen, unüberlegt zu handeln. 
 
 **Bleibe skeptisch, wenn du unerwartete Rechnungen erhältst, und prüfe stets die Quelle, bevor du darauf reagierst.**
+
+---
+
+**Siehe auch:**
+- [Norton will 349 Dollar – angeblich](/posts/2026-03-13-norton-lifelock/)
+- [Microsoft-Rechnung über 370 Dollar: nicht anrufen](/posts/2026-06-04-microsoft/)

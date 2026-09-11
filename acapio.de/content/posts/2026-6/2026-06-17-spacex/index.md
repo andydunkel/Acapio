@@ -150,4 +150,9 @@ Auch wenn die Reise hier abrupt endet, war diese E-Mail ein Paradebeispiel für 
 
 **Das goldene Gesetz des Internets bleibt:** Wenn dir der reichste Mensch der Welt völlig ohne Grund über eine kostenlose Gmail-Adresse 4 Millionen Dollar schenken will, dann klick nicht auf Antworten. Löschen, als Spam markieren und weitergehen. 
 
-Außer natürlich, euer Name ist Hugo, ihr kommt aus dem Ruhrpott und wolltet dem "Milliardär" einfach mal ordentlich die Zeit stehlen! 😉  
+Außer natürlich, euer Name ist Hugo, ihr kommt aus dem Ruhrpott und wolltet dem "Milliardär" einfach mal ordentlich die Zeit stehlen! 😉
+
+---
+
+**Siehe auch:**
+- [Hugo aus Wanne-Eickel vs. Elon Musk und Tesla](/posts/2025-01-25-elon-musk-tesla/)

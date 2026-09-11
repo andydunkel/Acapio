@@ -409,3 +409,9 @@ Seit dem legendären Fake-Screenshot herrscht am anderen Ende der Leitung absolu
 * **Deutsche IBANs sind keine Garantie:** Wie man sieht, nutzen Betrüger gezielt deutsche Konten von Ahnenlosen oder Geldwäsche-Mules, um Seriosität vorzugaukeln.
 
 Hugo geht nun leider ohne Platin-Karte, aber mit vollem Portemonnaie und bester Laune in den Feierabend. Passt auf eure Daten auf – und bleibt skeptisch! 🛡️ Pass auf dich auf und lass dich nicht verarschen!
+
+---
+
+**Siehe auch:**
+- [Professor Barros und die angebliche EU-Entschädigung](/posts/2025-11-07_eu-entschaedigung/)
+- [Noch eine angebliche EU-Entschädigung: Frau Vogt und die Bitcoin-Gebühr](/posts/2026-04-10-eu-entschaedigung/)

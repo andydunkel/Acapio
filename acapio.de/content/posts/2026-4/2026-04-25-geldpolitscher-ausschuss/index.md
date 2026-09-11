@@ -534,3 +534,8 @@ Nachdem Nobert uns mit Kitsch-Parabeln über Kapitäne und Oasen die Taschen vol
 * 🎭 **Die Rollen-Zirkus:** Unser Scammer war Banker, Professor, Notar-Zeuge, Untermieter beim britischen Premier und am Ende Philologe. Sie spielen jede Rolle, um an Daten zu kommen.
 * 💸 **Die flexible Gier:** Als Hugo wegen des TÜVs nur noch 1.500 € statt 6.500 € bot, ging das plötzlich auch. Betrüger nehmen jeden Cent, den sie kriegen können.
 * 🇧🇪 **Die Geldwäsche-Falle:** Am Ende sollte das Geld für das britische Erbe nach Belgien an eine Privatperson („Sissel Johansen“) via WISE gehen. Der absolute Beweis für ein illegales Finanzagenten-Netzwerk.
+
+---
+
+**Siehe auch:**
+- [Norbert, der geldpolitische Ausschuss und die Erbschaft](/posts/2026-03-12-mitglied-des-geldpolitischen-ausschusses/)

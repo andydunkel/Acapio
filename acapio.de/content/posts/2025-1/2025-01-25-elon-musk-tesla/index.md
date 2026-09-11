@@ -50,3 +50,8 @@ Leider bekommen wir keine Antwort, da die Domain "**elonmuskorganization.com**" 
 Dieser Kontakt bricht ganz am Anfang ab, allerdings nicht wegen besonders kritischer Fragen von Hugo. Die Antwortadresse liegt auf einer bereits gesperrten Domain, sodass der vermeintliche Elon seine großartige Aktienübergabe gar nicht mehr fortsetzen kann. Wahrscheinlich wurde die Infrastruktur frühzeitig gemeldet und vom Provider abgeschaltet – ein erfreulich unspektakuläres Ende für einen angeblichen Vier-Millionen-Dollar-Gewinn.
 
 Die Masche selbst setzt vollständig auf einen bekannten Namen, eine astronomische Summe und die Hoffnung, dass der Empfänger vor lauter Tesla-Aktien nicht auf die Absenderdomain schaut. Zu Datenforderungen oder Gebühren kommt es diesmal gar nicht mehr. Der Scammer scheitert also nicht an der Börse, sondern bereits am Domain-Parkplatz. 🚀🔒
+
+---
+
+**Siehe auch:**
+- [Post von Elon Musk: vier Millionen Dollar in SpaceX-Aktien](/posts/2026-06-17-spacex/)

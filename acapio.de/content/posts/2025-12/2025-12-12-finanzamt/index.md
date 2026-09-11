@@ -51,3 +51,9 @@ Diese E-Mail ist ein Paradebeispiel für modernes Phishing: optisch sauber gesta
 Wer eine echte Rückzahlung erhält, bekommt entweder einen Steuerbescheid per Post oder eine Gutschrift auf das bereits bekannte Konto, ganz ohne Verifikation, Captcha oder Onlinebanking-Abfrage. Sobald eine Behörde nach Zugangsdaten fragt, ist die Sache eindeutig.
 
 Kurz gesagt: **Wenn eine Steuerrückzahlung wie ein Gewinnspiel klingt, ist sie auch eines, nur ohne Gewinn.**
+
+---
+
+**Siehe auch:**
+- [Bundeszentralamt für Steuern will meine Kontodaten](/posts/2025-05-19_steuererstattung-bundeszentralamt/)
+- [Finanzamt-Mail mit Malware-Anhang](/posts/2026-03-10-finanzamt/)

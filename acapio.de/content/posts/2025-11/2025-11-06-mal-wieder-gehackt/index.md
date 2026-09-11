@@ -112,4 +112,11 @@ Oft stammen sie von Botnetzen oder Spamservern mit gefälschten Absendern. Die g
 
 ## Fazit - man kann es ja mal probieren
 
-Wir prüfen die Bitcoin-Adresse. Stand heute hat noch niemand gezahlt. 
+Wir prüfen die Bitcoin-Adresse. Stand heute hat noch niemand gezahlt.
+
+---
+
+**Siehe auch:**
+- [Keine Panik: Diese Sextortion-E-Mail ist nur ein Fake](/posts/2025-01-05_sie_wurden_gehackt/)
+- [Sextortion-Scam: Was steckt hinter der Erpressungsmail?](/posts/2025-03-03_sextortion-scam/)
+- [„Hi pervert!“: Angeblicher Hacker fordert Bitcoin](/posts/2026-07-28-hacker/)

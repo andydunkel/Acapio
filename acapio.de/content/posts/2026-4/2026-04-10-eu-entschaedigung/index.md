@@ -232,3 +232,9 @@ Die Scammer geben nun Gas, Nachrichten über WhatsApp, wann wir endlich zahlen u
 Zwar kein Rekord, was die [Transaktionen](/bitcoin/) angeht, aber ein wenig Geld scheinen die Scammer schon eingenommen zu haben.
 
 ![Bitcoin-Adresse](/posts/2026-04-10-eu-entschaedigung/bitcoin.webp)
+
+---
+
+**Siehe auch:**
+- [Professor Barros und die angebliche EU-Entschädigung](/posts/2025-11-07_eu-entschaedigung/)
+- [Professor Karla Barros meldet sich erneut](/posts/2026-07-04-polnischer/)

@@ -115,3 +115,5 @@ Sextortion-Scams leben von Angst und Scham, sind aber nichts als leere Drohungen
 
 **Siehe auch:**
 - [Sextortion-Scam: Erpressung per E-Mail – was steckt wirklich dahinter?](/posts/2025-03-03_sextortion-scam/)
+- [Die Porno-Erpressung, die keine ist](/posts/2025-11-06_mal-wieder-gehackt/)
+- [„Hi pervert!“: Angeblicher Hacker fordert Bitcoin](/posts/2026-07-28-hacker/)

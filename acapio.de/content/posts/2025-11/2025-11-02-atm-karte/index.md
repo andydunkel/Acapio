@@ -438,4 +438,11 @@ Und falls die E-Mails weiter eintrudeln: einfach lachen, löschen, Hafferöder a
 
 ![](/posts/2025-11-02_atm-karte/finish.webp)
 
+---
+
+**Siehe auch:**
+- [Scammer schicken echte Kreditkarten](/posts/2025-05-23_echte-kreditkarten/)
+- [Blanko-Bankkarten und Märchenprinzen](/posts/2025-02-01-cyberkarte/)
+- [1,8 Millionen Dollar gewonnen – die Kreditkarte kommt gleich mit](/posts/2026-07-21-kahraman/)
+
 

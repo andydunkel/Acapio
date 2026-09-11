@@ -37,3 +37,10 @@ Fazit: wer zahlt, macht sich nur zu einem weiteren Opfer der Scammer. In den mei
 Die "echte" Kreditkarte ist natürlich ein genialer Schachzug, er ist überzeugend und soll dazu animieren weiteres Geld überzeugen. Nur noch ein vermeintlicher Schritt zu den Millionen.
 
 ![Die Absenderadresse aus Afrika](/posts/2025-05-23_echte-kreditkarten/creditcard_2.webp)
+
+---
+
+**Siehe auch:**
+- [Die Wunder-ATM-Karte: Geld abheben wie ein Phantom](/posts/2025-11-02_atm-karte/)
+- [Blanko-Bankkarten und Märchenprinzen](/posts/2025-02-01-cyberkarte/)
+- [1,8 Millionen Dollar gewonnen – die Kreditkarte kommt gleich mit](/posts/2026-07-21-kahraman/)

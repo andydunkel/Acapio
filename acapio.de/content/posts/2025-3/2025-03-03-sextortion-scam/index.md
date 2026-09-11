@@ -84,6 +84,8 @@ Sextortion-Scams sind nichts weiter als ein dreister Betrugsversuch. Niemand hat
 
 **Siehe auch:**
 - [Keine Panik: Diese Erpressungsmail ist ein Fake](/posts/2025-01-05_sie_wurden_gehackt/)
+- [Die Porno-Erpressung, die keine ist](/posts/2025-11-06_mal-wieder-gehackt/)
+- [„Hi pervert!“: Angeblicher Hacker fordert Bitcoin](/posts/2026-07-28-hacker/)
 
 
 

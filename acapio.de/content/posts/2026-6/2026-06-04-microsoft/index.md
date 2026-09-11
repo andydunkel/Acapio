@@ -45,3 +45,9 @@ Hier sind die drei größten Red Flags dieser Nachricht:
 * **Das eigentliche Ziel (Die Telefonnummer):** Das gesamte Konstrukt dient nur einem Zweck: Du sollst die Nummer **1-856-601-6700** anrufen. Wer dort anruft, landet nicht bei Microsoft, sondern in einem Callcenter von Betrügern. Diese versuchen dann unter dem Vorwand einer „Stornierung“, Zugriff auf den PC (via Fernwartungssoftware) oder direkt auf die Bankdaten des Opfers zu erlangen.
 
 **Fazit:** Keine Panik! Es wurde kein Geld abgebucht. Die Mail hat nur das Ziel, dich zu einem unüberlegten Anruf zu verleiten. Das Beste, was du tun kannst: Ignorieren und ab in den Spam-Ordner damit.
+
+---
+
+**Siehe auch:**
+- [Geek Squad: Rechnung für ein Abo, das es nie gab](/posts/2025-03-10_geek-squad/)
+- [Norton will 349 Dollar – angeblich](/posts/2026-03-13-norton-lifelock/)

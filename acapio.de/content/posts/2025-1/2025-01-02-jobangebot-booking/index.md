@@ -183,5 +183,10 @@ DIe Abzocke dürfte in zwei Wellen laufen, zuerst der kleine Betrag um auf die 1
 
 Dass man erst Geld ausgeben muss, um Geld zu verdienen, ist natürlich ein völlig legitimes Geschäftsmodell. Schließlich weiß ja jeder, dass echte Arbeitgeber uns ihre Kontodaten geben, um darauf großzügig „Investitionen“ zu tätigen. 
 
-Kurz gesagt: Wer auf solche Angebote reinfällt, kann sich nicht nur über neue Crypto-Skills freuen, sondern auch darüber, wie viel Geduld und Zeit Betrüger heutzutage investieren. Hut ab! 
+Kurz gesagt: Wer auf solche Angebote reinfällt, kann sich nicht nur über neue Crypto-Skills freuen, sondern auch darüber, wie viel Geduld und Zeit Betrüger heutzutage investieren. Hut ab!
+
+---
+
+**Siehe auch:**
+- [Deutscher gesucht: Konto, Identität und Computer bitte gleich mitbringen](/posts/2026-07-25-upwork/)
 

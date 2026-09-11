@@ -65,3 +65,9 @@ Wir geben ein paar Fake-Daten ein, diese werden übermittelt. Gut möglich, dass
 Solche E-Mails wirken auf den ersten Blick seriös, setzen gezielt auf amtlich klingende Sprache und Zeitdruck, um Unternehmen zur unbedachten Handlung zu bewegen. Doch wer genau hinschaut, erkennt schnell die typischen Merkmale eines Phishing-Versuchs.  
 
 **Wichtig ist: Nicht reagieren, keine Links anklicken und die Mail löschen!**
+
+---
+
+**Siehe auch:**
+- [EU Trade Register: Unterschrift mit teuren Folgen](/posts/2025-10-15_trade-register/)
+- [Transparenzregister: angebliche Sicherstellung der Datenrichtigkeit](/posts/2026-02-12-sicherstellung-datensicherheit/)

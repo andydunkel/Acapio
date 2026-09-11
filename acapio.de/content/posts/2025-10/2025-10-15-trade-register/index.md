@@ -98,3 +98,9 @@ Aber: Wer hinschaut, gewinnt. 👀
 Die E-Mail ist kein offizielles Schreiben der EU, sondern schlicht und einfach **eine perfide Geschäftemacherei**.
 
 Also: Finger weg vom PDF, Kaffee trinken, einmal laut lachen, und dann ab damit in den Papierkorb!
+
+---
+
+**Siehe auch:**
+- [IHK: Letzte Mahnung zur Aktualisierung](/posts/2025-04-04_ihk-mahnung/)
+- [Transparenzregister: angebliche Sicherstellung der Datenrichtigkeit](/posts/2026-02-12-sicherstellung-datensicherheit/)

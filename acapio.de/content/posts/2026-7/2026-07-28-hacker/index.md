@@ -114,3 +114,10 @@ Der selbst ernannte „expert intruder“ hat vermutlich weder die Webcam übern
 Die Mischung aus Scham, Angst, technischem Kauderwelsch und Zeitdruck soll das Denken ausschalten und die Bitcoin-Zahlung beschleunigen.
 
 **Also: nicht zahlen, nicht antworten und nicht von den dekorativen Sonderzeichen beeindrucken lassen. Der gefährliche Super-Trojaner ist in diesem Fall sehr wahrscheinlich nur eine schlecht formatierte E-Mail.**
+
+---
+
+**Siehe auch:**
+- [Keine Panik: Diese Sextortion-E-Mail ist nur ein Fake](/posts/2025-01-05_sie_wurden_gehackt/)
+- [Sextortion-Scam: Was steckt hinter der Erpressungsmail?](/posts/2025-03-03_sextortion-scam/)
+- [Die Porno-Erpressung, die keine ist](/posts/2025-11-06_mal-wieder-gehackt/)

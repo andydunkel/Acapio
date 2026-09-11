@@ -126,3 +126,9 @@ Also fragte Hugo höflich nach, ob es **irgendein offizielles Dokument oder Sieg
 ## Fazit
 
 Wie so oft bleibt am Ende Funkstille, sobald man **kritische Fragen** stellt, ist der große Geldsegen plötzlich verdampft. Keine 1,5 Millionen Euro, keine EU-Dokumente, keine Professorin Barros, nur heiße Luft und eine dubiose Bankadresse bei *accountant.com*. Offenbar war Hugo diesmal wieder zu schlau für den internationalen „Hilfsfonds“. Der BMW-Club Wanne-Eickel hat’s geahnt: Wenn’s um Millionen geht und keiner mehr antwortet, dann war’s wohl wieder nur **ein Betrug mit EU-Siegel aus dem Tintenstrahldrucker**.
+
+---
+
+**Siehe auch:**
+- [Noch eine angebliche EU-Entschädigung: Frau Vogt und die Bitcoin-Gebühr](/posts/2026-04-10-eu-entschaedigung/)
+- [Professor Karla Barros meldet sich erneut](/posts/2026-07-04-polnischer/)

@@ -210,3 +210,10 @@ Am Ende blieb es bei großen Versprechen, einer angeblichen 1,8-Millionen-Dollar
 Nachdem wir auf ein aktuelles Foto bestanden und WhatsApp abgelehnt haben, war plötzlich Schluss. Vermutlich war genau das der Punkt, an dem die Betrüger gemerkt haben, dass hier kein leichtes Opfer zu holen ist. 📵
 
 Warum WhatsApp so wichtig war, lässt sich nur vermuten: Dort können Betrüger direkter Druck machen, schneller reagieren und den Kontakt persönlicher wirken lassen. Per E-Mail blieben wir dagegen hartnäckig bei unseren Fragen – und offenbar war das weniger attraktiv als die versprochenen 1,8 Millionen. 😄
+
+---
+
+**Siehe auch:**
+- [Scammer schicken echte Kreditkarten](/posts/2025-05-23_echte-kreditkarten/)
+- [Die Wunder-ATM-Karte: Geld abheben wie ein Phantom](/posts/2025-11-02_atm-karte/)
+- [Blanko-Bankkarten und Märchenprinzen](/posts/2025-02-01-cyberkarte/)

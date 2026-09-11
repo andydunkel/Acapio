@@ -384,3 +384,10 @@ Ein Versuch, den Scammern noch eine letzte Nachricht zu senden, um sich nach dem
 
 Basti hat seine 699 Euro noch, Rudi bekommt trotzdem sein Leckerli, und ein Betrüger-Account weniger verpestet das Netz. Unser Experiment zeigt: Skepsis ist der beste Schutz. Sobald jemand „Vorkasse“, „illegale Bankkarten“ oder „Freunde und Familie“-Überweisungen fordert, sollte man den Stecker ziehen.
 
+---
+
+**Siehe auch:**
+- [Scammer schicken echte Kreditkarten](/posts/2025-05-23_echte-kreditkarten/)
+- [Die Wunder-ATM-Karte: Geld abheben wie ein Phantom](/posts/2025-11-02_atm-karte/)
+- [1,8 Millionen Dollar gewonnen – die Kreditkarte kommt gleich mit](/posts/2026-07-21-kahraman/)
+

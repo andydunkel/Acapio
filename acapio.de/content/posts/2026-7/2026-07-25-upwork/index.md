@@ -177,3 +177,7 @@ Das Angebot klingt zunächst nach leicht verdientem Geld, ist aber in Wahrheit e
 
 Die zehn oder 25 Prozent Provision wären dabei eher Schmerzensgeld: Gesperrte Konten, Ärger mit Kunden, Zahlungsdiensten, Arbeitgebern oder dem Finanzamt blieben nämlich an uns hängen. Deshalb gilt: Kein AnyDesk-Zugriff, keine Zugangsdaten, kein Lebenslauf und keine „Partnerschaft“ mit Fremden, die vor allem unsere deutsche Identität brauchen. 🐹
 
+---
+
+**Siehe auch:**
+- [Online-Job im Namen von Booking: erst einzahlen, dann verdienen](/posts/2025-01-02_geld_verdienen_online/)
