@@ -129,13 +129,13 @@ Noch besser: **Rechtsanwalt-Daten** werden ebenfalls abgefragt, vermutlich für 
 
 Ach ja, die **finanziellen Details**? Die scheinen nicht so wichtig zu sein. Keine Fragen zu **Sicherheiten, Unternehmenszahlen oder wirtschaftlicher Tragfähigkeit**, nur eine **Zahl für den Kreditbetrag und die gewünschte Währung**.  
 
-![](/posts/2025-02-11_norton-finance-ltd/formular.webp)
+![](/posts/2025-02-10_norton-finance-ltd/formular.webp)
 
 ### Wir "füllen" das Formular aus
 
 Da uns das ganze etwas viel Arbeit ist, lassen wir die Arbeit durch ChatGPT erstellen. Das Layout ist anders, aber mit einer kleinen Notlüge geht es sicher.
 
-![](/posts/2025-02-11_norton-finance-ltd/formular_1.webp)
+![](/posts/2025-02-10_norton-finance-ltd/formular_1.webp)
 
 > Dear Mr. Robert,    
 >   

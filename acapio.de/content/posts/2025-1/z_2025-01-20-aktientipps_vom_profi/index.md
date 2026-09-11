@@ -66,7 +66,7 @@ Wir spielen das Spiel mal mit und "kaufen" die Aktie. Als Beweis sollen wir eine
 
 Der erste passt nicht, daher erstellen wir einen zweiten.
 
-![](/posts/2025-01-20_aktien_tipps_vom_chef/fake_depot.webp)
+![](/posts/2025-01-20_aktien_tipps_vom_chef/fake_depot.png)
 
 ## 4 Tage später und danach
 

@@ -211,7 +211,7 @@ Es wird immer wilder! Dirk hat uns ein „Testament“ geschickt und schickt uns
 * 🏠 **Die Adresse:** Wer wusste nicht, dass der Premier nebenher eine Bankfiliale betreibt?
 * 👤 **Der Kontakt:** Ein gewisser „Herr West Norbert“ (klingt wie ein Vorname, der seinen Nachnamen sucht).
 
-![Das Testament von Hugos Onkel](/posts/2026-04-30-michael-weirsky/testament.webp)
+![Das Testament von Hugos Onkel](/posts/2026-04-25-geldpolitscher-ausschuss/testament.webp)
 
 ---
 
