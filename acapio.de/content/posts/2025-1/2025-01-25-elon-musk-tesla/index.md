@@ -44,3 +44,9 @@ Natürlich lassen wir uns die Chance nicht entgehen, Elon persönlich zu antwort
 Leider bekommen wir keine Antwort, da die Domain "**elonmuskorganization.com**" bereits gesperrt wurde. Hier wird jemand die Domain beim Provider gemeldet haben. Somit werden wir nie erfahren, ob wir die Tesla-Aktien jemals bekommen hätten. 😭
 
 ![Fehlermeldung, Domain wurde gesperrt](/posts/2025-01-25-elon-musk-tesla/suspended.png)
+
+## Fazit
+
+Dieser Kontakt bricht ganz am Anfang ab, allerdings nicht wegen besonders kritischer Fragen von Hugo. Die Antwortadresse liegt auf einer bereits gesperrten Domain, sodass der vermeintliche Elon seine großartige Aktienübergabe gar nicht mehr fortsetzen kann. Wahrscheinlich wurde die Infrastruktur frühzeitig gemeldet und vom Provider abgeschaltet – ein erfreulich unspektakuläres Ende für einen angeblichen Vier-Millionen-Dollar-Gewinn.
+
+Die Masche selbst setzt vollständig auf einen bekannten Namen, eine astronomische Summe und die Hoffnung, dass der Empfänger vor lauter Tesla-Aktien nicht auf die Absenderdomain schaut. Zu Datenforderungen oder Gebühren kommt es diesmal gar nicht mehr. Der Scammer scheitert also nicht an der Börse, sondern bereits am Domain-Parkplatz. 🚀🔒

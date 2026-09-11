@@ -52,6 +52,12 @@ Wir haben mit Betroffenen gesprochen, die uns erzählt haben, was wirklich passi
 
 Die Moral der Geschichte? Sobald Sie merken, dass Sie reingelegt wurden, heißt es: Karte sperren, schneller als ein Hamster auf Speed! Und keine Sorge, es ist keine Schande, reinzufallen, nur handeln sollten Sie fix, bevor Ihr Konto leergefegt ist.
 
+## Fazit
+
+Bei diesem Phishing gibt es keinen persönlichen Kontakt, der abbrechen könnte. Die Täter haben den gesamten Ablauf automatisiert: Eine angeblich offene Paketgebühr erzeugt Neugier, die gefälschte Sendungsverfolgung schafft Vertrauen und das Formular sammelt erst persönliche Daten und anschließend die Kreditkarte ein. Danach erscheint nur noch eine belanglose Wartemeldung, denn aus Sicht der Scammer ist die Arbeit bereits erledigt.
+
+Dass die angekündigten 2,99 Euro häufig gar nicht abgebucht werden, entlarvt den eigentlichen Plan. Es geht nie um Porto, sondern um möglichst unauffälligen Zugang zu einer echten Kreditkarte. Das vermeintliche DHL-Paket bleibt deshalb für immer im digitalen Verteilzentrum – die Täter gehen währenddessen lieber mit fremdem Geld einkaufen. 📦🛒
+
 ---
 
 **Siehe auch:**

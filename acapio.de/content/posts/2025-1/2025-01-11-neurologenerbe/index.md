@@ -614,3 +614,9 @@ Offenbar will man gezielt vermeiden, dass Außenstehende zufällig über die Sei
 
 Wir melden die Seite an die Missbrauchsstellen des Providers.
 
+## Fazit
+
+Dieser Kontakt bricht nicht früh ab – die Scammer kämpfen bis weit in die Verlängerung. Sie liefern seitenlange Geschichten, erfundene Bankdokumente und eine „Courtage Trust Bank“, verlangen 699,99 Pfund für ein Platinum-Konto und tauschen nach unserer vermeintlichen Überweisung sogar den Zahlungsempfänger aus. Der plötzlich erkrankte Agent ist dabei vermutlich weniger medizinischer Notfall als Folge eines gemeldeten Kontos.
+
+Selbst als Hugo die Sache ausdrücklich storniert, akzeptiert Haskel das nicht. Stattdessen erhöht er den Druck und zaubert auf Nachfrage noch eine versteckt erreichbare Bankwebseite aus dem Hut. Das zeigt sehr schön, wie Scammer reagieren, wenn sie eine Zahlung schon zum Greifen nah glauben: Sie brechen nicht freiwillig ab, sondern reparieren ihre Geschichte mit immer neuen Dokumenten, Konten und Ausreden. Am Ende bekommt Hugo zwar keine acht Millionen Pfund, dafür bekommt der Provider einen Abuse-Report – auch eine Form von Vermögensverwaltung. 🏦😄
+

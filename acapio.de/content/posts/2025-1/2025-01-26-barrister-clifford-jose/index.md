@@ -93,5 +93,11 @@ Hugo wäre nicht Hugo, wenn er blindlings auf die Forderungen von Clifford einge
 >   
 > I hope you understand my concern. Please send me something official so I can trust this process.    
 >   
-> Thank you,    
-> Hugo     
+> Thank you,
+> Hugo
+
+## Fazit
+
+Der Kontakt kommt zunächst schnell in Gang: Auf Hugos Interesse reagiert Clifford ausführlich, versichert mehrfach die angebliche Legalität und verlangt direkt einen kompletten Satz persönlicher Daten samt Ausweiskopie. Die versprochenen 21 Millionen Dollar sind dabei vor allem die glänzende Verpackung für Identitätsdiebstahl und die später bereits vorsichtig angekündigten „zusätzlichen Zahlungen“.
+
+Im dokumentierten Verlauf endet die Unterhaltung noch relativ früh, unmittelbar nachdem Hugo einen offiziellen Nachweis verlangt. Bis zu einer Sicherheitsfirma, konkreten Gebühr oder Bankverbindung schafft es der angebliche Anwalt nicht mehr. Die Ursache lässt sich nicht beweisen, liegt aber nahe: Ein vorbereitetes Formular lässt sich leicht verschicken, ein überprüfbarer Beleg für einen erfundenen Erbfall deutlich schlechter. Bei Clifford gilt damit offenbar: Vertrauen ist zwingend erforderlich – Beweise eher nicht. ⚖️

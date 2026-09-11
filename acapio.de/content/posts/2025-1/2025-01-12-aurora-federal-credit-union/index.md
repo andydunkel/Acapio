@@ -216,4 +216,10 @@ Die Spannung steigt, doch Hugo bleibt skeptisch, schließlich hat er Uwe an sein
 >   
 > **P.S.:** Der Uwe sagt, er glaubt das erst, wenn das Geld wirklich da ist. Und Uwe hat immer recht!  
 
-Hugo weiß: Mit Uwe auf seiner Seite kann eigentlich nichts schiefgehen, außer vielleicht, dass Frau Myers langsam die Geduld verliert. Mal sehen, ob sie sich auf die 500-Euro-Testüberweisung einlässt. Schließlich ist Vertrauen ja wichtig... 😏  
+Hugo weiß: Mit Uwe auf seiner Seite kann eigentlich nichts schiefgehen, außer vielleicht, dass Frau Myers langsam die Geduld verliert. Mal sehen, ob sie sich auf die 500-Euro-Testüberweisung einlässt. Schließlich ist Vertrauen ja wichtig... 😏
+
+## Fazit
+
+Bis zum dokumentierten Ende bricht der Kontakt nicht ausdrücklich ab. Die angebliche Beth Myers reagiert sogar auf Hugos Ruhrpott-Einlagen, wird aber sofort schärfer, sobald er die verlangten Daten zurückhält. Als Einschüchterung nicht funktioniert, wechselt sie zurück zur Vertrauensnummer und produziert kurzerhand ein personalisiertes Schreiben mit Janet Yellen. Das Drehbuch ist flexibel, das Ziel bleibt stur dasselbe: Ausweis, Bankverbindung und möglichst wenig Widerrede.
+
+Hugos Forderung nach einer kleinen Testüberweisung dreht das Prinzip am Ende genüsslich um. Plötzlich soll nicht mehr das Opfer Vertrauen beweisen, sondern die vermeintliche Bank. Genau an diesem Punkt ist der Fall vorerst offen – und es wäre überraschend, wenn die großzügige Zehn-Millionen-Dollar-Bank auch nur 500 echte Euro in Wanne-Eickel auftreiben könnte. Uwe dürfte also wieder einmal recht behalten. 🍻

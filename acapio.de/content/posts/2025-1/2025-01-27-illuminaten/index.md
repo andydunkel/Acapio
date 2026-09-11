@@ -5,7 +5,6 @@ params:
 date: "2025-01-27"
 featured: true
 toc: true
-draf: true
 tags: 
   -  "Scam"
 categories:
@@ -291,3 +290,9 @@ Gut, dann geben wir uns auch keine Mühe, schreiben zurück und stellen uns absi
 Dummerweise sind wir immer nie in der Nähe des Telefons, jetzt sollen wir auch noch mit WorldRemmit zahlen. Nie gehört!
 
 ![](/posts/2025-01-27-illuminaten/anrufe.webp)
+
+## Fazit
+
+Die angeblichen Illuminaten brechen den Kontakt bis zum Ende des Artikels nicht ab. Nachdem sie persönliche Daten abgefragt und zwei Millionen Dollar samt Golfpaket versprochen haben, kommt die wahre Erleuchtung: Hugo soll 650 Euro Mitgliedsgebühr an eine Privatperson in Istanbul schicken. Als MoneyGram nicht funktioniert, folgen Anrufe, WhatsApp-Druck und mit WorldRemit direkt die nächste Zahlungsmöglichkeit.
+
+Der Kontakt befindet sich damit schon weit im Verlauf, und die Scammer bleiben hartnäckig, weil Hugo weiterhin Zahlungsbereitschaft signalisiert. Rückfragen nach Zertifikat, Barzahlung oder dem falschen Zielland bringen sie nicht aus der Rolle; sie kürzen lediglich ihre Antworten und drängen immer deutlicher auf Geld. Für eine Organisation, die angeblich die Geschicke der Menschheit lenkt, ist ihre Macht am Ende erstaunlich begrenzt: Sie reicht nicht einmal dazu, eine Mitgliedsgebühr von den versprochenen zwei Millionen abzuziehen. 👁️💸

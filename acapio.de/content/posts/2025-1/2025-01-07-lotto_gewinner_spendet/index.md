@@ -267,7 +267,13 @@ Ein Screenshot als Beweis? Nee, damit geben wir uns nicht zufrieden. Hugo will�
 >   
 > Könnten Sie mir vielleicht Rudolfs WhatsApp-Nummer schicken? Würd mich echt mal interessieren, wie er so drauf ist und ob das alles wirklich so easy gelaufen ist. Ist ja auch für mich wichtig, wenn ich hier in die große Millionärsrunde einsteige, dass ich weiß, worauf ich mich einlasse.    
 >   
-> Also, her mit der Nummer, wir klären das mal direkt mit dem Kollegen!    
->   
-> Beste Grüße aus’m Pott,    
-> Ihr Hugo    
+> Also, her mit der Nummer, wir klären das mal direkt mit dem Kollegen!
+>
+> Beste Grüße aus’m Pott,
+> Ihr Hugo
+
+## Fazit
+
+Der Kontakt läuft zunächst wie am Fließband: Simmons liefert die Millionengeschichte, seine angebliche Anwältin übernimmt sofort und fordert Ausweis, Bankdaten und den restlichen digitalen Hausstand. Selbst unsere zweite Kontaktaufnahme als Hugo wird mit nahezu demselben Text beantwortet. Das zeigt ziemlich deutlich, dass hier kein persönliches Gespräch geführt, sondern ein vorbereitetes Drehbuch abgearbeitet wird.
+
+Still wird es erst relativ spät, als wir nicht nur irgendeinen Screenshot akzeptieren, sondern die WhatsApp-Nummer des angeblich bereits ausgezahlten Rudolf verlangen. Genau diese überprüfbare Verbindung können die Scammer offenbar nicht liefern, ohne dass ihr selbst gebastelter Beweis auseinanderfällt. Solange Hugo Daten schicken soll, ist Frau Massi blitzschnell zur Stelle. Sobald Hugo selbst jemanden sprechen möchte, scheint die Millionärsrunde plötzlich Funkloch zu haben. 📵💰

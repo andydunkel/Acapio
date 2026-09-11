@@ -506,6 +506,12 @@ Viel gibt es nicht zu sehen, bisher wurde die Adresse nicht verwendet.
 >
 > Schick mir einen Screenshot des Zahlungsbelegs, sobald du die BTC gesendet hast.
 
+## Fazit
+
+Von einem freiwilligen Kontaktabbruch kann hier keine Rede sein. Die Scammer halten über viele Runden durch, erfinden eine komplette Bank, erstellen Dokumente, schicken ein litauisches Privatkonto und melden sich ungeduldig, sobald die vermeintliche Zahlung ausbleibt. Erst die Sperrung von `northlinetrust.uk` sorgt für eine kurze Zwangspause, weil mit der Webseite auch die Bank-Mailadressen verschwinden.
+
+Danach geben sie aber nicht auf, sondern kehren über Gmail zurück und wechseln einfach von Banküberweisung zu Bitcoin. Dieses Verhalten zeigt, wie anpassungsfähig die Täter werden, wenn sie ein Opfer bereits weit im Prozess glauben: Fällt ein Konto oder eine Domain aus, wird nicht die Geschichte beendet, sondern nur der Zahlungsweg ausgetauscht. Der Artikel endet daher spät, aber bei weiterhin aktivem Kontakt – mit einer leeren Bitcoin-Wallet als neuester Hoffnung der Scammer und der Fortsetzung bereits in Sicht. ₿🎭
+
 ---
 
 **Siehe auch:**

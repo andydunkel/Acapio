@@ -41,6 +41,12 @@ Natürlich hat Hugo, unser Mann aus dem Pott, direkt auf die E-Mail reagiert, sc
 >   
 > Freu mich auf Ihre Antwort. Danke nochmal, echt klasse von Ihnen!    
 >   
-> Beste Grüße aus Wanne-Eickel,    
-> Hugo    
-> BMW-Club-Mitglied und immer offen für was Gutes  
+> Beste Grüße aus Wanne-Eickel,
+> Hugo
+> BMW-Club-Mitglied und immer offen für was Gutes
+
+## Fazit
+
+Der Kontakt endet praktisch direkt nach dem Köder. Die Scammer verschicken den Namen eines echten Powerball-Gewinners, eine gewaltige Spendensumme und eine Gmail-Adresse – auf Hugos begeisterte Rückfrage folgt im dokumentierten Verlauf aber nichts mehr. Ob das Postfach bereits aufgegeben war, die Kampagne beendet wurde oder der Ruhrpott-Charme nicht ins Beuteschema passte, bleibt offen.
+
+Das Verhalten passt zu breit gestreuten Lockmails: Erst einmal werden möglichst viele Empfänger angeschrieben, weitergearbeitet wird nur mit den Antworten, die schnell und leicht verwertbar erscheinen. In diesem Fall schafft es die angebliche 1,5-Millionen-Euro-Spende nicht einmal bis zur üblichen Datenabfrage oder Vorabgebühr. Theodorus war offenbar schon wieder weg, bevor Hugo den BMW für die Fahrt zur Bank starten konnte. 🚗💨

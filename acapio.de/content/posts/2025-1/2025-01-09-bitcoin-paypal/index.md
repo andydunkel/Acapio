@@ -43,6 +43,12 @@ Kreditkartendaten? Online-Banking-Login? Die Gelegenheit, sich eine teure „Sch
 
 Unser Tipp: Spar dir den Anruf und die Nerven, und lass die Betrüger in ihrer Warteschleife versauern. 😊
 
+## Fazit
+
+Der Kontaktversuch endet hier bereits am Anfang: Unter der angegebenen Telefonnummer hebt niemand ab. Ob die Nummer schon abgeschaltet war, nur zu bestimmten Zeiten besetzt wurde oder anonyme Anrufer bewusst aussortiert wurden, lässt sich nicht feststellen. Sicher ist nur, dass die Masche ohne das Telefongespräch nicht weiterkommt.
+
+Genau darauf ist die Nachricht nämlich gebaut. Die frei erfundene Bitcoin-Bestellung soll Panik auslösen und das Opfer dazu bringen, selbst beim angeblichen PayPal-Support anzurufen. Erst dort könnten die Scammer Zugangsdaten, Fernzugriff oder eine „Stornierungsgebühr“ verlangen. Wer stattdessen direkt ins echte PayPal-Konto schaut, beendet das Drehbuch, bevor der falsche Support-Mitarbeiter überhaupt seinen großen Auftritt bekommt. ☎️₿
+
 ---
 
 **Siehe auch:**
