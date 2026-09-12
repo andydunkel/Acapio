@@ -486,7 +486,6 @@ Damit treiben wir die Scammer in ein herrliches Dilemma:
 
 Hugo hat außerdem klargestellt, dass er erst auf die Bestätigung wartet, dass Fabios Anteil eingegangen ist, bevor er selbst aktiv wird. Mal sehen, wie sich die beiden Betrüger-Rollen jetzt gegenseitig die Bälle zuspielen!
 
-
 ## Jetzt wird es ernst: Hugo soll seine Bank belügen
 
 Rolf liefert endlich die ersehnten Zahlungsdaten – und entlarvt die Masche dabei deutlicher, als es jede Analyse könnte. Die 2.000 Euro sollen auf das deutsche Postbank-Konto eines angeblichen „Agenten“ gehen. Vor allem aber gibt der selbst ernannte UN-Botschafter eine bemerkenswerte Anweisung: Hugo dürfe seiner Bank auf keinen Fall sagen, dass er für eine Lieferung bezahlt. Stattdessen solle er die Überweisung als **„Family Support“** ausgeben.
@@ -535,6 +534,57 @@ Auch Fabio meldet sich prompt. Angeblich hat er Rolfs Zahlungsdaten erhalten und
 Damit ist die vermeintliche Zwickmühle auf wunderbar plumpe Weise gelöst: Weder Fabio noch Rolf bestätigen, dass Fabios Anteil eingegangen ist. Stattdessen drehen beide die Reihenfolge einfach um. **Erst soll das Opfer zahlen, dann will der Millionär angeblich seinen Anteil beisteuern.**
 
 Natürlich würden diese 2.700 Dollar niemals folgen. Sobald Hugos Geld auf dem deutschen Konto angekommen wäre, stünde mit großer Wahrscheinlichkeit bereits die nächste erfundene Gebühr vor der Tür: Zoll, Versicherung, Freigabecode oder eine diplomatische Sonderbehandlung. Die Namen wechseln, das Prinzip bleibt immer gleich – echtes Geld fließt nur vom Opfer zu den Betrügern.
+
+---
+
+## Rolfcargo ist offline: Beim Diplomaten-Lieferdienst gehen die Lichter aus 🚨
+
+Während Fabio und Rolf noch mit Dollarbeträgen jonglieren, hat sich bei der angeblichen Spedition etwas Entscheidendes getan: **Die Website von Rolfcargo ist nicht mehr erreichbar.** Statt weltweiter Luftfracht, diplomatischer Sonderzustellung und Motorroller-Romantik begrüßt Besucher nur noch der Hinweis *„Domain Suspended“*.
+
+![Die Domain von Rolfcargo wurde gesperrt](/posts/2026-08-26-fabio-antonio/domain_suspended.webp)
+
+Laut dieser Meldung wurde die Domain beziehungsweise das Hosting wegen erreichter Servergrenzen *„oder Ähnlichem“* gesperrt. Was dieses wunderbar dehnbare „Ähnliche“ genau bedeutet, verrät die Seite natürlich nicht. Möglich ist, dass der Hoster nach unserer Meldung reagiert hat; ebenso könnte ein technisches oder vertragliches Problem dahinterstecken. Sicher ist nur: **Die angeblich rund um die Uhr aktive internationale Spedition besitzt derzeit nicht einmal eine funktionierende Website.**
+
+Für ein Unternehmen, das 18 Millionen Dollar sicher um die halbe Welt transportieren will, ist das ein eher überschaubarer Vertrauensbeweis. Vielleicht ist der diplomatische Motorroller einfach gegen das Serverlimit gefahren. 🛵💥
+
+---
+
+## Rolf wartet auf Geld – und auf Fabios wundersamen Anteil 💰
+
+Die verschwundene Website hält unseren selbst ernannten UN-Botschafter nicht vom Geschäft ab. Rolf bestätigt knapp, dass er Hugos Zahlungsbeleg erhalten habe. Wichtig ist die feine Formulierung: Er bestätigt **nicht den Eingang des Geldes**, sondern lediglich den Eingang des Belegs. Sobald die Zahlung tatsächlich auftauche, wolle er Bescheid geben. Außerdem warte er weiterhin darauf, dass Fabio den Restbetrag überweist.
+
+> Dear Hugo,
+>
+> I acknowledge receipt of the payment receipt.
+> I will let you know as soon as I receive the money, also I am expecting your brother Fabio to send the balance.
+
+Damit bleibt Rolf vorsichtshalber jede Hintertür offen: Ein Screenshot ist eben noch kein Geld – eine erstaunlich vernünftige Erkenntnis ausgerechnet aus dem Hause Rolfcargo. Gleichzeitig wird Fabio nun offiziell in die Pflicht genommen. Unser angeblich schwerreicher Wohltäter muss endlich zeigen, ob seine Großzügigkeit mehr hervorbringt als fromme Grüße und kreative E-Mails.
+
+---
+
+## Fabio hat „bezahlt“: Drei Bilder, null Beweis ✅🤨
+
+Und tatsächlich: Bruder Fabio meldet Vollzug. Er behauptet, den offenen Betrag überwiesen und den Beleg direkt an Herrn Rolf weitergeleitet zu haben. Nun möchte er nur noch erfahren, wann die Lieferung startet – und natürlich, wann Hugo endlich die geheimnisvollen Millionen erhält.
+
+> Hello my brother Hugo,
+>
+> I just sent the balance and I have attached the receipt. I forwarded the receipt to Mr Rolf. Please let me know as soon as they give you delivery date and when also when you receive the consignment funds.
+>
+> God bless you.
+> Your brother Fabio
+
+Als Beweis hängt Fabio diese eindrucksvolle Bildschirm-Collage an:
+
+![Fabios angeblicher Zahlungsbeleg über 2.750 US-Dollar](/posts/2026-08-26-fabio-antonio/fabio_trans.webp)
+
+Der „Beleg“ wirft mehr Fragen auf, als er beantwortet:
+
+* **Unbekannte Bank:** Zu sehen ist eine angebliche Nachricht der *Zyban Capitals Trust* sowie eine Banking-Oberfläche im mobilen Browser. Ein überprüfbarer Kontoauszug oder ein Beleg einer etablierten Bank ist das nicht.
+* **Der falsche Empfänger:** Die Zahlung geht laut Screenshot nicht an Rolf Klosterman oder Rolfcargo, sondern an eine ganz andere Privatperson. Für eine seriöse internationale Spedition wäre das mindestens erklärungsbedürftig.
+* **Kreative Mathematik:** Zuletzt war von 2.700 beziehungsweise 2.714 Dollar Restbetrag die Rede. Fabios Screenshot zeigt plötzlich **2.750 Dollar** zuzüglich 27,50 Dollar Gebühr. Bei 18 Millionen in der Kiste kommt es auf fünfzig Dollar offenbar nicht mehr an. 🧮
+* **Ein Bild beweist keine Überweisung:** Solche Ansichten lassen sich leicht nachbauen oder manipulieren. Selbst ein echt wirkender Status wie *„Approved“* oder *„Transaction Successful“* belegt nicht, dass Geld unwiderruflich auf einem realen Empfängerkonto angekommen ist.
+
+Die Rollenverteilung funktioniert also weiter: Fabio liefert einen vermeintlichen Zahlungsnachweis, Rolf wartet angeblich noch auf den tatsächlichen Geldeingang und Hugo soll möglichst als Einziger echtes Geld überweisen. Genau darin liegt der Kern der Inszenierung. **Die Betrüger können sich gegenseitig beliebige Belege schicken – verlieren würde nur das Opfer, das am Ende tatsächlich zahlt.**
 
 
 ---
