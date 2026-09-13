@@ -615,3 +615,15 @@ Zusammen mit dem Screenshot geht folgende Nachricht an Rolf:
 Zur Sicherheit ganz deutlich: **Die abgebildete Überweisung ist vollständig fingiert. Es wurden weder 2.000 Euro noch irgendein anderer Betrag an das genannte Konto überwiesen.** Der Screenshot dient ausschließlich dazu, die Reaktion der Betrüger zu dokumentieren.
 
 Nun heißt es warten. Hoffentlich sorgt der etwas zu ehrliche Verwendungszweck nicht noch für Rückfragen bei der Bank oder dafür, dass die Zahlung am Ende hängen bleibt. Das wäre für unseren UN-Botschafter natürlich ausgesprochen ärgerlich. 😇
+
+---
+
+## Rolf bestätigt Fabios Restzahlung
+
+Rolf meldet sich noch einmal mit einer knappen Bestätigung: Fabios Restzahlung sei nun bei ihm eingegangen.
+
+> Dear Hugo,
+>
+> Balance payment has been received from your brother Fabio.
+
+Damit ist die Inszenierung komplett: Fabio hat angeblich gezahlt, Rolf bestätigt den angeblichen Eingang – nur ein unabhängig prüfbarer Nachweis fehlt weiterhin.
