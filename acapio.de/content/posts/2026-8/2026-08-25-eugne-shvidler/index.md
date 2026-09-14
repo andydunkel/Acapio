@@ -354,3 +354,67 @@ Hugo nimmt die fachkundige Ferndiagnose natürlich ernst und verspricht, sich pe
 > Was? das geld ist weg? ich sehe montag sofort zur bank
 
 Damit ist Jack fürs Wochenende erst einmal beruhigt. Am Montag soll nun also eine echte Bank nach einer Überweisung suchen, die niemals stattgefunden hat. Wir sind gespannt, welche erstaunlich konkrete Erklärung die Green Atlantic Private Bank als Nächstes aus ihrem E-Tresor zieht.
+
+---
+
+## Bloß nicht zur Bank gehen – die App reicht völlig! 📱🏦
+
+Kaum kündigt Hugo an, persönlich bei seiner Bank vorbeizuschauen, tritt Jack auf die Bremse. Ein Besuch sei gar nicht nötig. Praktisch: Am Schalter könnte schließlich ein echter Mitarbeiter die Geschichte vom 50-Millionen-Dollar-E-Tresor hören und unangenehme Fragen stellen.
+
+<details class="scam-accordion">
+  <summary>E-Mail: Bitte nicht zur Bank – und alles schön vertraulich behandeln</summary>
+  <div class="accordion-content">
+    <blockquote>
+      <p>Guten Tag Hugo,<br></p>
+      <p>Vielen Dank für Ihre Rückmeldung.<br></p>
+      <p>Es hat den Anschein, dass die Bank den Geldbetrag noch nicht vollständig bearbeitet oder freigegeben hat und sich die Transaktion möglicherweise noch im System in der Schwebe befindet. Ein persönlicher Besuch bei der Bank sollte nicht erforderlich sein. Sie können sich einfach über Ihre Banking-App oder den Kundenservice an die Bank wenden und erklären, dass der Empfänger das Geld noch nicht erhalten hat.<br></p>
+      <p>Bitte bitten Sie die Bank, den Status der Überweisung zu bestätigen – insbesondere, ob sie per SEPA oder einer anderen Methode veranlasst wurde und ob Prüfungen oder Sperren vorliegen, die eine Freigabe des Geldes an den Empfänger verhindern. Sollte dies der Fall sein, erkundigen Sie sich bitte, was von Ihrer Seite erforderlich ist, um die Überweisung abzuschließen.<br></p>
+      <p>Möglicherweise liegt dies lediglich daran, dass es sich um Ihre erste Überweisung an diesen spezifischen Empfänger oder dieses Finanzinstitut handelt.<br></p>
+      <p>Bitte behandeln Sie die Einzelheiten der Transaktion mit unserem Mandanten und uns zudem vertraulich und geben Sie diese nur dann weiter, wenn dies von Ihrer Bank oder einer anderen zuständigen Behörde begründet verlangt wird. Wir möchten eine unnötige Weitergabe von Informationen über den Mandanten oder von Transaktionsdetails an unbeteiligte Dritte vermeiden.<br></p>
+      <p>Vielen Dank für Ihr Verständnis. Bitte halten Sie mich über die Rückmeldung der Bank auf dem Laufenden.<br></p>
+      <p>Mit freundlichen Grüßen<br>
+      Jack Connery</p>
+    </blockquote>
+  </div>
+</details>
+
+Für die nicht vorhandene Zahlung hat Jack gleich mehrere Zustände erfunden: nicht bearbeitet, nicht freigegeben oder einfach „im System in der Schwebe“. Nur auf dem Empfängerkonto ist das Phantomgeld weiterhin ganz eindeutig nicht.
+
+> „Ein persönlicher Besuch bei der Bank sollte nicht erforderlich sein.“
+
+Aber selbstverständlich nicht. Ein echter Bankangestellter könnte den Betrug erkennen, vor der Überweisung warnen oder das Empfängerkonto prüfen. Also lieber die App öffnen und bloß keinen Menschen mit Erfahrung dazuholen. Gleichzeitig soll Hugo klären, ob die Zahlung per SEPA erfolgte – obwohl die angebliche Privatbank den Beleg längst geprüft haben will.
+
+### Pssst, die 50 Millionen sind vertraulich! 🤫
+
+> „Bitte behandeln Sie die Einzelheiten der Transaktion mit unserem Mandanten und uns zudem vertraulich [...]“
+
+Natürlich soll alles vertraulich bleiben. Gemeint sind vermutlich vor allem jene lästigen Freunde, Verwandten und Bankmitarbeiter, die nach zwei Sätzen sagen würden: **Hugo, das ist Vorschussbetrug.** Die Geheimhaltung schützt nicht den Mandanten, sondern die Geschichte der Betrüger vor gesundem Menschenverstand.
+
+**Hugos Zwischenfazit:** 50 Millionen Dollar dürfen angeblich um die halbe Welt reisen – aber Hugo bitte nicht bis zum Bankschalter. Da könnte am Ende noch jemand sitzen, der sich mit Geld auskennt. 😉
+
+---
+
+## Zu spät: Die Bank sperrt Hugos Konto 🚨
+
+Hugo hat Jacks freundlichen Hinweis leider missverstanden und ist trotzdem persönlich zur Bank gegangen. Dort sorgten die Überweisung, der Name *Eugene Shvidler* und die Geschichte vom russischen Millionenvermögen angeblich für wenig Begeisterung. Statt 50 Millionen gibt es nun eine Kontosperre und Fragen zu Geldwäsche und Sanktionen.
+
+Das teilen wir unserem Premium-Bankmanager natürlich sofort mit:
+
+> **Betreff: Mein Konto wurde gesperrt!!!**
+>
+> Hallo Herr Connery,
+>
+> ich war jetzt persönlich bei meiner Bank. Die haben sich die Überweisung angesehen und danach sofort mein Konto gesperrt!
+>
+> Der Bankmitarbeiter sagte, es besteht Verdacht auf Geldwäsche und es gäbe Probleme wegen russischen Sanktionen und dem Namen Eugene Shvidler im Verwendungszweck. Jetzt kann ich nicht mal mehr meine Miete bezahlen und die Bank will von mir wissen, wer Sie sind und warum ich das Geld an diese Firma überweisen sollte.
+>
+> Sie haben doch gesagt, dass alles legal ist! Was soll ich der Bank jetzt erklären? Bitte schicken Sie mir dringend einen offiziellen Nachweis von Ihrer Bank und bestätigen Sie, dass die Überweisung nichts mit Geldwäsche oder russischen Sanktionen zu tun hat.
+>
+> Ich bekomme langsam richtig Angst.
+>
+> Gruß<br>
+> Hugo
+
+Damit ist aus Jacks gewünschter Diskretion genau das geworden, was er vermeiden wollte: Ein echter Bankmitarbeiter schaut hin. Jetzt darf die „Green Atlantic Private Bank“ erklären, warum ihre angeblich völlig legale Transaktion plötzlich nach Geldwäsche aussieht – und weshalb die Gebühr für einen russischen Milliardär an ein britisches Logistikunternehmen gehen sollte.
+
+Wir sind gespannt, ob Jack nun ein weiteres Fantasie-Dokument ausstellt oder ob der Premium-Kundenservice plötzlich Betriebsferien hat.

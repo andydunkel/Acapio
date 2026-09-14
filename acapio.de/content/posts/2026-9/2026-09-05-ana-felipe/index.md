@@ -289,3 +289,50 @@ Hugo ist selbstverständlich bereit, das internationale Erbschaftswesen mit sein
 > und Dackel Waldi 🐾
 
 Jetzt warten wir gespannt darauf, auf welches Konto die 360 Euro fließen sollen – und welchen kreativen Verwendungszweck die vermeintliche Millionenerbin dafür vorgesehen hat.
+
+---
+
+## Phase 5: Der Sohn des Anwalts soll in Italien kassieren 🇮🇹💸
+
+Ana meldet sich erneut. Die eigentlichen Kontodaten hält sie zwar noch zurück, dafür liefert sie bereits die passende Erklärung, weshalb die angeblichen Gebühren weder an eine Behörde noch an eine Kanzlei gehen sollen: Der Anwalt möchte kurzerhand das italienische Konto seines dort studierenden Sohnes verwenden.
+
+<details class="scam-accordion">
+  <summary>E-Mail: Das Konto des Anwaltssohns in Italien</summary>
+  <div class="accordion-content">
+    <blockquote>
+      <p>Lieber geliebter Hugo,<br></p>
+      <p>Vielen Dank für Ihre E-Mail und Ihr freundliches Verständnis bezüglich dieser Transaktion. Ich weiß Ihre Bemühungen in dieser Angelegenheit sehr zu schätzen; ich habe mich bereits mit dem zuständigen Sachbearbeiter und dem Anwalt wegen der 360 € für die oben genannten Gebühren (IRS, DC, Testament, Stempelsteuer) in Verbindung gesetzt, damit alle Dokumente bearbeitet werden und die Transaktion schnellstmöglich erfolgreich abgeschlossen werden kann. Bitte tun Sie alles in Ihrer Macht Stehende, um diese Gelder für mich zu sichern, bis ich das 18. Lebensjahr vollendet habe. Wir werden daher das übliche, rechtmäßige Verfahren für Erbansprüche befolgen, um sicherzustellen, dass weder jetzt noch in Zukunft Probleme auftreten.</p>
+      <p>Der Anwalt hat mich zudem gebeten, Ihnen bezüglich der Zahlungsabwicklung zu schreiben, damit er seinen im Ausland (in Italien) studierenden Sohn kontaktieren und dessen Kontodaten für die Zahlung erfragen kann. Er hat sich für das Konto seines Sohnes entschieden, da er und seine Frau ein Gemeinschaftskonto führen. Es ist wichtig, dass wir die gesetzlich vorgeschriebenen Verfahren einhalten; nur so kann der Anspruch rechtlich beglaubigt oder genehmigt werden. Der Anwalt hat mir außerdem mitgeteilt, dass die Fertigstellung aller Dokumente zwei Tage in Anspruch nehmen wird.</p>
+      <p>Bitte teilen Sie mir dringend mit, wann genau die Zahlung erfolgen kann (heute oder morgen), damit der Anwalt mir die Kontodaten für die Überweisung nennen kann, die ich Ihnen dann in meiner nächsten E-Mail mitteilen werde.</p>
+      <p>Bitte antworte bald<br>
+      Aufrichtig<br>
+      Ana Felipe</p>
+    </blockquote>
+  </div>
+</details>
+
+Damit liefert die Geschichte gleich mehrere neue Warnsignale:
+
+* **Privatkonto statt Kanzleikonto:** Gebühren für angebliche Behörden, ein Testament und eine Stempelsteuer sollen offenbar auf das Konto eines Studenten fließen. Ein seriöser Anwalt würde solche Zahlungen nachvollziehbar über ein Kanzlei-, Geschäfts- oder Anderkonto abrechnen und eine ordentliche Rechnung ausstellen.
+* **Italien statt Türkei:** Das Erbe, die Bank und die vermeintliche Kanzlei befinden sich angeblich in Istanbul. Weshalb die Zahlung nun ausgerechnet nach Italien gehen soll, erklärt die Geschichte nur mit dem dortigen Studium des Sohnes.
+* **Eine Ausrede, die nichts erklärt:** Weil der Anwalt mit seiner Frau ein Gemeinschaftskonto führt, soll das Konto seines Sohnes verwendet werden. Das ist kein rechtlicher oder buchhalterischer Grund, sondern wirkt wie eine vorsorgliche Erklärung dafür, dass der spätere Kontoinhaber nicht zur angeblichen Kanzlei passen wird.
+* **Der Anwalt wechselt die Rolle:** Zuvor wurde ausdrücklich die angebliche Rechtsanwältin **Aslıhan Erbaş** genannt. Nun ist von einem Anwalt mit Frau und Sohn die Rede. Entweder haben die Betrüger ihr eigenes Drehbuch aus den Augen verloren oder der nächste erfundene Beteiligte wird bereits eingeführt.
+* **Erneuter Zeitdruck:** Hugo soll dringend bestätigen, ob er „heute oder morgen“ zahlt. Erst danach will Ana die Kontodaten übermitteln. So wird Zahlungsbereitschaft abgefragt, bevor das vermutlich fremde Empfängerkonto preisgegeben wird.
+
+Noch fehlen Name, IBAN und Bank des Empfängers. Deshalb lässt sich derzeit weder feststellen, wer hinter dem Konto steht, noch ob die betreffende Person wissentlich beteiligt ist. Sicher ist nur: **Ein italienisches Privatkonto des angeblichen Anwaltssohns ist kein rechtmäßiger Zahlungsweg für türkische Nachlassgebühren.** Die angekündigten Kontodaten dürften das nächste interessante Kapitel liefern.
+
+### Hugo bestätigt den Zahlungstermin 🐾🏦
+
+Ana wollte zunächst wissen, ob Hugo heute oder morgen zahlen kann, bevor sie die Kontodaten herausrückt. Kein Problem: Hugo bestätigt den Termin und erinnert sie zugleich an die bereits angefragte Rechnung.
+
+> Hallo liebe Ana,
+>
+> ich kann die 360 Euro morgen per Banküberweisung bezahlen. Bitte schick mir jetzt wie angekündigt die vollständigen Kontodaten des Sohnes und den genauen Verwendungszweck.
+>
+> Die bereits angefragte Rechnung beziehungsweise Zahlungsbestätigung brauche ich bitte ebenfalls.
+>
+> Sobald die Angaben vollständig sind, kümmere ich mich darum.<br>
+> Röhrende Grüße<br>
+> Hugo und Waldi 🐾
+
+Damit liegt der Ball wieder bei Ana. Jetzt muss sie zeigen, wer die 360 Euro tatsächlich erhalten soll – und ob zur italienischen Bankverbindung auch die versprochene Rechnung auftaucht.
