@@ -140,12 +140,6 @@ Die Neugier war einfach zu groß: Hugo hat dem gütigen Mr. Chris prompt geantwo
 > Best regards,
 > Hugo
 
-## Fazit
-
-Dieser Kontakt hält außergewöhnlich lange. Die Scammer erfinden eine UN-Geldkiste, einen Diplomaten, einen verlorenen Schlüssel und immer neue Gründe, warum ausgerechnet Steam- oder Razer-Karten benötigt werden. Selbst falsche Gutscheine, ein angeblich zockender Neffe und der Schlossinsellauf bringen sie nicht zum Aufgeben, solange Hugo eine weitere Zahlung in Aussicht stellt.
-
-Erst der deutsche Zoll und ein mögliches Ermittlungsverfahren bringen die Geschichte am dokumentierten Ende ernsthaft ins Wanken. Mr. Chris weicht dem Formular aus, beruft sich auf diplomatische Immunität und wird schließlich direkt mit dem Betrugsvorwurf konfrontiert; eine weitere Antwort ist nicht festgehalten. Der mögliche Abbruch käme damit sehr spät, weil aus der vermeintlichen Beute plötzlich ein Polizeirisiko wird. Gegen deutsche Gründlichkeit hilft eben nicht einmal ein geheimes UN-Schlüsselloch. 🛂🔑
-
 ---
 
 ## Der Diplomat am Flughafen – aber wo ist der Schlüssel?
@@ -482,3 +476,36 @@ Die UN verschickt weder Geldkisten mit Geheim-Schlüssellöchern noch verlangt s
 >   
 > Best regards,  
 > Hugo  
+
+---
+
+## Letzte Ausfahrt: Rücktransport zur UN
+
+Ganz aufgeben möchte Chris offenbar noch immer nicht. Statt auf Hugos Betrugsvorwurf einzugehen, meldet sich nun das angebliche **„Compensation Team“** mit einer letzten amtlich klingenden Frist. Die Kiste liege seit Monaten in einer deutschen UN-Niederlassung und werde im kommenden Monat „repatriiert“. Hugo müsse nur noch erklären, warum sich die Zustellung verzögert, oder die Rücksendung schriftlich genehmigen.
+
+> Dear Mr. Hugo Scholz,  
+>   
+> We are writing to formally notify you regarding your consignment box, which has reportedly remained pending for delivery at a UN outlet in Germany for the past several months.  
+>   
+> Please be advised that the consignment is scheduled to undergo the repatriation process next month. This notice is being issued as a final reminder to provide you with an opportunity to communicate your reasons for the continued delay and to indicate how you wish to proceed.  
+>   
+> If you would like the consignment box to be returned to the Compensation Department of the United Nations, kindly provide written confirmation by email authorizing the return. This will enable the relevant office to process the return of the consignment without further delay.  
+>   
+> We kindly request your prompt response regarding this matter.  
+>   
+> Yours sincerely,  
+> Compensation Team  
+
+Nach all den Schlüsseln, Steam-Karten und diplomatischen Verrenkungen fällt Hugos Entscheidung erfreulich knapp aus. Ärger mit dem deutschen Zoll ist ihm die Millionenbox dann doch nicht wert:
+
+> Return it, i do not want to have trouble with the zoll department
+
+Damit darf die sagenhafte UN-Geldkiste ihre Heimreise antreten – selbstverständlich ohne Schlüssel, aber vermutlich mit diplomatischer Immunität.
+
+## Fazit
+
+Dieser Kontakt hielt außergewöhnlich lange. Die Scammer erfanden eine UN-Geldkiste, einen Diplomaten, einen verlorenen Schlüssel und immer neue Gründe, warum ausgerechnet Steam- oder Razer-Karten benötigt würden. Selbst falsche Gutscheine, ein angeblich zockender Neffe und der Schlossinsellauf brachten sie nicht zum Aufgeben, solange Hugo eine weitere Zahlung in Aussicht stellte.
+
+Erst der deutsche Zoll und ein mögliches Ermittlungsverfahren änderten die Richtung. Chris wich dem echten Zollformular aus, berief sich auf diplomatische Immunität und ignorierte schließlich sogar den offenen Betrugsvorwurf. Stattdessen versuchte das angebliche „Compensation Team“, mit einer letzten Rückholfrist doch noch eine Reaktion zu provozieren.
+
+Hugo erteilte die Genehmigung zur Rücksendung – und beendete damit die Geschichte, ohne eine einzige Geschenkkarte preiszugeben. Die Masche dahinter bleibt klassischer Vorschussbetrug: Ein riesiges Vermögen wird versprochen, doch vor der Auszahlung tauchen immer neue kleine Gebühren auf. Wer solche Nachrichten erhält, sollte nichts bezahlen, keine persönlichen Daten oder Gutscheincodes schicken und den Kontakt abbrechen. Gegen deutsche Gründlichkeit hilft eben nicht einmal ein geheimes UN-Schlüsselloch. 🛂🔑

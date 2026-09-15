@@ -336,3 +336,66 @@ Ana wollte zunächst wissen, ob Hugo heute oder morgen zahlen kann, bevor sie di
 > Hugo und Waldi 🐾
 
 Damit liegt der Ball wieder bei Ana. Jetzt muss sie zeigen, wer die 360 Euro tatsächlich erhalten soll – und ob zur italienischen Bankverbindung auch die versprochene Rechnung auftaucht.
+
+---
+
+## Phase 6: Die Bankverbindung ist da – aber der „Sohn“ heißt Ester 💳🇮🇹
+
+Ana hat geliefert: Die 360 Euro sollen tatsächlich auf ein italienisches Konto bei der BBVA überwiesen werden. Nur passt der genannte Zahlungsempfänger nicht so recht zur sorgfältig vorbereiteten Geschichte vom studierenden Sohn des Anwalts.
+
+<details class="scam-accordion">
+  <summary>E-Mail: Die italienische Bankverbindung</summary>
+  <div class="accordion-content">
+    <blockquote>
+      <p>Lieber geliebter Hugo,<br></p>
+      <p>Vielen Dank für Ihre E-Mail und Ihr freundliches Verständnis; ich weiß Ihre Bemühungen bezüglich dieser Transaktion sehr zu schätzen. Ich habe den Anwalt sowie den für das Konto meiner verstorbenen Eltern zuständigen Sachbearbeiter darüber informiert, dass Sie die Zahlung heute wie in Ihrer vorherigen E-Mail angekündigt vornehmen werden. Nachstehend finden Sie die Kontodaten des Sohnes des Anwalts für die Durchführung der Zahlung. Zudem hat der Anwalt bereits eine Mitteilung an das Portal für eidesstattliche Erklärungen des Federal High Court gesendet, damit die für den Abschluss des Verfahrens erforderliche eidesstattliche Erklärung unterzeichnet und beglaubigt werden kann. Der nächste Schritt besteht darin, bei der zuständigen Nachlassbehörde einen Erbschein (Letter of Administration) auf Ihren Namen zu erwirken; dieser verleiht Ihnen das rechtliche Befugnis, die Gelder zu verwalten und sowohl jetzt als auch in Zukunft Vertrauen aufzubauen.</p>
+      <p>Name: Ester Puleo<br>
+      IBAN: IT35B0357601601010009495425<br>
+      BIC: BBVAITM2XXX<br>
+      Land: Italien<br>
+      Bank: BBVA<br>
+      Telefonnummer: +39 0428632211<br>
+      Adresse: VIALE QUATTRO NOVEMBRE 12</p>
+      <p>Sobald die Zahlung in Höhe von 360 € erfolgt ist, senden Sie mir bitte freundlicherweise eine gescannte Kopie des Belegs zu Dokumentationszwecken; so kann ich diese Kopie zur Bestätigung an den Anwalt weiterleiten. Wie ich Ihnen bereits in meiner vorherigen E-Mail mitgeteilt habe, hat mir der Anwalt versichert, dass die Vorbereitung aller erforderlichen Unterlagen 48 Stunden in Anspruch nehmen wird, damit der Sachbearbeiter die Überweisung schnellstmöglich abwickeln kann.</p>
+      <p>Bitte antworte bald<br>
+      Aufrichtig<br>
+      Ana Felipe.</p>
+    </blockquote>
+  </div>
+</details>
+
+### Was an den Zahlungsdaten auffällt 🔍
+
+* **Aus dem Sohn wird Ester:** Ana bezeichnet das Konto erneut ausdrücklich als das Konto des Anwaltssohns. Als Zahlungsempfänger nennt sie jedoch **Ester Puleo**. Ob die Person hinter dem Namen überhaupt etwas mit der Geschichte zu tun hat, ist völlig offen – zur behaupteten Identität liefert die Mail jedenfalls keinen Nachweis.
+* **Noch immer keine Rechnung:** Hugo hatte ausdrücklich nach einer offiziellen Rechnung oder Zahlungsbestätigung für die vier Gebühren gefragt. Stattdessen kommt lediglich ein Datensatz aus Name, IBAN, Telefonnummer und Adresse. Eine Kanzlei, Behörde, Rechnungsnummer und ein nachvollziehbarer Verwendungszweck fehlen.
+* **Privatkonto für angebliche Behördenkosten:** IRS, „DC“, Testament und Stempelsteuer sollen gesammelt an eine Privatperson in Italien gehen. Es gibt keinerlei erkennbare Verbindung zwischen der Kontoinhaberin, der angeblichen Kanzlei in Istanbul und den genannten Gebühren.
+* **Ein neues Gericht aus dem Hut:** Plötzlich ist ein nicht näher bezeichneter „Federal High Court“ samt Portal für eidesstattliche Erklärungen beteiligt. Welches Gericht in welchem Land gemeint sein soll und weshalb es für den angeblichen Nachlass in Istanbul zuständig wäre, erklärt Ana nicht.
+* **Kein Verwendungszweck:** Genau danach hatte Hugo gefragt. Die Angabe fehlt trotzdem – vermutlich ist für die Täter nur entscheidend, dass das Geld auf dem Konto eingeht und der Beleg anschließend als Bestätigung geliefert wird.
+* **Die Form stimmt, die Geschichte nicht:** Die italienische IBAN ist formal prüfziffergültig. Das beweist jedoch lediglich, dass sie syntaktisch korrekt aufgebaut ist – weder die Berechtigung des Empfängers noch die Existenz des Erbes oder der angeblichen Gebühren.
+
+### Warum die Betrüger den Überweisungsbeleg wollen 🧾
+
+Der Beleg ist für die Abwicklung eines echten Nachlasses vollkommen wertlos, für die Betrüger aber praktisch: Er bestätigt, dass Hugo gezahlt hat, verrät je nach Darstellung weitere Bankdaten und hilft ihnen, den Zahlungseingang einem Opfer zuzuordnen. Außerdem markiert eine erfolgreiche erste Zahlung Hugo als lohnendes Ziel für die nächste erfundene Gebühr.
+
+Wichtig ist auch hier: **Der Name an einer Bankverbindung beweist nicht, dass diese Person den Betrug steuert.** Solche Konten können von Finanzagenten geführt, unter falschen Voraussetzungen eröffnet oder mit Daten unbeteiligter Personen beworben werden. Sicher belegt ist nur, dass die Scammer Hugo angewiesen haben, die 360 Euro an diese Bankverbindung zu senden.
+
+Damit ist der Vorschussbetrug endgültig beim entscheidenden Schritt angekommen: Aus 4,5 Millionen Euro auf dem Papier werden 360 echte Euro, die das Opfer zuerst überweisen soll. Wer eine solche Zahlungsaufforderung erhält, sollte **nicht zahlen**, keinen Beleg schicken und die Bankverbindung zusammen mit dem vollständigen Mailverlauf der eigenen Bank beziehungsweise der Empfängerbank als Betrugsverdacht melden.
+
+### Hugo möchte einen Beleg 📄🐾
+
+Ganz so einfach darf Hugo die Dackelkasse natürlich nicht plündern. Seine Bank möchte schließlich wissen, weshalb angebliche Nachlassgebühren an eine Privatperson in Italien überwiesen werden sollen. Deshalb fragt er noch einmal nach einem schriftlichen Beleg:
+
+> **Betreff: Rechnung oder Zahlungsbeleg für die 360 Euro**
+>
+> Hallo liebe Ana,
+>
+> vielen Dank, die Bankverbindung habe ich erhalten. Ich wollte die 360 Euro heute überweisen, aber meine Bank benötigt dafür vorher eine Rechnung oder einen entsprechenden schriftlichen Zahlungsbeleg.
+>
+> Es genügt ein formloses PDF. Darauf sollten bitte der Name des Anwalts beziehungsweise der Kanzlei, der Zahlungsempfänger Ester Puleo, die Kontoverbindung, der Betrag von 360 Euro und die vier Gebühren IRS, DC, Testament und Stempelsteuer aufgeführt sein.
+>
+> Ohne diesen Beleg darf meine Bank die Überweisung leider nicht ausführen. Bitte senden Sie mir das PDF möglichst bald zu, dann kann ich die Zahlung anschließend veranlassen.
+>
+> Röhrende Grüße<br>
+> Hugo und Waldi 🐾
+
+Jetzt sind wir gespannt, ob aus dem angeblichen Anwaltsbüro eine Rechnung kommt – und ob die Scammer darauf erklären können, weshalb **Ester Puleo** das Geld für türkische Nachlassunterlagen erhalten soll.

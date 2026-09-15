@@ -627,3 +627,46 @@ Rolf meldet sich noch einmal mit einer knappen Bestätigung: Fabios Restzahlung 
 > Balance payment has been received from your brother Fabio.
 
 Damit ist die Inszenierung komplett: Fabio hat angeblich gezahlt, Rolf bestätigt den angeblichen Eingang – nur ein unabhängig prüfbarer Nachweis fehlt weiterhin.
+
+---
+
+## Die Bank zieht die Notbremse – Rolf empfiehlt mehr „Family Support“
+
+Nun wird Rolf langsam ungeduldig: Hugos Zahlung sei noch immer nicht angekommen. Deshalb solle Hugo bei seiner Bank nachfragen und dort erneut behaupten, die Überweisung diene familiären Zwecken. Falls die Bank den Transfer zurückhalte, möge sie ihn doch bitte sofort freigeben.
+
+> Dear Hugo,
+>
+> This is to inform you that we have not yet received your payment. There must be an issue with the transaction.
+>
+> Could you please confirm whether the money has already been deducted from your bank account? I recommend you contact our bank to check the status of the transfer and find out if there is any issue preventing it from going through.
+>
+> When speaking with your bank, please let them know that the transfer is for family purposes and request that they allow the transaction to go through immediately, if there are any restrictions or holds on the transfer.
+>
+> Yours sincerely
+>
+> Amb. Rolf Klostermann<br>
+> United Nations (NY)<br>
+> Phone: (716) 256-3692<br>
+> Mail.: Rolf.klosterman@rolfcargo.com<br>
+> 24-Hours Delivery Service
+
+Das Problem: Hugo war inzwischen persönlich bei der Bank. Dort wurde ihm mitgeteilt, dass die Überweisung **wegen Betrugsverdachts angehalten** worden sei. Der Mitarbeiter riet ausdrücklich zur Vorsicht. Ausgerechnet jetzt fordert Rolf also, der Bank erneut die erfundene Geschichte vom „Family Support“ aufzutischen und ihre Schutzmaßnahme aus dem Weg zu räumen. Deutlicher kann man kaum zeigen, warum die Warnleuchten der Bank völlig zu Recht angegangen sind.
+
+Und noch etwas dürfte selbst Hugo stutzig machen: **Rolfcargo ist weiterhin offline.** Warum soll eine Bank 2.000 Euro an den angeblichen Agenten eines internationalen 24-Stunden-Lieferdienstes freigeben, dessen eigene Website gesperrt beziehungsweise nicht erreichbar ist? Was genau hinter der Abschaltung steckt, lässt sich von außen nicht sicher feststellen. In Kombination mit der falschen Zahlungsbeschreibung, dem Privatkonto und der Warnung der Bank ist sie aber ein weiteres gewaltiges Alarmsignal.
+
+Hugo fragt deshalb lieber noch einmal freundlich nach:
+
+> Dear Mr. Rolf Klostermann,
+>
+> I went personally to my bank today. The bank employee told me that the transfer was stopped because they suspect fraud. He warned me that I must be very careful and said I should not ask them to release the money.
+>
+> He was especially concerned because you told me to call the payment “Family Support”, although it is really for delivery fees.
+>
+> I also tried to visit your company website, but rolfcargo.com is offline. What is going on? How can a 24-hours international delivery company have no working website?
+>
+> Please explain why the website is offline and why my bank believes this payment may be fraud. I cannot ask them to release the transfer while these questions are unanswered.
+>
+> Many greetings,<br>
+> Hugo
+
+Damit liegt der Ball wieder beim „Botschafter“. Wir sind gespannt, ob nun der Hoster, die Bank oder am Ende sogar die Vereinten Nationen schuld daran sein sollen, dass bei Rolfcargo gerade so gar nichts nach einem seriösen Lieferdienst aussieht. 🙂

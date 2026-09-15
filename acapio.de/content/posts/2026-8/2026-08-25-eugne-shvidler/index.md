@@ -418,3 +418,34 @@ Das teilen wir unserem Premium-Bankmanager natürlich sofort mit:
 Damit ist aus Jacks gewünschter Diskretion genau das geworden, was er vermeiden wollte: Ein echter Bankmitarbeiter schaut hin. Jetzt darf die „Green Atlantic Private Bank“ erklären, warum ihre angeblich völlig legale Transaktion plötzlich nach Geldwäsche aussieht – und weshalb die Gebühr für einen russischen Milliardär an ein britisches Logistikunternehmen gehen sollte.
 
 Wir sind gespannt, ob Jack nun ein weiteres Fantasie-Dokument ausstellt oder ob der Premium-Kundenservice plötzlich Betriebsferien hat.
+
+---
+
+## Geld zurück – und bloß nichts verraten! 🤫💸
+
+Jack meldet sich wieder. Den geforderten Nachweis liefert er natürlich nicht:
+
+<details class="scam-accordion">
+  <summary>E-Mail: Bitte Geld zurückholen und weiter schweigen</summary>
+  <div class="accordion-content">
+    <blockquote>
+      <p>Ich nehme an, Sie haben meine E-Mail vor Ihrem Bankbesuch nicht gelesen; ich hätte Sie zudem dringend auf die Vertraulichkeit dieser Transaktion hinweisen sollen.</p>
+      <p>Bitte bitten Sie die Bank, Ihnen den Betrag zu erstatten, damit wir einen anderen Weg finden können, die Überweisung abzuschließen.</p>
+    </blockquote>
+  </div>
+</details>
+
+Statt die angeblich legale Transaktion zu belegen, gibt Jack Hugo die Schuld und fordert nachträglich Geheimhaltung. Das Geld soll zurückgeholt und anschließend über einen „anderen Weg“ erneut verschickt werden – ein typischer Versuch, Bankkontrollen zu umgehen. Welche kreative Zahlungsmethode nun folgt, verrät er noch nicht.
+
+### Hugo fragt nach dem anderen Weg
+
+> Hallo Herr Connery,
+>
+> entschuldigung, ich habe ihre Nachricht wirklich zu spät gelesen. Die Bank sagt, wegen der Kontosperre kann ich im Moment aber weder eine Erstattung bekommen noch eine neue Überweisung machen.
+>
+> Was ist denn der andere Weg? Bitte erklären sie mir genau, wie ich jetzt bezahlen soll. Ich möchte nicht noch einmal etwas falsch machen.
+>
+> Gruß<br>
+> Hugo
+
+Jetzt darf Jack erklären, wie Hugo trotz gesperrtem Konto an der Bank vorbei bezahlen soll.
