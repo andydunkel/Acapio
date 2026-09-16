@@ -399,3 +399,42 @@ Ganz so einfach darf Hugo die Dackelkasse natürlich nicht plündern. Seine Bank
 > Hugo und Waldi 🐾
 
 Jetzt sind wir gespannt, ob aus dem angeblichen Anwaltsbüro eine Rechnung kommt – und ob die Scammer darauf erklären können, weshalb **Ester Puleo** das Geld für türkische Nachlassunterlagen erhalten soll.
+
+---
+
+## Phase 7: Eine „Rechnung“ über 4,5 Millionen Euro? 🧾🔍
+
+Ana antwortet erneut. Ihre E-Mail wiederholt vor allem die bekannte Geschichte: Der Anwalt und der Sachbearbeiter seien informiert, Hugo solle die **360 Euro** auf das italienische Konto von **Ester Puleo** überweisen und danach einen gescannten Zahlungsbeleg schicken. Innerhalb von 48 Stunden würden angeblich die Unterlagen fertig. Eine Erklärung für das Privatkonto oder einen Verwendungszweck liefert sie weiterhin nicht.
+
+Diesmal hängt immerhin ein Bild an. Nur ist es **keine Rechnung über die verlangten 360 Euro**. Unter dem Logo der türkischen VakıfBank soll es eine bereits abgeschlossene Überweisung über **4,5 Millionen Euro an Hugo Scholz** zeigen:
+
+![Angeblicher VakıfBank-Transferbeleg über 4,5 Millionen Euro an Hugo Scholz](/posts/2026-09-05-ana-felipe/invoice.webp)
+
+Bei genauerem Hinsehen zerfällt der vermeintliche Zahlungsnachweis:
+
+* **Die Reihenfolge stimmt nicht:** Ana verlangt erst 360 Euro, damit Dokumente erstellt und das Erbe freigegeben werden können. Ihr Bild meldet die Auszahlung der gesamten 4,5 Millionen Euro aber schon als „Completed“. Warum Hugo dann noch für die angeblich nötigen Unterlagen zahlen soll, bleibt offen.
+* **Zwei Banken auf einem Blatt:** Oben prangt das VakıfBank-Logo, als abbuchende Bank steht jedoch „Mellat Bank“. Ein nachvollziehbarer Zusammenhang zwischen diesen Angaben fehlt.
+* **Ungültige Empfänger-IBAN:** Die als Hugos Konto angegebene deutsche IBAN `DE34200505503452240341` hat zwar 22 Stellen, fällt aber durch die IBAN-Prüfzifferprüfung. Aus dieser Zeichenfolge ergibt sich bei der Prüfrechnung Rest **85** statt **1**. Die [Bundesbank erklärt den Aufbau der deutschen IBAN](https://www.bundesbank.de/de/aufgaben/unbarer-zahlungsverkehr/serviceangebot/iban-regeln) mit Länderkennzeichen und zweistelliger Prüfziffer. Ein Screenshot mit einer ungültigen Empfänger-IBAN belegt keine ausgeführte Millionenzahlung.
+* **Bankcode als „Bestätigung“:** In der Zeile „Fed/SWIFT Confirmation Number“ steht `HASPDEHHXXX`. Das ist laut [Hamburger Sparkasse deren BIC](https://www.haspa.de/de/home/toolbar/impressum.html), also eine Kennung der Bank und keine individuelle Bestätigung dieser Überweisung. [Swift beschreibt BICs](https://www.swift.com/standards/data-standards/bic-business-identifier-code) ausdrücklich als Kennungen für Geschäftspartner und die Weiterleitung von Nachrichten.
+* **„Pending“ und „Completed“ zugleich:** Das Feld „CEO Tracking Number“ lautet „Pending“, während der Status der Zahlung „Completed“ sein soll. Auch diese Kombination erklärt das Bild nicht.
+
+Die echten Angaben zur Hamburger Sparkasse, etwa Bankleitzahl und BIC, machen den Rest des Blatts nicht echt. Das Bild ist weder die angeforderte Gebührenrechnung noch ein belastbarer Nachweis, dass 4,5 Millionen Euro auf Hugos Konto überwiesen wurden. Die 360 Euro sollen dagegen weiterhin **wirklich** an das italienische Privatkonto fließen.
+
+### Hugo „überweist“ die 360 Euro 🐾💸
+
+Für unseren Scambait haben wir die verlangte Zahlung **nur fingiert**. Es wurde kein Geld überwiesen. Das eigens erstellte Bild zeigt einen Umsatz über **−360 Euro** vom **16.09.2026** an Ester Puleo und die von Ana genannte italienische IBAN. Als Verwendungszweck steht dort „ANE FELIPE GEBUEHREN“:
+
+![Fingierter Umsatz über 360 Euro an die von Ana genannte Bankverbindung; keine echte Überweisung](/posts/2026-09-05-ana-felipe/trans.webp)
+
+Der Screenshot soll im Mailwechsel als Köder dienen; er ist **kein Bankbeleg**. Gerade deshalb ist der Unterschied wichtig: Eine Bilddatei mit Betrag, Datum und Kontodaten kann jeder zusammenstellen. Ob Geld geflossen ist, lässt sich daraus allein nicht feststellen.
+
+Hugos kurze Antwort an Ana:
+
+> Hallo liebe Ana,
+>
+> die 360 Euro sind heute an Ester Puleo rausgegangen. Den Beleg habe ich angehängt. Sag dem Anwalt bitte Bescheid und schick mir die versprochenen Unterlagen, sobald sie fertig sind.
+>
+> Röhrende Grüße<br>
+> Hugo und Waldi 🐾
+
+Mal sehen, ob Ana jetzt wirklich Unterlagen schickt – oder ob als Nächstes eine weitere Gebühr auftaucht.

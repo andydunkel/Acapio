@@ -670,3 +670,25 @@ Hugo fragt deshalb lieber noch einmal freundlich nach:
 > Hugo
 
 Damit liegt der Ball wieder beim „Botschafter“. Wir sind gespannt, ob nun der Hoster, die Bank oder am Ende sogar die Vereinten Nationen schuld daran sein sollen, dass bei Rolfcargo gerade so gar nichts nach einem seriösen Lieferdienst aussieht. 🙂
+
+---
+
+## Rolf schweigt – Fabio fragt nach den Millionen
+
+Auf Hugos letzte Nachricht kommt von Rolf keine Antwort mehr. Stattdessen meldet sich Fabio: Er habe weder von Hugo noch von Herrn Rolf Klosterman etwas gehört und möchte wissen, ob die angebliche Geldsendung inzwischen angekommen sei. Er sei inzwischen sehr besorgt.
+
+> Hello my brother Hugo,
+>
+> How are you doing today? I haven't heard from you or Mr. Rolf Klosterman. Have you received the consignment funds? Please need an update as to what is going on cause I am really worried.
+
+Die Sorge hat einen guten Grund – jedenfalls innerhalb der Geschichte, die Fabio und Rolf uns erzählen: Fabio will laut seinem Screenshot bereits Geld geschickt haben, Rolf hat den Eingang sogar bestätigt. Nun antwortet Rolf nicht mehr, und die Seite von Rolfcargo zeigt nach Hugos Beobachtung „suspended“ an. Ob Fabio tatsächlich etwas überwiesen hat, lässt sich aus den vorliegenden Nachrichten und Bildern weiterhin nicht belegen.
+
+Unser Antwortentwurf an Fabio ist kurz und direkt:
+
+> Dear Fabio,
+>
+> I wrote to Rolf, but he does not answer anymore. His website is offline and says “suspended”. My bank returned my payment and told me they suspect fraud. I am afraid Rolf may have taken your money. Have you heard from him or got your payment back? Please do not send him any more money.
+>
+> Hugo
+
+Zur Einordnung: **Hugos Überweisung war fingiert; es gab kein echtes Geld, das seine Bank zurücküberweisen konnte.** Diese Aussage gehört zu seiner Antwort im Scambait. Ob Fabios angebliche Zahlung echt war und wer hinter den beiden Namen steckt, bleibt offen. Die versprochenen Millionen sind bei Hugo nicht angekommen, und Rolf beantwortet die Fragen zu seiner Website und zur Bankwarnung bisher nicht.

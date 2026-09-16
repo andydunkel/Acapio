@@ -449,3 +449,34 @@ Statt die angeblich legale Transaktion zu belegen, gibt Jack Hugo die Schuld und
 > Hugo
 
 Jetzt darf Jack erklären, wie Hugo trotz gesperrtem Konto an der Bank vorbei bezahlen soll.
+
+---
+
+## Wieder von vorn: Jetzt soll ein anderes Konto zahlen
+
+Jacks „anderer Weg“ ist überraschend vertraut: Hugo soll die 1.251 Euro noch einmal an **dasselbe Empfängerkonto** überweisen, diesmal von einem anderen Bankkonto und ausdrücklich per SEPA. Für den verspäteten Hinweis vor dem Bankbesuch entschuldigt er sich. Den bereits verlangten Nachweis zur angeblich legalen Transaktion liefert er weiterhin nicht.
+
+> „Veranlassen Sie bitte die Überweisung auf dasselbe Empfängerkonto von einem anderen Bankkonto aus und nutzen Sie dabei das SEPA-Verfahren.“
+
+Auch die Erstattung erklärt Jack kurzerhand zur Sache von Hugos Bank. Ob eine Zahlung tatsächlich ausgeführt, zurückgehalten oder erstattet wurde, kann er aus dieser Geschichte allerdings nicht wissen: **Es gab nie eine echte Überweisung.** Erst war das Phantomgeld angeblich bei der Empfängerbank hängen geblieben, jetzt soll Hugo es zurückholen und erneut verschicken. Wir drehen uns im Kreis – nur der Wunsch nach einer echten Zahlung bleibt konstant.
+
+Die Frage nach Sanktionen und Geldwäsche umgeht Jack erneut. Dabei ist die angebliche Herkunft der 50 Millionen aus einem Tresor auf der Isle of Man ein guter Anlass für eine konkrete Rückfrage: [Dort gelten auch britische Sanktionseinträge](https://www.gov.im/categories/tax-vat-and-your-money/sanctions-and-export-control/sanctions-lists/), und [Eugene Shvidler steht auf der britischen Sanktionsliste](https://sanctionslist.fcdo.gov.uk/docs/UK-Sanctions-List.pdf). Wenn Jack wirklich für eine Bank handelt, soll er erklären, auf welcher Rechtsgrundlage das Geld freigegeben werden darf, und eine gegebenenfalls erforderliche Genehmigung der zuständigen Behörde mit Aktenzeichen vorlegen. Eine angebliche „Freigabe der EU“ wäre für die Isle of Man keine pauschale Antwort; bei einer Zahlung über Deutschland wären zusätzlich die dort geltenden Regeln zu beachten.
+
+Und noch eine Frage bleibt: Warum soll Hugo für dieses angebliche Millionengeschäft ausgerechnet an *Enato logistics Ltd* zahlen? Bevor ein weiteres Konto ins Spiel kommt, darf Jack erst einmal die Genehmigung und eine nachvollziehbare Rechnung auf den Tisch legen.
+
+### Hugo will die Unterlagen sehen
+
+Statt ein weiteres Konto aufzutreiben, fragt Hugo nach den Belegen, die Jack bisher schuldig geblieben ist:
+
+> Hallo Herr Connery,
+>
+> ich verstehe das nicht. Meine Bank hat wegen dieser Zahlung Fragen zu Herrn Shvidler und den Sanktionen. Jetzt soll ich denselben Betrag einfach von einem anderen Konto überweisen?
+>
+> Bitte schicken Sie mir zuerst die schriftliche Genehmigung der zuständigen Behörde für die Auszahlung der 50 Millionen, mit Aktenzeichen und ausstellender Stelle. Falls Sie sagen, dass keine Genehmigung nötig ist, erklären Sie mir bitte, auf welcher Grundlage das möglich ist. Außerdem brauche ich eine Rechnung, aus der hervorgeht, warum ich 1.251 Euro an Enato logistics Ltd zahlen soll.
+>
+> Das muss ich meiner Bank vorlegen können. Vorher überweise ich nichts mehr.
+>
+> Gruß<br>
+> Hugo
+
+Mal sehen, ob Jack diesmal etwas Überprüfbares liefert – oder wieder nur erklärt, von welchem Konto Hugo zahlen soll.
