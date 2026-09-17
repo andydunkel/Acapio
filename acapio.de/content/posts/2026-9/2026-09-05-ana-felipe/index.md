@@ -438,3 +438,32 @@ Hugos kurze Antwort an Ana:
 > Hugo und Waldi 🐾
 
 Mal sehen, ob Ana jetzt wirklich Unterlagen schickt – oder ob als Nächstes eine weitere Gebühr auftaucht.
+
+---
+
+## Phase 8: Der Anwalt braucht noch 24 Stunden ⏳📄
+
+Ana bestätigt den Eingang des Screenshots und hat ihn angeblich an den Anwalt weitergeleitet. Von der eidesstattlichen Erklärung fehlt noch jede Spur. Die zuvor angekündigten **48 Stunden** schrumpfen in ihrer neuen Mail auf **24 Stunden**:
+
+> Lieber geliebter Hugo,
+>
+> Vielen Dank für Ihre E-Mail und Ihr freundliches Verständnis. Ich weiß Ihre Bemühungen bezüglich dieser Transaktion zu schätzen; ich habe den Scan des Zahlungsbelegs erhalten und ihn zur Dokumentation an den Anwalt weitergeleitet. Wie ich Ihnen bereits in meiner vorherigen E-Mail mitgeteilt habe, ist eine eidesstattliche Erklärung des Anwalts erforderlich, um den erfolgreichen Abschluss dieser Transaktion zu gewährleisten.
+>
+> Der Anwalt hat mir erklärt, dass die Erstellung des Dokuments volle 24 Stunden in Anspruch nehmen wird; eine Kopie wird Ihnen umgehend zugesandt, sobald das Dokument fertiggestellt ist.
+>
+> Ich werde Sie auf dem Laufenden halten, sobald der Anwalt das Dokument fertiggestellt hat.
+>
+> Bitte antworte bald<br>
+> Aufrichtig<br>
+> Ana Felipe.
+
+Der Beleg ist angekommen, das Dokument bleibt unsichtbar. Ob nach den 24 Stunden tatsächlich etwas kommt, ist offen. Waldi bewacht vorsichtshalber schon mal den Briefkasten. 🐾
+
+Hugos kurze Antwort für Ana:
+
+> Hallo liebe Ana,
+>
+> danke für die Nachricht. Ich warte auf die eidesstattliche Erklärung und gebe Waldi Bescheid, dass er den Briefkasten noch 24 Stunden bewachen soll. 🐾
+>
+> Röhrende Grüße<br>
+> Hugo

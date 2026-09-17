@@ -692,3 +692,50 @@ Unser Antwortentwurf an Fabio ist kurz und direkt:
 > Hugo
 
 Zur Einordnung: **Hugos Überweisung war fingiert; es gab kein echtes Geld, das seine Bank zurücküberweisen konnte.** Diese Aussage gehört zu seiner Antwort im Scambait. Ob Fabios angebliche Zahlung echt war und wer hinter den beiden Namen steckt, bleibt offen. Die versprochenen Millionen sind bei Hugo nicht angekommen, und Rolf beantwortet die Fragen zu seiner Website und zur Bankwarnung bisher nicht.
+
+---
+
+## Premium-Upgrade statt Website, Bargeld statt Überweisung 🛵💸
+
+Jetzt haben beide geantwortet. Fabio erklärt kurzerhand Hugos Bank zum Problem und schlägt vor, das Geld **bar auf das von Rolf genannte Konto einzuzahlen**. Rolf empfiehlt eine andere Bankfiliale und bleibt bei der Tarnung als „Family Support“. Und die gesperrte Website? Die bekomme natürlich gerade ein *Premium-Upgrade*. Ein erstaunlich diskretes Upgrade: Man sieht davon nicht einmal die Homepage.
+
+<details class="scam-accordion">
+  <summary>Fabios E-Mail: Dann eben Bargeld</summary>
+  <div class="accordion-content">
+    <blockquote>
+      <p>Hello my brother Hugo,</p>
+      <p>I spoke with Mr Rolf Klosterman yesterday at length and he explained the situation of things to me, your bank is the problem not Rolf Klosterman because when i sent my money my bank asked me what it was meant for and I told them it was Family Purpose and they allowed my transfer go through so you need to do thesame, banks are very crazy nowadays and they don't mind their business.</p>
+      <p>Rolf website is currently going through update and upgrade that's why it is currently offline. I trust Mr. Rolf that's why he is the one handling this shipment directly. He was the one who personally shipped the consignment funds from Portugal to USA without any problem so shipping the consignment funds from USA to Germany won't be a problem.</p>
+      <p>I will advise you withdraw cash from your bank and go the bank that Rolf provided to you and deposit the cash there, instead of doing a bank transfer, please do a cash deposit okay. I want him to complete the delivery of the consignment funds this weekend okay.</p>
+      <p>Let me know as soon as you send the money through cash so that I can update him to commence with the delivery immediately.</p>
+      <p>I trust you so much and I know that you will not let me down when you receive the consignment funds.</p>
+      <p>I wait to hear from you.</p>
+      <p>God bless you my brother Hugo<br>Your brother Fabio Antonio</p>
+    </blockquote>
+  </div>
+</details>
+
+<details class="scam-accordion">
+  <summary>Rolfs E-Mail: Die Website bekommt ein „Premium-Upgrade“</summary>
+  <div class="accordion-content">
+    <blockquote>
+      <p>Dear Hugo</p>
+      <p>I acknowledge receipt of your email.</p>
+      <p>Your bank should not interfere with your personal transactions. As I explained, I only advised you to state that the payment was intended as Family Support to help avoid unnecessary complications or delays with the transaction.</p>
+      <p>Our website is currently undergoing a premium upgrade, which is why it is temporarily offline. It will be back online once the upgrade has been completed.<br>To avoid any further delay, you may make the payment through another branch of your bank so that the delivery can be completed this weekend. Your brother, Fabio, just called me, and I explained the current situation to him.</p>
+      <p>I understand that the situation with your bank has been frustrating. However, if you would like the delivery to be completed this weekend, you can make a fresh payment through another branch of your bank.</p>
+      <p>Amb. Rolf Klostermann<br>United Nations (NY)<br>Phone: (716) 256-3692<br>Mail.: Rolf.klosterman@rolfcargo.com<br>24-Hours Delivery Service</p>
+    </blockquote>
+  </div>
+</details>
+
+Hugo bleibt höflich, aber das Wochenende muss der Diplomaten-Kurier wohl ohne seine 2.000 Euro planen. Seine Antwort an Rolf:
+
+> Dear Mr. Rolf Klostermann,
+>
+> My bank account is still blocked. I will go to the bank tomorrow and ask about it. But I will not transfer any money while your company website is offline. Please let me know when the homepage works again.
+>
+> Many greetings,<br>
+> Hugo
+
+Ob das „Premium-Upgrade“ schneller fertig wird als Rolfs Geduld, bleibt abzuwarten. **Hugo hat kein Geld überwiesen oder bar eingezahlt.**
