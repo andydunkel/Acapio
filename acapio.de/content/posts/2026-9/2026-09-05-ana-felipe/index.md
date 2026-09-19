@@ -467,3 +467,42 @@ Hugos kurze Antwort für Ana:
 >
 > Röhrende Grüße<br>
 > Hugo
+
+---
+
+## Phase 9: Vier Mails – jetzt wird Druck gemacht 📬⏰
+
+Von den versprochenen Unterlagen fehlt weiterhin jede Spur. Stattdessen schreibt Ana gleich **viermal** und erhöht den Druck: Hugo soll sich dringend melden, bei seiner Bank nachhaken und erklären, warum das Geld noch nicht auf dem Konto des angeblichen Anwaltssohnes angekommen ist.
+
+![Vier kurz hintereinander gesendete E-Mails von Ana Felipe](/posts/2026-09-05-ana-felipe/mails.webp)
+
+In ihrer jüngsten Nachricht heißt es:
+
+> Lieber geliebter Hugo,
+>
+> Bitte geben Sie mir Bescheid, sobald Sie von der Bank zurück sind, damit ich dem Anwalt mitteilen kann, wann das Geld auf dem Konto seines Sohnes eingehen wird. Der Anwalt erwartet weiterhin schnellstmöglich eine Rückmeldung von Ihnen; hiermit möchte ich Sie darüber informieren, dass die Zahlungsbestätigung noch aussteht. Sie hatten gestern – am Freitag – zugesagt, bei der Bank zu klären, warum der Geldeingang noch nicht verbucht wurde.
+>
+> Ich erwarte Ihre dringende Rückmeldung zu dieser E-Mail und bitte Sie, mich auf dem Laufenden zu halten.
+>
+> Bitte antworte bald<br>
+> Aufrichtig<br>
+> Ana Felipe.
+
+Die Wortwahl ist kein Zufall: „dringend“, „schnellstmöglich“ und der angeblich wartende Anwalt sollen Hugo zum Handeln bringen. Gleichzeitig verschiebt sich die Geschichte erneut. Zuvor hatte Ana den Zahlungsbeleg bereits erhalten und an den Anwalt weitergeleitet; jetzt soll Hugo plötzlich beweisen, wann das Geld eingeht. Die versprochene eidesstattliche Erklärung bleibt derweil verschwunden.
+
+### Die Bank hält die Überweisung zurück 🏦✋
+
+Hugo dreht den Spieß um: Seine Bank habe die Überweisung wegen Betrugsverdachts zurückgehalten. Bevor sie das Geld freigibt, möchte die Mitarbeiterin erst die von Ana angekündigten Unterlagen prüfen. Damit liegt der nächste Schritt wieder bei Ana und ihrem angeblichen Anwalt:
+
+> Hallo liebe Ana,
+>
+> ich war heute bei meiner Bank. Die Überweisung wurde zunächst zurückgehalten, weil die Dame am Schalter vermutet, dass es sich um einen Betrug handeln könnte.
+>
+> Ich habe ihr von den angekündigten Dokumenten und der eidesstattlichen Erklärung erzählt. Sie meinte, ich solle mir diese unbedingt vorab zuschicken lassen, damit die Bank alles prüfen kann. Erst danach kann die Überweisung freigegeben werden.
+>
+> Bitte sende mir deshalb die vollständigen Dokumente des Anwalts so schnell wie möglich zu.
+>
+> Röhrende Grüße<br>
+> Hugo und Waldi 🐾
+
+Nun muss Ana entweder die längst versprochenen Dokumente liefern oder eine neue Ausrede erfinden. Wir sind gespannt, wie sie auf den Betrugsverdacht der Bank reagiert.

@@ -480,3 +480,15 @@ Statt ein weiteres Konto aufzutreiben, fragt Hugo nach den Belegen, die Jack bis
 > Hugo
 
 Mal sehen, ob Jack diesmal etwas Überprüfbares liefert – oder wieder nur erklärt, von welchem Konto Hugo zahlen soll.
+
+---
+
+## Streng vertraulich: Die Rechnung bleibt geheim
+
+Jack antwortet wieder – nur leider auf keine der gestellten Fragen. Statt Genehmigung, Aktenzeichen oder Rechnung gibt es erneut den Hinweis auf strengste Vertraulichkeit. Einen Kontoauszug könne er ebenfalls nicht ausstellen, weil das Konto noch nicht eingerichtet und das Geld noch nicht gutgeschrieben sei. Hugo solle lieber mit seiner eigenen Bank sprechen und Jack anschließend berichten, was er ihr bereits erzählt hat.
+
+Mit anderen Worten: **Keine Rechnung, kein Nachweis, kein Geld – aber bitte vollständige Auskunft darüber, was die echte Bank inzwischen weiß.** Hugos Geduld ist damit aufgebraucht:
+
+> Entweder sie schicken wir meine rechnung oder das wars.
+
+Kürzer lässt sich die Lage kaum zusammenfassen. Jetzt kann der „Premium Business Account Manager“ entweder ein ganz gewöhnliches Dokument liefern – oder seine 50 Millionen bleiben eben im E-Tresor. 🔐💸
