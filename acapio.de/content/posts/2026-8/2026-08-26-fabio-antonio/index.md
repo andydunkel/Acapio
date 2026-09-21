@@ -739,3 +739,24 @@ Hugo bleibt höflich, aber das Wochenende muss der Diplomaten-Kurier wohl ohne s
 > Hugo
 
 Ob das „Premium-Upgrade“ schneller fertig wird als Rolfs Geduld, bleibt abzuwarten. **Hugo hat kein Geld überwiesen oder bar eingezahlt.**
+
+---
+
+## Fazit: 18 Millionen Dollar – gescheitert an einer Bankwarnung
+
+Seit Hugos letzter Nachricht herrscht Funkstille. Weder Fabio noch Rolf haben noch einmal geantwortet, die angekündigte Geldkiste ist selbstverständlich nicht in Wanne-Eickel angekommen und aus dem „Premium-Upgrade“ von Rolfcargo wurde auch kein sichtbares Comeback.
+
+Damit endet ein klassischer Vorschussbetrug: Ein angeblich todkranker Millionär ködert sein Opfer mit **18 Millionen Dollar**, ein selbst ernannter UN-Botschafter übernimmt die Lieferung und kurz vor dem großen Reichtum werden plötzlich **4.714 Dollar Gebühren** fällig. Als Hugos Bank misstrauisch wird, versuchen beide, ihre Schutzmaßnahmen gezielt zu umgehen – erst mit dem falschen Verwendungszweck „Family Support“, dann über eine andere Filiale und schließlich per Bareinzahlung.
+
+Die Warnzeichen hätten deutlicher kaum sein können:
+
+* gestohlene Fotos und eine frei erfundene Lebensgeschichte,
+* Millionen in einer ominösen „Diplomatenkiste“,
+* Zahlungen an Privatpersonen statt an ein nachvollziehbares Unternehmen,
+* eine nicht erreichbare Firmenwebsite,
+* angebliche Überweisungsbelege ohne unabhängig prüfbaren Nachweis,
+* und die ausdrückliche Aufforderung, die eigene Bank über den wahren Zahlungsgrund zu belügen.
+
+Wer eine vergleichbare Nachricht erhält, sollte **nichts zahlen, keine persönlichen Daten oder Ausweiskopien schicken und keine Warnung der Bank umgehen**. Stattdessen gehören die Nachrichten in den Spamordner; Zahlungsdaten können der betroffenen Bank und gegebenenfalls der Polizei gemeldet werden.
+
+Für Hugo bleibt am Ende immerhin eine solide Bilanz: **kein Geld verloren, keine Kiste im Wohnzimmer und zwei Betrüger um reichlich Zeit gebracht.** Fabio und Rolf wollten 2.000 Euro – bekommen haben sie nur Denglisch, Rückfragen und eine Bank, die bei „consignment diplomatic fee“ völlig zu Recht die Notbremse gezogen hat. 🛑💸

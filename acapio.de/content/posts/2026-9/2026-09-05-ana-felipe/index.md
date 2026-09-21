@@ -506,3 +506,51 @@ Hugo dreht den Spieß um: Seine Bank habe die Überweisung wegen Betrugsverdacht
 > Hugo und Waldi 🐾
 
 Nun muss Ana entweder die längst versprochenen Dokumente liefern oder eine neue Ausrede erfinden. Wir sind gespannt, wie sie auf den Betrugsverdacht der Bank reagiert.
+
+---
+
+## Phase 10: Keine Unterlagen ohne Geld – dafür MoneyGram und Vertrauen ⚖️💸
+
+Ana hat sich entschieden: Statt der Bank die angekündigten Unterlagen zur Prüfung vorzulegen, präsentiert sie eine neue Begründung, weshalb Hugo zuerst zahlen müsse. Angeblich untersagten Richtlinien der **Union der türkischen Anwaltskammern (UTBA)** dem Anwalt, Dokumente vor der Begleichung seines Honorars herauszugeben. Einen schriftlichen Nachweis für diese Behauptung liefert sie allerdings nicht.
+
+> Lieber geliebter Hugo,
+>
+> Vielen Dank für Ihre E-Mail und Ihre Bemühungen bezüglich dieser Transaktion. Ich habe heute Morgen mit dem Anwalt gesprochen; er hat mir erklärt, dass die Richtlinien der Union der türkischen Anwaltskammern (UTBA) die Herausgabe von Dokumenten ohne vorherige Begleichung der Anwaltshonorare untersagen. Bitte teilen Sie mir mit, wie Sie die Zahlung vornehmen können. Es wird zudem empfohlen, den Betrag per MoneyGram oder Ria Money Transfer zu überweisen, um Verzögerungen zu vermeiden. Sie sind meine einzige Hoffnung, um diese Gelder zu sichern.
+>
+> Herr Hugo, ich möchte Sie darauf hinweisen, dass es sich hierbei um eine absolut seriöse und echte Angelegenheit handelt. Sowohl der Anwalt als auch der zuständige Sachbearbeiter sind bereit und willens, eine reibungslose Abwicklung zu gewährleisten – vorausgesetzt, wir begegnen einander ehrlich. Ich gebe Ihnen eine hundertprozentige Garantie, dass Sie den besagten Geldbetrag ohne Probleme oder Enttäuschungen erhalten werden.
+>
+> Verweilen Sie nicht bei dem, was schiefgelaufen ist. Konzentrieren Sie sich stattdessen auf die nächsten Schritte. Investieren Sie Ihre Energie darin, voranzukommen und eine Lösung zu finden. Bringen Sie einander immer wieder Vertrauen entgegen. Wenn das Vertrauen groß genug ist, überwinden Menschen scheinbare Grenzen und entdecken neue, großartige Fähigkeiten, derer sie sich zuvor nicht bewusst waren.
+>
+> Bitte antworten Sie mir so bald wie möglich, damit ich den Anwalt und den Sachbearbeiter darüber informieren kann, wann die Zahlung erfolgen wird.
+>
+> Bitte antworte bald<br>
+> Aufrichtig<br>
+> Ana Felipe.
+
+Die neue Erklärung löst das Problem nicht, sondern verschärft die Warnzeichen:
+
+* **Behauptung statt Beleg:** Ana nennt eine angebliche Richtlinie, übermittelt aber weder deren genaue Fundstelle noch ein Schreiben des Anwalts oder der Anwaltskammer.
+* **Keine prüffähige Rechnung:** Hugo hat noch immer keinen schriftlichen Nachweis, aus dem Kanzlei, Leistung, Betrag, Zahlungsempfänger und Rechtsgrundlage der Forderung hervorgehen.
+* **Ausweichen auf Bargeldtransferdienste:** Statt einer nachvollziehbaren Zahlung an ein Kanzleikonto werden nun MoneyGram oder Ria empfohlen. Das umgeht gerade die Prüfung, auf der Hugos Bank besteht.
+* **Druck durch Vertrauen:** Die „hundertprozentige Garantie“, der Appell an Ehrlichkeit und die Behauptung, Hugo sei Anas „einzige Hoffnung“, sollen eine sachliche Prüfung durch emotionale Verpflichtung ersetzen.
+
+Vor allem widerspricht die Mail der bisherigen Geschichte: Die 360 Euro wurden zuvor als Kosten für IRS, „DC“, Testament und Stempelsteuer bezeichnet. Nun werden daraus plötzlich **Anwaltshonorare**. Auch der Empfänger bleibt ungeklärt – bislang sollte das Geld an Ester Puleo beziehungsweise auf das Konto des angeblichen Anwaltssohnes gehen, nicht auf ein eindeutig ausgewiesenes Kanzleikonto.
+
+### Hugos Antwort: Ohne schriftlichen Nachweis geht nichts 🏦📄
+
+Hugo bleibt bei der Vorgabe seiner Bank. Eine Zahlung über MoneyGram oder Ria kommt nicht infrage; erst muss ein prüffähiger schriftlicher Nachweis vorliegen:
+
+> Hallo liebe Ana,
+>
+> ich habe noch einmal mit meiner Bank gesprochen. Leider darf ich die Zahlung weder per MoneyGram noch per Ria Money Transfer vornehmen, solange kein schriftlicher Nachweis des Anwalts vorliegt.
+>
+> Bitte sende mir deshalb ein offizielles Schreiben oder eine Rechnung der Kanzlei. Darauf müssen der vollständige Name und die Anschrift der Kanzlei, der Name des Anwalts, der Zahlungsempfänger, der Betrag von 360 Euro, der genaue Grund für die Gebühren und die zugehörige Kontoverbindung stehen. Bitte füge außerdem die genaue Richtlinie der türkischen Anwaltskammer bei, auf die sich der Anwalt beruft.
+>
+> Sobald meine Bank diese Unterlagen geprüft und die Zahlung freigegeben hat, kann ich die nächsten Schritte mit ihr abstimmen. Ohne diesen schriftlichen Nachweis kann ich leider nichts weiter veranlassen.
+>
+> Bitte schicke mir die Unterlagen so bald wie möglich.
+>
+> Röhrende Grüße<br>
+> Hugo und Waldi 🐾
+
+Damit ist die Lage eindeutig: Nicht Hugo muss erneut „Vertrauen“ beweisen, sondern der angebliche Anwalt muss seine Forderung endlich schriftlich und überprüfbar belegen. Solange das nicht geschieht, gibt es weder eine Überweisung noch einen Bargeldtransfer – und ohne Nachweis geht die Geschichte nicht weiter.

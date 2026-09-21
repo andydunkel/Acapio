@@ -492,3 +492,13 @@ Mit anderen Worten: **Keine Rechnung, kein Nachweis, kein Geld – aber bitte vo
 > Entweder sie schicken wir meine rechnung oder das wars.
 
 Kürzer lässt sich die Lage kaum zusammenfassen. Jetzt kann der „Premium Business Account Manager“ entweder ein ganz gewöhnliches Dokument liefern – oder seine 50 Millionen bleiben eben im E-Tresor. 🔐💸
+
+---
+
+## Fazit: Der E-Tresor bleibt geschlossen
+
+Auf Hugos letzte Nachricht kam keine Antwort mehr. Sobald statt einer weiteren Zahlung plötzlich überprüfbare Unterlagen verlangt wurden, war der angebliche „Premium Business Account Manager“ verschwunden. Keine Rechnung, keine Genehmigung, kein Aktenzeichen – und natürlich auch keine 50 Millionen Dollar.
+
+Damit endet unsere Reise durch die internationale Fantasie-Hochfinanz. Das Muster war klassischer Vorschussbetrug: Erst lockt ein angeblich prominenter Absender mit einem riesigen Vermögen, dann tritt eine erfundene Bank auf und verlangt vor der Auszahlung eine vergleichsweise kleine Gebühr. Als der fingierte Überweisungsbeleg kein echtes Geld brachte, erfanden die Betrüger immer neue Erklärungen und drängten auf einen weiteren Zahlungsversuch – möglichst ohne Bankmitarbeiter oder andere Dritte einzuweihen.
+
+Wer eine solche Nachricht erhält, sollte weder Geld überweisen noch Ausweis-, Konto- oder Kontaktdaten verschicken. Ein Millionenvermögen wird nicht über Gmail-Adressen, Geheimcodes und Vorauszahlungen an ein fremdes Logistikunternehmen verteilt. Sergei, Eugene und Jack haben ihren Geschäftsführer nicht gefunden – und der E-Tresor bleibt endgültig zu.
