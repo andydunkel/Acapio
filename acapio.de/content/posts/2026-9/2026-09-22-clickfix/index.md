@@ -23,6 +23,10 @@ Wer sie öffnet, soll mit `Windows + R`, `Strg + V` und `Enter` angeblich beweis
 
 Wir haben die HTML-Datei und alle erreichbaren Folgestufen statisch untersucht. Die Schadsoftware wurde dabei **nicht ausgeführt**.
 
+## Video
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jiRFqqdtr5g?si=2ZcLWNUhT3iUSagc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## Der Köder: angebliche Kontopfändung
 
 Die Mail behauptet, gegen den Empfänger sei ein Pfändungsbeschluss nach § 249 Abgabenordnung ergangen. Aktenzeichen, Referenznummern, Gesetzesstellen und eine kurze Frist sollen amtliche Präzision vortäuschen. Im Betreff wird zusätzlich die „unverzügliche Weiterleitung“ an die Rechts- oder Steuerabteilung verlangt.
