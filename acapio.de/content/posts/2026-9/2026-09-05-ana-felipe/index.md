@@ -557,12 +557,54 @@ Damit ist die Lage eindeutig: Nicht Hugo muss erneut „Vertrauen“ beweisen, s
 
 ---
 
-## Fazit: Ohne Vorschuss verstummt das Millionenmärchen 🤫💸
+## Phase 11: Die eidesstattliche Erklärung ist da – und bringt Indien gleich mit 📜🌍
 
-Seit Hugos letzter Nachricht herrscht Funkstille. Ana hat weder die versprochene eidesstattliche Erklärung noch eine Rechnung der angeblichen Kanzlei oder die zitierte Richtlinie der türkischen Anwaltskammer geschickt. Auch von den 4,5 Millionen Euro fehlt selbstverständlich jede Spur.
+Von wegen Funkstille: Ana antwortet doch noch. In ihrer Mail fordert sie erneut eine Zahlung per MoneyGram oder Ria und erklärt Hugo abermals zu ihrer „einzigen Möglichkeit“, die angeblichen Gelder zu erhalten. Neu ist ein vorangestellter Hinweis, wonach Hugo erst einen Zahlungstermin nennen soll, damit ihm anschließend die Kontodaten mitgeteilt werden können:
 
-Damit endet die Geschichte genau dort, wo klassischer Vorschussbetrug regelmäßig scheitert: bei einer überprüfbaren Forderung. Solange Hugo zahlen sollte, kamen emotionale Appelle, Garantien und immer neue Erklärungen. Sobald er belastbare Unterlagen verlangte, war das vermeintliche Erbe plötzlich kein Thema mehr.
+<details class="scam-accordion">
+  <summary>E-Mail: Erst zahlen, dann gibt es Kontodaten</summary>
+  <div class="accordion-content">
+    <blockquote>
+      <p>Lieber geliebter Hugo,</p>
+      <p><strong>HINWEIS:</strong> Bitte teilen Sie mir mit, wann die Zahlung heute oder morgen erfolgen kann, damit ich Ihnen die Kontodaten übermitteln kann. So lässt sich die Überweisung veranlassen und der Betrag schnellstmöglich auf Ihrem Konto gutschreiben. Wie ich bereits in meiner letzten E-Mail erwähnte, sind Sie meine einzige Möglichkeit, diese Gelder in Empfang zu nehmen – und wenn wir einander vertrauen, werden wir nicht enttäuscht werden.</p>
+      <p>Vielen Dank für Ihre E-Mail und Ihre Bemühungen bezüglich dieser Transaktion. Ich habe heute Morgen mit dem Anwalt gesprochen; er hat mir erklärt, dass die Richtlinien der Union der türkischen Anwaltskammern (UTBA) die Herausgabe von Dokumenten ohne vorherige Begleichung der Anwaltshonorare untersagen. Bitte teilen Sie mir mit, wie Sie die Zahlung vornehmen können. Es wird zudem empfohlen, den Betrag per MoneyGram oder Ria Money Transfer zu überweisen, um Verzögerungen zu vermeiden. Sie sind meine einzige Hoffnung, um diese Gelder zu sichern.</p>
+      <p>Herr Hugo Scholz, ich möchte Sie darauf hinweisen, dass es sich hierbei um eine absolut seriöse und echte Angelegenheit handelt. Sowohl der Anwalt als auch der zuständige Sachbearbeiter sind bereit und willens, eine reibungslose Abwicklung zu gewährleisten – vorausgesetzt, wir begegnen einander ehrlich. Ich gebe Ihnen eine hundertprozentige Garantie, dass Sie den besagten Geldbetrag ohne Probleme oder Enttäuschungen erhalten werden.</p>
+      <p>Verweilen Sie nicht bei dem, was schiefgelaufen ist. Konzentrieren Sie sich stattdessen auf die nächsten Schritte. Investieren Sie Ihre Energie darin, voranzukommen und eine Lösung zu finden. Bringen Sie einander immer wieder Vertrauen entgegen. Wenn das Vertrauen groß genug ist, überwinden Menschen scheinbare Grenzen und entdecken neue, großartige Fähigkeiten, derer sie sich zuvor nicht bewusst waren.</p>
+      <p>Bitte antworten Sie mir so bald wie möglich, damit ich den Anwalt und den Sachbearbeiter darüber informieren kann, wann die Zahlung erfolgen wird.</p>
+      <p>Bitte antworte bald<br>
+      Aufrichtig<br>
+      Ana Felipe.</p>
+    </blockquote>
+  </div>
+</details>
 
-Die Masche lässt sich auf wenige Warnzeichen herunterbrechen: Eine fremde Person verspricht ein Millionenvermögen, verlangt persönliche Daten und fordert schließlich eine vergleichsweise kleine Vorauszahlung auf ein fremdes Privatkonto oder über einen Bargeldtransferdienst. Wer eine solche Nachricht erhält, sollte **nicht antworten, nichts zahlen und keine Ausweis- oder Bankdaten versenden**. Stattdessen gehört die Mail als Spam markiert; bereits übermittelte Zahlungsdaten sollten umgehend der eigenen Bank gemeldet werden.
+Der bemerkenswerte Teil steckt im Anhang: Ana liefert nun tatsächlich die seit Tagen angekündigte „eidesstattliche Erklärung“. Das Blatt soll vom „Supreme Court of Appeals Turkey“ in Ankara stammen, trägt ein Yargıtay-Logo, mehrere Stempel und bestätigt angeblich Hugos Anspruch auf 4,5 Millionen Euro:
 
-Hugo bleibt also ohne Erbe und ohne neuen Heckspoiler – dafür sind die 360 Euro sicher in der Dackelkasse geblieben. Waldi kann den Briefkasten wieder verlassen. 🐾
+![Angebliche eidesstattliche Erklärung des türkischen Kassationshofs für Hugo Scholz](/posts/2026-09-05-ana-felipe/eides.webp)
+
+### Was das Dokument selbst verrät 🔍
+
+Das Blatt widerspricht sich an fast jeder entscheidenden Stelle:
+
+* **Ein Revisionsgericht als Erbschaftsschalter:** Der echte türkische Yargıtay ist der Kassationshof. Nach der [offiziellen Beschreibung des türkischen Justizministeriums](https://sgb.adalet.gov.tr/Resimler/Dergi/13052022095441T%C3%BCrk%20Adalet%20Sistemi.pdf) überprüft er als letzte Instanz Entscheidungen der ordentlichen Gerichte. Das Ausstellen einer privaten Erklärung zur Freigabe eines Bankguthabens gehört nicht zu der auf dem Dokument behaupteten Rolle.
+* **Falsche Namen und falsches Recht:** Auf seiner [offiziellen Website](https://www.yargitay.gov.tr/) heißt das Gericht **Türkiye Cumhuriyeti Yargıtay Başkanlığı** – nicht „TÜRKİYE YÜKSEK AYRIMI“. Zugleich beruft sich das angeblich türkische Dokument ausdrücklich auf **indisches Recht** und ein falsch geschriebenes „HIGHT COURT OF JUSTICE“.
+* **Der IWF als Nachlassabteilung:** Angeblich hätten der Internationale Währungsfonds und das türkische Finanzinstitut gemeinsam die Freigabe beschlossen. Der [IWF beschreibt seine Aufgaben](https://www.imf.org/en/About/Factsheets/IMF-at-a-Glance) als wirtschaftspolitische Überwachung, Finanzierung von Mitgliedstaaten sowie technische Hilfe. Private Erbschaften einzelner Bankkunden gibt er nicht frei.
+* **Bank und Anwalt wechseln:** Im Text liegt das Geld bei der VakıfBank, unterschrieben wird angeblich von der İşbank. Aus der zuvor genannten Anwältin **Aslıhan Erbaş** wird außerdem ohne Erklärung **Ahsan Malik**.
+* **Nicht überprüfbar:** Aktenzeichen, Kammer, ausgeschriebener Name des Richters und eine amtliche Prüfmöglichkeit fehlen. Dafür gibt es mehrere Stempel, unleserliche Unterschriften und ein Formularfragment über verstorbene Verwandte, zu dem die passende Liste fehlt.
+
+Damit hat Ana zwar ein Dokument geliefert, aber noch immer keine Rechnung über 360 Euro und keinen Beleg für die angebliche UTBA-Richtlinie. Ein Logo und einige Stempel ersetzen keine überprüfbaren Angaben.
+
+### Hugo fragt bei der türkischen Botschaft nach 🐾📞
+
+Hugo bedankt sich zunächst und kündigt an, das Dokument wegen der Ungereimtheiten unabhängig prüfen zu lassen:
+
+> Hallo liebe Ana,
+>
+> vielen Dank für das Dokument. Ich war heute bereits bei meiner Bank und habe es dort vorgelegt. Wegen einiger Ungereimtheiten hat man mir empfohlen, die Unterlagen noch einmal mit der türkischen Botschaft abzuklären.
+>
+> Dort werde ich nachher noch anrufen. Sobald ich eine Rückmeldung habe, melde ich mich wieder bei dir.
+>
+> Röhrende Grüße<br>
+> Hugo und Waldi 🐾
+
+Jetzt warten wir ab, was die türkische Botschaft angeblich zu dieser internationalen Stempelsammlung sagen soll – und wie Ana auf Hugos angekündigte Prüfung reagiert.
