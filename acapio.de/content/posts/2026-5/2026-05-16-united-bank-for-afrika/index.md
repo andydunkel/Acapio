@@ -483,7 +483,7 @@ Die UN verschickt weder Geldkisten mit Geheim-Schlüssellöchern noch verlangt s
 
 Ganz aufgeben möchte Chris offenbar noch immer nicht. Statt auf Hugos Betrugsvorwurf einzugehen, meldet sich nun das angebliche **„Compensation Team“** mit einer letzten amtlich klingenden Frist. Die Kiste liege seit Monaten in einer deutschen UN-Niederlassung und werde im kommenden Monat „repatriiert“. Hugo müsse nur noch erklären, warum sich die Zustellung verzögert, oder die Rücksendung schriftlich genehmigen.
 
-> Dear Mr. Hugo Scholz,  
+> Dear Mr. Hugo,<br>
 >   
 > We are writing to formally notify you regarding your consignment box, which has reportedly remained pending for delivery at a UN outlet in Germany for the past several months.  
 >   

@@ -1,0 +1,9 @@
+site: public
+output_subdir: pagefind
+root_selector: ".post_content"
+exclude_selectors:
+  - ".post_meta"
+  - ".post_toc"
+  - ".post_related"
+  - ".comment-section"
+include_characters: "._-@:+"

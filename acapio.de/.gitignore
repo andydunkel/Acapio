@@ -24,7 +24,6 @@ Thumbs.db
 
 # Node.js dependencies (if used for custom scripts)
 node_modules/
-package-lock.json
 yarn.lock
 
 # Generated files

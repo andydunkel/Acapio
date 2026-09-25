@@ -1,0 +1,5 @@
+{{- if site.Params.enableSearch }}
+  {{- $searchPath := "js/pagefind-search.js" }}
+  {{- $search := resources.Get $searchPath | resources.ExecuteAsTemplate $searchPath . | resources.Minify | resources.Fingerprint "sha512" }}
+  <script type="module" src="{{ $search.RelPermalink }}" integrity="{{ $search.Data.Integrity }}" crossorigin="anonymous"></script>
+{{- end }}

@@ -502,3 +502,15 @@ Auf Hugos letzte Nachricht kam keine Antwort mehr. Sobald statt einer weiteren Z
 Damit endet unsere Reise durch die internationale Fantasie-Hochfinanz. Das Muster war klassischer Vorschussbetrug: Erst lockt ein angeblich prominenter Absender mit einem riesigen Vermögen, dann tritt eine erfundene Bank auf und verlangt vor der Auszahlung eine vergleichsweise kleine Gebühr. Als der fingierte Überweisungsbeleg kein echtes Geld brachte, erfanden die Betrüger immer neue Erklärungen und drängten auf einen weiteren Zahlungsversuch – möglichst ohne Bankmitarbeiter oder andere Dritte einzuweihen.
 
 Wer eine solche Nachricht erhält, sollte weder Geld überweisen noch Ausweis-, Konto- oder Kontaktdaten verschicken. Ein Millionenvermögen wird nicht über Gmail-Adressen, Geheimcodes und Vorauszahlungen an ein fremdes Logistikunternehmen verteilt. Sergei, Eugene und Jack haben ihren Geschäftsführer nicht gefunden – und der E-Tresor bleibt endgültig zu.
+
+---
+
+## Nachtrag: Die Rechnung kommt doch noch
+
+Kaum war das Fazit geschrieben, meldete sich die „Green Atlantic Private Bank“ doch noch einmal. Diesmal hing tatsächlich eine Rechnung an der E-Mail:
+
+> Anbei erhalten Sie die Rechnung gemäß den Anforderungen Ihrer Bank. Bitte halten Sie mich auf dem Laufenden.
+
+![Rechnung von Enato Logistics Ltd](/posts/2026-08-25-eugene-shvidler/rechnung.webp)
+
+Überprüfbarer wird die Geschichte dadurch allerdings nicht: Ausgestellt wurde die Rechnung nicht von der angeblichen Privatbank, sondern von **Enato Logistics Ltd**. Als Leistung steht dort lediglich „Logistic Service“ – wie das mit der Freigabe eines 50-Millionen-Dollar-E-Tresors zusammenhängen soll, bleibt offen. Auch die verlangte behördliche Genehmigung samt Aktenzeichen fehlt weiterhin.

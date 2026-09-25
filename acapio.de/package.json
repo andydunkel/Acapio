@@ -1,0 +1,11 @@
+{
+  "name": "acapio.de",
+  "private": true,
+  "scripts": {
+    "build": "hugo --gc --minify --cleanDestinationDir && pagefind",
+    "preview": "hugo --gc --minify --cleanDestinationDir && pagefind --serve"
+  },
+  "devDependencies": {
+    "pagefind": "1.5.2"
+  }
+}

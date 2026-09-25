@@ -33,7 +33,7 @@ comments_api_key  = "bfa56e74fbb9d5fc6e9ab20ed3f25407e2a9d763d2e51bfdfb71a53df63
 
 
 [outputs]
-home = ["HTML", "RSS", "JSON"]
+home = ["HTML", "RSS"]
 
 [pagination]
   pagerSize = 10

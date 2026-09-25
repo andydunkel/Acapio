@@ -406,9 +406,9 @@ Jetzt sind wir gespannt, ob aus dem angeblichen Anwaltsbüro eine Rechnung kommt
 
 Ana antwortet erneut. Ihre E-Mail wiederholt vor allem die bekannte Geschichte: Der Anwalt und der Sachbearbeiter seien informiert, Hugo solle die **360 Euro** auf das italienische Konto von **Ester Puleo** überweisen und danach einen gescannten Zahlungsbeleg schicken. Innerhalb von 48 Stunden würden angeblich die Unterlagen fertig. Eine Erklärung für das Privatkonto oder einen Verwendungszweck liefert sie weiterhin nicht.
 
-Diesmal hängt immerhin ein Bild an. Nur ist es **keine Rechnung über die verlangten 360 Euro**. Unter dem Logo der türkischen VakıfBank soll es eine bereits abgeschlossene Überweisung über **4,5 Millionen Euro an Hugo Scholz** zeigen:
+Diesmal hängt immerhin ein Bild an. Nur ist es **keine Rechnung über die verlangten 360 Euro**. Unter dem Logo der türkischen VakıfBank soll es eine bereits abgeschlossene Überweisung über **4,5 Millionen Euro an Hugo** zeigen:
 
-![Angeblicher VakıfBank-Transferbeleg über 4,5 Millionen Euro an Hugo Scholz](/posts/2026-09-05-ana-felipe/invoice.webp)
+![Angeblicher VakıfBank-Transferbeleg über 4,5 Millionen Euro an Hugo](/posts/2026-09-05-ana-felipe/invoice.webp)
 
 Bei genauerem Hinsehen zerfällt der vermeintliche Zahlungsnachweis:
 
