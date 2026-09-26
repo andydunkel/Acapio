@@ -11,7 +11,7 @@ Andy Dunkel
 Elbinger Str. 2  
 87600 Kaufbeuren
 
-E-Mail: fuseboroto@gmail.com
+E-Mail: andy.dunkel@ekiwi.de
 
 [Datenschutzerklärung](/datenschutz/)
 
