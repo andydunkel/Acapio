@@ -1,5 +1,5 @@
 ---
-title: "Copyright-Phishing mit Google-Weiterleitung: Der Fall Stephanie Lara"
+title: "YouTube-Copyright-Phishing: Der Fall Stephanie Lara"
 params:
   author: Andy
 date: "2026-09-30"
@@ -9,18 +9,24 @@ toc: true
 tags:
   - "Scam"
   - "Phishing"
+  - "YouTube"
   - "Urheberrecht"
+  - "Passwortdiebstahl"
   - "Social Engineering"
 categories:
-  - "Scam"
+  - "Phishing"
 thumbnail: "badger_surprise.webp"
 url: "posts/2026-09-30-stimme-lizenz"
-summary: "Stephanie Lara fragt nach einer Lizenz für eine angeblich fremde Stimme. Die zweite Mail führt über einen Google-Link zu einer am selben Tag registrierten und bereits als gefährlich gemeldeten Domain."
+summary: "Stephanie Lara lockt mit einem erfundenen Copyright-Verstoß auf eine gefälschte YouTube-Seite. Am Ende sollen die Google-Zugangsdaten des Kanalbetreibers gestohlen werden."
 ---
 
-Braucht man eine Lizenz für die eigene Stimme? Eigentlich nicht. Trotzdem erreichte uns eine rätselhafte E-Mail, in der genau diese Frage aufgeworfen wird – nur leider ohne zu verraten, um welches Video, welchen Track oder welche Stimme es überhaupt gehen soll.
+Braucht man eine Lizenz für die eigene Stimme? Mit dieser merkwürdigen Frage begann eine mehrstufige Phishing-Attacke auf unseren YouTube-Kanal. Zunächst fehlten jeder Link und jeder konkrete Vorwurf. Nach mehreren Nachrichten schickte uns die angebliche Stephanie Lara schließlich auf ein gefälschtes Copyright-Portal.
 
-## Die E-Mail von Stephanie Lara
+Inzwischen lässt sich das Ziel der Masche klar belegen: Die Seite erfindet einen Copyright-Strike, baut das YouTube Studio nach und fordert am Ende zur Anmeldung mit dem Google-Konto auf. Die eingegebenen Zugangsdaten landen jedoch nicht bei Google, sondern bei den Betrügern.
+
+*Update vom 1. Oktober 2026: Die Absenderin hat uns eine neue Adresse geschickt. Dieses Mal waren die Phishing-Seiten erreichbar. Wir haben den Artikel deshalb um den vollständigen Ablauf und zwei Screenshots ergänzt.*
+
+## Die erste E-Mail von Stephanie Lara
 
 Die Absenderin nennt sich **Stephanie Lara** und schreibt von `spinerexon1972@libero.it`:
 
@@ -32,70 +38,107 @@ Das Englisch klingt etwas holprig, der Vorwurf bleibt nebulös. Eine URL, ein Ti
 
 Besonders kurios: Die Stimme in unseren Videos nehmen wir selbst auf. Einen fremden Sprecher haben wir dafür weder heimlich im Keller versteckt noch aus dem Internet ausgeliehen. 🎙️
 
-## Ein Köder für die nächste Mail?
+## Der harmlose Einstieg ist Teil der Masche
 
-Noch enthält die Nachricht keinen gefährlichen Link, keinen Anhang und keine Geldforderung. Das macht sie aber nicht automatisch harmlos. Bei mehrstufigem E-Mail-Betrug beginnt die Unterhaltung häufig mit einer kurzen und bewusst vagen Frage. Erst nach einer Antwort folgen angebliche Beweise, Zahlungsforderungen oder Links zu Phishing-Seiten.
+Noch enthielt die erste Nachricht keinen gefährlichen Link, keinen Anhang und keine Geldforderung. Das machte sie aber nicht harmlos. Bei mehrstufigem E-Mail-Betrug beginnt die Unterhaltung häufig mit einer kurzen und bewusst vagen Frage. Die erste Antwort bestätigt den Betrügern, dass das Postfach aktiv ist und jemand auf den Vorwurf reagiert.
 
-[Proofpoint beschreibt solche „Lure“-Mails](https://www.proofpoint.com/us/blog/threat-insight/bec-taxonomy-lures-and-tasks) als Test, ob ein Postfach aktiv und die angeschriebene Person zu einer Unterhaltung bereit ist. Auch die [Watchlist Internet dokumentiert eine Copyright-Masche](https://www.watchlist-internet.at/news/copyright-verletzung-betrugsversuch/), bei der Webseitenbetreiber zunächst mit einem angeblichen Urheberrechtsverstoß konfrontiert und später zur Zahlung einer erfundenen Gebühr aufgefordert werden.
-
-Ob das hier ebenfalls der Plan ist, konnten wir nach der ersten Nachricht noch nicht sicher sagen. Die fehlenden Angaben und die merkwürdige Formulierung lieferten jedenfalls genügend Gründe für eine gesunde Portion Misstrauen.
-
-## Unsere Antwort
+[Proofpoint beschreibt solche „Lure“-Mails](https://www.proofpoint.com/us/blog/threat-insight/bec-taxonomy-lures-and-tasks) als Köder, auf den nach einer Antwort die eigentliche Aufgabe folgt. Auch die [Watchlist Internet dokumentiert eine Copyright-Masche](https://www.watchlist-internet.at/news/copyright-verletzung-betrugsversuch/), bei der Webseitenbetreiber zunächst mit einem angeblichen Urheberrechtsverstoß konfrontiert und später zur Zahlung einer erfundenen Gebühr aufgefordert werden.
 
 Wir haben kurz nachgefragt:
 
 > What do you mean? I have licensed the voice.
 
-Damit war der Ball wieder bei Stephanie Lara. Und tatsächlich kam die nächste Nachricht.
+Damit war der Ball wieder bei Stephanie Lara – und der Vorwurf wechselte prompt von einer fremden Stimme zu angeblich nicht gekennzeichneter Musik.
 
-## Die angebliche Beschwerdeplattform
+## Erst ein verschleierter, dann ein direkter Link
 
-Statt das betroffene Video, den vermeintlichen Künstler oder auch nur den Titel des Musikstücks zu nennen, schickt uns Stephanie auf ein unbekanntes Portal:
-
-> Please explain why you would use music from another person without crediting the original artist?
-> Please go to our website, search for your channel, find the registered claim, and submit your response directly on the site. The appeal must be submitted through the portal.
-> Visit the website and enter @channel in the search bar:
-> [Link aus Sicherheitsgründen entfernt]
-> Please be advised that submissions made via any other method will not be accepted or reviewed.
-> We await your response at your earliest convenience.
-
-Die Forderung wird nun bestimmter, der angebliche Verstoß aber keinen Deut konkreter. Wer der „original artist“ sein soll, welches Musikstück betroffen ist und an welcher Stelle wir es verwendet haben sollen, bleibt weiterhin geheim. Diese Informationen gebe es angeblich erst auf der verlinkten Website. Praktisch – zumindest für den Betreiber der Falle.
-
-## Google steht nur vorne auf dem Link
-
-Der Link in der E-Mail beginnt tatsächlich mit `https://www.google.com/`. Das sieht auf den ersten Blick vertrauenswürdig aus. Dahinter steckt jedoch eine Weiterleitungsadresse mit einem langen, nicht lesbaren Parameter. Google ist hier nicht Betreiber der Beschwerdeplattform, sondern lediglich die erste Station.
-
-Bei unserem Aufruf führte die Weiterleitung schließlich zu:
+In ihrer nächsten Nachricht sollten wir unseren Kanal auf einem unbekannten Portal suchen und dort Einspruch einlegen. Der Link begann mit `https://www.google.com/`, führte über eine Google-Weiterleitung aber tatsächlich zu einer fremden Domain:
 
 ```text
 hxxps://channel-info[.]icu/
 ```
 
-Den vollständigen Link aus der E-Mail veröffentlichen wir nicht. Er sollte keinesfalls auf einem normalen Arbeitsrechner aufgerufen werden.
+Die Domain war am Tag der E-Mail frisch registriert worden und wurde von Firefox bereits als gefährlich gemeldet. Kurz darauf war die Seite nicht mehr erreichbar. Der sichtbare Google-Link sollte lediglich Vertrauen schaffen; mit Google oder YouTube hatte das Ziel nichts zu tun.
 
-Bei einer späteren technischen Prüfung am selben Tag zeigte derselbe Google-Link bereits auf eine andere Domain und dort auf eine belanglose spanische Seite über Server-Uptime. Ob das Ziel ausgetauscht wurde oder abhängig vom Aufruf unterschiedliche Inhalte ausgeliefert werden, lässt sich daraus allein nicht bestimmen. Es zeigt aber, wie wenig der sichtbare Google-Link über das tatsächliche Ziel verrät.
+Am nächsten Tag erhielten wir eine weitere Nachricht:
 
-## Domain frisch registriert, Firefox schlägt Alarm 🚨
+> Visit the website and enter @channel in the search bar:
+> hxxps://channel-review[.]netlify[.]app/
+> Please be advised that submissions made via any other method will not be accepted or reviewed.
+> We await your response at your earliest convenience.
 
-Die öffentliche [RDAP-Auskunft](https://rdap.centralnic.com/icu/domain/channel-info.icu) für `channel-info.icu` ist ziemlich eindeutig:
+Dieses Mal funktionierte die Seite. Die Adresse liegt zwar unter `netlify.app`, das macht den Inhalt aber nicht offiziell: Netlify ist ein Hosting-Dienst, auf dem Nutzer eigene Websites bereitstellen können. Entscheidend ist, dass die Adresse weder zu `youtube.com` noch zu `google.com` gehört.
+
+## Stufe 1: Die erfundene Copyright-Warnung
+
+Nach der Suche nach einem Kanalnamen behauptet die Seite pauschal, ein YouTube-Video enthalte urheberrechtlich geschütztes Material. Welches Video, welches Werk und welcher Rechteinhaber gemeint sein sollen, verrät sie weiterhin nicht.
+
+![Gefälschte Copyright-Warnung nach der Suche nach einem YouTube-Kanal](/posts/2026-09-30-stimme-lizenz/phishing_1.webp)
+
+Der grüne Button „Submit Application“ klingt nach einem Einspruchsformular. Tatsächlich verlässt man damit die erste Website und landet auf einer zweiten fremden Domain:
 
 ```text
-Registriert:  30. September 2026, 00:26:59 UTC
-Geändert:     30. September 2026, 00:27:05 UTC
-Ablaufdatum:  30. September 2027
-Registrar:    Hosting Concepts B.V. / Registrar.eu
+hxxps://dmca-alert[.]org/
 ```
 
-Die angebliche Plattform für bereits „registrierte“ Urheberrechtsansprüche wurde somit ausgerechnet am Tag der E-Mail registriert. Bei unserem Test war die Seite kurz darauf nicht mehr erreichbar. Firefox blendete zudem eine Warnung vor einer betrügerischen beziehungsweise gefährlichen Website ein.
+Dieser Domainwechsel ist im normalen Ablauf leicht zu übersehen. Keine der beiden Adressen gehört zu YouTube oder Google.
 
-Solche Warnungen erscheinen laut der [Mozilla-Dokumentation](https://support.mozilla.org/en-US/kb/firefox-privacy-and-security-features), wenn eine Seite als Phishing-Seite, Quelle unerwünschter Software oder Malware-Angriffsseite gemeldet wurde. Welcher konkrete Schadcode oder welches Phishing-Formular auf dieser Domain ausgeliefert wurde, können wir wegen der inzwischen nicht mehr erreichbaren Seite nicht bestimmen.
+## Stufe 2: Eine gefälschte YouTube-Studio-Ansicht
 
-## Fazit: Der vage Vorwurf war nur der Türöffner
+Die zweite Seite fragt den Kanalnamen beziehungsweise die Kanaladresse ab. Anschließend präsentiert sie ein nachgebautes „Channel Dashboard“ im Stil von YouTube Studio. In unserem Test übernahm die Seite den echten Namen und das Profilbild des ausgewählten Kanals.
 
-Aus der harmlos wirkenden Frage nach einer Stimmlizenz wurde in der zweiten Mail eine angebliche Beschwerde wegen fremder Musik. Belege gab es weiterhin keine. Stattdessen sollten wir einem verschleierten Google-Link auf eine taufrische und bereits als gefährlich gemeldete Domain folgen.
+![Gefälschtes YouTube-Studio-Dashboard mit angeblichem Copyright-Strike und Google-Anmeldung](/posts/2026-09-30-stimme-lizenz/phishing_2.webp)
 
-Damit hat sich der Verdacht bestätigt: Die erste Nachricht sollte vor allem eine Antwort provozieren. Anschließend kam der eigentliche Köder – ein angebliches Copyright-Portal, das mit Google und YouTube nichts zu tun hat.
+Die echten Kanaldaten sind kein Beweis für einen Copyright-Verstoß. Sie sind öffentlich über YouTube abrufbar und werden von der Phishing-Seite lediglich in die vorbereitete Kulisse eingesetzt. Die angebliche Fallnummer, der Status „Pending Review“ und der Copyright-Strike werden dagegen von der Seite selbst erzeugt.
 
-Bei echten Urheberrechtsproblemen auf YouTube führt der sichere Weg direkt ins YouTube Studio. Dort lassen sich Anspruchsteller, betroffenes Material und gegebenenfalls die beanstandete Audiospur prüfen. Offizielle Hinweise zu Copyright-Strikes kommen laut [YouTube-Hilfe](https://support.google.com/youtube/answer/2814000?hl=de) von `no-reply@youtube.com`, nicht von Stephanie Lara über ein italienisches Freemail-Postfach.
+Mehrere Elemente sollen das Opfer unter Druck setzen und gleichzeitig Vertrauen schaffen:
 
-Kurz gesagt: keine Belege, keine nachvollziehbare Identität, eine brandneue Domain und eine Browserwarnung. Mehr rote Flaggen passen kaum in zwei E-Mails. 🚩
+* **„Active Copyright strikes: 1“:** Eine rote Warnung behauptet, es liege bereits ein aktiver Strike vor.
+* **Erfundene Fallnummer:** Eine Zeichenfolge im Format `YT-CR-…` sieht offiziell aus, ist aber kein Nachweis für ein echtes YouTube-Verfahren.
+* **Zeitdruck:** Ohne rechtzeitige Antwort werde der Strike angeblich dauerhaft.
+* **Vertraute Gestaltung:** YouTube-Logo, Farben und das Layout des YouTube Studios täuschen eine offizielle Seite vor.
+* **„Sign in with Google“:** Der bekannte Google-Schriftzug soll den entscheidenden Klick legitim erscheinen lassen.
+
+## Stufe 3: Die Google-Zugangsdaten sollen gestohlen werden
+
+Der Button „Sign in with Google“ führt nicht zu einem echten Google-OAuth-Dialog. Stattdessen erzeugt die Website selbst ein Anmeldefenster, das wie „Google Accounts“ aussieht. Sogar `accounts.google.com` wird innerhalb der nachgebauten Fensteroberfläche angezeigt. Die echte Browser-Adresszeile bleibt jedoch auf der fremden Domain.
+
+Eine Prüfung des ausgelieferten Quellcodes bestätigt den Datendiebstahl. Das Skript lädt die gefälschte Anmeldung von der Angreifer-Domain, lauscht auf die dort eingegebenen Kontodaten und bereitet deren Übertragung an die Betreiber vor. Im Code wird der Datensatz unmissverständlich als „GOOGLE ACCOUNT DATA RECEIVED“ bezeichnet. Zusätzlich erfasst die Seite unter anderem IP-Adresse, Browser, Betriebssystem und den eingegebenen YouTube-Kanal.
+
+Damit handelt es sich nicht nur um eine verdächtige Drittanbieter-Seite, sondern um klassisches **Credential-Phishing**: Gestohlen werden sollen die Zugangsdaten des Google-Kontos, das mit dem YouTube-Kanal verbunden ist. Mit diesem Konto könnten Angreifer je nach Kontoschutz den Kanal übernehmen, Videos austauschen, Livestreams starten oder weitere Personen im Namen des Opfers täuschen.
+
+## Woran lässt sich der Betrug erkennen?
+
+Der gesamte Ablauf enthält zahlreiche Warnzeichen:
+
+* Der erste Vorwurf nennt weder Video noch Musikstück, Zeitpunkt oder Rechteinhaber.
+* Die Geschichte ändert sich von einer angeblich fremden Stimme zu nicht gekennzeichneter Musik.
+* Die Absenderin nutzt ein italienisches Freemail-Postfach und weist keine Verbindung zu YouTube oder einem Rechteinhaber nach.
+* Die Links führen zu wechselnden, fremden Domains statt zu YouTube oder Google.
+* Ein **beliebiger Kanalname** genügt, um angeblich einen Copyright-Strike zu „finden“.
+* Details sollen erst nach einer Google-Anmeldung sichtbar werden.
+* Die Seite zeigt eine gefälschte Adressleiste mit `accounts.google.com`, obwohl der Browser die Angreifer-Domain aufgerufen hat.
+
+Ein HTTPS-Schloss oder eine Adresse bei einem bekannten Hosting-Anbieter schützt nicht vor Phishing. Beides besagt nur, dass die Verbindung zur aufgerufenen Website verschlüsselt ist – nicht, dass deren Betreiber vertrauenswürdig sind.
+
+## Was tun, wenn Zugangsdaten eingegeben wurden?
+
+Wer seine Google-Zugangsdaten auf einer solchen Seite eingegeben hat, sollte sofort handeln:
+
+1. **Google-Passwort ändern:** Die echte Google-Kontoseite manuell aufrufen und ein neues, einzigartiges Passwort setzen.
+2. **Unbekannte Sitzungen beenden:** In den Sicherheitseinstellungen angemeldete Geräte und letzte Kontoaktivitäten prüfen.
+3. **Zwei-Faktor-Authentisierung aktivieren:** Am besten einen Passkey oder einen Sicherheitsschlüssel verwenden.
+4. **Wiederverwendete Passwörter ersetzen:** Dasselbe Kennwort muss auch bei allen anderen Diensten geändert werden.
+5. **YouTube-Kanal prüfen:** Berechtigungen, Kanalinhaber, hochgeladene Videos, Livestreams und Änderungen kontrollieren.
+6. **Wiederherstellungsmethoden kontrollieren:** Unbekannte E-Mail-Adressen, Telefonnummern und verbundene Apps entfernen.
+7. **Bei einem Firmenkonto die IT informieren:** Administratoren können Sitzungen widerrufen, Protokolle prüfen und weitere Schutzmaßnahmen einleiten.
+
+Auch wer nur geklickt, aber keine Daten eingegeben oder Dateien heruntergeladen hat, sollte die Seite schließen und die Nachricht als Phishing melden. Da die Website bereits beim Besuch technische Daten erfasst, sollte man nicht erneut „zum Testen“ darauf zugreifen.
+
+## Fazit: Die Stimmlizenz war nur der Türöffner
+
+Die vermeintliche Frage nach einer Stimmlizenz hatte mit dem späteren Angriff kaum etwas zu tun. Sie sollte eine Reaktion provozieren. Danach folgten ein erfundener Musikvorwurf, wechselnde Domains, eine pauschale Copyright-Warnung und schließlich eine gefälschte YouTube-Studio-Seite zur Übernahme des Google-Kontos.
+
+Bei echten Urheberrechtsproblemen auf YouTube führt der sichere Weg direkt ins selbst aufgerufene YouTube Studio. Dort lassen sich Anspruchsteller, betroffenes Material und gegebenenfalls die beanstandete Audiospur prüfen. Offizielle Hinweise zu Copyright-Strikes kommen laut [YouTube-Hilfe](https://support.google.com/youtube/answer/2814000?hl=de) von `no-reply@youtube.com` – nicht von Stephanie Lara über ein italienisches Freemail-Postfach und nicht über ein fremdes „Appeal Portal“.
+
+Kurz gesagt: **Nicht auf den Link antworten, nicht über die fremde Seite anmelden und Copyright-Warnungen immer direkt im YouTube Studio prüfen.**
