@@ -17,7 +17,7 @@ categories:
   - "Scam"
 thumbnail: "lottery.webp"
 url: "posts/2026-10-02-oxfam-email-lotterie"
-summary: "Eine angebliche Oxfam-E-Mail-Lotterie verspricht 956.000 Euro, obwohl niemand teilgenommen hat. Danach sollen persönliche Daten übermittelt und ein Offshore-Konto eröffnet werden."
+summary: "Eine angebliche Oxfam-E-Mail-Lotterie verspricht 956.000 Euro, obwohl niemand teilgenommen hat. Nach der Datensammlung übernehmen ein angeblicher Anwalt und eine unbekannte Bank."
 ---
 
 **956.000 Euro gewonnen, ohne auch nur einen Tippschein auszufüllen?** Was andere Menschen für außerordentliches Glück halten würden, nennt man bei uns einen ganz normalen Blick in den Spam-Ordner.
@@ -95,11 +95,62 @@ Damit sind in diesem kurzen Austausch bereits vier Adressen beteiligt:
 
 Das ist kein belastbarer Nachweis dafür, wer hinter den einzelnen Konten steckt. Es zeigt aber, dass die Kommunikation bewusst von Adresse zu Adresse weitergereicht wird.
 
+## Der nächste Akt: Jetzt übernimmt der angebliche Anwalt
+
+Die erfundenen Angaben haben offenbar genügt. In der nächsten Nachricht wird Hugo für seine „Zuverlässigkeit“ gelobt und an einen angeblichen Rechtsanwalt verwiesen. Aus der E-Mail-Lotterie wird damit Schritt für Schritt ein vermeintlich juristisch begleiteter Auszahlungsvorgang:
+
+<details class="scam-accordion">
+  <summary>Die nächste E-Mail: Bitte wenden Sie sich an den Anwalt</summary>
+  <div class="accordion-content">
+    <blockquote>
+      <p>Sehr geehrter Begünstigter Hugo,</p>
+      <p>hiermit bestätigen wir den Erhalt Ihrer E-Mail sowie Ihre Zuverlässigkeit im Rahmen dieses weltweiten Programms. Bitte beachten Sie, dass die Abwicklung dieser Spendenauszahlung Ihr Engagement und eine sorgfältige Verfolgung des Vorgangs erfordert. Wenn Sie die Ihnen erteilten Anweisungen gewissenhaft befolgen, sollte Ihnen der bewilligte Betrag innerhalb weniger Tage ausgezahlt werden.</p>
+      <p>Wie bereits in unserer vorherigen E-Mail erläutert, zielt dieses Spendenprogramm darauf ab, den Lebensstandard von Menschen weltweit (Region für Region) bis zum Jahr 2030 spürbar zu verbessern. Wir sind zuversichtlich, dass diese Spende auch Ihrem Umfeld (direkt oder indirekt) zugutekommen wird.</p>
+      <p>Bitte setzen Sie sich mit der unten genannten Anwaltskanzlei in Verbindung; diese ist für die Vorbereitung der Auszahlung zuständig. Sobald die Vorbereitungen abgeschlossen sind, kann die Bank die Überweisung veranlassen. Ihnen wird ein Anspruchsnachweis (Certificate of Claim) vorgelegt, der vom Rechtsbeistand dieses Spendenprogramms unterzeichnet ist. Sie müssen diesen Ihrerseits unterzeichnen und eine Kopie an die unten angegebenen Kontaktdaten zurücksenden. Die Anwaltskanzlei ist für die Vorbereitung der Auszahlung (einschließlich der Dokumentation) verantwortlich. Herr Alexander Mitch (Anwaltskanzlei Anderson Williams) wurde mit der Abwicklung der Dokumentation beauftragt. Bitte kontaktieren Sie die Kanzlei für eine reibungslose Kommunikation über die unten aufgeführte E-Mail-Adresse oder per WhatsApp.</p>
+      <p>KONTAKTDATEN DER ANWALTSKANZLEI:</p>
+      <p>Sachbearbeiter: Herr Alexander Mitch.<br>
+      Anwaltskanzlei: Anderson Williams Law Firm.<br>
+      E-Mail-Adresse der Kanzlei: info@privatetalku.online<br>
+      WhatsApp-Nummer (für schnelle Kommunikation): +1 (509) 415 5684</p>
+      <p>Zweck: Dokumentation / Abwicklung der Auszahlung. Bitte beachten Sie, dass Sie bei der Kontaktaufnahme mit der Anwaltskanzlei Ihre Qualifikationsnummer [477/OXF/461/AID] angeben sowie alle Informationen bereitstellen müssen, die die Kanzlei zur Abwicklung des Überweisungsvorgangs mit der ausführenden Bank benötigt, sobald die Kanzlei die Auszahlung der Gelder genehmigt hat. Wir bitten Sie, die oben genannten Kontaktdaten zu nutzen, da es in der Verantwortung der Kanzlei liegt, die Auszahlung der Gelder nach Abschluss der Formalitäten sicherzustellen. Es wird überprüft, ob Sie tatsächlich Kontakt mit der Kanzlei (siehe oben) aufgenommen haben.</p>
+      <p>Es wird Ihnen dringend empfohlen, mit Alexander Mitch (Anwaltskanzlei Anderson Williams) zusammenzuarbeiten; im Anschluss daran werden Sie für die Auszahlung an die Bank (Barker Vallie Bank Plc) verwiesen. Bitte halten Sie mich über alle weiteren Schritte auf dem Laufenden, damit auch wir den Überweisungsprozess verfolgen können.</p>
+      <p>HERZLICHEN GLÜCKWUNSCH! Dies wünscht Ihnen nochmals das gesamte Personal und der Vorstand von Oxfam Aid International.</p>
+      <p>Herr Frank Hassan<br>
+      Regionaler Sekretär der E-Mail-Lotterie<br>
+      Anschrift: Alberto Aguilera, Madrid, Spanien<br>
+      Kundendienstnummer: + (34) 60 216 1841</p>
+    </blockquote>
+  </div>
+</details>
+
+Und da ist er: der obligatorische Anwalt. Kaum sind Hugos erfundene Daten beim angeblichen Lotteriekomitee angekommen, braucht die Auszahlung plötzlich juristischen Beistand. **Alexander Mitch** von der **„Anderson Williams Law Firm“** soll einen Anspruchsnachweis vorbereiten und Hugo anschließend an die **„Barker Vallie Bank Plc“** weiterreichen. Das Drehbuch läuft damit weiter wie bestellt: Gewinnversprechen, Datensammlung, Anwalt, Bank – und irgendwo hinter der nächsten Kurve wartet erfahrungsgemäß die erste Rechnung.
+
+Besonders aufschlussreich ist die angebliche Kanzleiadresse. `info@privatetalku.online` ist keine fünfte Adresse, sondern genau jenes Postfach, das zuvor unauffällig im `Reply-To` der Gmail-Nachricht hinterlegt war. Was zunächst nur als technisches Antwortziel auftauchte, wird nun kurzerhand zum offiziellen Kontakt der „Anderson Williams Law Firm“ erklärt. Eine erkennbare Kanzlei-Domain ist das weiterhin nicht.
+
+Auch die Formulierung, man werde „überprüfen“, ob Hugo den Anwalt tatsächlich kontaktiert, ist kein normaler Kundenservice. Sie erzeugt Druck und hält den Empfänger im vorgegebenen Ablauf. Gleichzeitig eröffnet WhatsApp einen zweiten Kommunikationskanal, während der angebliche Anwalt das nächste Dokument und die angebliche Bank bereits in Stellung bringt.
+
+## Unsere Antwort an den angeblichen Anwalt
+
+Hugo bleibt höflich, liefert aber keine weiteren persönlichen Daten. Stattdessen bittet er den angeblichen Juristen um genau die Unterlagen und Angaben, die eine echte Kanzlei ohne Theater nennen könnte:
+
+> Sehr geehrter Herr Mitch,
+>
+> Herr Frank Hassan hat mich wegen meiner bewilligten Spende an Sie verwiesen. Meine Qualifikationsnummer lautet 477/OXF/461/AID.
+>
+> Ich freue mich sehr, dass die Auszahlung nun vorbereitet werden kann. Bitte senden Sie mir den angekündigten Anspruchsnachweis sowie die weiteren Unterlagen per E-Mail zu. Teilen Sie mir bitte außerdem die vollständige Anschrift Ihrer Kanzlei und das Aktenzeichen zu meinem Vorgang mit, damit ich alles richtig zuordnen kann.
+>
+> WhatsApp kann ich derzeit leider nicht nutzen. Die weitere Kommunikation sollte daher bitte per E-Mail erfolgen.
+>
+> Mit freundlichen Grüßen
+> Hugo
+
 ## Warum verwenden die Absender so viele E-Mail-Adressen?
 
 Das Adresskarussell kann mehrere praktische Gründe haben. Die erste Adresse dient nur zum massenhaften Versand, während Antworten in einem separaten Postfach gesammelt werden. Wird eine Adresse wegen Spam gesperrt oder vom Anbieter abgeschaltet, bleibt der Rest der Infrastruktur bestehen. Außerdem lassen sich Kampagnen, Opfergruppen oder einzelne Arbeitsschritte auf verschiedene Konten verteilen.
 
 Eine weitere Möglichkeit sind missbrauchte oder übernommene Postfächer. Ob das hier tatsächlich der Fall ist, lässt sich aus dem Header allein nicht belegen. Sicher ist nur: Keine der vier Adressen gehört erkennbar zu Oxfam oder UNICEF. Der Wechsel erschwert außerdem die Nachverfolgung und sorgt dafür, dass eine gesperrte Adresse nicht sofort die gesamte Unterhaltung beendet.
+
+Im nächsten Schritt kommt keine fünfte Adresse hinzu. Stattdessen bekommt eine der vorhandenen Adressen eine neue Rolle: Das zuvor versteckte Antwortpostfach wird nun als Kontakt einer angeblichen Anwaltskanzlei präsentiert. So wirkt derselbe Kommunikationskanal plötzlich wie eine unabhängige Stelle, obwohl die E-Mail technisch längst dorthin gelenkt wurde.
 
 ### SPF, DKIM und DMARC bestanden – warum ist die Mail trotzdem Betrug?
 
@@ -117,11 +168,11 @@ Für Betrüger sind solche Angaben dagegen ausgesprochen nützlich. Sie erfahren
 
 Ein weiteres Warnzeichen steckt gleich in der Anrede: Die ursprüngliche Nachricht kannte offenbar nur eine E-Mail-Adresse. Nach unserer Antwort taucht plötzlich ein Name auf. Das macht die Verlosung nicht seriöser, sondern zeigt vor allem, dass die Geschichte während des Kontakts mit persönlichen Informationen ausgeschmückt wird.
 
-## Das Offshore-Konto ist keine Auszahlungsmethode, sondern die nächste Kulisse
+## Anwalt und Offshore-Konto sind nur die nächsten Kulissen
 
 Besonders interessant ist die angekündigte **„Eröffnung eines Offshore-Kontos bei unserer Abwicklungsbank“**. Warum sollte eine Hilfsorganisation für einen deutschen Empfänger ein neues Auslandskonto eröffnen, statt den angeblichen Betrag auf ein bestehendes Konto zu überweisen?
 
-Die Antwort wird in der E-Mail noch nicht ausgesprochen. Bei dieser Form des [Vorschussbetrugs](/419-scam/) folgt typischerweise eine angebliche Bank oder Finanzgesellschaft. Auf deren Website erscheint dann womöglich sogar ein Kontostand von 956.000 Euro. Das Geld existiert jedoch nur als Zahl auf dem Bildschirm.
+Die erste Vorhersage hat sich inzwischen bereits erfüllt: Ein angeblicher Anwalt ist aufgetaucht, der Hugo nach Erledigung der „Formalitäten“ an die vermeintliche **Barker Vallie Bank Plc** weiterreichen soll. Bei dieser Form des [Vorschussbetrugs](/419-scam/) folgt typischerweise eine angebliche Bank oder Finanzgesellschaft. Auf deren Website erscheint dann womöglich sogar ein Kontostand von 956.000 Euro. Das Geld existiert jedoch nur als Zahl auf dem Bildschirm.
 
 Sobald das Opfer eine Auszahlung versucht, werden erfahrungsgemäß erfundene Kosten verlangt: etwa für die Kontoeröffnung, Aktivierung, Geldwäscheprüfung, Versicherung, Steuerbescheinigung oder internationale Überweisung. Aus dem kostenlosen Millionengewinn wird so eine stetig wachsende Gebührenbaustelle. Wie solche Kulissen funktionieren, zeigen auch unsere Übersicht über [Fake-Banken der Scammer](/fake-banken/) und der Fall der angeblichen [UN-Entschädigung über ein Onlinekonto](/posts/2026-01-16-un-compensation/).
 
@@ -136,6 +187,8 @@ Die Nachricht vereint gleich eine ganze Sammlung klassischer Scam-Merkmale:
 * **Freemail-Adresse:** Die ausführliche Antwort kommt von einem gewöhnlichen Gmail-Konto statt von der Domain einer der genannten Organisationen.
 * **Wechselnde Identitäten:** Zuerst schreibt eine namenlose „Leitung der Operationsabteilung“, dann stellt sich Richard Simon vor, unterschrieben wird die Nachricht jedoch von Frank Hassan.
 * **Persönliche Daten:** Anschrift, Nationalität, Alter, Beruf und Telefonnummer sollen einfach per E-Mail übermittelt werden.
+* **Angeblicher Anwalt:** Eine nicht belegte Kanzlei soll den Vorgang plötzlich legitimieren und einen „Certificate of Claim“ ausstellen.
+* **Kontakt per WhatsApp:** Der vermeintliche Sachbearbeiter bietet für die juristische Abwicklung eine Mobilfunknummer als schnellen Kommunikationsweg an.
 * **Geheimhaltung:** Angeblich muss die Sache wegen der internationalen Presse diskret bleiben. Tatsächlich soll das verhindern, dass Betroffene Freunde, Familie oder Beratungsstellen fragen.
 * **Ungewöhnlicher Zahlungsweg:** Ein Offshore-Konto ist für die Auszahlung eines Gewinns weder plausibel noch notwendig.
 
