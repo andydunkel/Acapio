@@ -144,6 +144,79 @@ Hugo bleibt höflich, liefert aber keine weiteren persönlichen Daten. Stattdess
 > Mit freundlichen Grüßen
 > Hugo
 
+## Der Anwalt liefert: ein Offshore-Konto zum Selbstausfüllen
+
+Die Antwort ließ etwas auf sich warten. Herr Mitch entschuldigt das damit, dass eine international tätige Kanzlei neben Hugos überraschendem Geldsegen gelegentlich auch noch andere Mandate bearbeiten müsse. Dann nimmt die Rechtsabteilung Fahrt auf: Für die Auszahlung soll Hugo ein Offshore-Konto eröffnen, seinen Ausweis mitschicken und praktisch alles verraten, was sich in ein Formular tippen lässt.
+
+<details class="scam-accordion">
+  <summary>Die vollständige Antwort des angeblichen Rechtsanwalts</summary>
+  <div class="accordion-content">
+    <blockquote>
+      <p>Wir bitten vielmals um Entschuldigung für die verspätete Antwort. Wir heißen Sie nochmals herzlich bei der Anwaltskanzlei von Oxfam Aid International willkommen. Wir möchten Ihnen erneut gratulieren, während wir mit der rechtlichen Abwicklung Ihres Anspruchs fortfahren. Als Rechtsvertreter von Oxfam Aid International sind wir für die rechtlichen Schritte bezüglich dieser Spendengelder (956.000,00 €) zuständig, damit Sie Ihren Anspruch geltend machen können. Da wir als Anwälte auch andere Mandate betreuen, kam es zu dieser Verzögerung. Wie bereits erläutert, erfolgt die Auszahlung der Gelder über ein Offshore-Konto. Hierfür benötigen wir Ihre Mitarbeit bei der Einrichtung dieses Kontos (unter Verwendung der unten abgefragten Daten) bei der auszahlenden Bank; wir bereiten Sie entsprechend auf diesen Schritt (die Bereitstellung des Zuschusses) vor.</p>
+      <p>Als Rechtsvertreter dieser Wohltätigkeitsorganisation ist es unsere Aufgabe, Sie auf das rechtliche Verfahren vorzubereiten. Dabei müssen Sie Ihren Teil der Anspruchsbescheinigung unterzeichnen und eine Kopie Ihres gültigen Ausweises beifügen, um die rechtliche Genehmigung des Zuschusses zu bestätigen. Anschließend veranlasst die Bank die Einrichtung Ihres Offshore-Kontos. Auf dieses Konto wird der Scheck über 956.000,00 € eingezahlt, sodass Sie mittels der bereitgestellten Zugangsdaten eine Online-Überweisung auf Ihr persönliches Konto veranlassen können. Sobald uns die unten aufgeführten Angaben vorliegen, folgt die nächste Phase: die Festlegung des Kontotyps. Dieser bestimmt das tägliche Überweisungslimit für Transfers von Ihrem Offshore-Konto auf Ihr persönliches Konto.</p>
+      <p>Bitte füllen Sie daher das untenstehende Formular aus und senden Sie es uns zurück, damit wir die Einrichtung Ihres Offshore-Kontos unter Angabe der erforderlichen Daten und unter Beifügung Ihres Ausweises (Führerschein, Dienstausweis oder Reisepass) veranlassen können. Für die Registrierung erforderliche Angaben:</p>
+      <p>Vor- und Nachname:............................................<br>
+      Qualifikationsnummer:...........................................<br>
+      Beruf:..........................................................<br>
+      Art des Ausweisdokuments:.......................................<br>
+      Ausweisnummer:..................................................<br>
+      Geschlecht:.....................................................<br>
+      Adresse:........................................................<br>
+      Stadt:..........................................................<br>
+      Bundesland/Region:..............................................<br>
+      Land:...........................................................<br>
+      Telefonnummer:..................................................<br>
+      Geburtsdatum:...................................................</p>
+      <p>Optional:</p>
+      <p>Sparkonto / Girokonto:..........................................<br>
+      Sicherheitsfrage wählen:........................................<br>
+      Sicherheitsantwort wählen:......................................</p>
+      <p>Bankverbindung des Empfängers</p>
+      <p>Name der Bank: .................................................<br>
+      Kontoinhaber: ...................................................<br>
+      Kontonummer:.....................................................<br>
+      Bankleitzahl (Routing Number):...................................<br>
+      SWIFT-Code: .....................................................<br>
+      Persönliche Telefonnummer (WhatsApp):...........................</p>
+      <p>Angaben zum nächsten Angehörigen (Verwandte):</p>
+      <p>Vorname:........................................................<br>
+      Nachname:........................................................<br>
+      Alter des Angehörigen: ..........................................<br>
+      Telefonnummer des Angehörigen: .................................<br>
+      Verhältnis zum Angehörigen: ....................................<br>
+      Wohnadresse des Angehörigen:.....................................</p>
+      <p>Die oben genannten Informationen werden schnellstmöglich benötigt. Wie bereits erwähnt, erhalten Sie nach der Registrierung Einzelheiten zu den verschiedenen Kontotypen, aus denen Sie wählen können; diese bestimmen das tägliche Überweisungslimit. Sobald die unterzeichnete Kopie Ihres Anspruchsnachweises (Certificate of Claim) zusammen mit einer Kopie Ihres Personalausweises – womit der rechtliche Prozess für diese Zuwendung abgeschlossen wird – eingegangen ist, erfolgt die Genehmigung für die weiteren Schritte bei der überweisenden Bank. Sobald der ausgestellte Scheck auf Ihrem Offshore-Konto (das mit den oben genannten Daten registriert wird) gutgeschrieben wurde und Sie die nächste Phase des Verfahrens durchlaufen haben, erhalten Sie die Berechtigung, die Überweisung auf Ihr persönliches Konto (wie im Registrierungsprozess angegeben) zu veranlassen.</p>
+      <p>Mit freundlichen Grüßen,<br>
+      Vielen Dank, Rechtsanwalt Alex Mitch<br>
+      Öffnungszeiten: 8:00–17:00 Uhr</p>
+    </blockquote>
+  </div>
+</details>
+
+Aus sechs abgefragten Angaben ist damit ein vollständiger Ausflug durch Hugos Privatsphäre geworden. Der angebliche Anwalt möchte nicht nur Name, Adresse, Beruf, Geburtsdatum, Telefonnummer und Ausweisnummer, sondern gleich noch die Ausweiskopie, Bankverbindung, WhatsApp-Nummer und eine Sicherheitsfrage samt Antwort. Letztere ist angeblich optional – eine beruhigende Zurückhaltung, nachdem der Rest des Identitätsbaukastens bereits als Pflichtprogramm auf dem Tisch liegt.
+
+Besonders fürsorglich ist die Bitte um die Daten des nächsten Angehörigen. Sollte Hugo selbst nicht genügend Informationen für künftige Betrugsversuche liefern, darf offenbar gleich noch die Verwandtschaft mit Name, Alter, Telefonnummer und Wohnanschrift einspringen. Mit der Auszahlung einer Spende hat dieser Datensammelkatalog nichts zu tun. Für Identitätsmissbrauch und glaubwürdigere Folgeangriffe wäre er dagegen ausgesprochen praktisch.
+
+### Ein Zertifikat eigens für Hugo
+
+Immerhin haben sich die Absender Mühe gegeben. Zum Formular kam ein personalisiertes „OXFAM INTERNATIONAL CERTIFICATION“ mit Logo, Wasserzeichen, rotem Siegel, zwei Unterschriften und Hugos Namen. Der Nachname wurde für die Veröffentlichung geschwärzt:
+
+![Personalisierter angeblicher Anspruchsnachweis mit geschwärztem Nachnamen](nachweis-redacted.png)
+
+Das Dokument sieht auf den ersten Blick wichtiger aus, als es ist. Ein Logo, ein Siegel und ein paar Unterschriften ersetzen weder eine überprüfbare Kanzlei noch einen nachvollziehbaren Rechtsvorgang. Besonders schön ist die eigene Zeitrechnung: Das Zertifikat trägt oben das Datum **6. Oktober 2026**, erklärt weiter unten aber, der angebliche Rechtsanwalt habe es bereits am **6. Juli 2026** unterschrieben. Für ein Dokument, das ausdrücklich für Hugo erstellt wurde, war die Unterschrift offenbar schon drei Monate vor der Ausstellung fertig. Vorausschauende Rechtsberatung hat eben ihren Preis.
+
+Auch inhaltlich bleibt die Konstruktion abenteuerlich. Ein angeblicher Scheck soll auf ein neu eröffnetes Offshore-Konto eingezahlt werden, damit Hugo das Geld anschließend selbst auf sein normales Konto überweist. Dafür müsse er nur vorher sämtliche Identitäts- und Bankdaten liefern und später einen Kontotyp nach täglichem Überweisungslimit auswählen. Eine plausible Erklärung, warum die 956.000 Euro nicht einfach direkt überwiesen werden können, gibt es weiterhin nicht. Dafür wächst die Kulisse: erst Lotterie, dann Wohltätigkeitsorganisation, dann Anwalt, nun Zertifikat und Offshore-Banking. Fehlt eigentlich nur noch die Rechnung für die „Aktivierung“.
+
+## Hugo füllt den Datenstaubsauger
+
+Damit die Kanzlei nicht völlig umsonst ein Zertifikat mit Siegel und rückwirkender Unterschrift gebastelt hat, haben wir geantwortet. Hugo lieferte einen plausibel wirkenden Lebenslauf als pensionierter Hausmeister, eine erfundene Anschrift und eine ebenso erfundene Schwester als nächste Angehörige. Sämtliche Angaben sind künstlich; insbesondere führen Adresse und Kontaktdaten zu keiner realen Person.
+
+Auch die Bankverbindung sieht auf den ersten Blick nach Formular aus, ist aber technisch unbrauchbar. Kontonummer, Bankleitzahl, IBAN, Bankname und SWIFT-Code gehören zu keinem echten Konto. Schließlich soll das Scambaiting die Betrüger beschäftigen und nicht versehentlich einen unbeteiligten Bankkunden zum überraschenden Besitzer von 956.000 Fantasie-Euro machen.
+
+Eine Ausweiskopie bekam der angebliche Anwalt ausdrücklich nicht. Hugos Scanner sei leider kaputt – ein tragischer Defekt genau in dem Moment, in dem eine fremde „Kanzlei“ das komplette Starterpaket für einen Identitätsmissbrauch bestellt. Nun soll Herr Mitch erklären, ob die Daten trotzdem zur Einrichtung des Offshore-Kontos genügen.
+
+Außerdem haben wir ihn freundlich gefragt, welchen Kontotyp er empfiehlt und ob für die Einrichtung oder Aktivierung Kosten entstehen. Damit darf die Gegenseite selbst verraten, an welcher Stelle aus dem kostenlosen Geldsegen eine kostenpflichtige Angelegenheit werden soll. Den kleinen Sprung im Zertifikat vom **6. Juli** zum **6. Oktober 2026** haben wir ebenfalls angesprochen. Vielleicht kennt internationales Spendenrecht ja Zeitreisen, vielleicht war aber auch nur die Vorlage noch nicht ganz fertig.
+
 ## Warum verwenden die Absender so viele E-Mail-Adressen?
 
 Das Adresskarussell kann mehrere praktische Gründe haben. Die erste Adresse dient nur zum massenhaften Versand, während Antworten in einem separaten Postfach gesammelt werden. Wird eine Adresse wegen Spam gesperrt oder vom Anbieter abgeschaltet, bleibt der Rest der Infrastruktur bestehen. Außerdem lassen sich Kampagnen, Opfergruppen oder einzelne Arbeitsschritte auf verschiedene Konten verteilen.

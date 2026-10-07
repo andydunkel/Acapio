@@ -139,3 +139,46 @@ Das schnelle Nachfassen erfüllt aber einen Zweck. Es hält den Kontakt warm, er
 Hugo wird selbstverständlich weder echte persönliche Daten noch ein echtes Ausweisdokument verschicken. Wir sind aber gespannt, wie flexibel die Buffett-Buchhaltung reagiert, wenn ihr frisch ausgewählter Millionär bei der Verifizierung ein wenig Hilfe benötigt. 📨
 
 **Wir schicken fürs erste ein paar Fake-Daten und schauen was passiert.**
+
+## Die Identität ist bestätigt – jetzt folgt die Dackelprüfung
+
+Die erfundenen Angaben haben der angeblichen Stiftung offenbar genügt. Hugos Identität sei erfolgreich bestätigt worden und die Spendengelder stünden ihm „zweifellos“ zu. Bevor die Bankleitung die Überweisung veranlassen könne, müsse der frisch bestätigte Empfänger allerdings noch drei Fragen beantworten:
+
+<details class="scam-accordion">
+  <summary>📄 Die neue Antwort der angeblichen Stiftung</summary>
+  <div class="accordion-content">
+    <blockquote>
+      <p>Guten Tag Hugo,</p>
+      <p>wir haben Ihre letzte E-Mail erhalten und zur Kenntnis genommen. Ihre Identität als rechtmäßiger Empfänger wurde erfolgreich bestätigt, und die Spendengelder stehen Ihnen zweifellos zu.</p>
+      <p>Bevor die Bankleitung die Überweisung der Spendengelder veranlassen kann, möchten wir Ihnen jedoch noch einige Fragen stellen:</p>
+      <p>1. Haben Sie bereits früher eine Spende gewonnen?<br>
+      2. Was beabsichtigen Sie mit den Spendengeldern zu tun?<br>
+      3. Wie planen Sie, benachteiligte Menschen in Ihrer Gemeinde zu unterstützen?</p>
+      <p>Wir danken Ihnen für Ihr Verständnis sowie Ihre Mitarbeit und sehen Ihrer baldigen Rückmeldung entgegen.</p>
+      <p>Mit freundlichen Grüßen<br>
+      Warren E. Buffett Foundation.</p>
+    </blockquote>
+  </div>
+</details>
+
+Eine seriöse Stiftung würde Fördermittel nicht als „gewonnene Spende“ bezeichnen. Auch diese Fragen dienen nicht dazu, eine E-Mail-Adresse oder Identität zu verifizieren. Sie sollen Hugo emotional an die Geschichte binden und ihm das Gefühl geben, bereits über die Verwendung des angeblichen Geldes entscheiden zu können. Die Auszahlung rückt sprachlich immer näher, bleibt aber weiterhin reine Behauptung.
+
+## Hugo plant einen neuen Zwinger für Wanne-Eickel
+
+Natürlich hat Hugo bereits einen verantwortungsvollen Verwendungszweck gefunden. Als Mitglied des Vorstands im **Dackel-Club Wanne-Eickel** möchte er einen neuen, artgerechten Zwinger für die Dackel kaufen. Auch bei der Unterstützung benachteiligter Menschen hat der Verein selbstverständlich schon einen Plan:
+
+> Sehr geehrte Damen und Herren,
+>
+> vielen Dank für Ihre Nachricht. Ich freue mich sehr, dass meine Identität bestätigt wurde und die Spendengelder nun für mich bereitstehen. Gerne beantworte ich Ihre Fragen:
+>
+> 1. Nein, ich habe bisher noch nie eine Spende gewonnen. Das ist für mich das erste Mal.
+> 2. Ich bin im Vorstand des Dackel-Clubs Wanne-Eickel. Von einem Teil der Spendengelder würden wir einen neuen, modernen und artgerechten Zwinger für unsere Dackel kaufen. Unser bisheriger Zwinger ist schon etwas in die Jahre gekommen und könnte dringend erneuert werden.
+> 3. Wir möchten benachteiligten Menschen aus unserer Gemeinde die kostenlose Teilnahme an unseren Vereinsveranstaltungen ermöglichen. Außerdem könnten wir mit unseren Dackeln regelmäßig ältere und alleinstehende Menschen besuchen, damit sie Gesellschaft haben und ein wenig Freude im Alltag bekommen.
+>
+> Ich hoffe, dass diese Pläne im Sinne Ihrer Stiftung sind. Bitte teilen Sie mir mit, wie es nun mit der Überweisung weitergeht.
+>
+> Mit freundlichen Grüßen
+> Hugo
+> Vorstand, Dackel-Club Wanne-Eickel
+
+Damit ist die große philanthropische Vision nun vollständig: Warren liefert die Millionen, Hugo den Vorstandsbeschluss und Wanne-Eickel bekommt vermutlich den teuersten Dackel-Zwinger des Ruhrgebiets. Jetzt fehlt eigentlich nur noch die Überweisung – oder, deutlich wahrscheinlicher, die nächste angebliche Gebühr. 🐕
