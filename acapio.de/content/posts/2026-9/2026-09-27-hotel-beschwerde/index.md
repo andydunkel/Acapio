@@ -26,7 +26,7 @@ Genau darauf setzt diese Phishing-Mail. Der angebliche Videolink beginnt sichtba
 
 Der Betreff beginnt mit „Meine Familie beleidigt, ich gedemütigt – das lasse ich nicht durchgeh…“. Als Absender erscheint **Frieda** mit der Adresse `gijutsu@k-koken.jp`. Die Nachricht ist außerdem mit hoher Priorität markiert:
 
-![Phishing-Mail mit angeblicher Beschwerde einer Hotelgästin](mail.webp)
+![Phishing-Mail mit angeblicher Beschwerde einer Hotelgästin](/posts/2026-09-27-hotel-beschwerde/mail.webp)
 
 Die Mail im Wortlaut; die beleidigenden Begriffe geben wir ausschließlich zur Dokumentation der Masche wieder:
 

@@ -31,7 +31,7 @@ Wir haben die HTML-Datei und alle erreichbaren Folgestufen statisch untersucht. 
 
 Die Mail behauptet, gegen den Empfänger sei ein Pfändungsbeschluss nach § 249 Abgabenordnung ergangen. Aktenzeichen, Referenznummern, Gesetzesstellen und eine kurze Frist sollen amtliche Präzision vortäuschen. Im Betreff wird zusätzlich die „unverzügliche Weiterleitung“ an die Rechts- oder Steuerabteilung verlangt.
 
-![Gefälschte E-Mail mit angeblichem Pfändungsbeschluss](mail.webp)
+![Gefälschte E-Mail mit angeblichem Pfändungsbeschluss](/posts/2026-09-22-clickfix/mail.webp)
 
 Schon vor dem Öffnen des Anhangs gibt es deutliche Warnzeichen:
 
@@ -52,7 +52,7 @@ Nach dem Öffnen des HTML-Anhangs erscheint eine sauber gestaltete Seite im Name
 2. den Inhalt der Zwischenablage mit `Strg + V` einfügen,
 3. mit `Enter` bestätigen.
 
-![Gefälschte Cloudflare-Prüfung im Namen des BZSt](captcha.webp)
+![Gefälschte Cloudflare-Prüfung im Namen des BZSt](/posts/2026-09-22-clickfix/captcha.webp)
 
 Kein seriöses Captcha fordert dazu auf, einen unbekannten Befehl über den Windows-Ausführen-Dialog zu starten. Der Klick auf die vermeintliche Prüfung kopiert unbemerkt einen vorbereiteten PowerShell-Befehl in die Zwischenablage. Selbst die angezeigte „Ray ID“ ist nur lokal erzeugte Dekoration – Cloudflare ist an dieser Prüfung überhaupt nicht beteiligt.
 
@@ -62,7 +62,7 @@ Genau das ist das Prinzip von **ClickFix**: Nicht ein Makro oder ein Exploit sta
 
 Der kopierte Text beginnt harmlos aussehend mit `powershell`, startet das Fenster minimiert und übergibt den eigentlichen Befehl Base64-codiert:
 
-![Der von der Webseite kopierte PowerShell-Befehl](powershell.webp)
+![Der von der Webseite kopierte PowerShell-Befehl](/posts/2026-09-22-clickfix/powershell.webp)
 
 Base64 ist keine Verschlüsselung. Nach dem Decodieren und Auflösen mehrerer PowerShell-Aliase bleibt sinngemäß diese erste Stufe übrig:
 
@@ -95,7 +95,7 @@ Der darin versteckte Downloader legt zwei Dateien im Benutzerprofil ab:
 
 Zuerst öffnet er das PDF. Direkt danach startet er die EXE. Das sichtbare Dokument beschäftigt das Opfer, während im Hintergrund die eigentliche Nutzlast läuft.
 
-![Abruf des Köder-PDFs und der ausführbaren Datei vom Server der Täter](download_server.webp)
+![Abruf des Köder-PDFs und der ausführbaren Datei vom Server der Täter](/posts/2026-09-22-clickfix/download_server.webp)
 
 Bemerkenswert ist außerdem der Parameter `-UseBasicParsing`. Er verhindert bei aktualisierten Windows-PowerShell-5.1-Systemen den Sicherheitsdialog, der ansonsten beim Abruf von Webinhalten erscheinen kann. Die Täter haben ihren Downloader also an aktuelle Schutzmaßnahmen angepasst.
 
@@ -103,7 +103,7 @@ Bemerkenswert ist außerdem der Parameter `-UseBasicParsing`. Er verhindert bei 
 
 Bei `vollmacht.pdf` handelt es sich um ein zweiseitiges deutsch-englisches Formular mit dem Titel „Vollmacht in Steuersachen“ gemäß §§ 80 und 123 AO.
 
-![Das als Ablenkung geöffnete PDF-Formular](pdf.webp)
+![Das als Ablenkung geöffnete PDF-Formular](/posts/2026-09-22-clickfix/pdf.webp)
 
 Die statische Untersuchung fand darin kein JavaScript, keine automatische Startaktion, keine eingebettete Datei und keine Verschlüsselung. Das PDF ist nach aktuellem Stand lediglich ein Köder. Es soll den Eindruck erwecken, der vermeintliche Behördenvorgang sei erfolgreich geöffnet worden.
 
@@ -118,7 +118,7 @@ Der Dateiname soll offenbar Vertrauen wecken, mit dem bekannten SSH-Programm PuT
 
 Bei unserer Prüfung meldeten 12 von 71 Virenscannern die Datei als schädlich. Die Bezeichnungen reichen unter anderem von `Stealc` über `Zusy` bis zu generischen Trojaner- und Injector-Funden. Solche Herstellernamen sind nicht einheitlich; eine konkrete Malware-Familie lässt sich daraus allein nicht zweifelsfrei ableiten. Klar ist aber: Die Datei ist kein legitimes PuTTY und wurde innerhalb einer dokumentierten Schadcodekette heruntergeladen und gestartet.
 
-![Virenscanner erkennen die als putty.exe ausgelieferte Datei](virus..webp)
+![Virenscanner erkennen die als putty.exe ausgelieferte Datei](/posts/2026-09-22-clickfix/virus.webp)
 
 ## Technischer Blick in den HTML-Anhang
 

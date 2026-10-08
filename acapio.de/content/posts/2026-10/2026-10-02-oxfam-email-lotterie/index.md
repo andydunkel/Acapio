@@ -201,7 +201,7 @@ Besonders fürsorglich ist die Bitte um die Daten des nächsten Angehörigen. So
 
 Immerhin haben sich die Absender Mühe gegeben. Zum Formular kam ein personalisiertes „OXFAM INTERNATIONAL CERTIFICATION“ mit Logo, Wasserzeichen, rotem Siegel, zwei Unterschriften und Hugos Namen. Der Nachname wurde für die Veröffentlichung geschwärzt:
 
-![Personalisierter angeblicher Anspruchsnachweis mit geschwärztem Nachnamen](nachweis-redacted.png)
+![Personalisierter angeblicher Anspruchsnachweis mit geschwärztem Nachnamen](/posts/2026-10-02-oxfam-email-lotterie/nachweis-redacted.webp)
 
 Das Dokument sieht auf den ersten Blick wichtiger aus, als es ist. Ein Logo, ein Siegel und ein paar Unterschriften ersetzen weder eine überprüfbare Kanzlei noch einen nachvollziehbaren Rechtsvorgang. Besonders schön ist die eigene Zeitrechnung: Das Zertifikat trägt oben das Datum **6. Oktober 2026**, erklärt weiter unten aber, der angebliche Rechtsanwalt habe es bereits am **6. Juli 2026** unterschrieben. Für ein Dokument, das ausdrücklich für Hugo erstellt wurde, war die Unterschrift offenbar schon drei Monate vor der Ausstellung fertig. Vorausschauende Rechtsberatung hat eben ihren Preis.
 
@@ -216,6 +216,41 @@ Auch die Bankverbindung sieht auf den ersten Blick nach Formular aus, ist aber t
 Eine Ausweiskopie bekam der angebliche Anwalt ausdrücklich nicht. Hugos Scanner sei leider kaputt – ein tragischer Defekt genau in dem Moment, in dem eine fremde „Kanzlei“ das komplette Starterpaket für einen Identitätsmissbrauch bestellt. Nun soll Herr Mitch erklären, ob die Daten trotzdem zur Einrichtung des Offshore-Kontos genügen.
 
 Außerdem haben wir ihn freundlich gefragt, welchen Kontotyp er empfiehlt und ob für die Einrichtung oder Aktivierung Kosten entstehen. Damit darf die Gegenseite selbst verraten, an welcher Stelle aus dem kostenlosen Geldsegen eine kostenpflichtige Angelegenheit werden soll. Den kleinen Sprung im Zertifikat vom **6. Juli** zum **6. Oktober 2026** haben wir ebenfalls angesprochen. Vielleicht kennt internationales Spendenrecht ja Zeitreisen, vielleicht war aber auch nur die Vorlage noch nicht ganz fertig.
+
+## Der Anwalt hakt nach: Zwei Anhänge fehlen noch
+
+Auf die Fragen zum merkwürdigen Datum, zum Kontotyp und zu möglichen Kosten geht Herr Mitch vorerst nicht ein. Stattdessen erinnert er Hugo knapp an die beiden Unterlagen, die er unbedingt haben möchte:
+
+> Zu Händen von Hugo
+>
+> Bezugnehmend auf Ihre Nachricht haben wir die unterzeichnete Kopie Ihrer Anspruchsbescheinigung sowie eine Kopie Ihres Personalausweises noch nicht erhalten.
+>
+> Wir benötigen diese Unterlagen als Anhang, um mit dem Verfahren fortfahren zu können.
+>
+> Mit freundlichen Grüßen,<br>
+> Vielen Dank, Rechtsanwalt Alex Mitch<br>
+> Öffnungszeiten: 8:00–17:00 Uhr<br>
+> E-Mail: info@privatetalku.online, WhatsApp: +1 (509) 415 5684<br>
+> Adresse: 7515 Halcyon Pointe Drive Montgomery, AL 36117
+
+Damit ist klar: Die frei erfundenen Formulardaten allein reichen der angeblichen Kanzlei nicht. Besonders die Ausweiskopie bleibt offenbar wichtig. Eine Antwort auf Hugos Sachfragen wäre zwar hilfreich, bringt aber keine verwertbaren Dokumente – also wird dieser Teil kurzerhand übersprungen.
+
+## Hugos Antwort: ein falscher Vogel statt Personalausweis
+
+Hugo möchte das Verfahren natürlich nicht an einem fehlenden Anhang scheitern lassen. Deshalb schickt er einen Ausweis mit – allerdings einen, der selbst für diese Kanzlei schwerlich als amtliches Dokument durchgehen dürfte. Die Anspruchsbescheinigung bleibt zunächst offen, denn in Hugos Haushalt fehlt ausgerechnet ein Drucker:
+
+> Sehr geehrter Herr Mitch,
+>
+> vielen Dank für Ihre Nachricht. Meinen Ausweis habe ich Ihnen als Anlage beigefügt. Ich hoffe, dass das Dokument für die Prüfung gut genug lesbar ist.
+>
+> Die Anspruchsbescheinigung kann ich im Moment leider nicht ausdrucken und unterschreiben, da ich keinen Drucker besitze. Kann ich meinen Namen direkt in die PDF-Datei eintragen, oder können Sie mir bitte eine Fassung schicken, die sich am Computer unterschreiben lässt?
+>
+> Mit freundlichen Grüßen<br>
+> Hugo
+
+![Offensichtlich nicht amtlicher Vogelausweis, den Hugo statt einer echten Ausweiskopie verschickt](/posts/2026-10-02-oxfam-email-lotterie/vogelausweis.webp)
+
+Der Anhang ist unmissverständlich als **„Vogelausweis“** und **„nicht amtlich“** gekennzeichnet. Echte Ausweisdaten oder das Dokument einer unbeteiligten Person landen damit weiterhin nicht bei den Absendern. Nun darf Herr Mitch entscheiden, ob der „falsche Vogel“ für die Eröffnung eines Offshore-Kontos genügt – und nebenbei erklären, wie ein angeblicher Rechtsvorgang im Jahr 2026 mit einer digital ausfüllbaren Datei zurechtkommt.
 
 ## Warum verwenden die Absender so viele E-Mail-Adressen?
 

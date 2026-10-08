@@ -28,7 +28,7 @@ Wir haben die sichtbare Angriffskette, das vollständige Skript und die nachgela
 
 Die Nachricht gibt sich als automatische Zahlungsbestätigung eines „Accounts Payable Team“ aus. Eine Referenznummer, das aktuelle Datum und der Betrag von **14.329 US-Dollar** sollen den Eindruck eines echten Geschäftsvorgangs erzeugen.
 
-![Phishing-Mail mit dem Betreff Payment Remittance](mail.webp)
+![Phishing-Mail mit dem Betreff Payment Remittance](/posts/2026-10-02-payment-remittance/mail.webp)
 
 Der Text bleibt bewusst allgemein:
 
@@ -48,7 +48,7 @@ Im Anhang liegt die Datei **`Payment sent .pdf`**. Das zusätzliche Leerzeichen 
 
 Nach dem Öffnen erscheint im Vordergrund ein angeblicher „Adobe Reader Updater“. Version **11.0.23** sei verfügbar und solle jetzt installiert werden. Im Hintergrund ist verschwommen ein vermeintlicher Zahlungsbeleg zu sehen.
 
-![Gefälschte Update-Aufforderung vor einem angeblichen Zahlungsbeleg](pdf.webp)
+![Gefälschte Update-Aufforderung vor einem angeblichen Zahlungsbeleg](/posts/2026-10-02-payment-remittance/pdf.webp)
 
 Das ist psychologisch geschickt inszeniert: Der erwartete Beleg scheint bereits geöffnet zu sein, nur ein lästiges Update steht noch im Weg. Wer auf „Yes“ klickt, glaubt deshalb leicht, lediglich den PDF-Reader zu aktualisieren.
 
@@ -60,7 +60,7 @@ Aus den vorliegenden Screenshots lässt sich nicht zweifelsfrei bestimmen, mit w
 
 Das heruntergeladene Archiv heißt **`payment-sent.zip`**. Darin befindet sich genau eine sichtbare Datei: **`adobe_update.vbs`** mit einer Größe von rund 6,4 KB.
 
-![ZIP-Archiv payment-sent.zip mit der Datei adobe_update.vbs](payment-sent.webp)
+![ZIP-Archiv payment-sent.zip mit der Datei adobe_update.vbs](/posts/2026-10-02-payment-remittance/payment-sent.webp)
 
 Die Namenswahl setzt die Geschichte konsequent fort. Erst heißt der Anhang „Payment sent“, dann meldet sich angeblich Adobe und schließlich trägt auch das Skript den Namen `adobe_update`. Drei Dateinamen, eine Botschaft: Alles normal, bitte weiterklicken.
 
@@ -70,7 +70,7 @@ Wer die Dateiendung nicht sieht oder nicht kennt, hält das schlichte Datei-Icon
 
 ## Das VBScript: Der höfliche Türöffner
 
-![Ausschnitt aus dem analysierten VBScript adobe_update.vbs](vbs.webp)
+![Ausschnitt aus dem analysierten VBScript adobe_update.vbs](/posts/2026-10-02-payment-remittance/vbs.webp)
 
 Das Skript ist übersichtlich aufgebaut und verwendet fast ausschließlich Windows-Bordmittel. Genau das macht es gefährlich: Es muss keinen eigenen Downloader oder Installer mitbringen, sondern spannt bereits vorhandene Programme für seine Zwecke ein.
 
