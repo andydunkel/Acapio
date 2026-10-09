@@ -182,3 +182,47 @@ Natürlich hat Hugo bereits einen verantwortungsvollen Verwendungszweck gefunden
 > Vorstand, Dackel-Club Wanne-Eickel
 
 Damit ist die große philanthropische Vision nun vollständig: Warren liefert die Millionen, Hugo den Vorstandsbeschluss und Wanne-Eickel bekommt vermutlich den teuersten Dackel-Zwinger des Ruhrgebiets. Jetzt fehlt eigentlich nur noch die Überweisung – oder, deutlich wahrscheinlicher, die nächste angebliche Gebühr. 🐕
+
+## Der Buchhalter übernimmt
+
+Und tatsächlich geht es weiter wie im Lehrbuch. Die angebliche Stiftung erklärt Hugos Identität kurzerhand für bestätigt und reicht ihn an den nächsten Ansprechpartner weiter. Ab jetzt soll sich ein gewisser **Raymond David** um die Auszahlung kümmern – natürlich ebenfalls über eine gewöhnliche Gmail-Adresse.
+
+<details class="scam-accordion">
+  <summary>📄 Die Antwort der angeblichen Warren E. Buffett Foundation</summary>
+  <div class="accordion-content">
+    <blockquote>
+      <p>Sehr geehrter Hugo,</p>
+      <p>Ihre letzte E-Mail war sehr präzise formuliert, und die darin enthaltenen Angaben stimmten mit denen in unserer Datenbank überein. Dies bestätigt, dass Sie der rechtmäßige Empfänger dieser Nachricht sind (E-Mail-Adresse: scholzhugo4@gmail.com).</p>
+      <p>Bitte setzen Sie sich umgehend mit Herrn Raymond David in Verbindung, um die Auszahlung Ihrer Spendensumme zu veranlassen; er ist der für diese Spende zuständige Buchhalter. Sie erreichen ihn unter folgender E-Mail-Adresse:<br>
+      E-Mail: raymonddavid148@gmail.com</p>
+      <p>Es geht um Ihre Spende in Höhe von 2.500.000 Euro (Referenznummer: WBF002114).</p>
+      <p>Hinweis: Die Referenznummer Ihrer Spende ist sehr wichtig, damit die Bankleitung die Überweisung der Gelder in die Wege leiten kann.</p>
+      <p>Ich danke Ihnen, dass Sie meine Spende annehmen, und hoffe, dass Sie die Mittel sinnvoll einsetzen. Ich bete zudem darum, dass der Herr Sie dazu gebraucht, das Leben benachteiligter Menschen positiv zu beeinflussen und Ihrer Gemeinschaft etwas zurückzugeben. Gemeinsam können wir die Welt zu einem besseren Ort machen; ich weiß, dass Sie ein Mensch mit großem Herz sind, und ich vertraue Ihnen.</p>
+      <p>Herzliche Grüße,<br>
+      Warren E. Buffett Foundation.</p>
+    </blockquote>
+  </div>
+</details>
+
+Die Prüfung war offenbar besonders anspruchsvoll: Die erfundenen Angaben stimmen mit einer angeblichen Datenbank überein, obwohl Hugo zuvor zufällig über seine E-Mail-Adresse ausgewählt worden sein soll. Einen unabhängigen Nachweis für die Stiftung, den Buchhalter oder das Geld gibt es weiterhin nicht.
+
+Auch die Referenznummer hat sich unterwegs verwandelt. Zu Beginn lautete sie noch `WBCF/XGMM/001015/0026`, nun soll plötzlich `WBF002114` für dieselbe Spende entscheidend sein. Dafür kommt mit `raymonddavid148@gmail.com` bereits die **dritte Gmail-Adresse** ins Spiel. Genau diese Weitergabe an einen angeblichen Buchhalter, Anwalt oder Bankmitarbeiter ist bei Vorschussbetrug üblich: Eine zweite Rolle soll Seriosität vorspielen und später die erfundene Gebühr plausibel machen.
+
+Noch wird kein Geld verlangt. Erfahrungsgemäß folgt nun aber der eigentliche Kassenbereich – etwa mit angeblichen Kosten für Steuern, Freigaben, Zertifikate, Versicherungen oder eine internationale Überweisung. Solche Gebühren dürfen selbstverständlich niemals bezahlt werden; auch echte Bankdaten oder Ausweisdokumente werden wir nicht versenden.
+
+## Unsere Antwort an Raymond David
+
+Wir halten die erste Nachricht bewusst knapp und geben außer der ohnehin genannten Referenznummer keine weiteren Daten preis:
+
+> **Betreff:** Spende über 2.500.000 Euro – Referenznummer WBF002114
+>
+> Sehr geehrter Herr David,
+>
+> die Warren E. Buffett Foundation hat mich wegen meiner Spende über 2.500.000 Euro an Sie verwiesen. Die zugehörige Referenznummer lautet WBF002114.
+>
+> Bitte teilen Sie mir mit, wie es nun weitergeht und welche Schritte für die Auszahlung erforderlich sind.
+>
+> Mit freundlichen Grüßen<br>
+> Hugo
+
+Damit ist der neue Ansprechpartner am Zug. Mal sehen, ob der „Buchhalter“ tatsächlich eine Überweisung vorbereitet – oder ob vor den 2,5 Millionen erst einmal eine erstaunlich dringende Rechnung bei Hugo eintrifft. 💸
