@@ -226,3 +226,73 @@ Wir halten die erste Nachricht bewusst knapp und geben außer der ohnehin genann
 > Hugo
 
 Damit ist der neue Ansprechpartner am Zug. Mal sehen, ob der „Buchhalter“ tatsächlich eine Überweisung vorbereitet – oder ob vor den 2,5 Millionen erst einmal eine erstaunlich dringende Rechnung bei Hugo eintrifft. 💸
+
+## Zwei Wege zu den Millionen – beide führen zur Vorkasse
+
+Raymond David hat geantwortet, und die angekündigte Rechnung ist da. Hugos neue Referenznummer sei selbstverständlich „eindeutig bestätigt“ worden. Für die Auszahlung soll er nun zwischen zwei angeblichen Überweisungswegen wählen: **2.500 Euro** für eine Banküberweisung mit Gerichts- und Anwaltsgeschichte oder **950 Euro** für ein Online-Konto samt Debitkarte bei einer „Turkcity Bank Inc“.
+
+Die Turkcity Bank ist bei uns keine Unbekannte: [Schon im Fall des angeblichen Citibank-Mitarbeiters Chong Pong Song](/posts/2025-12-22_chong-pong-song/) tauchte sie als vermeintliche Online-Bank auf. Damals versprach sie ebenfalls weltweite Überweisungen innerhalb von 48 Stunden und verlangte für die Kontoeröffnung Geld im Voraus. Offenbar wird dieselbe Fake-Bank-Kulisse für unterschiedliche Millionengeschichten wiederverwendet.
+
+<details class="scam-accordion">
+  <summary>📄 Die vollständige Antwort von Raymond David</summary>
+  <div class="accordion-content">
+    <blockquote>
+      <p>Sehr geehrter Hugo,</p>
+      <p>Ihre Referenznummer WBF002114 wurde eindeutig bestätigt und mit dem Eintrag in unserer Datenbank abgeglichen. Dies belegt, dass Sie tatsächlich der rechtmäßige Empfänger dieser Spendengelder sind.</p>
+      <p>Ich möchte Ihnen raten, die unten aufgeführten Überweisungsoptionen sorgfältig zu prüfen und eine davon auszuwählen, um die Auszahlung Ihrer Spendengelder zu veranlassen. Dies ist erforderlich, damit wir und die Bankleitung die Überweisung der Spendengelder auf das von Ihnen bevorzugte Bankkonto (gemäß den untenstehenden Optionen) durchführen können.</p>
+      <p><strong>ÜBERWEISUNGSOPTIONEN!</strong></p>
+      <p><strong>1. Bank-zu-Bank-Überweisung:</strong> Bei dieser Option wird das Geld von einem Treuhandkonto auf Ihr lokales Bankkonto überwiesen. Hierfür ist eine von einem US-Gericht beglaubigte Erklärung erforderlich, die ein Anwaltskonto sowie die Zahlung einer Bankgebühr in Höhe von 2.500 € (zweitausendfünfhundert Euro) voraussetzt. Normalerweise empfehlen wir unseren Kunden diese Option nicht, da sie mit höheren Kosten verbunden ist – was uns zu Option 2 führt.</p>
+      <p><strong>2. Kontoeröffnung bei der Turkcity Bank Inc:</strong></p>
+      <p>Bei dieser Option müssen Sie lediglich ein Online-Konto bei uns eröffnen; die Zugangsdaten werden Ihnen automatisch von unserer offiziellen Bank-E-Mail-Adresse zugesandt. Diese Option ermöglicht es Ihnen, Online-Überweisungen von Ihrem Konto bei der Turkcity Bank Inc. auf ein beliebiges Bankkonto Ihrer Wahl zu tätigen; der Betrag wird innerhalb von 48 Stunden auf Ihrem lokalen Bankkonto gutgeschrieben.</p>
+      <p>Die Bankleitung stellt Ihnen zudem eine Debit-Mastercard (Bankkarte) aus, mit der Sie Bargeld abheben und Überweisungen von Ihrem Konto auf ein beliebiges anderes Bankkonto vornehmen können. Die Eröffnung dieses Kontos und die Zustellung der Debit-Mastercard kosten lediglich 950 € (neunhundertfünfzig Euro).</p>
+      <p>Bitte beachten Sie, dass dies die einzigen anfallenden Kosten sind, um Ihnen den Erhalt der Spendengelder ohne Komplikationen zu ermöglichen. Bitte stellen Sie sicher, dass Sie die Spendengelder nach Erhalt sinnvoll verwenden. Ich bin davon überzeugt, dass man Ihnen vertrauen kann und dass Sie diese Spendengelder gewinnbringend einsetzen werden. Ich bete darum, dass der Friede des Herrn stets mit Ihnen und Ihrer Familie ist. Hinweis: Bitte wählen Sie aus den oben aufgeführten Übertragungsoptionen diejenige aus, über die Sie die Spendensumme in Höhe von 2.500.000,00 € (in Worten: zwei Millionen fünfhunderttausend Euro) erhalten möchten. Vielen Dank für Ihr Verständnis und Ihre Mitarbeit.</p>
+      <p>Bitte sehen Sie sich auch die unten angehängte Kopie meines Personalausweises an, um sich davon zu überzeugen, dass diese Transaktion absolut seriös und rechtmäßig ist. Ich freue mich auf Ihre baldige positive Rückmeldung.</p>
+      <p>Mit freundlichen Grüßen<br>
+      Raymond David.</p>
+    </blockquote>
+  </div>
+</details>
+
+Das ist der entscheidende Schritt des Vorschussbetrugs: Bevor das erfundene Vermögen ausgezahlt werden könne, müsse der Empfänger zunächst echtes Geld überweisen. Die beiden „Optionen“ sollen dabei Auswahlfreiheit vorspielen. Tatsächlich darf Hugo nur zwischen einer hohen Gebühr und der auffällig günstigeren Gebühr wählen. Die zweite Variante wird mit „lediglich 950 €“ gezielt als vernünftiges Angebot präsentiert.
+
+Warum eine angebliche Bank ihre Kosten nicht einfach von den angeblichen 2,5 Millionen abziehen kann, bleibt unerklärt. Ebenso wenig ergibt es Sinn, für eine gewöhnliche Überweisung plötzlich eine von einem US-Gericht beglaubigte Erklärung und ein „Anwaltskonto“ zu benötigen. Die versprochene Debit-Mastercard, der 48-Stunden-Transfer und die angeblich einmaligen Kosten liefern vor allem viele seriös klingende Begriffe – aber keinen überprüfbaren Nachweis, dass ein Konto oder die Spendengelder überhaupt existieren.
+
+Die 950 Euro wären mit hoher Wahrscheinlichkeit auch nicht das Ende. Wer die erste Forderung bezahlt, bekommt bei Vorschussbetrug häufig weitere Rechnungen präsentiert: angebliche Steuern, Aktivierungsgebühren, Versicherungen oder Kosten für die Freigabe der Überweisung. **Hugo wird keine der beiden Optionen wählen und keinen Cent bezahlen.**
+
+## Der angebliche Ausweis besteht die Datenprüfung nicht
+
+Als Seriositätsbeweis hängt Raymond keinen Personalausweis, sondern das Bild eines US-Reisepasses an. Schon optisch wirkt das Dokument wie eine digitale Montage. Entscheidend sind aber nicht unsaubere Kanten oder unterschiedliche Schriften, sondern die Daten, die sich direkt miteinander vergleichen lassen.
+
+![Angeblicher US-Reisepass von Raymond David mit widersprüchlichen Angaben](/posts/2026-10-04-warren-buffett/ausweis.webp)
+
+Die maschinenlesbare Zone am unteren Rand – kurz **MRZ** – widerspricht den darüber gedruckten Angaben gleich mehrfach:
+
+* Als Geburtsdatum ist sichtbar der **25. April 1971** eingetragen. Die MRZ codiert *530418*, also den **18. April 1953**.
+* Das sichtbare Ablaufdatum lautet **8. Juni 2027**. In der MRZ steht mit *250608* dagegen der **8. Juni 2025**.
+* Die erste MRZ-Zeile beginnt mit *P<FLORIDA<USA...*. An dieser Stelle müssten Dokumenttyp und ausstellender Staat stehen; „Florida“ gehört dort nicht hin.
+
+Damit ist das Bild kein belastbarer Identitätsnachweis, unabhängig davon, wessen Porträt dafür verwendet wurde. Ein Ausweisfoto im E-Mail-Anhang beweist ohnehin weder die Identität des Absenders noch die Existenz einer Bank oder eines Millionenvermögens. In diesem Fall widerlegt sich das Dokument dank seiner widersprüchlichen Daten praktischerweise selbst.
+
+## Hugo wählt die günstige Millionen-Option
+
+Hugo möchte die internationale Finanzwelt nicht unnötig aufhalten und entscheidet sich deshalb für das angebliche Online-Konto. Nur die Reihenfolge bereitet ihm noch Sorgen: Wenn dort gleich 2,5 Millionen Euro liegen sollen, müsste sich die Kontoeröffnungsgebühr schließlich problemlos von diesem Guthaben abziehen lassen. Außerdem kann der Kassenwart des Dackel-Clubs mit einem Passfoto allein natürlich keine ordentliche Buchführung machen.
+
+> **Betreff:** Referenznummer WBF002114 – Auswahl der Überweisungsoption
+>
+> Sehr geehrter Herr David,
+>
+> vielen Dank für Ihre ausführliche Erklärung und die Kopie Ihres Reisepasses.
+>
+> Ich habe mich mit dem Vorstand des Dackel-Clubs Wanne-Eickel beraten. Wir möchten **Option 2 mit dem Online-Konto bei der Turkcity Bank Inc** wählen. Die Bankkarte wäre für unsere Vereinsausgaben sehr praktisch.
+>
+> Leider kann ich die verlangten 950 Euro nicht im Voraus bezahlen. Da auf dem neuen Konto anschließend 2.500.000 Euro liegen sollen, ziehen Sie die Gebühr bitte direkt davon ab. Sie können also 950 Euro einbehalten und nur 2.499.050 Euro gutschreiben. Damit bin ich ausdrücklich einverstanden.
+>
+> Bitte senden Sie mir außerdem die Kontoeröffnungsunterlagen sowie die vollständige Geschäftsanschrift, Banklizenznummer und BIC/SWIFT-Kennung der Turkcity Bank. Unser Kassenwart benötigt diese Angaben für die Vereinsunterlagen.
+>
+> Ich hoffe, dass wir die Kontoeröffnung nun schnell abschließen können. Die Dackel warten bereits auf ihren neuen Zwinger.
+>
+> Mit freundlichen Grüßen<br>
+> Hugo<br>
+> Vorstand, Dackel-Club Wanne-Eickel
+
+Damit liegt ein einfacher Gegenvorschlag auf dem Tisch: Die angebliche Bank kann ihre 950 Euro aus dem angeblichen Guthaben erhalten, ohne dass Hugo echtes Geld überweisen muss. Eine seriöse Antwort müsste zudem die Bank eindeutig identifizieren und ihre Zulassung überprüfbar machen. Wir erwarten allerdings eher eine kreative Erklärung, warum ausgerechnet die kleine Gebühr unbedingt vor den großen Millionen bezahlt werden müsse.
