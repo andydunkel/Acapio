@@ -192,7 +192,7 @@ Und tatsächlich geht es weiter wie im Lehrbuch. Die angebliche Stiftung erklär
   <div class="accordion-content">
     <blockquote>
       <p>Sehr geehrter Hugo,</p>
-      <p>Ihre letzte E-Mail war sehr präzise formuliert, und die darin enthaltenen Angaben stimmten mit denen in unserer Datenbank überein. Dies bestätigt, dass Sie der rechtmäßige Empfänger dieser Nachricht sind (E-Mail-Adresse: scholzhugo4@gmail.com).</p>
+      <p>Ihre letzte E-Mail war sehr präzise formuliert, und die darin enthaltenen Angaben stimmten mit denen in unserer Datenbank überein. Dies bestätigt, dass Sie der rechtmäßige Empfänger dieser Nachricht sind (E-Mail-Adresse: [Hugos E-Mail-Adresse entfernt]).</p>
       <p>Bitte setzen Sie sich umgehend mit Herrn Raymond David in Verbindung, um die Auszahlung Ihrer Spendensumme zu veranlassen; er ist der für diese Spende zuständige Buchhalter. Sie erreichen ihn unter folgender E-Mail-Adresse:<br>
       E-Mail: raymonddavid148@gmail.com</p>
       <p>Es geht um Ihre Spende in Höhe von 2.500.000 Euro (Referenznummer: WBF002114).</p>
@@ -296,3 +296,46 @@ Hugo möchte die internationale Finanzwelt nicht unnötig aufhalten und entschei
 > Vorstand, Dackel-Club Wanne-Eickel
 
 Damit liegt ein einfacher Gegenvorschlag auf dem Tisch: Die angebliche Bank kann ihre 950 Euro aus dem angeblichen Guthaben erhalten, ohne dass Hugo echtes Geld überweisen muss. Eine seriöse Antwort müsste zudem die Bank eindeutig identifizieren und ihre Zulassung überprüfbar machen. Wir erwarten allerdings eher eine kreative Erklärung, warum ausgerechnet die kleine Gebühr unbedingt vor den großen Millionen bezahlt werden müsse.
+
+## Aus 950 Euro werden plötzlich 550 Euro
+
+Raymond David hat eine Lösung für Hugos Geldnot gefunden: Die angeblich festen Kosten der Kontoeröffnung schrumpfen kurzerhand von **950 Euro auf eine erste Rate von 550 Euro**. Den Rest dürfe Hugo begleichen, nachdem er seine Spendengelder erhalten habe. Eine Erklärung, weshalb dann nicht auch die erste Rate aus den angeblichen 2,5 Millionen Euro bezahlt werden kann, liefert er weiterhin nicht.
+
+<details class="scam-accordion">
+  <summary>📄 Die vollständige Antwort von Raymond David</summary>
+  <div class="accordion-content">
+    <blockquote>
+      <p>Sehr geehrter Hugo,</p>
+      <p>ich habe Ihre E-Mail erhalten und gut verstanden. Leider muss ich Ihnen jedoch mitteilen, dass die Kosten für die Kontoeröffnung nicht von Ihrem Spendenguthaben abgezogen werden können, da sich dieses auf einem Treuhandkonto befindet und dort keine Abbuchungen möglich sind.</p>
+      <p>Es scheint, als hätten Sie Bedenken oder Angst davor, den gesamten Betrag auf einmal zu zahlen. Da Sie sich die volle Summe auf einmal nicht leisten können, rate ich Ihnen, zunächst nur eine erste Rate in Höhe von 550 Euro zu zahlen; wir schlagen dies vor, um Vertrauen aufzubauen und unser Engagement Ihnen gegenüber zu zeigen. Bitte befolgen Sie diese Anweisungen, denn wir tun alles, um Ihnen den Erhalt Ihrer Spendengelder so einfach wie möglich zu machen, ohne Sie finanziell zu überlasten.</p>
+      <p>Hinweis: Sobald die Zahlung von 550 Euro eingegangen ist, wird die Bankleitung umgehend mit der Kontoeröffnung beginnen. Sie erhalten dann alle erforderlichen Informationen zur Turkcity Bank, einschließlich der Allgemeinen Geschäftsbedingungen sowie Ihrer Zugangsdaten für das neue Konto. Damit können Sie sich in Ihr Online-Konto einloggen und problemlos Überweisungen auf ein beliebiges Bankkonto Ihrer Wahl tätigen.</p>
+      <p>Ich empfehle Ihnen daher dringend, die erste Rate von 550 Euro zu zahlen; den Restbetrag begleichen Sie erst, nachdem Sie Ihre Spendengelder erhalten haben. Wenden Sie sich am besten an den „Wanne-Eickel Dachshund Club“, um die 550 Euro für die erste Rate aufzubringen; so kann die Turkcity Bank Inc. die Kontoeröffnung direkt nach Zahlungseingang und ohne Komplikationen in die Wege leiten.</p>
+      <p>Bitte beachten Sie, dass wir ohne diese Einzahlung die Kontoeröffnung nicht vornehmen können. Zudem wird der Betrag für die Versandkosten (DHL) benötigt, damit wir Ihnen die Mastercard problemlos an Ihre bevorzugte Rechnungsadresse schicken können. Seien Sie versichert, dass die gesamte Abwicklung Ihrer Spendengelder seriös und garantiert ist. Ich freue mich auf Ihre baldige Rückmeldung.</p>
+      <p>Vielen Dank für Ihr Verständnis und Ihre Mitarbeit. Ich wünsche Ihnen einen schönen Tag.</p>
+    </blockquote>
+  </div>
+</details>
+
+Der Rabatt ist kein Entgegenkommen, sondern ein weiterer Versuch, doch noch eine erste Zahlung zu erhalten. Besonders aufschlussreich ist die Behauptung, Hugo bekäme die Geschäftsbedingungen und alle Informationen zur Turkcity Bank **erst nach Zahlungseingang**. Er soll also Geld für ein Konto überweisen, bevor er überhaupt erfährt, bei welcher rechtlich identifizierbaren Bank dieses Konto eröffnet werden soll und welche Bedingungen dafür gelten.
+
+Auch die Begründung wechselt nach Bedarf. Zunächst sollten 950 Euro die Kontoeröffnung und Zustellung der Karte kosten. Nun seien 550 Euro zugleich eine erste Rate und für DHL-Versandkosten erforderlich. Raymond versucht außerdem, Hugos Vorsicht als „Bedenken oder Angst“ umzudeuten und schlägt sogar vor, den Dackel-Club um das Geld zu bitten. Das soll sozialen Druck erzeugen und weitere Personen in die Finanzierung der erfundenen Gebühr hineinziehen.
+
+## Hugo bekommt die erste Rate zusammen
+
+Nach eingehender Beratung kann der Dackel-Club die 550 Euro angeblich aufbringen. Bevor der Kassenwart eine Überweisung vorbereitet, fehlen allerdings noch ein paar eher grundlegende Angaben: Empfänger, IBAN, BIC und der Name der Empfängerbank. Genau danach fragt Hugo nun:
+
+> **Betreff:** Referenznummer WBF002114 – erste Rate von 550 Euro
+>
+> Sehr geehrter Herr David,
+>
+> vielen Dank für Ihre Nachricht und Ihr Entgegenkommen. Nach eingehender Beratung mit dem Vorstand des Dackel-Clubs Wanne-Eickel können wir die erste Rate in Höhe von 550 Euro nun überweisen.
+>
+> Bitte senden Sie mir dafür die vollständige Bankverbindung mit dem Namen des Kontoinhabers, der IBAN, der BIC beziehungsweise SWIFT-Kennung, dem Namen der Empfängerbank und dem Land der Bank. Teilen Sie mir bitte auch mit, welchen Verwendungszweck ich bei der Überweisung angeben soll.
+>
+> Sobald mir diese Angaben vorliegen, kann ich sie unserem Kassenwart zur Vorbereitung der Überweisung geben.
+>
+> Mit freundlichen Grüßen<br>
+> Hugo<br>
+> Vorstand, Dackel-Club Wanne-Eickel
+
+Vielleicht erfahren wir damit endlich, wohin das Geld tatsächlich fließen soll. **Überwiesen wird selbstverständlich nichts.** Eine genannte Bankverbindung kann aber dabei helfen, den beteiligten Zahlungsdienstleister zu informieren und das Empfängerkonto wegen Betrugsverdachts zu melden.

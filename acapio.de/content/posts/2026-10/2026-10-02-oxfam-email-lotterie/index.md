@@ -313,3 +313,9 @@ Die Namen und Beträge wechseln, der Ablauf bleibt erstaunlich stabil: große Su
 Wer eine vergleichbare Nachricht erhält, sollte nicht antworten, keine persönlichen Daten oder Ausweiskopien verschicken und auf keinen Fall Gebühren bezahlen. Links zu angeblichen Banken oder Formularen sollten ebenfalls geschlossen bleiben. Die Nachricht kann beim Mailanbieter als Spam beziehungsweise Phishing gemeldet und anschließend gelöscht werden.
 
 Wer bereits Daten übermittelt hat, muss mit weiteren Kontaktversuchen rechnen. Dann gilt: Telefonnummern und Absender blockieren, Folgeforderungen ignorieren und besonders misstrauisch bei Nachrichten sein, die bereits bekannte persönliche Angaben enthalten. Wurde Geld überwiesen, sollten umgehend die eigene Bank und die Polizei kontaktiert werden.
+
+## Fazit
+
+Nach Hugos Vogelausweis und der Bitte um eine digital unterschreibbare Anspruchsbescheinigung kam keine weitere Antwort. Warum die Absender die Unterhaltung beendet haben, lässt sich nicht belegen. Ein Ausweisdokument, das ausdrücklich als „nicht amtlich“ gekennzeichnet ist, dürfte der angeblichen Kanzlei aber kaum den erhofften Nutzen gebracht haben. 🐦
+
+Damit endet der Fall vor der erwartbaren Gebührenforderung, doch die Masche ist trotzdem eindeutig: Ein Gewinn ohne Teilnahme lockt das Opfer an, bekannte Namen sollen Vertrauen schaffen und wechselnde Ansprechpartner sammeln immer sensiblere Daten. Wer eine solche Nachricht erhält, sollte weder antworten noch Ausweise, Bankdaten oder Geld verschicken. **Ein Millionengewinn aus dem Spam-Ordner bleibt auch mit Anwalt, Siegel und Offshore-Konto erfunden.**

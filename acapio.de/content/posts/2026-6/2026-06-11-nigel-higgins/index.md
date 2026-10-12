@@ -500,7 +500,7 @@ Kaum fallen die Begriffe **Vorschussbetrug** und **Geldwäsche**, beginnt Nigel 
 
 ![Nigel streitet den Betrug ab, bevor Hugo das Scambaiting auflöst](/posts/2026-06-11-nigel-higgins/abschluss.webp)
 
-Mit dem letzten Bild ist das Spiel beendet: **„You have been Scholzed“** ist unser Zeichen an die Scammer, dass ihre Masche aufgeflogen ist und sie die ganze Zeit hingehalten wurden. Kein Geld, keine echten persönlichen Daten – dafür jede Menge Arbeit für Nigel und seine angeblichen Partner.
+Mit dem letzten Bild ist das Spiel beendet: Das Abschlussmotiv zeigt den Scammern, dass ihre Masche aufgeflogen ist und sie die ganze Zeit hingehalten wurden. Kein Geld, keine echten persönlichen Daten – dafür jede Menge Arbeit für Nigel und seine angeblichen Partner.
 
 ---
 
@@ -520,4 +520,4 @@ Der Name des Kontoinhabers und die Bankverbindung sind wichtige Spuren, beweisen
 
 Nigels Verhalten folgte dem klassischen Drehbuch: erst Vertrauen aufbauen, dann persönliche Daten verlangen, anschließend Gebühren erfinden, Zeitdruck erzeugen und schließlich jede Verantwortung abstreiten. Die wichtigste Regel bleibt deshalb einfach: **Keine Ausweiskopien verschicken, keine Gebühren bezahlen und angebliche Gewinne oder Erbschaften immer über unabhängige, offizielle Wege prüfen.**
 
-Hugo bleibt zwar ohne Millionenerbe, aber auch ohne finanziellen Schaden. Nigel dagegen hat Zeit, Dokumente, Kontaktdaten und ein Empfängerkonto preisgegeben – und wurde am Ende offiziell **gescholzt**. 🦡
+Hugo bleibt zwar ohne Millionenerbe, aber auch ohne finanziellen Schaden. Nigel dagegen hat Zeit, Dokumente, Kontaktdaten und ein Empfängerkonto preisgegeben – und wurde am Ende ordentlich an der Nase herumgeführt. 🦡

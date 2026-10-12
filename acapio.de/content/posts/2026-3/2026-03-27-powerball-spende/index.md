@@ -25,7 +25,7 @@ Die Mail ist komplett unpersönlich, die Story klingt wie aus dem Scam-Baukasten
 
 > Hallo,  
 >   
-> ist diese E-Mail-Adresse (scholz....) noch gültig? Sie wurden ausgewählt, um im Rahmen meiner philanthropischen Initiative, die ich nach meinem 1,3-Milliarden-Dollar-Gewinn bei Powerball im letzten Jahr ins Leben gerufen habe, eine Spende in Höhe von 5 Millionen Euro zu erhalten.  
+> ist diese E-Mail-Adresse ([Hugos E-Mail-Adresse entfernt]) noch gültig? Sie wurden ausgewählt, um im Rahmen meiner philanthropischen Initiative, die ich nach meinem 1,3-Milliarden-Dollar-Gewinn bei Powerball im letzten Jahr ins Leben gerufen habe, eine Spende in Höhe von 5 Millionen Euro zu erhalten.  
 >   
 > Wir haben Ihnen bereits ein Schreiben geschickt, jedoch noch keine Antwort erhalten. Bitte bestätigen Sie den Erhalt dieser E-Mail so bald wie möglich, damit wir die erforderlichen Unterlagen vorbereiten und die Auszahlung veranlassen können.  
 >   

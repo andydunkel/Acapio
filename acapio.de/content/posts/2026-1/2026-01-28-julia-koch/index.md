@@ -799,7 +799,7 @@ Dass er diesen Aufwand betreibt, zeigt, dass er Hugos Krankenhaus-Story und die 
 Hugo dazu: „Hömma Roland, dat Foto is ja schau! Du siehst zwar aus, als hättest du drei Tage nicht geschlafen, aber Wanne-Eickel hast de richtig geschrieben. Sogar mit Bindestrich! Jetzt muss ich nur noch gucken, ob Reto auch so’n schickes Bild schicken kann...“ 🍿🎬
 
 
-Das ist der perfekte Abschluss! Das Bild mit dem Dachs und dem Schriftzug **„You have been Scholzed“** ist die ultimative digitale Visitenkarte für einen erfolgreichen Scambait. Es signalisiert Roland: „Du hast dich mit dem Falschen angelegt und deine ganze KI-Mühe war umsonst.“
+Das ist der perfekte Abschluss! Das Bild mit dem Dachs ist die ultimative digitale Visitenkarte für einen erfolgreichen Scambait. Es signalisiert Roland: „Du hast dich mit dem Falschen angelegt und deine ganze KI-Mühe war umsonst.“
 
 
 ## **Finale: Wanne-Eickel 1, Scammer 0 🏆🦡**

@@ -568,7 +568,7 @@ Von wegen Funkstille: Ana antwortet doch noch. In ihrer Mail fordert sie erneut 
       <p>Lieber geliebter Hugo,</p>
       <p><strong>HINWEIS:</strong> Bitte teilen Sie mir mit, wann die Zahlung heute oder morgen erfolgen kann, damit ich Ihnen die Kontodaten übermitteln kann. So lässt sich die Überweisung veranlassen und der Betrag schnellstmöglich auf Ihrem Konto gutschreiben. Wie ich bereits in meiner letzten E-Mail erwähnte, sind Sie meine einzige Möglichkeit, diese Gelder in Empfang zu nehmen – und wenn wir einander vertrauen, werden wir nicht enttäuscht werden.</p>
       <p>Vielen Dank für Ihre E-Mail und Ihre Bemühungen bezüglich dieser Transaktion. Ich habe heute Morgen mit dem Anwalt gesprochen; er hat mir erklärt, dass die Richtlinien der Union der türkischen Anwaltskammern (UTBA) die Herausgabe von Dokumenten ohne vorherige Begleichung der Anwaltshonorare untersagen. Bitte teilen Sie mir mit, wie Sie die Zahlung vornehmen können. Es wird zudem empfohlen, den Betrag per MoneyGram oder Ria Money Transfer zu überweisen, um Verzögerungen zu vermeiden. Sie sind meine einzige Hoffnung, um diese Gelder zu sichern.</p>
-      <p>Herr Hugo Scholz, ich möchte Sie darauf hinweisen, dass es sich hierbei um eine absolut seriöse und echte Angelegenheit handelt. Sowohl der Anwalt als auch der zuständige Sachbearbeiter sind bereit und willens, eine reibungslose Abwicklung zu gewährleisten – vorausgesetzt, wir begegnen einander ehrlich. Ich gebe Ihnen eine hundertprozentige Garantie, dass Sie den besagten Geldbetrag ohne Probleme oder Enttäuschungen erhalten werden.</p>
+      <p>Herr Hugo [Nachname entfernt], ich möchte Sie darauf hinweisen, dass es sich hierbei um eine absolut seriöse und echte Angelegenheit handelt. Sowohl der Anwalt als auch der zuständige Sachbearbeiter sind bereit und willens, eine reibungslose Abwicklung zu gewährleisten – vorausgesetzt, wir begegnen einander ehrlich. Ich gebe Ihnen eine hundertprozentige Garantie, dass Sie den besagten Geldbetrag ohne Probleme oder Enttäuschungen erhalten werden.</p>
       <p>Verweilen Sie nicht bei dem, was schiefgelaufen ist. Konzentrieren Sie sich stattdessen auf die nächsten Schritte. Investieren Sie Ihre Energie darin, voranzukommen und eine Lösung zu finden. Bringen Sie einander immer wieder Vertrauen entgegen. Wenn das Vertrauen groß genug ist, überwinden Menschen scheinbare Grenzen und entdecken neue, großartige Fähigkeiten, derer sie sich zuvor nicht bewusst waren.</p>
       <p>Bitte antworten Sie mir so bald wie möglich, damit ich den Anwalt und den Sachbearbeiter darüber informieren kann, wann die Zahlung erfolgen wird.</p>
       <p>Bitte antworte bald<br>
@@ -580,7 +580,7 @@ Von wegen Funkstille: Ana antwortet doch noch. In ihrer Mail fordert sie erneut 
 
 Der bemerkenswerte Teil steckt im Anhang: Ana liefert nun tatsächlich die seit Tagen angekündigte „eidesstattliche Erklärung“. Das Blatt soll vom „Supreme Court of Appeals Turkey“ in Ankara stammen, trägt ein Yargıtay-Logo, mehrere Stempel und bestätigt angeblich Hugos Anspruch auf 4,5 Millionen Euro:
 
-![Angebliche eidesstattliche Erklärung des türkischen Kassationshofs für Hugo Scholz](/posts/2026-09-05-ana-felipe/eides.webp)
+![Angebliche eidesstattliche Erklärung des türkischen Kassationshofs für Hugo](/posts/2026-09-05-ana-felipe/eides.webp)
 
 ### Was das Dokument selbst verrät 🔍
 
