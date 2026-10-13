@@ -339,3 +339,45 @@ Nach eingehender Beratung kann der Dackel-Club die 550 Euro angeblich aufbringen
 > Vorstand, Dackel-Club Wanne-Eickel
 
 Vielleicht erfahren wir damit endlich, wohin das Geld tatsächlich fließen soll. **Überwiesen wird selbstverständlich nichts.** Eine genannte Bankverbindung kann aber dabei helfen, den beteiligten Zahlungsdienstleister zu informieren und das Empfängerkonto wegen Betrugsverdachts zu melden.
+
+## Ein Privatkonto für die Buffett-Millionen
+
+Raymond hat geliefert. Die 550 Euro sollen auf ein französisches Konto bei Deblock gehen. Als Kontoinhaber nennt er keine Stiftung, keine Bank und auch keinen Dackel-Vermögensverwalter, sondern eine Privatperson. Den Namen und die IBAN geben wir hier nur gekürzt wieder:
+
+> Als wir Ihre E-Mail erhielten, hieß es deutlich: Nachfolgend finden Sie die repräsentativen Kontodaten für die Einzahlung bei Ihrer Kontoeröffnung!
+>
+> Namensnamen: Giuseppe F.<br>
+> IBAN: FR76 … 3814<br>
+> BIC/SWIFT-Code: DBLKFR22XXX<br>
+> Bankname: Deblock<br>
+> Land: Frankreich
+>
+> Gesendeter Betrag: nur 550 Euro.
+>
+> Zahlungszwecke: Freunde und Familie
+>
+> Bitte zögern Sie nicht, den Zahlungsbeleg/die Quittung zur Bestätigung einzusenden.<br>
+> Nochmals vielen Dank für Ihr Verständnis und Ihre Kooperation, wir freuen uns auf Ihr Feedback.
+
+„Freunde und Familie“ ist ein bemerkenswerter Verwendungszweck für die angebliche Eröffnung eines Bankkontos. Hugo kennt den Empfänger nicht, und eine private Zahlung passt auch nicht zu den zuvor behaupteten Kontoeröffnungs- und Versandkosten. Der gewünschte Beleg soll Raymond offenbar möglichst schnell bestätigen, dass echtes Geld unterwegs ist.
+
+Das Privatkonto könnte als Durchlaufkonto beziehungsweise **Money-Mule-Konto** dienen. Dabei werden Zahlungen von Betrugsopfern über Konten Dritter weitergeleitet. Belegt ist das hier jedoch nicht: Der genannte Kontoinhaber könnte beteiligt sein, selbst getäuscht worden sein oder sein Name könnte missbraucht werden. Wir bezeichnen ihn deshalb ausdrücklich nicht als Täter. Die [Polizeiliche Kriminalprävention erklärt die Rolle solcher Finanzagenten](https://www.polizei-beratung.de/themen-und-tipps/betrug/finanzagenten/) und warnt davor, dass auch angeworbene Kontoinhaber für Geldwäsche missbraucht werden können.
+
+## Hugo hat überwiesen – also beinahe
+
+Wir haben Raymond anschließend mitgeteilt, die Zahlung sei erledigt:
+
+> Hallo Herr Raymond,
+>
+> wir haben das Geld soeben überwiesen. Wir waren etwas nervös, da wir sowas noch nicht gemacht haben.
+>
+> Gruß<br>
+> Hugo
+
+Als vermeintlichen Nachweis bekam er diesen Screenshot:
+
+![Vermeintlicher Überweisungsbeleg über 550 Euro mit dem Verwendungszweck Freunde und Familie; Empfänger- und Kontodaten sind teilweise geschwärzt](/posts/2026-10-04-warren-buffett/trans.webp)
+
+Leider ist Hugo bei seiner ersten internationalen Millionenüberweisung ein winziger Fehler unterlaufen: Statt des französischen Ländercodes `FR` steht im Beleg `FT`. Damit stimmt die Empfängerkennung nicht mit der geforderten IBAN überein. Wie ärgerlich. 😇
+
+Die 550 Euro wurden selbstverständlich **nicht wirklich überwiesen**. Der Screenshot dokumentiert nur die vermeintliche Zahlung; durch den absichtlichen Buchstabendreher kann daraus keine gültige Überweisung an das genannte Konto werden. Nun darf Raymond erklären, warum die große Buffett-Finanzabteilung beim Geldeingang trotz Beleg plötzlich nichts finden kann.
