@@ -101,4 +101,8 @@ Hugo hingegen ist selbstverständlich beeindruckt. 195 Millionen Dollar sind sch
 > Best greetings  
 > Hugo
 
-Damit liegt der Ball wieder bei „Ahmad“. Nun darf der angebliche Assistent erklären, weshalb eine unbekannte chinesische Bank 650 Millionen Dollar an Hugo auszahlen soll – und welche wundersame Gebühr den Geldregen vorher vermutlich noch aufhält. Wir lassen den Fall offen und warten auf die nächste Folge aus der diplomatischen Millionenabteilung. 🐫
+## Fazit
+
+Auf Hugos Rückfrage kam keine weitere Antwort. Warum der angebliche Assistent die Unterhaltung beendet hat, lässt sich nicht belegen. Vielleicht war die Frage nach möglichen Kosten schon zu direkt – oder die diplomatische Millionenabteilung hatte gerade Betriebsausflug. 🐫
+
+Auch ohne die erwartbare Gebührenforderung ist die Masche eindeutig: Eine erfundene Geldtransaktion, ein prominenter Name und 195 Millionen Dollar Belohnung sollen Vertrauen und Gier wecken. Wer eine solche Nachricht erhält, sollte nicht antworten und weder persönliche Daten noch Geld übermitteln. **Reale Schlagzeilen machen aus einer absurden Millionengeschichte noch kein echtes Angebot.**

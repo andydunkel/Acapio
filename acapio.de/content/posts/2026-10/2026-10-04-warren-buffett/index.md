@@ -14,7 +14,7 @@ categories:
   - "Scam"
 thumbnail: "gold.webp"
 url: "posts/2026-10-04-warren-buffett"
-summary: "Der angebliche Warren Buffett möchte uns 2,5 Millionen Dollar schenken. Die zufällige Auswahl lief per Internetrecherche, die Abwicklung natürlich über zwei Gmail-Adressen."
+summary: "Der angebliche Warren Buffett möchte uns 2,5 Millionen Dollar schenken. Nach einer fingierten Überweisung über 550 Euro folgen E-Mails, WhatsApp-Nachrichten und Anrufe."
 ---
 
 Warren Buffett möchte uns **2.500.000 US-Dollar schenken**. Nicht wegen einer besonderen Leistung, einer langjährigen Freundschaft oder wenigstens eines überzeugenden Lottoscheins. Unsere E-Mail-Adresse wurde einfach bei einer „Internetrecherche“ ausgewählt. So unkompliziert kann Vermögensaufbau sein. 💰
@@ -381,3 +381,28 @@ Als vermeintlichen Nachweis bekam er diesen Screenshot:
 Leider ist Hugo bei seiner ersten internationalen Millionenüberweisung ein winziger Fehler unterlaufen: Statt des französischen Ländercodes `FR` steht im Beleg `FT`. Damit stimmt die Empfängerkennung nicht mit der geforderten IBAN überein. Wie ärgerlich. 😇
 
 Die 550 Euro wurden selbstverständlich **nicht wirklich überwiesen**. Der Screenshot dokumentiert nur die vermeintliche Zahlung; durch den absichtlichen Buchstabendreher kann daraus keine gültige Überweisung an das genannte Konto werden. Nun darf Raymond erklären, warum die große Buffett-Finanzabteilung beim Geldeingang trotz Beleg plötzlich nichts finden kann.
+
+## Jetzt soll die IBAN schuld sein
+
+Die erwartete Rückmeldung ließ nicht lange auf sich warten. Angeblich seien die 550 Euro nicht eingegangen – und der Fehler müsse natürlich bei Hugo liegen:
+
+> Sehr geehrter Hugo,
+>
+> ich hoffe, es geht Ihnen gut. Ich möchte Sie darüber informieren, dass die Zahlung in Höhe von 550 Euro für die Kontoeröffnung noch nicht bei uns eingegangen ist. Vermutlich ist Ihnen bei der Überweisung ein Fehler bei der IBAN unterlaufen. Bitte überprüfen Sie die Angaben sorgfältig und korrigieren Sie diese, damit die Überweisung erfolgreich durchgeführt werden kann und wir die Kontoeröffnung unmittelbar nach Zahlungseingang fortsetzen können.
+>
+> Bitte geben Sie uns dazu schnellstmöglich eine Rückmeldung.
+
+Damit hat die angebliche Buffett-Finanzabteilung den Fehler im Beleg entdeckt. Bemerkenswert ist weniger diese Erkenntnis als das Ziel der Nachricht: Hugo soll die Kontodaten korrigieren und die Zahlung erneut anstoßen. Aus dem großzügigen Millionengeschenk bleibt damit vorerst nur eine sehr hartnäckige Forderung nach 550 Euro übrig.
+
+Parallel gingen bei uns auch Nachrichten über WhatsApp und sogar Anrufe ein. Wir haben darauf nicht reagiert. Der Wechsel vom E-Mail-Verkehr zu direkten Nachrichten und Telefonanrufen erhöht den Druck und verkürzt die Zeit zum Nachdenken – ein weiteres deutliches Warnzeichen. Eine unbekannte Person, die wegen einer angeblich fehlgeschlagenen Zahlung auf mehreren Kanälen drängelt, wird dadurch nicht seriöser. 📞🚩
+
+Hugo antwortet knapp und kündigt an, die Sache am nächsten Tag bei seiner Bank prüfen zu lassen:
+
+> Sehr geehrter Herr David,
+>
+> vielen Dank für Ihre Nachricht. Ich werde morgen bei meiner Bank überprüfen lassen, weshalb die Zahlung nicht eingegangen ist, und mich anschließend wieder bei Ihnen melden.
+>
+> Mit freundlichen Grüßen<br>
+> Hugo
+
+Eine weitere Zahlung wird selbstverständlich nicht veranlasst. Auch auf die WhatsApp-Nachrichten und Anrufe reagieren wir nicht.
