@@ -406,3 +406,20 @@ Hugo antwortet knapp und kündigt an, die Sache am nächsten Tag bei seiner Bank
 > Hugo
 
 Eine weitere Zahlung wird selbstverständlich nicht veranlasst. Auch auf die WhatsApp-Nachrichten und Anrufe reagieren wir nicht.
+
+## Die Bank soll die IBAN reparieren
+
+Raymond begrüßt den angekündigten Bankbesuch. Das Problem liege weiterhin bei Hugo und müsse nur noch gemeinsam mit dessen Bank behoben werden:
+
+> Hallo Hugo,
+>
+> ich habe Ihre E-Mail erhalten; der Inhalt ist klar und verständlich. Bitte wenden Sie sich an Ihre Bank, um das Problem zu beheben und die IBAN zu korrigieren. Dies ermöglicht eine erfolgreiche Überweisung, woraufhin unsere Bank die Eröffnung Ihres Kontos ohne weitere Beanstandungen vornehmen kann.
+>
+> Vielen Dank für Ihr Verständnis und Ihre Mitwirkung. Wir freuen uns auf Ihre positive Rückmeldung.
+>
+> Mit freundlichen Grüßen,<br>
+> Raymond David.
+
+Die angebliche Buffett-Finanzabteilung bleibt damit bei ihrem bemerkenswert übersichtlichen Geschäftsmodell: Hugo soll die fehlerhafte IBAN korrigieren und die 550 Euro noch einmal losschicken. Dass eine vermeintliche Bank für eine Kontoeröffnung Geld auf ein französisches Privatkonto mit dem Verwendungszweck „Freunde und Familie“ verlangt, scheint Raymond dagegen weiterhin nicht erklärungsbedürftig zu finden.
+
+Hugo war inzwischen bei seiner Bank. Dort stellte sich heraus, dass er offenbar gar keine Auslandsüberweisungen veranlassen kann. Für die große internationale Millionenabwicklung ist das natürlich ein kleiner organisatorischer Rückschlag. 🙂 Eine korrigierte Überweisung gibt es deshalb weiterhin nicht.
