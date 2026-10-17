@@ -14,7 +14,7 @@ categories:
   - "Scam"
 thumbnail: "gold.webp"
 url: "posts/2026-10-04-warren-buffett"
-summary: "Der angebliche Warren Buffett möchte uns 2,5 Millionen Dollar schenken. Nach einer fingierten Überweisung über 550 Euro folgen E-Mails, WhatsApp-Nachrichten und Anrufe."
+summary: "Der angebliche Warren Buffett möchte uns 2,5 Millionen Dollar schenken. Für die geforderte Gebühr von 550 Euro werden erst ein französisches Privatkonto und dann ein deutsches Vertreterkonto angeboten."
 ---
 
 Warren Buffett möchte uns **2.500.000 US-Dollar schenken**. Nicht wegen einer besonderen Leistung, einer langjährigen Freundschaft oder wenigstens eines überzeugenden Lottoscheins. Unsere E-Mail-Adresse wurde einfach bei einer „Internetrecherche“ ausgewählt. So unkompliziert kann Vermögensaufbau sein. 💰
@@ -423,3 +423,28 @@ Raymond begrüßt den angekündigten Bankbesuch. Das Problem liege weiterhin bei
 Die angebliche Buffett-Finanzabteilung bleibt damit bei ihrem bemerkenswert übersichtlichen Geschäftsmodell: Hugo soll die fehlerhafte IBAN korrigieren und die 550 Euro noch einmal losschicken. Dass eine vermeintliche Bank für eine Kontoeröffnung Geld auf ein französisches Privatkonto mit dem Verwendungszweck „Freunde und Familie“ verlangt, scheint Raymond dagegen weiterhin nicht erklärungsbedürftig zu finden.
 
 Hugo war inzwischen bei seiner Bank. Dort stellte sich heraus, dass er offenbar gar keine Auslandsüberweisungen veranlassen kann. Für die große internationale Millionenabwicklung ist das natürlich ein kleiner organisatorischer Rückschlag. 🙂 Eine korrigierte Überweisung gibt es deshalb weiterhin nicht.
+
+## Plötzlich geht es auch mit einem deutschen Konto
+
+Für Raymond ist Hugos angeblich fehlende Möglichkeit zur Auslandsüberweisung erstaunlicherweise kein Hindernis. Stattdessen kündigt er nun die Bankverbindung eines nicht näher bezeichneten „Vertreters in Deutschland“ an:
+
+> Sehr geehrter Hugo,
+>
+> ich habe Ihre Nachricht erhalten und gut verstanden. Sollte es Ihnen nicht möglich sein, eine internationale Überweisung von Ihrem Konto aus zu tätigen, stellt dies kein Problem dar: Wir können Ihnen die Bankverbindung eines Vertreters in Deutschland zur Verfügung stellen, über die Sie die Überweisung abwickeln können.
+>
+> Wir setzen alles daran, dies zu ermöglichen und sicherzustellen, dass Sie Ihre Spendengelder ohne Stress oder Verzögerung erhalten. Bitte lassen Sie mich wissen, wann Sie die ausstehende Überweisung in Höhe von 550 Euro vornehmen möchten; wir senden Ihnen dann umgehend die erforderlichen deutschen Kontodaten für die Einzahlung zu.
+>
+> Wir haben unsererseits alles in die Wege geleitet, damit Sie Ihre Spendengelder erhalten. Wir danken Ihnen für Ihr Vertrauen und Ihre Mitwirkung bei den notwendigen Schritten – Sie werden diesen Prozess ganz sicher nicht bereuen.
+>
+> Bitte antworten Sie zeitnah auf meine Nachricht, damit eine schnelle und reibungslose Abwicklung gewährleistet werden kann.
+
+Aus dem französischen Privatkonto wird auf Zuruf also ein deutsches Vertreterkonto. Wer dieser Vertreter ist, welche Verbindung er zur angeblichen Stiftung hat und warum eine internationale Spendenorganisation Gebühren über wechselnde Privatkonten einsammeln möchte, erklärt Raymond nicht. Dafür drängt er erneut auf eine zeitnahe Antwort und verspricht, Hugo werde den Vorgang „ganz sicher nicht bereuen“ – belastbare Finanzabwicklung sieht anders aus.
+
+Ein solches deutsches Konto kann die Hemmschwelle senken, weil die Überweisung vertrauter wirkt. Zugleich besteht erneut das Risiko, dass ein Konto als Durchlaufstation für fremdes Geld verwendet wird. Ohne die Kontodaten und weitere Belege ist allerdings offen, wem das angekündigte Konto gehört und ob dessen Inhaber wissentlich beteiligt wäre.
+
+Hugo zeigt sich deshalb bereit für den nächsten Akt der internationalen Buffett-Buchhaltung:
+
+> Hallo Herr David, ja das wäre gut, ich kann nur in Deutschland überweisen.<br>
+> Gruß Hugo
+
+Echtes Geld wird auch auf dieses Konto selbstverständlich nicht überwiesen. Falls Raymond die angekündigten deutschen Kontodaten schickt, können sie stattdessen wegen des Betrugsverdachts an den beteiligten Zahlungsdienstleister gemeldet werden.
