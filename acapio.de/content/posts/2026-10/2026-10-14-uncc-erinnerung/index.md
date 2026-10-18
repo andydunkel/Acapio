@@ -12,7 +12,7 @@ tags:
   - "Scam"
 categories:
   - "Scam"
-thumbnail: "moneyfox.webp"
+thumbnail: "proll.webp"
 url: "posts/2026-10-14-uncc-erinnerung"
 summary: "Ein angeblicher UNCC-Direktor erinnert an eine frei erfundene Entschädigung über 10,5 Millionen Euro. Doch die echte UNCC ist längst geschlossen und zahlt keine Privatpersonen aus."
 ---

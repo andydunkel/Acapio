@@ -448,3 +448,42 @@ Hugo zeigt sich deshalb bereit für den nächsten Akt der internationalen Buffet
 > Gruß Hugo
 
 Echtes Geld wird auch auf dieses Konto selbstverständlich nicht überwiesen. Falls Raymond die angekündigten deutschen Kontodaten schickt, können sie stattdessen wegen des Betrugsverdachts an den beteiligten Zahlungsdienstleister gemeldet werden.
+
+## Das deutsche Vertreterkonto hat einen Namen
+
+Raymond schickt die angekündigte Bankverbindung. Wieder soll das Geld nicht an eine Stiftung oder Bank gehen, sondern an eine angebliche Privatperson. Den verwendeten Namen und die IBAN geben wir nur gekürzt wieder:
+
+> Sehr geehrter Hugo,
+>
+> vielen Dank für Ihre Nachricht. Bitte entnehmen Sie die Kontodaten unseres Vertreters in Deutschland der untenstehenden Aufstellung; diese können Sie für die Einzahlung im Rahmen Ihrer Kontoeröffnung verwenden.
+>
+> Kontoinhaber: PASCAL K.
+>
+> IBAN: DE39 5405 … 3145<br>
+> BIC: MALADE51ROK<br>
+> Bank: Sparkasse<br>
+> Bankadresse: Jakobstraße 15, 67722 Winnweiler<br>
+> Betrag: 550 Euro.
+>
+> Bitte lassen Sie uns einen Nachweis über die Zahlung zukommen, damit wir den Zahlungseingang umgehend bestätigen können. Sobald Ihre Zahlung bestätigt wurde, wird die Bankleitung die weiteren Schritte bezüglich Ihrer Spendengelder einleiten.
+>
+> Vielen Dank für Ihr Verständnis und Ihre Kooperation. Wir freuen uns auf Ihre Rückmeldung.
+>
+> Mit freundlichen Grüßen,<br>
+> Raymond David.
+
+Die Bankdaten sind zumindest geschickt gewählt: Die BIC gehört tatsächlich zur Sparkasse Donnersberg und die angegebene Anschrift ist deren [Niederlassung in Winnweiler](https://www.sparkasse-donnersberg.de/de/home/toolbar/filialen/sparkasse-donnersberg-niederlassung-winnweiler-112619.html). Auch die IBAN ist formal prüfzifferngültig. Das bestätigt aber nur, dass die Zahlen plausibel aufgebaut sind – nicht, dass der genannte Kontoinhaber ein Vertreter der angeblichen Stiftung ist oder überhaupt von dieser Geschichte weiß.
+
+Zu dem verwendeten Namen fanden wir keinen belastbaren öffentlichen Hinweis, der eine Verbindung zu diesem Betrugsversuch belegt. Es gibt gleichnamige Personen, doch daraus lässt sich nichts ableiten. Der Name könnte zu einem tatsächlich eröffneten Konto gehören, missbraucht worden sein oder frei erfunden sein. Deshalb bezeichnen wir den Genannten ausdrücklich nicht als Täter.
+
+## Hugo hat noch einmal „überwiesen“
+
+Damit die internationale Buffett-Buchhaltung nicht ins Stocken gerät, bekam Raymond erneut einen vermeintlichen Zahlungsnachweis:
+
+![Vermeintlicher Überweisungsbeleg über 550 Euro an das deutsche Vertreterkonto; Name und IBAN sind teilweise geschwärzt](/posts/2026-10-04-warren-buffett/trans1.webp)
+
+Dummerweise hat Hugo beim Verwendungszweck nicht an eine diskrete „Kontoeröffnungsgebühr“ gedacht, sondern **„Spende Warren Buffet Turkcity“** eingetragen. Das passt weder zum privaten Empfänger noch zu der behaupteten Kontoeröffnung. Wäre doch schade, wenn eine Bank bei dieser kleinen Zusammenfassung der Betrugsgeschichte stutzig würde und die Zahlung deshalb nicht wie erhofft durchwinkt. 😇
+
+Die 550 Euro wurden selbstverständlich auch diesmal **nicht wirklich überwiesen**. Der Screenshot ist lediglich der vorgetäuschte Zahlungsnachweis; Name und Kontodaten sind darin teilweise geschwärzt.
+
+Währenddessen bleibt es nicht bei E-Mails. Die Scammer suchen parallel über WhatsApp Kontakt, schicken Nachrichten und rufen an. Dieses Drängeln über mehrere Kanäle soll Druck erzeugen und Hugo zu einer schnellen Zahlung bewegen. Wer so kontaktiert wird, sollte nicht diskutieren oder zurückrufen, sondern den Kontakt blockieren, Belege sichern und die Bankverbindung wegen Betrugsverdachts an die betroffene Bank melden. 📞🚩
