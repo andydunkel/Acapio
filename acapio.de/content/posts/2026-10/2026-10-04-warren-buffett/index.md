@@ -487,3 +487,31 @@ Dummerweise hat Hugo beim Verwendungszweck nicht an eine diskrete „Kontoeröff
 Die 550 Euro wurden selbstverständlich auch diesmal **nicht wirklich überwiesen**. Der Screenshot ist lediglich der vorgetäuschte Zahlungsnachweis; Name und Kontodaten sind darin teilweise geschwärzt.
 
 Währenddessen bleibt es nicht bei E-Mails. Die Scammer suchen parallel über WhatsApp Kontakt, schicken Nachrichten und rufen an. Dieses Drängeln über mehrere Kanäle soll Druck erzeugen und Hugo zu einer schnellen Zahlung bewegen. Wer so kontaktiert wird, sollte nicht diskutieren oder zurückrufen, sondern den Kontakt blockieren, Belege sichern und die Bankverbindung wegen Betrugsverdachts an die betroffene Bank melden. 📞🚩
+
+## Raymond wartet auf die Zahlungsbestätigung
+
+Raymond hat den vermeintlichen Überweisungsbeleg offenbar akzeptiert. Jetzt fehlt ihm nur noch der tatsächliche Geldeingang:
+
+> Hallo Hugo,
+>
+> ich habe Ihre Nachricht erhalten; alles ist klar verständlich. Ich werde Sie informieren, sobald Ihre Zahlung bestätigt wurde.
+
+Mehr Prüfung scheint die angebliche Finanzabteilung nicht zu benötigen. Kein Vertrag, keine nachvollziehbare Rechnung und weiterhin kein Beleg dafür, dass Raymond überhaupt etwas mit Warren Buffett zu tun hat – aber ein Screenshot genügt offenbar, um auf 550 Euro zu hoffen.
+
+## Die Bank zieht die Notbremse
+
+Hugo wird nun bewusst deutlich. Seine Bank habe angerufen, die Überweisung wegen Betrugsverdachts gestoppt und die Geschichte als das eingeordnet, was sie nach allen vorliegenden Indizien ist: ein Vorschussbetrug. Unsere Antwort:
+
+> Hallo Herr David,
+>
+> meine Bank hat mich heute angerufen. Die Überweisung wurde gestoppt, weil die Bank von einem Betrugsversuch ausgeht.
+>
+> Man hat mir sehr deutlich erklärt, dass Warren Buffett nicht per Gmail Geld an zufällig ausgewählte fremde Personen verschenkt – und dafür ganz sicher keine 550 Euro auf ein privates Konto in Deutschland verlangt.
+>
+> Ganz ehrlich: Ich bin richtig sauer. Sie haben mir eine erfundene Spende versprochen, mich ständig unter Druck gesetzt und versucht, mich zu einer Zahlung an irgendeine Privatperson zu bringen. Hören Sie auf, mir weitere Märchen über Warren Buffett, eine angebliche Stiftung und diese erfundene Bank zu erzählen.
+>
+> Ich werde kein Geld überweisen.
+>
+> Hugo
+
+Damit ist der entscheidende Punkt ausgesprochen: **Warren Buffett verschenkt nicht auf diesem Weg Geld.** Wer erst Millionen verspricht und vor der Auszahlung eine Gebühr auf wechselnde Privatkonten verlangt, verteilt keine Spenden. Er versucht, echtes Geld mit einer erfundenen Belohnung herauszulocken. Genau so funktioniert Vorschussbetrug.
