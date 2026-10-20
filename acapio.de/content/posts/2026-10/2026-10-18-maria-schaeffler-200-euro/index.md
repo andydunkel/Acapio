@@ -103,9 +103,117 @@ Wir lassen die angebliche Spenderin noch ein wenig arbeiten. Hugo zeigt sich gru
 > Viele Grüße  
 > Hugo
 
-Damit liegen gleich mehrere Fragen auf dem Tisch. Gibt es eine „SFZ“ zum Anschauen? Wer soll das Geld bekommen? Und weshalb scheitert eine Auszahlung über 3,7 Millionen Euro ausgerechnet daran, dass 200 Euro nicht verrechnet werden können? Wir sind gespannt, welche Abteilung des internationalen Fantasie-Finanzwesens diesmal zuständig ist.
+Damit liegen gleich mehrere Fragen auf dem Tisch. Gibt es eine „SFZ“ zum Anschauen? Wer soll das Geld bekommen? Und weshalb scheitert eine Auszahlung über 3,7 Millionen Euro ausgerechnet daran, dass 200 Euro nicht verrechnet werden können? Die Antwort verrät zwar nichts davon, bietet dafür aber Motivationstraining aus dem internationalen Fantasie-Finanzwesen.
 
 **Hinweis:** Leserinnen und Leser sollten auf solche Nachrichten nicht antworten. Für das dokumentierte Scambaiting verwenden wir keine echten Bank-, Ausweis- oder sonstigen persönlichen Daten und überweisen selbstverständlich kein Geld.
+
+## 200 Euro – der Preis für lebenslange finanzielle Freiheit
+
+Die angebliche Maria-Elisabeth Schaeffler hat geantwortet. Ein Muster der „Spenden Freigabebescheinigung“, eine Rechnung oder auch nur der Name ihres Ausstellers ist weiterhin nicht dabei. Ebenso unbeantwortet bleibt die Frage, warum die 200 Euro nicht von den angeblichen 3,7 Millionen abgezogen werden können.
+
+Dafür gibt es nun etwas viel Wertvolleres: Motivationstraining aus der Vorschussabteilung. Hugo soll die Zahlung nicht als mögliche Gebühr an unbekannte Empfänger betrachten, sondern als „Investition“ in seine finanzielle Freiheit. Das ist praktisch – jedenfalls für diejenigen, die anschließend über seine 200 Euro verfügen.
+
+{{< accordion title="Vollständige neue Nachricht anzeigen" >}}
+> Ich habe Ihre E-Mail gelesen und festgestellt, dass Sie offenbar Opfer eines Betrugs geworden sind. Zunächst möchte ich Ihnen mein aufrichtiges Beileid aussprechen. Es ist bedauerlich, dass Sie nicht nur einmal, sondern gleich mehrmals Opfer eines solchen Betrugs geworden sind.
+>
+> Ich weiß, dass 200 € viel Geld für Sie sind, aber betrachten Sie es als den Preis für finanzielle Freiheit für den Rest Ihres Lebens.
+>
+> Wenn dieses Angebot nur dazu dienen würde, Bürger zu erpressen, würde ich mich an Wohlhabende wenden, die mehr zu bieten hätten. Sie brauchen sich keine Sorgen zu machen; dies geschieht aus reiner Nächstenliebe.
+>
+> Dies ist eine fantastische Gelegenheit, die Ihr Leben für immer verändern kann. Für nur 200 € können Sie sich Ihren eigenen Spendenbetrag sichern und sich so sofortige finanzielle Freiheit verschaffen.
+>
+> Ich verstehe, dass 200 € viel Geld erscheinen mögen, aber sehen Sie es als Investition in Ihre Zukunft. Stellen Sie sich den Komfort und die Sicherheit Ihres eigenen Spendenbetrags vor, den Sie jederzeit nutzen können. Dies ist Ihre Chance, Ihre Finanzen selbst in die Hand zu nehmen und jahrelang sorgenfrei zu leben. Unser Angebot ist nicht darauf ausgelegt, Ihnen Geld abzupressen. Es entspringt dem ehrlichen Wunsch, Menschen wie Ihnen zu mehr finanzieller Sicherheit und Unabhängigkeit zu verhelfen. Vertrauen Sie darauf, dass Ihr Wohlergehen für uns oberste Priorität hat.
+>
+> Sobald wir Ihre Einzahlung von 200,00 € erhalten haben, wird Ihre Spende umgehend bearbeitet und Ihrem Bankkonto gutgeschrieben. Keine Verzögerungen, keine Komplikationen – ein unkomplizierter Prozess, der Sie Ihren finanziellen Zielen näherbringt.
+>
+> Wenn Sie diese Gelegenheit nutzen möchten, kontaktieren Sie mich bitte. Ich helfe Ihnen gerne weiter und stelle Ihnen alle notwendigen Informationen zur Verfügung, damit Sie Ihre Spende so schnell wie möglich erhalten. Machen Sie noch heute den ersten Schritt in Richtung finanzielle Unabhängigkeit. Sichern Sie sich Ihre Spende und eröffnen Sie sich vielfältige Möglichkeiten. Ich freue mich darauf, von Ihnen zu hören.
+>
+> Mit freundlichen Grüßen …
+{{< /accordion >}}
+
+### Erst Beileid, dann dieselbe Forderung
+
+> Es ist bedauerlich, dass Sie nicht nur einmal, sondern gleich mehrmals Opfer eines solchen Betrugs geworden sind.
+
+Diese angebliche Erkenntnis wird weiterhin durch nichts belegt. Sie erfüllt aber einen praktischen Zweck: Die Absender stellen sich als mitfühlende Retter dar und grenzen sich von „anderen“ Betrügern ab – unmittelbar bevor sie selbst Geld verlangen.
+
+Das ist die bemerkenswerte Logik eines möglichen Recovery Scams: Wer bereits Geld verloren hat, soll besonders empfänglich für das Versprechen sein, nun endlich entschädigt zu werden. Und dafür noch einmal bezahlen.
+
+### Freiheit kostet exakt 200 Euro
+
+> Ich weiß, dass 200 € viel Geld für Sie sind, aber betrachten Sie es als den Preis für finanzielle Freiheit für den Rest Ihres Lebens.
+
+Die 200 Euro heißen plötzlich nicht mehr Gebühr, sondern „Preis für finanzielle Freiheit“. Das klingt erheblich freundlicher als „Überweisen Sie echtes Geld für eine unbelegte Fantasiebescheinigung“.
+
+Eine Erklärung, weshalb der Betrag im Voraus gezahlt werden muss, liefert die Nachricht weiterhin nicht. Auch Hugos Vorschlag, einfach 3.699.800 Euro auszuzahlen, bleibt unbeantwortet. Die angeblichen Millionen sind offenbar äußerst unflexibel – die echten 200 Euro dagegen dringend erwünscht. 💸
+
+### Nächstenliebe mit Zahlungsbedingung
+
+> Wenn dieses Angebot nur dazu dienen würde, Bürger zu erpressen, würde ich mich an Wohlhabende wenden, die mehr zu bieten hätten.
+
+Das ist kein Beleg für Seriosität, sondern eine besonders kuriose Schutzbehauptung. Vorschussbetrug funktioniert gerade deshalb mit vergleichsweise kleinen Forderungen, weil viele Menschen 200 Euro eher aufbringen können als mehrere Tausend.
+
+Außerdem spricht die Nachricht selbst von „erpressen“. Hugo hatte diesen Vorwurf gar nicht erhoben. Die angebliche Spenderin widerlegt hier also vorsorglich eine Anschuldigung, die niemand gemacht hat. Sehr beruhigend. Fast so beruhigend wie ein Verkäufer, der ungefragt erklärt, der Kofferraum seines Autos enthalte ganz bestimmt keine Leiche.
+
+> Sie brauchen sich keine Sorgen zu machen; dies geschieht aus reiner Nächstenliebe.
+
+Nächstenliebe ist bekanntlich am glaubwürdigsten, wenn sie erst nach bestätigtem Zahlungseingang wirksam wird.
+
+### Aus der Gebühr wird eine Investition
+
+> Ich verstehe, dass 200 € viel Geld erscheinen mögen, aber sehen Sie es als Investition in Ihre Zukunft.
+
+Hier wird die Zahlung sprachlich umetikettiert. Eine Investition hat normalerweise einen nachvollziehbaren Gegenwert, bekannte Vertragspartner und überprüfbare Bedingungen. Hier gibt es weiterhin weder Rechnung noch Aussteller der angeblichen Bescheinigung, weder Rechtsgrundlage noch Zahlungsdetails.
+
+Was sicher angeboten wird, ist nur die Überweisung von 200 Euro. Alles danach bleibt ein Versprechen.
+
+### Erst zahlen, Informationen später
+
+> Ich helfe Ihnen gerne weiter und stelle Ihnen alle notwendigen Informationen zur Verfügung, damit Sie Ihre Spende so schnell wie möglich erhalten.
+
+Genau diese notwendigen Informationen hatte Hugo bereits verlangt. Statt sie zu liefern, schickt die angebliche Spenderin mehrere Absätze über Vertrauen, Zukunft, Sicherheit und finanzielle Freiheit.
+
+Die Reihenfolge bleibt damit bemerkenswert:
+
+1. Hugo soll an die Millionen glauben.
+2. Hugo soll 200 Euro bezahlen.
+3. Irgendwann gibt es vielleicht die Informationen, anhand derer er die Forderung vorher hätte prüfen können.
+
+Für eine „unkomplizierte“ Auszahlung ist erstaunlich viel Text nötig – nur eine überprüfbare Antwort passt weiterhin nicht hinein.
+
+## Was die neue Antwort tatsächlich zeigt
+
+Die Nachricht beantwortet keine der sachlichen Fragen:
+
+* Kein Muster der angeblichen „Spenden Freigabebescheinigung“
+* Keine Rechnung
+* Kein Aussteller
+* Keine Behörde
+* Keine Rechtsgrundlage
+* Keine Erklärung, warum die Gebühr nicht verrechnet werden kann
+* Noch immer kein überprüfbarer Nachweis für die 3,7 Millionen Euro
+
+Stattdessen setzt sie auf Wiederholung, Mitgefühl, große Zukunftsversprechen und die Verharmlosung der Zahlung als kleine Investition. Das ist kein Nachweis für eine Spende, sondern zusätzlicher Druck, die geforderten 200 Euro doch noch zu überweisen.
+
+## Hugo braucht einen kleinen Ratenplan
+
+Hugo möchte sich von seiner finanziellen Freiheit natürlich nicht durch einen vorübergehenden Mangel an finanziellen Mitteln abhalten lassen. Die gesamten 200 Euro kann er im Moment leider nicht aufbringen. Aber vielleicht zeigt sich die angebliche Wohltäterin bei ihrem Eintrittspreis in die sorgenfreie Zukunft ebenso großzügig wie bei den versprochenen Millionen.
+
+> Hallo Frau Schaeffler,
+>
+> vielen Dank für Ihre Nachricht. Ich möchte die Gelegenheit gerne nutzen, aber ich habe im Moment leider keine 200 Euro zur Verfügung.
+>
+> Ich könnte jetzt 100 Euro bezahlen. Die restlichen 100 Euro würde ich Ihnen nächsten Monat schicken, sobald ich wieder Geld bekommen habe. Anders kann ich es finanziell leider nicht schaffen.
+>
+> Wenn Sie mit dieser Ratenzahlung einverstanden sind, schicken Sie mir bitte die genauen Zahlungsinformationen und erklären Sie mir, wie ich die ersten 100 Euro bezahlen soll.
+>
+> Viele Grüße
+>
+> Hugo
+
+Damit ist nun die angebliche Spenderin am Zug. Akzeptiert die internationale Millionenverwaltung auch Ratenzahlung? Und soll Hugo überweisen, Gutscheinkarten kaufen oder einen anderen Zahlungsweg benutzen? Ihre Antwort könnte zeigen, wohin das echte Geld fließen soll – falls 100 Euro Nächstenliebe für den ersten Monat genügen.
+
+Das Zahlungsangebot gehört ausschließlich zum dokumentierten Scambaiting. Hugo wird weder die erste noch die zweite Rate tatsächlich bezahlen.
 
 ## Warum ausgerechnet 200 Euro?
 
@@ -151,10 +259,10 @@ Wer bereits gezahlt hat, sollte sofort die eigene Bank oder den verwendeten Zahl
 
 Die Polizei rät bei falschen Geldversprechen grundsätzlich, [keine Gebühren für die Auszahlung eines vermeintlichen Gewinns zu zahlen](https://www.polizei-beratung.de/themen-und-tipps/betrug/gewinnversprechen/). Dass die Forderung hier „nur“ 200 Euro beträgt, macht sie nicht seriöser – lediglich leichter zu bezahlen.
 
-## Zwischenfazit: Fortsetzung folgt
+## Fazit: Viele Versprechen, keine einzige Antwort
 
-Die 3,7 Millionen Euro existieren nur in der Geschichte der Absender. Echt sind dagegen die verlangten 200 Euro und das Risiko, mit der Bankverbindung weitere persönliche Daten preiszugeben. Der bekannte Name soll Zweifel überdecken, die kleine Gebühr die letzte Hemmschwelle senken.
+Die angebliche Spenderin hatte Gelegenheit, Hugos einfache Fragen zu beantworten. Sie hätte eine Rechnung, den Aussteller der Bescheinigung oder eine nachvollziehbare Erklärung für die Vorauszahlung nennen können. Geliefert hat sie stattdessen Werbesprache über Nächstenliebe, Investitionen und lebenslange finanzielle Freiheit.
 
-Hugo hat deshalb weder Bankdaten geliefert noch eine Zahlung zugesagt. Stattdessen soll die angebliche Spenderin nun erklären, wer die „SFZ“ ausstellt, wohin das Geld gehen soll und warum sich 200 Euro partout nicht von 3,7 Millionen abziehen lassen. Sobald eine Antwort eintrifft, wird dieser Beitrag ergänzt.
+Damit ist das Muster noch deutlicher: Die 3,7 Millionen bleiben unbelegt, die verlangten 200 Euro sind dagegen sehr real. Wer sie überweist, kauft keine finanzielle Freiheit – sondern finanziert den nächsten Versuch, noch mehr Geld zu verlangen.
 
-Bis dahin gilt: **Wer vor einer angeblichen Spende erst Geld überweisen soll, erhält keine Millionen – sondern bezahlt den Vorschuss für den eigenen Schaden.**
+Hugo wird weder zahlen noch Bankdaten übermitteln. Denn wenn eine angebliche Millionenspende nur an 200 Euro scheitert, existiert sehr wahrscheinlich nicht die Spende, sondern lediglich die Rechnung.
