@@ -515,3 +515,19 @@ Hugo wird nun bewusst deutlich. Seine Bank habe angerufen, die Überweisung wege
 > Hugo
 
 Damit ist der entscheidende Punkt ausgesprochen: **Warren Buffett verschenkt nicht auf diesem Weg Geld.** Wer erst Millionen verspricht und vor der Auszahlung eine Gebühr auf wechselnde Privatkonten verlangt, verteilt keine Spenden. Er versucht, echtes Geld mit einer erfundenen Belohnung herauszulocken. Genau so funktioniert Vorschussbetrug.
+
+## Die letzte Rechtfertigung per WhatsApp
+
+Auf unsere deutliche E-Mail kam keine weitere Antwort. Über WhatsApp versuchte der Kontakt allerdings noch einmal, die Geschichte zu retten:
+
+![WhatsApp-Nachricht des Kontakts: Er bestreitet den Betrugsversuch und behauptet, die geforderten 550 Euro seien erstattungsfähig](/posts/2026-10-04-warren-buffett/whatsapp_ende.webp)
+
+> Ich habe dich zu nichts gedrängt, und es handelt sich hierbei nicht um Betrug. Ich verlange keine Zahlung von dir, da die 550 Euro zudem erstattungsfähig sind. Es liegt nun ganz bei dir!
+
+Das ist eine beachtliche Schlussnummer: Angeblich werde keine Zahlung verlangt – direkt gefolgt von der Rechtfertigung für genau jene **550 Euro**, die Hugo überweisen sollte. Ob die Gebühr angeblich später erstattet wird, ändert nichts daran, dass zunächst echtes Geld auf Privatkonten fließen sollte. Einen Vertrag, eine Rechnung oder einen belastbaren Nachweis für die versprochenen Millionen gab es weiterhin nicht. Danach verstummte der Kontakt.
+
+## Fazit
+
+Der Fall zeigt einen klassischen Vorschussbetrug: Eine frei erfundene Millionenspende schafft Hoffnung, persönliche Daten sollen Vertrauen und Bindung erzeugen, und am Ende wird eine angeblich notwendige Gebühr verlangt. Wechselnde Gmail-Adressen, widersprüchliche Referenznummern, Zeitdruck und Zahlungen auf Privatkonten sind dabei unübersehbare Warnzeichen.
+
+Wer eine solche Nachricht erhält, sollte **nichts zahlen, keine persönlichen Dokumente versenden und den Kontakt abbrechen**. Nachrichten und Kontodaten sollten als Belege gesichert, das Empfängerkonto der betroffenen Bank gemeldet und der Kontakt anschließend blockiert werden. Von den 2,5 Millionen blieb in diesem Fall nur eine Forderung über 550 Euro – und selbst deren Begründung hielt nicht bis zum letzten WhatsApp-Absatz durch. 🚩

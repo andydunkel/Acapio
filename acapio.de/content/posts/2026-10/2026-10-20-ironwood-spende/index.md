@@ -15,7 +15,7 @@ categories:
   - "Scam"
 thumbnail: "money.webp"
 url: "posts/2026-10-20-ironwood-spende"
-summary: "Eine angebliche Ironwood-Stiftung verspricht Hugo 900.000 Euro, fordert seine persönlichen Daten samt Ausweiskopie und verweist als Vertrauensbeweis auf die Website einer anderen Organisation."
+summary: "Eine angebliche Ironwood-Stiftung verspricht Hugo 900.000 Euro, fordert eine Ausweiskopie und anschließend vollständige Bankdaten – während als Vertrauensbeweis die Website einer anderen Organisation dient."
 ---
 
 Hugo hat eine **Spende in Höhe von 900.000 Euro gewonnen**. Wie man eine Spende gewinnt, ohne sich zu bewerben, an einer Verlosung teilzunehmen oder die angebliche Stiftung überhaupt zu kennen, wird leider nicht erklärt. Dafür möchten die Absender erstaunlich schnell seinen vollständigen Namen, seine Anschrift, seine Telefonnummer und eine gut lesbare Ausweiskopie. Großzügigkeit kann so neugierig sein. 💸
@@ -132,7 +132,7 @@ Die Masche verteilt ihre roten Flaggen ausgesprochen großzügig:
 * **Die Organisationen passen nicht zusammen:** Die E-Mail nennt eine Stiftung, der Link führt zu einer Vermögensberatung.
 * **Die Domains passen nicht zusammen:** Geschrieben wird von `ironwoodimpact.org`, als Beleg dient `ironwoodfwa.com`.
 * **Die Absender wechseln:** Erst tritt David Gusman als Publicity Manager auf, danach Robert Bushamp als Leiter der Abwicklung.
-* **Die Belege kommen erst nach den Daten:** Offizielle Unterlagen soll Hugo angeblich erst erhalten, nachdem er persönliche Daten und seinen Ausweis geschickt hat.
+* **Die Belege kommen erst nach den Daten:** Offizielle Unterlagen soll Hugo angeblich erst erhalten, nachdem er persönliche Daten und seinen Ausweis geschickt hat. Nach der angeblichen Prüfung werden zusätzlich vollständige Bankdaten verlangt, ohne dass inzwischen ein belastbarer Nachweis vorliegt.
 * **Es wird Geheimhaltung verlangt:** Außenstehende sollen die Geschichte möglichst nicht prüfen. Als Begründung muss ein nebulöses „Sicherheitsprotokoll“ herhalten.
 * **Die Maildomain ist brandneu:** Sie wurde nur neun Tage vor der ausführlichen Antwort registriert.
 
@@ -199,6 +199,62 @@ Auch die Geschichte wird nicht schlüssiger. Einerseits soll bereits ein **Schec
 
 Besonders aufschlussreich ist der angebliche Anwalt. Eine vermeintliche Kanzlei namens „Shepherd Light & Co Solicitors“ verweist Hugo nicht auf eine überprüfbare Kanzleidomain, sondern auf die kostenlose Gmail-Adresse `barr.cliffordfirm@gmail.com`. Der Name **Clifford Southgate** und die Kanzlei sind nach den vorliegenden Nachrichten lediglich Behauptungen der Absender; ein Nachweis für ihre Identität oder Beauftragung fehlt.
 
+## Clifford Southgate möchte jetzt Hugos Bankdaten
+
+Unter dem verwendeten Namen **Clifford Southgate** folgt nun die Antwort des angeblichen Rechtsberaters. Die zuvor übermittelten Fantasieangaben und der offensichtlich falsche Ausweis haben die vermeintliche Prüfung offenbar erfolgreich überstanden. Jetzt soll Hugo zusätzlich seine vollständigen Bank- und Kontaktdaten liefern:
+
+{{< accordion title="Vollständige Nachricht von Clifford Southgate anzeigen" >}}
+> Guten Tag,
+>
+> wir hoffen, diese Nachricht erreicht Sie bei bester Gesundheit.
+>
+> Mit dieser E-Mail bestätigen wir den Eingang Ihrer Nachricht sowie des von Ihnen eingereichten Identitätsnachweises im Rahmen des Abwicklungsverfahrens für Ihre Spende (Referenznummer: FPC/HBW/24/EU) von der „Ironwood Family Trust Foundation“ in Höhe von insgesamt 900.000,00 €.
+>
+> Wir stehen in Kontakt mit der Bank Ihres Spenders, der HSBC, und sind über den aktuellen Status der Spende vollständig informiert. Um mit der Auszahlung der Gelder fortfahren zu können, bitten wir Sie, uns Ihre vollständigen Bankverbindungsdaten mitzuteilen. Sobald uns diese Informationen vorliegen, werden wir sie umgehend an die HSBC weiterleiten, woraufhin der Prozess zur direkten Überweisung der Gelder auf Ihr Bankkonto eingeleitet wird.
+>
+> Bitte stellen Sie uns für die Abwicklung der Überweisung die folgenden Bankdaten zur Verfügung:\
+> Bankverbindung:
+>
+> Name der Bank:\
+> Adresse der Bank:\
+> Name des Kontoinhabers:\
+> Adresse des Kontoinhabers:\
+> Kontonummer:\
+> BIC/SWIFT-Code:\
+> IBAN/Bankleitzahl (Routing Number):\
+> Stadt:\
+> Bundesland/Region:\
+> Land:\
+> Telefonnummer:
+>
+> Bitte achten Sie darauf, dass alle Angaben korrekt sind, um Verzögerungen bei der Bearbeitung Ihrer Zahlung zu vermeiden. Ihre Mithilfe trägt dazu bei, die Überweisung zu beschleunigen und die Sicherheit der Transaktion zu gewährleisten.
+>
+> Wir stehen Ihnen während des gesamten Prozesses zur Seite und fungieren weiterhin als Ihre vertrauenswürdigen Vertreter. Sollten Sie Fragen haben oder weitere Erläuterungen benötigen, zögern Sie bitte nicht, uns zu kontaktieren.
+>
+> Vielen Dank für Ihre zeitnahe Bearbeitung dieses Anliegens. Wir sehen dem Erhalt der erforderlichen Daten entgegen, um die letzten Schritte im Zusammenhang mit Ihrer Spende abzuschließen.
+>
+> Mit freundlichen Grüßen,\
+> Shepherd Light & Co Solicitors\
+> Rechtsanwalt (Barrister) Clifford Southgate\
+> Rechtsberater & Finanzexperte
+{{< /accordion >}}
+
+Damit wandert die Datensammlung von der Identität direkt zum Konto. Gefordert werden nicht nur IBAN und BIC, sondern auch Kontonummer, Bankadresse, Anschrift des Kontoinhabers, Region und Telefonnummer. Einen überprüfbaren Auftrag, eine Anspruchsbescheinigung oder einen anderen belastbaren Nachweis für die angebliche Spende legt Southgate weiterhin nicht vor. Stattdessen genügt die Behauptung, man stehe mit der **HSBC** in Kontakt.
+
+Auch das Formular selbst wirkt wie eine internationale Kopiervorlage. „IBAN“, „Bankleitzahl“ und die vor allem in anderen Bankensystemen verwendete „Routing Number“ landen gemeinsam in einem Feld; zusätzlich wird nach „Bundesland/Region“ gefragt. Das beweist allein keinen Betrug, passt aber auffällig gut zu einer Nachricht, die ohne erkennbaren Bezug zum tatsächlichen Empfänger möglichst viele Bankmodelle gleichzeitig abdecken soll.
+
+Bankverbindungsdaten sind nicht dasselbe wie PIN, Passwort oder TAN und ermöglichen für sich allein normalerweise keinen Zugriff auf das Onlinebanking. In Kombination mit den bereits verlangten Identitäts- und Kontaktdaten können sie jedoch für glaubwürdigere Folgekontakte, gefälschte Zahlungsbelege oder weitere Täuschungsversuche genutzt werden.
+
+### Auch das Bankkonto kommt aus der Parallelverwaltung
+
+Hugo füllt das gewünschte Formular aus und schickt Clifford Southgate eine Bankverbindung – nur eben keine echte. Sämtliche Konto- und Kontaktdaten in seiner Antwort sind frei erfunden und im Screenshot zusätzlich unkenntlich gemacht.
+
+![Hugos Antwort an Clifford Southgate mit erfundenen und unkenntlich gemachten Bankdaten](/posts/2026-10-20-ironwood-spende/bankdaten.webp)
+
+Damit bekommt die angebliche Kanzlei genau die Art von Datensatz, die sie verlangt hat, nur ohne Nutzen für Identitätsmissbrauch oder einen Zugriff auf Hugos echtes Konto. Nun kann sich zeigen, ob „Shepherd Light & Co Solicitors“ die Angaben tatsächlich prüft oder auch diese Fantasiedaten ohne Rückfrage durch die internationale Geldmaschine winkt. Die Qualitätskontrolle hatte beim Ausweisdokument schließlich schon einen bemerkenswert entspannten Tag. 🏦
+
+Eine Gebühr wird in dieser Nachricht weiterhin nicht verlangt. Die Erzählung ist nun aber vollständig auf eine angeblich unmittelbar bevorstehende Überweisung ausgerichtet. Sollte als Nächstes plötzlich eine Steuer, Freigabe-, Anwalts- oder Transfergebühr verlangt werden, wäre das keine überraschende Wendung, sondern der klassische Kassenbon zum Vorschussbetrug. 🧾
+
 ## Dieselbe Kanzlei, fast derselbe Text
 
 Die Kulisse ist bei Acapio bereits aktenkundig. Im Januar 2025 sollte im Fall der angeblichen [Anthony Cathedral Charities](/posts/2025-01-29-anthonycharities/) ein „Barr. George Southgate“ von **Shepherd Light & Co Solicitors** eine Millionenspende abwickeln. Schon damals tauchten dieselbe Erklärung einer zwischengeschalteten Bank, eine Anspruchsbescheinigung, das „Facebook International Lottery Consortium“ und eine Referenz nach dem Muster `FPC/HBW/.../EU` auf.
@@ -211,7 +267,7 @@ Eine konkrete Gebühr verlangt Clifford Southgate in der aktuellen Nachricht noc
 
 ## Was tun bei einer solchen Nachricht?
 
-Keine persönlichen Daten, Ausweiskopien oder Gebühren übermitteln. Die genannte Organisation nur über selbst recherchierte Kontaktdaten prüfen und die Nachrichten als Belege sichern. Wurden bereits Dokumente oder Geld verschickt, sollten Betroffene sofort ihre Bank und die Polizei kontaktieren.
+Keine persönlichen Daten, Ausweiskopien, Bankdaten oder Gebühren übermitteln. Die genannte Organisation und angeblich beteiligte Banken oder Kanzleien nur über selbst recherchierte Kontaktdaten prüfen und die Nachrichten als Belege sichern. Wurden bereits Bankdaten, Dokumente oder Geld verschickt, sollten Betroffene sofort ihre Bank und die Polizei kontaktieren.
 
 Eine echte Website beweist nicht, dass eine Nachricht tatsächlich von deren Betreiber stammt.
 
@@ -219,4 +275,4 @@ Eine echte Website beweist nicht, dass eine Nachricht tatsächlich von deren Bet
 
 Der bisherige Ablauf liefert keinen Nachweis für eine Spende, dafür aber einen bemerkenswert direkten Versuch, Hugos persönliche Daten samt Ausweiskopie einzusammeln. Die verlinkte Website gehört zu einer anderen Organisation, die Namen der angeblichen Mitarbeiter lassen sich dort nicht wiederfinden und die tatsächliche Maildomain wurde erst am 10. Oktober 2026 registriert.
 
-Der Fall ist damit noch nicht abgeschlossen. Hugo bleibt im Gespräch, ohne echte Daten, echte Dokumente oder Geld zu übermitteln. Die angebliche Stiftung hat den Fantasieausweis akzeptiert und Hugo an einen angeblichen Anwalt weitergereicht. Eine konkrete Zahlungsforderung fehlt weiterhin; die angekündigte Anspruchsbescheinigung bietet dafür allerdings eine ausgesprochen praktische Vorlage. Die nächste Folge aus der internationalen Wohltätigkeitsabteilung wird ergänzt, sobald Clifford Southgate oder Robert Bushamp antwortet. 🍿
+Der Fall ist damit noch nicht abgeschlossen. Hugo bleibt im Gespräch, ohne echte Daten, echte Dokumente, Bankverbindungen oder Geld zu übermitteln. Die angebliche Stiftung hat den Fantasieausweis akzeptiert, Hugo an einen angeblichen Anwalt weitergereicht und über diesen vollständige Kontodaten angefordert. Hugo hat auch darauf mit Fantasiedaten geantwortet. Eine konkrete Zahlungsforderung fehlt weiterhin; die angeblich unmittelbar bevorstehende Überweisung und die angekündigte Anspruchsbescheinigung bieten dafür allerdings ausgesprochen praktische Vorlagen. Die nächste Folge aus der internationalen Wohltätigkeitsabteilung wird ergänzt, sobald Clifford Southgate oder Robert Bushamp erneut antwortet. 🍿
