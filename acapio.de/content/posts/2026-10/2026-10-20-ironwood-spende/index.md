@@ -15,10 +15,10 @@ categories:
   - "Scam"
 thumbnail: "money.webp"
 url: "posts/2026-10-20-ironwood-spende"
-summary: "Eine angebliche Ironwood-Stiftung verspricht Hugo 900.000 Euro, fordert eine Ausweiskopie und anschließend vollständige Bankdaten – während als Vertrauensbeweis die Website einer anderen Organisation dient."
+summary: "Eine angebliche Ironwood-Stiftung verspricht Hugo 900.000 Euro, sammelt persönliche Daten und fordert schließlich 650 Euro für Vollmacht und Freigabe – zahlbar auch per Bitcoin."
 ---
 
-Hugo hat eine **Spende in Höhe von 900.000 Euro gewonnen**. Wie man eine Spende gewinnt, ohne sich zu bewerben, an einer Verlosung teilzunehmen oder die angebliche Stiftung überhaupt zu kennen, wird leider nicht erklärt. Dafür möchten die Absender erstaunlich schnell seinen vollständigen Namen, seine Anschrift, seine Telefonnummer und eine gut lesbare Ausweiskopie. Großzügigkeit kann so neugierig sein. 💸
+Hugo hat eine **Spende in Höhe von 900.000 Euro gewonnen**. Wie man eine Spende gewinnt, ohne sich zu bewerben, an einer Verlosung teilzunehmen oder die angebliche Stiftung überhaupt zu kennen, wird leider nicht erklärt. Dafür möchten die Absender erstaunlich schnell seinen vollständigen Namen, seine Anschrift, seine Telefonnummer und eine gut lesbare Ausweiskopie. Nach den Bankdaten folgt schließlich die Rechnung: **650 Euro vorab**, wahlweise per Überweisung oder Bitcoin. Großzügigkeit kann so neugierig sein. 💸
 
 Als Beleg verweist die Nachricht auf die Website von **Ironwood Family Wealth Advisors**. Das Problem: Diese Website gehört zu einer US-amerikanischen Vermögensberatung und nicht zu der in den E-Mails genannten „Ironwood Family Trust Foundation“. Auch die E-Mail kommt von einer ganz anderen, erst wenige Tage alten Domain.
 
@@ -133,12 +133,14 @@ Die Masche verteilt ihre roten Flaggen ausgesprochen großzügig:
 * **Die Domains passen nicht zusammen:** Geschrieben wird von `ironwoodimpact.org`, als Beleg dient `ironwoodfwa.com`.
 * **Die Absender wechseln:** Erst tritt David Gusman als Publicity Manager auf, danach Robert Bushamp als Leiter der Abwicklung.
 * **Die Belege kommen erst nach den Daten:** Offizielle Unterlagen soll Hugo angeblich erst erhalten, nachdem er persönliche Daten und seinen Ausweis geschickt hat. Nach der angeblichen Prüfung werden zusätzlich vollständige Bankdaten verlangt, ohne dass inzwischen ein belastbarer Nachweis vorliegt.
+* **Vor der Auszahlung soll Hugo zahlen:** Für angebliche Dokumente und eine Vollmacht werden 650 Euro im Voraus verlangt. Genau darin besteht der Vorschuss.
+* **Bitcoin wird als Zahlungsweg angeboten:** Eine angebliche Kanzlei will ihre Bearbeitungsgebühr wahlweise per Banküberweisung oder Bitcoin erhalten.
 * **Es wird Geheimhaltung verlangt:** Außenstehende sollen die Geschichte möglichst nicht prüfen. Als Begründung muss ein nebulöses „Sicherheitsprotokoll“ herhalten.
 * **Die Maildomain ist brandneu:** Sie wurde nur neun Tage vor der ausführlichen Antwort registriert.
 
 Die Kombination passt zu einem **Vorschussbetrug**. Dabei wird zunächst ein großes Vermögen versprochen. Später folgen häufig angebliche Steuern, Transferkosten, Versicherungsbeiträge oder Gebühren für Dokumente. Das [Bundesamt für Sicherheit in der Informationstechnik](https://www.bsi.bund.de/DE/Themen/Verbraucherinnen-und-Verbraucher/Cyber-Sicherheitslage/Methoden-der-Cyber-Kriminalitaet/Spam-Phishing-Co/Spam/spam_node.html) beschreibt Scam-Mails genau nach diesem Muster: schnelles Geld wird versprochen, zuvor müsse jedoch ein vergleichsweise kleiner Betrag bezahlt werden.
 
-Eine solche Zahlungsforderung liegt in diesem Fall noch nicht vor. Belegt ist bislang die Sammlung persönlicher Daten. Ob und welche Gebühren später verlangt werden, werden erst die nächsten Nachrichten zeigen.
+Inzwischen liegt auch die Zahlungsforderung vor: **650 Euro** für die angebliche Erstellung und Beglaubigung einer Vollmacht und weiterer Dokumente. Das typische Muster eines Vorschussbetrugs ist damit vollständig dokumentiert.
 
 ## Warum die Ausweiskopie besonders gefährlich ist
 
@@ -253,7 +255,79 @@ Hugo füllt das gewünschte Formular aus und schickt Clifford Southgate eine Ban
 
 Damit bekommt die angebliche Kanzlei genau die Art von Datensatz, die sie verlangt hat, nur ohne Nutzen für Identitätsmissbrauch oder einen Zugriff auf Hugos echtes Konto. Nun kann sich zeigen, ob „Shepherd Light & Co Solicitors“ die Angaben tatsächlich prüft oder auch diese Fantasiedaten ohne Rückfrage durch die internationale Geldmaschine winkt. Die Qualitätskontrolle hatte beim Ausweisdokument schließlich schon einen bemerkenswert entspannten Tag. 🏦
 
-Eine Gebühr wird in dieser Nachricht weiterhin nicht verlangt. Die Erzählung ist nun aber vollständig auf eine angeblich unmittelbar bevorstehende Überweisung ausgerichtet. Sollte als Nächstes plötzlich eine Steuer, Freigabe-, Anwalts- oder Transfergebühr verlangt werden, wäre das keine überraschende Wendung, sondern der klassische Kassenbon zum Vorschussbetrug. 🧾
+Die nächste Antwort liefert genau den erwarteten Kassenbon zum Vorschussbetrug. 🧾
+
+## Jetzt kostet die kostenlose Spende 650 Euro
+
+Der unter dem Namen Clifford Southgate auftretende Absender winkt auch Hugos erfundene Bankdaten durch und erklärt nun, vor der Auszahlung müssten eine Vollmacht und weitere rechtliche Dokumente erstellt werden. Dafür soll Hugo **650 Euro im Voraus** zahlen. Dass man eine solche Gebühr einfach von den angeblichen 900.000 Euro abziehen könnte, scheint im internationalen Finanzwesen dieser Parallelwelt nicht vorgesehen zu sein.
+
+Die von Hugo zuvor übermittelten Bank- und Kontaktdaten sind im folgenden Zitat vollständig entfernt. Sie sind für das Verständnis der Masche nicht erforderlich und gehören nicht in den öffentlich durchsuchbaren Artikeltext.
+
+{{< accordion title="Vollständige neue Nachricht von Clifford Southgate anzeigen" >}}
+> Hallo,
+>
+> Bitte finden Sie unten die erforderlichen Bankdaten für die Abwicklung Ihrer Überweisung:
+>
+> Name der Bank: [entfernt]\
+> Adresse der Bank: [entfernt]\
+> Name des Kontoinhabers: [entfernt]\
+> Adresse des Kontoinhabers: [entfernt]\
+> Kontonummer: [entfernt]\
+> BIC/SWIFT-Code: [entfernt]\
+> IBAN/Bankleitzahl (Routing Number): [entfernt]\
+> Stadt: [entfernt]\
+> Bundesland/Region: [entfernt]\
+> Land: [entfernt]\
+> Telefonnummer: [entfernt]
+>
+> Wir hoffen, es geht Ihnen gut.
+>
+> Wir möchten Sie über den Status Ihrer Spende mit der Referenznummer (FPC/HBW/24/EU) der Cathedral of Saint Anthony Charity in Höhe von 900.000 € informieren. Wir haben Ihre E-Mail bezüglich des notwendigen Freigabeverfahrens für die Überweisung der Gelder von der HSBC Bank auf Ihr Konto erhalten.
+>
+> Für die Freigabe Ihrer Spende müssen bestimmte rechtliche Dokumente erstellt und Freigabeverfahren abgeschlossen werden. Diese Dokumente werden von der HSBC Bank benötigt, bevor die Spende erfolgreich auf Ihr Konto überwiesen werden kann. Als Ihre Vertreter werden die Anwälte von Shepherd Light & Co Solicitors Sie während des gesamten Prozesses unterstützen, um sicherzustellen, dass alles gemäß den internationalen Standards für Finanztransaktionen, wie sie vom Internationalen Währungsfonds (IWF) anerkannt sind, abläuft. Dies gewährleistet die ordnungsgemäße und rechtmäßige Verwendung der Gelder.
+>
+> Nachfolgend sind die zu befolgenden Schritte aufgeführt:
+>
+> 1. Honorarvorschuss: Für die Vertretung Ihrer Interessen ist ein Honorarvorschuss erforderlich. Dies ist Standard bei internationalen Transaktionen und deckt die Anwaltskosten für die Erstellung der erforderlichen Dokumente für Ihre Freigabe ab.
+>
+> 2. Vollmacht: Mit einer Vollmacht bevollmächtigen Sie uns, die Gelder in Ihrem Namen von der HSBC Bank abzurufen. Dieses Dokument ermöglicht es uns, die für die Überweisung notwendigen rechtlichen Schritte und Bescheinigungen einzuholen.
+>
+> 3. Zweck- und Bewilligungsbestätigung: Diese Spende dient der Unterstützung der weltweiten Pandemiehilfe und wohltätiger Initiativen für Bedürftige, darunter ältere Menschen, Waisenhäuser und benachteiligte Gemeinschaften. Ein Teil der Gelder ist für Sie und Ihre Familie bestimmt, um Ihr Wohlergehen zu sichern.
+>
+> Für die Erstellung und Beglaubigung der Vollmacht und der zugehörigen Dokumente ist eine Bearbeitungsgebühr von 650 € erforderlich. Sobald wir die Zahlung erhalten haben, schließen wir die Formalitäten ab und veranlassen die Überweisung.
+>
+> Wichtige Hinweise: Die Gebühr von 650 € ist im Voraus zu entrichten, um die Kosten für die Dokumentenerstellung zu decken.
+>
+> Nach Zahlungseingang wird der Betrag innerhalb von 24–48 Stunden auf Ihr Konto überwiesen. Die Gutschrift auf Ihrem Bankkonto in Ihrer Währung dauert ca. 72 Stunden.
+>
+> Bitte antworten Sie umgehend, damit wir Ihnen die Zahlungsdetails zukommen lassen können. Die Zahlung kann per Banküberweisung oder Bitcoin erfolgen. Die Verarbeitung dauert ca. 30 Minuten.
+>
+> Sobald wir die Zahlung erhalten haben, bereiten wir die Dokumente für HSBC vor und senden sie an diese, um eine schnelle Überweisung auf Ihr Bankkonto zu gewährleisten.
+>
+> Bei Fragen oder Unklarheiten stehen wir Ihnen jederzeit gerne zur Verfügung. Wir unterstützen Sie in jedem Schritt.
+>
+> Mit freundlichen Grüßen, Shepherd Light & Co Solicitors\
+> Barr. Clifford Southgate
+{{< /accordion >}}
+
+Besonders hübsch ist der Wechsel der Wohltätigkeitsorganisation mitten im Verfahren: Plötzlich stammt die Spende nicht mehr von der angeblichen Ironwood Family Trust Foundation, sondern von der **„Cathedral of Saint Anthony Charity“**. Genau diese Kulisse tauchte bereits im älteren Acapio-Fall auf. Der Textbaustein wurde offenbar recycelt, nur die 900.000 Euro durften bleiben.
+
+Auch der Verweis auf den Internationalen Währungsfonds ersetzt keinen Beleg. Southgate nennt weder ein konkretes Regelwerk noch legt er die behaupteten Dokumente vor. Dafür gibt es Zeitangaben im Sonderangebot: Verarbeitung in 30 Minuten, Überweisung binnen 24 bis 48 Stunden und Gutschrift nach ungefähr 72 Stunden. Hauptsache schnell zahlen, wann das Fantasiegeld ankommt, darf sich die Uhr später überlegen.
+
+### Neue Bremsen, leere Kasse
+
+Hugo weist freundlich darauf hin, dass eine Gebühr bisher nie erwähnt wurde. Außerdem hat sein BMW diesen Monat neue Bremsen bekommen – für die vermeintliche internationale Finanztransaktion herrscht deshalb vorübergehend Ebbe:
+
+> Hallo Herr Southgate,
+>
+> 650 Euro sind für mich sehr viel Geld. Davon war am Anfang überhaupt keine Rede. Mein BMW hat diesen Monat neue Bremsen bekommen, deshalb ist im Grunde kein Geld mehr da.
+>
+> Vielleicht kann ich die Gebühr Anfang November bezahlen, wenn mein Gehalt wieder da ist. Können Sie so lange warten?
+>
+> Mit freundlichen Grüßen\
+> Hugo
+
+Natürlich wird Hugo weder Anfang November noch später Geld überweisen. Die Antwort soll lediglich dokumentieren, wie der angebliche Anwalt auf einen zahlungswilligen Empfänger reagiert, der die geforderte Summe nicht sofort aufbringen kann.
 
 ## Dieselbe Kanzlei, fast derselbe Text
 
@@ -263,7 +337,7 @@ Diesmal heißt der angebliche Anwalt Clifford statt George, verwendet eine ander
 
 Auch der Vorname ist nicht neu: Im Fall [„Barrister Clifford Jose“](/posts/2025-01-26-barrister-clifford-jose/) sollte ein vermeintlicher Anwalt ein angebliches Erbe über 21 Millionen Dollar abwickeln. Dabei handelt es sich nicht um denselben behaupteten vollständigen Namen. Das Prinzip ist aber identisch: Ein angeblicher Jurist verleiht einer erfundenen Millionengeschichte einen seriösen Anstrich, verlangt persönliche Daten und bereitet weitere Stellen oder Zahlungen vor.
 
-Eine konkrete Gebühr verlangt Clifford Southgate in der aktuellen Nachricht noch nicht. Mit der angekündigten „Anspruchsbescheinigung“ ist jedoch bereits das passende Dokument eingeführt, für dessen Ausstellung später angebliche Anwalts-, Beglaubigungs- oder Bearbeitungskosten verlangt werden könnten. Ob das tatsächlich geschieht, zeigt erst die nächste Antwort. Der Vorschussbetrug hat seinen Kassenbereich jedenfalls schon ausgeschildert. 🧾
+Die neue Antwort macht die Wiederverwendung noch deutlicher: Clifford Southgate nennt nun ausgerechnet die **„Cathedral of Saint Anthony Charity“** als Ursprung der Spende. Die Ironwood-Geschichte ist aus dem eigenen Textbaustein verschwunden. Gleichzeitig wird für Vollmacht und Dokumente genau die Bearbeitungsgebühr verlangt, auf die der gesamte Ablauf hingearbeitet hat.
 
 ## Was tun bei einer solchen Nachricht?
 
@@ -271,8 +345,10 @@ Keine persönlichen Daten, Ausweiskopien, Bankdaten oder Gebühren übermitteln.
 
 Eine echte Website beweist nicht, dass eine Nachricht tatsächlich von deren Betreiber stammt.
 
-## Vorläufiges Fazit: 900.000 Euro und neun Tage Domainerfahrung
+## Fazit: Von 900.000 Euro bleiben 650 Euro Vorkasse
 
 Der bisherige Ablauf liefert keinen Nachweis für eine Spende, dafür aber einen bemerkenswert direkten Versuch, Hugos persönliche Daten samt Ausweiskopie einzusammeln. Die verlinkte Website gehört zu einer anderen Organisation, die Namen der angeblichen Mitarbeiter lassen sich dort nicht wiederfinden und die tatsächliche Maildomain wurde erst am 10. Oktober 2026 registriert.
 
-Der Fall ist damit noch nicht abgeschlossen. Hugo bleibt im Gespräch, ohne echte Daten, echte Dokumente, Bankverbindungen oder Geld zu übermitteln. Die angebliche Stiftung hat den Fantasieausweis akzeptiert, Hugo an einen angeblichen Anwalt weitergereicht und über diesen vollständige Kontodaten angefordert. Hugo hat auch darauf mit Fantasiedaten geantwortet. Eine konkrete Zahlungsforderung fehlt weiterhin; die angeblich unmittelbar bevorstehende Überweisung und die angekündigte Anspruchsbescheinigung bieten dafür allerdings ausgesprochen praktische Vorlagen. Die nächste Folge aus der internationalen Wohltätigkeitsabteilung wird ergänzt, sobald Clifford Southgate oder Robert Bushamp erneut antwortet. 🍿
+Der Fall ist damit noch nicht abgeschlossen. Hugo bleibt im Gespräch, ohne echte Daten, echte Dokumente, Bankverbindungen oder Geld zu übermitteln. Die angebliche Stiftung hat den Fantasieausweis und die erfundenen Kontodaten akzeptiert. Nun fordert ihr angeblicher Anwalt 650 Euro im Voraus und bietet neben einer Banküberweisung auch Bitcoin an.
+
+Damit ist die Masche vollständig sichtbar: erst die riesige Spende, dann die Datensammlung, schließlich die vergleichsweise kleine Gebühr vor der angeblichen Auszahlung. Wer eine solche Nachricht erhält, sollte weder zahlen noch weitere Daten senden. Hugo wartet derweil auf sein Gehalt – und Clifford auf Geld, das nie kommen wird. 🍿

@@ -215,6 +215,32 @@ Damit ist nun die angebliche Spenderin am Zug. Akzeptiert die internationale Mil
 
 Das Zahlungsangebot gehört ausschließlich zum dokumentierten Scambaiting. Hugo wird weder die erste noch die zweite Rate tatsächlich bezahlen.
 
+## Jetzt soll Hugo zu WhatsApp wechseln
+
+Auf Hugos Fragen zur Ratenzahlung und zu den konkreten Zahlungsdaten geht die angebliche Frau Schaeffler zunächst nicht ein. Stattdessen möchte sie die Unterhaltung auf WhatsApp verlagern. Die dafür verwendete Nummer lautet **+49 15510 501881**.
+
+{{< accordion title="Vollständige neue Nachricht anzeigen" >}}
+> Ich hoffe, es geht Ihnen gut. Zunächst möchte ich mich für Ihre prompte Antwort auf meine letzte E-Mail bedanken. Es ist mir immer eine Freude, so effizient mit Ihnen zu kommunizieren, und ich weiß Ihre Aufmerksamkeit sehr zu schätzen.
+>
+> Ich melde mich, um die Möglichkeit zu besprechen, unsere Kommunikationskanäle um WhatsApp zu erweitern. Dies würde uns eine flexiblere und direktere Kontaktmöglichkeit bieten und unsere E-Mail-Korrespondenz ergänzen. WhatsApp eignet sich besonders gut für kurze Updates und Echtzeit-Unterhaltungen, was, wie ich glaube, für unsere laufenden Gespräche von Vorteil sein könnte.
+>
+> Daher möchte ich Ihnen meine private WhatsApp-Nummer mitteilen. Sie finden die Nummer unten. Ich empfehle Ihnen, sie für später zu speichern:
+>
+> WHATSAPP-NUMMER: +49 15510 501881
+>
+> Bitte schreiben Sie mir bei Gelegenheit eine Nachricht über WhatsApp. So stellen wir sicher, dass wir auf mehreren Plattformen in Kontakt bleiben und unsere Kommunikation – ob dringend oder informell – effektiver und effizienter gestalten können.
+>
+> Mir ist bewusst, wie wichtig zeitnahe Kommunikation in unserer Arbeit ist, und ich glaube, dass dies für uns beide eine zusätzliche Erleichterung darstellt. Ich freue mich darauf, bald von Ihnen zu hören und hoffe, dass Sie diese neue Kommunikationsmethode genauso vorteilhaft finden, wie ich es erwarte.
+>
+> Vielen Dank nochmals für Ihre Kooperation und Ihr Verständnis. Ich erwarte Ihre umgehende Antwort per WhatsApp.
+>
+> Mit freundlichen Grüßen
+{{< /accordion >}}
+
+Die Begründung klingt nach Komfort: kurze Updates, direkter Kontakt und Gespräche in Echtzeit. Für die Absender hat der Wechsel aber noch weitere mögliche Vorteile. Auf WhatsApp können sie unmittelbarer reagieren, mit Benachrichtigungen und Formulierungen wie „umgehende Antwort“ Zeitdruck aufbauen und Hugo leichter in einem fortlaufenden Gespräch halten. Zugleich erhalten sie mit einer ersten Nachricht seine Telefonnummer und – abhängig von seinen Privatsphäre-Einstellungen – möglicherweise weitere Profilinformationen. [WhatsApp selbst erläutert](https://faq.whatsapp.com/3307102709559968/), dass sich etwa die Sichtbarkeit von Profilbild, „Info“, Onlinestatus und Lesebestätigungen über die Privatsphäre-Einstellungen steuern lässt.
+
+WhatsApp ist deshalb nicht automatisch ein Warnzeichen und die Nummer beweist nicht, wer tatsächlich hinter dem Kontakt steckt. In diesem Fall ist der Kanalwechsel jedoch Teil einer bereits klar erkennbaren Masche: Die angeblichen 3,7 Millionen sind weiterhin unbelegt, Hugos sachliche Fragen bleiben offen und statt einer Rechnung oder eines Nachweises wird nun ein schnellerer, persönlicherer Kommunikationsweg verlangt. Der Messenger macht die Geschichte nicht seriöser, nur das Drängeln bequemer. 📱🚩
+
 ## Warum ausgerechnet 200 Euro?
 
 Die Forderung wirkt im Vergleich zum versprochenen Betrag erstaunlich niedrig. Genau das macht sie gefährlich: 200 Euro entsprechen nur rund **0,005 Prozent** der angeblichen 3,7 Millionen. Wer die große Zahl bereits vor Augen hat, kann die kleine Zahlung leichter als vernünftige letzte Formalität wahrnehmen.
@@ -249,6 +275,7 @@ Auch [Warren Buffett wurde erst kürzlich als vermeintlicher Millionenspender mi
 * **Gebühr vor Auszahlung:** Vor den angeblichen Millionen sollen 200 echte Euro fließen.
 * **Fantasie-Dokument:** Für die „Spenden Freigabebescheinigung (SFZ)“ fehlen Aussteller, Rechtsgrundlage und nachvollziehbarer Zweck.
 * **Bankdaten verlangt:** Zusätzlich zur Zahlung soll Hugo seine Kontoverbindung preisgeben.
+* **Wechsel zu WhatsApp:** Statt offene Fragen zu beantworten, fordert die angebliche Spenderin eine umgehende Nachricht an **+49 15510 501881**.
 * **Sprachliche Brüche:** „Auszahlung Abteilung“, wechselnde Schreibweisen und die versehentliche Drohung gegen den Empfänger passen nicht zu einer professionellen Millionenüberweisung.
 
 ## Was tun?
@@ -261,7 +288,7 @@ Die Polizei rät bei falschen Geldversprechen grundsätzlich, [keine Gebühren f
 
 ## Fazit: Viele Versprechen, keine einzige Antwort
 
-Die angebliche Spenderin hatte Gelegenheit, Hugos einfache Fragen zu beantworten. Sie hätte eine Rechnung, den Aussteller der Bescheinigung oder eine nachvollziehbare Erklärung für die Vorauszahlung nennen können. Geliefert hat sie stattdessen Werbesprache über Nächstenliebe, Investitionen und lebenslange finanzielle Freiheit.
+Die angebliche Spenderin hatte Gelegenheit, Hugos einfache Fragen zu beantworten. Sie hätte eine Rechnung, den Aussteller der Bescheinigung oder eine nachvollziehbare Erklärung für die Vorauszahlung nennen können. Geliefert hat sie stattdessen Werbesprache über Nächstenliebe, Investitionen und lebenslange finanzielle Freiheit – und anschließend die Aufforderung, über WhatsApp weiterzuschreiben.
 
 Damit ist das Muster noch deutlicher: Die 3,7 Millionen bleiben unbelegt, die verlangten 200 Euro sind dagegen sehr real. Wer sie überweist, kauft keine finanzielle Freiheit – sondern finanziert den nächsten Versuch, noch mehr Geld zu verlangen.
 
