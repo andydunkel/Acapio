@@ -329,6 +329,38 @@ Hugo weist freundlich darauf hin, dass eine Gebühr bisher nie erwähnt wurde. A
 
 Natürlich wird Hugo weder Anfang November noch später Geld überweisen. Die Antwort soll lediglich dokumentieren, wie der angebliche Anwalt auf einen zahlungswilligen Empfänger reagiert, der die geforderte Summe nicht sofort aufbringen kann.
 
+## Die Bank wartet – aber bitte mit Zahlungstermin
+
+Am 26. Oktober meldet sich Clifford Southgate erneut. Angeblich hat er inzwischen mit der Bank gesprochen und für Hugo einen Zahlungsaufschub ausgehandelt. Die großzügige Bank möchte allerdings ein genaues Datum wissen, an dem Hugo die 650 Euro voraussichtlich überweisen wird:
+
+> Guten Tag,
+>
+> ich habe mit der Bank gesprochen, die Ihre Spende abwickelt. Sie hat sich bereit erklärt zu warten, bis Sie die 650 € aufgebracht haben. Die Bank möchte wissen, an welchem genauen Datum Sie die Zahlung voraussichtlich vornehmen werden. Bitte teilen Sie mir das geplante Zahlungsdatum mit, damit ich es an die Bank weiterleiten und Ihnen die Zahlungsdaten zukommen lassen kann. Sobald die Gebühr beglichen ist, wird Ihre Spende umgehend auf Ihr Bankkonto überwiesen. Bitte melden Sie sich umgehend bei mir.
+>
+> Mit freundlichen Grüßen,\
+> Shepherd Light & Co Solicitors\
+> Rechtsanwalt (Barrister) Clifford Southgate\
+> Rechtsberater & Finanzexperte
+
+Die Reaktion bestätigt, worum es tatsächlich geht: nicht um die Prüfung einer Spende, sondern um die Frage, **wann Hugo zahlen kann**. Dass eine Bank für eine angebliche Überweisung über 900.000 Euro persönlich auf Hugos 650 Euro wartet, bleibt ebenso unbelegt wie die Bank selbst. Einen Namen, einen Ansprechpartner oder ein Aktenzeichen nennt Southgate diesmal nicht.
+
+Auch die Reihenfolge ist praktisch: Erst soll Hugo einen Termin zusagen, danach will Southgate ihm die Zahlungsdaten schicken. So wird Zahlungsbereitschaft abgefragt, bevor das Empfängerkonto sichtbar wird. Das wiederholte „umgehend“ erzeugt zusätzlich Druck, obwohl dieselbe angebliche Bank laut Nachricht problemlos warten kann. Internationale Hochfinanz, aber mit Reservierung wie beim Kegelabend. 🎳
+
+### 300 Euro nach dem Dackelfest
+
+Hugo nennt den gewünschten Termin, kann wegen wichtiger Vereinsverpflichtungen aber höchstens einen Teil der geforderten Gebühr anbieten:
+
+> Mahlzeit Herr Southgate,
+>
+> Montag, 2. November kommt Kohle. 300 Euro könnte ich dann vielleicht locker machen, mehr geht grad nich. Das Herbstfest vom Dackelverein letztes Wochenende war nochmal richtig teuer.
+>
+> Reicht das erstmal?
+>
+> Gruß\
+> Hugo
+
+Nun darf der angebliche Finanzexperte entscheiden, ob seine geduldige Bank auch Ratenzahlung akzeptiert. An den Scammer fließt selbstverständlich weder am 2. November noch später auch nur ein Euro.
+
 ## Dieselbe Kanzlei, fast derselbe Text
 
 Die Kulisse ist bei Acapio bereits aktenkundig. Im Januar 2025 sollte im Fall der angeblichen [Anthony Cathedral Charities](/posts/2025-01-29-anthonycharities/) ein „Barr. George Southgate“ von **Shepherd Light & Co Solicitors** eine Millionenspende abwickeln. Schon damals tauchten dieselbe Erklärung einer zwischengeschalteten Bank, eine Anspruchsbescheinigung, das „Facebook International Lottery Consortium“ und eine Referenz nach dem Muster `FPC/HBW/.../EU` auf.
@@ -349,6 +381,6 @@ Eine echte Website beweist nicht, dass eine Nachricht tatsächlich von deren Bet
 
 Der bisherige Ablauf liefert keinen Nachweis für eine Spende, dafür aber einen bemerkenswert direkten Versuch, Hugos persönliche Daten samt Ausweiskopie einzusammeln. Die verlinkte Website gehört zu einer anderen Organisation, die Namen der angeblichen Mitarbeiter lassen sich dort nicht wiederfinden und die tatsächliche Maildomain wurde erst am 10. Oktober 2026 registriert.
 
-Der Fall ist damit noch nicht abgeschlossen. Hugo bleibt im Gespräch, ohne echte Daten, echte Dokumente, Bankverbindungen oder Geld zu übermitteln. Die angebliche Stiftung hat den Fantasieausweis und die erfundenen Kontodaten akzeptiert. Nun fordert ihr angeblicher Anwalt 650 Euro im Voraus und bietet neben einer Banküberweisung auch Bitcoin an.
+Der Fall ist damit noch nicht abgeschlossen. Hugo bleibt im Gespräch, ohne echte Daten, echte Dokumente, Bankverbindungen oder Geld zu übermitteln. Die angebliche Stiftung hat den Fantasieausweis und die erfundenen Kontodaten akzeptiert. Nun fordert ihr angeblicher Anwalt 650 Euro im Voraus, bietet neben einer Banküberweisung auch Bitcoin an und möchte nach Hugos Bitte um Aufschub ein genaues Zahlungsdatum wissen.
 
-Damit ist die Masche vollständig sichtbar: erst die riesige Spende, dann die Datensammlung, schließlich die vergleichsweise kleine Gebühr vor der angeblichen Auszahlung. Wer eine solche Nachricht erhält, sollte weder zahlen noch weitere Daten senden. Hugo wartet derweil auf sein Gehalt – und Clifford auf Geld, das nie kommen wird. 🍿
+Damit ist die Masche vollständig sichtbar: erst die riesige Spende, dann die Datensammlung, schließlich die vergleichsweise kleine Gebühr vor der angeblichen Auszahlung. Wer eine solche Nachricht erhält, sollte weder zahlen noch weitere Daten senden. Die angebliche Bank wartet derweil geduldig auf Hugos Gehalt – und Clifford auf Geld, das nie kommen wird. 🍿

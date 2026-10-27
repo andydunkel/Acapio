@@ -88,6 +88,6 @@
 - Orientiere dich beim Front Matter und bei Shortcodes an aktuellen bestehenden Beiträgen.
 - Bearbeite generierte Dateien unter `acapio.de/public/` nicht von Hand.
 - Ändere das eingebundene Theme nur, wenn die Aufgabe dies erfordert, und halte Anpassungen möglichst außerhalb von Drittanbieterdateien.
-- Installiere Abhängigkeiten in `acapio.de/` mit `npm install` und prüfe die fertige Website mit `npm run build`.
+- Führe nicht automatisch `npm install`, `npm run build`, Hugo-Builds, Preview-Server oder vergleichbare Prüf- und Build-Befehle aus. Der Benutzer betrachtet und prüft die Website parallel selbst. Nutze solche Befehle nur, wenn sie für die konkrete Aufgabe zwingend erforderlich sind, und kündige dies vorher kurz an.
 - Behandle die älteren Verzeichnisse `scam/`, `wiki/`, `java/` und `scam_trans/` als Legacy-Bestand und ändere sie nur bei ausdrücklichem Bezug der Aufgabe.
 
