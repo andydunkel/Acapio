@@ -15,7 +15,7 @@ categories:
   - "Scam"
 thumbnail: "money.webp"
 url: "posts/2026-10-20-ironwood-spende"
-summary: "Eine angebliche Ironwood-Stiftung verspricht Hugo 900.000 Euro, sammelt persönliche Daten und fordert schließlich 650 Euro für Vollmacht und Freigabe – zahlbar auch per Bitcoin."
+summary: "Eine angebliche Ironwood-Stiftung verspricht Hugo 900.000 Euro, sammelt persönliche Daten und fordert 650 Euro für Vollmacht und Freigabe – später sinkt die Vorkasse plötzlich auf 400 Euro."
 ---
 
 Hugo hat eine **Spende in Höhe von 900.000 Euro gewonnen**. Wie man eine Spende gewinnt, ohne sich zu bewerben, an einer Verlosung teilzunehmen oder die angebliche Stiftung überhaupt zu kennen, wird leider nicht erklärt. Dafür möchten die Absender erstaunlich schnell seinen vollständigen Namen, seine Anschrift, seine Telefonnummer und eine gut lesbare Ausweiskopie. Nach den Bankdaten folgt schließlich die Rechnung: **650 Euro vorab**, wahlweise per Überweisung oder Bitcoin. Großzügigkeit kann so neugierig sein. 💸
@@ -361,6 +361,20 @@ Hugo nennt den gewünschten Termin, kann wegen wichtiger Vereinsverpflichtungen 
 
 Nun darf der angebliche Finanzexperte entscheiden, ob seine geduldige Bank auch Ratenzahlung akzeptiert. An den Scammer fließt selbstverständlich weder am 2. November noch später auch nur ein Euro.
 
+## Aus 650 Euro werden plötzlich 400 Euro
+
+Clifford Southgate kommt Hugo prompt entgegen. Von den ursprünglich geforderten 650 Euro bleiben nun **400 Euro** übrig – die passenden Bankdaten soll es am Montagmorgen geben:
+
+> Hallo
+>
+> Wir möchten Sie darüber informieren, dass der Betrag, den wir von Ihnen entgegennehmen können, 400 € beträgt. Die Bankverbindung für die Überweisung dieser 400 € erhalten Sie am Montagmorgen. Sobald die Zahlung bei uns eingegangen ist, werden die weiteren Schritte zur Übertragung Ihrer Spendengelder auf Ihr Konto in die Wege geleitet.
+
+Eine nachvollziehbare Erklärung für den Preisnachlass gibt es nicht. Offenbar sind die angeblich zwingend erforderlichen Dokumente und Bankverfahren doch erstaunlich flexibel, sobald zumindest ein Teil der Vorkasse erreichbar scheint. Hugo hält die Aussicht auf nächste Woche offen:
+
+> ok, puh wird schwierig, aber sollte klappen. aber wie gesagt, erst nächste woche, wenn die kohle da ist.
+
+Natürlich wird auch dieser Betrag nicht überwiesen. Interessant ist nun lediglich, auf welches Konto die 400 Euro fließen sollen.
+
 ## Dieselbe Kanzlei, fast derselbe Text
 
 Die Kulisse ist bei Acapio bereits aktenkundig. Im Januar 2025 sollte im Fall der angeblichen [Anthony Cathedral Charities](/posts/2025-01-29-anthonycharities/) ein „Barr. George Southgate“ von **Shepherd Light & Co Solicitors** eine Millionenspende abwickeln. Schon damals tauchten dieselbe Erklärung einer zwischengeschalteten Bank, eine Anspruchsbescheinigung, das „Facebook International Lottery Consortium“ und eine Referenz nach dem Muster `FPC/HBW/.../EU` auf.
@@ -381,6 +395,6 @@ Eine echte Website beweist nicht, dass eine Nachricht tatsächlich von deren Bet
 
 Der bisherige Ablauf liefert keinen Nachweis für eine Spende, dafür aber einen bemerkenswert direkten Versuch, Hugos persönliche Daten samt Ausweiskopie einzusammeln. Die verlinkte Website gehört zu einer anderen Organisation, die Namen der angeblichen Mitarbeiter lassen sich dort nicht wiederfinden und die tatsächliche Maildomain wurde erst am 10. Oktober 2026 registriert.
 
-Der Fall ist damit noch nicht abgeschlossen. Hugo bleibt im Gespräch, ohne echte Daten, echte Dokumente, Bankverbindungen oder Geld zu übermitteln. Die angebliche Stiftung hat den Fantasieausweis und die erfundenen Kontodaten akzeptiert. Nun fordert ihr angeblicher Anwalt 650 Euro im Voraus, bietet neben einer Banküberweisung auch Bitcoin an und möchte nach Hugos Bitte um Aufschub ein genaues Zahlungsdatum wissen.
+Der Fall ist damit noch nicht abgeschlossen. Hugo bleibt im Gespräch, ohne echte Daten, echte Dokumente, Bankverbindungen oder Geld zu übermitteln. Die angebliche Stiftung hat den Fantasieausweis und die erfundenen Kontodaten akzeptiert. Ihr angeblicher Anwalt forderte zunächst 650 Euro im Voraus, bot neben einer Banküberweisung auch Bitcoin an und senkte die Forderung nach Hugos Teilzahlungsangebot kurzerhand auf 400 Euro.
 
 Damit ist die Masche vollständig sichtbar: erst die riesige Spende, dann die Datensammlung, schließlich die vergleichsweise kleine Gebühr vor der angeblichen Auszahlung. Wer eine solche Nachricht erhält, sollte weder zahlen noch weitere Daten senden. Die angebliche Bank wartet derweil geduldig auf Hugos Gehalt – und Clifford auf Geld, das nie kommen wird. 🍿

@@ -241,6 +241,14 @@ Die Begründung klingt nach Komfort: kurze Updates, direkter Kontakt und Gesprä
 
 WhatsApp ist deshalb nicht automatisch ein Warnzeichen und die Nummer beweist nicht, wer tatsächlich hinter dem Kontakt steckt. In diesem Fall ist der Kanalwechsel jedoch Teil einer bereits klar erkennbaren Masche: Die angeblichen 3,7 Millionen sind weiterhin unbelegt, Hugos sachliche Fragen bleiben offen und statt einer Rechnung oder eines Nachweises wird nun ein schnellerer, persönlicherer Kommunikationsweg verlangt. Der Messenger macht die Geschichte nicht seriöser, nur das Drängeln bequemer. 📱🚩
 
+## Der erste Kontakt über WhatsApp
+
+Hugo hat den gewünschten Kanalwechsel inzwischen mitgemacht. Nach etwas Smalltalk greift der Kontakt den vorgeschlagenen Ratenplan auf: Wenn man 100 Euro akzeptiere und anschließend die Spende überweise, wolle man wissen, ob Hugo den Restbetrag wirklich nachzahlen werde. Konkrete Zahlungsdaten, eine Rechnung oder einen Beleg für die angeblichen 3,7 Millionen gibt es weiterhin nicht.
+
+![WhatsApp-Verlauf mit dem angeblichen Schaeffler-Kontakt: Nach kurzem Smalltalk wird Hugo gefragt, ob er nach der angeblichen Auszahlung auch die restlichen 100 Euro zahlen werde](/posts/2026-10-18-maria-schaeffler-200-euro/whatsapp_1.webp)
+
+Bislang bleibt es damit bei einer vorsichtigen Annäherung an die erste Rate. Hugo hat erklärt, gerade knapp bei Kasse zu sein. Wie und wohin die 100 Euro gezahlt werden sollen, ist noch offen. Wir bleiben dran und ergänzen den Verlauf, sobald es etwas Neues gibt. 📱
+
 ## Warum ausgerechnet 200 Euro?
 
 Die Forderung wirkt im Vergleich zum versprochenen Betrag erstaunlich niedrig. Genau das macht sie gefährlich: 200 Euro entsprechen nur rund **0,005 Prozent** der angeblichen 3,7 Millionen. Wer die große Zahl bereits vor Augen hat, kann die kleine Zahlung leichter als vernünftige letzte Formalität wahrnehmen.
