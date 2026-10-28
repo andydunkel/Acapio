@@ -1,0 +1,4 @@
+Contact: mailto:andy.dunkel@ekiwi.de
+Expires: 2027-09-27T23:59:59Z
+Preferred-Languages: de, en
+Canonical: https://acapio.de/.well-known/security.txt

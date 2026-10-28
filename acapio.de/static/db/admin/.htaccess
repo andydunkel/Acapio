@@ -1,0 +1,5 @@
+AuthUserFile /www/htdocs/w019af5f/acapio.de/db/admin/.htpasswd
+AuthGroupFile /dev/null
+AuthName 'ScamDB Admin'
+AuthType Basic
+require valid-user

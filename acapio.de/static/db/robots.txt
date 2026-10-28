@@ -1,0 +1,13 @@
+User-agent: *
+Allow: /
+
+# Hauptseite Sitemap (Hugo)
+Sitemap: https://acapio.de/sitemap.xml
+
+# Scam Database Sitemap
+Sitemap: https://acapio.de/db/sitemap.xml
+
+# Nicht crawlen
+Disallow: /db/admin/
+Disallow: /db/config/
+Disallow: /db/includes/
