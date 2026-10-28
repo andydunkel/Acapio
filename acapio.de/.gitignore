@@ -34,8 +34,5 @@ yarn.lock
 /uploads/
 /private/
 
-# Local deployment settings
-/deploy.local.psd1
-
 # Optional: Exclude specific content
 /content/drafts/
