@@ -373,6 +373,12 @@ Eine nachvollziehbare Erklärung für den Preisnachlass gibt es nicht. Offenbar 
 
 > ok, puh wird schwierig, aber sollte klappen. aber wie gesagt, erst nächste woche, wenn die kohle da ist.
 
+Die Antwort fällt denkbar knapp aus:
+
+> Ja, das ist in Ordnung. Die Bankdaten für die Zahlung erhalten Sie am Montagmorgen.
+
+Damit bestätigt Southgate erneut, dass es nur noch um Hugos Zahlung geht. Welche Bank angeblich beteiligt ist und wohin die 400 Euro fließen sollen, verrät er weiterhin nicht – Bankdaten gibt es offenbar erst nach Fahrplan. 🏦
+
 Natürlich wird auch dieser Betrag nicht überwiesen. Interessant ist nun lediglich, auf welches Konto die 400 Euro fließen sollen.
 
 ## Dieselbe Kanzlei, fast derselbe Text
