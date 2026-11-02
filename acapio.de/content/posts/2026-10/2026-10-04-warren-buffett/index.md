@@ -518,16 +518,41 @@ Damit ist der entscheidende Punkt ausgesprochen: **Warren Buffett verschenkt nic
 
 ## Die letzte Rechtfertigung per WhatsApp
 
-Auf unsere deutliche E-Mail kam keine weitere Antwort. Über WhatsApp versuchte der Kontakt allerdings noch einmal, die Geschichte zu retten:
+Zunächst kam auf unsere deutliche E-Mail keine weitere Antwort. Über WhatsApp versuchte der Kontakt allerdings noch einmal, die Geschichte zu retten:
 
 ![WhatsApp-Nachricht des Kontakts: Er bestreitet den Betrugsversuch und behauptet, die geforderten 550 Euro seien erstattungsfähig](/posts/2026-10-04-warren-buffett/whatsapp_ende.webp)
 
 > Ich habe dich zu nichts gedrängt, und es handelt sich hierbei nicht um Betrug. Ich verlange keine Zahlung von dir, da die 550 Euro zudem erstattungsfähig sind. Es liegt nun ganz bei dir!
 
-Das ist eine beachtliche Schlussnummer: Angeblich werde keine Zahlung verlangt – direkt gefolgt von der Rechtfertigung für genau jene **550 Euro**, die Hugo überweisen sollte. Ob die Gebühr angeblich später erstattet wird, ändert nichts daran, dass zunächst echtes Geld auf Privatkonten fließen sollte. Einen Vertrag, eine Rechnung oder einen belastbaren Nachweis für die versprochenen Millionen gab es weiterhin nicht. Danach verstummte der Kontakt.
+Das ist eine beachtliche Schlussnummer: Angeblich werde keine Zahlung verlangt – direkt gefolgt von der Rechtfertigung für genau jene **550 Euro**, die Hugo überweisen sollte. Ob die Gebühr angeblich später erstattet wird, ändert nichts daran, dass zunächst echtes Geld auf Privatkonten fließen sollte. Einen Vertrag, eine Rechnung oder einen belastbaren Nachweis für die versprochenen Millionen gab es weiterhin nicht.
+
+## Charlie Munger ist nicht überzeugt
+
+Doch dabei blieb es nicht. Weil Raymond Hugos Zweifel offenbar noch nicht deutlich genug fand, bekam er zusätzlich ein Bild von **Charlie Munger** mit der knappen Botschaft: „Charlie does not agree!“ Munger war nicht etwa Hugos Bankberater, sondern Warren Buffetts langjähriger Geschäftspartner – Buffett selbst bezeichnete ihn als seinen Partner und stellvertretenden Vorsitzenden von Berkshire Hathaway ([Berkshire Hathaway](https://www.berkshirehathaway.com/2001ar/ownersmanual.html)).
+
+![E-Mail von Hugo an Raymond David mit einem Bild von Charlie Munger und dem Satz „Charlie does not agree!“](/posts/2026-10-04-warren-buffett/charlie.webp)
+
+Raymond erkannte ihn trotzdem nicht. Stattdessen erklärte er „Herrn Charlie“ kurzerhand zum mutmaßlichen Bankberater, der Hugo pflichtgemäß von der Millionenspende abhalten wolle. Die angebliche Vertretung der Warren-Buffett-Stiftung kennt also nicht einmal Buffetts bekanntesten Geschäftspartner – dafür kennt sie erstaunlich genau die vermeintlichen Motive von Hugos Bankberater. 🧐
+
+{{< accordion title="Vollständige neue Nachricht von Raymond David anzeigen" >}}
+> Hallo Hugo,
+>
+> ich habe deine Antwort erhalten. Du solltest jedoch bedenken – auch im Hinblick auf Herrn Charlie, der, wie ich annehme, dein Bankberater ist –, dass du durchaus in der Lage sein solltest, eigenständig Entscheidungen zu treffen. Überlege dir, welche guten Dinge du bewirken kannst, sobald diese Spendengelder auf deinem Konto eingegangen sind und die gesamte Abwicklung durch die Überweisungsabteilung abgeschlossen ist.
+>
+> Alles geschieht aus einem bestimmten Grund; dass du meine Nachricht erhalten hast, ist ein deutliches Zeichen von Gott selbst. Lass dir diese großartige Gelegenheit nicht entgehen, nur weil dir der nötige Mut fehlt. Wie ich bereits erwähnte, vertrete ich die Warren-Buffett-Stiftung, die weltweit Spenden an Einzelpersonen vergibt. Es gibt also keinen Grund zur Sorge – sei stattdessen dankbar, denn du wirst von diesen Spendengeldern erheblich profitieren.
+>
+> Mein Freund, du musst Herrn Charlie nicht über jedes Detail informieren. Es gehört zu seiner Aufgabe, dich davon abzuhalten, diese Spende anzunehmen. Beweise ihm das Gegenteil, indem du die Gebühr begleichst und die erforderlichen Unterlagen einreichst – so kannst du die Spende schnellstmöglich erhalten. Es gibt zahlreiche Möglichkeiten, Gelder zu überweisen. Du kannst darauf vertrauen, dass alles, was ich sage, der Wahrheit entspricht. Ich rate dir dringend, dieser Sache eine Chance zu geben; du wirst sehen, wie positiv sich alles entwickelt, und froh darüber sein, dass du nicht aufgegeben hast.
+>
+> Herzliche Grüße,
+> Raymond David.
+{{< /accordion >}}
+
+Die Antwort enthält gleich mehrere typische Manipulationsversuche. Raymond erklärt die zufällige Spam-Nachricht zum **„Zeichen von Gott“**, stellt berechtigte Vorsicht als fehlenden Mut dar und redet Hugo ein, nur er selbst stehe zwischen sich und guten Taten. Vor allem soll Hugo eine kritische Vertrauensperson nicht mehr informieren. Diese Aufforderung zur Geheimhaltung ist ein massives Warnzeichen: Wer von einer Zahlung abrät, wird zum Gegner erklärt, damit das Opfer mit dem angeblichen Wohltäter allein bleibt.
+
+Und plötzlich ist auch wieder ganz offen von der **Gebühr** die Rede. Hugo solle sie begleichen und Unterlagen einreichen, obwohl Raymond kurz zuvor noch behauptet hatte, er verlange keine Zahlung. Die Widersprüche werden nicht kleiner – nur der Druck wird größer. Aus „Es liegt nun ganz bei dir“ wird innerhalb der nächsten Nachricht ein dringender Appell, niemanden einzuweihen und endlich zu bezahlen.
 
 ## Fazit
 
-Der Fall zeigt einen klassischen Vorschussbetrug: Eine frei erfundene Millionenspende schafft Hoffnung, persönliche Daten sollen Vertrauen und Bindung erzeugen, und am Ende wird eine angeblich notwendige Gebühr verlangt. Wechselnde Gmail-Adressen, widersprüchliche Referenznummern, Zeitdruck und Zahlungen auf Privatkonten sind dabei unübersehbare Warnzeichen.
+Der Fall zeigt einen klassischen Vorschussbetrug: Eine frei erfundene Millionenspende schafft Hoffnung, persönliche Daten sollen Vertrauen und Bindung erzeugen, und am Ende wird eine angeblich notwendige Gebühr verlangt. Wechselnde Gmail-Adressen, widersprüchliche Referenznummern, Zeitdruck, Zahlungen auf Privatkonten und die Aufforderung, kritische Vertrauenspersonen nicht mehr zu informieren, sind dabei unübersehbare Warnzeichen.
 
-Wer eine solche Nachricht erhält, sollte **nichts zahlen, keine persönlichen Dokumente versenden und den Kontakt abbrechen**. Nachrichten und Kontodaten sollten als Belege gesichert, das Empfängerkonto der betroffenen Bank gemeldet und der Kontakt anschließend blockiert werden. Von den 2,5 Millionen blieb in diesem Fall nur eine Forderung über 550 Euro – und selbst deren Begründung hielt nicht bis zum letzten WhatsApp-Absatz durch. 🚩
+Wer eine solche Nachricht erhält, sollte **nichts zahlen, keine persönlichen Dokumente versenden und den Kontakt abbrechen**. Nachrichten und Kontodaten sollten als Belege gesichert, das Empfängerkonto der betroffenen Bank gemeldet und der Kontakt anschließend blockiert werden. Wer unsicher ist, sollte gerade mit einer vertrauten Person oder der eigenen Bank sprechen – besonders dann, wenn der angebliche Geldgeber genau das verhindern will. Von den 2,5 Millionen blieb in diesem Fall nur eine Forderung über 550 Euro und der bemerkenswerte Versuch, Charlie Munger zum Bankberater zu befördern. 🚩
