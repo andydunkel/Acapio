@@ -15,10 +15,10 @@ categories:
   - "Scam"
 thumbnail: "money.webp"
 url: "posts/2026-10-20-ironwood-spende"
-summary: "Eine angebliche Ironwood-Stiftung verspricht Hugo 900.000 Euro, sammelt persönliche Daten und fordert 650 Euro für Vollmacht und Freigabe – später sinkt die Vorkasse plötzlich auf 400 Euro."
+summary: "Eine angebliche Ironwood-Stiftung verspricht Hugo 900.000 Euro, sammelt persönliche Daten und fordert erst 650, später 400 Euro Vorkasse. Schließlich nennt der angebliche Anwalt das Konto einer Privatperson."
 ---
 
-Hugo hat eine **Spende in Höhe von 900.000 Euro gewonnen**. Wie man eine Spende gewinnt, ohne sich zu bewerben, an einer Verlosung teilzunehmen oder die angebliche Stiftung überhaupt zu kennen, wird leider nicht erklärt. Dafür möchten die Absender erstaunlich schnell seinen vollständigen Namen, seine Anschrift, seine Telefonnummer und eine gut lesbare Ausweiskopie. Nach den Bankdaten folgt schließlich die Rechnung: **650 Euro vorab**, wahlweise per Überweisung oder Bitcoin. Großzügigkeit kann so neugierig sein. 💸
+Hugo hat eine **Spende in Höhe von 900.000 Euro gewonnen**. Wie man eine Spende gewinnt, ohne sich zu bewerben, an einer Verlosung teilzunehmen oder die angebliche Stiftung überhaupt zu kennen, wird leider nicht erklärt. Dafür möchten die Absender erstaunlich schnell seinen vollständigen Namen, seine Anschrift, seine Telefonnummer und eine gut lesbare Ausweiskopie. Nach den Bankdaten folgt schließlich die Rechnung: erst **650 Euro vorab**, dann 400 Euro auf das Konto einer Privatperson. Großzügigkeit kann so neugierig sein. 💸
 
 Als Beleg verweist die Nachricht auf die Website von **Ironwood Family Wealth Advisors**. Das Problem: Diese Website gehört zu einer US-amerikanischen Vermögensberatung und nicht zu der in den E-Mails genannten „Ironwood Family Trust Foundation“. Auch die E-Mail kommt von einer ganz anderen, erst wenige Tage alten Domain.
 
@@ -381,6 +381,41 @@ Damit bestätigt Southgate erneut, dass es nur noch um Hugos Zahlung geht. Welch
 
 Natürlich wird auch dieser Betrag nicht überwiesen. Interessant ist nun lediglich, auf welches Konto die 400 Euro fließen sollen.
 
+## Montagmorgen: 400 Euro an eine Privatperson
+
+Am Montag liefert der angebliche Rechtsberater wie angekündigt die Zahlungsdaten. Hugo soll die 400 Euro an ein deutsches Konto überweisen und anschließend eine Kopie der Zahlungsbestätigung schicken:
+
+> Guten Tag,
+>
+> Nachfolgend finden Sie die Bankverbindung für die angeforderte Überweisung in Höhe von 400 €. Bitte führen Sie die Überweisung durch und lassen Sie uns eine Kopie der Zahlungsbestätigung für unsere Unterlagen zukommen.
+>
+> Bankverbindung:
+>
+> Kontoinhaber: Günter S. [Nachname gekürzt]\
+> Bank: Targo Bank\
+> IBAN: DE26 … 5043\
+> SWIFT-Code: CMC…XXX\
+> Land: Deutschland
+>
+> Sobald der Zahlungseingang bei uns verbucht ist, wird die Bearbeitung Ihrer Spende (900.000,00 €) umgehend eingeleitet; die Überweisung erfolgt dann innerhalb von 24 Stunden. Bitte senden Sie uns nach erfolgter Zahlung den entsprechenden Beleg zu. Wir erwarten Ihren Zahlungseingang.
+>
+> Mit freundlichen Grüßen,\
+> Shepherd Light & Co. Solicitors\
+> Barr. Clifford Southgate\
+> Rechtsberater & Finanzexperte
+
+Damit ist erstmals ein konkretes Empfängerkonto genannt. Es läuft laut Nachricht jedoch nicht auf „Shepherd Light & Co Solicitors“, eine Stiftung oder eine Bank, sondern auf eine **Privatperson**. Warum ein angeblicher Rechtsberater Gebühren für eine internationale Spende an diesen Empfänger überweisen lässt, erklärt Southgate nicht. Auch eine Rechnung, ein Aktenzeichen zum Zahlungsvorgang oder ein Beleg für die behauptete Forderung fehlt weiterhin.
+
+Die Bitte um eine Kopie der Zahlungsbestätigung hat einen praktischen Zweck: Der Absender kann damit prüfen, ob Hugo tatsächlich gezahlt hat, und erhält zugleich einen Beleg mit möglichen weiteren Kontodaten. Solche Bestätigungen sollte man mutmaßlichen Betrügern nicht schicken.
+
+### Hugo hat „überwiesen“ – allerdings nur im Screenshot
+
+Hugo meldet die angebliche Zahlung und schickt einen entsprechend präparierten Screenshot. **Eine echte Überweisung hat nicht stattgefunden.** Empfängername und Bankverbindung sind im Bild gekürzt beziehungsweise unkenntlich gemacht.
+
+![Hugos Nachricht an Clifford mit dem präparierten Screenshot einer angeblichen Überweisung über 400 Euro; Empfängername und Bankdaten sind unkenntlich gemacht](/posts/2026-10-20-ironwood-spende/transaktion.webp)
+
+Nun darf sich die angebliche Kanzlei kurz über den vermeintlichen Zahlungseingang freuen. Da auf dem genannten Konto kein Geld ankommen wird, dürfte die nächste Nachricht nicht lange auf sich warten lassen. Die versprochenen 900.000 Euro brauchen angeblich nur 24 Stunden – das Ausbleiben von 400 Euro wird erfahrungsgemäß deutlich aufmerksamer verfolgt. 💸
+
 ## Dieselbe Kanzlei, fast derselbe Text
 
 Die Kulisse ist bei Acapio bereits aktenkundig. Im Januar 2025 sollte im Fall der angeblichen [Anthony Cathedral Charities](/posts/2025-01-29-anthonycharities/) ein „Barr. George Southgate“ von **Shepherd Light & Co Solicitors** eine Millionenspende abwickeln. Schon damals tauchten dieselbe Erklärung einer zwischengeschalteten Bank, eine Anspruchsbescheinigung, das „Facebook International Lottery Consortium“ und eine Referenz nach dem Muster `FPC/HBW/.../EU` auf.
@@ -397,10 +432,10 @@ Keine persönlichen Daten, Ausweiskopien, Bankdaten oder Gebühren übermitteln.
 
 Eine echte Website beweist nicht, dass eine Nachricht tatsächlich von deren Betreiber stammt.
 
-## Fazit: Von 900.000 Euro bleiben 650 Euro Vorkasse
+## Fazit: Die 900.000 Euro führen zum Privatkonto
 
 Der bisherige Ablauf liefert keinen Nachweis für eine Spende, dafür aber einen bemerkenswert direkten Versuch, Hugos persönliche Daten samt Ausweiskopie einzusammeln. Die verlinkte Website gehört zu einer anderen Organisation, die Namen der angeblichen Mitarbeiter lassen sich dort nicht wiederfinden und die tatsächliche Maildomain wurde erst am 10. Oktober 2026 registriert.
 
-Der Fall ist damit noch nicht abgeschlossen. Hugo bleibt im Gespräch, ohne echte Daten, echte Dokumente, Bankverbindungen oder Geld zu übermitteln. Die angebliche Stiftung hat den Fantasieausweis und die erfundenen Kontodaten akzeptiert. Ihr angeblicher Anwalt forderte zunächst 650 Euro im Voraus, bot neben einer Banküberweisung auch Bitcoin an und senkte die Forderung nach Hugos Teilzahlungsangebot kurzerhand auf 400 Euro.
+Der Fall ist damit noch nicht abgeschlossen. Hugo bleibt im Gespräch, ohne echte Daten, echte Dokumente, Bankverbindungen oder Geld zu übermitteln. Die angebliche Stiftung hat den Fantasieausweis und die erfundenen Kontodaten akzeptiert. Ihr angeblicher Anwalt forderte zunächst 650 Euro im Voraus, bot neben einer Banküberweisung auch Bitcoin an und senkte die Forderung nach Hugos Teilzahlungsangebot kurzerhand auf 400 Euro. Diese 400 Euro sollen schließlich auf das Konto einer Privatperson fließen; einen nachvollziehbaren Zusammenhang mit der behaupteten Kanzlei gibt es nicht.
 
-Damit ist die Masche vollständig sichtbar: erst die riesige Spende, dann die Datensammlung, schließlich die vergleichsweise kleine Gebühr vor der angeblichen Auszahlung. Wer eine solche Nachricht erhält, sollte weder zahlen noch weitere Daten senden. Die angebliche Bank wartet derweil geduldig auf Hugos Gehalt – und Clifford auf Geld, das nie kommen wird. 🍿
+Damit ist die Masche vollständig sichtbar: erst die riesige Spende, dann die Datensammlung, schließlich die vergleichsweise kleine Gebühr vor der angeblichen Auszahlung. Wer eine solche Nachricht erhält, sollte weder zahlen noch weitere Daten oder Zahlungsbelege senden. Clifford hat zwar einen Screenshot bekommen – auf Geld wird er trotzdem vergeblich warten. 🍿
