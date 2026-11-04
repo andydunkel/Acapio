@@ -163,7 +163,25 @@ Hugo zeigt sich von den Fotos und der Aussicht auf zwei Millionen Euro angemesse
 > Hugo\
 > Dackelclub Wanne-Eickel
 
-Die Fragen zielen auf die entscheidenden Punkte: Wer soll die angebliche Auszahlung tatsächlich abwickeln, welche Daten will der Absender noch haben und soll Hugo vorab etwas bezahlen? Eine Antwort darauf liegt bislang nicht vor. Für Leserinnen und Leser gilt weiterhin: Bitte nicht selbst auf vergleichbare Nachrichten reagieren. Hugo nutzt eine Tarnfigur und übermittelt weder echte persönliche Daten noch Dokumente oder Geld.
+Die Fragen zielen auf die entscheidenden Punkte: Wer soll die angebliche Auszahlung tatsächlich abwickeln, welche Daten will der Absender noch haben und soll Hugo vorab etwas bezahlen? Die neue Antwort wiederholt lediglich die Datenanforderung; die Fragen nach Kosten und dem genauen Ablauf bleiben offen. Für Leserinnen und Leser gilt weiterhin: Bitte nicht selbst auf vergleichbare Nachrichten reagieren. Hugo nutzt eine Tarnfigur und übermittelt weder echte persönliche Daten noch Dokumente oder Geld.
+
+## Update vom 4. November: Fünf Angaben, keine Antworten
+
+Hugo fragt um **18:21 Uhr** noch einmal knapp nach:
+
+> Alles klar, welche Infos braucht ihr?
+
+Bereits um **18:23 Uhr** kommt unter dem verwendeten Namen **Friedrich Mayrhofer** die Antwort. Sie besteht ausschließlich aus der bereits bekannten Liste:
+
+> 1) Ihren vollständigen Namen,
+> 2) Ihre Mobilfunknummer,
+> 3) Ihre Kontaktadresse,
+> 4) Ihr Alter,
+> 5) Ihr Geschlecht.
+
+Zwei Minuten Antwortzeit, aber weiterhin keine Erklärung zur angeblichen Bank oder zu möglichen Kosten. Die Datensammlung funktioniert offenbar schneller als die Auskunftsabteilung. Die Liste wiederholt genau die fünf Angaben aus der ausführlichen Nachricht – einen neuen Beleg für die Spende liefert sie nicht.
+
+Als Nächstes schicken wir die üblichen **frei erfundenen Angaben unserer Tarnfigur Hugo** zurück und schauen, wie der Absender darauf reagiert. Echte persönliche Daten oder Kontaktdaten unbeteiligter Personen werden dabei nicht verwendet. Ob anschließend die angebliche Bank auftritt, weitere Daten verlangt werden oder eine Gebührenforderung folgt, ist noch offen. Wir dokumentieren die Fortsetzung, sobald eine Antwort vorliegt.
 
 ## Die Warnzeichen
 

@@ -14,7 +14,7 @@ categories:
   - "Scam"
 thumbnail: "moneyfox.webp"
 url: "posts/2026-10-18-maria-schaeffler-200-euro"
-summary: "Eine angebliche Maria-Elisabeth Schaeffler verspricht 3,7 Millionen Euro. Vor der Auszahlung soll Hugo jedoch 200 Euro für eine erfundene Freigabebescheinigung zahlen."
+summary: "Eine angebliche Maria-Elisabeth Schaeffler verspricht 3,7 Millionen Euro gegen 200 Euro Vorkasse. Auf WhatsApp genügen zunächst 100 Euro: Hugo erhält italienische Kontodaten und soll einen Zahlungsnachweis sowie seine Bankverbindung schicken."
 ---
 
 Eine angebliche **Maria-Elisabeth Schaeffler** möchte Hugo 3,7 Millionen Euro schenken. Das Geld sei längst für ihn vorgesehen, nur leider noch nicht abgerufen worden. Nach ein paar kurzen Antworten erscheint dann die letzte winzige Hürde vor dem Reichtum: **200 Euro für eine angebliche „Spenden Freigabebescheinigung“**. 💸
@@ -247,7 +247,33 @@ Hugo hat den gewünschten Kanalwechsel inzwischen mitgemacht. Nach etwas Smallta
 
 ![WhatsApp-Verlauf mit dem angeblichen Schaeffler-Kontakt: Nach kurzem Smalltalk wird Hugo gefragt, ob er nach der angeblichen Auszahlung auch die restlichen 100 Euro zahlen werde](/posts/2026-10-18-maria-schaeffler-200-euro/whatsapp_1.webp)
 
-Bislang bleibt es damit bei einer vorsichtigen Annäherung an die erste Rate. Hugo hat erklärt, gerade knapp bei Kasse zu sein. Wie und wohin die 100 Euro gezahlt werden sollen, ist noch offen. Wir bleiben dran und ergänzen den Verlauf, sobald es etwas Neues gibt. 📱
+Zunächst bleibt es bei einer vorsichtigen Annäherung an die erste Rate. Hugo hat erklärt, gerade knapp bei Kasse zu sein. Im nächsten WhatsApp-Ausschnitt folgen dann tatsächlich die Zahlungsdaten.
+
+## Update vom 4. November: 100 Euro reichen fürs Erste
+
+Inzwischen akzeptiert der Kontakt **zunächst 100 Euro** und nennt ein Konto für die Überweisung. Ganz abgeschrieben sind die übrigen 100 Euro allerdings nicht. Im neuen WhatsApp-Verlauf heißt es:
+
+> Ich befürchte lediglich Folgendes: Wenn wir jetzt die 100 Euro von Ihnen annehmen, gehen wir davon aus, dass Sie den Restbetrag umgehend überweisen.
+
+Direkt danach wird aus der förmlichen Millionenverwaltung ein persönlicher Vertrauensappell:
+
+> Und ich hoffe, dass ich dir diesbezüglich jetzt zu 100 % vertrauen kann – dass du uns also nicht enttäuschen wirst.
+
+Die angebliche Spenderin hat weiterhin keine Rechnung oder überprüfbaren Nachweise geliefert, möchte aber vorsorglich nicht enttäuscht werden. Die Vertrauensprüfung läuft hier offenbar ausschließlich in Hugos Richtung. 🙃
+
+![Redigierter WhatsApp-Verlauf: Der angebliche Schaeffler-Kontakt akzeptiert zunächst 100 Euro, erwartet den Restbetrag und nennt ein italienisches Konto; anschließend werden Zahlungsnachweis und Hugos Bankverbindung verlangt](/posts/2026-10-18-maria-schaeffler-200-euro/whatsapp_2.webp)
+
+### Jetzt gibt es Kontodaten statt Antworten
+
+Die Nachricht nennt **BPER BANCA S.P.A.**, eine italienische IBAN, den Verwendungszweck **„Gebühren“** und den Betrag **„100 Euro“**. Als Kontoname wird ein Personenname angegeben. Kontoname, IBAN und BIC sind im eingebundenen Screenshot teilweise unkenntlich gemacht; wir geben sie hier nicht vollständig wieder. Aus den Zahlungsangaben lässt sich weder ableiten, wer den Kontakt tatsächlich betreibt, noch ob die genannte Person wissentlich beteiligt ist.
+
+Anschließend folgt die konkrete Anweisung:
+
+> Bitte überweisen Sie die 100 Euro auf die oben genannte Bankverbindung. Sobald dies erledigt ist, senden Sie mir bitte den Zahlungsnachweis sowie die Bankverbindung, auf die Ihre Spende überwiesen werden soll. Wir werden dann umgehend die notwendigen Schritte einleiten, um Ihre Spende auf Ihr Bankkonto zu überweisen. Vielen Dank für Ihr Vertrauen und Ihre Mitwirkung; ich erwarte Ihre baldige Rückmeldung.
+
+Damit sind Zahlungsweg und erste Rate nun dokumentiert: **100 Euro per Überweisung**, danach sollen ein Zahlungsnachweis und Hugos Bankverbindung folgen. Einen Beleg für die angeblichen 3,7 Millionen gibt es weiterhin nicht. Auch die Frage, warum die Gebühr nicht einfach von der Spende abgezogen werden kann, bleibt unbeantwortet.
+
+Aus den ursprünglich geforderten 200 Euro werden also zunächst 100 Euro Vorkasse, keine nachgewiesene Senkung der Gesamtforderung. Die Hoffnung auf Millionen soll schon die kleinere Überweisung lohnend erscheinen lassen. Hugo überweist selbstverständlich auch diese 100 Euro nicht und gibt keine echten Bankdaten heraus.
 
 ## Warum ausgerechnet 200 Euro?
 
@@ -280,7 +306,7 @@ Auch [Warren Buffett wurde erst kürzlich als vermeintlicher Millionenspender mi
 * **Missbrauch eines bekannten Namens:** Die reale Unternehmerin wird als Vertrauensanker eingesetzt, ohne dass die Nachricht von ihr stammt.
 * **Unpassende Mailadressen:** Absender, Antwortadresse und behauptetes Unternehmen verwenden drei unterschiedliche Domains.
 * **Erfundene Vorgeschichte:** Eine jahrelange Abwesenheit und frühere Verluste werden behauptet, aber nicht belegt.
-* **Gebühr vor Auszahlung:** Vor den angeblichen Millionen sollen 200 echte Euro fließen.
+* **Gebühr vor Auszahlung:** Erst werden 200 Euro verlangt, später genügen zunächst 100 Euro auf ein italienisches Konto. Der Restbetrag wird weiterhin erwartet.
 * **Fantasie-Dokument:** Für die „Spenden Freigabebescheinigung (SFZ)“ fehlen Aussteller, Rechtsgrundlage und nachvollziehbarer Zweck.
 * **Bankdaten verlangt:** Zusätzlich zur Zahlung soll Hugo seine Kontoverbindung preisgeben.
 * **Wechsel zu WhatsApp:** Statt offene Fragen zu beantworten, fordert die angebliche Spenderin eine umgehende Nachricht an **+49 15510 501881**.
@@ -288,16 +314,16 @@ Auch [Warren Buffett wurde erst kürzlich als vermeintlicher Millionenspender mi
 
 ## Was tun?
 
-Nicht antworten, keine Bankverbindung oder Ausweisdaten senden und die 200 Euro keinesfalls bezahlen. Der Absender sollte blockiert und die Nachricht als Spam beziehungsweise Betrugsversuch markiert werden. Wer unsicher ist, kontaktiert das genannte Unternehmen ausschließlich über Kontaktdaten, die selbst auf dessen offizieller Website aufgerufen wurden – niemals über Adressen aus der verdächtigen Mail.
+Nicht antworten, keine Bankverbindung oder Ausweisdaten senden und weder die geforderten 200 Euro noch eine erste Rate von 100 Euro bezahlen. Der Absender sollte blockiert und die Nachricht als Spam beziehungsweise Betrugsversuch markiert werden. Wer unsicher ist, kontaktiert das genannte Unternehmen ausschließlich über Kontaktdaten, die selbst auf dessen offizieller Website aufgerufen wurden – niemals über Adressen aus der verdächtigen Mail.
 
 Wer bereits gezahlt hat, sollte sofort die eigene Bank oder den verwendeten Zahlungsdienst kontaktieren und prüfen lassen, ob sich die Zahlung noch stoppen lässt. E-Mails, Header, Zahlungsbelege und weitere Nachrichten sollten als Beweise gesichert und der Polizei übergeben werden. Wurden Bankdaten mitgeteilt, sollte auch die Bank darüber informiert und das Konto besonders aufmerksam kontrolliert werden.
 
-Die Polizei rät bei falschen Geldversprechen grundsätzlich, [keine Gebühren für die Auszahlung eines vermeintlichen Gewinns zu zahlen](https://www.polizei-beratung.de/themen-und-tipps/betrug/gewinnversprechen/). Dass die Forderung hier „nur“ 200 Euro beträgt, macht sie nicht seriöser – lediglich leichter zu bezahlen.
+Die Polizei rät bei falschen Geldversprechen grundsätzlich, [keine Gebühren für die Auszahlung eines vermeintlichen Gewinns zu zahlen](https://www.polizei-beratung.de/themen-und-tipps/betrug/gewinnversprechen/). Dass inzwischen zunächst „nur“ 100 Euro genügen sollen, macht die Forderung nicht seriöser – lediglich leichter zu bezahlen.
 
 ## Fazit: Viele Versprechen, keine einzige Antwort
 
-Die angebliche Spenderin hatte Gelegenheit, Hugos einfache Fragen zu beantworten. Sie hätte eine Rechnung, den Aussteller der Bescheinigung oder eine nachvollziehbare Erklärung für die Vorauszahlung nennen können. Geliefert hat sie stattdessen Werbesprache über Nächstenliebe, Investitionen und lebenslange finanzielle Freiheit – und anschließend die Aufforderung, über WhatsApp weiterzuschreiben.
+Die angebliche Spenderin hatte Gelegenheit, Hugos einfache Fragen zu beantworten. Sie hätte eine Rechnung, den Aussteller der Bescheinigung oder eine nachvollziehbare Erklärung für die Vorauszahlung nennen können. Geliefert hat sie stattdessen Werbesprache über Nächstenliebe, Investitionen und lebenslange finanzielle Freiheit – und anschließend die Aufforderung, über WhatsApp weiterzuschreiben. Dort folgen nun ein italienisches Empfängerkonto und die Zahlungsanweisung für zunächst 100 Euro.
 
-Damit ist das Muster noch deutlicher: Die 3,7 Millionen bleiben unbelegt, die verlangten 200 Euro sind dagegen sehr real. Wer sie überweist, kauft keine finanzielle Freiheit – sondern finanziert den nächsten Versuch, noch mehr Geld zu verlangen.
+Damit ist das Muster noch deutlicher: Die 3,7 Millionen bleiben unbelegt, die verlangte Vorauszahlung ist dagegen sehr real – inzwischen sollen zunächst 100 Euro genügen, während der Rest weiterhin erwartet wird. Wer sie überweist, kauft keine finanzielle Freiheit – sondern finanziert den nächsten Versuch, noch mehr Geld zu verlangen.
 
 Hugo wird weder zahlen noch Bankdaten übermitteln. Denn wenn eine angebliche Millionenspende nur an 200 Euro scheitert, existiert sehr wahrscheinlich nicht die Spende, sondern lediglich die Rechnung.

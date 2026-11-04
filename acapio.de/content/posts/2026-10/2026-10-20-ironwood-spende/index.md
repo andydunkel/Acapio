@@ -15,7 +15,7 @@ categories:
   - "Scam"
 thumbnail: "money.webp"
 url: "posts/2026-10-20-ironwood-spende"
-summary: "Eine angebliche Ironwood-Stiftung verspricht Hugo 900.000 Euro, sammelt persönliche Daten und fordert erst 650, später 400 Euro Vorkasse. Schließlich nennt der angebliche Anwalt das Konto einer Privatperson."
+summary: "Eine angebliche Ironwood-Stiftung verspricht Hugo 900.000 Euro, sammelt persönliche Daten und fordert erst 650, später 400 Euro Vorkasse. Der angebliche Anwalt nennt ein Privatkonto und bestätigt den Erhalt von Hugos präpariertem Zahlungsbeleg – wartet aber weiter auf Geld."
 ---
 
 Hugo hat eine **Spende in Höhe von 900.000 Euro gewonnen**. Wie man eine Spende gewinnt, ohne sich zu bewerben, an einer Verlosung teilzunehmen oder die angebliche Stiftung überhaupt zu kennen, wird leider nicht erklärt. Dafür möchten die Absender erstaunlich schnell seinen vollständigen Namen, seine Anschrift, seine Telefonnummer und eine gut lesbare Ausweiskopie. Nach den Bankdaten folgt schließlich die Rechnung: erst **650 Euro vorab**, dann 400 Euro auf das Konto einer Privatperson. Großzügigkeit kann so neugierig sein. 💸
@@ -415,6 +415,30 @@ Hugo meldet die angebliche Zahlung und schickt einen entsprechend präparierten 
 ![Hugos Nachricht an Clifford mit dem präparierten Screenshot einer angeblichen Überweisung über 400 Euro; Empfängername und Bankdaten sind unkenntlich gemacht](/posts/2026-10-20-ironwood-spende/transaktion.webp)
 
 Nun darf sich die angebliche Kanzlei kurz über den vermeintlichen Zahlungseingang freuen. Da auf dem genannten Konto kein Geld ankommen wird, dürfte die nächste Nachricht nicht lange auf sich warten lassen. Die versprochenen 900.000 Euro brauchen angeblich nur 24 Stunden – das Ausbleiben von 400 Euro wird erfahrungsgemäß deutlich aufmerksamer verfolgt. 💸
+
+## Update vom 4. November: Der Beleg ist da, die 400 Euro nicht
+
+Am **3. November 2026 um 7:30 Uhr** meldet sich der angebliche Rechtsberater unter dem verwendeten Namen **Clifford Southgate** wieder. Hugos präparierter Screenshot wurde offenbar als Zahlungsbeleg angenommen:
+
+> Guten Tag,
+>
+> wir haben den Zahlungsbeleg erhalten. Sobald die Zahlung bestätigt ist, wird Ihre Spende von der überweisenden Bank auf Ihr Konto gutgeschrieben.
+
+In einer weiteren E-Mail heißt es dann:
+
+> die von Ihnen veranlasste Zahlung ist noch nicht auf unserem Bankkonto eingegangen. Sobald der Betrag auf unserem Bankkonto verbucht wurde, wird Ihre Spende Ihrem Konto gutgeschrieben.
+
+Der Screenshot ist also angekommen, die **400 Euro** fehlen weiterhin. Das ist hier keine Frage der Banklaufzeit: **Hugo hat keine echte Überweisung veranlasst.** Verschickt wurde lediglich der zuvor dokumentierte präparierte Screenshot. Die Behauptung des Absenders, Hugo habe eine Zahlung veranlasst, macht daraus keinen tatsächlichen Geldtransfer.
+
+Die beiden Nachrichten widersprechen sich dabei nicht: Einen Beleg zu erhalten und einen Zahlungseingang festzustellen, sind zwei verschiedene Dinge. Sie zeigen aber, worauf der angebliche Rechtsberater wartet: Erst sollen die 400 Euro eingehen, dann soll es die versprochenen 900.000 Euro geben. Die Wohltätigkeit bleibt hartnäckig vorkassepflichtig. 💸
+
+### Hugo fragt nach der Wartezeit
+
+Unsere nächste Rückfrage fällt knapp aus:
+
+> Wie lange dauert das?
+
+Zuvor hatte Southgate eine Überweisung der Spende **innerhalb von 24 Stunden nach Zahlungseingang** versprochen. Die neuen Mails nennen keine weitere Frist, sondern knüpfen die Auszahlung erneut an die Verbuchung des Geldes. Einen Nachweis für die Existenz der Spende liefern sie weiterhin nicht.
 
 ## Dieselbe Kanzlei, fast derselbe Text
 
