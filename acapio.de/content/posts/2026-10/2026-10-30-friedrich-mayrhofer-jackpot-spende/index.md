@@ -16,12 +16,12 @@ categories:
   - "Scam"
 thumbnail: "hugo_dackel.webp"
 url: "posts/2026-10-30-friedrich-mayrhofer-jackpot-spende"
-summary: "Ein angeblicher Friedrich Mayrhofer verspricht Hugo zwei Millionen Euro, verlangt persönliche Daten und nennt eine nicht belegte US-Privatbank. Als Vertrauensköder dienen echte Pressefotos von Lotto-Gewinnern."
+summary: "Ein angeblicher Friedrich Mayrhofer verspricht Hugo zwei Millionen Euro, verlangt persönliche Daten und schickt ihn zur Kontoeröffnung an eine nicht belegte Privatbank. Als Vertrauensköder dienen echte Pressefotos von Lotto-Gewinnern."
 ---
 
 Ein angeblicher **Friedrich Mayrhofer** will 50 Millionen Dollar gewonnen haben und davon zwei Millionen Euro an Hugo verschenken. Ohne Bewerbung, ohne nachvollziehbare Auswahl und ohne irgendeinen Grund – außer offenbar Hugos außergewöhnlichem Talent, eine E-Mail-Adresse zu besitzen. 💰
 
-Die Nachricht ist kein neuer Geistesblitz aus der internationalen Wohltätigkeitsabteilung. Die darin genannte Adresse `friedrichmayrhoffer.spende@gmail.com` wurde bereits 2022 zusammen mit einer fast identischen Jackpot-Geschichte dokumentiert. Inzwischen hat der Absender ausführlich geantwortet: Hugo soll seinen vollständigen Namen, seine Mobilnummer, Anschrift, sein Alter und sein Geschlecht übermitteln. Als Belege dienen ein echter Medienbericht und zwei angehängte Pressefotos. Beides beweist lediglich, dass es echte Lotto-Gewinner gibt – nicht, dass einer davon Hugo geschrieben hat.
+Die Nachricht ist kein neuer Geistesblitz aus der internationalen Wohltätigkeitsabteilung. Die darin genannte Adresse `friedrichmayrhoffer.spende@gmail.com` wurde bereits 2022 zusammen mit einer fast identischen Jackpot-Geschichte dokumentiert. Inzwischen hat der Absender mehrfach geantwortet: Hugo soll persönliche Daten übermitteln, eine angebliche Privatbank kontaktieren und dort ein „Online-Offshore-Konto“ eröffnen. Als Belege dienen ein echter Medienbericht und zwei angehängte Pressefotos. Beides beweist lediglich, dass es echte Lotto-Gewinner gibt – nicht, dass einer davon Hugo geschrieben hat.
 
 ## Die Nachricht: zwei Millionen für einen Fremden
 
@@ -135,7 +135,7 @@ Die Gesichter in der veröffentlichten Fassung haben wir deutlich verpixelt. Fü
 
 Als auszahlende Bank nennt die Mail eine **„FIRSTFIAT PRIVATE BANK USA“**. Eine Anschrift, offizielle Website, Banklizenz, Registrierungsnummer oder unabhängig recherchierbare Kontaktmöglichkeit fehlen vollständig. Auch ein belastbarer Nachweis, dass diese Bezeichnung zu einer tatsächlich zugelassenen US-Bank gehört, wird nicht geliefert.
 
-Der Name allein macht aus einem Textbaustein keine Bank. Sollte im weiteren Verlauf eine Kontaktadresse eintreffen, muss sie unabhängig über offizielle Bankenregister wie die [BankFind Suite der US-Einlagensicherung FDIC](https://banks.data.fdic.gov/bankfind-suite/) und nicht über die Angaben des Absenders geprüft werden. Bis dahin ist „FIRSTFIAT PRIVATE BANK USA“ lediglich eine unbelegte Behauptung in einer Scam-Mail.
+Der Name allein macht aus einem Textbaustein keine Bank. Inzwischen hat der Absender zwar eine Kontaktperson, eine US-Telefonnummer und eine E-Mail-Adresse bei `usa.com` nachgereicht. Eine Adresse bei einem allgemeinen Mailanbieter ist jedoch kein Nachweis für eine zugelassene Bank. Die Angaben müssen unabhängig über offizielle Bankenregister wie die [BankFind Suite der US-Einlagensicherung FDIC](https://banks.data.fdic.gov/bankfind-suite/) geprüft werden – nicht über Kontaktdaten aus der verdächtigen Nachricht. Ein belastbarer Beleg für die angebliche „FIRSTFIAT Privatbank“ liegt weiterhin nicht vor.
 
 ## Sechs Begünstigte, fünf Begünstigte und ein „alleiniger“ Begünstigter
 
@@ -181,7 +181,49 @@ Bereits um **18:23 Uhr** kommt unter dem verwendeten Namen **Friedrich Mayrhofer
 
 Zwei Minuten Antwortzeit, aber weiterhin keine Erklärung zur angeblichen Bank oder zu möglichen Kosten. Die Datensammlung funktioniert offenbar schneller als die Auskunftsabteilung. Die Liste wiederholt genau die fünf Angaben aus der ausführlichen Nachricht – einen neuen Beleg für die Spende liefert sie nicht.
 
-Als Nächstes schicken wir die üblichen **frei erfundenen Angaben unserer Tarnfigur Hugo** zurück und schauen, wie der Absender darauf reagiert. Echte persönliche Daten oder Kontaktdaten unbeteiligter Personen werden dabei nicht verwendet. Ob anschließend die angebliche Bank auftritt, weitere Daten verlangt werden oder eine Gebührenforderung folgt, ist noch offen. Wir dokumentieren die Fortsetzung, sobald eine Antwort vorliegt.
+Daraufhin hat Hugo für die weitere Dokumentation mit **frei erfundenen Angaben seiner Tarnfigur** geantwortet. Echte persönliche Daten oder Kontaktdaten unbeteiligter Personen wurden dabei nicht verwendet. In der folgenden Nachricht nennt der Absender erstmals konkrete Kontaktdaten der angeblichen Bank und verlangt die Eröffnung eines neuen Kontos.
+
+## Die nächste Stufe: Hugo soll ein „Offshore-Konto“ eröffnen
+
+Nun soll Hugo selbst die angebliche **„FIRSTFIAT Privatbank“** anschreiben. Der Absender behauptet, der Bank bereits eine Vollmacht erteilt und Hugo zum alleinigen Begünstigten gemacht zu haben. Damit ist die angekündigte Millionenspende plötzlich an eine neue Bedingung geknüpft: Hugo müsse bei der angeblichen Bank ein Online-Offshore-Konto eröffnen und innerhalb von drei Werktagen deren Anweisungen befolgen.
+
+Hugos Nachnamen und die genannte Telefonnummer haben wir aus der Nachricht entfernt. Den verwendeten Namen und die als Bankkontakt genannte E-Mail-Adresse geben wir dagegen vollständig wieder, damit andere Betroffene sie über eine Suche finden und dem dokumentierten Betrugsversuch zuordnen können. Sie belegen allerdings nicht, dass der verwendete Name **„Richard Sanders“** zur tatsächlichen Identität der Person hinter der Adresse gehört; auch missbrauchte oder manipulierte Kontaktdaten sind möglich.
+
+{{< accordion title="Vollständige Antwort anzeigen" >}}
+> Lieber Freund  Hugo [Nachname entfernt] ,
+>
+> Wie geht es Ihnen? Wir haben der Bank bereits eine Vollmacht bezüglich meiner Ernennung zu meinem Begünstigten erteilt und Sie sind nun alleiniger Begünstigter dieses Fonds in Höhe von insgesamt 2.000.000,00 EURO für Sie und Ihre Familie. Da ich älter werde, werde ich nicht ständig mit dem Internet beschäftigt sein, aber senden Sie mir Nachrichten und mein Gebet und mein Segen sind mit Ihnen. Die Kontaktdaten und die E-Mail-Adresse der Bank finden Sie unten und Sie müssen sie sofort per E-Mail kontaktieren, da ich ihnen bereits die Vollmacht erteilt habe und sie erwarten, von Ihnen zu hören, damit sie die Überweisung der Gelder arrangieren können Sie. Sie müssen ihnen jede Hilfestellung leisten, die die Bank zur Durchführung der Überweisung benötigt, damit Ihnen das Geld unverzüglich freigegeben werden kann. Ich möchte, dass Sie sich mit der Bank in Verbindung setzen und nur meine Anzahlung angeben Die Einzahlung wird in Ihrem Namen an Sie überwiesen und Sie können danach überall auf der Welt überweisen, wenn Sie die Anweisungen der Bank direkt innerhalb der nächsten 3 Werktage befolgen, wird Ihnen dieses Geld überwiesen und steht Ihnen zur Verfügung.
+>
+> Nachfolgend finden Sie die Bankinformationen:
+>
+> Bankname: FIRSTFIAT Privatbank\
+> Ansprechpartner: Herr Richard SANDERS\
+> E-Mail: firstfiatbank@usa.com\
+> Telefon: [Telefonnummer entfernt]
+>
+> Heute Morgen passierte ein erstaunlicher Vorfall, ich erhielt eine E-Mail von einem der in der Schweiz lebenden Begünstigten, Herrn Hans Beckmann, der sich bei meiner Frau und mir für die Geldspende an ihn und seine Familie bedankt. Diese Art von E-Mails, die wir von unseren Begünstigten erhalten, bereitet meiner Frau und mir viel Freude und wir freuen uns sehr, dass Sie einer unserer Begünstigten sind
+>
+> BITTE BEACHTEN SIE, DASS: Die Vereinbarung/der Vertrag, der mit der FIRSTFIAT PRIVATE BANK PLC für Online-Überweisungen von Geldern unterzeichnet wurde, besagt, dass derjenige, der zum Empfang der Gelder berechtigt ist, diesen über ein Online-Konto abschließt, das vom neuen Kunden eröffnet werden muss Beachten Sie, dass Ihr Kontakt mit der Firstfiat-Privatbank die Eröffnung eines neuen Online-Offshore-Kontos in Ihrem Namen beinhaltet, das die Einzahlung automatisch Ihrem Konto gutschreibt Wahl überall auf der Welt. Das ist die E-Banking-Politik von firstfiat Private Banking. Sie sollten also bereit sein, bei Ihrer Kontaktaufnahme ein Konto bei ihnen zu eröffnen.
+>
+> Gott schütze dich
+>
+> Mit freundlichen Grüßen,\
+> Friedrich und Annand Mayrhofer.
+{{< /accordion >}}
+
+Die Behauptung über den angeblichen Begünstigten **„Hans Beckmann“** ist durch nichts belegt. Sie dient als Erfolgsanekdote: Ein anderer habe das Geld angeblich schon erhalten, also solle Hugo gefälligst weniger fragen und schneller handeln. Der Name ist hier lediglich Teil der Nachricht; ob eine reale Person dahintersteht oder je Kontakt mit dem Absender hatte, ist offen.
+
+Auch die angebliche Bank wechselt munter ihre Garderobe: Zuvor hieß sie **„FIRSTFIAT PRIVATE BANK USA“**, im Kontaktblock **„FIRSTFIAT Privatbank“** und später **„FIRSTFIAT PRIVATE BANK PLC“**. Eine US-Bank, eine Privatbank und eine PLC sind jedoch keine austauschbaren Dekoelemente. Dazu kommen ein angeblicher Ansprechpartner, eine allgemeine Mailadresse und eine Telefonnummer – aber weiterhin keine überprüfbare Anschrift, Lizenz oder offizielle Website.
+
+Besonders auffällig ist die Kontoeröffnung. Eine echte Schenkung muss nicht erst über ein neues „Online-Offshore-Konto“ bei einer vom Absender bestimmten Bank umgeleitet werden. Das Konto schafft vielmehr einen neuen Vorwand, um weitere persönliche Daten, Ausweisdokumente, Zugangsdaten oder später angebliche Freischaltungs- und Überweisungsgebühren zu verlangen. Welche Forderung als Nächstes tatsächlich kommt, ist noch offen.
+
+## Hugo schreibt dem angeblichen Bankmanager
+
+Um den weiteren Ablauf zu dokumentieren, hat Hugo den angeblichen Bankmanager über die mitgeteilte Adresse knapp angeschrieben. Persönliche Daten, Dokumente oder Bankangaben hat er dabei nicht übermittelt:
+
+> ich soll mich bei ihnen melden. wie geht es weiter?
+
+Eine Antwort der angeblichen Bank liegt bislang nicht vor. Für Leserinnen und Leser gilt weiterhin: Bitte nicht selbst Kontakt aufnehmen. Die Nachricht dient ausschließlich dem kontrollierten Scambaiting und der Dokumentation der nächsten Forderungen.
 
 ## Die Warnzeichen
 
@@ -199,17 +241,22 @@ Schon die erste Mail liefert mehr rote Flaggen als eine sehr schlecht organisier
 * **Widersprüchliche Empfängerzahl:** Erst sind es fünf Personen insgesamt, dann Hugo und fünf weitere, anschließend soll Hugo der „alleinige Begünstigte“ sein.
 * **Unbelegte Bank:** Für die angebliche „FIRSTFIAT PRIVATE BANK USA“ fehlen sämtliche überprüfbaren Angaben.
 * **Persönliche Daten werden verlangt:** Vollständiger Name, Mobilnummer, Anschrift, Alter und Geschlecht sollen an einen unbekannten Gmail-Absender gehen.
+* **Kontakt nur über vorgegebene Kanäle:** Hugo soll eine angebliche Bank über eine allgemeine Mailadresse anschreiben, statt sie unabhängig zu ermitteln.
+* **Ständig wechselnder Bankname:** „PRIVATE BANK USA“, „Privatbank“ und „PRIVATE BANK PLC“ werden für dasselbe angebliche Institut verwendet.
+* **Neues Offshore-Konto als Bedingung:** Die Auszahlung soll nur über ein eigens eröffnetes Online-Konto bei der angeblichen Bank erfolgen.
+* **Künstlicher Zeitdruck:** Innerhalb von drei Werktagen soll Hugo die Anweisungen der Bank befolgen.
+* **Unbelegte Erfolgsgeschichte:** Ein angeblicher früherer Begünstigter soll Vertrauen schaffen, ohne dass sich die Behauptung prüfen lässt.
 * **Skeptiker werden vorsorglich abgewertet:** Andere Menschen könnten Hugo angeblich nur deshalb abraten, weil sie das Verfahren nicht verstünden. So soll unabhängige Prüfung verhindert werden.
 
 ## Daten jetzt, Gebühren möglicherweise später
 
-Die Forderung nach persönlichen Daten ist nun belegt. Eine Ausweiskopie, Bankverbindung oder Zahlung hat der Absender in diesem konkreten Austausch bislang nicht verlangt. Deshalb lässt sich der weitere Ablauf nicht als Tatsache vorwegnehmen.
+Die Forderung nach persönlichen Daten ist belegt. Hinzu kommt nun die Anweisung, über die vorgegebenen Kontaktdaten ein neues Online-Offshore-Konto zu eröffnen. Eine Ausweiskopie, Bankverbindung oder Zahlung hat der Absender in diesem konkreten Austausch bislang nicht ausdrücklich verlangt. Deshalb lässt sich der genaue weitere Ablauf nicht als Tatsache vorwegnehmen.
 
 Die Nachricht entspricht jedoch dem Einstieg eines klassischen **Vorschussbetrugs**. Häufig folgen nach den persönlichen Daten angebliche Gebühren für Anwälte, Steuern, Versicherungen, Dokumente oder die Freigabe des Geldes. Möglich ist auch, dass eine angebliche Bank weitere Identitäts- und Kontodaten anfordert.
 
 Die [Verbraucherzentrale beschreibt genau dieses Muster bei angeblichen Spenden und Gewinnen](https://www.verbraucherzentrale.de/wissen/geld-versicherungen/erbe-spenden-investments-maschen-mit-vorschussbetrug-89731): Zunächst wird eine große Summe versprochen, anschließend sollen Betroffene vor der Auszahlung selbst bezahlen. Auch die [Polizeiliche Kriminalprävention warnt vor falschen Gewinnversprechen](https://www.polizei-beratung.de/themen-und-tipps/betrug/gewinnversprechen/), bei denen später Bearbeitungs-, Anwalts-, Notar- oder Zollgebühren verlangt werden.
 
-Ob dieser Absender den nächsten Schritt tatsächlich so gestaltet, zeigt erst die weitere Kommunikation. Bis dahin bleibt die mögliche Gebührenforderung eine durch die alte Vorlage und das typische Einstiegsmuster gestützte Einschätzung – keine vorweggenommene Tatsache.
+Ob dieser Absender den nächsten Schritt tatsächlich so gestaltet, zeigt erst die weitere Kommunikation. Die angebliche Kontoeröffnung bietet dafür nun eine passende Bühne, belegt eine konkrete Gebührenforderung aber noch nicht. Bis dahin bleibt sie eine durch das typische Einstiegsmuster gestützte Einschätzung – keine vorweggenommene Tatsache.
 
 ## Was tun?
 
@@ -221,4 +268,4 @@ Wer bereits Daten versendet hat, sollte besonders aufmerksam auf weitere Kontakt
 
 Die Familie Mayrhofer und ihr Lotto-Gewinn sind echt. Genau deshalb eignet sich die Geschichte als Köder: Name, Pressebericht und Fotos lassen sich leicht kopieren und verleihen einer erfundenen Spendenaktion geliehene Glaubwürdigkeit. Sie beweisen aber keine Verbindung zwischen den echten Gewinnern und dem Absender.
 
-In der neuen Mail stimmen weder Währung und Zeitpunkt des Gewinns noch die Zahl der Begünstigten. Dafür sollen nun persönliche Daten an ein seit Jahren mit derselben Masche dokumentiertes Gmail-Konto gehen und anschließend an eine nicht belegte Bank weitergereicht werden. Wer eine solche Nachricht erhält, sollte keine Daten, Dokumente oder Zahlungen senden. Zwei Millionen Euro werden nicht glaubwürdiger, nur weil zwei Pressefotos im Anhang liegen. 🍿
+In den neuen Mails stimmen weder Währung und Zeitpunkt des Gewinns noch die Zahl der Begünstigten und sogar der Name der angeblichen Bank bleibt nicht einheitlich. Dafür sollen persönliche Daten an ein seit Jahren mit derselben Masche dokumentiertes Gmail-Konto gehen und Hugo soll zusätzlich ein Online-Offshore-Konto bei der nicht belegten Bank eröffnen. Wer eine solche Nachricht erhält, sollte weder den vorgegebenen Kontakt anschreiben noch Daten, Dokumente oder Zahlungen senden. Zwei Millionen Euro werden nicht glaubwürdiger, nur weil zwei Pressefotos im Anhang liegen und irgendwo „Privatbank“ steht. 🍿
