@@ -13,7 +13,12 @@
 - Schreibe grundsätzlich auf Deutsch, sofern nicht ausdrücklich eine andere Sprache verlangt wird.
 - Schreibe klar, direkt und auch für Menschen ohne IT-Vorkenntnisse verständlich.
 - Nutze einen sachlichen Grundton mit einer deutlich sarkastischen, humorvollen Note. Der Sarkasmus darf Betrugsmaschen, schlechte Fälschungen, absurde Behauptungen und offensichtliche Widersprüche pointiert kommentieren.
+- Schreibe lieber mit erkennbarer redaktioneller Stimme als in vorsichtiger Behörden- oder Unternehmenssprache. Pointierte, polemische und sarkastische Formulierungen sind ausdrücklich erwünscht, solange der Informationsgehalt klar bleibt.
+- Bevorzuge eine lebendige, pointierte Erzählweise mit erkennbarem Spannungsbogen. Der Text darf wie eine unterhaltsame redaktionelle Fallanalyse wirken, nicht wie ein nüchterner Behördenbericht.
+- Nutze Sarkasmus regelmäßig, aber gezielt: vor allem in Zwischenüberschriften, Übergängen und bei offensichtlichen Widersprüchen der Masche.
+- Nutze unterhaltsame Zwischenüberschriften, treffende Vergleiche und kurze Kommentare, um Widersprüche sichtbar zu machen. Die Pointen sollen den Fall erklären und nicht bloß Dekoration sein.
 - Setze passende Emojis gezielt ein, um Pointen oder Abschnitte aufzulockern. Wenige treffende Emojis sind besser als eine überladene Dekoration.
+- Nutze den Beitrag `acapio.de/content/posts/2026-10/2026-10-30-friedrich-mayrhofer-jackpot-spende/index.md` als stilistische Orientierung für neue Artikel: klar aufklärend, kompakt, pointiert, deutlich sarkastisch und mit wenigen passenden Emojis.
 - Formuliere kompakt, aber nicht oberflächlich: so kurz wie möglich und so ausführlich wie nötig, damit Masche, Belege, Risiken und Schutzmaßnahmen nachvollziehbar bleiben.
 - Bevorzuge kurze Absätze, konkrete Beispiele und klare Aussagen. Wiederhole denselben Warnhinweis nicht unnötig.
 - Vermeide Panikmache, Clickbait, unnötigen Fachjargon und künstlich dramatische Formulierungen.
@@ -27,6 +32,8 @@
 - Prüfe zeitabhängige oder sicherheitsrelevante Aussagen anhand aktueller, möglichst primärer Quellen und verlinke diese direkt.
 - Übernimm Behauptungen aus Scam-Nachrichten nicht als Tatsachen. Kennzeichne Rollen, Namen, Firmen und Dokumente als angeblich oder gefälscht, wenn dies nicht zweifelsfrei belegt ist.
 - Bezeichne identifizierbare Personen nicht ohne belastbare Grundlage als Täter. Nutze im Zweifel Formulierungen wie „mutmaßlich“, „angeblich“ oder „Hinweise auf einen Betrugsversuch“.
+- Vermeide lange, wiederkehrende Standardabsätze, die lediglich erklären, dass Namen, Rollen oder Kontaktdaten keine bewiesene Täteridentität darstellen. Integriere diese Absicherung möglichst kurz und natürlich in die konkrete Einordnung.
+- Ein knapper Hinweis wie „Ob hinter dem Namen tatsächlich ein Anwalt steckt, belegt die Mail nicht“ genügt meist, wenn keine reale oder bekannte Person verwechselt werden könnte. Ausführlichere Abgrenzungen sind vor allem nötig, wenn reale Personen, Unternehmen oder möglicherweise missbrauchte Identitäten betroffen sind.
 - Zitiere fremde Inhalte nur so weit, wie es für Analyse, Einordnung und Beleg erforderlich ist.
 
 ## Aufbau neuer Beiträge
@@ -45,6 +52,7 @@
 - Nenne die im Betrugsversuch verwendeten Absender-E-Mail-Adressen vollständig und als durchsuchbaren Text. Das hilft Betroffenen, die Adresse über Suchmaschinen wiederzufinden.
 - Nenne ebenso die Namen und Rollen, unter denen die Absender auftreten. Formuliere dabei präzise als „verwendeter Name“, „angeblicher Absender“ oder „gibt sich als … aus“, solange die tatsächliche Identität nicht belegt ist.
 - Stelle eine verwendete E-Mail-Adresse oder Identität nicht automatisch als nachgewiesene Identität des Täters dar. Absender können gefälscht, manipuliert oder missbrauchte Konten sein.
+- Wiederhole diesen Identitätshinweis nicht schematisch nach jeder Nachricht. Eine einmalige, passend platzierte und gern pointierte Klarstellung reicht, sofern der Fall keine besondere Verwechslungsgefahr birgt.
 - Wird der Name einer realen oder bekannten Person missbraucht, erkläre den Hintergrund ausdrücklich: Die Person existiert, der Kontakt stammt nach den vorliegenden Indizien jedoch nicht von ihr; ihr Name wird lediglich als Legende des Betrugsversuchs benutzt.
 - Mache bereits in Überschrift, Einleitung oder unmittelbarem Kontext deutlich, wenn Betrüger nur vorgeben, eine bekannte Person wie Susanne Klatten zu sein.
 - Kürze Rechtschreibfehler, ungewöhnliche Formulierungen und andere typische Merkmale nicht stillschweigend weg. Sie gehören zum dokumentierten Original.
@@ -62,8 +70,11 @@
 
 ## Sicherheit, Datenschutz und Ethik
 
-- Veröffentliche keine Passwörter, API-Schlüssel, Session-Daten, privaten Adressen, Telefonnummern, Ausweisdaten oder sonstige unnötige personenbezogene Daten.
-- Die vollständige Nennung einer im dokumentierten Betrugsversuch verwendeten Absender-E-Mail-Adresse ist redaktionell beabsichtigt. Veröffentliche darüber hinaus keine privaten Kontaktdaten unbeteiligter oder realer Personen.
+- Veröffentliche keine Passwörter, API-Schlüssel, Session-Daten, privaten Adressen, Ausweisdaten oder sonstige unnötige personenbezogene Daten.
+- Kontaktdaten, die im dokumentierten Betrugsversuch von den mutmaßlichen Scammern selbst verwendet werden, dürfen vollständig veröffentlicht werden. Dazu gehören insbesondere E-Mail-Adressen, Telefonnummern, verwendete Namen, angebliche Rollen, Webseiten und Messenger-Kontakte. Die Veröffentlichung dient dazu, diese Angaben durchsuchbar zu machen und anderen Betroffenen die Zuordnung zum Betrugsversuch zu ermöglichen.
+- Formuliere dabei nicht so, als würden die Kontaktdaten die tatsächliche Identität eines Täters beweisen. Telefonnummern, Namen, Adressen und Konten können gefälscht, manipuliert, übernommen oder von Dritten bereitgestellt worden sein.
+- Veröffentliche keine Bankverbindungen, Kontonummern, IBANs oder vergleichbaren Zahlungsdaten. Hinter solchen Konten können Finanzagenten beziehungsweise Money Mules stehen, die möglicherweise selbst getäuscht oder ausgenutzt werden. Schwärze diese Angaben in Texten und Bildern.
+- Schütze weiterhin private Daten von Opfern, unbeteiligten Personen und realen Personen, deren Identität lediglich für eine Betrugslegende missbraucht wird.
 - Schwärze sensible Daten in Texten und Bildern; achte auch auf Metadaten und Informationen im Bildhintergrund.
 - Mache aktive Phishing-, Malware- oder Scam-URLs nicht direkt anklickbar. Entschärfe sie bei Bedarf eindeutig.
 - Öffne oder führe verdächtige Anhänge, Skripte, Makros und Programme nicht aus. Analysiere sie nur mit ausdrücklich freigegebenen, isolierten und sicheren Verfahren.
