@@ -1,5 +1,5 @@
 ---
-title: "Nachlass von Joshua Johnson? Ein angeblicher Anwalt sucht seinen „Klienten“"
+title: "Sieben Millionen von Joshua Johnson – nur der Tote wechselt den Namen"
 params:
   author: Andy
 date: "2026-11-10"
@@ -14,12 +14,12 @@ categories:
   - "Scam"
 thumbnail: "lawyer.webp"
 url: "posts/2026-11-10-joshua-johnson-nachlass"
-summary: "Ein angeblicher Anwalt namens Bernard Patrick erklärt Hugo ohne jeden Nachweis zum Verwandten eines verstorbenen Joshua Johnson. Auf eine deutsche Rückfrage folgt nur eine auffällig glatte Übersetzung derselben vagen Nachricht."
+summary: "Ein angeblicher Anwalt macht Hugo erst zum Verwandten von Joshua Johnson und dann zum Nachlassverwalter von Joshua Eric. Für 35 Prozent von sieben Millionen Dollar soll Hugo persönliche Daten liefern."
 ---
 
-Ein angeblicher Rechtsanwalt namens **Bernard Patrick** behauptet, den Nachlass von **Joshua Johnson** zu verwalten – und erklärt Hugo kurzerhand zu dessen Verwandtem. Wer Joshua war, wie er mit Hugo verwandt sein soll und wo das Nachlassverfahren stattfindet, verrät die Nachricht nicht. Dafür soll Hugo möglichst schnell antworten. Der angeblich juristische Vorgang beginnt also mit erstaunlich wenig Akte und erstaunlich viel Nebel. ⚖️
+Ein angeblicher Rechtsanwalt namens **Bernard Patrick** erklärt Hugo kurzerhand zum Verwandten von **Joshua Johnson**. Belege gibt es keine, dafür später sieben Millionen Dollar, 35 Prozent Beteiligung und einen Einkaufszettel mit persönlichen Daten. Nur eine Kleinigkeit gerät durcheinander: Der Verstorbene heißt plötzlich **Joshua Eric**. Bei Millionen darf man offenbar nicht an jedem Nachnamen kleben. ⚖️
 
-Die Mail sieht stark nach der Aufwärmrunde eines **Erbschafts- beziehungsweise Nachlass-Scams** aus: Erst soll Hugo anbeißen, später können persönliche Daten, Ausweiskopien oder angebliche Gebühren auf dem Wunschzettel landen. Die [Polizeiliche Kriminalprävention beschreibt genau dieses Muster](https://www.polizei-beratung.de/themen-und-tipps/sicher-handeln/onlinebetrug-maschen/spam/). Noch verlangt der Absender weder Geld noch Dokumente. Welche Karte er als Nächstes ziehen will, ist daher offen.
+Das passt zum Drehbuch eines **Erbschafts- beziehungsweise Nachlass-Scams**: erst Neugier, dann Millionen, dann Daten – und später womöglich Ausweiskopien oder angebliche Gebühren. Die [Polizeiliche Kriminalprävention warnt vor solchen Spam-Maschen](https://www.polizei-beratung.de/themen-und-tipps/sicher-handeln/onlinebetrug-maschen/spam/). In diesem Fall ist bisher die Datenstufe erreicht. Geld oder Dokumente wurden noch nicht verlangt.
 
 ## Ein Trauerfall ohne Akte
 
@@ -36,9 +36,9 @@ Die E-Mail kam mit dem Betreff **„Estate Administration of Joshua Johnson“**
 > Bernard Patrick  
 > Attorney at Law
 
-Auf Deutsch behauptet der Absender damit, als Nachlassanwalt die rechtlichen Angelegenheiten von Hugos verstorbenem Verwandten Joshua Johnson zu betreuen. Konkrete Informationen fehlen vollständig: kein Verwandtschaftsverhältnis, kein Todesdatum, kein Wohnort, kein Aktenzeichen, kein Gericht und keine Kanzleianschrift. Für eine juristische Nachricht ist das bemerkenswert effizient – man hat einfach alles Juristische weggelassen.
+Viel „legal process“, erstaunlich wenig davon im Text: kein Verwandtschaftsverhältnis, kein Todesdatum, kein Wohnort, kein Aktenzeichen, kein Gericht und keine Kanzleianschrift. Für eine juristische Nachricht ist das bemerkenswert effizient – man hat einfach alles Juristische weggelassen.
 
-Ob hinter **Bernard Patrick** tatsächlich ein Anwalt steckt, belegt die Mail natürlich nicht. Seine angebliche Rolle ist bisher genauso wenig überprüfbar wie der Nachlass.
+**Bernard Patrick** ist damit vorerst nur ein Name unter einer E-Mail. Dass dahinter ein Anwalt oder überhaupt ein Nachlass steckt, belegt die Nachricht nicht.
 
 ## Hugo fragt – Bernard übersetzt 🤖
 
@@ -46,7 +46,7 @@ Hugo antwortete knapp und machte deutlich, dass er nur Deutsch spricht:
 
 > Ich spreche nur deutsch. um was geht es?
 
-Eine ausgezeichnete Gelegenheit für den angeblichen Anwalt, endlich Einzelheiten zu nennen. Bernard entscheidet sich für Plan B: kopieren, übersetzen, wiederholen.
+Die perfekte Gelegenheit für Fakten. Bernard wählt lieber Plan B: kopieren, übersetzen, wiederholen.
 
 > Sehr geehrte(r) Klient(in),
 >
@@ -59,29 +59,17 @@ Eine ausgezeichnete Gelegenheit für den angeblichen Anwalt, endlich Einzelheite
 > Bernard Patrick  
 > Rechtsanwalt
 
-Die Antwort erklärt weiterhin nicht, **worum es konkret geht**. Sie überträgt lediglich die ursprüngliche englische Nachricht nahezu Satz für Satz ins Deutsche. Auffällig sind außerdem die unpersönliche Anrede **„Sehr geehrte(r) Klient(in)“** und der gleichmäßig glatte, formelhafte Stil. Persönlicher wird es offenbar erst, sobald Formulare oder Gebühren ins Spiel kommen.
-
-Das kann auf eine maschinelle Übersetzung mit einem KI-System oder einem gewöhnlichen Übersetzungsdienst hindeuten. Beweisen lässt sich das am Text allein jedoch nicht. Sicher ist nur: Eine Übersetzung ersetzt keine Antwort – auch dann nicht, wenn sie einen Anzug trägt und „Nachlassabwicklung“ sagt. 🤖
+Neue Sprache, null neue Information. Die unpersönliche Anrede **„Sehr geehrte(r) Klient(in)“** und der glatte Formularstil können auf eine maschinelle Übersetzung hindeuten; beweisen lässt sich das am Text allein nicht. Sicher ist nur: Eine Übersetzung ersetzt keine Antwort – auch dann nicht, wenn sie einen Anzug trägt und „Nachlassabwicklung“ sagt. 🤖
 
 ## Junge Domain, alte Fragezeichen 🌐
 
 Die Domain `thevanguardgroups.org` wurde laut den [öffentlichen RDAP-Registrierungsdaten](https://rdap.publicinterestregistry.org/rdap/domain/thevanguardgroups.org) am **26. Juni 2026** registriert. Zum Prüfzeitpunkt am **10. November 2026** war unter der Domain keine Homepage erreichbar.
 
-Eine junge Domain ist für sich allein kein Betrugsbeweis. Zusammen mit der fehlenden Kanzlei-Homepage und den nicht überprüfbaren Angaben wirkt sie allerdings weniger wie eine etablierte Kanzlei und mehr wie ein Briefkopf, der noch auf seine Kanzlei wartet.
+Eine junge Domain ist allein kein Betrugsbeweis. Zusammen mit der fehlenden Homepage und den nicht überprüfbaren Angaben wirkt sie aber weniger wie eine Kanzlei und mehr wie ein Briefkopf, der noch auf sein Büro wartet.
 
-## Die Warnzeichen 🚩
+## Hugo sorgt sich um Joshua
 
-* **Unbekannter Verwandter:** Die Nachricht behauptet eine familiäre Beziehung zu Joshua Johnson, erklärt sie aber mit keinem Wort. Stammbaum war offenbar ausverkauft.
-* **Keine überprüfbaren Falldaten:** Todesdatum, Wohnort, Gericht, Aktenzeichen und zuständige Nachlassbehörde fehlen. Vom Fall bleibt damit hauptsächlich das Wort „Nachlass“.
-* **Keine überprüfbare Kanzlei:** Bernard Patrick nennt weder Kanzleinamen noch Anschrift, Telefonnummer oder Zulassungsstelle. „Attorney at Law“ muss als komplette Büroausstattung reichen.
-* **Unpersönliche Anrede:** Erst heißt es „Dear Client“, später „Sehr geehrte(r) Klient(in)“. Ein tatsächlich ermittelter Angehöriger sollte zumindest namentlich bekannt sein.
-* **Zeitdruck ohne Grund:** Hugo soll „at your earliest convenience“ beziehungsweise „zeitnah“ antworten, obwohl nicht einmal der angebliche Rechtsfall beschrieben wird.
-* **Wiederholung statt Auskunft:** Auf die Frage, worum es geht, folgt nur die übersetzte Ausgangsnachricht. Neue Sprache, weiterhin null Inhalt.
-* **Junge Domain ohne Homepage:** Die E-Mail-Domain wurde erst wenige Monate zuvor registriert; eine zugehörige Kanzlei-Webseite ist nicht erreichbar.
-
-## Hugos nächste Antwort
-
-Hugo ist einfacher BMW-Schrauber und hat mit Nachlassrecht ungefähr so viel zu tun wie ein Ölwechsel mit einer Testamentseröffnung. Die Nachricht macht ihm trotzdem Sorgen. Seine kurze Antwort lautet:
+Hugo ist BMW-Schrauber und hat mit Nachlassrecht ungefähr so viel zu tun wie ein Ölwechsel mit einer Testamentseröffnung. Die Nachricht macht ihm trotzdem Sorgen:
 
 > Hallo Herr Patrick,
 >
@@ -90,7 +78,73 @@ Hugo ist einfacher BMW-Schrauber und hat mit Nachlassrecht ungefähr so viel zu 
 > Viele Grüße  
 > Hugo
 
-Für Leserinnen und Leser gilt: **Bitte nicht selbst antworten.** Schon eine Reaktion bestätigt, dass die angeschriebene Adresse aktiv genutzt wird. Hugo schickt beim dokumentierten Scambaiting weder echte persönliche Daten noch Ausweisdokumente, Bankverbindungen oder Geld. Der angebliche Nachlass muss vorerst ohne Fahrzeugbrief auskommen. 🔧
+Für Leserinnen und Leser gilt: **Bitte nicht selbst antworten.** Schon eine Reaktion bestätigt eine aktive E-Mail-Adresse. Hugo verwendet beim dokumentierten Scambaiting keine echten persönlichen Daten und verschickt weder Dokumente noch Geld. Der Nachlass muss vorerst ohne Fahrzeugbrief auskommen. 🔧
+
+## Update vom 11. November: sieben Millionen und ein neuer Nachname 💰
+
+Bernard klappt die nächste Seite des Drehbuchs auf: Alles sei „absolut rechtmäßig“. Das muss als Nachweis offenbar reichen. Neu dabei sind **7.000.000 US-Dollar**, die **Bangkok Bank in Thailand** und Hugos Anteil von **35 Prozent**, also 2.450.000 US-Dollar. Jetzt fehlt nur noch Hugo selbst – genauer gesagt: seine Daten.
+
+Die vollständige Antwort lautet:
+
+{{< accordion title="Vollständige Antwort von Bernard Patrick anzeigen" >}}
+> Attn Hugo,
+>
+> vielen Dank für Ihre prompte Antwort auf meine vorherige Nachricht. Ich möchte diese Gelegenheit nutzen, um zu unterstreichen, dass es sich hierbei um eine absolut rechtmäßige Angelegenheit handelt, die Ihre Aufmerksamkeit erfordert.
+>
+> Bitte nehmen Sie sich die Zeit, den Inhalt meiner früheren Nachricht sorgfältig zu prüfen. Es ist wichtig, die spezifische Rolle zu verstehen, die mein Mandant, Herr Joshua Eric, für Sie vorgesehen hat. Obwohl ich zunächst Bedenken hinsichtlich einer bestimmten Klausel in seinem Testament hatte, bestand Herr Joshua Eric auf deren Aufnahme. Er betonte dabei, wie wichtig Verantwortungsbewusstsein, finanzielles Verständnis sowie die Fähigkeit sind, sein Erbe effektiv zu verwalten.
+>
+> In meiner Eigenschaft als sein Rechtsvertreter benötige ich einige persönliche Angaben von Ihnen, um die erforderlichen Formalitäten in die Wege leiten zu können. Bitte lassen Sie mir zeitnah die folgenden Informationen zukommen:
+>
+> - Vollständiger Name:
+> - Anschrift:
+> - Mobilfunknummer:
+> - Alter:
+> - Beruf:
+> - Familienstand:
+>
+> Sobald mir diese Angaben vorliegen, werde ich die entsprechenden Finanzinstitute – darunter die Bangkok Bank in Thailand, bei der das Vermögen von Herrn Joshua Eric verwahrt wird – umgehend über Ihre Einsetzung als Nachlassverwalter informieren. Damit wird der Prozess zur Freigabe der Gelder und Vermögenswerte gemäß seinem Testament eingeleitet. Ich werde Sie fortlaufend auf dem Laufenden halten und einen reibungslosen Austausch mit allen Beteiligten sicherstellen. Sobald alle Vorbereitungen getroffen sind, können wir ein Treffen vereinbaren, um zu besprechen, wie das Vermächtnis von Herrn Joshua Eric am besten gewürdigt werden kann.
+>
+> Die Gesamtsumme des Erbes beläuft sich auf 7.000.000 USD; Ihr Anteil daran beträgt 35 %, was einer Summe von 2.450.000 USD entspricht.
+>
+> Ich freue mich auf Ihre Rückmeldung, um die nächsten Schritte in die Wege leiten zu können.
+{{< /accordion >}}
+
+### Aus Johnson wird Eric – Nachlassrecht mit Namenslotterie
+
+In den ersten beiden Nachrichten hieß der Verstorbene **Joshua Johnson**, nun ausschließlich **Joshua Eric**. Ob nur der Nachname oder gleich der ganze Mandant ausgetauscht wurde, erklärt Bernard nicht. In einem echten Nachlassverfahren wäre die Identität des Erblassers keine dekorative Nebensache. Hier läuft sie offenbar unter Tagesangebot.
+
+Auch Hugo wird befördert: vom namenlosen Verwandten zum **Nachlassverwalter** mit 35 Prozent Beteiligung. Testament, Sterbeurkunde, Aktenzeichen, Gericht und Nachweis der anwaltlichen Vertretung fehlen weiterhin. Der angebliche Anwalt kennt Hugos millionenschwere Bestimmung sehr genau – nur seinen vollständigen Namen noch nicht.
+
+### Erst die Daten, dann vielleicht die Akte
+
+Bernard möchte vollständigen Namen, Anschrift, Mobilfunknummer, Alter, Beruf und Familienstand. Warum diese Daten nötig sind und auf welcher Grundlage er sie verarbeiten will, verrät er nicht. Noch hübscher: Hugos Rolle soll bereits im Testament festgelegt sein, obwohl der angebliche Anwalt nicht einmal seinen vollständigen Namen kennt. Testamentarische Präzision mit Überraschungsgast.
+
+Die **Bangkok Bank** dient vorerst nur als Kulisse. Selbst der Name einer realen Bank würde weder den Nachlass noch eine Verbindung zum Absender belegen. Unabhängig überprüfbare Unterlagen oder Kontakte nennt Bernard nicht. Ein Treffen gibt es erst, wenn Hugo seine Daten geliefert hat und alle „Vorbereitungen“ abgeschlossen sind. Persönliche Prüfung später, Datensammlung jetzt.
+
+Immerhin stimmt die Rechnung: 35 Prozent von sieben Millionen sind **2,45 Millionen Dollar**. Mathematisch tadellos, juristisch weiterhin Luftnummer. Große Zahlen lassen sich eben auch ohne Nachlassakte hervorragend multiplizieren.
+
+### Hugo kann sein Glück kaum glauben
+
+Hugo kennt weder Joshua Johnson noch Joshua Eric und kann sein plötzliches Millionenglück kaum fassen:
+
+> Ich verstehe das nicht? Bekomme ich Geld von Herrn Joshua? Warum gerade ich, ich kenn den gar nicht.
+>
+> Soviel Geld????
+>
+> Hugo
+
+Naiv formuliert, aber genau ins Schwarze: Warum sollte ein Unbekannter Hugo 2,45 Millionen Dollar und seinen Nachlass anvertrauen? Bernard hat dafür keine Erklärung. Persönliche Daten schickt Hugo selbstverständlich nicht. Nun darf der angebliche Anwalt erklären, welche Pirouette das Testament für diesen kleinen Schönheitsfehler vorgesehen hat.
+
+## Die Warnzeichen im Schnellcheck 🚩
+
+* **Verwandtschaft ohne Stammbaum:** Warum Hugo mit Joshua verwandt sein soll, bleibt Bernards Berufsgeheimnis.
+* **Der Tote wechselt den Namen:** Aus Joshua Johnson wird Joshua Eric. Für eine Nachlassakte eher ungünstig.
+* **Keine Akte zum Aktenzeichen:** Todesdatum, Wohnort, Gericht, Testament und zuständige Behörde fehlen komplett.
+* **Anwalt ohne Kanzlei:** Keine Anschrift, Telefonnummer oder Zulassungsstelle. „Attorney at Law“ spielt allein die gesamte Büroausstattung.
+* **Millionenrolle ohne Identitätsprüfung:** Hugo soll Nachlassverwalter sein, obwohl Bernard nicht einmal seinen vollständigen Namen kennt.
+* **Daten vor Belegen:** Name, Anschrift, Telefonnummer, Alter, Beruf und Familienstand sollen zuerst geliefert werden. Nachweise dürfen offenbar später nachreisen.
+* **Bankname als Bühnenbild:** Die Bangkok Bank wird genannt, eine Verbindung zum angeblichen Nachlass aber nicht belegt.
+* **Junge Domain ohne Homepage:** `thevanguardgroups.org` war beim Prüfen erst wenige Monate alt; eine Kanzlei-Webseite gab es dort nicht.
 
 ## Was tun bei solchen Nachlass-Mails?
 
@@ -100,10 +154,10 @@ Für Leserinnen und Leser gilt: **Bitte nicht selbst antworten.** Schon eine Rea
 * Behauptete Kanzleien, Gerichte und Anwälte ausschließlich über unabhängig recherchierte offizielle Kontaktdaten prüfen.
 * Die Nachricht als Spam beziehungsweise Phishing melden und anschließend löschen.
 
-Eine seriöse Kontaktaufnahme zu einem Nachlass sollte nachvollziehbare Angaben zum Verstorbenen und zum Verfahren enthalten. Der genannte Rechtsvertreter muss sich unabhängig überprüfen lassen und konkrete Rückfragen beantworten können. Eine vage E-Mail von einer jungen Domain ist dagegen kein Erbnachweis – selbst wenn „Rechtsanwalt“ daruntersteht und der Text besonders ordentlich klingt.
+Eine seriöse Nachlassangelegenheit lässt sich unabhängig prüfen: Verstorbener, Verfahren, Gericht und Rechtsvertreter sind nachvollziehbar benannt. Eine vage Mail von einer jungen Domain ist kein Erbnachweis – selbst wenn „Rechtsanwalt“ daruntersteht und die Millionen korrekt ausgerechnet sind.
 
-## Fazit: viel Nachlass, null Nachweis
+## Fazit: sieben Millionen, zwei Joshuas, null Nachweis
 
-Bernard Patrick behauptet, Hugos unbekannten Verwandten Joshua Johnson zu vertreten, liefert aber keinen einzigen überprüfbaren Hinweis auf den Todesfall oder das Verfahren. Selbst nach Hugos Rückfrage bleibt es bei derselben allgemeinen Behauptung – jetzt immerhin auf Deutsch und damit zweisprachig nichtssagend.
+Bernard Patrick startet mit einem unbekannten Verwandten namens Joshua Johnson. Nach Hugos Rückfrage kommen sieben Millionen Dollar, die Bangkok Bank und ein Posten als Nachlassverwalter hinzu – dafür heißt der Verstorbene plötzlich Joshua Eric. Mehr Text, mehr Millionen, mehr Widersprüche. Nur die Belege bleiben zuverlässig bei null.
 
-Bis belastbare und unabhängig überprüfbare Angaben vorliegen, sollte die Nachricht als Betrugsversuch behandelt werden. Die wichtigste Schutzmaßnahme ist erfreulich unjuristisch: **nicht antworten, keine Daten senden und niemals vorab bezahlen.** ⚖️🚫
+Das Drehbuch ist klassisch: Neugier wecken, Millionen versprechen, Daten einsammeln. Ob später Gebühren, Dokumente oder Bankangaben verlangt werden, ist noch offen. Die Schutzmaßnahme braucht trotzdem kein Jurastudium: **nicht antworten, keine Daten senden und niemals vorab bezahlen.** Denn ein Erbe, das schon beim Namen des Toten schludert, braucht ganz sicher nicht Hugos Familienstand. ⚖️🚫

@@ -320,10 +320,10 @@ Wer bereits gezahlt hat, sollte sofort die eigene Bank oder den verwendeten Zahl
 
 Die Polizei rät bei falschen Geldversprechen grundsätzlich, [keine Gebühren für die Auszahlung eines vermeintlichen Gewinns zu zahlen](https://www.polizei-beratung.de/themen-und-tipps/betrug/gewinnversprechen/). Dass inzwischen zunächst „nur“ 100 Euro genügen sollen, macht die Forderung nicht seriöser – lediglich leichter zu bezahlen.
 
-## Fazit: Viele Versprechen, keine einzige Antwort
+## Fazit: 3,7 Millionen versprochen, bei 100 Euro verstummt
 
-Die angebliche Spenderin hatte Gelegenheit, Hugos einfache Fragen zu beantworten. Sie hätte eine Rechnung, den Aussteller der Bescheinigung oder eine nachvollziehbare Erklärung für die Vorauszahlung nennen können. Geliefert hat sie stattdessen Werbesprache über Nächstenliebe, Investitionen und lebenslange finanzielle Freiheit – und anschließend die Aufforderung, über WhatsApp weiterzuschreiben. Dort folgen nun ein italienisches Empfängerkonto und die Zahlungsanweisung für zunächst 100 Euro.
+Die angebliche Spenderin hatte Gelegenheit, Hugos einfache Fragen zu beantworten. Sie hätte eine Rechnung, den Aussteller der Bescheinigung oder eine nachvollziehbare Erklärung für die Vorauszahlung nennen können. Geliefert hat sie stattdessen Werbesprache über Nächstenliebe, ein italienisches Empfängerkonto und die Aufforderung, zunächst 100 Euro zu überweisen.
 
-Damit ist das Muster noch deutlicher: Die 3,7 Millionen bleiben unbelegt, die verlangte Vorauszahlung ist dagegen sehr real – inzwischen sollen zunächst 100 Euro genügen, während der Rest weiterhin erwartet wird. Wer sie überweist, kauft keine finanzielle Freiheit – sondern finanziert den nächsten Versuch, noch mehr Geld zu verlangen.
+Inzwischen herrscht auf WhatsApp Funkstille. Warum der Kontakt nicht mehr antwortet, wissen wir nicht. Vielleicht wirkte Hugo nicht zahlungsbereit genug, vielleicht erschien der mögliche Ertrag von 100 Euro den weiteren Aufwand nicht wert oder der nächste Kontakt versprach schnellere Beute. Belegen lässt sich keine dieser Erklärungen. Belegt ist nur: Sobald kein Geld und keine Bankdaten kamen, endete auch die angebliche Großzügigkeit bemerkenswert geräuschlos.
 
-Hugo wird weder zahlen noch Bankdaten übermitteln. Denn wenn eine angebliche Millionenspende nur an 200 Euro scheitert, existiert sehr wahrscheinlich nicht die Spende, sondern lediglich die Rechnung.
+Damit bleibt von der Geschichte genau das übrig, was von Anfang an real war: die Forderung nach Vorkasse. Die 3,7 Millionen existierten nur in Nachrichten, die 100 Euro sollten dagegen tatsächlich überwiesen werden. Hugo wird weder zahlen noch Bankdaten übermitteln. Denn wenn eine angebliche Millionenspende an einer unbezahlten 100-Euro-Rate verstummt, war nie die Spende das Geschäft – sondern die Rate.
