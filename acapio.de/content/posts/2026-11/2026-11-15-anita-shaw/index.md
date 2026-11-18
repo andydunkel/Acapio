@@ -57,4 +57,19 @@ Während die angebliche Millionärin also quasi schon mit einem Bein auf der Int
 
 Ganz nach dem Motto: *„Sprich Deutsch, wenn du mir 4,5 Millionen schenken willst!“* 🇩🇪😂 Jetzt darf man gespannt sein, wie schnell die todkranke Witwe aus New York trotz akuter Lebensgefahr noch den Google Übersetzer angeschmissen bekommt. Denn eines ist klar: Bei potenziellen Opfern kennen Scammer plötzlich keine Sprachbarrieren mehr. 🌍💸
 
-**... to be continued!**
+## Die Antwort kommt! Hugo versteht nur Spanisch!
+
+Trommelwirbel aus Wanne-Eickel – die Antwort ist da! 🥁 Offensichtlich hat Hugo mit seinem *„Mein Englisch ist njicht so gut“* einen Nerv getroffen: Trotz drohender Intensivstation hat Mrs. Shaw keine Mühen gescheut und prompt reagiert – allerdings auf **Spanisch**! 🇪🇸💃
+
+> Sé que le resultará una gran sorpresa recibir noticias mías hoy, pero considere esto como una intervención divina, tal como me explicó un pastor. Me llamo Anita Shaw, soy viuda y resido en el estado de Nueva York, EE. UU. Le escribo desde mi lecho de enferma, pues estoy luchando contra el cáncer. Deseo confiarle mi dinero (4,5 millones de dólares estadounidenses) para fines benéficos, con el fin de ayudar a los más necesitados; esto se debe a que los familiares de mi difunto esposo desean mi muerte para apoderarse de todo aquello por lo que mi esposo y yo trabajamos durante nuestra vida.
+> Le daré más detalles sobre mí y sobre lo que debe hacer con el dinero una vez que lo reciba. Por favor, escríbame pronto; mi estado de salud es muy delicado y los médicos indican que, en cualquier momento, seré trasladada a la unidad de cuidados intensivos.
+> Que tenga un día bendecido y, por favor, le pido que ore por mí.
+> Que Dios le bendiga.
+> Sra. Anita Micheal Shaw
+
+*¡Ay, caramba!* 🤦‍♂️😂 Hugo schreibt auf Deutsch, dass er kein Englisch versteht, und bekommt denselben Textbaustein prompt auf Spanisch zurück. Das zeigt wunderbar, wie mechanisch hier im Akkord per **Copy & Paste** gearbeitet wird: Der Betrüger hat wohl nur „kein Englisch“ aufgeschnappt und in seinem Skript-Ordner schlicht die falsche Sprachdatei erwischt. Für Hugo aus dem Ruhrpott macht es das nicht leichter – sein Spanisch dürfte noch deutlich eingerosteter sein als sein Englisch. 🍻🤖
+
+Hugos Antwort:
+
+> Ich verstehe nichts.
+
