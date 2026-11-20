@@ -67,3 +67,72 @@ Ein so großzügiges Angebot aus Übersee lässt man natürlich nicht einfach un
 >   
 > mit freundlichen Grüßen,  
 > Herr Hugo (und ein lautes Wuff von Waldi!)  
+
+---
+
+## Die Antwort aus „Großbritannien“: Daily-Mail-Link, Tränendrüse und 6 Pflichtfragen 🎭📋
+
+Lange musste Hugo nicht auf Rückmeldung warten – und siehe da: Wo die erste Mail noch aus vier lieblos hingerotzten Zeilen bestand, hat „Mrs. Maureen Hinckley“ jetzt plötzlich ihren inneren Romanautor entdeckt. 📜✍️ Auf Hugos brennende Fragen zu Wechselkursgebühren, dem TÜV seines 3er BMWs oder Dackel Waldis Zahnstein wird zwar mit keiner einzigen Silbe eingegangen, dafür wird der komplette Scammer-Baukasten ausgepackt:
+
+<details class="scam-accordion">
+  <summary>E-Mail - Lange Erklärung und Abfrage der persönlichen Daten</summary>
+  <div class="accordion-content">
+    <blockquote>
+      <p>Hallo Hugo,<br></p>
+      <p>mein Name ist Maureen Hinckley. Ich bin 58 Jahre alt und stamme aus Sterling, Massachusetts. Im Januar bin ich in das Vereinigte Königreich gezogen, nachdem ich am 11. Dezember 2013 den „Powerball“-Jackpot in Höhe von 61,5 Millionen US-Dollar gewonnen hatte. Ich betrachte diesen Gewinn als ein Geschenk Gottes, und meine gesamte Familie hat beschlossen, im Sinne Gottes zu handeln. Auch wenn wir uns nicht kennen, glaube ich, dass Sie von Gott dazu ausersehen wurden, meine Spende in Höhe von 550.000,00 US-Dollar zu erhalten. Sie müssen ein gottesfürchtiger Mensch sein; ich selbst bin Katholikin und glaube daran, dass denjenigen, die warten und glauben, Gutes widerfährt.<br></p>
+      <p>Sie können versichert sein, dass dies zu 100 % seriös ist. Besuchen Sie die untenstehende Webseite, um sich zu vergewissern: Kopieren Sie den Link in Ihren Browser oder klicken Sie einfach darauf.<br></p>
+      <p>http://www.dailymail.co.uk/news/article-2533293/Lucky-couple-eventually-claim-share-122-MILLION-Powerball-win-dont-look-happy-it.html<br></p>
+      <p>Ich habe beschlossen, Ihnen 550.000,00 US-Dollar aus meinem „Powerball“-Gewinn von 61,5 Millionen US-Dollar zu spenden. Dies ist Teil meines jährlichen Wohltätigkeitsprojekts, mit dem ich das Leben vieler Menschen in Ihrer Region verbessern möchte. Ich habe gebetet und im Internet nach jemandem gesucht, dem ich dieses Geld in Ihrem Bundesstaat zukommen lassen könnte – dabei bin ich bei der Suche über Google bzw. Facebook auf Ihr Profil gestoßen und habe Sie ausgewählt.<br></p>
+      <p>Mein Mitgefühl für das Leid anderer wurde durch tragische Ereignisse in meinem eigenen Leben noch verstärkt: Mein Vater nahm sich 2014 das Leben, und einige Jahre später, im Jahr 2017 – nur zwei Monate vor ihrem 27. Geburtstag –, verstarb eine meiner Töchter an einer Überdosis. Ich tue dies nicht, um Ruhm zu erlangen – tatsächlich habe ich mich bewusst dazu entschieden, dies abseits der Medien zu halten. Mein einziger Beweggrund ist das Ergebnis eines langen Gesprächs mit meinen Kindern – den einzigen, die mir noch geblieben sind – und meinem Ehemann. Er hat mir schon immer geraten, noch in diesem Jahr, bevor ich sterbe, einen Teil meines Geldes an Fremde zu spenden. Wir wissen, dass es da draußen viele Familien gibt, die von Gehalt zu Gehalt leben müssen oder ihre finanziellen Verpflichtungen nicht erfüllen können. Ich habe diesen Lottogewinn am 11. Dezember 2013 erzielt und bereits einen Teil davon an Wohltätigkeitsorganisationen, Familienangehörige, Freunde und auch an Fremde weitergegeben.<br></p>
+      <p>Ich bin an Krebs erkrankt, und mein Arzt hat uns mitgeteilt, dass ich möglicherweise nicht mehr lange zu leben habe – vielleicht schaffe ich es nicht einmal mehr bis Anfang nächsten Jahres. Mein Wunsch ist es, noch Gutes zu tun, bevor ich diese sündige Welt endgültig verlasse. Meine Kinder und mein Mann sind alles, was ich noch habe; sie bedeuten mir die Welt. Ich habe beschlossen, diesen Wunsch noch in diesem Jahr zu erfüllen. Ich möchte, dass Sie dieses Geld in ein gewinnbringendes Unternehmen investieren, um Arbeitsplätze zu schaffen und so bedürftigen Menschen in Ihrer Umgebung zu helfen. Wir haben bereits Spenden an die örtliche Feuerwehr und das Rote Kreuz geleistet. Zudem habe ich die Schenck High School in Florida unterstützt, Opfern des Erdbebens in Indonesien geholfen, Krankenhäuser in Truro – wo ich wegen meiner Krebserkrankung in Behandlung war – sowie verschiedene Organisationen in Asien und Europa, die gegen Krebs, Alzheimer und Diabetes kämpfen. Wir haben lediglich 7 % der gesamten Lottosumme für schlechte Zeiten zurückbehalten; einen Teil davon verwende ich aktuell noch für meine medizinische Behandlung. Um die Auszahlung der Gelder (550.000,00 US-Dollar), die ausschließlich Ihnen gespendet wurden, in die Wege zu leiten, senden Sie mir bitte die unten aufgeführten Angaben zu. (Ich bitte um diese kurzen Informationen lediglich, um zu erfahren, an wen wir diese Gelder spenden.)<br></p>
+      <p>1. Ihr vollständiger Name<br>
+      2. Alter<br>
+      3. Ihre vollständige Anschrift<br>
+      4. Direkte Telefonnummer<br>
+      5. Aktueller Beruf<br>
+      6. Ihre Religionszugehörigkeit<br></p>
+      <p>Ich hoffe, dass Sie die Mittel in Ihrem Bundesstaat/Ihrer Region umsichtig einsetzen werden. Wir bitten Sie, alles in Ihrer Macht Stehende zu tun, um die Armut in Ihrer Region zu lindern und den Lebensstandard so vieler Menschen wie möglich zu verbessern – denn genau das ist der einzige Grund, warum Ihnen diese Gelder gespendet werden.<br>
+      Bitte bestätigen Sie uns, dass Sie unsere Anweisungen befolgen und mir dabei helfen werden, diesen Traum zu verwirklichen. Erst dann werde ich Ihnen mitteilen, wie Sie die Gelder erhalten können. Sollten Sie sich nicht in der Lage fühlen, dieses Vorhaben umzusetzen, lassen Sie es mich bitte wissen, damit ich zeitnah eine andere Person finden kann, der ich das Geld zukommen lassen kann.<br></p>
+      <p>Falls Sie Fragen haben, zögern Sie bitte nicht, diese zu stellen.<br></p>
+      <p>Ich freue mich darauf, bald von Ihnen zu hören.<br></p>
+      <p>Gott segne Sie. Herzliche Grüße,<br></p>
+      <p>Mit freundlichen Grüßen<br></p>
+      <p>Mrs. Maureen Hinckley<br></p>
+    </blockquote>
+  </div>
+</details>
+
+* **Der „Beweislink“:** Damit Hugo auch ja glaubt, dass hier alles zu 100 % seriös abläuft, schickt die Absenderin direkt einen echten *Daily-Mail*-Artikel über den Powerball-Gewinn von 2013 mit. Praktisch, wenn man sich einfach die Zeitungsartikel fremder Leute als eigenen Ausweis borgt! 📰🕵️‍♂️
+* **Volles Drama-Programm:** Angeblich nach dem Lottogewinn ins Vereinigte Königreich gezogen, dazu schwere familiäre Schicksalsschläge, eine Krebserkrankung im Endstadium und Spenden an Feuerwehr, Rotes Kreuz und diverse Krankenhäuser – alles drin, damit bloß niemand mehr kritisch nachfragt. 😢🏥
+* **Geografisches Chaos & der „Bundesstaat“:** Hugo soll die 550.000 Dollar gefälligst in ein gewinnbringendes Unternehmen investieren, um die Armut in seinem „Bundesstaat“ zu lindern. (Der Ruhrpott dankt!) 🏭💸
+* **Die 6 Pflichtfragen:** Am Ende folgt der eigentliche Zweck der Übung – ein Steckbrief von Name über Adresse und Telefonnummer bis hin zur Religionszugehörigkeit, garniert mit der leichten Drohung, die halbe Million sonst ganz schnell an jemand anderen zu verschenken. 🙄
+
+Natürlich lässt sich Hugo davon nicht einschüchtern und liefert prompt seine Daten ab:
+
+---
+
+### Hugos Antwort
+
+Natürlich lässt sich Hugo davon nicht einschüchtern und liefert prompt seine Daten ab:
+
+> Hallo Mrs. Maureen Hinckley,  
+>   
+> oh je, das mit Ihrer Krankheit und Ihrer Familie tut mir ja schrecklich leid! Da habe ich beim Lesen direkt einen Kloß im Hals gehabt und meinen Waldi erstmal ganz fest gedrückt. Und den Zeitungsartikel habe ich mir natürlich auch angesehen – Wahnsinn, was für ein Glück Sie damals hatten! Dass Sie ausgerechnet mein Profil gefunden haben (obwohl ich gar kein Facebook habe, da muss wohl wirklich der liebe Gott seine Finger im Spiel gehabt haben!), haut mich komplett um.  
+>   
+> Selbstverständlich bin ich bereit, die Armut hier bei uns in Wanne-Eickel zu lindern! Wenn ich meine eigene Kfz-Werkstatt aufmache und zwei Azubis einstelle, schaffen wir hier im Viertel direkt neue Arbeitsplätze – und für die Nachbarn mache ich den Ölwechsel dann zum Freundschaftspreis.  
+>   
+> Hier sind die Angaben, die Sie für Ihre Unterlagen brauchen:  
+>   
+> - Vollständiger Name: Hugo  
+> - Alter: 47 (gefühlt nach einer langen Woche unter der Hebebühne manchmal 65)  
+> - Vollständige Anschrift: Zechenstraße 14b, 44649 Herne (Wanne-Eickel)  
+> - Direkte Telefonnummer: 02325 / 555-0194 (am besten abends anrufen, tagsüber läuft der Schlagschrauber)  
+> - Aktueller Beruf: Kfz-Mechaniker (Spezialgebiet: ältere 3er BMWs)  
+> - Religionszugehörigkeit: Evangelisch (aber ich gehe eigentlich nur an Heiligabend in die Kirche, ich hoffe, das reicht für die Stiftung trotzdem!)  
+>   
+> Ich hoffe, damit ist alles komplett, damit wir das Geld nicht an jemand anderen vergeben müssen. Sagen Sie mir einfach Bescheid, wie es jetzt weitergeht!  
+>   
+> Gott segne Sie und gute Besserung!  
+>   
+> Herzliche Grüße,  
+> Herr Hugo (und Waldi)  

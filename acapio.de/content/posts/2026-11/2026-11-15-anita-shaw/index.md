@@ -73,3 +73,8 @@ Hugos Antwort:
 
 > Ich verstehe nichts.
 
+## Fazit: 4,5 Millionen Dollar scheitern an einer Sprachfrage
+
+Auf Hugos knappe Antwort kam nichts mehr. Offenbar reichte die göttliche Fügung nur für Englisch und versehentlich Spanisch – bei einer echten Rückfrage war das Wunder dann beendet. Die angebliche Anita Shaw meldete sich nicht wieder.
+
+Die Masche bleibt klassischer Vorschussbetrug: Eine dramatische Geschichte und ein Millionenversprechen sollen Vertrauen schaffen. Später folgen meist Forderungen nach persönlichen Daten oder angeblichen Gebühren. Deshalb gilt: nicht antworten, keine Daten übermitteln, nichts bezahlen und die Nachricht als Spam melden. Echte Millionenspenden werden nicht per Gmail an zufällig ausgewählte Fremde verteilt – auch nicht mit pastoraler Empfehlung. 🙏💸
