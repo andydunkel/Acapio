@@ -136,3 +136,63 @@ Natürlich lässt sich Hugo davon nicht einschüchtern und liefert prompt seine 
 >   
 > Herzliche Grüße,  
 > Herr Hugo (und Waldi)  
+
+---
+
+## Jetzt fällt die Maske: 1.597 Dollar Gebühr und die Frage nach den Bankdaten 🏦🚨
+
+Da ist er endlich, der eigentliche Zweck der ganzen Übung: Bevor auch nur ein Cent der 550.000 US-Dollar fließt, soll Hugo **1.597 US-Dollar „Überweisungsgebühr“** vorstrecken – und gleich noch seine kompletten Bankdaten abliefern. 💸🙄
+
+> Hallo Hugo,  
+>    
+> ich hoffe, Ihnen und Ihrem Haushalt geht es gut.  
+> Bezüglich der Auszahlung Ihrer Spende per Banküberweisung:  
+>    
+> Banküberweisung: Für diesen Überweisungsvorgang werden bestimmte Angaben von Ihnen benötigt, damit die Bank den Betrag in Höhe von 550.000,00 $ an Sie überweisen kann. Für diese Banküberweisung fällt eine Gebühr in Höhe von 1.597 $ an. Nach Bestätigung Ihrer Zahlung wird die Spende innerhalb der nächsten 8 Stunden auf Ihrem Bankkonto gutgeschrieben.  
+>    
+> ERFORDERLICHE BANKDATEN  
+>    
+> Name des Kontoinhabers:  
+> Name der Bank:  
+> Kontonummer:  
+> Adresse der Bank:  
+> Telefonnummer für Rückfragen:  
+> Bankleitzahl (Routing Number) oder SWIFT-Code:  
+>    
+> Es handelt sich hierbei um die Überweisung Ihres Spendenbetrags in Höhe von 550.000,00 $ auf Ihr persönliches Bankkonto.  
+>    
+> Ich, Maureen Hinckley, stimme hiermit der Überweisung Ihrer Spende in Höhe von 550.000,00 $ unter Einhaltung aller geltenden Bedingungen zu. Zudem bestätige ich, dass die von mir bereitgestellten Angaben zur Spendenvereinbarung sowie das unterzeichnete Dokument echt und rechtmäßig sind.  
+>    
+> Mit freundlichen Grüßen,  
+> Maureen Hinckley.  
+
+
+Doch warum wollen Scammer überhaupt die Kontodaten wissen, wenn es ihnen um die Vorkasse geht? Dahinter stecken drei Gründe – mit teils üblen Folgen für echte Opfer:
+
+* **Vertrauen vortäuschen:** Die Frage nach Kontonummer und SWIFT-Code soll beweisen, dass die Auszahlung unmittelbar bevorsteht. Wer seine Bankdaten schon abgeschickt hat, überweist aus lauter Vorfreude eher noch schnell die 1.597 Dollar Gebühren. (Dass jede echte Bank Gebühren einfach von den 550.000 Dollar abziehen würde, versteht sich von selbst.)
+* **Lastschrift- und Bestellbetrug:** Mit Name, Adresse und IBAN lassen sich im SEPA-Raum problemlos unbefugte Lastschriften einziehen oder Waren auf fremde Rechnung bestellen – den Ärger mit Rückbuchungen und Inkasso hat dann das Opfer.
+* **Geldwäsche & Phishing:** Manchmal wird das Konto als Durchlaufstation für gestohlenes Geld aus anderen Betrugsfällen missbraucht (Strafbarkeit wegen Geldwäsche inklusive) – oder die Bankdaten dienen als Vorlage für maßgeschneiderte Phishing-Mails im Namen der jeweiligen Hausbank.
+
+Kurz gesagt: Wer hier seine echten Daten rausgibt, zahlt im schlimmsten Fall nicht nur 1.597 Dollar Lehrgeld, sondern macht sein Konto auch noch zum Spielball für weitere Betrügereien. 📉🔐
+
+---
+
+### Hugos pragmatischer Gegenvorschlag: Gebühren erst nach Geldeingang 🏦😄
+
+Hugo nimmt die 1.597 Dollar Gebühren ganz entspannt – auch wenn die teure BMW-Reparatur sein Konto bis Monatsende auf knappe 800 Euro geschrumpft hat. 🚗💸 Mit pragmatischer Ruhrpott-Logik schlägt er einfach vor, die Gebühr sofort zu überweisen, *sobald* die 550.000 Dollar eingegangen sind.
+
+Den Bank-Steckbrief hat er trotzdem direkt brav ausgefüllt (die Fantasiedaten haben wir zur Sicherheit gekürzt) – inklusive eines ganz besonderen Geldinstituts aus dem Norden, der **„Hamburger Spaskasse“**. Man darf gespannt sein, ob „Maureen“ auf diesen fairen Deal eingeht! 🍿👀
+
+
+> Hallo Maureen,  
+>   
+> hui ganz schön viele Gebühren, aber kein Problem. Ich kann das überweisen, sobald ich das Geld habe. Momentan war die Reparatur des BMW leider bissel zu teuer, hab kaum noch 800 Euro auf dem Konto bis zum Ende des Monats. Haha, das wird sich ja bald ändern.  
+>   
+> Name des Kontoinhabers: Hugo [RAUS]  
+> Name der Bank: Hamburger Spaskasse  
+> Kontonummer: [RAUS]  
+> Adresse der Bank:  
+> Telefonnummer für Rückfragen: [RAUS]  
+> Bankleitzahl (Routing Number) oder SWIFT-Code: [RAUS]  
+>   
+> Gruß HUgo und Waldi   
