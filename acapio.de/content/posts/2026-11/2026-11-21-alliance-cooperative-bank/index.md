@@ -164,6 +164,84 @@ Hugo hat nun nach dem Punkt gefragt, den die vermeintliche Bank in ihrem Wortneb
 
 Damit liegen die entscheidenden Fragen auf dem Tisch: Wer war der Verstorbene, welche offiziellen Unterlagen gibt es und auf welcher rechtlichen Grundlage soll ein völlig Fremder zwölf Millionen Dollar erhalten? Persönliche Daten, Dokumente oder eine Zustimmung hat Hugo weiterhin nicht geschickt. Nun darf der angebliche Bankdirektor zeigen, ob seine „Compliance“ auch Belege kann – oder nur Großbuchstaben.
 
+## Compliance mit falschem Namensschild 🪪
+
+Die Antwort liefert weder den Namen des angeblich Verstorbenen noch einen Kontoauszug, einen Erbnachweis oder eine rechtliche Grundlage. Stattdessen versichert der Absender persönlich, alles sei sicher, verlangt „absolute administrative Diskretion“ und erklärt Hugo nun zum **Haupteinleger und Hauptvermögensinhaber**. Eben war er noch ein geeigneter Namensvetter, jetzt gehört ihm offenbar schon das Vermögen. Eigentumsübertragung per Textbaustein – Grundbuchämter hassen diesen Trick.
+
+{{< accordion title="Vollständige Antwort von Mustafa Aliu anzeigen" >}}
+> Sehr geehrter Herr [falscher Nachname entfernt],
+>
+> vielen Dank für Ihre formelle Bestätigung und Ihr Engagement für dieses Projekt. Ich versichere Ihnen persönlich, dass diese Transaktion umfassende strukturelle Protokolle zur Minimierung externer Risiken beinhaltet.
+>
+> Ich lege die operativen Parameter unter der strikten Annahme offen, dass absolute administrative Diskretion gewahrt bleibt. Zur Verdeutlichung unseres institutionellen Rahmens: Ich bin im Bereich Vermögensverwaltung der Alliance Cooperative Bank PLC, London, tätig.
+>
+> Dieses Vorhaben erfordert eine sorgfältige Durchführung, da Sie in unserer Datenbank als Haupteinleger und Hauptvermögensinhaber geführt werden. Sie behalten die volle treuhänderische Kontrolle über das Kapital, bis die physische Rückführung und Zuteilung abgeschlossen ist.
+>
+> Bezüglich der Kapitalverteilung ist die überarbeitete treuhänderische Aufteilung von 50 % auf Ihre Konten und 50 % auf mein Anlagevehikel formell bestätigt.
+>
+> 1. Risikominimierung und Systemintegration: Diese operative Strategie ist strukturell vor herkömmlichen Compliance-Risiken geschützt. Durch die strikte Einhaltung meiner Datenintegrationsrichtlinien und die Wahrung absoluter Vertraulichkeit bleibt der Prozess sicher. Meine administrativen Befugnisse ermöglichen es mir, das Hauptbuch zu aktualisieren und Ihre Angaben als rechtmäßiger Einleger der Vermögenswerte zu bestätigen. Sobald dieser digitale Nachweis erbracht ist, stelle ich die erforderlichen Antragsformulare für die Einleitung des Auszahlungsverfahrens bereit.
+>
+> 2. Rechtliche Vertretung und Dokumentenprüfung: Ihre physische Anwesenheit im Vereinigten Königreich ist vertraglich nicht erforderlich. Um die Bearbeitung zu beschleunigen, stelle ich Ihnen einen erfahrenen Rechtsberater zur Seite, der als Ihr bevollmächtigter Vertreter alle erforderlichen eidesstattlichen Erklärungen und Gerichtsdokumente unterzeichnet. Als interner Manager, der diese spezifischen Bücher betreut, habe ich die direkte administrative Kontrolle über diese Systemdateien und gewährleiste so einen reibungslosen Datentransfer.
+>
+> Der Bevollmächtigte kümmert sich um die Einhaltung der regulatorischen Anforderungen, die für die zügige Freigabe des Kapitals notwendig sind. Die primäre Compliance-Prüfung, die von unserer Clearingstelle benötigt wird, erfolgt durch einen gültigen, von einer Behörde ausgestellten Ausweis, der mit dem aktualisierten Buchprofil übereinstimmt. Unter meiner direkten Aufsicht wird der Prüfungs- und Auszahlungsprozess voraussichtlich innerhalb von fünfzehn (15) Werktagen abgeschlossen sein.
+>
+> 3. Erforderliche Compliance-Daten Um die Aktualisierung des internen Registers zu initiieren und die Dokumentation abzuschließen, übermitteln Sie bitte umgehend die folgenden Angaben:
+>
+> Vollständiger Name:
+>
+> Ständige Wohnanschrift:
+>
+> Direkte Telefonnummer:
+>
+> Amtlicher Ausweis: [Kopie des Reisepasses/Personalausweises beifügen]
+>
+> Nach erfolgreicher Integration dieser Daten erhalten Sie die sicheren Kontaktdaten des zuständigen Rechtsberaters. Dieser ist auf grenzüberschreitende Kapitalrückführungen spezialisiert und verfügt über die erforderliche behördliche Zulassung zur Abwicklung von Überweisungen hoher Summen ins Ausland.
+>
+> Bitte stellen Sie sicher, dass diese Kommunikation streng vertraulich in Ihren persönlichen Akten bleibt.
+>
+> Ich erwarte Ihre Daten, um den ersten Schritt des Protokolls einzuleiten.
+>
+> Mit freundlichen Grüßen,
+>
+> Mustafa Aliu
+>
+> Direktor für Revision und Buchhaltung
+>
+> Alliance Cooperative Bank PLC, London
+{{< /accordion >}}
+
+Die angeblich einfache Erklärung entpuppt sich damit als Wortnebel mit eingebautem Datensauger. Hugo soll vollständigen Namen, Wohnanschrift, Telefonnummer und eine Kopie von Reisepass oder Personalausweis schicken. Solche Daten können für weitere Täuschungsversuche und Identitätsmissbrauch verwendet werden. Einen Ausweis sendet man nicht an einen unbekannten Absender, nur weil dieser sich selbst zum Bankdirektor und das Verfahren zum „Protokoll“ erklärt.
+
+Auch der angekündigte Rechtsberater bleibt namenlos. Erst **nach** Übermittlung der Daten soll Hugo dessen „sichere Kontaktdaten“ erhalten. Trotzdem soll dieser Unbekannte später in Hugos Namen eidesstattliche Erklärungen und Gerichtsdokumente unterschreiben. Welche Erklärungen, welches Gericht, welche Vollmacht und welche Zulassungsbehörde gemeint sind, erfährt Hugo nicht. Dafür steht die Bearbeitungszeit schon erstaunlich präzise fest: fünfzehn Werktage. Die Fantasieabteilung arbeitet offenbar mit Service-Level-Agreement.
+
+Besonders deutlich ist die geforderte Geheimhaltung. Seriöse Nachlass- und Bankverfahren müssen einer unabhängigen Prüfung standhalten. „Erzählen Sie niemandem davon“ schützt hier nicht Hugo, sondern die Geschichte vor kritischen Fragen bei Bank, Polizei oder Verbraucherberatung.
+
+## Erst der falsche Nachname, dann wieder Hugo
+
+Kurz darauf folgt eine weitere Nachricht. Diesmal heißt der Empfänger wieder **Hugo**:
+
+> Guten Morgen, Hugo,
+>
+> wie geht es dir heute? Ich bin mir sicher, dass es dir sehr gut geht. Ich warte weiterhin auf eine Rückmeldung von dir. Wie ich bereits in meiner letzten E-Mail erwähnt habe, ist diese Transaktion zu 100 % legal; es gibt weder für mich noch für dich irgendwelche Probleme.
+>
+> Bitte lass mir die angeforderten Informationen zukommen, damit ich sie in unserer Bankdatenbank als Begünstigter und Eigentümer dieser Gelder hinterlegen kann.
+>
+> Bitte melde dich bei mir, damit wir fortfahren können.
+>
+> Mit freundlichen Grüßen
+>
+> Herr Mustafa Aliu
+
+In der ausführlichen Nachricht wurde Hugo förmlich mit einem Nachnamen angesprochen, der gar nicht seiner ist. In der direkten Erinnerung heißt er plötzlich wieder Hugo. Der Absender rühmt seine „Datenintegrationsrichtlinien“, bekommt jedoch nicht einmal den Namen seines angeblichen Haupteinlegers richtig zugeordnet. Bei zwölf Millionen Dollar Kundenanteil hätte man vielleicht kurz in die eigene Datenbank schauen können.
+
+Auch Hugos Rolle wechselt weiter. Er ist nacheinander geeigneter Verwandter, rechtmäßiger Begünstigter, Haupteinleger, Hauptvermögensinhaber und schließlich zugleich **Begünstigter und Eigentümer**. Nur eines bleibt konstant: Der Absender möchte die Ausweiskopie. Die Behauptung, die Transaktion sei „zu 100 % legal“, ersetzt dabei weder Belege noch eine unabhängige Rechtsprüfung. Ein Satz bekommt keine Banklizenz, nur weil man eine Prozentzahl dahinterstellt.
+
+Hugo hat den bemerkenswerten Kundendatenbestand deshalb knapp hinterfragt. Den in der Mail verwendeten falschen Nachnamen haben wir auch hier aus der veröffentlichten Fassung entfernt:
+
+> Mein Name ist nicht [falscher Nachname entfernt]? schreiben sie den falschen an?
+
+Die Frage trifft den Kern der Geschichte: Angeblich soll Hugo bereits als rechtmäßiger Einleger und Eigentümer eines Millionenvermögens in der Bankdatenbank stehen. Gleichzeitig kennt der zuständige „Direktor für Revision und Buchhaltung“ nicht einmal seinen Namen. Entweder ist die hochsensible Datenintegration erstaunlich kreativ – oder derselbe Text wird parallel an verschiedene Empfänger verschickt und beim Kopieren nicht besonders aufmerksam angepasst. Belegt ist bislang nur der falsche Name; wie er in die Nachricht gelangte, bleibt offen.
+
 ## Alliance Cooperative Bank: 17 Milliarden auf einer jungen Domain 🏦
 
 Die im Screenshot gezeigte Website unter `acbplc.com` präsentiert sich als **Alliance Cooperative Bank** mit Onlinebanking, Kontoeröffnung, Krediten, Anlagen und Versicherungen:
@@ -184,6 +262,11 @@ Ein professionell aussehender Internetauftritt ist kein Banknachweis. Logos, Bö
 * **Erbe per Namensgleichheit:** Ein gleicher Nachname und eine nebulöse Herkunft ersetzen weder Verwandtschaft noch Nachlassverfahren.
 * **Unbekannter Verstorbener:** Name, Konto, Testament, Sterbenachweis und zuständige Behörde fehlen vollständig.
 * **Manipulation angekündigt:** Der angebliche Bankmitarbeiter will Hugo innerhalb der Datenbank als Begünstigten eintragen.
+* **Ausweiskopie verlangt:** Name, Anschrift, Telefonnummer und ein amtlicher Ausweis sollen an einen unbekannten Absender gehen.
+* **Geheimhaltung gefordert:** „Absolute Diskretion“ soll verhindern, dass unabhängige Stellen die Geschichte prüfen.
+* **Falscher Nachname:** Der angebliche Bankdirektor führt Hugo als Millioneninhaber, spricht ihn aber mit einem Namen an, der gar nicht seiner ist.
+* **Rollen wechseln:** Aus Hugo werden je nach Nachricht Haupteinleger, Eigentümer oder Begünstigter.
+* **Namenloser Rechtsberater:** Der angebliche Anwalt soll Dokumente für Hugo unterschreiben, wird aber erst nach der Datenübermittlung überhaupt vorgestellt.
 * **50 Prozent Provision:** Ein vermeintlicher Direktor verlangt die Hälfte des fremden Vermögens für seine eigenen Anlagevehikel.
 * **Gmail als Vorstandsetage:** Die erste Kontaktaufnahme erfolgt über `mustafa.aliu00001@gmail.com`; erst später wird `mustafaaliu@acbplc.com` verwendet.
 * **Junge Domain, alte Legende:** Die Bank will seit 2007 bestehen, `acbplc.com` wurde in der aktuellen Registrierung aber erst 2026 angelegt.
@@ -201,11 +284,11 @@ Ein professionell aussehender Internetauftritt ist kein Banknachweis. Logos, Bö
 
 Die [FCA warnt ausdrücklich vor gefälschten Bankwebsites](https://www.fca.org.uk/consumers/banking-online-account-scams), die persönliche Informationen oder Kontodaten abgreifen sollen. Ein Schloss-Symbol im Browser belegt dabei nur eine verschlüsselte Verbindung zur Website – nicht, dass hinter der Seite eine zugelassene Bank steht.
 
-## Aktueller Stand: viele Millionen, keine Unterlagen
+## Aktueller Stand: Ausweis gesucht, Belege vermisst
 
-Bislang hat der angebliche Mustafa Aliu die ursprüngliche Geschichte lediglich ins Deutsche übertragen. Hugo hat inzwischen nach der Legalität und nach offiziellen Belegen gefragt, aber weder zugestimmt noch persönliche Daten, Dokumente oder Geld übermittelt. Eine konkrete Gebühr wurde noch nicht verlangt. Ebenso offen ist, ob als Nächstes Unterlagen vorgelegt werden oder stattdessen Ausweiskopien, Bankdaten, ein Konto auf der angeblichen Bankseite oder Zahlungen für die „Freigabe“ des Vermögens gefordert werden.
+Der angebliche Mustafa Aliu hat auf Hugos konkrete Fragen keine offiziellen Unterlagen geliefert. Stattdessen fordert er nun vollständige Kontaktdaten und eine Ausweiskopie, kündigt einen noch namenlosen Rechtsberater an und erklärt die Transaktion kurzerhand für „zu 100 % legal“. Hugo hat den falschen Nachnamen hinterfragt, aber weder zugestimmt noch persönliche Daten, Dokumente oder Geld übermittelt. Eine konkrete Gebühr wurde bislang nicht verlangt. Offen ist weiterhin, ob später Bankdaten, ein Konto auf der angeblichen Bankseite oder Zahlungen für die „Freigabe“ des Vermögens folgen.
 
-Der Kontakt bleibt damit dokumentarisch offen. Sobald die vermeintliche Privatbank ihre „expliziten Compliance-Kriterien“ auspackt, werden wir sehen, ob hinter den 24 Millionen am Ende wieder nur eine Rechnung steckt.
+Der Kontakt bleibt damit dokumentarisch offen. Die „expliziten Compliance-Kriterien“ bestehen bisher vor allem darin, Hugos Identität in eine Datenbankgeschichte einzupassen. Von den 24 Millionen fehlt weiterhin jede überprüfbare Spur.
 
 ## Abuse-Meldung ist raus 📣
 

@@ -196,3 +196,47 @@ Den Bank-Steckbrief hat er trotzdem direkt brav ausgefüllt (die Fantasiedaten h
 > Bankleitzahl (Routing Number) oder SWIFT-Code: [RAUS]  
 >   
 > Gruß HUgo und Waldi   
+
+---
+
+## „Hamburger Spaskasse“ genehmigt! Jetzt gibt es 100 % Garantie für 1.457 Euro 🏦✅
+
+Das ging ja blitzschnell: Weder an Hugos Konto bei der höchst seriösen **„Hamburger Spaskasse“** noch an seiner knappen Haushaltskasse stört sich „Mrs. Maureen Hinckley“ auch nur im Geringsten – die 550.000 US-Dollar sind offiziell „genehmigt“ und stehen zur Auszahlung bereit! 🎉💸
+
+<details class="scam-accordion">
+  <summary>E-Mail - natürlich wird bezahlt, nach der Gebühr!</summary>
+  <div class="accordion-content">
+    <blockquote>
+      <p>Hallo Hugo,<br></p>
+      <p>vielen Dank für die Informationen. Wir möchten Ihnen mitteilen, dass Ihr Betrag in Höhe von 550.000,00 US-Dollar genehmigt wurde und zur Überweisung bereitsteht. Bitte beachten Sie, dass vor der Auszahlung des Betrags die Überweisungskosten beglichen werden müssen; gemäß den Richtlinien unserer Bank hat der Empfänger die Kosten für die Überweisung zu tragen.<br></p>
+      <p>Bei dieser Gebühr handelt es sich um eine einmalige Zahlung in Höhe von 1.597 US-Dollar (umgerechnet 1.457 Euro).<br></p>
+      <p>Wir garantieren Ihnen zu 100 %, dass Sie die Spende in Höhe von 550.000,00 US-Dollar erhalten, sobald diese Gebühr von Ihnen beglichen wurde. Sie werden es nicht bereuen, mir zu vertrauen und mit mir zusammenzuarbeiten – das versichere ich Ihnen.<br></p>
+      <p>Ihr Gewinn bei dieser Transaktion ist zu 100 % garantiert, und Sie werden diesen Schritt ganz sicher nicht bereuen. Sie können völlig unbesorgt sein – bei dieser Transaktion gehen Sie keinerlei Risiko ein. Ich werde alles in meiner Macht Stehende tun, damit Sie diese Gelegenheit auch tatsächlich wahrnehmen können.<br></p>
+      <p>Soll ich Ihnen die Zahlungsdaten für die Überweisung der 1.457 Euro zukommen lassen? So können Sie die 550.000,00 US-Dollar schnellstmöglich erhalten – bis Montag wäre alles vollständig abgewickelt.<br></p>
+      <p>Lassen Sie uns die Angelegenheit zum Abschluss bringen, damit Sie Ihre 550.000,00 US-Dollar so bald wie möglich erhalten.<br></p>
+      <p>Sollten Sie noch Fragen haben, zögern Sie bitte nicht, mich zu kontaktieren.<br></p>
+      <p>Gottes Segen und herzliche Grüße,<br></p>
+      <p>Mrs. Maureen Hinckley<br></p>
+    </blockquote>
+  </div>
+</details>
+
+
+Nur bei Hugos pragmatischem Vorschlag, die Gebühren einfach *nach* Geldeingang zu begleichen, hört die Nächstenliebe dann doch schlagartig auf. Angebliche „Bankrichtlinien“ verlangen natürlich, dass der Empfänger die **1.457 Euro** vorab auf den Tisch legt. Damit Hugo auch ja seine letzten 800 Euro zusammenkratzt (und sich vielleicht noch schnell irgendwo den Rest leiht), wird gleich zweimal hintereinander eine **„100 % Garantie“** ausgesprochen – plus das Versprechen, dass bei einer Zahlung bis Montag alles erledigt sei. Klassischer Zeitdruck trifft auf leere Garantien: Wenn ein Scammer gleich doppelt schwört, dass man „keinerlei Risiko“ eingeht, schrillen normalerweise sämtliche Alarmglocken. 🚨🙄
+
+### Hugos Gegenangebot: 800 Euro Anzahlung – und der Rest Anfang Dezember? 💳🤝
+
+Bei zweifacher „100 % Garantie“ kneift man nicht – aber zaubern kann Hugo eben auch nicht. Weil die BMW-Reparatur das Konto leergefegt hat, bietet er „Mrs. Maureen Hinckley“ pragmatisch **800 Euro Anzahlung** an und verspricht, die restlichen 657 Euro Anfang Dezember nach Gehaltseingang zu überweisen. 🗓️💸
+> Hallo Mrs. Maureen Hinckley,  
+>   
+> das sind ja fantastische Neuigkeiten! Dass meine „Hamburger Spaskasse“ genehmigt ist und alles bis Montag klappen kann, klingt wirklich nach einem Traum.  
+>   
+> Ich würde die 1.457 Euro am liebsten sofort komplett zahlen, aber mehr als 800 Euro gibt mein Konto bis zum Monatsende leider nicht her die BMW-Reparatur hat mich einfach aufgefressen. Die restlichen 657 Euro könnte ich Ihnen aber direkt Anfang Dezember nachüberweisen, sobald mein Gehalt da ist!  
+>   
+> Können wir das so machen, dass ich jetzt erstmal die 800 Euro anzahle, damit wir starten können? Sagen Sie mir auf jeden Fall schon mal, wie und wohin ich genau überweisen soll ich sitze hier schon startklar am Online-Banking!  
+>   
+> Gottes Segen und herzliche Grüße,  
+> Herr Hugo (und Waldi)  
+
+Gleichzeitig fragt Hugo schon mal nach den Zahlungsdaten – schließlich verrät der geforderte Zahlungsweg (vom Auslands-Mule-Konto bis zur Geschenkkarte) oft am besten, wie der Scam funktioniert. Mal sehen, ob sich die Stiftung auf den Ratenplan einlässt! 🍿👀
+
