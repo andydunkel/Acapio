@@ -240,3 +240,25 @@ Bei zweifacher „100 % Garantie“ kneift man nicht – aber zaubern kann Hugo 
 
 Gleichzeitig fragt Hugo schon mal nach den Zahlungsdaten – schließlich verrät der geforderte Zahlungsweg (vom Auslands-Mule-Konto bis zur Geschenkkarte) oft am besten, wie der Scam funktioniert. Mal sehen, ob sich die Stiftung auf den Ratenplan einlässt! 🍿👀
 
+---
+
+## Maureen nimmt auch 800 Euro – bitte bis morgen 🏤💸
+
+Der Ratenplan ist genehmigt. Für die angebliche Einzahlung nennt „Maureen“ anscheinend ein italienisches Konto bei **Poste Italiane**, also der italienischen Post. Die Bankverbindung, den Namen des Kontoinhabers und die Anschrift veröffentlichen wir nicht: Hinter solchen Konten können auch Finanzagenten stecken, die möglicherweise selbst getäuscht oder ausgenutzt werden.
+
+> Hallo Hugo,
+>
+> hier die Zahlungsdetails für die Einzahlung von 800 €:
+>
+> [Bank- und Personendaten entfernt]
+>
+> Ich bitte um die Zahlungsbestätigung, möglichst bis morgen. Vielen Dank.
+
+Eine angebliche amerikanische Lottogewinnerin, angeblich in Großbritannien wohnhaft, sammelt ihre deutsche „Spendengebühr“ also über ein italienisches Postkonto ein. Internationaler kann Nächstenliebe kaum organisiert sein. Dass Hugo den Beleg möglichst bis morgen liefern soll, erzeugt zusätzlichen Zeitdruck – ein klassisches Warnzeichen beim Vorschussbetrug. 🚩
+
+Um die Absender in Sicherheit zu wiegen, hat Hugo die 800 Euro **nur vermeintlich überwiesen** und diesen Screenshot geschickt:
+
+![Fingierter Überweisungsbeleg über 800 Euro; Bank- und Personendaten sind geschwärzt](/posts/2026-11-18-maureen-hinckley/ueberweisung.webp)
+
+Zur Klarstellung: **Es wurde kein Geld überwiesen.** Der fingierte Beleg dient ausschließlich dazu, den weiteren Verlauf der Masche zu dokumentieren. Nun darf „Maureen“ erklären, warum die 550.000 Dollar trotz ihrer doppelten „100 % Garantie“ vermutlich noch immer nicht auf Hugos Konto auftauchen. 🙄
+

@@ -242,6 +242,33 @@ Hugo hat den bemerkenswerten Kundendatenbestand deshalb knapp hinterfragt. Den i
 
 Die Frage trifft den Kern der Geschichte: Angeblich soll Hugo bereits als rechtmäßiger Einleger und Eigentümer eines Millionenvermögens in der Bankdatenbank stehen. Gleichzeitig kennt der zuständige „Direktor für Revision und Buchhaltung“ nicht einmal seinen Namen. Entweder ist die hochsensible Datenintegration erstaunlich kreativ – oder derselbe Text wird parallel an verschiedene Empfänger verschickt und beim Kopieren nicht besonders aufmerksam angepasst. Belegt ist bislang nur der falsche Name; wie er in die Nachricht gelangte, bleibt offen.
 
+## Nein, er meint wirklich Hugo. Vermutlich. 🤹
+
+Am **22. November 2026 um 17:24 Uhr** antwortete `mustafaaliu@acbplc.com` auf Hugos Hinweis. Wer nun eine Erklärung zum falschen Nachnamen erwartet, unterschätzt die Flexibilität internationaler Millionenverwaltung:
+
+> Hallo Hugo, guten Tag, wie geht es Ihnen? Ihre Nachricht ist angekommen
+> und wurde zur Kenntnis genommen. Ich verstehe jedoch nicht, warum Sie
+> mich gefragt haben, ob ich jemand anderen meine. Nein, ich spreche nur
+> mit Ihnen, und Sie meinen niemanden sonst.
+>
+> Bitte melden Sie sich daher bei mir, damit wir die Transaktion
+> abschließen können. Wie bereits erwähnt, ist diese Transaktion absolut
+> seriös und legal, und Sie brauchen sich keine Sorgen zu machen.
+>
+> Ich freue mich auf Ihre Antwort.
+>
+> Mit freundlichen Grüßen
+>
+> Mustafa Aliu
+
+Der Absender behauptet also, nur mit Hugo zu sprechen, geht auf den nachweislich falschen Nachnamen aber mit keinem Wort ein. Stattdessen verwandelt er Hugos konkrete Korrektur in die Frage, ob vielleicht „jemand anderes“ gemeint sei. Das ist praktisch: Wer die Frage umdeutet, muss den eigenen Kopierfehler nicht erklären.
+
+Der folgende Screenshot zeigt beides direkt nebeneinander: Hugos Klarstellung und die vorherige Anrede mit dem falschen Nachnamen.
+
+![Hugos Klarstellung, dass der verwendete Nachname falsch ist, über einem Ausschnitt der vorherigen Nachricht mit der unzutreffenden Anrede](/posts/2026-11-21-alliance-cooperative-bank/bethge.webp)
+
+Auch die Versicherung, die Transaktion sei **„absolut seriös und legal“**, ist weiterhin nur eine Behauptung. Kein Erbnachweis, keine Rechtsgrundlage, keine überprüfbare Bankzulassung – aber immerhin ein Gütesiegel zum Selberaufkleben. Die Widersprüche werden nicht kleiner, nur weil der Absender sie höflich ignoriert.
+
 ## Alliance Cooperative Bank: 17 Milliarden auf einer jungen Domain 🏦
 
 Die im Screenshot gezeigte Website unter `acbplc.com` präsentiert sich als **Alliance Cooperative Bank** mit Onlinebanking, Kontoeröffnung, Krediten, Anlagen und Versicherungen:
@@ -265,6 +292,7 @@ Ein professionell aussehender Internetauftritt ist kein Banknachweis. Logos, Bö
 * **Ausweiskopie verlangt:** Name, Anschrift, Telefonnummer und ein amtlicher Ausweis sollen an einen unbekannten Absender gehen.
 * **Geheimhaltung gefordert:** „Absolute Diskretion“ soll verhindern, dass unabhängige Stellen die Geschichte prüfen.
 * **Falscher Nachname:** Der angebliche Bankdirektor führt Hugo als Millioneninhaber, spricht ihn aber mit einem Namen an, der gar nicht seiner ist.
+* **Korrektur ignoriert:** Auf Hugos ausdrücklichen Hinweis erklärt der Absender lediglich, er spreche schon mit dem Richtigen – den falschen Nachnamen erklärt er nicht.
 * **Rollen wechseln:** Aus Hugo werden je nach Nachricht Haupteinleger, Eigentümer oder Begünstigter.
 * **Namenloser Rechtsberater:** Der angebliche Anwalt soll Dokumente für Hugo unterschreiben, wird aber erst nach der Datenübermittlung überhaupt vorgestellt.
 * **50 Prozent Provision:** Ein vermeintlicher Direktor verlangt die Hälfte des fremden Vermögens für seine eigenen Anlagevehikel.
@@ -286,7 +314,7 @@ Die [FCA warnt ausdrücklich vor gefälschten Bankwebsites](https://www.fca.org.
 
 ## Aktueller Stand: Ausweis gesucht, Belege vermisst
 
-Der angebliche Mustafa Aliu hat auf Hugos konkrete Fragen keine offiziellen Unterlagen geliefert. Stattdessen fordert er nun vollständige Kontaktdaten und eine Ausweiskopie, kündigt einen noch namenlosen Rechtsberater an und erklärt die Transaktion kurzerhand für „zu 100 % legal“. Hugo hat den falschen Nachnamen hinterfragt, aber weder zugestimmt noch persönliche Daten, Dokumente oder Geld übermittelt. Eine konkrete Gebühr wurde bislang nicht verlangt. Offen ist weiterhin, ob später Bankdaten, ein Konto auf der angeblichen Bankseite oder Zahlungen für die „Freigabe“ des Vermögens folgen.
+Der angebliche Mustafa Aliu hat auf Hugos konkrete Fragen keine offiziellen Unterlagen geliefert. Stattdessen fordert er vollständige Kontaktdaten und eine Ausweiskopie, kündigt einen noch namenlosen Rechtsberater an und erklärt die Transaktion kurzerhand erst für „zu 100 %“, dann für „absolut“ legal. Selbst Hugos Hinweis auf den falschen Nachnamen beantwortet er nicht: Er versichert nur, mit Hugo zu sprechen. Hugo hat weder zugestimmt noch persönliche Daten, Dokumente oder Geld übermittelt. Eine konkrete Gebühr wurde bislang nicht verlangt. Offen ist weiterhin, ob später Bankdaten, ein Konto auf der angeblichen Bankseite oder Zahlungen für die „Freigabe“ des Vermögens folgen.
 
 Der Kontakt bleibt damit dokumentarisch offen. Die „expliziten Compliance-Kriterien“ bestehen bisher vor allem darin, Hugos Identität in eine Datenbankgeschichte einzupassen. Von den 24 Millionen fehlt weiterhin jede überprüfbare Spur.
 
