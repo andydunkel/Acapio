@@ -50,7 +50,7 @@ Als Belohnung für diese „völlig sichere“ und streng vertrauliche Gefällig
 > Mr. Anthony kuku
 
 
-### Hugos: not the yellow from the egg
+### Hugos Englisch: not the yellow from the egg
 
 Alles schon und gut, aber Hugo, unser fescher Dackel-Besitzer aus Wanne-Eickel, der hat es mit Englisch nicht so.
 
