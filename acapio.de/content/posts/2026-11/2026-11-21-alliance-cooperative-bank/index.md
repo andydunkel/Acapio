@@ -297,6 +297,29 @@ Welche Angaben er nun konkret verlangt, hat Hugo deshalb noch einmal knapp nachg
 
 Hugo hat damit keine Daten übermittelt. Der Absender darf nun selbst erläutern, ob er weiterhin Name, Anschrift, Telefonnummer und Ausweiskopie einsammeln möchte – oder ob im nächsten Textbaustein noch eine neue „Compliance“-Überraschung wartet.
 
+## Der Erinnerungsservice für vergessene Ausweiskopien ⏰
+
+Die Überraschung bleibt aus. Statt Hugos Frage zu beantworten und die verlangten Angaben noch einmal konkret zu nennen, schickt der angebliche Bankdirektor eine Erinnerung:
+
+> Hallo Hugo,
+>
+> Guten Morgen, wie geht es Ihnen? Ich bin mir sicher, es geht Ihnen gut.
+> Ich schreibe Ihnen diese E-Mail, um Ihnen mitzuteilen, dass ich
+> weiterhin auf die von Ihnen angeforderten Informationen warte, damit wir
+> wie in meiner vorherigen E-Mail beschrieben vorgehen können.
+>
+> Bitte melden Sie sich daher so bald wie möglich.
+
+Die Formulierung ist unfreiwillig aufschlussreich: Angeblich wartet der Absender auf die **„von Ihnen angeforderten Informationen“**. Angefordert hat sie allerdings nicht Hugo, sondern der Absender selbst. Hugo wollte lediglich wissen, welche Angaben gemeint sind. Bei einer angeblichen Millionenüberweisung sollte man erwarten dürfen, dass der zuständige Bankdirektor zumindest Absender, Empfänger und Datenwunsch auseinanderhalten kann. Aber irgendwo zwischen 24 Millionen Dollar und der Ausweiskopie ist offenbar auch die Grammatik in die Vermögensverwaltung geraten.
+
+Inhaltlich erhöht die Nachricht nur den Druck: Hugo soll sich „so bald wie möglich“ melden. Neue Belege, eine Erklärung zum verstorbenen Anleger oder eine nachvollziehbare Rechtsgrundlage liefert sie weiterhin nicht. Auch die erbetenen Angaben werden nicht wiederholt. Seriöses Verfahren: unbekannt. Erinnerungstakt: tadellos.
+
+Hugo ist entsprechend ratlos und hat geantwortet:
+
+> Hallo, ich finds nicht mehr, keine Ahnung was ich machen soll, ich bin nicht der hellste. Tut mir leid. Hugo
+
+Damit hat Hugo erneut weder persönliche Daten noch Dokumente übermittelt. Nun liegt es wieder am angeblichen Mustafa Aliu, seine Forderung zu erklären – vermutlich zum inzwischen vierten Mal, aber vielleicht diesmal sogar mit einer passenden Anrede und ohne fremden Kundendatensatz.
+
 ## Alliance Cooperative Bank: 17 Milliarden auf einer jungen Domain 🏦
 
 Die im Screenshot gezeigte Website unter `acbplc.com` präsentiert sich als **Alliance Cooperative Bank** mit Onlinebanking, Kontoeröffnung, Krediten, Anlagen und Versicherungen:
@@ -322,6 +345,7 @@ Ein professionell aussehender Internetauftritt ist kein Banknachweis. Logos, Bö
 * **Falscher Nachname:** Der angebliche Bankdirektor führt Hugo als Millioneninhaber, spricht ihn aber mit einem Namen an, der gar nicht seiner ist.
 * **Korrektur ignoriert:** Auf Hugos ausdrücklichen Hinweis erklärt der Absender lediglich, er spreche schon mit dem Richtigen – den falschen Nachnamen erklärt er nicht.
 * **Falsche Nachricht, egal:** Später räumt er ein, die beanstandete Nachricht sei nicht für Hugo bestimmt gewesen, behauptet aber, das habe keinerlei Einfluss auf die Transaktion.
+* **Druck statt Antwort:** Auf Hugos Frage nach den konkret benötigten Angaben folgt nur eine Mahnung, er solle sich „so bald wie möglich“ melden.
 * **Rollen wechseln:** Aus Hugo werden je nach Nachricht Haupteinleger, Eigentümer oder Begünstigter.
 * **Namenloser Rechtsberater:** Der angebliche Anwalt soll Dokumente für Hugo unterschreiben, wird aber erst nach der Datenübermittlung überhaupt vorgestellt.
 * **50 Prozent Provision:** Ein vermeintlicher Direktor verlangt die Hälfte des fremden Vermögens für seine eigenen Anlagevehikel.
@@ -343,7 +367,7 @@ Die [FCA warnt ausdrücklich vor gefälschten Bankwebsites](https://www.fca.org.
 
 ## Aktueller Stand: Ausweis gesucht, Belege vermisst
 
-Der angebliche Mustafa Aliu hat auf Hugos konkrete Fragen keine offiziellen Unterlagen geliefert. Stattdessen fordert er vollständige Kontaktdaten und eine Ausweiskopie, kündigt einen noch namenlosen Rechtsberater an und erklärt die Transaktion kurzerhand erst für „zu 100 %“, dann für „absolut“ legal. Den falschen Nachnamen erklärt er weiterhin nicht: Zunächst versichert er, nur mit Hugo zu sprechen, später sei die beanstandete Nachricht plötzlich gar nicht für Hugo bestimmt gewesen. Beeinträchtigen soll das die Transaktion natürlich trotzdem nicht. Hugo hat nach den konkret gewünschten Angaben gefragt, aber weder persönliche Daten noch Dokumente oder Geld übermittelt. Eine konkrete Gebühr wurde bislang nicht verlangt. Offen ist weiterhin, ob später Bankdaten, ein Konto auf der angeblichen Bankseite oder Zahlungen für die „Freigabe“ des Vermögens folgen.
+Der angebliche Mustafa Aliu hat auf Hugos konkrete Fragen keine offiziellen Unterlagen geliefert. Stattdessen fordert er vollständige Kontaktdaten und eine Ausweiskopie, kündigt einen noch namenlosen Rechtsberater an und erklärt die Transaktion kurzerhand erst für „zu 100 %“, dann für „absolut“ legal. Den falschen Nachnamen erklärt er weiterhin nicht: Zunächst versichert er, nur mit Hugo zu sprechen, später sei die beanstandete Nachricht plötzlich gar nicht für Hugo bestimmt gewesen. Beeinträchtigen soll das die Transaktion natürlich trotzdem nicht. Auf Hugos Frage nach den konkret benötigten Angaben folgt nun lediglich eine Erinnerung, er solle sich möglichst schnell melden. Hugo hat ratlos geantwortet, aber weiterhin weder persönliche Daten noch Dokumente oder Geld übermittelt. Eine konkrete Gebühr wurde bislang nicht verlangt. Offen ist weiterhin, ob später Bankdaten, ein Konto auf der angeblichen Bankseite oder Zahlungen für die „Freigabe“ des Vermögens folgen.
 
 Der Kontakt bleibt damit dokumentarisch offen. Die „expliziten Compliance-Kriterien“ bestehen bisher vor allem darin, Hugos Identität in eine Datenbankgeschichte einzupassen. Von den 24 Millionen fehlt weiterhin jede überprüfbare Spur.
 

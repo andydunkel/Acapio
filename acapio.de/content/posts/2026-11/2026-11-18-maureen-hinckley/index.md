@@ -262,3 +262,42 @@ Um die Absender in Sicherheit zu wiegen, hat Hugo die 800 Euro **nur vermeintlic
 
 Zur Klarstellung: **Es wurde kein Geld überwiesen.** Der fingierte Beleg dient ausschließlich dazu, den weiteren Verlauf der Masche zu dokumentieren. Nun darf „Maureen“ erklären, warum die 550.000 Dollar trotz ihrer doppelten „100 % Garantie“ vermutlich noch immer nicht auf Hugos Konto auftauchen. 🙄
 
+---
+
+## Jetzt bitte noch den Personalausweis – „dringend“ natürlich 🪪🚨
+
+Nach dem vermeintlichen Überweisungsbeleg meldet sich „Maureen“ erneut. Die angebliche Zahlung ist noch nicht bestätigt, die restlichen 657 Euro bleiben aber selbstverständlich fest eingeplant. Und weil Geld allein offenbar nicht genügt, soll Hugo nun auch noch dringend einen Scan seines Personalausweises liefern:
+
+> Sehr geehrter Herr Hugo,
+>
+> ich werde Sie umgehend benachrichtigen, sobald die Zahlung in Höhe von 800 Euro bestätigt wurde. Bitte vergessen Sie zudem nicht, den Restbetrag von 657 Euro zu überweisen, sobald Ihr Gehalt eingegangen ist – also Anfang Dezember, wie von Ihnen zugesagt.
+>
+> Dringend: Bitte lassen Sie mir einen Scan Ihres Personalausweises zukommen.
+>
+> Ich freue mich darauf, bald von Ihnen zu hören.
+>
+> Mit freundlichen Grüßen,
+>
+> Frau Maureen Hinckley.
+
+Ein plausibler Grund für den Ausweis-Scan fehlt komplett. Für den angeblichen Empfang einer Spende wäre er hier auch keine harmlose Formalität, sondern ein weiteres wertvolles Datenpaket. Die Polizei warnt ausdrücklich davor, Ausweispapiere per E-Mail an Unbekannte zu senden: Die Daten können für Identitätsmissbrauch, Vertragsabschlüsse oder weitere Betrugsversuche verwendet werden. Wer einem Scammer bereits eine Ausweiskopie geschickt hat und konkrete Hinweise auf einen Missbrauch erkennt, sollte [Strafanzeige bei der Polizei erstatten](https://www.polizei-beratung.de/themen-und-tipps/betrug/scamming/).
+
+### Die 800 Euro sind plötzlich im digitalen Bermuda-Dreieck 💸🔺
+
+Kurz darauf folgt noch eine Nachricht. Im Original steht darin Hugos vollständiger Alias; den Nachnamen haben wir aus dem durchsuchbaren Artikeltext entfernt:
+
+> Hallo Hugo [Nachname entfernt], könnten Sie bitte überprüfen, ob die Zahlung in Höhe von 800 Euro auf Ihr Konto zurückerstattet wurde? Die Zahlung konnte nämlich noch nicht bestätigt werden. Vielen Dank.
+
+Die Formulierung ist bemerkenswert: Zuerst soll Hugo auf die Bestätigung der Zahlung warten, dann soll er prüfen, ob sie zurückerstattet wurde. Belegt ist weder das eine noch das andere. Naheliegend ist, dass „Maureen“ damit die Bühne für eine weitere Zahlungsaufforderung oder andere Kontodaten vorbereitet. Sicher ist bislang nur: **Hugo hat keine 800 Euro überwiesen**, also kann auf seinem Konto auch keine echte Rückerstattung dieser Zahlung auftauchen.
+
+### Hugos Antwort: Morgen geht es ohnehin in die Stadt 🏦
+
+Hugo bleibt hilfsbereit und will die angebliche Rückerstattung direkt bei seiner Bank prüfen. Auf die Forderung nach dem Ausweis-Scan geht er vorsichtshalber gar nicht erst ein:
+
+> Hallo Frau Hinckley,
+>
+> ich werde das bei meiner Bank prüfen. Morgen muss ich sowieso in die Stadt, dann kann ich dort direkt nachfragen, ob die 800 Euro zurückerstattet wurden. Sobald ich mehr weiß, melde ich mich bei Ihnen.
+>
+> Viele Grüße  
+> Hugo
+
